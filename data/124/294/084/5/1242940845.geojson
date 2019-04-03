@@ -1,0 +1,72 @@
+{
+  "id": 1242940845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.2576,40.75724,48.2576,40.75724",
+    "geom:latitude":40.75724,
+    "geom:longitude":48.2576,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ikinci Yeniyol",
+    "gn:country_code":"AZ",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584657,
+    "gn:latitude":40.75724,
+    "gn:longitude":48.2576,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"\u0130kinci Yeniyol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yeniy\u00ebl Vtoroye",
+        "\u0130kinci Yeniyol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584657,
+        "wk:page":"%C4%B0kinci_Yeniyol"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6570ed9c76111e92cc5904fea688e367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242940845,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1242940845,
+    "wof:lastmodified":1537585313,
+    "wof:name":"Ikinci Yeniyol",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.2576,
+    40.75724,
+    48.2576,
+    40.75724
+],
+  "geometry": {"coordinates":[48.2576,40.75724],"type":"Point"}
+}

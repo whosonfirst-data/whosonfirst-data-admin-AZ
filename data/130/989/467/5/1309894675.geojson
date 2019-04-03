@@ -1,0 +1,71 @@
+{
+  "id": 1309894675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.34543,41.74776,46.34543,41.74776",
+    "geom:latitude":41.74776,
+    "geom:longitude":46.34543,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Poshtbina",
+    "gn:country_code":"AZ",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585245,
+    "gn:latitude":41.74776,
+    "gn:longitude":46.34543,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Poshtbina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Po\u015ftbin\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585245,
+        "wk:page":"Po%C5%9Ftbin%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e12dd5e61576032afeeb737373481b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309894675,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1309894675,
+    "wof:lastmodified":1537585352,
+    "wof:name":"Poshtbina",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.34543,
+    41.74776,
+    46.34543,
+    41.74776
+],
+  "geometry": {"coordinates":[46.34543,41.74776],"type":"Point"}
+}

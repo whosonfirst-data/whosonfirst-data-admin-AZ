@@ -1,0 +1,70 @@
+{
+  "id": 1209276877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.61414,40.53971,45.61414,40.53971",
+    "geom:latitude":40.53971,
+    "geom:longitude":45.61414,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Ariqiran",
+    "gn:country_code":"AZ",
+    "gn:dem":1434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587204,
+    "gn:latitude":40.53971,
+    "gn:longitude":45.61414,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Ar\u0131q\u0131ran",
+    "gn:population":2659,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anygyran",
+        "Arygyran",
+        "Ar\u0131q\u0131ran"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587204,
+        "wk:page":"Ar%C4%B1q%C4%B1ran"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f3db791b9f501d794c183014eca24ffb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209276877
+        }
+    ],
+    "wof:id":1209276877,
+    "wof:lastmodified":1537585489,
+    "wof:name":"Ariqiran",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:population":2659,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.61414,
+    40.53971,
+    45.61414,
+    40.53971
+],
+  "geometry": {"coordinates":[45.61414,40.53971],"type":"Point"}
+}

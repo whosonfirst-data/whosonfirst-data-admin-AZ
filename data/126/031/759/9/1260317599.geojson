@@ -1,0 +1,91 @@
+{
+  "id": 1260317599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.6525,39.68361,46.6525,39.68361",
+    "geom:latitude":39.68361,
+    "geom:longitude":46.6525,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Turssu",
+    "gn:country_code":"AZ",
+    "gn:dem":1832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147593,
+    "gn:latitude":39.68361,
+    "gn:longitude":46.6525,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Tur\u015fsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "L\u0131sogorsk Sovxozu"
+    ],
+    "name:aze_x_variant":[
+        "Tur\u015fsu"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u057d\u0561\u0563\u0578\u0580"
+    ],
+    "name:hye_x_variant":[
+        "Lisogorsk",
+        "\u053c\u056b\u057d\u0578\u0563\u0578\u0580\u057d\u056f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u0448\u0441\u0443"
+    ],
+    "name:und_x_variant":[
+        "Ttoudgour",
+        "Lisagor",
+        "Lysogorskiy Sovkhoz",
+        "Sovkhoz Lysogorskiy",
+        "Lysogorsk",
+        "Turshsu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668643,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147593
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4de549cde68747c3da570ebf1c45e98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260317599,
+            "macroregion_id":1108808615,
+            "region_id":85668643
+        }
+    ],
+    "wof:id":1260317599,
+    "wof:lastmodified":1537585189,
+    "wof:name":"Turssu",
+    "wof:parent_id":85668643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.6525,
+    39.68361,
+    46.6525,
+    39.68361
+],
+  "geometry": {"coordinates":[46.6525,39.68361],"type":"Point"}
+}

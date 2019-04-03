@@ -1,0 +1,68 @@
+{
+  "id": 1242743501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.85,40.4,45.85,40.4",
+    "geom:latitude":40.4,
+    "geom:longitude":45.85,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Gasan-Nana",
+    "gn:country_code":"AZ",
+    "gn:dem":1837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":586500,
+    "gn:latitude":40.4,
+    "gn:longitude":45.85,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Gasan-Nana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586500,
+        "wk:page":"Gasan-Nana"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9282d0e6d4061b70283340af35509df3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242743501,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1242743501,
+    "wof:lastmodified":1537486644,
+    "wof:name":"Gasan-Nana",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.85,
+    40.4,
+    45.85,
+    40.4
+],
+  "geometry": {"coordinates":[45.85,40.4],"type":"Point"}
+}

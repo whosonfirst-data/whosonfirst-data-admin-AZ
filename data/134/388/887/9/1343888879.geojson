@@ -1,0 +1,85 @@
+{
+  "id": 1343888879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.52838,39.42829,46.52838,39.42829",
+    "geom:latitude":39.42829,
+    "geom:longitude":46.52838,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Bala-Gasanly",
+    "gn:country_code":"AZ",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148394,
+    "gn:latitude":39.42829,
+    "gn:longitude":46.52838,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Bala-Gasanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Balah\u0259s\u0259nli"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u056c\u0561-\u0540\u0561\u057d\u0561\u0576\u056c\u056b"
+    ],
+    "name:hye_x_variant":[
+        "Bala-Hasanli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0430-\u0413\u0430\u0441\u0430\u043d\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bala-Gasanli",
+        "Bala-Gasanly",
+        "\u0411\u0430\u043b\u0430-\u0413\u0430\u0441\u0430\u043d\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148394,
+        "wk:page":"Bala_H%C9%99s%C9%99nli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7a4f04cf995afa802be415a233af0fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343888879,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1343888879,
+    "wof:lastmodified":1537585268,
+    "wof:name":"Bala-Gasanly",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.52838,
+    39.42829,
+    46.52838,
+    39.42829
+],
+  "geometry": {"coordinates":[46.52838,39.42829],"type":"Point"}
+}

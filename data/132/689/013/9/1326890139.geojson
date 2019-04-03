@@ -1,0 +1,70 @@
+{
+  "id": 1326890139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.71222,39.10069,48.71222,39.10069",
+    "geom:latitude":39.10069,
+    "geom:longitude":48.71222,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Mamedkhanly",
+    "gn:country_code":"AZ",
+    "gn:dem":-18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147567,
+    "gn:latitude":39.10069,
+    "gn:longitude":48.71222,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Mamedkhanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259mm\u0259dxanl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147567
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"17a46355ef97c4229542e48956b117c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326890139,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1326890139,
+    "wof:lastmodified":1537585186,
+    "wof:name":"Mamedkhanly",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.71222,
+    39.10069,
+    48.71222,
+    39.10069
+],
+  "geometry": {"coordinates":[48.71222,39.10069],"type":"Point"}
+}

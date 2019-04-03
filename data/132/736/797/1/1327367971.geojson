@@ -1,0 +1,80 @@
+{
+  "id": 1327367971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.81012,41.40399,48.81012,41.40399",
+    "geom:latitude":41.40399,
+    "geom:longitude":48.81012,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Gyulevlyu",
+    "gn:country_code":"AZ",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586398,
+    "gn:latitude":41.40399,
+    "gn:longitude":48.81012,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Gyulevlyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "H\u00fcl\u00f6vl\u00fc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u044e\u043b\u0435\u0432\u043b\u044e"
+    ],
+    "name:und_x_variant":[
+        "Gyulevle",
+        "Gyulevlyu",
+        "Gyulevli",
+        "H\u00fcl\u00f6vl\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586398,
+        "wk:page":"H%C3%BCl%C3%B6vl%C3%BC"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b90f2797c582f2b2acaa962463d73e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327367971,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1327367971,
+    "wof:lastmodified":1537585431,
+    "wof:name":"Gyulevlyu",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.81012,
+    41.40399,
+    48.81012,
+    41.40399
+],
+  "geometry": {"coordinates":[48.81012,41.40399],"type":"Point"}
+}

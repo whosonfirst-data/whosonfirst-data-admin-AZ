@@ -1,0 +1,80 @@
+{
+  "id": 1293425907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.35866,40.49712,46.35866,40.49712",
+    "geom:latitude":40.49712,
+    "geom:longitude":46.35866,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Mixaylovka",
+    "gn:country_code":"AZ",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824502,
+    "gn:latitude":40.49712,
+    "gn:longitude":46.35866,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Mixaylovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mixaylovka"
+    ],
+    "name:hye_x_preferred":[
+        "Getashen"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0565\u057f\u0561\u0577\u0565\u0576"
+    ],
+    "name:und_x_variant":[
+        "Mikhailovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824502,
+        "wk:page":"Mixaylovka"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"301606d5463d1faed73a5951821fe430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293425907,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1293425907,
+    "wof:lastmodified":1537585513,
+    "wof:name":"Mixaylovka",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.35866,
+    40.49712,
+    46.35866,
+    40.49712
+],
+  "geometry": {"coordinates":[46.35866,40.49712],"type":"Point"}
+}

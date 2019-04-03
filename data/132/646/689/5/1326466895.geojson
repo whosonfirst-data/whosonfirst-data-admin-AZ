@@ -1,0 +1,83 @@
+{
+  "id": 1326466895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.95677,40.41802,46.95677,40.41802",
+    "geom:latitude":40.41802,
+    "geom:longitude":46.95677,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Kengerly",
+    "gn:country_code":"AZ",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586035,
+    "gn:latitude":40.41802,
+    "gn:longitude":46.95677,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Kengerly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kengerli"
+    ],
+    "name:aze_x_variant":[
+        "K\u0259hg\u0259rli",
+        "K\u0259ng\u0259rli"
+    ],
+    "name:hye_x_preferred":[
+        "\u0554\u0565\u0576\u0563\u0565\u0580\u056c\u056b"
+    ],
+    "name:hye_x_variant":[
+        "K\u2019engerli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0433\u0435\u0440\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586035
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3966aa83a3e78635a8507eee8a432846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326466895,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1326466895,
+    "wof:lastmodified":1537585404,
+    "wof:name":"Kengerly",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.95677,
+    40.41802,
+    46.95677,
+    40.41802
+],
+  "geometry": {"coordinates":[46.95677,40.41802],"type":"Point"}
+}

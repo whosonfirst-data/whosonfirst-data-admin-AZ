@@ -1,0 +1,74 @@
+{
+  "id": 1277012911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.78671,41.50667,48.78671,41.50667",
+    "geom:latitude":41.50667,
+    "geom:longitude":48.78671,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Zaliyevka",
+    "gn:country_code":"AZ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824942,
+    "gn:latitude":41.50667,
+    "gn:longitude":48.78671,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Zaliyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u00fc\u015fviq"
+    ],
+    "name:aze_x_variant":[
+        "M\u00fc\u015ffiq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824942,
+        "wk:page":"M%C3%BC%C5%9Fviq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"70084e98d591f01f977a56b3b0dae866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277012911,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1277012911,
+    "wof:lastmodified":1537585514,
+    "wof:name":"Zaliyevka",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.78671,
+    41.50667,
+    48.78671,
+    41.50667
+],
+  "geometry": {"coordinates":[48.78671,41.50667],"type":"Point"}
+}

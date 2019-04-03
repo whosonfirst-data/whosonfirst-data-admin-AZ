@@ -1,0 +1,87 @@
+{
+  "id": 1226103505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.30806,39.72028,46.30806,39.72028",
+    "geom:latitude":39.72028,
+    "geom:longitude":46.30806,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Kamalli",
+    "gn:cc2":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":1875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147673,
+    "gn:latitude":39.72028,
+    "gn:longitude":46.30806,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Kamall\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kamall\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "K\u2019yamally"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0575\u0561\u0574\u0561\u056c\u056c\u0568",
+        "Ukhtadzor",
+        "\u0548\u0582\u056d\u057f\u0561\u0571\u0578\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044f\u043c\u0430\u043b\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kyumaty",
+        "Kyamally",
+        "\u041a\u044f\u043c\u0430\u043b\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147673
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d05ed8704c1f9114f8e452a2c242500b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226103505,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1226103505,
+    "wof:lastmodified":1537585196,
+    "wof:name":"Kamalli",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.30806,
+    39.72028,
+    46.30806,
+    39.72028
+],
+  "geometry": {"coordinates":[46.30806,39.72028],"type":"Point"}
+}

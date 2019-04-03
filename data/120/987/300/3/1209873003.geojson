@@ -1,0 +1,85 @@
+{
+  "id": 1209873003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.22093,40.13576,46.22093,40.13576",
+    "geom:latitude":40.13576,
+    "geom:longitude":46.22093,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Dzhomart",
+    "gn:country_code":"AZ",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586632,
+    "gn:latitude":40.13576,
+    "gn:longitude":46.22093,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Dzhomart",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Com\u01ddrd"
+    ],
+    "name:hye_x_preferred":[
+        "Chumen"
+    ],
+    "name:hye_x_variant":[
+        "\u0543\u0578\u0582\u0574\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u043e\u043c\u0430\u0440\u0442"
+    ],
+    "name:und_x_variant":[
+        "Dzhomard",
+        "Dzhomart",
+        "Com\u0259rd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586632,
+        "wk:page":"Com%C9%99rd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"20e6954552c0cdcf29b973247046be22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209873003,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1209873003,
+    "wof:lastmodified":1537585448,
+    "wof:name":"Dzhomart",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.22093,
+    40.13576,
+    46.22093,
+    40.13576
+],
+  "geometry": {"coordinates":[46.22093,40.13576],"type":"Point"}
+}

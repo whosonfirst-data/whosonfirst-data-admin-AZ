@@ -1,0 +1,72 @@
+{
+  "id": 1293323387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.78505,39.87161,48.78505,39.87161",
+    "geom:latitude":39.87161,
+    "geom:longitude":48.78505,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gadzhybabir",
+    "gn:country_code":"AZ",
+    "gn:dem":-21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148099,
+    "gn:latitude":39.87161,
+    "gn:longitude":48.78505,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Gadzhybabir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gadzhi-Babir",
+        "Hac\u0131b\u0259bir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148099,
+        "wk:page":"Hac%C4%B1b%C9%99bir"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cfc655af8da0a50ee15a7d1e3088ab2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293323387,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1293323387,
+    "wof:lastmodified":1537585239,
+    "wof:name":"Gadzhybabir",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.78505,
+    39.87161,
+    48.78505,
+    39.87161
+],
+  "geometry": {"coordinates":[48.78505,39.87161],"type":"Point"}
+}

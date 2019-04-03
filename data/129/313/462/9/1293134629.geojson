@@ -1,0 +1,73 @@
+{
+  "id": 1293134629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.33123,40.56101,46.33123,40.56101",
+    "geom:latitude":40.56101,
+    "geom:longitude":46.33123,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Xanlar",
+    "gn:country_code":"AZ",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8544342,
+    "gn:latitude":40.56101,
+    "gn:longitude":46.33123,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Xanlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xanlar"
+    ],
+    "name:und_x_variant":[
+        "Khanlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8544342
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3ae115f97ca32f1ae0a5272298e4aca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293134629,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1293134629,
+    "wof:lastmodified":1537585530,
+    "wof:name":"Xanlar",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.33123,
+    40.56101,
+    46.33123,
+    40.56101
+],
+  "geometry": {"coordinates":[46.33123,40.56101],"type":"Point"}
+}

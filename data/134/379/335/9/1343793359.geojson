@@ -1,0 +1,71 @@
+{
+  "id": 1343793359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.13621,40.91126,49.13621,40.91126",
+    "geom:latitude":40.91126,
+    "geom:longitude":49.13621,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Angelan",
+    "gn:country_code":"AZ",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587253,
+    "gn:latitude":40.91126,
+    "gn:longitude":49.13621,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Angelan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fng\u0259lan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668485,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587253,
+        "wk:page":"Angelan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3d1aa9a146411d16f4b5cc43be7d3494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343793359,
+            "macroregion_id":1108808621,
+            "region_id":85668485
+        }
+    ],
+    "wof:id":1343793359,
+    "wof:lastmodified":1537585493,
+    "wof:name":"Angelan",
+    "wof:parent_id":85668485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.13621,
+    40.91126,
+    49.13621,
+    40.91126
+],
+  "geometry": {"coordinates":[49.13621,40.91126],"type":"Point"}
+}

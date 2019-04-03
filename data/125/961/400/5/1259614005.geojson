@@ -1,0 +1,70 @@
+{
+  "id": 1259614005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.59616,40.78402,48.59616,40.78402",
+    "geom:latitude":40.78402,
+    "geom:longitude":48.59616,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Yusif Mamedkuliyev",
+    "gn:country_code":"AZ",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9887825,
+    "gn:latitude":40.78402,
+    "gn:longitude":48.59616,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Yusif Mamedkuliyev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yusif M\u0259mm\u0259d\u0259liyev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9887825
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f5fc0135c3361148e8d31b3203232bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259614005,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1259614005,
+    "wof:lastmodified":1537585542,
+    "wof:name":"Yusif Mamedkuliyev",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.59616,
+    40.78402,
+    48.59616,
+    40.78402
+],
+  "geometry": {"coordinates":[48.59616,40.78402],"type":"Point"}
+}

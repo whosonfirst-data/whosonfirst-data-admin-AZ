@@ -1,0 +1,70 @@
+{
+  "id": 1310381899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.32535,39.54207,48.32535,39.54207",
+    "geom:latitude":39.54207,
+    "geom:longitude":48.32535,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Samedabad",
+    "gn:country_code":"AZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389046,
+    "gn:latitude":39.54207,
+    "gn:longitude":48.32535,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Samedabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u0259m\u0259dabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668317,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389046
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2234af159584d1fca634e9bd985bf1e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310381899,
+            "macroregion_id":1108808627,
+            "region_id":85668317
+        }
+    ],
+    "wof:id":1310381899,
+    "wof:lastmodified":1537585292,
+    "wof:name":"Samedabad",
+    "wof:parent_id":85668317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.32535,
+    39.54207,
+    48.32535,
+    39.54207
+],
+  "geometry": {"coordinates":[48.32535,39.54207],"type":"Point"}
+}

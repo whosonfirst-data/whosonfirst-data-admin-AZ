@@ -1,0 +1,72 @@
+{
+  "id": 1259619969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.54752,40.71751,45.54752,40.71751",
+    "geom:latitude":40.71751,
+    "geom:longitude":45.54752,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Samliq",
+    "gn:country_code":"AZ",
+    "gn:dem":1519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585056,
+    "gn:latitude":40.71751,
+    "gn:longitude":45.54752,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"\u015eaml\u0131q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shamlykh",
+        "\u015eaml\u0131q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585056,
+        "wk:page":"%C5%9Eaml%C4%B1q"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fe0352693fbf7ff9a1d501676cf3fdbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259619969,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1259619969,
+    "wof:lastmodified":1537585340,
+    "wof:name":"Samliq",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.54752,
+    40.71751,
+    45.54752,
+    40.71751
+],
+  "geometry": {"coordinates":[45.54752,40.71751],"type":"Point"}
+}

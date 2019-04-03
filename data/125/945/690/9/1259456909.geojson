@@ -1,0 +1,70 @@
+{
+  "id": 1259456909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.8,40.61667,46.8,40.61667",
+    "geom:latitude":40.61667,
+    "geom:longitude":46.8,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kapanakchi",
+    "gn:country_code":"AZ",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":586252,
+    "gn:latitude":40.61667,
+    "gn:longitude":46.8,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kapanakchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "K\u0259p\u0259n\u0259k\u00e7i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586252
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0688a9b3845a44ca89d3d1a766e8d7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259456909,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1259456909,
+    "wof:lastmodified":1537585420,
+    "wof:name":"Kapanakchi",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.8,
+    40.61667,
+    46.8,
+    40.61667
+],
+  "geometry": {"coordinates":[46.8,40.61667],"type":"Point"}
+}

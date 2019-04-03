@@ -1,0 +1,75 @@
+{
+  "id": 1243425803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.44825,39.53479,48.44825,39.53479",
+    "geom:latitude":39.53479,
+    "geom:longitude":48.44825,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Novotroitskoye",
+    "gn:country_code":"AZ",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147397,
+    "gn:latitude":39.53479,
+    "gn:longitude":48.44825,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Novotroitskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "N\u0259simi"
+    ],
+    "name:und_x_variant":[
+        "Novotraitskoye",
+        "Novotroitskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668317,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147397,
+        "wk:page":"Novotroitskoye"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1196abc2a0498ac4689c17c9fef24de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243425803,
+            "macroregion_id":1108808627,
+            "region_id":85668317
+        }
+    ],
+    "wof:id":1243425803,
+    "wof:lastmodified":1537585169,
+    "wof:name":"Novotroitskoye",
+    "wof:parent_id":85668317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.44825,
+    39.53479,
+    48.44825,
+    39.53479
+],
+  "geometry": {"coordinates":[48.44825,39.53479],"type":"Point"}
+}

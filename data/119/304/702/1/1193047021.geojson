@@ -1,0 +1,78 @@
+{
+  "id": 1193047021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.64306,39.6875,46.64306,39.6875",
+    "geom:latitude":39.6875,
+    "geom:longitude":46.64306,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Turssu",
+    "gn:cc2":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":1691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":393875,
+    "gn:latitude":39.6875,
+    "gn:longitude":46.64306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tur\u015fsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Tur\u015fsu"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u057d\u0561\u0563\u0578\u0580"
+    ],
+    "name:und_x_variant":[
+        "Lisagor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668643,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":393875,
+        "wk:page":"Tur%C5%9Fsu%2C_Shusha"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2dfb6d0117b0dd854dea30314e01e595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193047021,
+            "macroregion_id":1108808615,
+            "region_id":85668643
+        }
+    ],
+    "wof:id":1193047021,
+    "wof:lastmodified":1537585296,
+    "wof:name":"Turssu",
+    "wof:parent_id":85668643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.64306,
+    39.6875,
+    46.64306,
+    39.6875
+],
+  "geometry": {"coordinates":[46.64306,39.6875],"type":"Point"}
+}

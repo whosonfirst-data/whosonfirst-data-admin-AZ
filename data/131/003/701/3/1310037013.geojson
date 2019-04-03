@@ -1,0 +1,79 @@
+{
+  "id": 1310037013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.97696,40.46971,46.97696,40.46971",
+    "geom:latitude":40.46971,
+    "geom:longitude":46.97696,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Namirli",
+    "gn:country_code":"AZ",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585393,
+    "gn:latitude":40.46971,
+    "gn:longitude":46.97696,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Namirli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Namirli"
+    ],
+    "name:aze_x_variant":[
+        "N\u0259mirli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043c\u0438\u0440\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Namarly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668243,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585393
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4d2a4443fd0daf47db9fbb43ace3213a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310037013,
+            "macroregion_id":1108808627,
+            "region_id":85668243
+        }
+    ],
+    "wof:id":1310037013,
+    "wof:lastmodified":1537585362,
+    "wof:name":"Namirli",
+    "wof:parent_id":85668243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.97696,
+    40.46971,
+    46.97696,
+    40.46971
+],
+  "geometry": {"coordinates":[46.97696,40.46971],"type":"Point"}
+}

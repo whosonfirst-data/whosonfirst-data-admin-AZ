@@ -1,0 +1,83 @@
+{
+  "id": 1260190187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.79959,40.03367,46.79959,40.03367",
+    "geom:latitude":40.03367,
+    "geom:longitude":46.79959,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cinli",
+    "gn:country_code":"AZ",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586638,
+    "gn:latitude":40.03367,
+    "gn:longitude":46.79959,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Cinli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Cinli"
+    ],
+    "name:hye_x_preferred":[
+        "Jinli"
+    ],
+    "name:hye_x_variant":[
+        "\u054b\u056b\u0576\u056c\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0438\u043d\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dzhinli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586638,
+        "wk:page":"Dzhinli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e1cd19ca654de4814751ab80c3f6d99d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260190187,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1260190187,
+    "wof:lastmodified":1537585448,
+    "wof:name":"Cinli",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.79959,
+    40.03367,
+    46.79959,
+    40.03367
+],
+  "geometry": {"coordinates":[46.79959,40.03367],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310039681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.16021,40.85291,46.16021,40.85291",
+    "geom:latitude":40.85291,
+    "geom:longitude":46.16021,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Mahmudlu",
+    "gn:country_code":"AZ",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824023,
+    "gn:latitude":40.85291,
+    "gn:longitude":46.16021,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Mahmudlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mahmudlu"
+    ],
+    "name:und_x_variant":[
+        "Makhmudlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824023
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0baf7acfc106fd4806e50db9a9ea42cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310039681,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1310039681,
+    "wof:lastmodified":1537585508,
+    "wof:name":"Mahmudlu",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.16021,
+    40.85291,
+    46.16021,
+    40.85291
+],
+  "geometry": {"coordinates":[46.16021,40.85291],"type":"Point"}
+}

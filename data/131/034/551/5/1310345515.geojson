@@ -1,0 +1,72 @@
+{
+  "id": 1310345515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.02285,39.56337,49.02285,39.56337",
+    "geom:latitude":39.56337,
+    "geom:longitude":49.02285,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Dzhangyan",
+    "gn:country_code":"AZ",
+    "gn:dem":-21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148146,
+    "gn:latitude":39.56337,
+    "gn:longitude":49.02285,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Dzhangyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhalyan-Sal\u2019yany",
+        "C\u0259ngan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668409,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148146,
+        "wk:page":"Dzhangyan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"36db685372feec267002d73e30a84bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310345515,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1310345515,
+    "wof:lastmodified":1537585244,
+    "wof:name":"Dzhangyan",
+    "wof:parent_id":85668409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.02285,
+    39.56337,
+    49.02285,
+    39.56337
+],
+  "geometry": {"coordinates":[49.02285,39.56337],"type":"Point"}
+}

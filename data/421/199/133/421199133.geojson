@@ -1,0 +1,112 @@
+{
+  "id": 421199133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.76223,38.76325,48.76223,38.76325",
+    "geom:latitude":38.76325,
+    "geom:longitude":48.76223,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Haftoni"
+    ],
+    "name:aze_x_variant":[
+        "Havtoni"
+    ],
+    "name:ceb_x_preferred":[
+        "Haftoni"
+    ],
+    "name:dut_x_preferred":[
+        "Haftoni"
+    ],
+    "name:eng_x_preferred":[
+        "Haftoni"
+    ],
+    "name:may_x_preferred":[
+        "Haftoni"
+    ],
+    "name:msa_x_preferred":[
+        "Haftoni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0444\u0442\u043e\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Haftoni"
+    ],
+    "name:unk_x_variant":[
+        "Haftoni"
+    ],
+    "qs:gn_country":"AZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":148088,
+    "qs:gn_pop":2003,
+    "qs:name":"Gaftoni",
+    "qs:name_adm0":"Azerbaijan",
+    "qs:name_adm1":"Lankaran",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":189501,
+    "qs:woe_adm0":23424741,
+    "qs:woe_id":1948825,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148088,
+        "gp:id":1948825,
+        "qs:id":189501,
+        "wd:id":"Q4134282",
+        "wk:page":"Haftoni"
+    },
+    "wof:country":"AZ",
+    "wof:created":1459009979,
+    "wof:geomhash":"833fd360d2686192c121cd2d731a54d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":421199133,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":421199133,
+    "wof:lastmodified":1527716409,
+    "wof:name":"Gaftoni",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:population":2003,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.76223,
+    38.76325,
+    48.76223,
+    38.76325
+],
+  "geometry": {"coordinates":[48.76223,38.76325],"type":"Point"}
+}

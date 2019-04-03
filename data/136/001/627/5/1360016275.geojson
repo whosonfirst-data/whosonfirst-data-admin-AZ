@@ -1,0 +1,74 @@
+{
+  "id": 1360016275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.34966,41.20018,48.34966,41.20018",
+    "geom:latitude":41.20018,
+    "geom:longitude":48.34966,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Yerguc",
+    "gn:country_code":"AZ",
+    "gn:dem":2145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586078,
+    "gn:latitude":41.20018,
+    "gn:longitude":48.34966,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Yerg\u00fcc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yerg\u00fcc"
+    ],
+    "name:und_x_variant":[
+        "Kazmabudug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586078,
+        "wk:page":"Kazmabudug"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"657dc58ad97046204c354ec7cc95fa88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360016275,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1360016275,
+    "wof:lastmodified":1537585407,
+    "wof:name":"Yerguc",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.34966,
+    41.20018,
+    48.34966,
+    41.20018
+],
+  "geometry": {"coordinates":[48.34966,41.20018],"type":"Point"}
+}

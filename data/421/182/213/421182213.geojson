@@ -1,0 +1,90 @@
+{
+  "id": 421182213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.85,40.43333,49.85,40.43333",
+    "geom:latitude":40.43333,
+    "geom:longitude":49.85,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Kirov"
+    ],
+    "name:aze_x_variant":[
+        "M.\u018f. R\u0259sulzad\u0259",
+        "M.\u018f. Rasulzad\u0259",
+        "R\u0259sulzad\u0259",
+        "M\u0259mm\u0259d \u018fmin R\u0259sulz\u0259d\u0259"
+    ],
+    "name:unk_x_variant":[
+        "Pos\u00eblok Imeni Kirova"
+    ],
+    "qs:gn_country":"AZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":585883,
+    "qs:gn_pop":0,
+    "qs:name":"Kirov",
+    "qs:name_adm0":"Azerbaijan",
+    "qs:name_adm1":"Baki",
+    "qs:photos":89,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":89,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894754,
+    "qs:woe_adm0":23424741,
+    "qs:woe_id":1949684,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":132,
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585883,
+        "gp:id":1949684,
+        "qs:id":894754,
+        "wd:id":"Q1414543"
+    },
+    "wof:country":"AZ",
+    "wof:created":1459009322,
+    "wof:geomhash":"33efb964012a643ee4ba8f4e77ac4b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":421182213,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":421182213,
+    "wof:lastmodified":1527726458,
+    "wof:name":"Kirov",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.85,
+    40.43333,
+    49.85,
+    40.43333
+],
+  "geometry": {"coordinates":[49.85,40.43333],"type":"Point"}
+}

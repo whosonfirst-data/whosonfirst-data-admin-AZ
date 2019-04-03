@@ -1,0 +1,79 @@
+{
+  "id": 1310442163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.71871,39.05882,46.71871,39.05882",
+    "geom:latitude":39.05882,
+    "geom:longitude":46.71871,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Kosakan",
+    "gn:country_code":"AZ",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8430293,
+    "gn:latitude":39.05882,
+    "gn:longitude":46.71871,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Kosakan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kosakan"
+    ],
+    "name:hye_x_preferred":[
+        "Kovsakan"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0578\u057e\u057d\u0561\u056f\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0430\u043a\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8430293
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7acc494632c8c99ba21e5eece780e31f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310442163,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1310442163,
+    "wof:lastmodified":1537585517,
+    "wof:name":"Kosakan",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.71871,
+    39.05882,
+    46.71871,
+    39.05882
+],
+  "geometry": {"coordinates":[46.71871,39.05882],"type":"Point"}
+}

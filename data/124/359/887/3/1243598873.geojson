@@ -1,0 +1,79 @@
+{
+  "id": 1243598873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.01844,38.9361,46.01844,38.9361",
+    "geom:latitude":38.9361,
+    "geom:longitude":46.01844,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147365.0",
+    "gn:asciiname":"Yukhary Andamich",
+    "gn:country_code":"AZ",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146943,
+    "gn:latitude":38.9361,
+    "gn:longitude":46.01844,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Yukhary Andamich",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 \u018fnd\u0259mic"
+    ],
+    "name:aze_x_variant":[
+        "Yuxar\u0131 \u018fnd\u0259mi\u00e7"
+    ],
+    "name:und_x_variant":[
+        "Yukhari Andamish",
+        "Yukhary Andamich",
+        "Yuxar\u0131 \u018fnd\u0259li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668665,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146943
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b8491710a12578ecb2da36e03be4e8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243598873,
+            "macroregion_id":1108808617,
+            "region_id":85668665
+        }
+    ],
+    "wof:id":1243598873,
+    "wof:lastmodified":1537585130,
+    "wof:name":"Yukhary Andamich",
+    "wof:parent_id":85668665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.01844000000001,
+    38.9361,
+    46.01844000000001,
+    38.9361
+],
+  "geometry": {"coordinates":[46.01844000000001,38.9361],"type":"Point"}
+}

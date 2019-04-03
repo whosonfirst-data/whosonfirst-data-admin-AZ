@@ -1,0 +1,73 @@
+{
+  "id": 1209607625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5615,40.61294,48.5615,40.61294",
+    "geom:latitude":40.61294,
+    "geom:longitude":48.5615,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Medrese",
+    "gn:country_code":"AZ",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585556,
+    "gn:latitude":40.61294,
+    "gn:longitude":48.5615,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Medrese",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "M\u01dddr\u01dds\u01dd"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0440\u0430\u0441\u0430"
+    ],
+    "name:und_x_variant":[
+        "Matrasa",
+        "Matrasy",
+        "M\u0259dr\u0259s\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585556,
+        "wk:page":"M%C9%99dr%C9%99s%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"23f0b1a1451c28f4249355128796a455",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209607625
+        }
+    ],
+    "wof:id":1209607625,
+    "wof:lastmodified":1537585373,
+    "wof:name":"Medrese",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5615,
+    40.61294,
+    48.5615,
+    40.61294
+],
+  "geometry": {"coordinates":[48.5615,40.61294],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209546457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.74743,40.19678,47.74743,40.19678",
+    "geom:latitude":40.19678,
+    "geom:longitude":47.74743,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Dekkyaoba",
+    "gn:country_code":"AZ",
+    "gn:dem":-7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586755,
+    "gn:latitude":40.19678,
+    "gn:longitude":47.74743,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Dekkyaoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u0259kk\u0259oba"
+    ],
+    "name:und_x_variant":[
+        "Bala-Dekkya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586755
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9281fa401b19976a85fedbeae84cd7a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209546457
+        }
+    ],
+    "wof:id":1209546457,
+    "wof:lastmodified":1537585456,
+    "wof:name":"Dekkyaoba",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.74743,
+    40.19678,
+    47.74743,
+    40.19678
+],
+  "geometry": {"coordinates":[47.74743,40.19678],"type":"Point"}
+}

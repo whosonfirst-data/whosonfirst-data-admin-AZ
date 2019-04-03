@@ -1,0 +1,74 @@
+{
+  "id": 1276732171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.17497,40.42061,46.17497,40.42061",
+    "geom:latitude":40.42061,
+    "geom:longitude":46.17497,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Zinzahal",
+    "gn:country_code":"AZ",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584564,
+    "gn:latitude":40.42061,
+    "gn:longitude":46.17497,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Zinzahal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zinzahal"
+    ],
+    "name:und_x_variant":[
+        "Zinzagal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584564,
+        "wk:page":"Zinzahal"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"237f111d045935b7d2f469e286a67fd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276732171,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1276732171,
+    "wof:lastmodified":1537585306,
+    "wof:name":"Zinzahal",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.17497,
+    40.42061,
+    46.17497,
+    40.42061
+],
+  "geometry": {"coordinates":[46.17497,40.42061],"type":"Point"}
+}

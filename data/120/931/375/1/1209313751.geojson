@@ -1,0 +1,67 @@
+{
+  "id": 1209313751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.19941,41.40552,45.19941,41.40552",
+    "geom:latitude":41.40552,
+    "geom:longitude":45.19941,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"V. I. Lenin Adina",
+    "gn:country_code":"AZ",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607451,
+    "gn:latitude":41.40552,
+    "gn:longitude":45.19941,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"V. I. Lenin Adina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u011fg\u00f6l"
+    ],
+    "name:aze_x_variant":[
+        "V. I. Lenin Adina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607451
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"94633bab2351cbc17c16533346a9bcee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209313751
+        }
+    ],
+    "wof:id":1209313751,
+    "wof:lastmodified":1537585534,
+    "wof:name":"V. I. Lenin Adina",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.19941,
+    41.40552,
+    45.19941,
+    41.40552
+],
+  "geometry": {"coordinates":[45.19941,41.40552],"type":"Point"}
+}

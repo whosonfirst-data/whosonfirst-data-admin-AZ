@@ -1,0 +1,70 @@
+{
+  "id": 1243449939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.75343,38.5703,48.75343,38.5703",
+    "geom:latitude":38.5703,
+    "geom:longitude":48.75343,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sipiyaelfatik",
+    "gn:country_code":"AZ",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472692,
+    "gn:latitude":38.5703,
+    "gn:longitude":48.75343,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Sipiyaelfatik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sipiya\u0259lf\u0259tik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472692
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d9898b9a6217f35a92d585cbec60c742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243449939,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1243449939,
+    "wof:lastmodified":1537585525,
+    "wof:name":"Sipiyaelfatik",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.75343,
+    38.5703,
+    48.75343,
+    38.5703
+],
+  "geometry": {"coordinates":[48.75343,38.5703],"type":"Point"}
+}

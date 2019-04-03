@@ -1,0 +1,68 @@
+{
+  "id": 1260238917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.06194,40.919,48.06194,40.919",
+    "geom:latitude":40.919,
+    "geom:longitude":48.06194,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Buynuz",
+    "gn:country_code":"AZ",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824959,
+    "gn:latitude":40.919,
+    "gn:longitude":48.06194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Buynuz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824959,
+        "wk:page":"Buynuz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"71d215a714deb453beafa401256ab3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260238917,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1260238917,
+    "wof:lastmodified":1537486687,
+    "wof:name":"Buynuz",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.06194,
+    40.919,
+    48.06194,
+    40.919
+],
+  "geometry": {"coordinates":[48.06194,40.919],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1310449105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.5575,39.61111,46.5575,39.61111",
+    "geom:latitude":39.61111,
+    "geom:longitude":46.5575,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Kyaravuz",
+    "gn:country_code":"AZ",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":147886,
+    "gn:latitude":39.61111,
+    "gn:longitude":46.5575,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kyaravuz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_preferred":[
+        "K\u0259r\u0259vuz"
+    ],
+    "name:aze_x_variant":[
+        "K\u0259ravuz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0432\u0430\u043b\u0438\u043d\u044b \u041a\u0430\u0440\u0430\u0432\u0443\u0437"
+    ],
+    "name:und_x_variant":[
+        "Karavuz",
+        "Razvaliny Karavuz",
+        "\u0420\u0430\u0437\u0432\u0430\u043b\u0438\u043d\u044b \u041a\u0430\u0440\u0430\u0432\u0443\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147886
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"06028dce93d3166e885eb61d44f578cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310449105,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1310449105,
+    "wof:lastmodified":1537585218,
+    "wof:name":"Kyaravuz",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.5575,
+    39.61111,
+    46.5575,
+    39.61111
+],
+  "geometry": {"coordinates":[46.5575,39.61111],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360116007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.95864,39.68832,48.95864,39.68832",
+    "geom:latitude":39.68832,
+    "geom:longitude":48.95864,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Piratman",
+    "gn:country_code":"AZ",
+    "gn:dem":-22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148023,
+    "gn:latitude":39.68832,
+    "gn:longitude":48.95864,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Piratman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parcha-Ganzhali",
+        "Gyandzhali",
+        "Piratman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668449,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148023
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5638d8e290f9ca59ce712b4620cbd759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360116007,
+            "macroregion_id":1108808627,
+            "region_id":85668449
+        }
+    ],
+    "wof:id":1360116007,
+    "wof:lastmodified":1537585232,
+    "wof:name":"Piratman",
+    "wof:parent_id":85668449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.95864,
+    39.68832,
+    48.95864,
+    39.68832
+],
+  "geometry": {"coordinates":[48.95864,39.68832],"type":"Point"}
+}

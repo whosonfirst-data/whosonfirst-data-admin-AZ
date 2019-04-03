@@ -1,0 +1,70 @@
+{
+  "id": 1209682889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.22131,40.21605,46.22131,40.21605",
+    "geom:latitude":40.21605,
+    "geom:longitude":46.22131,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Bagirsaq",
+    "gn:country_code":"AZ",
+    "gn:dem":1698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470102,
+    "gn:latitude":40.21605,
+    "gn:longitude":46.22131,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ba\u011f\u0131rsaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ba\u011f\u0131rsaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0433\u044b\u0440\u0441\u0430\u0433"
+    ],
+    "name:und_x_variant":[
+        "Bagyrsag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470102
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0cce6486ef11580c01195d64ec029343",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209682889
+        }
+    ],
+    "wof:id":1209682889,
+    "wof:lastmodified":1537585525,
+    "wof:name":"Bagirsaq",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.22131,
+    40.21605,
+    46.22131,
+    40.21605
+],
+  "geometry": {"coordinates":[46.22131,40.21605],"type":"Point"}
+}

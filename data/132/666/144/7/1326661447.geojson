@@ -1,0 +1,76 @@
+{
+  "id": 1326661447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.25111,40.38861,46.25111,40.38861",
+    "geom:latitude":40.38861,
+    "geom:longitude":46.25111,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Kyurdalilyar",
+    "gn:country_code":"AZ",
+    "gn:dem":1639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":585687,
+    "gn:latitude":40.38861,
+    "gn:longitude":46.25111,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kyurdalilyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_preferred":[
+        "Kyurdalilyar"
+    ],
+    "name:und_x_variant":[
+        "Kyurd-Alilar",
+        "Kyurdalylar",
+        "Razvaliny Kyurdalilyar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585687,
+        "wk:page":"Kyurdalilyar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a9d4aa505f3486ab0c75201c31fb0226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326661447,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1326661447,
+    "wof:lastmodified":1537585381,
+    "wof:name":"Kyurdalilyar",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.25111,
+    40.38861,
+    46.25111,
+    40.38861
+],
+  "geometry": {"coordinates":[46.25111,40.38861],"type":"Point"}
+}

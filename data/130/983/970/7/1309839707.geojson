@@ -1,0 +1,73 @@
+{
+  "id": 1309839707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.65141,41.43149,46.65141,41.43149",
+    "geom:latitude":41.43149,
+    "geom:longitude":46.65141,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Lahic",
+    "gn:country_code":"AZ",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585658,
+    "gn:latitude":41.43149,
+    "gn:longitude":46.65141,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Lah\u0131c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lagich",
+        "Laidzh",
+        "Lah\u0131c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668601,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585658,
+        "wk:page":"Lah%C4%B1c%2C_Zaqatala"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"788f136c0aa7bdb35be25030dc37d618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309839707,
+            "macroregion_id":1108808619,
+            "region_id":85668601
+        }
+    ],
+    "wof:id":1309839707,
+    "wof:lastmodified":1537585380,
+    "wof:name":"Lahic",
+    "wof:parent_id":85668601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.65141,
+    41.43149,
+    46.65141,
+    41.43149
+],
+  "geometry": {"coordinates":[46.65141,41.43149],"type":"Point"}
+}

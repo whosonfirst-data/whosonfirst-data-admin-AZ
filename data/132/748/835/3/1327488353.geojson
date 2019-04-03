@@ -1,0 +1,81 @@
+{
+  "id": 1327488353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.18574,40.06889,46.18574,40.06889",
+    "geom:latitude":40.06889,
+    "geom:longitude":46.18574,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Mozqaracanli",
+    "gn:country_code":"AZ",
+    "gn:dem":1735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586199,
+    "gn:latitude":40.06889,
+    "gn:longitude":46.18574,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Mozqara\u00e7anl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qara\u00e7anl\u0131"
+    ],
+    "name:aze_x_variant":[
+        "Mozqara\u00e7anl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0434\u0436\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Karachanly",
+        "Karadzhanly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586199,
+        "wk:page":"Qara%C3%A7anl%C4%B1%2C_Kalbajar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dd12464ce6b94036d5aa9ec99adb4f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327488353,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1327488353,
+    "wof:lastmodified":1537585416,
+    "wof:name":"Mozqaracanli",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.18574,
+    40.06889,
+    46.18574,
+    40.06889
+],
+  "geometry": {"coordinates":[46.18574,40.06889],"type":"Point"}
+}

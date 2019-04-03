@@ -1,0 +1,73 @@
+{
+  "id": 1260214657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.71925,40.23668,46.71925,40.23668",
+    "geom:latitude":40.23668,
+    "geom:longitude":46.71925,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Kaghankatoyk'",
+    "gn:country_code":"AZ",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8656042,
+    "gn:latitude":40.23668,
+    "gn:longitude":46.71925,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Kaghankatoyk\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Kaghankatoyk\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0561\u0572\u0561\u0576\u056f\u0561\u057f\u0578\u0582\u0575\u0584"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8656042
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"deb8af639364cf9b7b1c394f6d973303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260214657,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1260214657,
+    "wof:lastmodified":1537585538,
+    "wof:name":"Kaghankatoyk'",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.71925,
+    40.23668,
+    46.71925,
+    40.23668
+],
+  "geometry": {"coordinates":[46.71925,40.23668],"type":"Point"}
+}

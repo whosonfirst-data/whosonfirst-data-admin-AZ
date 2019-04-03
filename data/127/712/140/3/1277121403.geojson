@@ -1,0 +1,72 @@
+{
+  "id": 1277121403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.50451,39.39563,45.50451,39.39563",
+    "geom:latitude":39.39563,
+    "geom:longitude":45.50451,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147212.0",
+    "gn:asciiname":"Selesyuz",
+    "gn:country_code":"AZ",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147230,
+    "gn:latitude":39.39563,
+    "gn:longitude":45.50451,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Selesyuz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u0259l\u0259s\u00fcz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668683,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147230,
+        "wk:page":"S%C9%99l%C9%99s%C3%BCz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"32d8fcee231979037c1b41dfcfdbdca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277121403,
+            "macroregion_id":1108808617,
+            "region_id":85668683
+        }
+    ],
+    "wof:id":1277121403,
+    "wof:lastmodified":1537585156,
+    "wof:name":"Selesyuz",
+    "wof:parent_id":85668683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.50451,
+    39.39563,
+    45.50451,
+    39.39563
+],
+  "geometry": {"coordinates":[45.50451,39.39563],"type":"Point"}
+}

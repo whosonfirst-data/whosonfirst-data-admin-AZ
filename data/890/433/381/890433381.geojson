@@ -1,0 +1,108 @@
+{
+  "id": 890433381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.71639,40.53222,49.71639,40.53222",
+    "geom:latitude":40.53222,
+    "geom:longitude":49.71639,
+    "gn:country":"AZ",
+    "gn:fcode":"PPL",
+    "gn:pop":10173,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Saray"
+    ],
+    "name:dut_x_preferred":[
+        "Saray"
+    ],
+    "name:eng_x_preferred":[
+        "Saray"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10d0\u10d8"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03ac\u03b9"
+    ],
+    "name:ita_x_preferred":[
+        "Saray"
+    ],
+    "name:may_x_preferred":[
+        "Saray"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Saray"
+    ],
+    "name:swe_x_preferred":[
+        "Saray"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Sarai"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0631\u0627\u0626\u06d2\u060c \u0627\u0628\u0634\u06cc\u0631\u0648\u0646"
+    ],
+    "qs:name":"Saray",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":255,
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668251,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585145,
+        "gp:id":1951201,
+        "qs:id":125807,
+        "wd:id":"Q4120861",
+        "wk:page":"Saray"
+    },
+    "wof:country":"AZ",
+    "wof:created":1469051978,
+    "wof:geomhash":"9b76ac07e46803a1f5990066115e3e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":890433381,
+            "macroregion_id":1108808621,
+            "region_id":85668251
+        }
+    ],
+    "wof:id":890433381,
+    "wof:lastmodified":1553816395,
+    "wof:name":"Saray",
+    "wof:parent_id":85668251,
+    "wof:placetype":"locality",
+    "wof:population":10173,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.71639,
+    40.53222,
+    49.71639,
+    40.53222
+],
+  "geometry": {"coordinates":[49.71639,40.53222],"type":"Point"}
+}

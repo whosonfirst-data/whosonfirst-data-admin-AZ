@@ -1,0 +1,82 @@
+{
+  "id": 1209849419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.95384,40.3122,46.95384,40.3122",
+    "geom:latitude":40.3122,
+    "geom:longitude":46.95384,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Askipara",
+    "gn:country_code":"AZ",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587151,
+    "gn:latitude":40.3122,
+    "gn:longitude":46.95384,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Askipara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Askipara"
+    ],
+    "name:aze_x_variant":[
+        "\u018fskipara"
+    ],
+    "name:hye_x_preferred":[
+        "Voskepar"
+    ],
+    "name:hye_x_variant":[
+        "\u0548\u057d\u056f\u0565\u057a\u0561\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u043a\u0438\u043f\u0430\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587151
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"be678b857e72d6b38105e8f1f5a2ac91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209849419,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1209849419,
+    "wof:lastmodified":1537585484,
+    "wof:name":"Askipara",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.95384,
+    40.3122,
+    46.95384,
+    40.3122
+],
+  "geometry": {"coordinates":[46.95384,40.3122],"type":"Point"}
+}

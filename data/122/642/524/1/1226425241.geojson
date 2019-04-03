@@ -1,0 +1,70 @@
+{
+  "id": 1226425241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.49532,39.14148,48.49532,39.14148",
+    "geom:latitude":39.14148,
+    "geom:longitude":48.49532,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Dzhyunzeli",
+    "gn:country_code":"AZ",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442060,
+    "gn:latitude":39.14148,
+    "gn:longitude":48.49532,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Dzhyunzeli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7\u00fcnz\u0259li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442060
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"685f97571055c0b06084ed5e0ff820cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226425241,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1226425241,
+    "wof:lastmodified":1537585521,
+    "wof:name":"Dzhyunzeli",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.49532,
+    39.14148,
+    48.49532,
+    39.14148
+],
+  "geometry": {"coordinates":[48.49532,39.14148],"type":"Point"}
+}

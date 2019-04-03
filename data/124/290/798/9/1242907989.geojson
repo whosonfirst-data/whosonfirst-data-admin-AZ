@@ -1,0 +1,72 @@
+{
+  "id": 1242907989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7904,41.5975,48.7904,41.5975",
+    "geom:latitude":41.5975,
+    "geom:longitude":48.7904,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Nagioba",
+    "gn:country_code":"AZ",
+    "gn:dem":-7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585397,
+    "gn:latitude":41.5975,
+    "gn:longitude":48.7904,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Na\u011f\u0131oba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nagyoba",
+        "Na\u011f\u0131oba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585397,
+        "wk:page":"Na%C4%9F%C4%B1oba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a2eb5b3a177aba11888e7d657ba6d6eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242907989,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1242907989,
+    "wof:lastmodified":1537585362,
+    "wof:name":"Nagioba",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7904,
+    41.5975,
+    48.7904,
+    41.5975
+],
+  "geometry": {"coordinates":[48.7904,41.5975],"type":"Point"}
+}

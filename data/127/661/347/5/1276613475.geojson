@@ -1,0 +1,75 @@
+{
+  "id": 1276613475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.76577,39.10258,48.76577,39.10258",
+    "geom:latitude":39.10258,
+    "geom:longitude":48.76577,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Eminli",
+    "gn:country_code":"AZ",
+    "gn:dem":-24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148124,
+    "gn:latitude":39.10258,
+    "gn:longitude":48.76577,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Eminli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fminli"
+    ],
+    "name:und_x_variant":[
+        "Aminli",
+        "Emenny",
+        "Eminli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148124
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0cbe4e544135d25f48e99304d98f3ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276613475,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1276613475,
+    "wof:lastmodified":1537585241,
+    "wof:name":"Eminli",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.76577,
+    39.10258,
+    48.76577,
+    39.10258
+],
+  "geometry": {"coordinates":[48.76577,39.10258],"type":"Point"}
+}

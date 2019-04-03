@@ -1,0 +1,77 @@
+{
+  "id": 1343988229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.60975,39.30777,46.60975,39.30777",
+    "geom:latitude":39.30777,
+    "geom:longitude":46.60975,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Dondarli",
+    "gn:country_code":"AZ",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148187,
+    "gn:latitude":39.30777,
+    "gn:longitude":46.60975,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Dondarl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Dondarl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u0434\u0430\u0440\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Dondarly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148187,
+        "wk:page":"Dondarl%C4%B1%2C_Qubadli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e0887cfe6eb6c114202e5f0268a1b66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343988229,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1343988229,
+    "wof:lastmodified":1537585247,
+    "wof:name":"Dondarli",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.60975,
+    39.30777,
+    46.60975,
+    39.30777
+],
+  "geometry": {"coordinates":[46.60975,39.30777],"type":"Point"}
+}

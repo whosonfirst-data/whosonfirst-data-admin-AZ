@@ -1,0 +1,72 @@
+{
+  "id": 1343761179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.37148,41.16736,45.37148,41.16736",
+    "geom:latitude":41.16736,
+    "geom:longitude":45.37148,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kolayir",
+    "gn:country_code":"AZ",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824426,
+    "gn:latitude":41.16736,
+    "gn:longitude":45.37148,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Kolay\u0131r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolay\u0131r",
+        "Kolair"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668195,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824426,
+        "wk:page":"Kolay%C4%B1r%2C_Agstafa"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d9c5818155959ee5dbb3b0abffa3a179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343761179,
+            "macroregion_id":1108808609,
+            "region_id":85668195
+        }
+    ],
+    "wof:id":1343761179,
+    "wof:lastmodified":1537585512,
+    "wof:name":"Kolayir",
+    "wof:parent_id":85668195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.37148,
+    41.16736,
+    45.37148,
+    41.16736
+],
+  "geometry": {"coordinates":[45.37148,41.16736],"type":"Point"}
+}

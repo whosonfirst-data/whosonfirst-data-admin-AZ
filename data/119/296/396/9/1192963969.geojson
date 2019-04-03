@@ -1,0 +1,70 @@
+{
+  "id": 1192963969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.61167,39.02833,48.61167,39.02833",
+    "geom:latitude":39.02833,
+    "geom:longitude":48.61167,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Yegenkend",
+    "gn:country_code":"AZ",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146954,
+    "gn:latitude":39.02833,
+    "gn:longitude":48.61167,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yegenkend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yey\u0259nk\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146954
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f8cb74ea89420e4a174e345d75416f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1192963969,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1192963969,
+    "wof:lastmodified":1537585131,
+    "wof:name":"Yegenkend",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.61167,
+    39.02833,
+    48.61167,
+    39.02833
+],
+  "geometry": {"coordinates":[48.61167,39.02833],"type":"Point"}
+}

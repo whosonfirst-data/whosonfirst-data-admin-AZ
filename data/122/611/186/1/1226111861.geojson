@@ -1,0 +1,72 @@
+{
+  "id": 1226111861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.2245,40.42008,46.2245,40.42008",
+    "geom:latitude":40.42008,
+    "geom:longitude":46.2245,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Chyrakhly",
+    "gn:country_code":"AZ",
+    "gn:dem":1380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586812,
+    "gn:latitude":40.42008,
+    "gn:longitude":46.2245,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Chyrakhly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chyragly",
+        "Chirakhly",
+        "\u00c7\u0131raql\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586812
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4e8fccdaab7f686aaed01a93225c74d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226111861,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1226111861,
+    "wof:lastmodified":1537585460,
+    "wof:name":"Chyrakhly",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.2245,
+    40.42008,
+    46.2245,
+    40.42008
+],
+  "geometry": {"coordinates":[46.2245,40.42008],"type":"Point"}
+}

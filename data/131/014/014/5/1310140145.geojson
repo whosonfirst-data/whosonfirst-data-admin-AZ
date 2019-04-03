@@ -1,0 +1,75 @@
+{
+  "id": 1310140145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.66435,41.53869,48.66435,41.53869",
+    "geom:latitude":41.53869,
+    "geom:longitude":48.66435,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Yeni Sudur",
+    "gn:country_code":"AZ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584935,
+    "gn:latitude":41.53869,
+    "gn:longitude":48.66435,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Yeni Sudur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yeni Sudur"
+    ],
+    "name:und_x_variant":[
+        "Sudurkazma",
+        "Yeni Qazma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584935,
+        "wk:page":"Yeni_Qazma"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"13d503270345e16c153a490b7f5bfc09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310140145,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1310140145,
+    "wof:lastmodified":1537585331,
+    "wof:name":"Yeni Sudur",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.66435,
+    41.53869,
+    48.66435,
+    41.53869
+],
+  "geometry": {"coordinates":[48.66435,41.53869],"type":"Point"}
+}

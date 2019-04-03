@@ -1,0 +1,74 @@
+{
+  "id": 1293326323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.566,40.69522,45.566,40.69522",
+    "geom:latitude":40.69522,
+    "geom:longitude":45.566,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Chirkinli",
+    "gn:country_code":"AZ",
+    "gn:dem":1552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586853,
+    "gn:latitude":40.69522,
+    "gn:longitude":45.566,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Chirkinli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7e\u015fm\u0259l\u0131",
+        "Cheshmali",
+        "Chirkinli",
+        "\u00c7e\u015fm\u0259li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586853,
+        "wk:page":"%C3%87e%C5%9Fm%C9%99li%2C_Tovuz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d82f6ad44d30058c7394029fff3cd3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293326323,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1293326323,
+    "wof:lastmodified":1537585463,
+    "wof:name":"Chirkinli",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.566,
+    40.69522,
+    45.566,
+    40.69522
+],
+  "geometry": {"coordinates":[45.566,40.69522],"type":"Point"}
+}

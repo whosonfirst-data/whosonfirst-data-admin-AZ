@@ -1,0 +1,74 @@
+{
+  "id": 1309936947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1852,40.90583,46.1852,40.90583",
+    "geom:latitude":40.90583,
+    "geom:longitude":46.1852,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Kyur",
+    "gn:country_code":"AZ",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585694,
+    "gn:latitude":40.90583,
+    "gn:longitude":46.1852,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kyur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u044e\u0440"
+    ],
+    "name:und_x_variant":[
+        "K\u00fcr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585694,
+        "wk:page":"K%C3%BCr"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2540ae8effeaef640ad5530b1d756cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309936947,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1309936947,
+    "wof:lastmodified":1537585382,
+    "wof:name":"Kyur",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1852,
+    40.90583,
+    46.1852,
+    40.90583
+],
+  "geometry": {"coordinates":[46.1852,40.90583],"type":"Point"}
+}

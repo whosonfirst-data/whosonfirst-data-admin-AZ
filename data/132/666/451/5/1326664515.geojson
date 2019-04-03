@@ -1,0 +1,72 @@
+{
+  "id": 1326664515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.56749,41.78417,48.56749,41.78417",
+    "geom:latitude":41.78417,
+    "geom:longitude":48.56749,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Xanoba",
+    "gn:country_code":"AZ",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584573,
+    "gn:latitude":41.78417,
+    "gn:longitude":48.56749,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Xanoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xanoba"
+    ],
+    "name:und_x_variant":[
+        "Khanoba",
+        "Zeykhuroba",
+        "Zeyxuroba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584573,
+        "wk:page":"Zeyxuroba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"59d1f06c45e2fe51fd3da527941b6d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1326664515,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326664515,
+    "wof:lastmodified":1537585307,
+    "wof:name":"Xanoba",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.56749,
+    41.78417,
+    48.56749,
+    41.78417
+],
+  "geometry": {"coordinates":[48.56749,41.78417],"type":"Point"}
+}

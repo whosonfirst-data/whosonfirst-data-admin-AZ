@@ -1,0 +1,74 @@
+{
+  "id": 1226572555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.74778,40.35167,46.74778,40.35167",
+    "geom:latitude":40.35167,
+    "geom:longitude":46.74778,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Kakhrylyar",
+    "gn:country_code":"AZ",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":586291,
+    "gn:latitude":40.35167,
+    "gn:longitude":46.74778,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kakhrylyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_preferred":[
+        "Kakhrylyar"
+    ],
+    "name:und_x_variant":[
+        "Kakhrilar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586291,
+        "wk:page":"Kakhrylyar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3bf57d5fdec884fde03cabfdbe7dda69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226572555,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1226572555,
+    "wof:lastmodified":1537585423,
+    "wof:name":"Kakhrylyar",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.74778,
+    40.35167,
+    46.74778,
+    40.35167
+],
+  "geometry": {"coordinates":[46.74778,40.35167],"type":"Point"}
+}

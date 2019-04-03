@@ -1,0 +1,77 @@
+{
+  "id": 1360215415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.08072,41.10025,47.08072,41.10025",
+    "geom:latitude":41.10025,
+    "geom:longitude":47.08072,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Dashyuz",
+    "gn:country_code":"AZ",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586766,
+    "gn:latitude":41.10025,
+    "gn:longitude":47.08072,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Dashyuz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Da\u015f\u00fcz"
+    ],
+    "name:und_x_variant":[
+        "Dashgyuz",
+        "Dash-Uz",
+        "Dashyuz",
+        "Da\u015fy\u00fcz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586766,
+        "wk:page":"Da%C5%9Fy%C3%BCz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"564c2155b15909e44b507577dad942c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360215415,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1360215415,
+    "wof:lastmodified":1537585457,
+    "wof:name":"Dashyuz",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.08072,
+    41.10025,
+    47.08072,
+    41.10025
+],
+  "geometry": {"coordinates":[47.08072,41.10025],"type":"Point"}
+}

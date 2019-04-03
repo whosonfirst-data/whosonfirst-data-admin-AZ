@@ -1,0 +1,76 @@
+{
+  "id": 1310634551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.38896,39.98488,48.38896,39.98488",
+    "geom:latitude":39.98488,
+    "geom:longitude":48.38896,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Dallyar",
+    "gn:country_code":"AZ",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148242,
+    "gn:latitude":39.98488,
+    "gn:longitude":48.38896,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Dallyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u0259ll\u0259r"
+    ],
+    "name:und_x_variant":[
+        "Dalliar",
+        "Dallyar",
+        "D\u0259lil\u0259r",
+        "Dalilar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668433,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148242
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5906d9a962c2593ce1252dd79b7367b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310634551,
+            "macroregion_id":1108808627,
+            "region_id":85668433
+        }
+    ],
+    "wof:id":1310634551,
+    "wof:lastmodified":1537585253,
+    "wof:name":"Dallyar",
+    "wof:parent_id":85668433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.38896,
+    39.98488,
+    48.38896,
+    39.98488
+],
+  "geometry": {"coordinates":[48.38896,39.98488],"type":"Point"}
+}

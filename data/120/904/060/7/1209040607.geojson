@@ -1,0 +1,69 @@
+{
+  "id": 1209040607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.43487,38.91569,48.43487,38.91569",
+    "geom:latitude":38.91569,
+    "geom:longitude":48.43487,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Teskan",
+    "gn:country_code":"AZ",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147058,
+    "gn:latitude":38.91569,
+    "gn:longitude":48.43487,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Te\u015fkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Te\u015fkan"
+    ],
+    "name:und_x_variant":[
+        "Tashkyand",
+        "Teshkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147058,
+        "wk:page":"Te%C5%9Fkan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9f8928399e0ee068d03b5ca134f4f406",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209040607
+        }
+    ],
+    "wof:id":1209040607,
+    "wof:lastmodified":1537585140,
+    "wof:name":"Teskan",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.43487,
+    38.91569000000001,
+    48.43487,
+    38.91569000000001
+],
+  "geometry": {"coordinates":[48.43487,38.91569000000001],"type":"Point"}
+}

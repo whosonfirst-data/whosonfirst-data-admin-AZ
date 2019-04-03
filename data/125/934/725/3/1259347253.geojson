@@ -1,0 +1,80 @@
+{
+  "id": 1259347253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.71098,40.47925,46.71098,40.47925",
+    "geom:latitude":40.47925,
+    "geom:longitude":46.71098,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Shafibeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585092,
+    "gn:latitude":40.47925,
+    "gn:longitude":46.71098,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Shafibeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015e\u0259fib\u0259yli"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0586\u056b\u0562\u0565\u0575\u056c\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0444\u0438\u0431\u0435\u0439\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Shafibeili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585092,
+        "wk:page":"%C5%9E%C9%99fib%C9%99yli%2C_Goranboy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9cf4fa827269c8f22197b7106d601c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259347253,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1259347253,
+    "wof:lastmodified":1537585342,
+    "wof:name":"Shafibeyli",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.71098,
+    40.47925,
+    46.71098,
+    40.47925
+],
+  "geometry": {"coordinates":[46.71098,40.47925],"type":"Point"}
+}

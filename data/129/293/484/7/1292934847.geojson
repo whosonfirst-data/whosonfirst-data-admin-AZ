@@ -1,0 +1,67 @@
+{
+  "id": 1292934847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.98778,40.69861,46.98778,40.69861",
+    "geom:latitude":40.69861,
+    "geom:longitude":46.98778,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Bayramly",
+    "gn:country_code":"AZ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587021,
+    "gn:latitude":40.69861,
+    "gn:longitude":46.98778,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Bayramly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668243,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587021
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"55021a2cad7f3e9c438012597d6e3363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1292934847,
+            "macroregion_id":1108808627,
+            "region_id":85668243
+        }
+    ],
+    "wof:id":1292934847,
+    "wof:lastmodified":1537083781,
+    "wof:name":"Bayramly",
+    "wof:parent_id":85668243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.98778,
+    40.69861,
+    46.98778,
+    40.69861
+],
+  "geometry": {"coordinates":[46.98778,40.69861],"type":"Point"}
+}

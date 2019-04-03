@@ -1,0 +1,81 @@
+{
+  "id": 1226277205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.96528,39.585,46.96528,39.585",
+    "geom:latitude":39.585,
+    "geom:longitude":46.96528,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Tug",
+    "gn:cc2":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147039,
+    "gn:latitude":39.585,
+    "gn:longitude":46.96528,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Tu\u011f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Tu\u011f"
+    ],
+    "name:hye_x_preferred":[
+        "Togh"
+    ],
+    "name:hye_x_variant":[
+        "\u054f\u0578\u0572"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0433"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147039,
+        "wk:page":"Tu%C4%9F"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6c520fe7f16ae3761d2e508bef1d717d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226277205,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1226277205,
+    "wof:lastmodified":1537585139,
+    "wof:name":"Tug",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.96528,
+    39.585,
+    46.96528,
+    39.585
+],
+  "geometry": {"coordinates":[46.96528,39.585],"type":"Point"}
+}

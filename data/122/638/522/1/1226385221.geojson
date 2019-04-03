@@ -1,0 +1,78 @@
+{
+  "id": 1226385221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.77306,40.78778,47.77306,40.78778",
+    "geom:latitude":40.78778,
+    "geom:longitude":47.77306,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Bayramkoxali",
+    "gn:country_code":"AZ",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824056,
+    "gn:latitude":40.78778,
+    "gn:longitude":47.77306,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Bayramkoxal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bayramkoxal\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u0440\u0430\u043c\u043a\u043e\u0445\u0430\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Bayramkoxal\u0131",
+        "Bayramkokhaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824056,
+        "wk:page":"Bayramkoxal%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1da92ee32f4222441d15b02a59a374ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226385221,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1226385221,
+    "wof:lastmodified":1537585510,
+    "wof:name":"Bayramkoxali",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.77306,
+    40.78778,
+    47.77306,
+    40.78778
+],
+  "geometry": {"coordinates":[47.77306,40.78778],"type":"Point"}
+}

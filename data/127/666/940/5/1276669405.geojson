@@ -1,0 +1,76 @@
+{
+  "id": 1276669405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.87934,40.13785,46.87934,40.13785",
+    "geom:latitude":40.13785,
+    "geom:longitude":46.87934,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sofulu",
+    "gn:country_code":"AZ",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824376,
+    "gn:latitude":40.13785,
+    "gn:longitude":46.87934,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Sofulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sofulu"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0586\u0578\u0582\u056c\u0578\u0582"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0444\u0443\u043b\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824376
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9445bbcd990af5bf3e0a317de44155f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276669405,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1276669405,
+    "wof:lastmodified":1537585512,
+    "wof:name":"Sofulu",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.87934,
+    40.13785,
+    46.87934,
+    40.13785
+],
+  "geometry": {"coordinates":[46.87934,40.13785],"type":"Point"}
+}

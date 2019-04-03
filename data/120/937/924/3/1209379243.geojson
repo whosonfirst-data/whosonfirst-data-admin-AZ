@@ -1,0 +1,66 @@
+{
+  "id": 1209379243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.68526,40.72886,46.68526,40.72886",
+    "geom:latitude":40.72886,
+    "geom:longitude":46.68526,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kyalyak",
+    "gn:country_code":"AZ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585731,
+    "gn:latitude":40.72886,
+    "gn:longitude":46.68526,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Kyalyak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kelek",
+        "K\u0259l\u0259k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585731,
+        "wk:page":"K%C9%99l%C9%99k"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"56547b8a9037b880e54c9b61c6e26a34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209379243
+        }
+    ],
+    "wof:id":1209379243,
+    "wof:lastmodified":1537585384,
+    "wof:name":"Kyalyak",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.68526,
+    40.72886,
+    46.68526,
+    40.72886
+],
+  "geometry": {"coordinates":[46.68526,40.72886],"type":"Point"}
+}

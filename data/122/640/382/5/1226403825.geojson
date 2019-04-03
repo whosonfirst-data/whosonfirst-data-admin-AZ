@@ -1,0 +1,85 @@
+{
+  "id": 1226403825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.79056,39.59904,46.79056,39.59904",
+    "geom:latitude":39.59904,
+    "geom:longitude":46.79056,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Alican",
+    "gn:country_code":"AZ",
+    "gn:dem":1898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395617,
+    "gn:latitude":39.59904,
+    "gn:longitude":46.79056,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Al\u0131can",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Al\u0131can"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0568\u057b\u0561\u0576"
+    ],
+    "name:hye_x_variant":[
+        "Alyjan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044b\u0434\u0436\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Alydzhan",
+        "Alyjan",
+        "\u0410\u043b\u044b\u0434\u0436\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395617,
+        "wk:page":"Al%C4%B1can"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a44a83d3893082b9a14b61393987da90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226403825,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1226403825,
+    "wof:lastmodified":1537585299,
+    "wof:name":"Alican",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.79056,
+    39.59904,
+    46.79056,
+    39.59904
+],
+  "geometry": {"coordinates":[46.79056,39.59904],"type":"Point"}
+}

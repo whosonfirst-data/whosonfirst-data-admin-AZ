@@ -1,0 +1,83 @@
+{
+  "id": 1242956677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.7114,39.40755,46.7114,39.40755",
+    "geom:latitude":39.40755,
+    "geom:longitude":46.7114,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Cullu",
+    "gn:country_code":"AZ",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148256,
+    "gn:latitude":39.40755,
+    "gn:longitude":46.7114,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u00c7ullu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Chuleu"
+    ],
+    "name:hye_x_variant":[
+        "\u0549\u0578\u0582\u056c\u0567\u0578\u0582",
+        "T\u2019ovmasar",
+        "\u0539\u0578\u057e\u0574\u0561\u057d\u0561\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043b\u043b\u0443"
+    ],
+    "name:und_x_variant":[
+        "Chullu",
+        "Chullu-Dary-Dag",
+        "\u00c7ullu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148256
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3391adf439a8358a8ece7105b6379c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242956677,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1242956677,
+    "wof:lastmodified":1537585255,
+    "wof:name":"Cullu",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.7114,
+    39.40755,
+    46.7114,
+    39.40755
+],
+  "geometry": {"coordinates":[46.7114,39.40755],"type":"Point"}
+}

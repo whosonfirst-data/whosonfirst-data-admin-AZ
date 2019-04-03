@@ -1,0 +1,62 @@
+{
+  "id": 1209547163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.77006,40.93344,45.77006,40.93344",
+    "geom:latitude":40.93344,
+    "geom:longitude":45.77006,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Namazlar",
+    "gn:country_code":"AZ",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585395,
+    "gn:latitude":40.93344,
+    "gn:longitude":45.77006,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Namazlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585395,
+        "wk:page":"Namazlar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"70cd45cce08c192a6b984458a5780995",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209547163
+        }
+    ],
+    "wof:id":1209547163,
+    "wof:lastmodified":1537486609,
+    "wof:name":"Namazlar",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.77006,
+    40.93344,
+    45.77006,
+    40.93344
+],
+  "geometry": {"coordinates":[45.77006,40.93344],"type":"Point"}
+}

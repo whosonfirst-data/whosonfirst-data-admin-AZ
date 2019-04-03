@@ -1,0 +1,76 @@
+{
+  "id": 1310042343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.6803,40.8432,45.6803,40.8432",
+    "geom:latitude":40.8432,
+    "geom:longitude":45.6803,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Yaniqli",
+    "gn:country_code":"AZ",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584704,
+    "gn:latitude":40.8432,
+    "gn:longitude":45.6803,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Yan\u0131ql\u0131",
+    "gn:population":2395,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yanykhly",
+        "Yan\u0131ql\u0131",
+        "Vezirly"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584704,
+        "wk:page":"Yan%C4%B1ql%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"324176082972df4e403c36550840aae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310042343,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1310042343,
+    "wof:lastmodified":1537585316,
+    "wof:name":"Yaniqli",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:population":2395,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.6803,
+    40.8432,
+    45.6803,
+    40.8432
+],
+  "geometry": {"coordinates":[45.6803,40.8432],"type":"Point"}
+}

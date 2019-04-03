@@ -1,0 +1,77 @@
+{
+  "id": 1226101787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.57593,39.04933,48.57593,39.04933",
+    "geom:latitude":39.04933,
+    "geom:longitude":48.57593,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Gyulu-Tapa",
+    "gn:country_code":"AZ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148016,
+    "gn:latitude":39.04933,
+    "gn:longitude":48.57593,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Gyulu-Tapa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u00fcll\u00fct\u0259p\u0259"
+    ],
+    "name:und_x_variant":[
+        "G\u00fcll\u00fct\u00e4p\u00e4",
+        "Gyulu-Tapa",
+        "Gyullyutepe",
+        "Q\u00fcll\u00fct\u0259p\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148016,
+        "wk:page":"G%C3%BCll%C3%BCt%C9%99p%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c6c833b009e0274fd8847b28670098a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226101787,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1226101787,
+    "wof:lastmodified":1537585231,
+    "wof:name":"Gyulu-Tapa",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.57593,
+    39.04933,
+    48.57593,
+    39.04933
+],
+  "geometry": {"coordinates":[48.57593,39.04933],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327205623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8335,41.21076,48.8335,41.21076",
+    "geom:latitude":41.21076,
+    "geom:longitude":48.8335,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Mumlu",
+    "gn:country_code":"AZ",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8422851,
+    "gn:latitude":41.21076,
+    "gn:longitude":48.8335,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Mumlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mumlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8422851,
+        "wk:page":"Mumlu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7a27ba260136425640c9a88c9fe86110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327205623,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1327205623,
+    "wof:lastmodified":1537585517,
+    "wof:name":"Mumlu",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8335,
+    41.21076,
+    48.8335,
+    41.21076
+],
+  "geometry": {"coordinates":[48.8335,41.21076],"type":"Point"}
+}

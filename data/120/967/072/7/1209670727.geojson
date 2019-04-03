@@ -1,0 +1,67 @@
+{
+  "id": 1209670727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.88159,40.68171,47.88159,40.68171",
+    "geom:latitude":40.68171,
+    "geom:longitude":47.88159,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Mollaisaqli",
+    "gn:country_code":"AZ",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585483,
+    "gn:latitude":40.68171,
+    "gn:longitude":47.88159,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Mollaisaql\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mollaisakly",
+        "Molla-Isakhly",
+        "Mollaisaql\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585483,
+        "wk:page":"Mollaisaql%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"81b1f093b73d7ee764389029db2f2c18",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209670727
+        }
+    ],
+    "wof:id":1209670727,
+    "wof:lastmodified":1537585368,
+    "wof:name":"Mollaisaqli",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.88159,
+    40.68171,
+    47.88159,
+    40.68171
+],
+  "geometry": {"coordinates":[47.88159,40.68171],"type":"Point"}
+}

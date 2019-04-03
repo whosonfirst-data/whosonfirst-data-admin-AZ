@@ -1,0 +1,73 @@
+{
+  "id": 1276264049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.94754,39.73957,46.94754,39.73957",
+    "geom:latitude":39.73957,
+    "geom:longitude":46.94754,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Peretes",
+    "gn:country_code":"AZ",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8655930,
+    "gn:latitude":39.73957,
+    "gn:longitude":46.94754,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Peretes",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Peretes"
+    ],
+    "name:hye_x_variant":[
+        "\u054a\u0565\u0580\u0565\u057f\u0565\u057d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8655930
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"05c99012f65ba2e2787771b1704f9182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276264049,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1276264049,
+    "wof:lastmodified":1537585538,
+    "wof:name":"Peretes",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.94754,
+    39.73957,
+    46.94754,
+    39.73957
+],
+  "geometry": {"coordinates":[46.94754,39.73957],"type":"Point"}
+}

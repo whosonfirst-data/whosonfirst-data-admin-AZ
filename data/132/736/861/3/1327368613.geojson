@@ -1,0 +1,71 @@
+{
+  "id": 1327368613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.39209,40.03034,48.39209,40.03034",
+    "geom:latitude":40.03034,
+    "geom:longitude":48.39209,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Askerbeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":-12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587153,
+    "gn:latitude":40.03034,
+    "gn:longitude":48.39209,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Askerbeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u018fsg\u0259rb\u0259yli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587153,
+        "wk:page":"%C6%8Fsg%C9%99rb%C9%99yli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"28bdbee4f328241df69cf3c4c6ff53c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327368613,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1327368613,
+    "wof:lastmodified":1537585484,
+    "wof:name":"Askerbeyli",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.39209,
+    40.03034,
+    48.39209,
+    40.03034
+],
+  "geometry": {"coordinates":[48.39209,40.03034],"type":"Point"}
+}

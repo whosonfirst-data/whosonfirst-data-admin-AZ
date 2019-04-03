@@ -1,0 +1,77 @@
+{
+  "id": 1225801401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.90458,40.23644,48.90458,40.23644",
+    "geom:latitude":40.23644,
+    "geom:longitude":48.90458,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Shorbanchi",
+    "gn:country_code":"AZ",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585009,
+    "gn:latitude":40.23644,
+    "gn:longitude":48.90458,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Shorbanchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015eorba\u00e7\u0131"
+    ],
+    "name:und_x_variant":[
+        "Shorbachy Vtoryye",
+        "Shorbachy Pervyye",
+        "Shorbachy",
+        "Shorbachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668293,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585009,
+        "wk:page":"Shorbachy_Vtoryye"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a2fe41bfdff9c0f73bcd77f7ce3c323e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225801401,
+            "macroregion_id":1108808627,
+            "region_id":85668293
+        }
+    ],
+    "wof:id":1225801401,
+    "wof:lastmodified":1537585337,
+    "wof:name":"Shorbanchi",
+    "wof:parent_id":85668293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.90458,
+    40.23644,
+    48.90458,
+    40.23644
+],
+  "geometry": {"coordinates":[48.90458,40.23644],"type":"Point"}
+}

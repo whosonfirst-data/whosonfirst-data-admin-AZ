@@ -1,0 +1,68 @@
+{
+  "id": 1293626013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.57394,41.7678,48.57394,41.7678",
+    "geom:latitude":41.7678,
+    "geom:longitude":48.57394,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Ortaoba",
+    "gn:country_code":"AZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585312,
+    "gn:latitude":41.7678,
+    "gn:longitude":48.57394,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ortaoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585312,
+        "wk:page":"Ortaoba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"13f24275e4b8bc5a58e66c36bb6e192c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293626013,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1293626013,
+    "wof:lastmodified":1537486606,
+    "wof:name":"Ortaoba",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.57394,
+    41.7678,
+    48.57394,
+    41.7678
+],
+  "geometry": {"coordinates":[48.57394,41.7678],"type":"Point"}
+}

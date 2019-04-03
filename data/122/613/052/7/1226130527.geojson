@@ -1,0 +1,71 @@
+{
+  "id": 1226130527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.03691,40.38469,47.03691,40.38469",
+    "geom:latitude":40.38469,
+    "geom:longitude":47.03691,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Yenidashkend",
+    "gn:country_code":"AZ",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824052,
+    "gn:latitude":40.38469,
+    "gn:longitude":47.03691,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Yenidashkend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yeni Da\u015fk\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824052,
+        "wk:page":"Yeni_Da%C5%9Fk%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9d3590ea3feaa82553ff686806fb875d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226130527,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1226130527,
+    "wof:lastmodified":1537585509,
+    "wof:name":"Yenidashkend",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.03691,
+    40.38469,
+    47.03691,
+    40.38469
+],
+  "geometry": {"coordinates":[47.03691,40.38469],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226571997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.9437,41.33223,46.9437,41.33223",
+    "geom:latitude":41.33223,
+    "geom:longitude":46.9437,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Birindzhi-Bilyadzhik",
+    "gn:country_code":"AZ",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586973,
+    "gn:latitude":41.33223,
+    "gn:longitude":46.9437,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Birindzhi-Bilyadzhik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bil\u0259cik"
+    ],
+    "name:und_x_variant":[
+        "Biledzhik Pervyy",
+        "Birindzhi-Baledzhik",
+        "Biledzhik Pervoye",
+        "Birindzhi-Bilyadzhik",
+        "Birinci Bil\u0259cik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586973,
+        "wk:page":"Birinci_Bil%C9%99cik"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d561e07a50c2c61958e0c75aeac0fd21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226571997,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1226571997,
+    "wof:lastmodified":1537585472,
+    "wof:name":"Birindzhi-Bilyadzhik",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.9437,
+    41.33223,
+    46.9437,
+    41.33223
+],
+  "geometry": {"coordinates":[46.9437,41.33223],"type":"Point"}
+}

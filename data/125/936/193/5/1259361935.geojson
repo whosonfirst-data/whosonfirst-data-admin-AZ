@@ -1,0 +1,76 @@
+{
+  "id": 1259361935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91164,39.44785,46.91164,39.44785",
+    "geom:latitude":39.44785,
+    "geom:longitude":46.91164,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Quscular",
+    "gn:country_code":"AZ",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11211262,
+    "gn:latitude":39.44785,
+    "gn:longitude":46.91164,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Qu\u015f\u00e7ular",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_preferred":[
+        "Qu\u015f\u00e7ular"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0448\u0447\u0443\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Kushchular"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11211262
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c0dbc004b1fa37f1d518501f115fcf5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259361935,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1259361935,
+    "wof:lastmodified":1537585544,
+    "wof:name":"Quscular",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91164000000001,
+    39.44785,
+    46.91164000000001,
+    39.44785
+],
+  "geometry": {"coordinates":[46.91164000000001,39.44785],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310440519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.57402,41.72361,48.57402,41.72361",
+    "geom:latitude":41.72361,
+    "geom:longitude":48.57402,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Gilahoba",
+    "gn:country_code":"AZ",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586051,
+    "gn:latitude":41.72361,
+    "gn:longitude":48.57402,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Gilahoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kelakhoba",
+        "Gilahoba",
+        "Gilakhoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586051,
+        "wk:page":"Gilahoba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8a4691ff0733d5e17e90ac47cf2ce60f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310440519,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1310440519,
+    "wof:lastmodified":1537585405,
+    "wof:name":"Gilahoba",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.57402,
+    41.72361,
+    48.57402,
+    41.72361
+],
+  "geometry": {"coordinates":[48.57402,41.72361],"type":"Point"}
+}

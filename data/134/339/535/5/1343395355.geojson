@@ -1,0 +1,74 @@
+{
+  "id": 1343395355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.65274,41.35614,48.65274,41.35614",
+    "geom:latitude":41.35614,
+    "geom:longitude":48.65274,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Qaracay",
+    "gn:country_code":"AZ",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622021,
+    "gn:latitude":41.35614,
+    "gn:longitude":48.65274,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Qara\u00e7ay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qara\u00e7ay"
+    ],
+    "name:und_x_variant":[
+        "Karachay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622021,
+        "wk:page":"Qara%C3%A7ay"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2df0ed7a13d7608c29687461538019b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343395355,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1343395355,
+    "wof:lastmodified":1537585536,
+    "wof:name":"Qaracay",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.65274,
+    41.35614,
+    48.65274,
+    41.35614
+],
+  "geometry": {"coordinates":[48.65274,41.35614],"type":"Point"}
+}

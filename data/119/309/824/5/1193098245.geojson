@@ -1,0 +1,71 @@
+{
+  "id": 1193098245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.74311,38.82575,48.74311,38.82575",
+    "geom:latitude":38.82575,
+    "geom:longitude":48.74311,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Vilvan",
+    "gn:country_code":"AZ",
+    "gn:dem":-8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146978,
+    "gn:latitude":38.82575,
+    "gn:longitude":48.74311,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Vilvan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Vil\u2019van"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146978,
+        "wk:page":"Vilvan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a57719fbb7d887ee2f4802dad4650b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193098245,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1193098245,
+    "wof:lastmodified":1537585133,
+    "wof:name":"Vilvan",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.74311,
+    38.82575,
+    48.74311,
+    38.82575
+],
+  "geometry": {"coordinates":[48.74311,38.82575],"type":"Point"}
+}

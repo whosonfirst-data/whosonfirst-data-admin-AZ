@@ -1,0 +1,81 @@
+{
+  "id": 1259914425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.39591,39.43406,46.39591,39.43406",
+    "geom:latitude":39.43406,
+    "geom:longitude":46.39591,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Eyvazli",
+    "gn:country_code":"AZ",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394868,
+    "gn:latitude":39.43406,
+    "gn:longitude":46.39591,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"Eyvazl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Eyvazl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u0575\u057e\u0561\u0566\u056c\u0568"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0439\u0432\u0430\u0437\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Eyvazly",
+        "\u042d\u0439\u0432\u0430\u0437\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394868,
+        "wk:page":"Eyvazl%C4%B1%2C_Qubadli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5047fd1022db0305e454d768c13642b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259914425,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1259914425,
+    "wof:lastmodified":1537585298,
+    "wof:name":"Eyvazli",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.39591,
+    39.43406,
+    46.39591,
+    39.43406
+],
+  "geometry": {"coordinates":[46.39591,39.43406],"type":"Point"}
+}

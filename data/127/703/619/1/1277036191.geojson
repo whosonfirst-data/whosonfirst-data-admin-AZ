@@ -1,0 +1,88 @@
+{
+  "id": 1277036191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.61395,39.57732,46.61395,39.57732",
+    "geom:latitude":39.57732,
+    "geom:longitude":46.61395,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Mygydere",
+    "gn:country_code":"AZ",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147447,
+    "gn:latitude":39.57732,
+    "gn:longitude":46.61395,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Mygydere",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0131\u011f\u0131d\u0259r\u0259"
+    ],
+    "name:hye_x_preferred":[
+        "Maghdere"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0561\u0572\u0564\u0565\u0580\u0565",
+        "Meghvadzor",
+        "\u0544\u0565\u0572\u057e\u0561\u0571\u0578\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0433\u044b\u0434\u0435\u0440\u0435"
+    ],
+    "name:und_x_variant":[
+        "Mygydara",
+        "Magydere",
+        "Mygydere",
+        "\u041c\u0430\u0433\u044b\u0434\u0435\u0440\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147447,
+        "wk:page":"M%C4%B1%C4%9F%C4%B1d%C9%99r%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a2077bb67c6fa1f525046bfdc0ccb65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277036191,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1277036191,
+    "wof:lastmodified":1537585174,
+    "wof:name":"Mygydere",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.61395,
+    39.57732,
+    46.61395,
+    39.57732
+],
+  "geometry": {"coordinates":[46.61395,39.57732],"type":"Point"}
+}

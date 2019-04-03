@@ -1,0 +1,74 @@
+{
+  "id": 1310543627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.08021,41.07394,45.08021,41.07394",
+    "geom:latitude":41.07394,
+    "geom:longitude":45.08021,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Ashagy Eskipara",
+    "gn:country_code":"AZ",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587192,
+    "gn:latitude":41.07394,
+    "gn:longitude":45.08021,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Ashagy Eskipara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ashagy Aksinara",
+        "Ashagy Eskipara",
+        "Ashagy Askipara",
+        "A\u015fa\u011f\u0131 \u018fskipara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668229,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587192,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_%C6%8Fskipara"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d9cb063df784d00134768f05b41cd0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310543627,
+            "macroregion_id":1108808609,
+            "region_id":85668229
+        }
+    ],
+    "wof:id":1310543627,
+    "wof:lastmodified":1537585488,
+    "wof:name":"Ashagy Eskipara",
+    "wof:parent_id":85668229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.08021,
+    41.07394,
+    45.08021,
+    41.07394
+],
+  "geometry": {"coordinates":[45.08021,41.07394],"type":"Point"}
+}

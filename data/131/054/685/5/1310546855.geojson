@@ -1,0 +1,74 @@
+{
+  "id": 1310546855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.74678,39.07769,48.74678,39.07769",
+    "geom:latitude":39.07769,
+    "geom:longitude":48.74678,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Qargalig",
+    "gn:country_code":"AZ",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147880,
+    "gn:latitude":39.07769,
+    "gn:longitude":48.74678,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Qar\u011fal\u0131g",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qar\u011fal\u0131q"
+    ],
+    "name:und_x_variant":[
+        "Kargalyk",
+        "Qar\u011fal\u0131g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147880
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c624242806238c977645b9518d0518f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310546855,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1310546855,
+    "wof:lastmodified":1537585217,
+    "wof:name":"Qargalig",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.74678,
+    39.07769,
+    48.74678,
+    39.07769
+],
+  "geometry": {"coordinates":[48.74678,39.07769],"type":"Point"}
+}

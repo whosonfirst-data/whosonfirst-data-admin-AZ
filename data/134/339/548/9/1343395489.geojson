@@ -1,0 +1,71 @@
+{
+  "id": 1343395489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.94659,39.79161,48.94659,39.79161",
+    "geom:latitude":39.79161,
+    "geom:longitude":48.94659,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Kerimbeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":-20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147841,
+    "gn:latitude":39.79161,
+    "gn:longitude":48.94659,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Kerimbeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0259rimb\u0259yli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668449,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147841,
+        "wk:page":"K%C9%99rimb%C9%99yli%2C_Salyan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6c4a2fc77148bf9cfc764e719128ff15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343395489,
+            "macroregion_id":1108808627,
+            "region_id":85668449
+        }
+    ],
+    "wof:id":1343395489,
+    "wof:lastmodified":1537585213,
+    "wof:name":"Kerimbeyli",
+    "wof:parent_id":85668449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.94659,
+    39.79161,
+    48.94659,
+    39.79161
+],
+  "geometry": {"coordinates":[48.94659,39.79161],"type":"Point"}
+}

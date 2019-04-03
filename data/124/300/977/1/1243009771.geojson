@@ -1,0 +1,82 @@
+{
+  "id": 1243009771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.59764,39.74297,46.59764,39.74297",
+    "geom:latitude":39.74297,
+    "geom:longitude":46.59764,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Imamqulular",
+    "gn:country_code":"AZ",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412749,
+    "gn:latitude":39.74297,
+    "gn:longitude":46.59764,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"\u0130mamqulular",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130mamqulular"
+    ],
+    "name:hye_x_preferred":[
+        "Khalfashi"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0561\u056c\u0586\u0561\u0577\u056b"
+    ],
+    "name:und_x_variant":[
+        "Imamk\u2019ul",
+        "Imankuluklar",
+        "Imankouloular"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668643,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412749,
+        "wk:page":"%C4%B0mamqulular"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7fac841c8b41d30357654c1e59c9ca1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243009771,
+            "macroregion_id":1108808615,
+            "region_id":85668643
+        }
+    ],
+    "wof:id":1243009771,
+    "wof:lastmodified":1537585303,
+    "wof:name":"Imamqulular",
+    "wof:parent_id":85668643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.59764000000001,
+    39.74297,
+    46.59764000000001,
+    39.74297
+],
+  "geometry": {"coordinates":[46.59764000000001,39.74297],"type":"Point"}
+}

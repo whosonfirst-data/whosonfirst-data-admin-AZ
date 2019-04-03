@@ -1,0 +1,71 @@
+{
+  "id": 1309809629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.44089,40.65682,47.44089,40.65682",
+    "geom:latitude":40.65682,
+    "geom:longitude":47.44089,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ashagy Zeynaddin",
+    "gn:country_code":"AZ",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587157,
+    "gn:latitude":40.65682,
+    "gn:longitude":47.44089,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Ashagy Zeynaddin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131 Zeyn\u0259ddin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668259,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587157,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_Zeyn%C9%99ddin"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"419c46efbc1855df6a9c5e8b902da416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309809629,
+            "macroregion_id":1108808627,
+            "region_id":85668259
+        }
+    ],
+    "wof:id":1309809629,
+    "wof:lastmodified":1537585485,
+    "wof:name":"Ashagy Zeynaddin",
+    "wof:parent_id":85668259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.44089,
+    40.65682,
+    47.44089,
+    40.65682
+],
+  "geometry": {"coordinates":[47.44089,40.65682],"type":"Point"}
+}

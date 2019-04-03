@@ -1,0 +1,75 @@
+{
+  "id": 1343796613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.9836,40.95589,48.9836,40.95589",
+    "geom:latitude":40.95589,
+    "geom:longitude":48.9836,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Yanykhalayaz",
+    "gn:country_code":"AZ",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584705,
+    "gn:latitude":40.95589,
+    "gn:longitude":48.9836,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Yanykhalayaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yan\u0131q \u018fl\u0259z"
+    ],
+    "name:und_x_variant":[
+        "Ashaga Alyaz",
+        "Yanykhalayaz",
+        "Yan\u0131q Alayaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668425,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584705
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c9a94053b70f576b24c7cbbdbaac34bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343796613,
+            "macroregion_id":1108808623,
+            "region_id":85668425
+        }
+    ],
+    "wof:id":1343796613,
+    "wof:lastmodified":1537585316,
+    "wof:name":"Yanykhalayaz",
+    "wof:parent_id":85668425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.9836,
+    40.95589,
+    48.9836,
+    40.95589
+],
+  "geometry": {"coordinates":[48.9836,40.95589],"type":"Point"}
+}

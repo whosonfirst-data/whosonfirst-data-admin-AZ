@@ -1,0 +1,72 @@
+{
+  "id": 1327476535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9895,40.91908,47.9895,40.91908",
+    "geom:latitude":40.91908,
+    "geom:longitude":47.9895,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Bunud",
+    "gn:country_code":"AZ",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586933,
+    "gn:latitude":40.91908,
+    "gn:longitude":47.9895,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Bunud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bunut",
+        "Bunud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586933,
+        "wk:page":"Bunud"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3336c34890a06396398b739bc92638d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327476535,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1327476535,
+    "wof:lastmodified":1537585470,
+    "wof:name":"Bunud",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9895,
+    40.91908,
+    47.9895,
+    40.91908
+],
+  "geometry": {"coordinates":[47.9895,40.91908],"type":"Point"}
+}

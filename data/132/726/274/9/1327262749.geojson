@@ -1,0 +1,72 @@
+{
+  "id": 1327262749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7091,41.36579,48.7091,41.36579",
+    "geom:latitude":41.36579,
+    "geom:longitude":48.7091,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Mirzakyshlakh",
+    "gn:country_code":"AZ",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585502,
+    "gn:latitude":41.36579,
+    "gn:longitude":48.7091,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Mirzakyshlakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mirzakyshlak",
+        "Mirz\u0259q\u0131\u015flaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585502,
+        "wk:page":"Mirz%C9%99q%C4%B1%C5%9Flaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"83a5c656806f8a80ff24cfab6274797e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327262749,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1327262749,
+    "wof:lastmodified":1537585369,
+    "wof:name":"Mirzakyshlakh",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7091,
+    41.36579,
+    48.7091,
+    41.36579
+],
+  "geometry": {"coordinates":[48.7091,41.36579],"type":"Point"}
+}

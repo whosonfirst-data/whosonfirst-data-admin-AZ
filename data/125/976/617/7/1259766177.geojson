@@ -1,0 +1,68 @@
+{
+  "id": 1259766177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.27917,39.28194,48.27917,39.28194",
+    "geom:latitude":39.28194,
+    "geom:longitude":48.27917,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Taza-Abad",
+    "gn:country_code":"AZ",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389037,
+    "gn:latitude":39.28194,
+    "gn:longitude":48.27917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taza-Abad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389037,
+        "wk:page":"Taza-Abad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c6fa1b1a521c60e643d95c558646e7cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259766177,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1259766177,
+    "wof:lastmodified":1537486572,
+    "wof:name":"Taza-Abad",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.27917,
+    39.28194000000001,
+    48.27917,
+    39.28194000000001
+],
+  "geometry": {"coordinates":[48.27917,39.28194000000001],"type":"Point"}
+}

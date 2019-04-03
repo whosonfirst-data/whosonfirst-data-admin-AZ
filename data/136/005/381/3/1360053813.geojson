@@ -1,0 +1,80 @@
+{
+  "id": 1360053813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.0871,39.80806,48.0871,39.80806",
+    "geom:latitude":39.80806,
+    "geom:longitude":48.0871,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Kuybyshev",
+    "gn:country_code":"AZ",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147681,
+    "gn:latitude":39.80806,
+    "gn:longitude":48.0871,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Kuybyshev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00d6lc\u0259l\u0259r"
+    ],
+    "name:aze_x_variant":[
+        "Kuyb\u0131\u015fev"
+    ],
+    "name:und_x_variant":[
+        "\u00dclc\u00e4l\u00e4r",
+        "Kuybyshev",
+        "Ol\u2019dzhalyar",
+        "Olcalar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668365,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147681,
+        "wk:page":"%C3%96lc%C9%99l%C9%99r"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"426d5a38b9e011c55ceb8ff8dd2999c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360053813,
+            "macroregion_id":1108808627,
+            "region_id":85668365
+        }
+    ],
+    "wof:id":1360053813,
+    "wof:lastmodified":1537585197,
+    "wof:name":"Kuybyshev",
+    "wof:parent_id":85668365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.0871,
+    39.80806,
+    48.0871,
+    39.80806
+],
+  "geometry": {"coordinates":[48.0871,39.80806],"type":"Point"}
+}

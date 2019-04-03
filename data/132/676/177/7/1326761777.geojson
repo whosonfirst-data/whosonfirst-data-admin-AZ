@@ -1,0 +1,75 @@
+{
+  "id": 1326761777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.55919,40.72622,45.55919,40.72622",
+    "geom:latitude":40.72622,
+    "geom:longitude":45.55919,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Catax",
+    "gn:country_code":"AZ",
+    "gn:dem":1417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586880,
+    "gn:latitude":40.72622,
+    "gn:longitude":45.55919,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"\u00c7atax",
+    "gn:population":3189,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chatakh",
+        "\u00c7atax"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586880,
+        "wk:page":"%C3%87atax"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9ec2a7b9d22f201ed5d53679610c7b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326761777,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1326761777,
+    "wof:lastmodified":1537585466,
+    "wof:name":"Catax",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:population":3189,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.55919,
+    40.72622,
+    45.55919,
+    40.72622
+],
+  "geometry": {"coordinates":[45.55919,40.72622],"type":"Point"}
+}

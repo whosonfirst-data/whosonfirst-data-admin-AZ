@@ -1,0 +1,68 @@
+{
+  "id": 1209348453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.69574,41.39984,48.69574,41.39984",
+    "geom:latitude":41.39984,
+    "geom:longitude":48.69574,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Barli",
+    "gn:country_code":"AZ",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622018,
+    "gn:latitude":41.39984,
+    "gn:longitude":48.69574,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Barl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Barl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Barly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622018,
+        "wk:page":"Barl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8e04ebcd72170d786d7f51b5407e0291",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209348453
+        }
+    ],
+    "wof:id":1209348453,
+    "wof:lastmodified":1537585536,
+    "wof:name":"Barli",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.69574,
+    41.39984000000001,
+    48.69574,
+    41.39984000000001
+],
+  "geometry": {"coordinates":[48.69574,41.39984000000001],"type":"Point"}
+}

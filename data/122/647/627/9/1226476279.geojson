@@ -1,0 +1,71 @@
+{
+  "id": 1226476279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.52982,41.37869,48.52982,41.37869",
+    "geom:latitude":41.37869,
+    "geom:longitude":48.52982,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Mirzamamedkend",
+    "gn:country_code":"AZ",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585498,
+    "gn:latitude":41.37869,
+    "gn:longitude":48.52982,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Mirzamamedkend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mirz\u0259m\u0259mm\u0259dk\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585498,
+        "wk:page":"Mirz%C9%99m%C9%99mm%C9%99dk%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ac1087f4f5e8c9973164fe206acb9fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226476279,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1226476279,
+    "wof:lastmodified":1537585369,
+    "wof:name":"Mirzamamedkend",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.52982,
+    41.37869,
+    48.52982,
+    41.37869
+],
+  "geometry": {"coordinates":[48.52982,41.37869],"type":"Point"}
+}

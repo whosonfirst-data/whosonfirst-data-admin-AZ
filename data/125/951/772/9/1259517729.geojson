@@ -1,0 +1,78 @@
+{
+  "id": 1259517729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.50017,41.67741,48.50017,41.67741",
+    "geom:latitude":41.67741,
+    "geom:longitude":48.50017,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Mucugoba",
+    "gn:country_code":"AZ",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824923,
+    "gn:latitude":41.67741,
+    "gn:longitude":48.50017,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Mucu\u011foba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mucuqoba"
+    ],
+    "name:aze_x_variant":[
+        "Mucuq",
+        "Mucu\u011foba"
+    ],
+    "name:und_x_variant":[
+        "Mudzhuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824923,
+        "wk:page":"Mucuqoba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6c43a6acaba6411e8cf51be76de1d7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259517729,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1259517729,
+    "wof:lastmodified":1537585514,
+    "wof:name":"Mucugoba",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.50017,
+    41.67741,
+    48.50017,
+    41.67741
+],
+  "geometry": {"coordinates":[48.50017,41.67741],"type":"Point"}
+}

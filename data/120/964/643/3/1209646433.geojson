@@ -1,0 +1,62 @@
+{
+  "id": 1209646433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.23333,41.13333,47.23333,41.13333",
+    "geom:latitude":41.13333,
+    "geom:longitude":47.23333,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Kyshlag-Zeyzit",
+    "gn:country_code":"AZ",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585705,
+    "gn:latitude":41.13333,
+    "gn:longitude":47.23333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Kyshlag-Zeyzit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585705,
+        "wk:page":"Kyshlag-Zeyzit"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"556a8f810059839e42caa383b9869d4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209646433
+        }
+    ],
+    "wof:id":1209646433,
+    "wof:lastmodified":1537486619,
+    "wof:name":"Kyshlag-Zeyzit",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.23333,
+    41.13333,
+    47.23333,
+    41.13333
+],
+  "geometry": {"coordinates":[47.23333,41.13333],"type":"Point"}
+}

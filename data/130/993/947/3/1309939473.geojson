@@ -1,0 +1,70 @@
+{
+  "id": 1309939473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.74286,40.32925,47.74286,40.32925",
+    "geom:latitude":40.32925,
+    "geom:longitude":47.74286,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Melikumudlu",
+    "gn:country_code":"AZ",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8548827,
+    "gn:latitude":40.32925,
+    "gn:longitude":47.74286,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Melikumudlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259likumudlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668509,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8548827
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ec773a2a488f9b22478f7ac9d19c4111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309939473,
+            "macroregion_id":1108808627,
+            "region_id":85668509
+        }
+    ],
+    "wof:id":1309939473,
+    "wof:lastmodified":1537585530,
+    "wof:name":"Melikumudlu",
+    "wof:parent_id":85668509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.74286,
+    40.32925,
+    47.74286,
+    40.32925
+],
+  "geometry": {"coordinates":[47.74286,40.32925],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343798711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.70672,40.58597,48.70672,40.58597",
+    "geom:latitude":40.58597,
+    "geom:longitude":48.70672,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Sabir",
+    "gn:country_code":"AZ",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585188,
+    "gn:latitude":40.58597,
+    "gn:longitude":48.70672,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Sabir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sabir"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0431\u0438\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585188
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"08ffa70aa70e9f1b0b405433b690a448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343798711,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1343798711,
+    "wof:lastmodified":1537585348,
+    "wof:name":"Sabir",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.70672,
+    40.58597,
+    48.70672,
+    40.58597
+],
+  "geometry": {"coordinates":[48.70672,40.58597],"type":"Point"}
+}

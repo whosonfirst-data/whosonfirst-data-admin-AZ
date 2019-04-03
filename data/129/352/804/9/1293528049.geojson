@@ -1,0 +1,73 @@
+{
+  "id": 1293528049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.81975,40.86305,47.81975,40.86305",
+    "geom:latitude":40.86305,
+    "geom:longitude":47.81975,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Syrt-Yenidzhe",
+    "gn:country_code":"AZ",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584905,
+    "gn:latitude":40.86305,
+    "gn:longitude":47.81975,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Syrt-Yenidzhe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Syrt Yengidzha",
+        "Syrt-Yenidzhe",
+        "S\u0131rt Yenigic\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584905,
+        "wk:page":"S%C4%B1rt_Yenigic%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"74ad96ba66c2961120cf4d5743c0893b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293528049,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1293528049,
+    "wof:lastmodified":1537585330,
+    "wof:name":"Syrt-Yenidzhe",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.81975,
+    40.86305,
+    47.81975,
+    40.86305
+],
+  "geometry": {"coordinates":[47.81975,40.86305],"type":"Point"}
+}

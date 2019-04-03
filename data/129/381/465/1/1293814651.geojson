@@ -1,0 +1,72 @@
+{
+  "id": 1293814651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.35105,41.43396,48.35105,41.43396",
+    "geom:latitude":41.43396,
+    "geom:longitude":48.35105,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Xural",
+    "gn:country_code":"AZ",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585925,
+    "gn:latitude":41.43396,
+    "gn:longitude":48.35105,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Xur\u0259l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khurel\u2019",
+        "Xur\u0259l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585925,
+        "wk:page":"Xur%C9%99l"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d910c976368512f8d2b62432ea5cc31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293814651,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1293814651,
+    "wof:lastmodified":1537585396,
+    "wof:name":"Xural",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.35105,
+    41.43396,
+    48.35105,
+    41.43396
+],
+  "geometry": {"coordinates":[48.35105,41.43396],"type":"Point"}
+}

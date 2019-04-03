@@ -1,0 +1,73 @@
+{
+  "id": 1226178331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.19809,40.99677,49.19809,40.99677",
+    "geom:latitude":40.99677,
+    "geom:longitude":49.19809,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Besdam",
+    "gn:country_code":"AZ",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824022,
+    "gn:latitude":40.99677,
+    "gn:longitude":49.19809,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Be\u015fdam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0259\u015fdam",
+        "Be\u015fdam",
+        "Beshdam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668425,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824022,
+        "wk:page":"Be%C5%9Fdam"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"749236f6a5e80b61c6ab3ab0f18d5fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226178331,
+            "macroregion_id":1108808623,
+            "region_id":85668425
+        }
+    ],
+    "wof:id":1226178331,
+    "wof:lastmodified":1537585508,
+    "wof:name":"Besdam",
+    "wof:parent_id":85668425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.19809,
+    40.99677,
+    49.19809,
+    40.99677
+],
+  "geometry": {"coordinates":[49.19809,40.99677],"type":"Point"}
+}

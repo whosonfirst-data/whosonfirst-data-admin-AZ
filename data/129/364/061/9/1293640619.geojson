@@ -1,0 +1,71 @@
+{
+  "id": 1293640619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.7201,40.84761,47.7201,40.84761",
+    "geom:latitude":40.84761,
+    "geom:longitude":47.7201,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Samli",
+    "gn:country_code":"AZ",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585057,
+    "gn:latitude":40.84761,
+    "gn:longitude":47.7201,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"\u015eaml\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shamly",
+        "\u015eaml\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585057
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5c2867e76d85d721bc0ba6c51c8f45eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293640619,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1293640619,
+    "wof:lastmodified":1537585340,
+    "wof:name":"Samli",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.7201,
+    40.84761,
+    47.7201,
+    40.84761
+],
+  "geometry": {"coordinates":[47.7201,40.84761],"type":"Point"}
+}

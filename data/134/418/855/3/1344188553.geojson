@@ -1,0 +1,88 @@
+{
+  "id": 1344188553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.06923,39.55991,47.06923,39.55991",
+    "geom:latitude":39.55991,
+    "geom:longitude":47.06923,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Edilli",
+    "gn:country_code":"AZ",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148129,
+    "gn:latitude":39.55991,
+    "gn:longitude":47.06923,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Edilli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Edilli"
+    ],
+    "name:hye_x_preferred":[
+        "Ukhtadzoo"
+    ],
+    "name:hye_x_variant":[
+        "\u0548\u0552\u056d\u057f\u0561\u0571\u0578\u0578",
+        "Ukhtadzor",
+        "\u0548\u0582\u056d\u057f\u0561\u0571\u0578\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0434\u0438\u043b\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Iteletsik",
+        "Edilu",
+        "Edullu",
+        "Edillou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148129,
+        "wk:page":"Edilli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ed903882c622b6fc100b463fce79ebd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344188553,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1344188553,
+    "wof:lastmodified":1537585242,
+    "wof:name":"Edilli",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.06923,
+    39.55991,
+    47.06923,
+    39.55991
+],
+  "geometry": {"coordinates":[47.06923,39.55991],"type":"Point"}
+}

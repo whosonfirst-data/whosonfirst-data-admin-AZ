@@ -1,0 +1,76 @@
+{
+  "id": 1327262397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.79019,41.24633,46.79019,41.24633",
+    "geom:latitude":41.24633,
+    "geom:longitude":46.79019,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Qaradolaq",
+    "gn:country_code":"AZ",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8630737,
+    "gn:latitude":41.24633,
+    "gn:longitude":46.79019,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"Qaradolaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaradolaq"
+    ],
+    "name:aze_x_variant":[
+        "Kirovk\u0259nd"
+    ],
+    "name:und_x_variant":[
+        "Kirovkend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668557,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8630737
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cca1c914ccbf96690a3ec3f8cd1e6ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327262397,
+            "macroregion_id":1108808619,
+            "region_id":85668557
+        }
+    ],
+    "wof:id":1327262397,
+    "wof:lastmodified":1537585538,
+    "wof:name":"Qaradolaq",
+    "wof:parent_id":85668557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.79019,
+    41.24633,
+    46.79019,
+    41.24633
+],
+  "geometry": {"coordinates":[46.79019,41.24633],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226004371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.75554,39.06725,48.75554,39.06725",
+    "geom:latitude":39.06725,
+    "geom:longitude":48.75554,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Xallicali",
+    "gn:country_code":"AZ",
+    "gn:dem":-21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147815,
+    "gn:latitude":39.06725,
+    "gn:longitude":48.75554,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Xall\u0131cal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xall\u0131cal\u0131"
+    ],
+    "name:und_x_variant":[
+        "Khalydzhaly",
+        "Khallydzhaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147815,
+        "wk:page":"Xall%C4%B1cal%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2aef1a745899d199edb7cf308115a9f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226004371,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1226004371,
+    "wof:lastmodified":1537585211,
+    "wof:name":"Xallicali",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.75554,
+    39.06725,
+    48.75554,
+    39.06725
+],
+  "geometry": {"coordinates":[48.75554,39.06725],"type":"Point"}
+}

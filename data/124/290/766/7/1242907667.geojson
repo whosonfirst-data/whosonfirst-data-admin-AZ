@@ -1,0 +1,72 @@
+{
+  "id": 1242907667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.55546,41.60497,46.55546,41.60497",
+    "geom:latitude":41.60497,
+    "geom:longitude":46.55546,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Dardoqqaz",
+    "gn:country_code":"AZ",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586782,
+    "gn:latitude":41.60497,
+    "gn:longitude":46.55546,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Dardoqqaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dardokkaz",
+        "Dardoqqaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668601,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586782,
+        "wk:page":"Dardoqqaz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"84c879367345ef5d6d91b3ea4f9a7fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242907667,
+            "macroregion_id":1108808619,
+            "region_id":85668601
+        }
+    ],
+    "wof:id":1242907667,
+    "wof:lastmodified":1537585458,
+    "wof:name":"Dardoqqaz",
+    "wof:parent_id":85668601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.55546,
+    41.60497,
+    46.55546,
+    41.60497
+],
+  "geometry": {"coordinates":[46.55546,41.60497],"type":"Point"}
+}

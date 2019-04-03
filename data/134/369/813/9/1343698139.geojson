@@ -1,0 +1,81 @@
+{
+  "id": 1343698139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.47164,40.52789,46.47164,40.52789",
+    "geom:latitude":40.52789,
+    "geom:longitude":46.47164,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Dozular",
+    "gn:country_code":"AZ",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586711,
+    "gn:latitude":40.52789,
+    "gn:longitude":46.47164,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Dozular",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Dozular"
+    ],
+    "name:aze_x_variant":[
+        "Birgez"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0566\u0578\u0582\u056c\u0561\u0580"
+    ],
+    "name:und_x_variant":[
+        "Dosular",
+        "Birges"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586711,
+        "wk:page":"Dozular"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2f841a72bb5474e74a41f83668e96e4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343698139,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1343698139,
+    "wof:lastmodified":1537585453,
+    "wof:name":"Dozular",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.47164,
+    40.52789,
+    46.47164,
+    40.52789
+],
+  "geometry": {"coordinates":[46.47164,40.52789],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209269401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.14982,40.2541,46.14982,40.2541",
+    "geom:latitude":40.2541,
+    "geom:longitude":46.14982,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Babaslar",
+    "gn:country_code":"AZ",
+    "gn:dem":1949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587104,
+    "gn:latitude":40.2541,
+    "gn:longitude":46.14982,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Baba\u015flar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Baba\u015flar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431\u0430\u0448\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Babashlyar",
+        "Babashlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587104,
+        "wk:page":"Babashlar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9c918c6ade5c4cbd0c23302d4562a93a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209269401
+        }
+    ],
+    "wof:id":1209269401,
+    "wof:lastmodified":1537585481,
+    "wof:name":"Babaslar",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.14982,
+    40.2541,
+    46.14982,
+    40.2541
+],
+  "geometry": {"coordinates":[46.14982,40.2541],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226209523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.99997,40.11507,45.99997,40.11507",
+    "geom:latitude":40.11507,
+    "geom:longitude":45.99997,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Derekyshlak",
+    "gn:country_code":"AZ",
+    "gn:dem":1917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586741,
+    "gn:latitude":40.11507,
+    "gn:longitude":45.99997,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Derekyshlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u0259r\u0259q\u0131\u015flaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0440\u0435\u043a\u044b\u0448\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586741,
+        "wk:page":"Derekyshlak"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c2120961b3c89af8b572b7d6e4df69b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226209523,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1226209523,
+    "wof:lastmodified":1537585455,
+    "wof:name":"Derekyshlak",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.99997000000001,
+    40.11507,
+    45.99997000000001,
+    40.11507
+],
+  "geometry": {"coordinates":[45.99997000000001,40.11507],"type":"Point"}
+}

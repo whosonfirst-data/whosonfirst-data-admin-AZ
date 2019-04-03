@@ -1,0 +1,73 @@
+{
+  "id": 1226473175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.6316,40.68993,48.6316,40.68993",
+    "geom:latitude":40.68993,
+    "geom:longitude":48.6316,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Malham",
+    "gn:country_code":"AZ",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585541,
+    "gn:latitude":40.68993,
+    "gn:longitude":48.6316,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"M\u0259lh\u0259m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mel\u2019kham",
+        "Mel\u2019gam",
+        "M\u0259lh\u0259m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585541,
+        "wk:page":"M%C9%99lh%C9%99m"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7b086dcc67ea48a4854f2309f0a06689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226473175,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1226473175,
+    "wof:lastmodified":1537585372,
+    "wof:name":"Malham",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.6316,
+    40.68993,
+    48.6316,
+    40.68993
+],
+  "geometry": {"coordinates":[48.6316,40.68993],"type":"Point"}
+}

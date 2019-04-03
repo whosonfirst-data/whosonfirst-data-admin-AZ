@@ -1,0 +1,79 @@
+{
+  "id": 1209137405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.95412,39.72041,46.95412,39.72041",
+    "geom:latitude":39.72041,
+    "geom:longitude":46.95412,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Zavadix",
+    "gn:country_code":"AZ",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146889,
+    "gn:latitude":39.72041,
+    "gn:longitude":46.95412,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Zavad\u0131x",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zavad\u0131x"
+    ],
+    "name:hye_x_preferred":[
+        "\u053e\u0578\u057e\u0561\u057f\u0565\u0572"
+    ],
+    "name:hye_x_variant":[
+        "Tsovategh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0432\u0430\u0434\u044b\u0445"
+    ],
+    "name:und_x_variant":[
+        "Tsovategh",
+        "Zavadykh",
+        "\u0417\u0430\u0432\u0430\u0434\u044b\u0445"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146889,
+        "wk:page":"Zavadykh"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"394ea83b76faab6d842931d68376957f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209137405
+        }
+    ],
+    "wof:id":1209137405,
+    "wof:lastmodified":1537585124,
+    "wof:name":"Zavadix",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.95412,
+    39.72041,
+    46.95412,
+    39.72041
+],
+  "geometry": {"coordinates":[46.95412,39.72041],"type":"Point"}
+}

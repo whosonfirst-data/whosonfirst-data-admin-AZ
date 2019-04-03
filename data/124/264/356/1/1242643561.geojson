@@ -1,0 +1,79 @@
+{
+  "id": 1242643561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.16254,39.60652,47.16254,39.60652",
+    "geom:latitude":39.60652,
+    "geom:longitude":47.16254,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Sekercik",
+    "gn:country_code":"AZ",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147191,
+    "gn:latitude":39.60652,
+    "gn:longitude":47.16254,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"\u015eekercik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015eekercik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u043a\u0435\u0440\u0434\u0436\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Shakardzhik",
+        "Shekerdzhik",
+        "\u0428\u0435\u043a\u0435\u0440\u0434\u0436\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668351,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147191,
+        "wk:page":"%C5%9Eekercik"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a02c56fb6092efcd25385550c61d2852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242643561,
+            "macroregion_id":1108808615,
+            "region_id":85668351
+        }
+    ],
+    "wof:id":1242643561,
+    "wof:lastmodified":1537585153,
+    "wof:name":"Sekercik",
+    "wof:parent_id":85668351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.16254,
+    39.60652,
+    47.16254,
+    39.60652
+],
+  "geometry": {"coordinates":[47.16254,39.60652],"type":"Point"}
+}

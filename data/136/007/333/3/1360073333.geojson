@@ -1,0 +1,75 @@
+{
+  "id": 1360073333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.0408,40.48586,47.0408,40.48586",
+    "geom:latitude":40.48586,
+    "geom:longitude":47.0408,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Tagilar",
+    "gn:country_code":"AZ",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584898,
+    "gn:latitude":40.48586,
+    "gn:longitude":47.0408,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Ta\u011f\u0131lar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ta\u011f\u0131lar"
+    ],
+    "name:und_x_variant":[
+        "Tagylar",
+        "Tagilar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584898,
+        "wk:page":"Ta%C4%9F%C4%B1lar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f62fdbb710432aa45e79280438d2ca38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360073333,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1360073333,
+    "wof:lastmodified":1537585329,
+    "wof:name":"Tagilar",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.0408,
+    40.48586,
+    47.0408,
+    40.48586
+],
+  "geometry": {"coordinates":[47.0408,40.48586],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277121395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.69667,39.17052,45.69667,39.17052",
+    "geom:latitude":39.17052,
+    "geom:longitude":45.69667,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"148132.0",
+    "gn:asciiname":"Xokesin",
+    "gn:country_code":"AZ",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147761,
+    "gn:latitude":39.17052,
+    "gn:longitude":45.69667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Xoke\u015fin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xoke\u015fi\u015f"
+    ],
+    "name:und_x_variant":[
+        "Khoshkeshin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668677,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147761
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"76bce0567041f9062dd9d5f6a3e0da31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277121395,
+            "macroregion_id":1108808617,
+            "region_id":85668677
+        }
+    ],
+    "wof:id":1277121395,
+    "wof:lastmodified":1537585205,
+    "wof:name":"Xokesin",
+    "wof:parent_id":85668677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.69667000000001,
+    39.17052,
+    45.69667000000001,
+    39.17052
+],
+  "geometry": {"coordinates":[45.69667000000001,39.17052],"type":"Point"}
+}

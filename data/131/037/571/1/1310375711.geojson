@@ -1,0 +1,71 @@
+{
+  "id": 1310375711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.32292,39.11026,48.32292,39.11026",
+    "geom:latitude":39.11026,
+    "geom:longitude":48.32292,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Asadly",
+    "gn:country_code":"AZ",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148491,
+    "gn:latitude":39.11026,
+    "gn:longitude":48.32292,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Asadly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u018fs\u0259dli",
+        "Asadli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148491
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4d4b0314e9aec7ceb940d418f80258c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310375711,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1310375711,
+    "wof:lastmodified":1537585276,
+    "wof:name":"Asadly",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.32292,
+    39.11026,
+    48.32292,
+    39.11026
+],
+  "geometry": {"coordinates":[48.32292,39.11026],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1193088845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.41637,40.94098,47.41637,40.94098",
+    "geom:latitude":40.94098,
+    "geom:longitude":47.41637,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Zarrab",
+    "gn:country_code":"AZ",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824854,
+    "gn:latitude":40.94098,
+    "gn:longitude":47.41637,
+    "gn:modification_date":"2014-02-10",
+    "gn:name":"Zarrab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Z\u0259rrab"
+    ],
+    "name:und_x_variant":[
+        "Z\u0259rr\u0259b",
+        "Zarrab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668549,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824854,
+        "wk:page":"Z%C9%99rr%C9%99b"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"436e92b09aae282213ecee1817030a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193088845,
+            "macroregion_id":1108808619,
+            "region_id":85668549
+        }
+    ],
+    "wof:id":1193088845,
+    "wof:lastmodified":1537585514,
+    "wof:name":"Zarrab",
+    "wof:parent_id":85668549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.41637,
+    40.94098,
+    47.41637,
+    40.94098
+],
+  "geometry": {"coordinates":[47.41637,40.94098],"type":"Point"}
+}

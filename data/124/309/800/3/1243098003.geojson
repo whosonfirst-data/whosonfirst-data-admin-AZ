@@ -1,0 +1,77 @@
+{
+  "id": 1243098003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.09318,40.67742,47.09318,40.67742",
+    "geom:latitude":40.67742,
+    "geom:longitude":47.09318,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Varvara",
+    "gn:country_code":"AZ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584741,
+    "gn:latitude":40.67742,
+    "gn:longitude":47.09318,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Varvara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Varvara"
+    ],
+    "name:eng_x_preferred":[
+        "Varvara"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u0432\u0430\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668243,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584741,
+        "wk:page":"Varvara%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"663f9d778aae3e10f7c1967b6488bb92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243098003,
+            "macroregion_id":1108808627,
+            "region_id":85668243
+        }
+    ],
+    "wof:id":1243098003,
+    "wof:lastmodified":1537585318,
+    "wof:name":"Varvara",
+    "wof:parent_id":85668243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.09318,
+    40.67742,
+    47.09318,
+    40.67742
+],
+  "geometry": {"coordinates":[47.09318,40.67742],"type":"Point"}
+}

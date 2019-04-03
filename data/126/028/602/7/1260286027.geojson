@@ -1,0 +1,88 @@
+{
+  "id": 1260286027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91645,40.07088,46.91645,40.07088",
+    "geom:latitude":40.07088,
+    "geom:longitude":46.91645,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tarnaut",
+    "gn:country_code":"AZ",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584873,
+    "gn:latitude":40.07088,
+    "gn:longitude":46.91645,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Tarnaut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "T\u0259rn\u00f6y\u00fct"
+    ],
+    "name:aze_x_variant":[
+        "Tarn\u00f6y\u00fct"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u0580\u0576\u0578\u0575\u0578\u0582\u0569"
+    ],
+    "name:hye_x_variant":[
+        "T\u2019arrnagyut",
+        "\u0539\u0561\u057c\u0576\u0561\u0563\u0575\u0578\u0582\u057f",
+        "Tarnoyut\u2019"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u043d\u043e\u044e\u0442"
+    ],
+    "name:und_x_variant":[
+        "Tarnoyut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584873,
+        "wk:page":"Tarn%C3%B6y%C3%BCt"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ed43849af3ace60d61a4ce9c02d47b04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260286027,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1260286027,
+    "wof:lastmodified":1537585327,
+    "wof:name":"Tarnaut",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91645,
+    40.07088,
+    46.91645,
+    40.07088
+],
+  "geometry": {"coordinates":[46.91645,40.07088],"type":"Point"}
+}

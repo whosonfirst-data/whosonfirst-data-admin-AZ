@@ -1,0 +1,75 @@
+{
+  "id": 1242809053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.10508,40.81866,46.10508,40.81866",
+    "geom:latitude":40.81866,
+    "geom:longitude":46.10508,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Muxtariyyat",
+    "gn:country_code":"AZ",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585451,
+    "gn:latitude":40.81866,
+    "gn:longitude":46.10508,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Muxtariyyat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Muxtariyyat"
+    ],
+    "name:und_x_variant":[
+        "Mukhtariyat",
+        "Muxtariyy\u0259t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585451,
+        "wk:page":"Muxtariyy%C9%99t"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3d8844f82d5572d8c41996f283766f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242809053,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1242809053,
+    "wof:lastmodified":1537585366,
+    "wof:name":"Muxtariyyat",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.10508,
+    40.81866,
+    46.10508,
+    40.81866
+],
+  "geometry": {"coordinates":[46.10508,40.81866],"type":"Point"}
+}

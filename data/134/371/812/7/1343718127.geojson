@@ -1,0 +1,74 @@
+{
+  "id": 1343718127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.88856,40.24995,48.88856,40.24995",
+    "geom:latitude":40.24995,
+    "geom:longitude":48.88856,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Ikinci Pasali",
+    "gn:country_code":"AZ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585283,
+    "gn:latitude":40.24995,
+    "gn:longitude":48.88856,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"\u0130kinci Pa\u015fal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malyye Pashaly",
+        "Pashaly Malyye",
+        "Pashaly Vtoryye",
+        "\u0130kinci Pa\u015fal\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668293,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585283,
+        "wk:page":"%C4%B0kinci_Pa%C5%9Fal%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1237831f2cf5b446d398d0fb9b317ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343718127,
+            "macroregion_id":1108808627,
+            "region_id":85668293
+        }
+    ],
+    "wof:id":1343718127,
+    "wof:lastmodified":1537585354,
+    "wof:name":"Ikinci Pasali",
+    "wof:parent_id":85668293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.88856,
+    40.24995,
+    48.88856,
+    40.24995
+],
+  "geometry": {"coordinates":[48.88856,40.24995],"type":"Point"}
+}

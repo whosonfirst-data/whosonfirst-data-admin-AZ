@@ -1,0 +1,76 @@
+{
+  "id": 1243202965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.83323,41.41555,48.83323,41.41555",
+    "geom:latitude":41.41555,
+    "geom:longitude":48.83323,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Qaradag Buduq",
+    "gn:country_code":"AZ",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8621999,
+    "gn:latitude":41.41555,
+    "gn:longitude":48.83323,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Qarada\u011f Buduq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qarada\u011fbuduq"
+    ],
+    "name:aze_x_variant":[
+        "Qarada\u011f Buduq"
+    ],
+    "name:und_x_variant":[
+        "Karadagbudug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8621999
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f0f7c44e9effd27f722ec6ff97f26fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243202965,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1243202965,
+    "wof:lastmodified":1537585535,
+    "wof:name":"Qaradag Buduq",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.83323,
+    41.41555,
+    48.83323,
+    41.41555
+],
+  "geometry": {"coordinates":[48.83323,41.41555],"type":"Point"}
+}

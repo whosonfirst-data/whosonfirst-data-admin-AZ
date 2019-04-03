@@ -1,0 +1,76 @@
+{
+  "id": 1210052539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7526,39.91915,48.7526,39.91915",
+    "geom:latitude":39.91915,
+    "geom:longitude":48.7526,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Nizami",
+    "gn:country_code":"AZ",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146972,
+    "gn:latitude":39.91915,
+    "gn:longitude":48.7526,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Nizami",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Nizami"
+    ],
+    "name:und_x_variant":[
+        "Vladimirorskoe",
+        "Vladimiroskoye",
+        "Vladimirovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146972,
+        "wk:page":"Nizami%2C_Sabirabad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"336a4e29ced4f0f990cfecb58997b73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1210052539,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1210052539,
+    "wof:lastmodified":1537585133,
+    "wof:name":"Nizami",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7526,
+    39.91915,
+    48.7526,
+    39.91915
+],
+  "geometry": {"coordinates":[48.7526,39.91915],"type":"Point"}
+}

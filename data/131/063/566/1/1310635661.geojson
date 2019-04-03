@@ -1,0 +1,73 @@
+{
+  "id": 1310635661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1211,40.65358,46.1211,40.65358",
+    "geom:latitude":40.65358,
+    "geom:longitude":46.1211,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Peyaderesi",
+    "gn:country_code":"AZ",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":585274,
+    "gn:latitude":40.65358,
+    "gn:longitude":46.1211,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Peyaderesi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Peyadere",
+        "Peyaderesi",
+        "Paya Dara",
+        "Pey\u0259d\u0259r\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585274
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ac05096f3711d6e5932ad017b721da7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310635661,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1310635661,
+    "wof:lastmodified":1537585354,
+    "wof:name":"Peyaderesi",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1211,
+    40.65358,
+    46.1211,
+    40.65358
+],
+  "geometry": {"coordinates":[46.1211,40.65358],"type":"Point"}
+}

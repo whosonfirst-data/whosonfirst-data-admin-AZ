@@ -1,0 +1,74 @@
+{
+  "id": 1259517379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.37465,39.03892,48.37465,39.03892",
+    "geom:latitude":39.03892,
+    "geom:longitude":48.37465,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Asagi Astanli",
+    "gn:country_code":"AZ",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148486,
+    "gn:latitude":39.03892,
+    "gn:longitude":48.37465,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"A\u015fa\u011f\u0131 Astanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nizhniye Astanly",
+        "Ashagy Astanly",
+        "A\u015fa\u011f\u0131 Astanl\u0131",
+        "Astanly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668497,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148486,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_Astanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"790494ba7147afe0a6c0307a357c2da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259517379,
+            "macroregion_id":1108808625,
+            "region_id":85668497
+        }
+    ],
+    "wof:id":1259517379,
+    "wof:lastmodified":1537585275,
+    "wof:name":"Asagi Astanli",
+    "wof:parent_id":85668497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.37465,
+    39.03892000000001,
+    48.37465,
+    39.03892000000001
+],
+  "geometry": {"coordinates":[48.37465,39.03892000000001],"type":"Point"}
+}

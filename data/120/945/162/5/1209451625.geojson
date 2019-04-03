@@ -1,0 +1,64 @@
+{
+  "id": 1209451625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5643,41.36764,48.5643,41.36764",
+    "geom:latitude":41.36764,
+    "geom:longitude":48.5643,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Timiryazev",
+    "gn:country_code":"AZ",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622020,
+    "gn:latitude":41.36764,
+    "gn:longitude":48.5643,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Timiryazev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Timiryazev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622020
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c1e059926534a92a4a58ac6caa57abf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209451625
+        }
+    ],
+    "wof:id":1209451625,
+    "wof:lastmodified":1537585536,
+    "wof:name":"Timiryazev",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5643,
+    41.36764,
+    48.5643,
+    41.36764
+],
+  "geometry": {"coordinates":[48.5643,41.36764],"type":"Point"}
+}

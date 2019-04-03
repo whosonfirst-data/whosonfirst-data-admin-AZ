@@ -1,0 +1,74 @@
+{
+  "id": 1343293019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.10537,40.75538,46.10537,40.75538",
+    "geom:latitude":40.75538,
+    "geom:longitude":46.10537,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Dalitire",
+    "gn:country_code":"AZ",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":801147,
+    "gn:latitude":40.75538,
+    "gn:longitude":46.10537,
+    "gn:modification_date":"2013-11-11",
+    "gn:name":"Dalitire",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 Seyf\u0259li"
+    ],
+    "name:und_x_variant":[
+        "Yukhary Seyfali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":801147,
+        "wk:page":"Dalitire"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"933cbb46bcd845affc0c7cf5f016ff0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343293019,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1343293019,
+    "wof:lastmodified":1537585506,
+    "wof:name":"Dalitire",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.10537,
+    40.75538,
+    46.10537,
+    40.75538
+],
+  "geometry": {"coordinates":[46.10537,40.75538],"type":"Point"}
+}

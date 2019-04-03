@@ -1,0 +1,79 @@
+{
+  "id": 1310569009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.28261,40.87886,48.28261,40.87886",
+    "geom:latitude":40.87886,
+    "geom:longitude":48.28261,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Culyan",
+    "gn:country_code":"AZ",
+    "gn:dem":1392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586627,
+    "gn:latitude":40.87886,
+    "gn:longitude":48.28261,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"C\u00fclyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "C\u00fclyan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0443\u043b\u044c\u044f\u043d"
+    ],
+    "name:und_x_variant":[
+        "Dzhyul\u2019yan",
+        "Dzhul\u2019yan",
+        "C\u00fclyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586627,
+        "wk:page":"C%C3%BClyan_%2840%C2%B0_53%27_N_48%C2%B0_17%27_E%29"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9109b6e4238d091e4710e2b3dea660ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310569009,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1310569009,
+    "wof:lastmodified":1537585447,
+    "wof:name":"Culyan",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.28261,
+    40.87886,
+    48.28261,
+    40.87886
+],
+  "geometry": {"coordinates":[48.28261,40.87886],"type":"Point"}
+}

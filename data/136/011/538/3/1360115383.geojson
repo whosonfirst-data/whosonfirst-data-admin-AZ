@@ -1,0 +1,77 @@
+{
+  "id": 1360115383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.98117,39.65113,46.98117,39.65113",
+    "geom:latitude":39.65113,
+    "geom:longitude":46.98117,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Shekher",
+    "gn:country_code":"AZ",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147189,
+    "gn:latitude":39.65113,
+    "gn:longitude":46.98117,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Shekher",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015e\u0259k\u0259r"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0565\u056d\u0565\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0445\u0435\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147189,
+        "wk:page":"%C5%9E%C9%99k%C9%99r%2C_Khojavend"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"352b249a900756c0ae37237a3d05a7dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360115383,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1360115383,
+    "wof:lastmodified":1537585152,
+    "wof:name":"Shekher",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.98117,
+    39.65113,
+    46.98117,
+    39.65113
+],
+  "geometry": {"coordinates":[46.98117,39.65113],"type":"Point"}
+}

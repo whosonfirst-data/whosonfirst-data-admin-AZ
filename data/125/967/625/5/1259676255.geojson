@@ -1,0 +1,81 @@
+{
+  "id": 1259676255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.55777,40.50874,48.55777,40.50874",
+    "geom:latitude":40.50874,
+    "geom:longitude":48.55777,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bico",
+    "gn:country_code":"AZ",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586976,
+    "gn:latitude":40.50874,
+    "gn:longitude":48.55777,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Bico",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bico"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0434\u0436\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Buco",
+        "Bidzhov",
+        "Bidzhon",
+        "Bidszhov",
+        "Bico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586976,
+        "wk:page":"Bico%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ab581b566108a964429a683bce8d56df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259676255,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1259676255,
+    "wof:lastmodified":1537585473,
+    "wof:name":"Bico",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.55777,
+    40.50874,
+    48.55777,
+    40.50874
+],
+  "geometry": {"coordinates":[48.55777,40.50874],"type":"Point"}
+}

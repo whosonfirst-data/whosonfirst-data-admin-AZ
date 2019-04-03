@@ -1,0 +1,79 @@
+{
+  "id": 1327466993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.43037,40.37202,47.43037,40.37202",
+    "geom:latitude":40.37202,
+    "geom:longitude":47.43037,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kotavan",
+    "gn:country_code":"AZ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585805,
+    "gn:latitude":40.37202,
+    "gn:longitude":47.43037,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Kotavan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kotavan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u0430\u0432\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Ketavan",
+        "Komavan",
+        "Kotavan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668259,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585805,
+        "wk:page":"Kotavan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a9211aaa21a7cab39c4cf95991a19020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327466993,
+            "macroregion_id":1108808627,
+            "region_id":85668259
+        }
+    ],
+    "wof:id":1327466993,
+    "wof:lastmodified":1537585389,
+    "wof:name":"Kotavan",
+    "wof:parent_id":85668259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.43037,
+    40.37202,
+    47.43037,
+    40.37202
+],
+  "geometry": {"coordinates":[47.43037,40.37202],"type":"Point"}
+}

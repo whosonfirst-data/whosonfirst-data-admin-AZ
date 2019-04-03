@@ -1,0 +1,68 @@
+{
+  "id": 1293913703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.74639,39.84806,48.74639,39.84806",
+    "geom:latitude":39.84806,
+    "geom:longitude":48.74639,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Razy-Kend",
+    "gn:country_code":"AZ",
+    "gn:dem":-23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":389136,
+    "gn:latitude":39.84806,
+    "gn:longitude":48.74639,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Razy-Kend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389136,
+        "wk:page":"Razy-Kend"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e5a782d6955ce9dcd6081e2ca34583e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293913703,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1293913703,
+    "wof:lastmodified":1537486573,
+    "wof:name":"Razy-Kend",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.74639000000001,
+    39.84806,
+    48.74639000000001,
+    39.84806
+],
+  "geometry": {"coordinates":[48.74639000000001,39.84806],"type":"Point"}
+}

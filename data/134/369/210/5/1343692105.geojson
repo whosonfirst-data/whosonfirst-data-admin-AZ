@@ -1,0 +1,74 @@
+{
+  "id": 1343692105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7269,39.99739,48.7269,39.99739",
+    "geom:latitude":39.99739,
+    "geom:longitude":48.7269,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gyudadzhyugyur",
+    "gn:country_code":"AZ",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586404,
+    "gn:latitude":39.99739,
+    "gn:longitude":48.7269,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gyudadzhyugyur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyudadzhyugy",
+        "Gyudadzhugur",
+        "Gyudadzhur",
+        "G\u00fcd\u0259c\u00fch\u00fcr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586404,
+        "wk:page":"G%C3%BCd%C9%99c%C3%BCh%C3%BCr"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a1fce9509fd8d734a86327285a59f626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343692105,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1343692105,
+    "wof:lastmodified":1537585432,
+    "wof:name":"Gyudadzhyugyur",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7269,
+    39.99739,
+    48.7269,
+    39.99739
+],
+  "geometry": {"coordinates":[48.7269,39.99739],"type":"Point"}
+}

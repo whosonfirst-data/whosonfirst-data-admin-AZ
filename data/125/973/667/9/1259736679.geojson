@@ -1,0 +1,78 @@
+{
+  "id": 1259736679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9467,39.78658,44.9467,39.78658",
+    "geom:latitude":39.78658,
+    "geom:longitude":44.9467,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"409387.0",
+    "gn:asciiname":"Kyarki",
+    "gn:country_code":"AZ",
+    "gn:dem":1380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147671,
+    "gn:latitude":39.78658,
+    "gn:longitude":44.9467,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Kyarki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yerevan",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_colloquial":[
+        "K\u0259rki"
+    ],
+    "name:aze_x_historical":[
+        "K\u0259rki"
+    ],
+    "name:aze_x_preferred":[
+        "K\u0259rki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        1108783671,
+        85632773,
+        85668099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147671,
+        "wk:page":"Karki%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"af1467eacc124e638201bb773799d4ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783671,
+            "locality_id":1259736679,
+            "region_id":85668099
+        }
+    ],
+    "wof:id":1259736679,
+    "wof:lastmodified":1537486533,
+    "wof:name":"Kyarki",
+    "wof:parent_id":1108783671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9467,
+    39.78658,
+    44.9467,
+    39.78658
+],
+  "geometry": {"coordinates":[44.9467,39.78658],"type":"Point"}
+}

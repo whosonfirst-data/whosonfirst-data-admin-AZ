@@ -1,0 +1,69 @@
+{
+  "id": 1209035951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.47057,41.17823,48.47057,41.17823",
+    "geom:latitude":41.17823,
+    "geom:longitude":48.47057,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Zixir",
+    "gn:country_code":"AZ",
+    "gn:dem":1410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584546,
+    "gn:latitude":41.17823,
+    "gn:longitude":48.47057,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Z\u0131x\u0131r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Z\u0131x\u0131r"
+    ],
+    "name:und_x_variant":[
+        "Zykhyr",
+        "Zuxur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584546,
+        "wk:page":"Z%C4%B1x%C4%B1r"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2961827cf214b95fb242bacac21ccbff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209035951
+        }
+    ],
+    "wof:id":1209035951,
+    "wof:lastmodified":1537585305,
+    "wof:name":"Zixir",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.47057,
+    41.17823,
+    48.47057,
+    41.17823
+],
+  "geometry": {"coordinates":[48.47057,41.17823],"type":"Point"}
+}

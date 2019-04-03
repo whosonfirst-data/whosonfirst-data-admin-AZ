@@ -1,0 +1,67 @@
+{
+  "id": 1209549571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91584,41.54528,46.91584,41.54528",
+    "geom:latitude":41.54528,
+    "geom:longitude":46.91584,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Qass",
+    "gn:country_code":"AZ",
+    "gn:dem":1220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586113,
+    "gn:latitude":41.54528,
+    "gn:longitude":46.91584,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Qass",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kass",
+        "Kas",
+        "Qass"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586113,
+        "wk:page":"Qass"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"603f7b8fb4a1c88b7c5502cd9e0049ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209549571
+        }
+    ],
+    "wof:id":1209549571,
+    "wof:lastmodified":1537585410,
+    "wof:name":"Qass",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91584,
+    41.54528,
+    46.91584,
+    41.54528
+],
+  "geometry": {"coordinates":[46.91584,41.54528],"type":"Point"}
+}

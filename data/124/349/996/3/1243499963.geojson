@@ -1,0 +1,71 @@
+{
+  "id": 1243499963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.70195,39.11153,48.70195,39.11153",
+    "geom:latitude":39.11153,
+    "geom:longitude":48.70195,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Gasanly",
+    "gn:country_code":"AZ",
+    "gn:dem":-18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148079,
+    "gn:latitude":39.11153,
+    "gn:longitude":48.70195,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gasanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gasanli",
+        "H\u0259s\u0259nli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148079
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"99fbd781bb48a5263a516e49ebf0640b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243499963,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1243499963,
+    "wof:lastmodified":1537585237,
+    "wof:name":"Gasanly",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.70195,
+    39.11153,
+    48.70195,
+    39.11153
+],
+  "geometry": {"coordinates":[48.70195,39.11153],"type":"Point"}
+}

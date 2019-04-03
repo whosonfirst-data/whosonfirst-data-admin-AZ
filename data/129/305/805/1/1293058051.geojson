@@ -1,0 +1,68 @@
+{
+  "id": 1293058051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.95639,40.02417,45.95639,40.02417",
+    "geom:latitude":40.02417,
+    "geom:longitude":45.95639,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Chakhmakh-Bina",
+    "gn:country_code":"AZ",
+    "gn:dem":2154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":799726,
+    "gn:latitude":40.02417,
+    "gn:longitude":45.95639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chakhmakh-Bina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":799726,
+        "wk:page":"Chakhmakh-Bina"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8326f85db7ee300b01cc557cde227a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293058051,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1293058051,
+    "wof:lastmodified":1537486677,
+    "wof:name":"Chakhmakh-Bina",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.95639,
+    40.02417,
+    45.95639,
+    40.02417
+],
+  "geometry": {"coordinates":[45.95639,40.02417],"type":"Point"}
+}

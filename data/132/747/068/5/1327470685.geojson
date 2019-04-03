@@ -1,0 +1,68 @@
+{
+  "id": 1327470685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.46951,38.75234,48.46951,38.75234",
+    "geom:latitude":38.75234,
+    "geom:longitude":48.46951,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Barzavu",
+    "gn:country_code":"AZ",
+    "gn:dem":1530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148373,
+    "gn:latitude":38.75234,
+    "gn:longitude":48.46951,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Barzavu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668403,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148373,
+        "wk:page":"Barzavu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a12f48b433e1f47cefa27fcd1e2dbb0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327470685,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":1327470685,
+    "wof:lastmodified":1537486559,
+    "wof:name":"Barzavu",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.46951,
+    38.75234,
+    48.46951,
+    38.75234
+],
+  "geometry": {"coordinates":[48.46951,38.75234],"type":"Point"}
+}

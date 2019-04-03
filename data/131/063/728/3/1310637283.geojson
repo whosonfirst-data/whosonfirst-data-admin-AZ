@@ -1,0 +1,76 @@
+{
+  "id": 1310637283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.48425,41.71368,48.48425,41.71368",
+    "geom:latitude":41.71368,
+    "geom:longitude":48.48425,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Zuxul",
+    "gn:country_code":"AZ",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824924,
+    "gn:latitude":41.71368,
+    "gn:longitude":48.48425,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Zuxul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zuxul"
+    ],
+    "name:aze_x_variant":[
+        "Zuxuloba"
+    ],
+    "name:und_x_variant":[
+        "Zukhul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824924
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6b9b2915e9be77fc3a34deb8dd05f446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310637283,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1310637283,
+    "wof:lastmodified":1537585514,
+    "wof:name":"Zuxul",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.48425,
+    41.71368,
+    48.48425,
+    41.71368
+],
+  "geometry": {"coordinates":[48.48425,41.71368],"type":"Point"}
+}

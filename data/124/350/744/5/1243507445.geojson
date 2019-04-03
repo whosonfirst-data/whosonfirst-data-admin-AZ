@@ -1,0 +1,67 @@
+{
+  "id": 1243507445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.92806,39.37083,48.92806,39.37083",
+    "geom:latitude":39.37083,
+    "geom:longitude":48.92806,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Babakhanly",
+    "gn:country_code":"AZ",
+    "gn:dem":-26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":389163,
+    "gn:latitude":39.37083,
+    "gn:longitude":48.92806,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Babakhanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668409,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389163
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"27d5d9d4a35b694cff4fef459fa31b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243507445,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1243507445,
+    "wof:lastmodified":1536718044,
+    "wof:name":"Babakhanly",
+    "wof:parent_id":85668409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.92806,
+    39.37083,
+    48.92806,
+    39.37083
+],
+  "geometry": {"coordinates":[48.92806,39.37083],"type":"Point"}
+}

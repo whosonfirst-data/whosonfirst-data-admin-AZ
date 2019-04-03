@@ -1,0 +1,71 @@
+{
+  "id": 1226577397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.85,40.91667,45.85,40.91667",
+    "geom:latitude":40.91667,
+    "geom:longitude":45.85,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Alakel Kyrykly",
+    "gn:country_code":"AZ",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587329,
+    "gn:latitude":40.91667,
+    "gn:longitude":45.85,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Alak\u00ebl Kyrykly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alak\u00ebl Kyrykly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587329,
+        "wk:page":"Alak%C3%ABl_Kyrykly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b7cff2dcd9620de828c693d03be3c7d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226577397,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1226577397,
+    "wof:lastmodified":1537585498,
+    "wof:name":"Alakel Kyrykly",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.85,
+    40.91667,
+    45.85,
+    40.91667
+],
+  "geometry": {"coordinates":[45.85,40.91667],"type":"Point"}
+}

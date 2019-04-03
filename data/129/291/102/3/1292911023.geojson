@@ -1,0 +1,79 @@
+{
+  "id": 1292911023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.93348,39.98137,46.93348,39.98137",
+    "geom:latitude":39.98137,
+    "geom:longitude":46.93348,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Muradbeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147458,
+    "gn:latitude":39.98137,
+    "gn:longitude":46.93348,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Muradbeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Muradbeyli"
+    ],
+    "name:aze_x_variant":[
+        "Muradb\u0259yli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u0430\u0434\u0431\u0435\u0439\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Muradbegly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147458
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fe6548a7e067000cba13910a917a003c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1292911023,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1292911023,
+    "wof:lastmodified":1537585175,
+    "wof:name":"Muradbeyli",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.93348,
+    39.98137,
+    46.93348,
+    39.98137
+],
+  "geometry": {"coordinates":[46.93348,39.98137],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343992371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.78582,40.62439,48.78582,40.62439",
+    "geom:latitude":40.62439,
+    "geom:longitude":48.78582,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Teklya Mirzababa",
+    "gn:country_code":"AZ",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584845,
+    "gn:latitude":40.62439,
+    "gn:longitude":48.78582,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Teklya Mirzababa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u0259kl\u0259 Mirz\u0259baba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668419,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584845,
+        "wk:page":"T%C9%99kl%C9%99_Mirz%C9%99baba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"490edb5063deda855165039c7359a49d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343992371,
+            "macroregion_id":1108808611,
+            "region_id":85668419
+        }
+    ],
+    "wof:id":1343992371,
+    "wof:lastmodified":1537585325,
+    "wof:name":"Teklya Mirzababa",
+    "wof:parent_id":85668419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.78582,
+    40.62439000000001,
+    48.78582,
+    40.62439000000001
+],
+  "geometry": {"coordinates":[48.78582,40.62439000000001],"type":"Point"}
+}

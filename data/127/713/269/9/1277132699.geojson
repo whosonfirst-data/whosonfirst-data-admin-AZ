@@ -1,0 +1,71 @@
+{
+  "id": 1277132699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.98998,39.95892,47.98998,39.95892",
+    "geom:latitude":39.95892,
+    "geom:longitude":47.98998,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Dzhafarli",
+    "gn:country_code":"AZ",
+    "gn:dem":-5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394127,
+    "gn:latitude":39.95892,
+    "gn:longitude":47.98998,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Dzhafarli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u011fam\u0259mm\u0259dli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668365,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394127,
+        "wk:page":"A%C4%9Fam%C9%99mm%C9%99dli%2C_Imishli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"df2454379d247f7bbfe529c1d0e81d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277132699,
+            "macroregion_id":1108808627,
+            "region_id":85668365
+        }
+    ],
+    "wof:id":1277132699,
+    "wof:lastmodified":1537585297,
+    "wof:name":"Dzhafarli",
+    "wof:parent_id":85668365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.98998,
+    39.95892,
+    47.98998,
+    39.95892
+],
+  "geometry": {"coordinates":[47.98998,39.95892],"type":"Point"}
+}

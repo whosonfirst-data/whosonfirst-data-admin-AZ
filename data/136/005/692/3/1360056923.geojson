@@ -1,0 +1,75 @@
+{
+  "id": 1360056923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.96081,41.21782,48.96081,41.21782",
+    "geom:latitude":41.21782,
+    "geom:longitude":48.96081,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Sincan Boyat",
+    "gn:country_code":"AZ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584958,
+    "gn:latitude":41.21782,
+    "gn:longitude":48.96081,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Sincan Boyat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sincan Boyat"
+    ],
+    "name:und_x_variant":[
+        "Bayat-Sindzhap",
+        "Sindzhanboyat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584958,
+        "wk:page":"Sincanboyat"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f3403737284bf8dd97cd6e427c08761d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360056923,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1360056923,
+    "wof:lastmodified":1537585333,
+    "wof:name":"Sincan Boyat",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.96081,
+    41.21782,
+    48.96081,
+    41.21782
+],
+  "geometry": {"coordinates":[48.96081,41.21782],"type":"Point"}
+}

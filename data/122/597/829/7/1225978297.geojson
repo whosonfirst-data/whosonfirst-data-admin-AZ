@@ -1,0 +1,77 @@
+{
+  "id": 1225978297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.57108,39.19183,46.57108,39.19183",
+    "geom:latitude":39.19183,
+    "geom:longitude":46.57108,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Yukhary-Yemezli",
+    "gn:country_code":"AZ",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146913,
+    "gn:latitude":39.19183,
+    "gn:longitude":46.57108,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Yukhary-Yemezli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 Yem\u0259zli"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0445\u0430\u0440\u0438-\u0415\u043c\u0435\u0437\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Yukhari Yemazlu",
+        "Yukhary-Yemezli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146913
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bc9f39ca8adfe78c3c8867060e801dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225978297,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1225978297,
+    "wof:lastmodified":1537585127,
+    "wof:name":"Yukhary-Yemezli",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.57108,
+    39.19183,
+    46.57108,
+    39.19183
+],
+  "geometry": {"coordinates":[46.57108,39.19183],"type":"Point"}
+}

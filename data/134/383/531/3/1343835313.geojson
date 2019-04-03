@@ -1,0 +1,67 @@
+{
+  "id": 1343835313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.62667,39.76333,47.62667,39.76333",
+    "geom:latitude":39.76333,
+    "geom:longitude":47.62667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Dilagarda",
+    "gn:country_code":"AZ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388625,
+    "gn:latitude":39.76333,
+    "gn:longitude":47.62667,
+    "gn:modification_date":"1999-01-28",
+    "gn:name":"Dila\u011farda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668313,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388625
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"21a2ed717fe7cb09ea147219c2df0aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343835313,
+            "macroregion_id":1108808627,
+            "region_id":85668313
+        }
+    ],
+    "wof:id":1343835313,
+    "wof:lastmodified":1536703219,
+    "wof:name":"Dilagarda",
+    "wof:parent_id":85668313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.62667,
+    39.76333,
+    47.62667,
+    39.76333
+],
+  "geometry": {"coordinates":[47.62667,39.76333],"type":"Point"}
+}

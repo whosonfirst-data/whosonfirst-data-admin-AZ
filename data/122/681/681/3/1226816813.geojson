@@ -1,0 +1,75 @@
+{
+  "id": 1226816813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.29203,40.8112,48.29203,40.8112",
+    "geom:latitude":40.8112,
+    "geom:longitude":48.29203,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kekhna-Dakhar",
+    "gn:country_code":"AZ",
+    "gn:dem":1380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586059,
+    "gn:latitude":40.8112,
+    "gn:longitude":48.29203,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Kekhna-Dakhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00f6hn\u0259daxar"
+    ],
+    "name:und_x_variant":[
+        "K\u00ebgnadakhar",
+        "K\u00f6hn\u0259d\u0259har"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586059,
+        "wk:page":"K%C3%B6hn%C9%99daxar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"384157c189548ea50e5fbfed09f1e269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226816813,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1226816813,
+    "wof:lastmodified":1537585406,
+    "wof:name":"Kekhna-Dakhar",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.29203,
+    40.8112,
+    48.29203,
+    40.8112
+],
+  "geometry": {"coordinates":[48.29203,40.8112],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209349007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.68691,39.97049,46.68691,39.97049",
+    "geom:latitude":39.97049,
+    "geom:longitude":46.68691,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Almali",
+    "gn:country_code":"AZ",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147779,
+    "gn:latitude":39.97049,
+    "gn:longitude":46.68691,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Almal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Almal\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0576\u0571\u0580\u056b\u057d\u057f\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043d\u0434\u0437\u0440\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Xndzristan",
+        "Khindristan",
+        "Khndzoristan",
+        "Khndzristan",
+        "Khndristan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147779,
+        "wk:page":"Almal%C4%B1%2C_Khojaly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2a99b112f3e4763237d1b314f46ac611",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209349007
+        }
+    ],
+    "wof:id":1209349007,
+    "wof:lastmodified":1537585207,
+    "wof:name":"Almali",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.68691,
+    39.97049000000001,
+    46.68691,
+    39.97049000000001
+],
+  "geometry": {"coordinates":[46.68691,39.97049000000001],"type":"Point"}
+}

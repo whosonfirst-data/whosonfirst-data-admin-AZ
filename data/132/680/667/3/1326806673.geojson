@@ -1,0 +1,73 @@
+{
+  "id": 1326806673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.01667,41.13333,49.01667,41.13333",
+    "geom:latitude":41.13333,
+    "geom:longitude":49.01667,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kuyubulak",
+    "gn:cc2":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585737,
+    "gn:latitude":41.13333,
+    "gn:longitude":49.01667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Kuyubulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuyubulag",
+        "Koybulagi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668425,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585737,
+        "wk:page":"Kuyubulak"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6f1e6f5eac0dc703c54980b8c224624a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326806673,
+            "macroregion_id":1108808623,
+            "region_id":85668425
+        }
+    ],
+    "wof:id":1326806673,
+    "wof:lastmodified":1537585385,
+    "wof:name":"Kuyubulak",
+    "wof:parent_id":85668425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.01667,
+    41.13333,
+    49.01667,
+    41.13333
+],
+  "geometry": {"coordinates":[49.01667,41.13333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259514797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.92722,40.48806,46.92722,40.48806",
+    "geom:latitude":40.48806,
+    "geom:longitude":46.92722,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Ashaga-Seidimly",
+    "gn:country_code":"AZ",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800988,
+    "gn:latitude":40.48806,
+    "gn:longitude":46.92722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ashaga-Seidimly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800988,
+        "wk:page":"Ashaga-Seidimly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b505216480c30a5698646b0c6c93b6ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259514797,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1259514797,
+    "wof:lastmodified":1537486681,
+    "wof:name":"Ashaga-Seidimly",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.92722,
+    40.48806,
+    46.92722,
+    40.48806
+],
+  "geometry": {"coordinates":[46.92722,40.48806],"type":"Point"}
+}

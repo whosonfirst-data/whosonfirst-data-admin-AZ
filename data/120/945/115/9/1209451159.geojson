@@ -1,0 +1,68 @@
+{
+  "id": 1209451159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.78072,41.49218,48.78072,41.49218",
+    "geom:latitude":41.49218,
+    "geom:longitude":48.78072,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Pavlovka",
+    "gn:country_code":"AZ",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585281,
+    "gn:latitude":41.49218,
+    "gn:longitude":48.78072,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Pavlovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u00fc\u015fk\u00fcr"
+    ],
+    "name:aze_x_variant":[
+        "Pavlovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585281,
+        "wk:page":"M%C3%BC%C5%9Fk%C3%BCr"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8436dfa24d5df9f1470c09b07a64c2c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209451159
+        }
+    ],
+    "wof:id":1209451159,
+    "wof:lastmodified":1537585354,
+    "wof:name":"Pavlovka",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.78072,
+    41.49218,
+    48.78072,
+    41.49218
+],
+  "geometry": {"coordinates":[48.78072,41.49218],"type":"Point"}
+}

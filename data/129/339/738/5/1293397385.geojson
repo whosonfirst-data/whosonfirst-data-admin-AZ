@@ -1,0 +1,74 @@
+{
+  "id": 1293397385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.14215,40.18347,47.14215,40.18347",
+    "geom:latitude":40.18347,
+    "geom:longitude":47.14215,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Imankulubeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586344,
+    "gn:latitude":40.18347,
+    "gn:longitude":47.14215,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Imankulubeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130mamqulub\u0259yli"
+    ],
+    "name:und_x_variant":[
+        "Kolkhoz Sultanbud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586344,
+        "wk:page":"%C4%B0mamqulub%C9%99yli%2C_Agdam"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2fb495e6e3aa4e59067c66a394ec549f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293397385,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1293397385,
+    "wof:lastmodified":1537585427,
+    "wof:name":"Imankulubeyli",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.14215,
+    40.18347,
+    47.14215,
+    40.18347
+],
+  "geometry": {"coordinates":[47.14215,40.18347],"type":"Point"}
+}

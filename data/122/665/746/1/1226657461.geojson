@@ -1,0 +1,88 @@
+{
+  "id": 1226657461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.81769,40.05777,46.81769,40.05777",
+    "geom:latitude":40.05777,
+    "geom:longitude":46.81769,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Alimadatly",
+    "gn:country_code":"AZ",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587299,
+    "gn:latitude":40.05777,
+    "gn:longitude":46.81769,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Alimadatly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018flim\u0259d\u0259dli"
+    ],
+    "name:aze_x_variant":[
+        "\u018flim\u0259d\u0259tli"
+    ],
+    "name:hye_x_preferred":[
+        "Alimadat\u2019li"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u056c\u056b\u0574\u0561\u0564\u0561\u0569\u056c\u056b",
+        "Nor Seysulan",
+        "\u0546\u0578\u0580 \u054d\u0565\u0575\u057d\u0578\u0582\u056c\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0438\u043c\u0430\u0434\u0430\u0442\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Alimadatli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587299,
+        "wk:page":"%C6%8Flim%C9%99d%C9%99dli%2C_Agdam"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"929ed20c007d394efd4fb156d52483fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226657461,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1226657461,
+    "wof:lastmodified":1537585496,
+    "wof:name":"Alimadatly",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.81769,
+    40.05777,
+    46.81769,
+    40.05777
+],
+  "geometry": {"coordinates":[46.81769,40.05777],"type":"Point"}
+}

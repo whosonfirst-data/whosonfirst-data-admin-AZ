@@ -1,0 +1,78 @@
+{
+  "id": 1360019903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.18914,41.19773,48.18914,41.19773",
+    "geom:latitude":41.19773,
+    "geom:longitude":48.18914,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Qalay Xudat",
+    "gn:country_code":"AZ",
+    "gn:dem":2192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586269,
+    "gn:latitude":41.19773,
+    "gn:longitude":48.18914,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Qalay Xudat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qalay Xudat"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u0439\u0445\u0443\u0434\u0430\u0442"
+    ],
+    "name:und_x_variant":[
+        "Kaleykhudat",
+        "Kalaykhudat",
+        "Qalay Xudat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586269
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cf5255902d0135062f35efa5b5e09231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360019903,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1360019903,
+    "wof:lastmodified":1537585422,
+    "wof:name":"Qalay Xudat",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.18914,
+    41.19773,
+    48.18914,
+    41.19773
+],
+  "geometry": {"coordinates":[48.18914,41.19773],"type":"Point"}
+}

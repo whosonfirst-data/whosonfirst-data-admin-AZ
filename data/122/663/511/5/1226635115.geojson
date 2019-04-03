@@ -1,0 +1,70 @@
+{
+  "id": 1226635115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.36985,41.72716,46.36985,41.72716",
+    "geom:latitude":41.72716,
+    "geom:longitude":46.36985,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tyulyu",
+    "gn:country_code":"AZ",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584800,
+    "gn:latitude":41.72716,
+    "gn:longitude":46.36985,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Tyulyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00fcl\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584800
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"49296c8e16660b9fc44b1d0ca6f25d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226635115,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1226635115,
+    "wof:lastmodified":1537585322,
+    "wof:name":"Tyulyu",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.36985,
+    41.72716,
+    46.36985,
+    41.72716
+],
+  "geometry": {"coordinates":[46.36985,41.72716],"type":"Point"}
+}

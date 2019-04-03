@@ -1,0 +1,81 @@
+{
+  "id": 1293917171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.76575,41.06308,45.76575,41.06308",
+    "geom:latitude":41.06308,
+    "geom:longitude":45.76575,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Girzan",
+    "gn:country_code":"AZ",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585881,
+    "gn:latitude":41.06308,
+    "gn:longitude":45.76575,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Girzan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kirzan"
+    ],
+    "name:eng_x_preferred":[
+        "Kirzan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u0437\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Q\u00fcn\u0259\u015fli",
+        "Girzan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585881,
+        "wk:page":"Girzan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"db667eb928372159617b84b33fbd1de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293917171,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1293917171,
+    "wof:lastmodified":1537585393,
+    "wof:name":"Girzan",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.76575,
+    41.06308,
+    45.76575,
+    41.06308
+],
+  "geometry": {"coordinates":[45.76575,41.06308],"type":"Point"}
+}

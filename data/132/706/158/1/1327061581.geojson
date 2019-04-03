@@ -1,0 +1,74 @@
+{
+  "id": 1327061581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.23448,40.9661,49.23448,40.9661",
+    "geom:latitude":40.9661,
+    "geom:longitude":49.23448,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Qalasixi",
+    "gn:country_code":"AZ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586272,
+    "gn:latitude":40.9661,
+    "gn:longitude":49.23448,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Qala\u015f\u0131x\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qala\u015f\u0131x\u0131"
+    ],
+    "name:und_x_variant":[
+        "Kalashykhy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668425,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586272,
+        "wk:page":"Qala%C5%9F%C4%B1x%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c43b9128924ab3a9b70099b92a4e4f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327061581,
+            "macroregion_id":1108808623,
+            "region_id":85668425
+        }
+    ],
+    "wof:id":1327061581,
+    "wof:lastmodified":1537585422,
+    "wof:name":"Qalasixi",
+    "wof:parent_id":85668425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.23448,
+    40.9661,
+    49.23448,
+    40.9661
+],
+  "geometry": {"coordinates":[49.23448,40.9661],"type":"Point"}
+}

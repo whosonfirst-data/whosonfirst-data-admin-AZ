@@ -1,0 +1,70 @@
+{
+  "id": 1209137115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.01669,40.26382,47.01669,40.26382",
+    "geom:latitude":40.26382,
+    "geom:longitude":47.01669,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Qaynaq",
+    "gn:country_code":"AZ",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586097,
+    "gn:latitude":40.26382,
+    "gn:longitude":47.01669,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Qaynaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaynaq"
+    ],
+    "name:und_x_variant":[
+        "Kaynag",
+        "Kaynakh",
+        "Muzur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586097,
+        "wk:page":"Qaynaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cc580188178261b4ad84d87e6ea6e89a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209137115
+        }
+    ],
+    "wof:id":1209137115,
+    "wof:lastmodified":1537585409,
+    "wof:name":"Qaynaq",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.01669,
+    40.26382,
+    47.01669,
+    40.26382
+],
+  "geometry": {"coordinates":[47.01669,40.26382],"type":"Point"}
+}

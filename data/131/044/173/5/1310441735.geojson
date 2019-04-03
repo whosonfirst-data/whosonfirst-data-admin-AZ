@@ -1,0 +1,87 @@
+{
+  "id": 1310441735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.25496,40.53008,46.25496,40.53008",
+    "geom:latitude":40.53008,
+    "geom:longitude":46.25496,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Asagi Zurnabad",
+    "gn:country_code":"AZ",
+    "gn:dem":869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584550,
+    "gn:latitude":40.53008,
+    "gn:longitude":46.25496,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"A\u015fa\u011f\u0131 Zurnabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zurges"
+    ],
+    "name:aze_x_variant":[
+        "G\u0259nc\u0259",
+        "A\u015fa\u011f\u0131 Zurnabad"
+    ],
+    "name:hye_x_preferred":[
+        "Gants\u2019ak"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0561\u0576\u056e\u0561\u056f"
+    ],
+    "name:rus_x_preferred":[
+        "Pos\u00eblok Azbiokombinat"
+    ],
+    "name:und_x_variant":[
+        "Gyandzhe",
+        "Gyandzha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584550
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"21cfe21f53363d96be23093e97b89475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310441735,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1310441735,
+    "wof:lastmodified":1537585305,
+    "wof:name":"Asagi Zurnabad",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.25496,
+    40.53008,
+    46.25496,
+    40.53008
+],
+  "geometry": {"coordinates":[46.25496,40.53008],"type":"Point"}
+}

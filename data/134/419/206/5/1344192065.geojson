@@ -1,0 +1,83 @@
+{
+  "id": 1344192065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.70963,39.23825,46.70963,39.23825",
+    "geom:latitude":39.23825,
+    "geom:longitude":46.70963,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kavdadiq",
+    "gn:country_code":"AZ",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388768,
+    "gn:latitude":39.23825,
+    "gn:longitude":46.70963,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Kavdad\u0131q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kavdad\u0131q"
+    ],
+    "name:hye_x_preferred":[
+        "K\u2019arotan"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0561\u0580\u0578\u057f\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0432\u0434\u0430\u0434\u044b\u0445"
+    ],
+    "name:und_x_variant":[
+        "Kevdadykh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388768,
+        "wk:page":"Kavdad%C4%B1q"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c5d444ef98e70a4f86e58ba4f4d8b571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344192065,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1344192065,
+    "wof:lastmodified":1537585292,
+    "wof:name":"Kavdadiq",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.70963,
+    39.23825,
+    46.70963,
+    39.23825
+],
+  "geometry": {"coordinates":[46.70963,39.23825],"type":"Point"}
+}

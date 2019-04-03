@@ -1,0 +1,64 @@
+{
+  "id": 1209035649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.58026,40.76158,48.58026,40.76158",
+    "geom:latitude":40.76158,
+    "geom:longitude":48.58026,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Sis",
+    "gn:country_code":"AZ",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":825010,
+    "gn:latitude":40.76158,
+    "gn:longitude":48.58026,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Sis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":825010
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"aecd98bca6cb4e36309a4fba280d5470",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209035649
+        }
+    ],
+    "wof:id":1209035649,
+    "wof:lastmodified":1537585515,
+    "wof:name":"Sis",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.58026,
+    40.76158,
+    48.58026,
+    40.76158
+],
+  "geometry": {"coordinates":[48.58026,40.76158],"type":"Point"}
+}

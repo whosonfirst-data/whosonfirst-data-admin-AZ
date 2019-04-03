@@ -1,0 +1,88 @@
+{
+  "id": 1276874303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.83406,40.04123,46.83406,40.04123",
+    "geom:latitude":40.04123,
+    "geom:longitude":46.83406,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Khachindorbatli",
+    "gn:country_code":"AZ",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586004,
+    "gn:latitude":40.04123,
+    "gn:longitude":46.83406,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Khachindorbatli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xa\u00e7\u0131nd\u0259rb\u0259tli"
+    ],
+    "name:hye_x_preferred":[
+        "Armenakavan"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0580\u0574\u0565\u0576\u0561\u056f\u0561\u057e\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0447\u0438\u043d\u0434\u043e\u0440\u0431\u0430\u0442\u043b\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0425\u0430\u0447\u0438\u043d\u0434\u043e\u0440\u0431\u0430\u0442\u043b\u044b",
+        "\u0414\u0436\u0438\u043d\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "\u0425\u0430\u0447\u0438\u043d\u0434\u043e\u0440\u0431\u0430\u0442\u043b\u0438",
+        "Dzhinli",
+        "Khachindorbatly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586004
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"77dacb1d07e5fbbaa792f13d20792e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276874303,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1276874303,
+    "wof:lastmodified":1537585402,
+    "wof:name":"Khachindorbatli",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.83406,
+    40.04123,
+    46.83406,
+    40.04123
+],
+  "geometry": {"coordinates":[46.83406,40.04123],"type":"Point"}
+}

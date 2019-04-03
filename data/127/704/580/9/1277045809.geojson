@@ -1,0 +1,73 @@
+{
+  "id": 1277045809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.40876,39.21335,48.40876,39.21335",
+    "geom:latitude":39.21335,
+    "geom:longitude":48.40876,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mollali",
+    "gn:country_code":"AZ",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438436,
+    "gn:latitude":39.21335,
+    "gn:longitude":48.40876,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Mollal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mollal\u0131"
+    ],
+    "name:und_x_variant":[
+        "Mollaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438436
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2ffea027ae23ce83ca89eebd014ee470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277045809,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1277045809,
+    "wof:lastmodified":1537585520,
+    "wof:name":"Mollali",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.40876,
+    39.21335,
+    48.40876,
+    39.21335
+],
+  "geometry": {"coordinates":[48.40876,39.21335],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1242708007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.67976,41.10671,48.67976,41.10671",
+    "geom:latitude":41.10671,
+    "geom:longitude":48.67976,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Urduch",
+    "gn:country_code":"AZ",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585323,
+    "gn:latitude":41.10671,
+    "gn:longitude":48.67976,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Urduch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00d6rd\u00fcc"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0434\u044e\u0447"
+    ],
+    "name:und_x_variant":[
+        "Orduch",
+        "Urduch",
+        "\u00d6rd\u00fcc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585323,
+        "wk:page":"%C3%96rd%C3%BCc"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"afec2db02e6359da0400f88ef915f92e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242708007,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1242708007,
+    "wof:lastmodified":1537585357,
+    "wof:name":"Urduch",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.67976,
+    41.10671,
+    48.67976,
+    41.10671
+],
+  "geometry": {"coordinates":[48.67976,41.10671],"type":"Point"}
+}

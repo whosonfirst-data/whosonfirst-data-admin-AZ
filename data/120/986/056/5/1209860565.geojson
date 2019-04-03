@@ -1,0 +1,75 @@
+{
+  "id": 1209860565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.23324,39.28279,45.23324,39.28279",
+    "geom:latitude":39.28279,
+    "geom:longitude":45.23324,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"8014931.0",
+    "gn:asciiname":"Boeyuekduez",
+    "gn:country_code":"AZ",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148349,
+    "gn:latitude":39.28279,
+    "gn:longitude":45.23324,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"B\u00f6y\u00fckd\u00fcz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "B\u00ebyuk-Dyuz"
+    ],
+    "name:und_x_variant":[
+        "B\u00f6y\u00fckd\u00fcz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668717,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148349,
+        "wk:page":"B%C3%B6y%C3%BCkd%C3%BCz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7adb3fecf0533445897c66b22f0977d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209860565,
+            "macroregion_id":1108808617,
+            "region_id":85668717
+        }
+    ],
+    "wof:id":1209860565,
+    "wof:lastmodified":1537585264,
+    "wof:name":"Boeyuekduez",
+    "wof:parent_id":85668717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.23324,
+    39.28279000000001,
+    45.23324,
+    39.28279000000001
+],
+  "geometry": {"coordinates":[45.23324,39.28279000000001],"type":"Point"}
+}

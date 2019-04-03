@@ -1,0 +1,79 @@
+{
+  "id": 1343894131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.95892,41.095,48.95892,41.095",
+    "geom:latitude":41.095,
+    "geom:longitude":48.95892,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Meshrif",
+    "gn:country_code":"AZ",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824024,
+    "gn:latitude":41.095,
+    "gn:longitude":48.95892,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Meshrif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "M\u01dd\u015frif"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0448\u0440\u0438\u0444"
+    ],
+    "name:und_x_variant":[
+        "Me\u015frif",
+        "Meshrif",
+        "M\u0259\u015frif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668425,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824024,
+        "wk:page":"M%C9%99%C5%9Frif"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9955cae8d8b4ee02e472570480708e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343894131,
+            "macroregion_id":1108808623,
+            "region_id":85668425
+        }
+    ],
+    "wof:id":1343894131,
+    "wof:lastmodified":1537585508,
+    "wof:name":"Meshrif",
+    "wof:parent_id":85668425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.95892,
+    41.095,
+    48.95892,
+    41.095
+],
+  "geometry": {"coordinates":[48.95892,41.095],"type":"Point"}
+}

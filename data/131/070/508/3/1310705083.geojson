@@ -1,0 +1,70 @@
+{
+  "id": 1310705083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.46806,39.92583,47.46806,39.92583",
+    "geom:latitude":39.92583,
+    "geom:longitude":47.46806,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Qaradolaq",
+    "gn:country_code":"AZ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":393929,
+    "gn:latitude":39.92583,
+    "gn:longitude":47.46806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qaradolaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaradolaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668519,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":393929
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a6a03e96af7a6c147660822b894a9e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310705083,
+            "macroregion_id":1108808627,
+            "region_id":85668519
+        }
+    ],
+    "wof:id":1310705083,
+    "wof:lastmodified":1537585296,
+    "wof:name":"Qaradolaq",
+    "wof:parent_id":85668519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.46806,
+    39.92583,
+    47.46806,
+    39.92583
+],
+  "geometry": {"coordinates":[47.46806,39.92583],"type":"Point"}
+}

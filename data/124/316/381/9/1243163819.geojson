@@ -1,0 +1,68 @@
+{
+  "id": 1243163819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.09056,39.71889,49.09056,39.71889",
+    "geom:latitude":39.71889,
+    "geom:longitude":49.09056,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chalovlu",
+    "gn:country_code":"AZ",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389168,
+    "gn:latitude":39.71889,
+    "gn:longitude":49.09056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chalovlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668449,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389168,
+        "wk:page":"Chalovlu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"138859cbb27da74124d18474f275b768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243163819,
+            "macroregion_id":1108808627,
+            "region_id":85668449
+        }
+    ],
+    "wof:id":1243163819,
+    "wof:lastmodified":1537486574,
+    "wof:name":"Chalovlu",
+    "wof:parent_id":85668449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.09056,
+    39.71889,
+    49.09056,
+    39.71889
+],
+  "geometry": {"coordinates":[49.09056,39.71889],"type":"Point"}
+}

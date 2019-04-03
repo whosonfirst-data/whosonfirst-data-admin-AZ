@@ -1,0 +1,80 @@
+{
+  "id": 1276179085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.13007,39.97753,46.13007,39.97753",
+    "geom:latitude":39.97753,
+    "geom:longitude":46.13007,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Baslibel",
+    "gn:country_code":"AZ",
+    "gn:dem":1908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148367,
+    "gn:latitude":39.97753,
+    "gn:longitude":46.13007,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ba\u015fl\u0131bel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ba\u015fl\u0131bel"
+    ],
+    "name:rus_x_preferred":[
+        "Bashlybel\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0448\u043b\u044b\u0431\u0435\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Bashtibel\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148367,
+        "wk:page":"Ba%C5%9Fl%C4%B1bel"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1560f650e7b8cd4dcb748bb6b2412299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276179085,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1276179085,
+    "wof:lastmodified":1537585265,
+    "wof:name":"Baslibel",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.13007,
+    39.97753,
+    46.13007,
+    39.97753
+],
+  "geometry": {"coordinates":[46.13007,39.97753],"type":"Point"}
+}

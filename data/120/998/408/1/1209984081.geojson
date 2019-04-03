@@ -1,0 +1,78 @@
+{
+  "id": 1209984081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.99929,40.80269,47.99929,40.80269",
+    "geom:latitude":40.80269,
+    "geom:longitude":47.99929,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Rusan",
+    "gn:country_code":"AZ",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585198,
+    "gn:latitude":40.80269,
+    "gn:longitude":47.99929,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Ru\u015fan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ru\u015fan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0448\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Rushan",
+        "Ru\u015fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585198,
+        "wk:page":"Ru%C5%9Fan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0def6339df83d000739cd176dec21ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209984081,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1209984081,
+    "wof:lastmodified":1537585349,
+    "wof:name":"Rusan",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.99929,
+    40.80269000000001,
+    47.99929,
+    40.80269000000001
+],
+  "geometry": {"coordinates":[47.99929,40.80269000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259518317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.82664,41.4899,48.82664,41.4899",
+    "geom:latitude":41.4899,
+    "geom:longitude":48.82664,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Xaspoladoba",
+    "gn:country_code":"AZ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585955,
+    "gn:latitude":41.4899,
+    "gn:longitude":48.82664,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Xaspoladoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khaspolatoba",
+        "Khaspoladoba",
+        "Xaspoladoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585955,
+        "wk:page":"Xaspoladoba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ab4c5da48cd84b344f78e701b86138c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259518317,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1259518317,
+    "wof:lastmodified":1537585399,
+    "wof:name":"Xaspoladoba",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.82664000000001,
+    41.4899,
+    48.82664000000001,
+    41.4899
+],
+  "geometry": {"coordinates":[48.82664000000001,41.4899],"type":"Point"}
+}

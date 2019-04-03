@@ -1,0 +1,73 @@
+{
+  "id": 1327472763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.60211,40.9816,47.60211,40.9816",
+    "geom:latitude":40.9816,
+    "geom:longitude":47.60211,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Xacmazqislaq",
+    "gn:country_code":"AZ",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586002,
+    "gn:latitude":40.9816,
+    "gn:longitude":47.60211,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Xa\u00e7mazq\u0131\u015flaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khachmaz-Kyshlag",
+        "Khachmaskyshlak",
+        "Xa\u00e7mazq\u0131\u015flaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668549,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586002,
+        "wk:page":"Xa%C3%A7mazq%C4%B1%C5%9Flaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c71197371b24f44ac9247e28804a5d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327472763,
+            "macroregion_id":1108808619,
+            "region_id":85668549
+        }
+    ],
+    "wof:id":1327472763,
+    "wof:lastmodified":1537585402,
+    "wof:name":"Xacmazqislaq",
+    "wof:parent_id":85668549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.60211,
+    40.9816,
+    47.60211,
+    40.9816
+],
+  "geometry": {"coordinates":[47.60211,40.9816],"type":"Point"}
+}

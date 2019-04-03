@@ -1,0 +1,72 @@
+{
+  "id": 1326783911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.02287,38.95745,46.02287,38.95745",
+    "geom:latitude":38.95745,
+    "geom:longitude":46.02287,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147365.0",
+    "gn:asciiname":"Nyusnyus",
+    "gn:country_code":"AZ",
+    "gn:dem":1318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147384,
+    "gn:latitude":38.95745,
+    "gn:longitude":46.02287,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Nyusnyus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00fcsn\u00fcs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668665,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147384,
+        "wk:page":"N%C3%BCsn%C3%BCs"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7127299b9a9ae6a13e1068d26f8c409e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326783911,
+            "macroregion_id":1108808617,
+            "region_id":85668665
+        }
+    ],
+    "wof:id":1326783911,
+    "wof:lastmodified":1537585168,
+    "wof:name":"Nyusnyus",
+    "wof:parent_id":85668665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.02287000000001,
+    38.95745,
+    46.02287000000001,
+    38.95745
+],
+  "geometry": {"coordinates":[46.02287000000001,38.95745],"type":"Point"}
+}

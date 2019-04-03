@@ -1,0 +1,68 @@
+{
+  "id": 1243231971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.11667,39.86667,48.11667,39.86667",
+    "geom:latitude":39.86667,
+    "geom:longitude":48.11667,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Khanlykh-Dzhevat",
+    "gn:country_code":"AZ",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147801,
+    "gn:latitude":39.86667,
+    "gn:longitude":48.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khanlykh-Dzhevat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668365,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147801,
+        "wk:page":"Khanlykh-Dzhevat"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"48c841eb5549fb80f4526a794e901845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243231971,
+            "macroregion_id":1108808627,
+            "region_id":85668365
+        }
+    ],
+    "wof:id":1243231971,
+    "wof:lastmodified":1537486538,
+    "wof:name":"Khanlykh-Dzhevat",
+    "wof:parent_id":85668365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.11667,
+    39.86667,
+    48.11667,
+    39.86667
+],
+  "geometry": {"coordinates":[48.11667,39.86667],"type":"Point"}
+}

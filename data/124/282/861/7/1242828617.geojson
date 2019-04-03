@@ -1,0 +1,78 @@
+{
+  "id": 1242828617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.10388,40.11686,48.10388,40.11686",
+    "geom:latitude":40.11686,
+    "geom:longitude":48.10388,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Mulla",
+    "gn:country_code":"AZ",
+    "gn:dem":-11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585481,
+    "gn:latitude":40.11686,
+    "gn:longitude":48.10388,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Mulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mollak\u01ddnd"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u043b\u0430\u043a\u0435\u043d\u0434"
+    ],
+    "name:und_x_variant":[
+        "Mollakent",
+        "Mollakend",
+        "Mollak\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668383,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585481
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0c273847cd89890a096e8dfde4916ecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242828617,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":1242828617,
+    "wof:lastmodified":1537585368,
+    "wof:name":"Mulla",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.10388,
+    40.11686,
+    48.10388,
+    40.11686
+],
+  "geometry": {"coordinates":[48.10388,40.11686],"type":"Point"}
+}

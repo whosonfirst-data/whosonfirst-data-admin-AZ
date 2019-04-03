@@ -1,0 +1,78 @@
+{
+  "id": 1343490861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.41353,40.09342,48.41353,40.09342",
+    "geom:latitude":40.09342,
+    "geom:longitude":48.41353,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Zangyana",
+    "gn:country_code":"AZ",
+    "gn:dem":-17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584597,
+    "gn:latitude":40.09342,
+    "gn:longitude":48.41353,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Zangyana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Z\u01ddng\u01ddn\u01dd"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043d\u0433\u044f\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zangene",
+        "Z\u0259ng\u0259n\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584597,
+        "wk:page":"Z%C9%99ng%C9%99n%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cffacd5a1b02ca662135bff91d27a840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343490861,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1343490861,
+    "wof:lastmodified":1537585308,
+    "wof:name":"Zangyana",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.41353,
+    40.09342,
+    48.41353,
+    40.09342
+],
+  "geometry": {"coordinates":[48.41353,40.09342],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310240885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.89151,39.8638,48.89151,39.8638",
+    "geom:latitude":39.8638,
+    "geom:longitude":48.89151,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Agamamedli",
+    "gn:country_code":"AZ",
+    "gn:dem":-23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148629,
+    "gn:latitude":39.8638,
+    "gn:longitude":48.89151,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Agamamedli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aga-Mamedly",
+        "Agamamedli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148629
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e2d9e7d528402802201af48827a7168b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310240885,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1310240885,
+    "wof:lastmodified":1537585287,
+    "wof:name":"Agamamedli",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.89151,
+    39.8638,
+    48.89151,
+    39.8638
+],
+  "geometry": {"coordinates":[48.89151,39.8638],"type":"Point"}
+}

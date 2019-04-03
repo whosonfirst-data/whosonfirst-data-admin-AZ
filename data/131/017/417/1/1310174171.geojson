@@ -1,0 +1,77 @@
+{
+  "id": 1310174171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9813,40.62809,47.9813,40.62809",
+    "geom:latitude":40.62809,
+    "geom:longitude":47.9813,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Qarayazi",
+    "gn:country_code":"AZ",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586136,
+    "gn:latitude":40.62809,
+    "gn:longitude":47.9813,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Qarayaz\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qarayaz\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u044f\u0437\u044b"
+    ],
+    "name:und_x_variant":[
+        "Karayazy",
+        "Qarayaz\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668357,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586136
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4cb305c250a35f547d26faff7f40b668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310174171,
+            "macroregion_id":1108808627,
+            "region_id":85668357
+        }
+    ],
+    "wof:id":1310174171,
+    "wof:lastmodified":1537585412,
+    "wof:name":"Qarayazi",
+    "wof:parent_id":85668357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9813,
+    40.62809,
+    47.9813,
+    40.62809
+],
+  "geometry": {"coordinates":[47.9813,40.62809],"type":"Point"}
+}

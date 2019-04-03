@@ -1,0 +1,75 @@
+{
+  "id": 1226557709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.73722,40.43111,49.73722,40.43111",
+    "geom:latitude":40.43111,
+    "geom:longitude":49.73722,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Geokmaly",
+    "gn:country_code":"AZ",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586481,
+    "gn:latitude":40.43111,
+    "gn:longitude":49.73722,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Geokmaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "H\u00f6km\u0259li"
+    ],
+    "name:und_x_variant":[
+        "Gekmaly",
+        "Geokmaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668251,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586481,
+        "wk:page":"H%C3%B6km%C9%99li"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0e93a2df34c02c2a1e91aec195e6cddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226557709,
+            "macroregion_id":1108808621,
+            "region_id":85668251
+        }
+    ],
+    "wof:id":1226557709,
+    "wof:lastmodified":1537585437,
+    "wof:name":"Geokmaly",
+    "wof:parent_id":85668251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.73722,
+    40.43111,
+    49.73722,
+    40.43111
+],
+  "geometry": {"coordinates":[49.73722,40.43111],"type":"Point"}
+}

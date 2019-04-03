@@ -1,0 +1,73 @@
+{
+  "id": 1209980901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.57745,40.44511,46.57745,40.44511",
+    "geom:latitude":40.44511,
+    "geom:longitude":46.57745,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Manasinshen",
+    "gn:country_code":"AZ",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11172804,
+    "gn:latitude":40.44511,
+    "gn:longitude":46.57745,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Manasinshen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Manasinshen"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0561\u0576\u0561\u057d\u056b\u0576\u0577\u0565\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11172804
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"079f78a93b1171b6b017890e2a26a3fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209980901,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1209980901,
+    "wof:lastmodified":1537585544,
+    "wof:name":"Manasinshen",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.57745,
+    40.44511,
+    46.57745,
+    40.44511
+],
+  "geometry": {"coordinates":[46.57745,40.44511],"type":"Point"}
+}

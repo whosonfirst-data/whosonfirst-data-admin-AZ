@@ -1,0 +1,70 @@
+{
+  "id": 1326511267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.2619,40.36745,47.2619,40.36745",
+    "geom:latitude":40.36745,
+    "geom:longitude":47.2619,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sarkyarlar",
+    "gn:country_code":"AZ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8549000,
+    "gn:latitude":40.36745,
+    "gn:longitude":47.2619,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Sarkyarlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u0259rkarlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8549000
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3023b63a62857d10e66cd71370311f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326511267,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1326511267,
+    "wof:lastmodified":1537585531,
+    "wof:name":"Sarkyarlar",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.2619,
+    40.36745,
+    47.2619,
+    40.36745
+],
+  "geometry": {"coordinates":[47.2619,40.36745],"type":"Point"}
+}

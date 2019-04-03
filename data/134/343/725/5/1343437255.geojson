@@ -1,0 +1,72 @@
+{
+  "id": 1343437255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.85993,41.26712,48.85993,41.26712",
+    "geom:latitude":41.26712,
+    "geom:longitude":48.85993,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Piramsin",
+    "gn:country_code":"AZ",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585268,
+    "gn:latitude":41.26712,
+    "gn:longitude":48.85993,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Piramsin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pir\u0259ms\u0259n",
+        "Piramsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585268,
+        "wk:page":"Pir%C9%99ms%C9%99n"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7d35438621c3c725a5a176eb39c2758e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343437255,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1343437255,
+    "wof:lastmodified":1537585353,
+    "wof:name":"Piramsin",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.85993,
+    41.26712,
+    48.85993,
+    41.26712
+],
+  "geometry": {"coordinates":[48.85993,41.26712],"type":"Point"}
+}

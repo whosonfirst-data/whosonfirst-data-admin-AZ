@@ -1,0 +1,73 @@
+{
+  "id": 1326765029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.60451,38.62743,48.60451,38.62743",
+    "geom:latitude":38.62743,
+    "geom:longitude":48.60451,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Nosovyadi",
+    "gn:country_code":"AZ",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8435259,
+    "gn:latitude":38.62743,
+    "gn:longitude":48.60451,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Nosovyadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "N\u0131so\u0259di"
+    ],
+    "name:aze_x_variant":[
+        "Nosovy\u0259di"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668403,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435259
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f2a3eeecf96321c8a53e6a60632b786f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326765029,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":1326765029,
+    "wof:lastmodified":1537585519,
+    "wof:name":"Nosovyadi",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.60451,
+    38.62743,
+    48.60451,
+    38.62743
+],
+  "geometry": {"coordinates":[48.60451,38.62743],"type":"Point"}
+}

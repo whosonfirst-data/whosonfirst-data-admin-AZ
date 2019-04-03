@@ -1,0 +1,83 @@
+{
+  "id": 1310268099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.20362,39.54113,47.20362,39.54113",
+    "geom:latitude":39.54113,
+    "geom:longitude":47.20362,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Kyurtlar",
+    "gn:country_code":"AZ",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147648,
+    "gn:latitude":39.54113,
+    "gn:longitude":47.20362,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Kyurtlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00fcrdl\u0259r"
+    ],
+    "name:hye_x_preferred":[
+        "K\u2019yurdlar"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0575\u0578\u0582\u0580\u0564\u056c\u0561\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044e\u0440\u0434\u043b\u044f\u0440"
+    ],
+    "name:und_x_variant":[
+        "Kyurdlyar",
+        "\u041a\u044e\u0440\u0434\u043b\u044f\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668351,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147648
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5890210d56488a5853240bd0a2202ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310268099,
+            "macroregion_id":1108808615,
+            "region_id":85668351
+        }
+    ],
+    "wof:id":1310268099,
+    "wof:lastmodified":1537585193,
+    "wof:name":"Kyurtlar",
+    "wof:parent_id":85668351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.20362,
+    39.54113,
+    47.20362,
+    39.54113
+],
+  "geometry": {"coordinates":[47.20362,39.54113],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1327292767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.64436,40.44222,46.64436,40.44222",
+    "geom:latitude":40.44222,
+    "geom:longitude":46.64436,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Yengikend",
+    "gn:country_code":"AZ",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584668,
+    "gn:latitude":40.44222,
+    "gn:longitude":46.64436,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Yengikend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yenik\u0259nd"
+    ],
+    "name:hye_x_preferred":[
+        "Yenik\u2019end"
+    ],
+    "name:hye_x_variant":[
+        "\u0535\u0576\u056b\u0584\u0565\u0576\u0564",
+        "Norashen",
+        "\u0546\u0578\u0580\u0561\u0577\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043d\u0438\u043a\u0435\u043d\u0434"
+    ],
+    "name:und_x_variant":[
+        "Norshen",
+        "Yengikend",
+        "Yenikend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584668
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3b5afd4ba17045e7ed9a3ef8811aca4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327292767,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1327292767,
+    "wof:lastmodified":1537585314,
+    "wof:name":"Yengikend",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.64436,
+    40.44222,
+    46.64436,
+    40.44222
+],
+  "geometry": {"coordinates":[46.64436,40.44222],"type":"Point"}
+}

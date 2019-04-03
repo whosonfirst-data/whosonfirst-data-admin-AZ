@@ -1,0 +1,72 @@
+{
+  "id": 1344087557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.64982,41.80247,48.64982,41.80247",
+    "geom:latitude":41.80247,
+    "geom:longitude":48.64982,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Simal",
+    "gn:country_code":"AZ",
+    "gn:dem":-16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824932,
+    "gn:latitude":41.80247,
+    "gn:longitude":48.64982,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"\u015eimal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eimal",
+        "Shimal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824932,
+        "wk:page":"%C5%9Eimal"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cb388c6b73e7e4c1cb76d61c3db57dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344087557,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1344087557,
+    "wof:lastmodified":1537585514,
+    "wof:name":"Simal",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.64982,
+    41.80247,
+    48.64982,
+    41.80247
+],
+  "geometry": {"coordinates":[48.64982,41.80247],"type":"Point"}
+}

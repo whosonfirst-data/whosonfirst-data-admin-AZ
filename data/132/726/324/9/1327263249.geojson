@@ -1,0 +1,83 @@
+{
+  "id": 1327263249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.70893,40.46728,48.70893,40.46728",
+    "geom:latitude":40.46728,
+    "geom:longitude":48.70893,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Birinci Cayli",
+    "gn:country_code":"AZ",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586870,
+    "gn:latitude":40.46728,
+    "gn:longitude":48.70893,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Birinci \u00c7ayl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Birinci \u00c7ayl\u0131"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c7ayl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0439\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Chayly Pervyy",
+        "Chayly",
+        "Chayly Pervyye",
+        "\u00c7ayl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586870,
+        "wk:page":"Birinci_%C3%87ayl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2db2c19bbc811f0dfb211166ace03804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327263249,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1327263249,
+    "wof:lastmodified":1537585465,
+    "wof:name":"Birinci Cayli",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.70893,
+    40.46728,
+    48.70893,
+    40.46728
+],
+  "geometry": {"coordinates":[48.70893,40.46728],"type":"Point"}
+}

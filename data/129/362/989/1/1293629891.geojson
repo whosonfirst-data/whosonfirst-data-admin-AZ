@@ -1,0 +1,76 @@
+{
+  "id": 1293629891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.02613,39.50228,45.02613,39.50228",
+    "geom:latitude":39.50228,
+    "geom:longitude":45.02613,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147997.0",
+    "gn:asciiname":"Xanliqlar",
+    "gn:country_code":"AZ",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147800,
+    "gn:latitude":39.50228,
+    "gn:longitude":45.02613,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Xanl\u0131qlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xanl\u0131qlar"
+    ],
+    "name:und_x_variant":[
+        "Khanlykhlar",
+        "Khannykhlar",
+        "Khanlyklar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668667,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147800
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cb02fa49ab3204d3fb44da885c073e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293629891,
+            "macroregion_id":1108808617,
+            "region_id":85668667
+        }
+    ],
+    "wof:id":1293629891,
+    "wof:lastmodified":1537585209,
+    "wof:name":"Xanliqlar",
+    "wof:parent_id":85668667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.02613,
+    39.50228,
+    45.02613,
+    39.50228
+],
+  "geometry": {"coordinates":[45.02613,39.50228],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226279729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.58839,41.59778,48.58839,41.59778",
+    "geom:latitude":41.59778,
+    "geom:longitude":48.58839,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Ashaga-Leger",
+    "gn:country_code":"AZ",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587197,
+    "gn:latitude":41.59778,
+    "gn:longitude":48.58839,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Ashaga-Leger",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u0259g\u0259rq\u0131\u015flaq",
+        "Legerkyshlak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587197,
+        "wk:page":"L%C9%99g%C9%99rq%C4%B1%C5%9Flaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f9123bc6ad7296b9728b989ae6cefcfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226279729,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1226279729,
+    "wof:lastmodified":1537585489,
+    "wof:name":"Ashaga-Leger",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.58839,
+    41.59778,
+    48.58839,
+    41.59778
+],
+  "geometry": {"coordinates":[48.58839,41.59778],"type":"Point"}
+}

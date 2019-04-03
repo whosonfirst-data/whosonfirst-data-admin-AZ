@@ -1,0 +1,84 @@
+{
+  "id": 1259830541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.30038,39.80824,46.30038,39.80824",
+    "geom:latitude":39.80824,
+    "geom:longitude":46.30038,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Narislar",
+    "gn:country_code":"AZ",
+    "gn:dem":1740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395476,
+    "gn:latitude":39.80824,
+    "gn:longitude":46.30038,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Nari\u015flar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Nari\u015flar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0580\u0568\u0577\u056c\u0561\u0580"
+    ],
+    "name:hye_x_variant":[
+        "Sis",
+        "\u054d\u056b\u057d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0440\u044b\u0448\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Naryshlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395476,
+        "wk:page":"Nari%C5%9Flar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6e7080c754725dc7286383912d9d55db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259830541,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1259830541,
+    "wof:lastmodified":1537585299,
+    "wof:name":"Narislar",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.30038,
+    39.80824000000001,
+    46.30038,
+    39.80824000000001
+],
+  "geometry": {"coordinates":[46.30038,39.80824000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209599093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.45156,41.72965,46.45156,41.72965",
+    "geom:latitude":41.72965,
+    "geom:longitude":46.45156,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Solban",
+    "gn:country_code":"AZ",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584817,
+    "gn:latitude":41.72965,
+    "gn:longitude":46.45156,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Solban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsolban",
+        "Solban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584817,
+        "wk:page":"Solban"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bcc64c05235b76cd9dfdaceb8e64477c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209599093
+        }
+    ],
+    "wof:id":1209599093,
+    "wof:lastmodified":1537585323,
+    "wof:name":"Solban",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.45156,
+    41.72965,
+    46.45156,
+    41.72965
+],
+  "geometry": {"coordinates":[46.45156,41.72965],"type":"Point"}
+}

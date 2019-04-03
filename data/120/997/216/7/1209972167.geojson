@@ -1,0 +1,73 @@
+{
+  "id": 1209972167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.13606,40.79346,48.13606,40.79346",
+    "geom:latitude":40.79346,
+    "geom:longitude":48.13606,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Mican",
+    "gn:country_code":"AZ",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585516,
+    "gn:latitude":40.79346,
+    "gn:longitude":48.13606,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mican",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Midzhakend",
+        "Midzhan",
+        "Mican"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585516,
+        "wk:page":"Mican"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7be81ceb6669de0281d7884154154fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209972167,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1209972167,
+    "wof:lastmodified":1537585370,
+    "wof:name":"Mican",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.13606,
+    40.79346,
+    48.13606,
+    40.79346
+],
+  "geometry": {"coordinates":[48.13606,40.79346],"type":"Point"}
+}

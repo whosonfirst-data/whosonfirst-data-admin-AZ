@@ -1,0 +1,79 @@
+{
+  "id": 1209689943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.85274,40.64638,46.85274,40.64638",
+    "geom:latitude":40.64638,
+    "geom:longitude":46.85274,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Goran",
+    "gn:country_code":"AZ",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586174,
+    "gn:latitude":40.64638,
+    "gn:longitude":46.85274,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Goran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Goran"
+    ],
+    "name:aze_x_variant":[
+        "G\u00f6ran"
+    ],
+    "name:rus_x_preferred":[
+        "Geran\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0435\u0440\u0430\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Karakoyunly",
+        "Karakoyunlu",
+        "Qaraqoyunlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586174,
+        "wk:page":"Qaraqoyunlu%2C_Goranboy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4e644aa143454a11888cd05937092872",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209689943
+        }
+    ],
+    "wof:id":1209689943,
+    "wof:lastmodified":1537585414,
+    "wof:name":"Goran",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.85274,
+    40.64638,
+    46.85274,
+    40.64638
+],
+  "geometry": {"coordinates":[46.85274,40.64638],"type":"Point"}
+}

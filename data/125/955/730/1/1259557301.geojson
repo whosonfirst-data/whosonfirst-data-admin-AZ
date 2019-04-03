@@ -1,0 +1,86 @@
+{
+  "id": 1259557301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91479,39.3793,46.91479,39.3793",
+    "geom:latitude":39.3793,
+    "geom:longitude":46.91479,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Hovuslu",
+    "gn:country_code":"AZ",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147788,
+    "gn:latitude":39.3793,
+    "gn:longitude":46.91479,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Hovuslu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Havuslu"
+    ],
+    "name:aze_x_variant":[
+        "Hovuslu"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0561\u057e\u0568\u057d\u056c\u0568"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0432\u044b\u0441\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Khovuslu",
+        "Khovysly",
+        "Khavysly",
+        "\u0425\u0430\u0432\u044b\u0441\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147788,
+        "wk:page":"Havuslu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"08bf3d8a6155007b97e41573c2e7f869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259557301,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1259557301,
+    "wof:lastmodified":1537585208,
+    "wof:name":"Hovuslu",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91479,
+    39.3793,
+    46.91479,
+    39.3793
+],
+  "geometry": {"coordinates":[46.91479,39.3793],"type":"Point"}
+}

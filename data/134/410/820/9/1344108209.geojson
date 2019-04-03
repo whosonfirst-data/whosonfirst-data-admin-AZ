@@ -1,0 +1,73 @@
+{
+  "id": 1344108209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.24193,41.03351,45.24193,41.03351",
+    "geom:latitude":41.03351,
+    "geom:longitude":45.24193,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Dzhafarly",
+    "gn:country_code":"AZ",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586683,
+    "gn:latitude":41.03351,
+    "gn:longitude":45.24193,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Dzhafarly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhafarli",
+        "Dzhafarly",
+        "C\u0259f\u0259rli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668229,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586683,
+        "wk:page":"C%C9%99f%C9%99rli%2C_Qazakh"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"47bba9c993945dd98ebf92a1cf3532cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344108209,
+            "macroregion_id":1108808609,
+            "region_id":85668229
+        }
+    ],
+    "wof:id":1344108209,
+    "wof:lastmodified":1537585451,
+    "wof:name":"Dzhafarly",
+    "wof:parent_id":85668229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.24193,
+    41.03351,
+    45.24193,
+    41.03351
+],
+  "geometry": {"coordinates":[45.24193,41.03351],"type":"Point"}
+}

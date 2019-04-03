@@ -1,0 +1,88 @@
+{
+  "id": 1310532659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.54372,39.39645,46.54372,39.39645",
+    "geom:latitude":39.39645,
+    "geom:longitude":46.54372,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Lopa-Kheyranly",
+    "gn:country_code":"AZ",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147612,
+    "gn:latitude":39.39645,
+    "gn:longitude":46.54372,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Lopa-Kheyranly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "L\u0259p\u0259h\u0259yranl\u0131"
+    ],
+    "name:aze_x_variant":[
+        "L\u0259p\u0259xeyranl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Lepeheyranly"
+    ],
+    "name:hye_x_variant":[
+        "\u053c\u0565\u057a\u0565\u0570\u0567\u0575\u0580\u0561\u0576\u056c\u0568"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043f\u0435\u0445\u0435\u0439\u0440\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Lepekheyranly",
+        "Lopa-Kheyranly",
+        "\u041b\u0435\u043f\u0435\u0445\u0435\u0439\u0440\u0430\u043d\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147612,
+        "wk:page":"L%C9%99p%C9%99h%C9%99yranl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3a2ee5d027e1e4966009f79cf0f2f31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310532659,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1310532659,
+    "wof:lastmodified":1537585190,
+    "wof:name":"Lopa-Kheyranly",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.54372,
+    39.39645,
+    46.54372,
+    39.39645
+],
+  "geometry": {"coordinates":[46.54372,39.39645],"type":"Point"}
+}

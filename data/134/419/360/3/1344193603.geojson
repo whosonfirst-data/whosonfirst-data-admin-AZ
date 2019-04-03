@@ -1,0 +1,68 @@
+{
+  "id": 1344193603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.89629,39.48253,48.89629,39.48253",
+    "geom:latitude":39.48253,
+    "geom:longitude":48.89629,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Sarvan",
+    "gn:country_code":"AZ",
+    "gn:dem":-23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147251,
+    "gn:latitude":39.48253,
+    "gn:longitude":48.89629,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Sarvan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668449,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147251,
+        "wk:page":"Sarvan%2C_Salyan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c000e96781a9b7fcee4f683e06da8eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344193603,
+            "macroregion_id":1108808627,
+            "region_id":85668449
+        }
+    ],
+    "wof:id":1344193603,
+    "wof:lastmodified":1537486518,
+    "wof:name":"Sarvan",
+    "wof:parent_id":85668449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.89629,
+    39.48253,
+    48.89629,
+    39.48253
+],
+  "geometry": {"coordinates":[48.89629,39.48253],"type":"Point"}
+}

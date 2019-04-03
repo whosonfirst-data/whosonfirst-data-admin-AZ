@@ -1,0 +1,72 @@
+{
+  "id": 1293170453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.10999,40.41568,46.10999,40.41568",
+    "geom:latitude":40.41568,
+    "geom:longitude":46.10999,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Qarataglar",
+    "gn:country_code":"AZ",
+    "gn:dem":1558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586145,
+    "gn:latitude":40.41568,
+    "gn:longitude":46.10999,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Qarata\u011flar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karataglar",
+        "Qarata\u011flar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586145,
+        "wk:page":"Qarata%C4%9Flar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"05633a8468879e6f2ce6a60cafb6cc72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293170453,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1293170453,
+    "wof:lastmodified":1537585412,
+    "wof:name":"Qarataglar",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.10999,
+    40.41568,
+    46.10999,
+    40.41568
+],
+  "geometry": {"coordinates":[46.10999,40.41568],"type":"Point"}
+}

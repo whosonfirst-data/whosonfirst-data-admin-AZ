@@ -1,0 +1,68 @@
+{
+  "id": 1242904873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.69778,41.2725,48.69778,41.2725",
+    "geom:latitude":41.2725,
+    "geom:longitude":48.69778,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Izzhor",
+    "gn:country_code":"AZ",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800553,
+    "gn:latitude":41.2725,
+    "gn:longitude":48.69778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Izzhor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800553,
+        "wk:page":"Izzhor"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"05834e5b822f178c898871e4756f01d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242904873,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1242904873,
+    "wof:lastmodified":1537486678,
+    "wof:name":"Izzhor",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.69778,
+    41.2725,
+    48.69778,
+    41.2725
+],
+  "geometry": {"coordinates":[48.69778,41.2725],"type":"Point"}
+}

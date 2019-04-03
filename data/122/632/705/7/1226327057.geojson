@@ -1,0 +1,83 @@
+{
+  "id": 1226327057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.27849,40.28248,49.27849,40.28248",
+    "geom:latitude":40.28248,
+    "geom:longitude":49.27849,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ceyildag",
+    "gn:country_code":"AZ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586915,
+    "gn:latitude":40.28248,
+    "gn:longitude":49.27849,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"\u00c7eyilda\u011f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7eyilda\u011f"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c7eylda\u011f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0438\u043b\u044c\u0434\u0430\u0433"
+    ],
+    "name:und_x_variant":[
+        "Cheil\u2019dag",
+        "Chair-Dag",
+        "Chel\u2019Dag",
+        "\u00c7eylda\u011f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668251,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586915,
+        "wk:page":"%C3%87eyilda%C4%9F"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d83510a3037ff2c4089d3dce64927fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226327057,
+            "macroregion_id":1108808621,
+            "region_id":85668251
+        }
+    ],
+    "wof:id":1226327057,
+    "wof:lastmodified":1537585469,
+    "wof:name":"Ceyildag",
+    "wof:parent_id":85668251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.27849000000001,
+    40.28248,
+    49.27849000000001,
+    40.28248
+],
+  "geometry": {"coordinates":[49.27849000000001,40.28248],"type":"Point"}
+}

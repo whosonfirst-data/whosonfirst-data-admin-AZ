@@ -1,0 +1,76 @@
+{
+  "id": 1343443769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.6001,39.15655,48.6001,39.15655",
+    "geom:latitude":39.15655,
+    "geom:longitude":48.6001,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Navtlug",
+    "gn:country_code":"AZ",
+    "gn:dem":-13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147438,
+    "gn:latitude":39.15655,
+    "gn:longitude":48.6001,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Navtlug",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u00f6y\u00fcdl\u00fc"
+    ],
+    "name:aze_x_variant":[
+        "N\u0259ft\u0259luq"
+    ],
+    "name:und_x_variant":[
+        "Naftaluk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147438
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6980b48bab0a71fe680537b47777c200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343443769,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1343443769,
+    "wof:lastmodified":1537585173,
+    "wof:name":"Navtlug",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.6001,
+    39.15655,
+    48.6001,
+    39.15655
+],
+  "geometry": {"coordinates":[48.6001,39.15655],"type":"Point"}
+}

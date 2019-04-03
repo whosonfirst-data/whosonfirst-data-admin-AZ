@@ -1,0 +1,80 @@
+{
+  "id": 1243394571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.57333,39.67077,46.57333,39.67077",
+    "geom:latitude":39.67077,
+    "geom:longitude":46.57333,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Kherkhan",
+    "gn:country_code":"AZ",
+    "gn:dem":1433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147787,
+    "gn:latitude":39.67077,
+    "gn:longitude":46.57333,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Kherkhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "X\u0259rxan"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0565\u0580\u056d\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0440\u0445\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Kherikhan",
+        "Kherkhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668643,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147787
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6e7f8981df2f156994c4ddba2404549e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243394571,
+            "macroregion_id":1108808615,
+            "region_id":85668643
+        }
+    ],
+    "wof:id":1243394571,
+    "wof:lastmodified":1537585208,
+    "wof:name":"Kherkhan",
+    "wof:parent_id":85668643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.57333,
+    39.67077000000001,
+    46.57333,
+    39.67077000000001
+],
+  "geometry": {"coordinates":[46.57333,39.67077000000001],"type":"Point"}
+}

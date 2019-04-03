@@ -1,0 +1,77 @@
+{
+  "id": 1293356623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.20898,39.59547,47.20898,39.59547",
+    "geom:latitude":39.59547,
+    "geom:longitude":47.20898,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Aleskerly",
+    "gn:country_code":"AZ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148572,
+    "gn:latitude":39.59547,
+    "gn:longitude":47.20898,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Aleskerly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fl\u0259sg\u0259rli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u0441\u043a\u0435\u0440\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Aleskerli",
+        "\u0410\u043b\u0435\u0441\u043a\u0435\u0440\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668351,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148572
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4d29cb3996c990d6c22daa6481e26634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293356623,
+            "macroregion_id":1108808615,
+            "region_id":85668351
+        }
+    ],
+    "wof:id":1293356623,
+    "wof:lastmodified":1537585282,
+    "wof:name":"Aleskerly",
+    "wof:parent_id":85668351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.20898,
+    39.59547,
+    47.20898,
+    39.59547
+],
+  "geometry": {"coordinates":[47.20898,39.59547],"type":"Point"}
+}

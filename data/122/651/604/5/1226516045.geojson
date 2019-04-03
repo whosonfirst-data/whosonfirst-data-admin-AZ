@@ -1,0 +1,73 @@
+{
+  "id": 1226516045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.70151,39.40995,46.70151,39.40995",
+    "geom:latitude":39.40995,
+    "geom:longitude":46.70151,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Lchashen",
+    "gn:country_code":"AZ",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11214087,
+    "gn:latitude":39.40995,
+    "gn:longitude":46.70151,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Lchashen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Lchashen"
+    ],
+    "name:hye_x_variant":[
+        "\u053c\u0573\u0561\u0577\u0565\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11214087
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fe59629aaa14765ff1dc4597172c1c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226516045,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1226516045,
+    "wof:lastmodified":1537585544,
+    "wof:name":"Lchashen",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.70151,
+    39.40995,
+    46.70151,
+    39.40995
+],
+  "geometry": {"coordinates":[46.70151,39.40995],"type":"Point"}
+}

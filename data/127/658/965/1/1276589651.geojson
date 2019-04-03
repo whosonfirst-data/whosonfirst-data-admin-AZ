@@ -1,0 +1,71 @@
+{
+  "id": 1276589651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.22789,41.02144,47.22789,41.02144",
+    "geom:latitude":41.02144,
+    "geom:longitude":47.22789,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Ibragimkend",
+    "gn:country_code":"AZ",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586361,
+    "gn:latitude":41.02144,
+    "gn:longitude":47.22789,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Ibragimkend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0130brahimk\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586361,
+        "wk:page":"%C4%B0brahimk%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ac1106c1191394954849761a702df8ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276589651,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1276589651,
+    "wof:lastmodified":1537585428,
+    "wof:name":"Ibragimkend",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.22789,
+    41.02144000000001,
+    47.22789,
+    41.02144000000001
+],
+  "geometry": {"coordinates":[47.22789,41.02144000000001],"type":"Point"}
+}

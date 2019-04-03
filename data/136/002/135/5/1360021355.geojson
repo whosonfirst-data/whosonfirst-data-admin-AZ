@@ -1,0 +1,70 @@
+{
+  "id": 1360021355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.70824,40.8121,45.70824,40.8121",
+    "geom:latitude":40.8121,
+    "geom:longitude":45.70824,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Kedzhavend",
+    "gn:country_code":"AZ",
+    "gn:dem":1265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607086,
+    "gn:latitude":40.8121,
+    "gn:longitude":45.70824,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Kedzhavend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u0259cav\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607086
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cab7855daf0f5589b74c898c7fd45d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360021355,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1360021355,
+    "wof:lastmodified":1537585533,
+    "wof:name":"Kedzhavend",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.70824,
+    40.8121,
+    45.70824,
+    40.8121
+],
+  "geometry": {"coordinates":[45.70824,40.8121],"type":"Point"}
+}

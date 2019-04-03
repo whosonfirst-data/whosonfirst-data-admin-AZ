@@ -1,0 +1,77 @@
+{
+  "id": 1344193521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.56187,40.83965,48.56187,40.83965",
+    "geom:latitude":40.83965,
+    "geom:longitude":48.56187,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Demirchi",
+    "gn:country_code":"AZ",
+    "gn:dem":1484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586751,
+    "gn:latitude":40.83965,
+    "gn:longitude":48.56187,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Demirchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "D\u01ddmir\u00e7i"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043c\u0438\u0440\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Damerchi",
+        "D\u0259mir\u00e7i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586751
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b071d9b3cca61b6d44abec964f8c7cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344193521,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1344193521,
+    "wof:lastmodified":1537585456,
+    "wof:name":"Demirchi",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.56187,
+    40.83965,
+    48.56187,
+    40.83965
+],
+  "geometry": {"coordinates":[48.56187,40.83965],"type":"Point"}
+}

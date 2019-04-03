@@ -1,0 +1,71 @@
+{
+  "id": 1293441049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.34558,41.07795,45.34558,41.07795",
+    "geom:latitude":41.07795,
+    "geom:longitude":45.34558,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Agkeynak",
+    "gn:country_code":"AZ",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":799661,
+    "gn:latitude":41.07795,
+    "gn:longitude":45.34558,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Agkeynak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u011fk\u00f6yn\u0259k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668229,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":799661,
+        "wk:page":"A%C4%9Fk%C3%B6yn%C9%99k"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e161126af570802a6f881db1770b1ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293441049,
+            "macroregion_id":1108808609,
+            "region_id":85668229
+        }
+    ],
+    "wof:id":1293441049,
+    "wof:lastmodified":1537585503,
+    "wof:name":"Agkeynak",
+    "wof:parent_id":85668229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.34558,
+    41.07795,
+    45.34558,
+    41.07795
+],
+  "geometry": {"coordinates":[45.34558,41.07795],"type":"Point"}
+}

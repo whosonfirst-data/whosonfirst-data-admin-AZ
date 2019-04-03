@@ -1,0 +1,71 @@
+{
+  "id": 1310630489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.07216,39.68376,47.07216,39.68376",
+    "geom:latitude":39.68376,
+    "geom:longitude":47.07216,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Amaras",
+    "gn:country_code":"AZ",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388654,
+    "gn:latitude":39.68376,
+    "gn:longitude":47.07216,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Amaras",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0531\u0574\u0561\u0580\u0561\u057d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388654,
+        "wk:page":"Amaras"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a467856fc61a2b5e34f0c4b7e7e42c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310630489,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1310630489,
+    "wof:lastmodified":1537585289,
+    "wof:name":"Amaras",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.07216,
+    39.68376,
+    47.07216,
+    39.68376
+],
+  "geometry": {"coordinates":[47.07216,39.68376],"type":"Point"}
+}

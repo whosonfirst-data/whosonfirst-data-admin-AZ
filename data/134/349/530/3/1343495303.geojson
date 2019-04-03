@@ -1,0 +1,81 @@
+{
+  "id": 1343495303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.83012,39.9459,46.83012,39.9459",
+    "geom:latitude":39.9459,
+    "geom:longitude":46.83012,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Nerkin Qlicbag",
+    "gn:country_code":"AZ",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147419,
+    "gn:latitude":39.9459,
+    "gn:longitude":46.83012,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Nerkin Ql\u0131\u00e7ba\u011f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Nerkin Ql\u0131\u00e7ba\u011f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0440\u043a\u0438\u043d-\u041a\u044b\u043b\u044b\u0447\u0431\u0430\u0433"
+    ],
+    "name:und_x_variant":[
+        "Ashaga-Klishbag",
+        "Nerkin Ghlizhbagh",
+        "Ashaga-Klishbog",
+        "Nerkin Klychbag",
+        "Nerkin-Kylychbag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147419,
+        "wk:page":"Nerkin_Ql%C4%B1%C3%A7ba%C4%9F"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8c9b46abe4a574dd50232e56dc0a3c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343495303,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1343495303,
+    "wof:lastmodified":1537585172,
+    "wof:name":"Nerkin Qlicbag",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.83012,
+    39.9459,
+    46.83012,
+    39.9459
+],
+  "geometry": {"coordinates":[46.83012,39.9459],"type":"Point"}
+}

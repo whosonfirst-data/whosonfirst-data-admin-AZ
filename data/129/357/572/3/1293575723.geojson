@@ -1,0 +1,68 @@
+{
+  "id": 1293575723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.13437,39.609,48.13437,39.609",
+    "geom:latitude":39.609,
+    "geom:longitude":48.13437,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Daran",
+    "gn:country_code":"AZ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409291,
+    "gn:latitude":39.609,
+    "gn:longitude":48.13437,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Daran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668317,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409291,
+        "wk:page":"Daran%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e4f156955603e39069b840b3d524ace9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293575723,
+            "macroregion_id":1108808627,
+            "region_id":85668317
+        }
+    ],
+    "wof:id":1293575723,
+    "wof:lastmodified":1537486580,
+    "wof:name":"Daran",
+    "wof:parent_id":85668317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.13437,
+    39.609,
+    48.13437,
+    39.609
+],
+  "geometry": {"coordinates":[48.13437,39.609],"type":"Point"}
+}

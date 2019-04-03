@@ -1,0 +1,68 @@
+{
+  "id": 1326890095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.92286,38.93895,48.92286,38.93895",
+    "geom:latitude":38.93895,
+    "geom:longitude":48.92286,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Baliqcilar",
+    "gn:country_code":"AZ",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400324,
+    "gn:latitude":38.93895,
+    "gn:longitude":48.92286,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Bal\u0131q\u00e7\u0131lar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pamyat\u2019 Lenina",
+        "Bal\u0131q\u00e7\u0131lar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400324,
+        "wk:page":"Bal%C4%B1q%C3%A7%C4%B1lar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ab279085947d38fd0c8e6bfe57738fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1326890095,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326890095,
+    "wof:lastmodified":1537585302,
+    "wof:name":"Baliqcilar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.92286,
+    38.93895,
+    48.92286,
+    38.93895
+],
+  "geometry": {"coordinates":[48.92286,38.93895],"type":"Point"}
+}

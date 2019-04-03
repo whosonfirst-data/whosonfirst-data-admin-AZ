@@ -1,0 +1,73 @@
+{
+  "id": 1343300395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.13634,41.22418,45.13634,41.22418",
+    "geom:latitude":41.22418,
+    "geom:longitude":45.13634,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Qaymaqli",
+    "gn:country_code":"AZ",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586098,
+    "gn:latitude":41.22418,
+    "gn:longitude":45.13634,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Qaymaql\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaymagly",
+        "Kaymakhly",
+        "Qaymaql\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668229,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586098,
+        "wk:page":"Qaymaql%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dbaa89649ed3d1858de08c8bdd4887e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343300395,
+            "macroregion_id":1108808609,
+            "region_id":85668229
+        }
+    ],
+    "wof:id":1343300395,
+    "wof:lastmodified":1537585409,
+    "wof:name":"Qaymaqli",
+    "wof:parent_id":85668229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.13634,
+    41.22418,
+    45.13634,
+    41.22418
+],
+  "geometry": {"coordinates":[45.13634,41.22418],"type":"Point"}
+}

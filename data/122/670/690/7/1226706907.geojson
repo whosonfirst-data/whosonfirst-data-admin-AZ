@@ -1,0 +1,84 @@
+{
+  "id": 1226706907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.13742,40.07229,46.13742,40.07229",
+    "geom:latitude":40.07229,
+    "geom:longitude":46.13742,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Moz",
+    "gn:country_code":"AZ",
+    "gn:dem":1864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":801222,
+    "gn:latitude":40.07229,
+    "gn:longitude":46.13742,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Moz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mozk\u0259nd"
+    ],
+    "name:aze_x_variant":[
+        "Moz"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0566"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0437\u043a\u0435\u043d\u0434"
+    ],
+    "name:und_x_variant":[
+        "Armudly",
+        "Mozkend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":801222,
+        "wk:page":"Armudly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"18f0499efe89fff223667a88cd02f6e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226706907,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1226706907,
+    "wof:lastmodified":1537585507,
+    "wof:name":"Moz",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.13742,
+    40.07229,
+    46.13742,
+    40.07229
+],
+  "geometry": {"coordinates":[46.13742,40.07229],"type":"Point"}
+}

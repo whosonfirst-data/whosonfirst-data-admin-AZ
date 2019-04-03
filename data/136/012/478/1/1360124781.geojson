@@ -1,0 +1,70 @@
+{
+  "id": 1360124781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.91812,39.25469,48.91812,39.25469",
+    "geom:latitude":39.25469,
+    "geom:longitude":48.91812,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Khazar",
+    "gn:country_code":"AZ",
+    "gn:dem":-27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389161,
+    "gn:latitude":39.25469,
+    "gn:longitude":48.91812,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u0259z\u0259r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668409,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389161
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6d4af7f1003f7eea99438338e5291cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360124781,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1360124781,
+    "wof:lastmodified":1537585293,
+    "wof:name":"Khazar",
+    "wof:parent_id":85668409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.91812,
+    39.25469,
+    48.91812,
+    39.25469
+],
+  "geometry": {"coordinates":[48.91812,39.25469],"type":"Point"}
+}

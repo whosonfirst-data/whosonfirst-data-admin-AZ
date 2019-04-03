@@ -1,0 +1,87 @@
+{
+  "id": 1292940637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.57768,40.16984,46.57768,40.16984",
+    "geom:latitude":40.16984,
+    "geom:longitude":46.57768,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Zaglik",
+    "gn:country_code":"AZ",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584611,
+    "gn:latitude":40.16984,
+    "gn:longitude":46.57768,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Zaglik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Z\u0259ylik"
+    ],
+    "name:hye_x_preferred":[
+        "Zeylik\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0536\u0565\u0575\u056c\u056b\u0584",
+        "\u0536\u0561\u0563\u056c\u056b\u056f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u0439\u043b\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Dzaglik",
+        "Zaglik",
+        "Zagdig",
+        "Zeylik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584611,
+        "wk:page":"Z%C9%99ylik%2C_Tartar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"357b1533958c359e1b83014c25c4ca7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1292940637,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1292940637,
+    "wof:lastmodified":1537585309,
+    "wof:name":"Zaglik",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.57768,
+    40.16984,
+    46.57768,
+    40.16984
+],
+  "geometry": {"coordinates":[46.57768,40.16984],"type":"Point"}
+}

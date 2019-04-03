@@ -1,0 +1,73 @@
+{
+  "id": 1259746815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.85766,41.36213,48.85766,41.36213",
+    "geom:latitude":41.36213,
+    "geom:longitude":48.85766,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Sokhbetli",
+    "gn:country_code":"AZ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585100,
+    "gn:latitude":41.36213,
+    "gn:longitude":48.85766,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Sokhbetli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seybatli",
+        "Sokhbetli",
+        "S\u00f6hb\u0259tli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585100,
+        "wk:page":"S%C3%B6hb%C9%99tli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4864e00c1fc1f7f53609ca47f2356eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259746815,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1259746815,
+    "wof:lastmodified":1537585343,
+    "wof:name":"Sokhbetli",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.85766,
+    41.36213,
+    48.85766,
+    41.36213
+],
+  "geometry": {"coordinates":[48.85766,41.36213],"type":"Point"}
+}

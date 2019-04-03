@@ -1,0 +1,74 @@
+{
+  "id": 1226224249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1583,40.42151,46.1583,40.42151",
+    "geom:latitude":40.42151,
+    "geom:longitude":46.1583,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Yolqullar",
+    "gn:country_code":"AZ",
+    "gn:dem":1478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584684,
+    "gn:latitude":40.42151,
+    "gn:longitude":46.1583,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Yolqullar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yolqullar"
+    ],
+    "name:rus_x_preferred":[
+        "Y\u00eblkullar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584684,
+        "wk:page":"Yolqullar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2d7318c89c2452d3ff64e8016058e102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226224249,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1226224249,
+    "wof:lastmodified":1537585315,
+    "wof:name":"Yolqullar",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1583,
+    40.42151,
+    46.1583,
+    40.42151
+],
+  "geometry": {"coordinates":[46.1583,40.42151],"type":"Point"}
+}

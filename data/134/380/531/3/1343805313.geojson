@@ -1,0 +1,80 @@
+{
+  "id": 1343805313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.30705,39.76527,46.30705,39.76527",
+    "geom:latitude":39.76527,
+    "geom:longitude":46.30705,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Katos",
+    "gn:country_code":"AZ",
+    "gn:dem":1729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8457291,
+    "gn:latitude":39.76527,
+    "gn:longitude":46.30705,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Katos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Katos"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u057f\u0578\u057d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u043e\u0437"
+    ],
+    "name:und_x_variant":[
+        "Katoz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8457291,
+        "wk:page":"Katos"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"685bd9c7d12e33d289df2669a2d4b88e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343805313,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1343805313,
+    "wof:lastmodified":1537585522,
+    "wof:name":"Katos",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.30705,
+    39.76527,
+    46.30705,
+    39.76527
+],
+  "geometry": {"coordinates":[46.30705,39.76527],"type":"Point"}
+}

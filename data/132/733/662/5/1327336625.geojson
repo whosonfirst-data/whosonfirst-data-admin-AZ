@@ -1,0 +1,71 @@
+{
+  "id": 1327336625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.45639,39.86222,47.45639,39.86222",
+    "geom:latitude":39.86222,
+    "geom:longitude":47.45639,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dorduncu Barak",
+    "gn:country_code":"AZ",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395725,
+    "gn:latitude":39.86222,
+    "gn:longitude":47.45639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"D\u00f6rd\u00fcnc\u00fc Barak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u00f6rd\u00fcnc\u00fc Barak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668519,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395725,
+        "wk:page":"D%C3%B6rd%C3%BCnc%C3%BC_Barak"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"acd155d5b5d209414d60309d3d45b7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327336625,
+            "macroregion_id":1108808627,
+            "region_id":85668519
+        }
+    ],
+    "wof:id":1327336625,
+    "wof:lastmodified":1537585300,
+    "wof:name":"Dorduncu Barak",
+    "wof:parent_id":85668519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.45639,
+    39.86222,
+    47.45639,
+    39.86222
+],
+  "geometry": {"coordinates":[47.45639,39.86222],"type":"Point"}
+}

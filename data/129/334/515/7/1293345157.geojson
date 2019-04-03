@@ -1,0 +1,73 @@
+{
+  "id": 1293345157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.48604,39.68275,46.48604,39.68275",
+    "geom:latitude":39.68275,
+    "geom:longitude":46.48604,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Bokhoch'okh",
+    "gn:country_code":"AZ",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11227073,
+    "gn:latitude":39.68275,
+    "gn:longitude":46.48604,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Bokhoch\u2019okh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bokhoch\u2019okh"
+    ],
+    "name:und_x_variant":[
+        "\u0532\u0578\u056d\u0578\u0579\u0578\u056d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227073
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3ea319412bccca8c5ff9e35fc53be04d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293345157,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1293345157,
+    "wof:lastmodified":1537585545,
+    "wof:name":"Bokhoch'okh",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.48604,
+    39.68275,
+    46.48604,
+    39.68275
+],
+  "geometry": {"coordinates":[46.48604,39.68275],"type":"Point"}
+}

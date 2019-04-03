@@ -1,0 +1,74 @@
+{
+  "id": 1310450975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.70709,39.05735,48.70709,39.05735",
+    "geom:latitude":39.05735,
+    "geom:longitude":48.70709,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Samit-Khan",
+    "gn:country_code":"AZ",
+    "gn:dem":-12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147268,
+    "gn:latitude":39.05735,
+    "gn:longitude":48.70709,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Samit-Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Birinci S\u0259m\u0259dxanl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Samedkhanly Pervyye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147268,
+        "wk:page":"Birinci_S%C9%99m%C9%99dxanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6ef4e27833eedd96a2c15b2e956bebdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310450975,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1310450975,
+    "wof:lastmodified":1537585160,
+    "wof:name":"Samit-Khan",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.70709,
+    39.05735,
+    48.70709,
+    39.05735
+],
+  "geometry": {"coordinates":[48.70709,39.05735],"type":"Point"}
+}

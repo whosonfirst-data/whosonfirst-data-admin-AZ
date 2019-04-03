@@ -1,0 +1,68 @@
+{
+  "id": 1292939905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.08333,40.91667,49.08333,40.91667",
+    "geom:latitude":40.91667,
+    "geom:longitude":49.08333,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Kyzyl-Yulduz",
+    "gn:country_code":"AZ",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585660,
+    "gn:latitude":40.91667,
+    "gn:longitude":49.08333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Kyzyl-Yulduz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668485,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585660,
+        "wk:page":"Kyzyl-Yulduz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4c3062f2b38baa91105f36b0f141582d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1292939905,
+            "macroregion_id":1108808621,
+            "region_id":85668485
+        }
+    ],
+    "wof:id":1292939905,
+    "wof:lastmodified":1537486618,
+    "wof:name":"Kyzyl-Yulduz",
+    "wof:parent_id":85668485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.08333,
+    40.91667,
+    49.08333,
+    40.91667
+],
+  "geometry": {"coordinates":[49.08333,40.91667],"type":"Point"}
+}

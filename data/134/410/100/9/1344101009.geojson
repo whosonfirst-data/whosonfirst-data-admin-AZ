@@ -1,0 +1,74 @@
+{
+  "id": 1344101009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.01004,39.54507,49.01004,39.54507",
+    "geom:latitude":39.54507,
+    "geom:longitude":49.01004,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Musali",
+    "gn:country_code":"AZ",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":147451,
+    "gn:latitude":39.54507,
+    "gn:longitude":49.01004,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Musal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_preferred":[
+        "Musal\u0131"
+    ],
+    "name:und_x_variant":[
+        "Musaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668409,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147451,
+        "wk:page":"Musaly%2C_Salyan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b423c7ceee8b2ce29e39c3e8b8d5ee9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344101009,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1344101009,
+    "wof:lastmodified":1537585174,
+    "wof:name":"Musali",
+    "wof:parent_id":85668409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.01004,
+    39.54507,
+    49.01004,
+    39.54507
+],
+  "geometry": {"coordinates":[49.01004,39.54507],"type":"Point"}
+}

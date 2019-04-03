@@ -1,0 +1,72 @@
+{
+  "id": 1276164133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.8941,39.07519,45.8941,39.07519",
+    "geom:latitude":39.07519,
+    "geom:longitude":45.8941,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147365.0",
+    "gn:asciiname":"Paraga",
+    "gn:country_code":"AZ",
+    "gn:dem":1525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147347,
+    "gn:latitude":39.07519,
+    "gn:longitude":45.8941,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Para\u011fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Para\u011fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668665,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147347,
+        "wk:page":"Para%C4%9Fa"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e15257512ad07b3f10b6027087537b25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276164133,
+            "macroregion_id":1108808617,
+            "region_id":85668665
+        }
+    ],
+    "wof:id":1276164133,
+    "wof:lastmodified":1537585166,
+    "wof:name":"Paraga",
+    "wof:parent_id":85668665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.8941,
+    39.07519,
+    45.8941,
+    39.07519
+],
+  "geometry": {"coordinates":[45.8941,39.07519],"type":"Point"}
+}

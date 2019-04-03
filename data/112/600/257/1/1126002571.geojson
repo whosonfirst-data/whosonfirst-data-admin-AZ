@@ -1,0 +1,174 @@
+{
+  "id": 1126002571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.79028,39.91297,46.79028,39.91297",
+    "geom:latitude":39.91297,
+    "geom:longitude":46.79028,
+    "gn:gn_country":"AZ",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":5810,
+    "gn:population":5810,
+    "iso:country":"AZ",
+    "lbl:latitude":39.91297,
+    "lbl:longitude":46.79028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "Xocal\u0131"
+    ],
+    "name:aze_x_variant":[
+        "Xocal\u0131 rayonu"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u0434\u0436\u0430\u043b\u0438\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:eng_x_preferred":[
+        "Khojaly District"
+    ],
+    "name:epo_x_preferred":[
+        "\u0124o\u011dali"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062e\u0648\u062c\u0627\u0644\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Xocal\u0131n piirikunta"
+    ],
+    "name:fra_x_preferred":[
+        "Khodjaly"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05d2\u05d0\u05dc\u05d9"
+    ],
+    "name:hye_x_preferred":[
+        "Khojaly"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0578\u057b\u0561\u056c\u0568",
+        "Ivanyan",
+        "\u053b\u057e\u0561\u0576\u0575\u0561\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Khojali"
+    ],
+    "name:kor_x_preferred":[
+        "\ud638\uc798\ub974 \uad6c"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u043e\u045f\u0430\u043b\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Daerah Khojali"
+    ],
+    "name:nor_x_preferred":[
+        "Khojaly"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u062e\u0648\u062c\u0627\u0644\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Rejon Xocal\u0131"
+    ],
+    "name:por_x_preferred":[
+        "Khojali"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0434\u0436\u0430\u043b\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u0425\u043e\u0434\u0436\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f",
+        "\u0425\u043e\u0434\u0436\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Khojali Rayon"
+    ],
+    "name:sqi_x_preferred":[
+        "Khojali"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u045f\u0430\u043b\u0438\u043d\u0441\u043a\u0438 \u0440\u0435\u0458\u043e\u043d"
+    ],
+    "name:sun_x_preferred":[
+        "Rayon Khojali"
+    ],
+    "name:tgl_x_preferred":[
+        "Distrito ng Khojali"
+    ],
+    "name:tur_x_preferred":[
+        "Hocal\u0131 Rayonu"
+    ],
+    "name:unk_x_variant":[
+        "Ay-Khodzhaly"
+    ],
+    "name:vie_x_preferred":[
+        "Khojaly"
+    ],
+    "name:war_x_preferred":[
+        "Khojali Rayon"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u8cc8\u96f7\u5340"
+    ],
+    "qs_pg:aaroncc":"AZ",
+    "qs_pg:gn_country":"AZ",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":147774,
+    "qs_pg:gn_pop":5810,
+    "qs_pg:name":"Xocal\u0131",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":515810,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147774,
+        "qs_pg:id":515810
+    },
+    "wof:country":"AZ",
+    "wof:created":1497299739,
+    "wof:geomhash":"748cb270be820c612926e146a1a0fa69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1126002571,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1126002571,
+    "wof:lastmodified":1509406237,
+    "wof:name":"Xocal\u0131",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:population":5810,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.79028,
+    39.91297,
+    46.79028,
+    39.91297
+],
+  "geometry": {"coordinates":[46.79028,39.91297],"type":"Point"}
+}

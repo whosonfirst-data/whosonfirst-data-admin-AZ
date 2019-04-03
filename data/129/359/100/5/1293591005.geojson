@@ -1,0 +1,84 @@
+{
+  "id": 1293591005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.9823,40.23321,46.9823,40.23321",
+    "geom:latitude":40.23321,
+    "geom:longitude":46.9823,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yarimca",
+    "gn:country_code":"AZ",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8527990,
+    "gn:latitude":40.23321,
+    "gn:longitude":46.9823,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Yar\u0131mca",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yar\u0131mca"
+    ],
+    "name:hye_x_preferred":[
+        "Artsvashen"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0580\u056e\u057e\u0561\u0577\u0565\u0576",
+        "Hats\u2019avan",
+        "\u0540\u0561\u0581\u0561\u057e\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0440\u044b\u043c\u0434\u0436\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yarymdzha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8527990
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c506aee32e8938651d5674a059a10f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293591005,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1293591005,
+    "wof:lastmodified":1537585529,
+    "wof:name":"Yarimca",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.9823,
+    40.23321,
+    46.9823,
+    40.23321
+],
+  "geometry": {"coordinates":[46.9823,40.23321],"type":"Point"}
+}

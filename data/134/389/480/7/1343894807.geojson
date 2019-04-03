@@ -1,0 +1,75 @@
+{
+  "id": 1343894807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.47672,40.69434,46.47672,40.69434",
+    "geom:latitude":40.69434,
+    "geom:longitude":46.47672,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Alyushagy",
+    "gn:country_code":"AZ",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587294,
+    "gn:latitude":40.69434,
+    "gn:longitude":46.47672,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Alyushagy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Al\u0131u\u015fa\u011f\u0131"
+    ],
+    "name:und_x_variant":[
+        "Aliushagy",
+        "\u018fliu\u015fa\u011f\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668235,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587294,
+        "wk:page":"Al%C4%B1u%C5%9Fa%C4%9F%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dd8b7eb9214eac337b9a8cc310a9edc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343894807,
+            "macroregion_id":1108808609,
+            "region_id":85668235
+        }
+    ],
+    "wof:id":1343894807,
+    "wof:lastmodified":1537585495,
+    "wof:name":"Alyushagy",
+    "wof:parent_id":85668235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.47672,
+    40.69434,
+    46.47672,
+    40.69434
+],
+  "geometry": {"coordinates":[46.47672,40.69434],"type":"Point"}
+}

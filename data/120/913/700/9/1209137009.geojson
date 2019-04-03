@@ -1,0 +1,62 @@
+{
+  "id": 1209137009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.67583,40.84278,45.67583,40.84278",
+    "geom:latitude":40.84278,
+    "geom:longitude":45.67583,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Vezirly",
+    "gn:country_code":"AZ",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800372,
+    "gn:latitude":40.84278,
+    "gn:longitude":45.67583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vezirly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800372,
+        "wk:page":"Vezirly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4598960d684f6bc3521ab90ff1552f03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209137009
+        }
+    ],
+    "wof:id":1209137009,
+    "wof:lastmodified":1537486678,
+    "wof:name":"Vezirly",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.67583,
+    40.84278,
+    45.67583,
+    40.84278
+],
+  "geometry": {"coordinates":[45.67583,40.84278],"type":"Point"}
+}

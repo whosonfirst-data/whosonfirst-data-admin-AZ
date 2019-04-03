@@ -1,0 +1,72 @@
+{
+  "id": 1259589421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.37909,40.55725,47.37909,40.55725",
+    "geom:latitude":40.55725,
+    "geom:longitude":47.37909,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Emirarkh",
+    "gn:country_code":"AZ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587259,
+    "gn:latitude":40.55725,
+    "gn:longitude":47.37909,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Emirarkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amirarkh",
+        "\u018fmirarx"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668259,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587259,
+        "wk:page":"%C6%8Fmirarx"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1db7ae72d9c80e78793a4923636e6d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259589421,
+            "macroregion_id":1108808627,
+            "region_id":85668259
+        }
+    ],
+    "wof:id":1259589421,
+    "wof:lastmodified":1537585493,
+    "wof:name":"Emirarkh",
+    "wof:parent_id":85668259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.37909000000001,
+    40.55725,
+    47.37909000000001,
+    40.55725
+],
+  "geometry": {"coordinates":[47.37909000000001,40.55725],"type":"Point"}
+}

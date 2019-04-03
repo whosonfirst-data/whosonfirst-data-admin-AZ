@@ -1,0 +1,71 @@
+{
+  "id": 890455805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.80389,40.33944,49.80389,40.33944",
+    "geom:latitude":40.33944,
+    "geom:longitude":49.80389,
+    "gn:country":"AZ",
+    "gn:fcode":"PPLX",
+    "gn:pop":11398,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Badamdar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:latitude":"40.339444444",
+    "wd:longitude":"49.803888888",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        1108808621,
+        85668249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863761,
+        "gp:id":1948221,
+        "qs:id":554567,
+        "wd:id":"Q10860191",
+        "wk:page":"Badamdar"
+    },
+    "wof:country":"AZ",
+    "wof:created":1469052976,
+    "wof:geomhash":"afe1130d82e64b75917fc14bcbf2405b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "macroregion_id":1108808621,
+            "neighbourhood_id":890455805,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":890455805,
+    "wof:lastmodified":1527734193,
+    "wof:name":"Badamdar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":11398,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.80389,
+    40.33944,
+    49.80389,
+    40.33944
+],
+  "geometry": {"coordinates":[49.80389,40.33944],"type":"Point"}
+}

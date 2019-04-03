@@ -1,0 +1,83 @@
+{
+  "id": 1242857953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.0826,39.37199,47.0826,39.37199",
+    "geom:latitude":39.37199,
+    "geom:longitude":47.0826,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gasankaydy",
+    "gn:country_code":"AZ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148080,
+    "gn:latitude":39.37199,
+    "gn:longitude":47.0826,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Gasankaydy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "H\u0259s\u0259nqayd\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Hasank\u2019aydy"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0561\u057d\u0561\u0576\u0584\u0561\u0575\u0564\u0568"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0441\u0430\u043d\u043a\u0430\u0439\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Gasan-Gaydy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148080,
+        "wk:page":"H%C9%99s%C9%99nqayd%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6ca4d502d8d56339e48621491b6071e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242857953,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1242857953,
+    "wof:lastmodified":1537585237,
+    "wof:name":"Gasankaydy",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.0826,
+    39.37199,
+    47.0826,
+    39.37199
+],
+  "geometry": {"coordinates":[47.0826,39.37199],"type":"Point"}
+}

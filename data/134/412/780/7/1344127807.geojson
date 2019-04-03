@@ -1,0 +1,83 @@
+{
+  "id": 1344127807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.02754,39.35732,47.02754,39.35732",
+    "geom:latitude":39.35732,
+    "geom:longitude":47.02754,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Agtepe",
+    "gn:country_code":"AZ",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394907,
+    "gn:latitude":39.35732,
+    "gn:longitude":47.02754,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Agtepe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u011ft\u0259p\u0259"
+    ],
+    "name:hye_x_preferred":[
+        "Aghtep\u2019e"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0572\u057f\u0565\u0583\u0565"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0442\u0435\u043f\u0435"
+    ],
+    "name:und_x_variant":[
+        "\u0410\u0433\u0442\u0435\u043f\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394907,
+        "wk:page":"A%C4%9Ft%C9%99p%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e4e941725fc897b8762b94a495ccdddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344127807,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1344127807,
+    "wof:lastmodified":1537585298,
+    "wof:name":"Agtepe",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.02754,
+    39.35732,
+    47.02754,
+    39.35732
+],
+  "geometry": {"coordinates":[47.02754,39.35732],"type":"Point"}
+}

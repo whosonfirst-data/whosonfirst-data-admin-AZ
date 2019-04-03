@@ -1,0 +1,88 @@
+{
+  "id": 1327395291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.35756,39.77315,46.35756,39.77315",
+    "geom:latitude":39.77315,
+    "geom:longitude":46.35756,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Qosasu",
+    "gn:country_code":"AZ",
+    "gn:dem":1641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147701,
+    "gn:latitude":39.77315,
+    "gn:longitude":46.35756,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"Qo\u015fasu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qo\u015fasu"
+    ],
+    "name:hye_x_preferred":[
+        "Ghoshasu"
+    ],
+    "name:hye_x_variant":[
+        "\u0542\u0578\u0577\u0561\u057d\u0578\u0582",
+        "Drakhtik",
+        "\u0534\u0580\u0561\u056d\u057f\u056b\u056f",
+        "Drakhtadzor",
+        "\u0534\u0580\u0561\u056d\u057f\u0561\u0571\u0578\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0448\u0430\u0441\u0443"
+    ],
+    "name:und_x_variant":[
+        "Koshasu",
+        "\u041a\u043e\u0448\u0430\u0441\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147701,
+        "wk:page":"Qo%C5%9Fasu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6e4a35cfb4cd5598801336f8090d0cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327395291,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1327395291,
+    "wof:lastmodified":1537585199,
+    "wof:name":"Qosasu",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.35756,
+    39.77315,
+    46.35756,
+    39.77315
+],
+  "geometry": {"coordinates":[46.35756,39.77315],"type":"Point"}
+}

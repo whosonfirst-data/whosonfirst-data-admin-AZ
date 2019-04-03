@@ -1,0 +1,67 @@
+{
+  "id": 1260236667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.28333,40.9,48.28333,40.9",
+    "geom:latitude":40.9,
+    "geom:longitude":48.28333,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Zangi",
+    "gn:country_code":"AZ",
+    "gn:dem":1557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584599,
+    "gn:latitude":40.9,
+    "gn:longitude":48.28333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Zangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584599
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3241c6826314bd2ea1dd57174f3c0705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260236667,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1260236667,
+    "wof:lastmodified":1536776114,
+    "wof:name":"Zangi",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.28333,
+    40.9,
+    48.28333,
+    40.9
+],
+  "geometry": {"coordinates":[48.28333,40.9],"type":"Point"}
+}

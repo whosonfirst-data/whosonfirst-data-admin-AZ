@@ -1,0 +1,72 @@
+{
+  "id": 1243143665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.86114,41.2268,48.86114,41.2268",
+    "geom:latitude":41.2268,
+    "geom:longitude":48.86114,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Ledzhedy",
+    "gn:country_code":"AZ",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585650,
+    "gn:latitude":41.2268,
+    "gn:longitude":48.86114,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ledzhedy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ledzhedi",
+        "Ledzhedy",
+        "L\u0259c\u0259di"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585650
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"924386ed768e40f8506082bb7986689f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243143665,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1243143665,
+    "wof:lastmodified":1537585379,
+    "wof:name":"Ledzhedy",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.86114,
+    41.2268,
+    48.86114,
+    41.2268
+],
+  "geometry": {"coordinates":[48.86114,41.2268],"type":"Point"}
+}

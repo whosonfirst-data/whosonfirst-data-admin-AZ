@@ -1,0 +1,68 @@
+{
+  "id": 1209385265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.38069,39.23426,48.38069,39.23426",
+    "geom:latitude":39.23426,
+    "geom:longitude":48.38069,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Gadzhymamedli",
+    "gn:country_code":"AZ",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148091,
+    "gn:latitude":39.23426,
+    "gn:longitude":48.38069,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Gadzhymamedli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hac\u0131m\u0259mm\u0259dli"
+    ],
+    "name:und_x_variant":[
+        "Gadzhimamedli",
+        "Gadzhymamedli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148091
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"89ad901948c935d1ed94da20cec09162",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209385265
+        }
+    ],
+    "wof:id":1209385265,
+    "wof:lastmodified":1537585238,
+    "wof:name":"Gadzhymamedli",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.38069,
+    39.23426,
+    48.38069,
+    39.23426
+],
+  "geometry": {"coordinates":[48.38069,39.23426],"type":"Point"}
+}

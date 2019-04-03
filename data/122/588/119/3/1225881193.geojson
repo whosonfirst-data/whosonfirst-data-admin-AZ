@@ -1,0 +1,88 @@
+{
+  "id": 1225881193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.83722,40.33676,46.83722,40.33676",
+    "geom:latitude":40.33676,
+    "geom:longitude":46.83722,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Nerk'in Chaylu",
+    "gn:country_code":"AZ",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585366,
+    "gn:latitude":40.33676,
+    "gn:longitude":46.83722,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Nerk\u2019in Chaylu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Nerk\u2019in Chaylu"
+    ],
+    "name:aze_x_variant":[
+        "Nerkin \u00c7ayl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0567\u0580\u0584\u056b\u0576 \u0549\u0561\u0575\u056c\u0568"
+    ],
+    "name:hye_x_variant":[
+        "Nerkin Chayly"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0440\u043a\u0438\u043d \u0427\u0430\u0439\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019aylu",
+        "Getk",
+        "Nerkin Chayly",
+        "Nerkin Chailou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585366
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7069dbfdff099a02d1b9e9141ec837f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225881193,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1225881193,
+    "wof:lastmodified":1537585360,
+    "wof:name":"Nerk'in Chaylu",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.83722,
+    40.33676,
+    46.83722,
+    40.33676
+],
+  "geometry": {"coordinates":[46.83722,40.33676],"type":"Point"}
+}

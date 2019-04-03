@@ -1,0 +1,75 @@
+{
+  "id": 1310235425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.94678,40.89848,48.94678,40.89848",
+    "geom:latitude":40.89848,
+    "geom:longitude":48.94678,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Verdekh",
+    "gn:country_code":"AZ",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584731,
+    "gn:latitude":40.89848,
+    "gn:longitude":48.94678,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Verdekh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "V\u0259rda\u011f"
+    ],
+    "name:und_x_variant":[
+        "Verdag",
+        "Verdekh",
+        "Verdakh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668485,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584731
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0b51b30a74e41720738ee7a13daa0052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310235425,
+            "macroregion_id":1108808621,
+            "region_id":85668485
+        }
+    ],
+    "wof:id":1310235425,
+    "wof:lastmodified":1537585318,
+    "wof:name":"Verdekh",
+    "wof:parent_id":85668485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.94678,
+    40.89848,
+    48.94678,
+    40.89848
+],
+  "geometry": {"coordinates":[48.94678,40.89848],"type":"Point"}
+}

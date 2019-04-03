@@ -1,0 +1,71 @@
+{
+  "id": 1209043479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.76132,40.61825,48.76132,40.61825",
+    "geom:latitude":40.61825,
+    "geom:longitude":48.76132,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Arabshalbash",
+    "gn:country_code":"AZ",
+    "gn:dem":875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587225,
+    "gn:latitude":40.61825,
+    "gn:longitude":48.76132,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Arabshalbash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u018fr\u01ddb\u015falba\u015f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u0431\u0448\u0430\u043b\u0431\u0430\u0448"
+    ],
+    "name:und_x_variant":[
+        "\u018fr\u0259b\u015falba\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587225,
+        "wk:page":"%C6%8Fr%C9%99b%C5%9Falba%C5%9F"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d779e79b82e78c526290909853a69742",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209043479
+        }
+    ],
+    "wof:id":1209043479,
+    "wof:lastmodified":1537585491,
+    "wof:name":"Arabshalbash",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.76132,
+    40.61825,
+    48.76132,
+    40.61825
+],
+  "geometry": {"coordinates":[48.76132,40.61825],"type":"Point"}
+}

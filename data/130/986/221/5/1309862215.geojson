@@ -1,0 +1,73 @@
+{
+  "id": 1309862215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.03939,40.62354,48.03939,40.62354",
+    "geom:latitude":40.62354,
+    "geom:longitude":48.03939,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Yekaxana",
+    "gn:country_code":"AZ",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":825063,
+    "gn:latitude":40.62354,
+    "gn:longitude":48.03939,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Yekaxana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yekaxana"
+    ],
+    "name:und_x_variant":[
+        "Yekakhana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668357,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":825063
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1ea0d3e6b3e57607819f267b810972f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309862215,
+            "macroregion_id":1108808627,
+            "region_id":85668357
+        }
+    ],
+    "wof:id":1309862215,
+    "wof:lastmodified":1537585515,
+    "wof:name":"Yekaxana",
+    "wof:parent_id":85668357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.03939,
+    40.62354000000001,
+    48.03939,
+    40.62354000000001
+],
+  "geometry": {"coordinates":[48.03939,40.62354000000001],"type":"Point"}
+}

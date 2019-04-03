@@ -1,0 +1,72 @@
+{
+  "id": 1242910049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.71701,41.7193,48.71701,41.7193",
+    "geom:latitude":41.7193,
+    "geom:longitude":48.71701,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Aslanoba",
+    "gn:country_code":"AZ",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587150,
+    "gn:latitude":41.7193,
+    "gn:longitude":48.71701,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Aslanoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aslanoba-Seidlyar",
+        "Aslanoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587150,
+        "wk:page":"Aslanoba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d2da644e9610e215e048d8e42c736ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242910049,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1242910049,
+    "wof:lastmodified":1537585484,
+    "wof:name":"Aslanoba",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.71701,
+    41.7193,
+    48.71701,
+    41.7193
+],
+  "geometry": {"coordinates":[48.71701,41.7193],"type":"Point"}
+}

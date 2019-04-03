@@ -1,0 +1,71 @@
+{
+  "id": 1276587413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.04033,40.60999,47.04033,40.60999",
+    "geom:latitude":40.60999,
+    "geom:longitude":47.04033,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Neymetabad",
+    "gn:country_code":"AZ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585362,
+    "gn:latitude":40.60999,
+    "gn:longitude":47.04033,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Neymetabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nametabad",
+        "Ne\u2019m\u0259tabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668243,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585362
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0dac00c2d1d671a11bdc9418c218212a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276587413,
+            "macroregion_id":1108808627,
+            "region_id":85668243
+        }
+    ],
+    "wof:id":1276587413,
+    "wof:lastmodified":1537585360,
+    "wof:name":"Neymetabad",
+    "wof:parent_id":85668243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.04033,
+    40.60999,
+    47.04033,
+    40.60999
+],
+  "geometry": {"coordinates":[47.04033,40.60999],"type":"Point"}
+}

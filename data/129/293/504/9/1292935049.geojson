@@ -1,0 +1,68 @@
+{
+  "id": 1292935049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.38195,41.49609,46.38195,41.49609",
+    "geom:latitude":41.49609,
+    "geom:longitude":46.38195,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Kusur",
+    "gn:country_code":"AZ",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":799239,
+    "gn:latitude":41.49609,
+    "gn:longitude":46.38195,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Kusur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668601,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":799239,
+        "wk:page":"Kusur"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bad759abda427c185ccf16c74cb63a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1292935049,
+            "macroregion_id":1108808619,
+            "region_id":85668601
+        }
+    ],
+    "wof:id":1292935049,
+    "wof:lastmodified":1537486676,
+    "wof:name":"Kusur",
+    "wof:parent_id":85668601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.38195,
+    41.49609,
+    46.38195,
+    41.49609
+],
+  "geometry": {"coordinates":[46.38195,41.49609],"type":"Point"}
+}

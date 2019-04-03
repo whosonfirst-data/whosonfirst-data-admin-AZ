@@ -1,0 +1,90 @@
+{
+  "id": 1243292899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.74056,39.84874,46.74056,39.84874",
+    "geom:latitude":39.84874,
+    "geom:longitude":46.74056,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Xanyurdu",
+    "gn:country_code":"AZ",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147812,
+    "gn:latitude":39.84874,
+    "gn:longitude":46.74056,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Xanyurdu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xanyurdu"
+    ],
+    "name:hye_x_preferred":[
+        "Leonakan"
+    ],
+    "name:hye_x_variant":[
+        "\u053c\u0565\u0578\u0576\u0561\u056f\u0561\u0576",
+        "Lerrnavan",
+        "\u053c\u0565\u057c\u0576\u0561\u057e\u0561\u0576",
+        "\u053d\u0576\u0561\u056e\u0561\u056d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043d\u0430\u0434\u0437\u0430\u0445"
+    ],
+    "name:und_x_variant":[
+        "Khanadzakh",
+        "Xanadzax",
+        "Khnatsakh",
+        "Khanatsakh",
+        "\u0425\u0430\u043d\u0430\u0434\u0437\u0430\u0445"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147812,
+        "wk:page":"Xanyurdu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cf26130618cfc521ffc34141df6d00ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243292899,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1243292899,
+    "wof:lastmodified":1537585211,
+    "wof:name":"Xanyurdu",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.74056,
+    39.84874,
+    46.74056,
+    39.84874
+],
+  "geometry": {"coordinates":[46.74056,39.84874],"type":"Point"}
+}

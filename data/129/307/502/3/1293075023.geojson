@@ -1,0 +1,72 @@
+{
+  "id": 1293075023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.69684,40.71502,46.69684,40.71502",
+    "geom:latitude":40.71502,
+    "geom:longitude":46.69684,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Sixlar",
+    "gn:country_code":"AZ",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584972,
+    "gn:latitude":40.71502,
+    "gn:longitude":46.69684,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"\u015e\u0131xlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shykhlyar",
+        "\u015e\u0131xlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584972,
+        "wk:page":"%C5%9E%C4%B1xlar%2C_Goranboy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"52ed885f4908c9d84e37d202fc3021f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293075023,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1293075023,
+    "wof:lastmodified":1537585334,
+    "wof:name":"Sixlar",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.69684,
+    40.71502,
+    46.69684,
+    40.71502
+],
+  "geometry": {"coordinates":[46.69684,40.71502],"type":"Point"}
+}

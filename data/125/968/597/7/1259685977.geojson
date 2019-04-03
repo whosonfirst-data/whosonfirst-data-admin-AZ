@@ -1,0 +1,70 @@
+{
+  "id": 1259685977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.10682,40.13633,47.10682,40.13633",
+    "geom:latitude":40.13633,
+    "geom:longitude":47.10682,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pashabeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8549010,
+    "gn:latitude":40.13633,
+    "gn:longitude":47.10682,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Pashabeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Pa\u015fab\u0259yli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8549010
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"04b7be19ee7a0b16de723c6c2c35a360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259685977,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1259685977,
+    "wof:lastmodified":1537585531,
+    "wof:name":"Pashabeyli",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.10682,
+    40.13633,
+    47.10682,
+    40.13633
+],
+  "geometry": {"coordinates":[47.10682,40.13633],"type":"Point"}
+}

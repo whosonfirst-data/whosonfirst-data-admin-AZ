@@ -1,0 +1,68 @@
+{
+  "id": 1193222417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.01667,39.51667,49.01667,39.51667",
+    "geom:latitude":39.51667,
+    "geom:longitude":49.01667,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Bala Surra",
+    "gn:country_code":"AZ",
+    "gn:dem":-23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148388,
+    "gn:latitude":39.51667,
+    "gn:longitude":49.01667,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Bala Surra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668409,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148388,
+        "wk:page":"Bala_Surra"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3d0fd867840bc0aa8c3e831efcf7621e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193222417,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1193222417,
+    "wof:lastmodified":1537486560,
+    "wof:name":"Bala Surra",
+    "wof:parent_id":85668409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.01667,
+    39.51667,
+    49.01667,
+    39.51667
+],
+  "geometry": {"coordinates":[49.01667,39.51667],"type":"Point"}
+}

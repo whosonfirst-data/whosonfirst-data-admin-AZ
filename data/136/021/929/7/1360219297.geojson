@@ -1,0 +1,77 @@
+{
+  "id": 1360219297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.60184,39.32944,46.60184,39.32944",
+    "geom:latitude":39.32944,
+    "geom:longitude":46.60184,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Gyudaklyar",
+    "gn:country_code":"AZ",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":148072,
+    "gn:latitude":39.32944,
+    "gn:longitude":46.60184,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Gyudaklyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_preferred":[
+        "G\u00f6d\u0259kl\u0259r"
+    ],
+    "name:rus_x_preferred":[
+        "G\u00ebdaklar"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0435\u0434\u0430\u043a\u043b\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148072,
+        "wk:page":"G%C3%B6d%C9%99kl%C9%99r%2C_Qubadli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a63548ae871c7aa1992ce2864a291842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360219297,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1360219297,
+    "wof:lastmodified":1537585236,
+    "wof:name":"Gyudaklyar",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.60184,
+    39.32944000000001,
+    46.60184,
+    39.32944000000001
+],
+  "geometry": {"coordinates":[46.60184,39.32944000000001],"type":"Point"}
+}

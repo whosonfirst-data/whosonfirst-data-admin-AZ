@@ -1,0 +1,123 @@
+{
+  "id": 421178471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.82783,40.46602,49.82783,40.46602",
+    "geom:latitude":40.46602,
+    "geom:longitude":49.82783,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Bin\u0259q\u0259di rayonu"
+    ],
+    "name:aze_x_variant":[
+        "Bin\u0259q\u0259di"
+    ],
+    "name:ceb_x_preferred":[
+        "Binagadi"
+    ],
+    "name:chi_x_preferred":[
+        "\u6bd4\u90a3\u52a0\u8fea\u5340"
+    ],
+    "name:deu_x_preferred":[
+        "Bin\u0259q\u0259di"
+    ],
+    "name:dut_x_preferred":[
+        "Bin\u0259q\u0259di raion"
+    ],
+    "name:eng_x_preferred":[
+        "Bin\u01ddq\u01dddi"
+    ],
+    "name:epo_x_preferred":[
+        "Binagadi"
+    ],
+    "name:ger_x_preferred":[
+        "Bin\u0259q\u0259di"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043d\u0430\u0433\u0430\u0434\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0438\u043d\u0430\u0433\u0430\u0434\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Binagadi"
+    ],
+    "name:tur_x_preferred":[
+        "Binegedi"
+    ],
+    "name:unk_x_variant":[
+        "Binaghad"
+    ],
+    "qs:gn_country":"AZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":586967,
+    "qs:gn_pop":14012,
+    "qs:name":"Bin\u00e4q\u00e4di",
+    "qs:name_adm0":"Azerbaijan",
+    "qs:name_adm1":"Baki",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":125857,
+    "qs:woe_adm0":23424741,
+    "qs:woe_id":1948168,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586967,
+        "gp:id":1948168,
+        "qs:id":125857,
+        "wd:id":"Q864153",
+        "wk:page":"Bin\u0259q\u0259di raion"
+    },
+    "wof:country":"AZ",
+    "wof:created":1459009183,
+    "wof:geomhash":"827a517d31da062b0e8aec6231534c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":421178471,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":421178471,
+    "wof:lastmodified":1553816368,
+    "wof:name":"Bin\u00e4q\u00e4di",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:population":14012,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.82783,
+    40.46602,
+    49.82783,
+    40.46602
+],
+  "geometry": {"coordinates":[49.82783,40.46602],"type":"Point"}
+}

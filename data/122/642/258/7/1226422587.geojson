@@ -1,0 +1,80 @@
+{
+  "id": 1226422587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.70288,39.62676,47.70288,39.62676",
+    "geom:latitude":39.62676,
+    "geom:longitude":47.70288,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Shakhsevan Vtoroye",
+    "gn:country_code":"AZ",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147207,
+    "gn:latitude":39.62676,
+    "gn:longitude":47.70288,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Shakhsevan Vtoroye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130kinci \u015eahsev\u0259n"
+    ],
+    "name:aze_x_variant":[
+        "Birinci \u015eahsev\u0259n"
+    ],
+    "name:und_x_variant":[
+        "Shakhsevan",
+        "Shakhsevan Vtoroye",
+        "Shakhseven Vtoroye",
+        "Shakhsevan Vtoroy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668313,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147207,
+        "wk:page":"%C4%B0kinci_%C5%9Eahsev%C9%99n"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d1d3be65a813cbd1f9014b4ab0f02e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226422587,
+            "macroregion_id":1108808627,
+            "region_id":85668313
+        }
+    ],
+    "wof:id":1226422587,
+    "wof:lastmodified":1537585154,
+    "wof:name":"Shakhsevan Vtoroye",
+    "wof:parent_id":85668313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.70288,
+    39.62676,
+    47.70288,
+    39.62676
+],
+  "geometry": {"coordinates":[47.70288,39.62676],"type":"Point"}
+}

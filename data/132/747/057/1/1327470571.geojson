@@ -1,0 +1,89 @@
+{
+  "id": 1327470571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.01149,39.45639,47.01149,39.45639",
+    "geom:latitude":39.45639,
+    "geom:longitude":47.01149,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Banazur",
+    "gn:country_code":"AZ",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148377,
+    "gn:latitude":39.45639,
+    "gn:longitude":47.01149,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Banazur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bin\u0259d\u0259r\u0259si"
+    ],
+    "name:hye_x_preferred":[
+        "Banadzur"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0561\u0576\u0561\u0571\u0578\u0582\u0580",
+        "Banadzor",
+        "\u0532\u0561\u0576\u0561\u0571\u0578\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u0437\u0443\u0440"
+    ],
+    "name:und_x_variant":[
+        "Vanadzor",
+        "Banazour",
+        "Pnadzor",
+        "Banazur",
+        "\u0411\u0430\u043d\u0430\u0437\u0443\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148377,
+        "wk:page":"Bin%C9%99d%C9%99r%C9%99si"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ea2bba6d3cc8a1c15e9a682ff7813b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327470571,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1327470571,
+    "wof:lastmodified":1537585266,
+    "wof:name":"Banazur",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.01149,
+    39.45639,
+    47.01149,
+    39.45639
+],
+  "geometry": {"coordinates":[47.01149,39.45639],"type":"Point"}
+}

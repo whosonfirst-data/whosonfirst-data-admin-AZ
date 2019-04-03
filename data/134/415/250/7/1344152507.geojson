@@ -1,0 +1,68 @@
+{
+  "id": 1344152507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.38184,41.61478,46.38184,41.61478",
+    "geom:latitude":41.61478,
+    "geom:longitude":46.38184,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kortala",
+    "gn:country_code":"AZ",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585816,
+    "gn:latitude":41.61478,
+    "gn:longitude":46.38184,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Kortala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585816,
+        "wk:page":"Kortala"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8f4ed320f4a5d8b02fc57ed1e32ed65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344152507,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1344152507,
+    "wof:lastmodified":1537486622,
+    "wof:name":"Kortala",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.38184,
+    41.61478,
+    46.38184,
+    41.61478
+],
+  "geometry": {"coordinates":[46.38184,41.61478],"type":"Point"}
+}

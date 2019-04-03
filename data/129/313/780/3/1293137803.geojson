@@ -1,0 +1,72 @@
+{
+  "id": 1293137803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.05493,40.85981,49.05493,40.85981",
+    "geom:latitude":40.85981,
+    "geom:longitude":49.05493,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Qars",
+    "gn:country_code":"AZ",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586125,
+    "gn:latitude":40.85981,
+    "gn:longitude":49.05493,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Qars",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kars",
+        "Qars"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668485,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586125,
+        "wk:page":"Qars"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b5b760cf63d7aca087b752cdf0a0ffbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293137803,
+            "macroregion_id":1108808621,
+            "region_id":85668485
+        }
+    ],
+    "wof:id":1293137803,
+    "wof:lastmodified":1537585410,
+    "wof:name":"Qars",
+    "wof:parent_id":85668485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.05493,
+    40.85981,
+    49.05493,
+    40.85981
+],
+  "geometry": {"coordinates":[49.05493,40.85981],"type":"Point"}
+}

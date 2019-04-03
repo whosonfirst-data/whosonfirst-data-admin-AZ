@@ -1,0 +1,78 @@
+{
+  "id": 1226580043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.24264,40.78486,46.24264,40.78486",
+    "geom:latitude":40.78486,
+    "geom:longitude":46.24264,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Konullu",
+    "gn:country_code":"AZ",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586034,
+    "gn:latitude":40.78486,
+    "gn:longitude":46.24264,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"K\u00f6n\u00fcll\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "K\u00f6n\u00fcll\u00fc"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u044e\u043b\u043b\u044e"
+    ],
+    "name:und_x_variant":[
+        "K\u00ebnyullyu",
+        "K\u00f6n\u00fcll\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586034,
+        "wk:page":"K%C3%B6n%C3%BCll%C3%BC"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4033074690c52bc0e8bb46f479bce226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226580043,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1226580043,
+    "wof:lastmodified":1537585404,
+    "wof:name":"Konullu",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.24264,
+    40.78486,
+    46.24264,
+    40.78486
+],
+  "geometry": {"coordinates":[46.24264,40.78486],"type":"Point"}
+}

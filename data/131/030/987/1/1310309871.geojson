@@ -1,0 +1,67 @@
+{
+  "id": 1310309871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.36778,41.28639,45.36778,41.28639",
+    "geom:latitude":41.28639,
+    "geom:longitude":45.36778,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kukheti",
+    "gn:country_code":"AZ",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":799681,
+    "gn:latitude":41.28639,
+    "gn:longitude":45.36778,
+    "gn:modification_date":"1999-02-02",
+    "gn:name":"Kukheti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668195,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":799681
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5258af4825124107646119dee8d3899f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310309871,
+            "macroregion_id":1108808609,
+            "region_id":85668195
+        }
+    ],
+    "wof:id":1310309871,
+    "wof:lastmodified":1536701839,
+    "wof:name":"Kukheti",
+    "wof:parent_id":85668195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.36778,
+    41.28639,
+    45.36778,
+    41.28639
+],
+  "geometry": {"coordinates":[45.36778,41.28639],"type":"Point"}
+}

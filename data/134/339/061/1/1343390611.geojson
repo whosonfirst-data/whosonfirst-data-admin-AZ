@@ -1,0 +1,74 @@
+{
+  "id": 1343390611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.80679,39.99273,48.80679,39.99273",
+    "geom:latitude":39.99273,
+    "geom:longitude":48.80679,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Six Salahli",
+    "gn:country_code":"AZ",
+    "gn:dem":-18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147147,
+    "gn:latitude":39.99273,
+    "gn:longitude":48.80679,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u015eix Salahl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shikhsalakhly",
+        "Shykhsalakhly",
+        "Shikh-Salagly",
+        "\u015eix Salahl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147147,
+        "wk:page":"%C5%9Eix_Salahl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"82c6325770c9619210a7b2f2e8dd5d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343390611,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1343390611,
+    "wof:lastmodified":1537585148,
+    "wof:name":"Six Salahli",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.80679,
+    39.99273,
+    48.80679,
+    39.99273
+],
+  "geometry": {"coordinates":[48.80679,39.99273],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1260013645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.65734,38.98856,46.65734,38.98856",
+    "geom:latitude":38.98856,
+    "geom:longitude":46.65734,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Dellyakli",
+    "gn:country_code":"AZ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148216,
+    "gn:latitude":38.98856,
+    "gn:longitude":46.65734,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Dellyakli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Dalk\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0534\u0561\u056c\u0584"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043b\u043b\u044f\u043a\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dellekli",
+        "Dellyakli",
+        "D\u0259ll\u0259kli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148216
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c2bbc67ae96a734fb64bbe7b91976278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260013645,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1260013645,
+    "wof:lastmodified":1537585250,
+    "wof:name":"Dellyakli",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.65734000000001,
+    38.98856,
+    46.65734000000001,
+    38.98856
+],
+  "geometry": {"coordinates":[46.65734000000001,38.98856],"type":"Point"}
+}

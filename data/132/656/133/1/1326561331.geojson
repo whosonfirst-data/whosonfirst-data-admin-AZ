@@ -1,0 +1,78 @@
+{
+  "id": 1326561331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.82708,39.82986,48.82708,39.82986",
+    "geom:latitude":39.82986,
+    "geom:longitude":48.82708,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Mikhaylovskoye",
+    "gn:country_code":"AZ",
+    "gn:dem":-20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147513,
+    "gn:latitude":39.82986,
+    "gn:longitude":48.82708,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Mikhaylovskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018flil\u0259mb\u0259yli"
+    ],
+    "name:aze_x_variant":[
+        "\u018flilamb\u0259yli"
+    ],
+    "name:und_x_variant":[
+        "Alyam-Beyly",
+        "Alilambeyli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147513,
+        "wk:page":"Mikhaylovskoye%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"aad6182c295e35b8ccb383e22c400504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326561331,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1326561331,
+    "wof:lastmodified":1537585181,
+    "wof:name":"Mikhaylovskoye",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.82708,
+    39.82986,
+    48.82708,
+    39.82986
+],
+  "geometry": {"coordinates":[48.82708,39.82986],"type":"Point"}
+}

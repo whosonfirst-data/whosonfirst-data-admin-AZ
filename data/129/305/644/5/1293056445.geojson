@@ -1,0 +1,77 @@
+{
+  "id": 1293056445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.29774,40.84449,48.29774,40.84449",
+    "geom:latitude":40.84449,
+    "geom:longitude":48.29774,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kyanagya",
+    "gn:country_code":"AZ",
+    "gn:dem":1748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585730,
+    "gn:latitude":40.84449,
+    "gn:longitude":48.29774,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Kyanagya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u0259n\u0259\u0259"
+    ],
+    "name:und_x_variant":[
+        "Kyanaga",
+        "Kyanagya",
+        "K\u0259n\u0259\u2019\u0259",
+        "Kenaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585730,
+        "wk:page":"K%C9%99n%C9%99%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e6860f9022db4d9b9be4b2f26ce2ffbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293056445,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1293056445,
+    "wof:lastmodified":1537585384,
+    "wof:name":"Kyanagya",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.29774000000001,
+    40.84449,
+    48.29774000000001,
+    40.84449
+],
+  "geometry": {"coordinates":[48.29774000000001,40.84449],"type":"Point"}
+}

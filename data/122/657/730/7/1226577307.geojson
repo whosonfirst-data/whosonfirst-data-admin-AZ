@@ -1,0 +1,81 @@
+{
+  "id": 1226577307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5558,40.11232,48.5558,40.11232",
+    "geom:latitude":40.11232,
+    "geom:longitude":48.5558,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Kovlar",
+    "gn:country_code":"AZ",
+    "gn:dem":-18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585803,
+    "gn:latitude":40.11232,
+    "gn:longitude":48.5558,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Kovlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qovlar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0432\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shoy Kovlyar",
+        "Kovlyar",
+        "Beyuk Kovlar",
+        "Kovlar",
+        "Qovlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585803,
+        "wk:page":"Kovlar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"505ae3a3a0519596bee94a62e56392ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226577307,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1226577307,
+    "wof:lastmodified":1537585389,
+    "wof:name":"Kovlar",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5558,
+    40.11232,
+    48.5558,
+    40.11232
+],
+  "geometry": {"coordinates":[48.5558,40.11232],"type":"Point"}
+}

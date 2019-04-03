@@ -1,0 +1,77 @@
+{
+  "id": 1226537491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.33861,40.47861,48.33861,40.47861",
+    "geom:latitude":40.47861,
+    "geom:longitude":48.33861,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Barmi",
+    "gn:country_code":"AZ",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587050,
+    "gn:latitude":40.47861,
+    "gn:longitude":48.33861,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Barm\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Barm\u0131"
+    ],
+    "name:und_x_variant":[
+        "Pardaly",
+        "Barumy-Perdli",
+        "Varumy",
+        "Barmy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587050,
+        "wk:page":"Barmy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dc532f5ef4a72d3f67a3318dcb86374f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226537491,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1226537491,
+    "wof:lastmodified":1537585478,
+    "wof:name":"Barmi",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.33861,
+    40.47861,
+    48.33861,
+    40.47861
+],
+  "geometry": {"coordinates":[48.33861,40.47861],"type":"Point"}
+}

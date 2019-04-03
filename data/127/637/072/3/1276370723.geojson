@@ -1,0 +1,72 @@
+{
+  "id": 1276370723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.72972,41.57165,48.72972,41.57165",
+    "geom:latitude":41.57165,
+    "geom:longitude":48.72972,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Qusarcay",
+    "gn:country_code":"AZ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585752,
+    "gn:latitude":41.57165,
+    "gn:longitude":48.72972,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Qusar\u00e7ay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kusarchay",
+        "Qusar\u00e7ay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585752,
+        "wk:page":"Qusar%C3%A7ay"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ea66aea17ca90d6aff521f631318c748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276370723,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1276370723,
+    "wof:lastmodified":1537585386,
+    "wof:name":"Qusarcay",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.72972,
+    41.57165,
+    48.72972,
+    41.57165
+],
+  "geometry": {"coordinates":[48.72972,41.57165],"type":"Point"}
+}

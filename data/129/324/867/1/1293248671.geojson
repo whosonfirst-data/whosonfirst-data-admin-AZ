@@ -1,0 +1,70 @@
+{
+  "id": 1293248671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.79027,40.20691,48.79027,40.20691",
+    "geom:latitude":40.20691,
+    "geom:longitude":48.79027,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Dzhagirli",
+    "gn:country_code":"AZ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586680,
+    "gn:latitude":40.20691,
+    "gn:longitude":48.79027,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Dzhagirli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C\u0259yirli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668293,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586680
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5ce25f2ea9305707b250c4030185d255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293248671,
+            "macroregion_id":1108808627,
+            "region_id":85668293
+        }
+    ],
+    "wof:id":1293248671,
+    "wof:lastmodified":1537585451,
+    "wof:name":"Dzhagirli",
+    "wof:parent_id":85668293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.79027,
+    40.20691,
+    48.79027,
+    40.20691
+],
+  "geometry": {"coordinates":[48.79027,40.20691],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293820071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.28567,41.49502,48.28567,41.49502",
+    "geom:latitude":41.49502,
+    "geom:longitude":48.28567,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Piral",
+    "gn:country_code":"AZ",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585269,
+    "gn:latitude":41.49502,
+    "gn:longitude":48.28567,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Piral",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Piral"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0440\u0430\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585269,
+        "wk:page":"Piral"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d380c837ab42d28ab74b755b074e8c34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293820071,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1293820071,
+    "wof:lastmodified":1537585353,
+    "wof:name":"Piral",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.28567,
+    41.49502,
+    48.28567,
+    41.49502
+],
+  "geometry": {"coordinates":[48.28567,41.49502],"type":"Point"}
+}

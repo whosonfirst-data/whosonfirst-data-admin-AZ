@@ -1,0 +1,76 @@
+{
+  "id": 1276875791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.17389,40.01958,47.17389,40.01958",
+    "geom:latitude":40.01958,
+    "geom:longitude":47.17389,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kyagrizli-Akhmedbeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148391,
+    "gn:latitude":40.01958,
+    "gn:longitude":47.17389,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Kyagrizli-Akhmedbeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bala K\u0259hrizli"
+    ],
+    "name:und_x_variant":[
+        "Bala-Kyagrizli",
+        "Kyagrizli-Akhmedbeyli",
+        "Tazamakhlya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668519,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148391,
+        "wk:page":"Bala_K%C9%99hrizli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fbec6ae26ad5e52f490a4bd9c1cac0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276875791,
+            "macroregion_id":1108808627,
+            "region_id":85668519
+        }
+    ],
+    "wof:id":1276875791,
+    "wof:lastmodified":1537585267,
+    "wof:name":"Kyagrizli-Akhmedbeyli",
+    "wof:parent_id":85668519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.17389,
+    40.01958,
+    47.17389,
+    40.01958
+],
+  "geometry": {"coordinates":[47.17389,40.01958],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1327307691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.97429,39.37929,46.97429,39.37929",
+    "geom:latitude":39.37929,
+    "geom:longitude":46.97429,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yarakhmedli",
+    "gn:country_code":"AZ",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146963,
+    "gn:latitude":39.37929,
+    "gn:longitude":46.97429,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yarakhmedli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yar\u0259hm\u0259dli"
+    ],
+    "name:hye_x_preferred":[
+        "Yarahmedli"
+    ],
+    "name:hye_x_variant":[
+        "\u0545\u0561\u0580\u0561\u0570\u0574\u0565\u0564\u056c\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0440\u0430\u0445\u043c\u0435\u0434\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "\u042f\u0440\u0430\u0445\u043c\u0435\u0434\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146963,
+        "wk:page":"Yar%C9%99hm%C9%99dli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c7ac21f1f438bfbb707867c7b9116581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327307691,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1327307691,
+    "wof:lastmodified":1537585132,
+    "wof:name":"Yarakhmedli",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.97429,
+    39.37929000000001,
+    46.97429,
+    39.37929000000001
+],
+  "geometry": {"coordinates":[46.97429,39.37929000000001],"type":"Point"}
+}

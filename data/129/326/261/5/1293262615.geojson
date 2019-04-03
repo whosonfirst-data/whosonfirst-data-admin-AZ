@@ -1,0 +1,72 @@
+{
+  "id": 1293262615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.28704,39.1839,48.28704,39.1839",
+    "geom:latitude":39.1839,
+    "geom:longitude":48.28704,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Pyardili",
+    "gn:country_code":"AZ",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147308,
+    "gn:latitude":39.1839,
+    "gn:longitude":48.28704,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Pyardili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pardu",
+        "P\u0259rdili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147308,
+        "wk:page":"P%C9%99rdili"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"acbb33f9200789cfc69ba9a9c601e7d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293262615,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1293262615,
+    "wof:lastmodified":1537585163,
+    "wof:name":"Pyardili",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.28704000000001,
+    39.1839,
+    48.28704000000001,
+    39.1839
+],
+  "geometry": {"coordinates":[48.28704000000001,39.1839],"type":"Point"}
+}

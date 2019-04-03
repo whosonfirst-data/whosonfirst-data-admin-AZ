@@ -1,0 +1,75 @@
+{
+  "id": 1310339751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.94934,39.77847,48.94934,39.77847",
+    "geom:latitude":39.77847,
+    "geom:longitude":48.94934,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Kolani",
+    "gn:country_code":"AZ",
+    "gn:dem":-22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147721,
+    "gn:latitude":39.77847,
+    "gn:longitude":48.94934,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Kolan\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kolan\u0131"
+    ],
+    "name:und_x_variant":[
+        "Gashim-Khanly",
+        "Kolany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668449,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147721,
+        "wk:page":"Kolan%C4%B1%2C_Salyan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b45124101ff0ec5f37751fbb3549f52f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310339751,
+            "macroregion_id":1108808627,
+            "region_id":85668449
+        }
+    ],
+    "wof:id":1310339751,
+    "wof:lastmodified":1537585201,
+    "wof:name":"Kolani",
+    "wof:parent_id":85668449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.94934,
+    39.77847,
+    48.94934,
+    39.77847
+],
+  "geometry": {"coordinates":[48.94934,39.77847],"type":"Point"}
+}

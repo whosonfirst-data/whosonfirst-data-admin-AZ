@@ -1,0 +1,73 @@
+{
+  "id": 1209767025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.75812,40.82771,47.75812,40.82771",
+    "geom:latitude":40.82771,
+    "geom:longitude":47.75812,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Ovcullu",
+    "gn:country_code":"AZ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585300,
+    "gn:latitude":40.82771,
+    "gn:longitude":47.75812,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Ovcullu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oudzhulu",
+        "Ovdzhulu",
+        "Ovcullu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585300,
+        "wk:page":"Ovcullu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"838adaf989bf1d345e964854e9455e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209767025,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1209767025,
+    "wof:lastmodified":1537585355,
+    "wof:name":"Ovcullu",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.75812,
+    40.82771,
+    47.75812,
+    40.82771
+],
+  "geometry": {"coordinates":[47.75812,40.82771],"type":"Point"}
+}

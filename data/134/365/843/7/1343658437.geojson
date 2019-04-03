@@ -1,0 +1,68 @@
+{
+  "id": 1343658437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.3765,40.04038,49.3765,40.04038",
+    "geom:latitude":40.04038,
+    "geom:longitude":49.3765,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Veylyar",
+    "gn:country_code":"AZ",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800399,
+    "gn:latitude":40.04038,
+    "gn:longitude":49.3765,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Veylyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800399,
+        "wk:page":"Veylyar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4b99e33d953f36ecb479e199a7e3138b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343658437,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1343658437,
+    "wof:lastmodified":1537486678,
+    "wof:name":"Veylyar",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.3765,
+    40.04038,
+    49.3765,
+    40.04038
+],
+  "geometry": {"coordinates":[49.3765,40.04038],"type":"Point"}
+}

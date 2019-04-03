@@ -1,0 +1,74 @@
+{
+  "id": 1260039515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.70764,39.13582,48.70764,39.13582",
+    "geom:latitude":39.13582,
+    "geom:longitude":48.70764,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Gadzhytepe",
+    "gn:country_code":"AZ",
+    "gn:dem":-20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148090,
+    "gn:latitude":39.13582,
+    "gn:longitude":48.70764,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Gadzhytepe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hac\u0131t\u0259p\u0259"
+    ],
+    "name:und_x_variant":[
+        "Gadzhitepe",
+        "Gadzhytepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148090
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"636627596e52971e910305abdc0fcc73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260039515,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1260039515,
+    "wof:lastmodified":1537585238,
+    "wof:name":"Gadzhytepe",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.70764000000001,
+    39.13582,
+    48.70764000000001,
+    39.13582
+],
+  "geometry": {"coordinates":[48.70764000000001,39.13582],"type":"Point"}
+}

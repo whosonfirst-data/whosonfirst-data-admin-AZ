@@ -1,0 +1,70 @@
+{
+  "id": 1293723345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.50384,40.75554,46.50384,40.75554",
+    "geom:latitude":40.75554,
+    "geom:longitude":46.50384,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Yukhary Agasibeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584648,
+    "gn:latitude":40.75554,
+    "gn:longitude":46.50384,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Yukhary Agasibeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yuxar\u0131 A\u011fas\u0131b\u0259yli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668235,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584648
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9fee9077a452bd99ff84765ae0151866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293723345,
+            "macroregion_id":1108808609,
+            "region_id":85668235
+        }
+    ],
+    "wof:id":1293723345,
+    "wof:lastmodified":1537585312,
+    "wof:name":"Yukhary Agasibeyli",
+    "wof:parent_id":85668235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.50384,
+    40.75554,
+    46.50384,
+    40.75554
+],
+  "geometry": {"coordinates":[46.50384,40.75554],"type":"Point"}
+}

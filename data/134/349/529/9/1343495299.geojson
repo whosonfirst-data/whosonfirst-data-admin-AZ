@@ -1,0 +1,77 @@
+{
+  "id": 1343495299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.34253,38.89018,48.34253,38.89018",
+    "geom:latitude":38.89018,
+    "geom:longitude":48.34253,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Angevul",
+    "gn:country_code":"AZ",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148528,
+    "gn:latitude":38.89018,
+    "gn:longitude":48.34253,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Angevul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fng\u0259vul"
+    ],
+    "name:aze_x_variant":[
+        "\u018fng\u0259v\u00fcl"
+    ],
+    "name:und_x_variant":[
+        "Angyavul\u2019",
+        "Angevul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668497,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148528
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2254b22acfe9d1f6c8280ba1ca1ac93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343495299,
+            "macroregion_id":1108808625,
+            "region_id":85668497
+        }
+    ],
+    "wof:id":1343495299,
+    "wof:lastmodified":1537585279,
+    "wof:name":"Angevul",
+    "wof:parent_id":85668497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.34253,
+    38.89018,
+    48.34253,
+    38.89018
+],
+  "geometry": {"coordinates":[48.34253,38.89018],"type":"Point"}
+}

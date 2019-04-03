@@ -1,0 +1,74 @@
+{
+  "id": 1360019405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.69998,39.07274,46.69998,39.07274",
+    "geom:latitude":39.07274,
+    "geom:longitude":46.69998,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Ichari Mushlan",
+    "gn:country_code":"AZ",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148001,
+    "gn:latitude":39.07274,
+    "gn:longitude":46.69998,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ichari Mushlan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0447\u0430\u0440\u0438 \u041c\u0443\u0448\u043b\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "\u0130\u00e7\u0259ri Mu\u015flan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148001,
+        "wk:page":"%C4%B0%C3%A7%C9%99ri_Mu%C5%9Flan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"756dccc9264a3d9da665a686a46c3124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360019405,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1360019405,
+    "wof:lastmodified":1537585229,
+    "wof:name":"Ichari Mushlan",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.69998,
+    39.07274,
+    46.69998,
+    39.07274
+],
+  "geometry": {"coordinates":[46.69998,39.07274],"type":"Point"}
+}

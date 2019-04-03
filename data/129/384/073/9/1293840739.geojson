@@ -1,0 +1,68 @@
+{
+  "id": 1293840739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.10306,40.26194,46.10306,40.26194",
+    "geom:latitude":40.26194,
+    "geom:longitude":46.10306,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Kyurt-Dam",
+    "gn:country_code":"AZ",
+    "gn:dem":1800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":801191,
+    "gn:latitude":40.26194,
+    "gn:longitude":46.10306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kyurt-Dam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":801191,
+        "wk:page":"Kyurt-Dam"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"33104158014a0257a6bd23e0a6fd8d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293840739,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1293840739,
+    "wof:lastmodified":1537486682,
+    "wof:name":"Kyurt-Dam",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.10306,
+    40.26194,
+    46.10306,
+    40.26194
+],
+  "geometry": {"coordinates":[46.10306,40.26194],"type":"Point"}
+}

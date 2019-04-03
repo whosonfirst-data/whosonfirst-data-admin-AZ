@@ -1,0 +1,82 @@
+{
+  "id": 1327365321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.67789,40.49136,48.67789,40.49136",
+    "geom:latitude":40.49136,
+    "geom:longitude":48.67789,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Geoglyar-Dag",
+    "gn:country_code":"AZ",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586459,
+    "gn:latitude":40.49136,
+    "gn:longitude":48.67789,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Geoglyar-Dag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u00f6yl\u0259r Da\u011f"
+    ],
+    "name:eng_x_preferred":[
+        "G\u00f6yl\u01ddrda\u011f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0439\u043b\u044f\u0440_\u0414\u0430\u0433"
+    ],
+    "name:und_x_variant":[
+        "G\u00ebylyar Dag",
+        "Geoglyar",
+        "Geoglyar-Dag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586459,
+        "wk:page":"G%C3%B6yl%C9%99rda%C4%9F"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a5fb8761d42bed18eba61fd664e46eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327365321,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1327365321,
+    "wof:lastmodified":1537585435,
+    "wof:name":"Geoglyar-Dag",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.67789000000001,
+    40.49136,
+    48.67789000000001,
+    40.49136
+],
+  "geometry": {"coordinates":[48.67789000000001,40.49136],"type":"Point"}
+}

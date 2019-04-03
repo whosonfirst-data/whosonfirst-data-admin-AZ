@@ -1,0 +1,72 @@
+{
+  "id": 1360120615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.71938,41.56181,48.71938,41.56181",
+    "geom:latitude":41.56181,
+    "geom:longitude":48.71938,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Palciqoba",
+    "gn:country_code":"AZ",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585292,
+    "gn:latitude":41.56181,
+    "gn:longitude":48.71938,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Pal\u00e7\u0131qoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palchykhoba",
+        "Pal\u00e7\u0131qoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585292,
+        "wk:page":"Pal%C3%A7%C4%B1qoba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"611c18d9f04c407487e478edad682669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360120615,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1360120615,
+    "wof:lastmodified":1537585355,
+    "wof:name":"Palciqoba",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.71938,
+    41.56181,
+    48.71938,
+    41.56181
+],
+  "geometry": {"coordinates":[48.71938,41.56181],"type":"Point"}
+}

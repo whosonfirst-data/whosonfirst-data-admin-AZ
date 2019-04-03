@@ -1,0 +1,73 @@
+{
+  "id": 1293150071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.64681,38.96542,48.64681,38.96542",
+    "geom:latitude":38.96542,
+    "geom:longitude":48.64681,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Kyulatan",
+    "gn:country_code":"AZ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148347,
+    "gn:latitude":38.96542,
+    "gn:longitude":48.64681,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kyulatan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00f6y\u00fck Kolatan",
+        "B\u00ebyuk K\u00eblatan",
+        "B\u00f6y\u00fck K\u00fclatan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148347,
+        "wk:page":"B%C3%B6y%C3%BCk_K%C3%BClatan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"98a71a1c6d590e3840874e0213fdd57c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293150071,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1293150071,
+    "wof:lastmodified":1537585263,
+    "wof:name":"Kyulatan",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.64681,
+    38.96542,
+    48.64681,
+    38.96542
+],
+  "geometry": {"coordinates":[48.64681,38.96542],"type":"Point"}
+}

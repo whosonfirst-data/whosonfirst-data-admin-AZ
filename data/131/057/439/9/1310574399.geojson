@@ -1,0 +1,76 @@
+{
+  "id": 1310574399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.26667,39.24391,48.26667,39.24391",
+    "geom:latitude":39.24391,
+    "geom:longitude":48.26667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Novruzalli",
+    "gn:country_code":"AZ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147396,
+    "gn:latitude":39.24391,
+    "gn:longitude":48.26667,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Novruzall\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Novruzall\u0131"
+    ],
+    "name:und_x_variant":[
+        "Naurzali",
+        "Novruzally",
+        "Novruzalyly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147396,
+        "wk:page":"Novruzall%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"154baad68f089589e72bf3762f36ae85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310574399,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1310574399,
+    "wof:lastmodified":1537585169,
+    "wof:name":"Novruzalli",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.26667,
+    39.24391,
+    48.26667,
+    39.24391
+],
+  "geometry": {"coordinates":[48.26667,39.24391],"type":"Point"}
+}

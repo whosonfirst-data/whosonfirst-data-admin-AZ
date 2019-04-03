@@ -1,0 +1,71 @@
+{
+  "id": 1293550451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.80855,38.70797,48.80855,38.70797",
+    "geom:latitude":38.70797,
+    "geom:longitude":48.80855,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Kosalar",
+    "gn:country_code":"AZ",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147705,
+    "gn:latitude":38.70797,
+    "gn:longitude":48.80855,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Kosalar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasalar",
+        "Kosalar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147705
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"44f4a713c7c6a8f922ad5960f6a66ee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293550451,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1293550451,
+    "wof:lastmodified":1537585199,
+    "wof:name":"Kosalar",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.80855,
+    38.70797,
+    48.80855,
+    38.70797
+],
+  "geometry": {"coordinates":[48.80855,38.70797],"type":"Point"}
+}

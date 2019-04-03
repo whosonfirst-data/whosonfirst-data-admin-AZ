@@ -1,0 +1,76 @@
+{
+  "id": 1225926087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.16444,40.41157,46.16444,40.41157",
+    "geom:latitude":40.41157,
+    "geom:longitude":46.16444,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Suqovusan",
+    "gn:country_code":"AZ",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586492,
+    "gn:latitude":40.41157,
+    "gn:longitude":46.16444,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Suqovu\u015fan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Suqovu\u015fan"
+    ],
+    "name:und_x_variant":[
+        "Gedamish",
+        "Ged\u0259mi\u015f",
+        "Kedalish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586492,
+        "wk:page":"Ged%C9%99mi%C5%9F"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fda65601db07dcfc86e5f72e677fb184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225926087,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1225926087,
+    "wof:lastmodified":1537585437,
+    "wof:name":"Suqovusan",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.16444,
+    40.41157000000001,
+    46.16444,
+    40.41157000000001
+],
+  "geometry": {"coordinates":[46.16444,40.41157000000001],"type":"Point"}
+}

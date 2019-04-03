@@ -1,0 +1,82 @@
+{
+  "id": 1242633181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.90863,39.72056,47.90863,39.72056",
+    "geom:latitude":39.72056,
+    "geom:longitude":47.90863,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Yukhary-Karakyuvendikly",
+    "gn:country_code":"AZ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146931,
+    "gn:latitude":39.72056,
+    "gn:longitude":47.90863,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Yukhary-Karakyuvendikly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 Qarag\u00fcv\u0259ndli"
+    ],
+    "name:aze_x_variant":[
+        "Qarag\u00fcv\u0259ndikli",
+        "A\u015fa\u011f\u0131 Qarag\u00fcv\u0259ndli",
+        "Qarag\u00fcv\u0259ndli"
+    ],
+    "name:und_x_variant":[
+        "Yukhary Karagyuvyandli",
+        "Ashagy Karagyuvyandli",
+        "Ashaga Karakyuvendikly",
+        "Karakyuvendikly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668365,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146931,
+        "wk:page":"Yuxar%C4%B1_Qarag%C3%BCv%C9%99ndli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"aa806e6ffee6b64b96e1b9e8fb7365ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242633181,
+            "macroregion_id":1108808627,
+            "region_id":85668365
+        }
+    ],
+    "wof:id":1242633181,
+    "wof:lastmodified":1537585129,
+    "wof:name":"Yukhary-Karakyuvendikly",
+    "wof:parent_id":85668365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.90863,
+    39.72056,
+    47.90863,
+    39.72056
+],
+  "geometry": {"coordinates":[47.90863,39.72056],"type":"Point"}
+}

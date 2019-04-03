@@ -1,0 +1,77 @@
+{
+  "id": 1310311291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.53207,40.61943,47.53207,40.61943",
+    "geom:latitude":40.61943,
+    "geom:longitude":47.53207,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Shordekhne",
+    "gn:country_code":"AZ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585006,
+    "gn:latitude":40.61943,
+    "gn:longitude":47.53207,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Shordekhne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015eord\u0259hn\u0259"
+    ],
+    "name:und_x_variant":[
+        "Shordekhna Pervoye",
+        "Shordekhne",
+        "Shordakhna Pervoye",
+        "Birinci \u015eord\u0259hn\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668259,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585006,
+        "wk:page":"Birinci_%C5%9Eord%C9%99hn%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"97f9d65a8f699e414ee6cb698e665327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310311291,
+            "macroregion_id":1108808627,
+            "region_id":85668259
+        }
+    ],
+    "wof:id":1310311291,
+    "wof:lastmodified":1537585336,
+    "wof:name":"Shordekhne",
+    "wof:parent_id":85668259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.53207,
+    40.61943,
+    47.53207,
+    40.61943
+],
+  "geometry": {"coordinates":[47.53207,40.61943],"type":"Point"}
+}

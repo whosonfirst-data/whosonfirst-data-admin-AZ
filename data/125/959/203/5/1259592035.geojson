@@ -1,0 +1,75 @@
+{
+  "id": 1259592035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6688,40.19117,47.6688,40.19117",
+    "geom:latitude":40.19117,
+    "geom:longitude":47.6688,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Allahgulubagi",
+    "gn:country_code":"AZ",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800625,
+    "gn:latitude":40.19117,
+    "gn:longitude":47.6688,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Allahguluba\u011f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Allahguluba\u011f\u0131"
+    ],
+    "name:und_x_variant":[
+        "Abyshbeyli",
+        "Allakhkulubagy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668509,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800625,
+        "wk:page":"Abyshbeyli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"de8be8d0f8ca45c121d0f2a46319385e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259592035,
+            "macroregion_id":1108808627,
+            "region_id":85668509
+        }
+    ],
+    "wof:id":1259592035,
+    "wof:lastmodified":1537585504,
+    "wof:name":"Allahgulubagi",
+    "wof:parent_id":85668509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6688,
+    40.19117,
+    47.6688,
+    40.19117
+],
+  "geometry": {"coordinates":[47.6688,40.19117],"type":"Point"}
+}

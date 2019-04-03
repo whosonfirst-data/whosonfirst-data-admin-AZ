@@ -1,0 +1,68 @@
+{
+  "id": 1309712435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.39792,40.63962,47.39792,40.63962",
+    "geom:latitude":40.63962,
+    "geom:longitude":47.39792,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Yukhary-Uchkovakh",
+    "gn:country_code":"AZ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800798,
+    "gn:latitude":40.63962,
+    "gn:longitude":47.39792,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Yukhary-Uchkovakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668259,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800798,
+        "wk:page":"Yukhary-Uchkovakh"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f320fde68d5d9ab3d99548013bdf73e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309712435,
+            "macroregion_id":1108808627,
+            "region_id":85668259
+        }
+    ],
+    "wof:id":1309712435,
+    "wof:lastmodified":1537486680,
+    "wof:name":"Yukhary-Uchkovakh",
+    "wof:parent_id":85668259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.39792,
+    40.63962,
+    47.39792,
+    40.63962
+],
+  "geometry": {"coordinates":[47.39792,40.63962],"type":"Point"}
+}

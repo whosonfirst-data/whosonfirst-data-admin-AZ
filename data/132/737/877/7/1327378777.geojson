@@ -1,0 +1,78 @@
+{
+  "id": 1327378777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.84833,39.27472,45.84833,39.27472",
+    "geom:latitude":39.27472,
+    "geom:longitude":45.84833,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"148132.0",
+    "gn:asciiname":"Bekahmet",
+    "gn:country_code":"AZ",
+    "gn:dem":2056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389205,
+    "gn:latitude":39.27472,
+    "gn:longitude":45.84833,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bekahmet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_colloquial":[
+        "B\u0259y\u0259hm\u0259d"
+    ],
+    "name:aze_x_historical":[
+        "B\u0259y\u0259hm\u0259d"
+    ],
+    "name:aze_x_preferred":[
+        "B\u0259y\u0259hm\u0259d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668677,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389205,
+        "wk:page":"Byagliaty"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4565d300449a47a16a1d75b3389363f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327378777,
+            "macroregion_id":1108808617,
+            "region_id":85668677
+        }
+    ],
+    "wof:id":1327378777,
+    "wof:lastmodified":1537486574,
+    "wof:name":"Bekahmet",
+    "wof:parent_id":85668677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.84833,
+    39.27472,
+    45.84833,
+    39.27472
+],
+  "geometry": {"coordinates":[45.84833,39.27472],"type":"Point"}
+}

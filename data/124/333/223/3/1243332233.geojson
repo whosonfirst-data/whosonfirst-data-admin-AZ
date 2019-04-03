@@ -1,0 +1,71 @@
+{
+  "id": 1243332233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.91667,40.01667,48.91667,40.01667",
+    "geom:latitude":40.01667,
+    "geom:longitude":48.91667,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Dagkhilya",
+    "gn:country_code":"AZ",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586802,
+    "gn:latitude":40.01667,
+    "gn:longitude":48.91667,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Dagkhilya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Da\u011fil\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668293,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586802,
+        "wk:page":"Da%C4%9Fil%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b528586548a0bacc11f71eab9e266fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243332233,
+            "macroregion_id":1108808627,
+            "region_id":85668293
+        }
+    ],
+    "wof:id":1243332233,
+    "wof:lastmodified":1537585459,
+    "wof:name":"Dagkhilya",
+    "wof:parent_id":85668293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.91667,
+    40.01667,
+    48.91667,
+    40.01667
+],
+  "geometry": {"coordinates":[48.91667,40.01667],"type":"Point"}
+}

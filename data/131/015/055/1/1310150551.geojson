@@ -1,0 +1,76 @@
+{
+  "id": 1310150551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.01409,39.03068,46.01409,39.03068",
+    "geom:latitude":39.03068,
+    "geom:longitude":46.01409,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147365.0",
+    "gn:asciiname":"Bazmari",
+    "gn:country_code":"AZ",
+    "gn:dem":1876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147341,
+    "gn:latitude":39.03068,
+    "gn:longitude":46.01409,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Bazmari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "P\u0259zm\u0259ri"
+    ],
+    "name:und_x_variant":[
+        "Pazmara",
+        "Bazmari",
+        "Pazmari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668665,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147341
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2ade848a43879e1beed7fd71b133f3a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310150551,
+            "macroregion_id":1108808617,
+            "region_id":85668665
+        }
+    ],
+    "wof:id":1310150551,
+    "wof:lastmodified":1537585165,
+    "wof:name":"Bazmari",
+    "wof:parent_id":85668665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.01409,
+    39.03068,
+    46.01409,
+    39.03068
+],
+  "geometry": {"coordinates":[46.01409,39.03068],"type":"Point"}
+}

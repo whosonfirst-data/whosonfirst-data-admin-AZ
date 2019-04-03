@@ -1,0 +1,80 @@
+{
+  "id": 1225980551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.63412,40.74224,48.63412,40.74224",
+    "geom:latitude":40.74224,
+    "geom:longitude":48.63412,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Nagaraxana",
+    "gn:country_code":"AZ",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585886,
+    "gn:latitude":40.74224,
+    "gn:longitude":48.63412,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Na\u011faraxana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Na\u011faraxana"
+    ],
+    "name:eng_x_preferred":[
+        "Kirovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kirovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585886,
+        "wk:page":"Na%C4%9Faraxana"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"761e757053845a1482e076a1b7e02b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225980551,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1225980551,
+    "wof:lastmodified":1537585393,
+    "wof:name":"Nagaraxana",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.63412,
+    40.74224,
+    48.63412,
+    40.74224
+],
+  "geometry": {"coordinates":[48.63412,40.74224],"type":"Point"}
+}

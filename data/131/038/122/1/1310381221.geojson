@@ -1,0 +1,80 @@
+{
+  "id": 1310381221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.49791,39.51391,47.49791,39.51391",
+    "geom:latitude":39.51391,
+    "geom:longitude":47.49791,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Boyuk Bahmanli",
+    "gn:country_code":"AZ",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148351,
+    "gn:latitude":39.51391,
+    "gn:longitude":47.49791,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"B\u00f6y\u00fck B\u0259hm\u0259nli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "B\u00f6y\u00fck B\u0259hm\u0259nli"
+    ],
+    "name:rus_x_preferred":[
+        "B\u00ebyuk Bekhmanli"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0451\u044e\u043a-\u0411\u0435\u0445\u043c\u0430\u043d\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "B\u00ebyuk-Bekhmenli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668351,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148351,
+        "wk:page":"B%C3%B6y%C3%BCk_B%C9%99hm%C9%99nli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"39acdb42839d15158e6bbc260ac32e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310381221,
+            "macroregion_id":1108808615,
+            "region_id":85668351
+        }
+    ],
+    "wof:id":1310381221,
+    "wof:lastmodified":1537585264,
+    "wof:name":"Boyuk Bahmanli",
+    "wof:parent_id":85668351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.49791,
+    39.51391,
+    47.49791,
+    39.51391
+],
+  "geometry": {"coordinates":[47.49791,39.51391],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1209945761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.75519,41.58889,46.75519,41.58889",
+    "geom:latitude":41.58889,
+    "geom:longitude":46.75519,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Yuxari Cardaxlar",
+    "gn:country_code":"AZ",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584639,
+    "gn:latitude":41.58889,
+    "gn:longitude":46.75519,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Yuxar\u0131 \u00c7ardaxlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 \u00c7ardaxlar"
+    ],
+    "name:eng_x_preferred":[
+        "Yuxar\u0131 \u00c7ardaqlar"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0445\u0430\u0440\u044b-\u0427\u0430\u0440\u0434\u0430\u0445\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Chardakhlo",
+        "Yukhari Chardakhly",
+        "Yukhary-Chardakhly",
+        "Yukhary Chardakhlar",
+        "Yuxar\u0131 \u00c7ardaqlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668601,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584639,
+        "wk:page":"Yuxar%C4%B1_%C3%87ardaqlar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c49e8524eea746e44cf418d2199739dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209945761,
+            "macroregion_id":1108808619,
+            "region_id":85668601
+        }
+    ],
+    "wof:id":1209945761,
+    "wof:lastmodified":1537585311,
+    "wof:name":"Yuxari Cardaxlar",
+    "wof:parent_id":85668601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.75519,
+    41.58889,
+    46.75519,
+    41.58889
+],
+  "geometry": {"coordinates":[46.75519,41.58889],"type":"Point"}
+}

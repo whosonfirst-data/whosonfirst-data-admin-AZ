@@ -1,0 +1,77 @@
+{
+  "id": 1360022321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.54949,39.09107,46.54949,39.09107",
+    "geom:latitude":39.09107,
+    "geom:longitude":46.54949,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Shataryz",
+    "gn:country_code":"AZ",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147172,
+    "gn:latitude":39.09107,
+    "gn:longitude":46.54949,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Shataryz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Berkri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u0442\u0430\u0440\u044b\u0437"
+    ],
+    "name:und_x_variant":[
+        "Shotaryz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147172,
+        "wk:page":"Shotaryz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c9209592fd81f9b6c335e987b7216880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360022321,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1360022321,
+    "wof:lastmodified":1537585151,
+    "wof:name":"Shataryz",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.54949000000001,
+    39.09107,
+    46.54949000000001,
+    39.09107
+],
+  "geometry": {"coordinates":[46.54949000000001,39.09107],"type":"Point"}
+}

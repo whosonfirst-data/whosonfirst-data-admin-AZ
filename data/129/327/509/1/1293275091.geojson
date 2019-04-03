@@ -1,0 +1,74 @@
+{
+  "id": 1293275091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.25997,39.21717,48.25997,39.21717",
+    "geom:latitude":39.21717,
+    "geom:longitude":48.25997,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Dostali",
+    "gn:country_code":"AZ",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439515,
+    "gn:latitude":39.21717,
+    "gn:longitude":48.25997,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Dostal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Dostal\u0131"
+    ],
+    "name:und_x_variant":[
+        "Dostalyly",
+        "Dostaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439515
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"563a56caf52277467b48a7ec055bf711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293275091,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1293275091,
+    "wof:lastmodified":1537585520,
+    "wof:name":"Dostali",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.25997,
+    39.21717,
+    48.25997,
+    39.21717
+],
+  "geometry": {"coordinates":[48.25997,39.21717],"type":"Point"}
+}

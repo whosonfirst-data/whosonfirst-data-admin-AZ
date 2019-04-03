@@ -1,0 +1,72 @@
+{
+  "id": 1277113533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.92335,39.53737,48.92335,39.53737",
+    "geom:latitude":39.53737,
+    "geom:longitude":48.92335,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Quycu",
+    "gn:country_code":"AZ",
+    "gn:dem":-22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400165,
+    "gn:latitude":39.53737,
+    "gn:longitude":48.92335,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Quy\u00e7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quy\u00e7u",
+        "Kuychi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668449,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400165,
+        "wk:page":"Quy%C3%A7u"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b433fbdbd943e7f746100cf683cf2058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277113533,
+            "macroregion_id":1108808627,
+            "region_id":85668449
+        }
+    ],
+    "wof:id":1277113533,
+    "wof:lastmodified":1537585301,
+    "wof:name":"Quycu",
+    "wof:parent_id":85668449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.92335,
+    39.53737,
+    48.92335,
+    39.53737
+],
+  "geometry": {"coordinates":[48.92335,39.53737],"type":"Point"}
+}

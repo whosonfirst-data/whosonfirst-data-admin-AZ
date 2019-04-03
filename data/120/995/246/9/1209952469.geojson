@@ -1,0 +1,75 @@
+{
+  "id": 1209952469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.61942,40.9539,45.61942,40.9539",
+    "geom:latitude":40.9539,
+    "geom:longitude":45.61942,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Dondar Quscu",
+    "gn:country_code":"AZ",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586717,
+    "gn:latitude":40.9539,
+    "gn:longitude":45.61942,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Dondar Qu\u015f\u00e7u",
+    "gn:population":3482,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dondar-Kushchu",
+        "Dondar Qu\u015f\u00e7u"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586717,
+        "wk:page":"Dondar_Qu%C5%9F%C3%A7u"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8de93cf93708391558921d38f28b6246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209952469,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1209952469,
+    "wof:lastmodified":1537585454,
+    "wof:name":"Dondar Quscu",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:population":3482,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.61942,
+    40.9539,
+    45.61942,
+    40.9539
+],
+  "geometry": {"coordinates":[45.61942,40.9539],"type":"Point"}
+}

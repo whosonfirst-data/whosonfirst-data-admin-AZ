@@ -1,0 +1,71 @@
+{
+  "id": 1276264499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.69672,41.19276,46.69672,41.19276",
+    "geom:latitude":41.19276,
+    "geom:longitude":46.69672,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Uzyumlyukend",
+    "gn:country_code":"AZ",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":799245,
+    "gn:latitude":41.19276,
+    "gn:longitude":46.69672,
+    "gn:modification_date":"2013-11-11",
+    "gn:name":"Uzyumlyukend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00dcz\u00fcml\u00fck\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668557,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":799245,
+        "wk:page":"%C3%9Cz%C3%BCml%C3%BCk%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e8ed945c3e2a3faddb0132fdb146d816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276264499,
+            "macroregion_id":1108808619,
+            "region_id":85668557
+        }
+    ],
+    "wof:id":1276264499,
+    "wof:lastmodified":1537585503,
+    "wof:name":"Uzyumlyukend",
+    "wof:parent_id":85668557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.69672,
+    41.19276,
+    46.69672,
+    41.19276
+],
+  "geometry": {"coordinates":[46.69672,41.19276],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1276493135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.42694,39.80556,46.42694,39.80556",
+    "geom:latitude":39.80556,
+    "geom:longitude":46.42694,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Xacinyali",
+    "gn:country_code":"AZ",
+    "gn:dem":1413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389353,
+    "gn:latitude":39.80556,
+    "gn:longitude":46.42694,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Xa\u00e7\u0131nyal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xa\u00e7\u0131nyal\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Khach\u2019ynyal"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0561\u0579\u0568\u0576\u0575\u0561\u056c",
+        "Khach\u2019in Tap\u2019",
+        "\u053d\u0561\u0579\u056b\u0576 \u054f\u0561\u0583"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0447\u0438\u043d\u044f\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Khachinyaly",
+        "\u0425\u0430\u0447\u0438\u043d\u044f\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389353,
+        "wk:page":"Xa%C3%A7%C4%B1nyal%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"30c2d8e84c250bddebc03c953b60e8e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276493135,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1276493135,
+    "wof:lastmodified":1537585294,
+    "wof:name":"Xacinyali",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.42694,
+    39.80556,
+    46.42694,
+    39.80556
+],
+  "geometry": {"coordinates":[46.42694,39.80556],"type":"Point"}
+}

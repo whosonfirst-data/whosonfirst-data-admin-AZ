@@ -1,0 +1,80 @@
+{
+  "id": 1327262683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.99842,40.5226,46.99842,40.5226",
+    "geom:latitude":40.5226,
+    "geom:longitude":46.99842,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Alatly",
+    "gn:country_code":"AZ",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800821,
+    "gn:latitude":40.5226,
+    "gn:longitude":46.99842,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Alatly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "R\u00fcst\u0259mli"
+    ],
+    "name:aze_x_variant":[
+        "R\u0259st\u0259mli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u0442\u0430\u043c\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Rustamly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668243,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800821,
+        "wk:page":"Alatly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cede3bf84c5781a30c2ef64dc6bfa9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327262683,
+            "macroregion_id":1108808627,
+            "region_id":85668243
+        }
+    ],
+    "wof:id":1327262683,
+    "wof:lastmodified":1537585505,
+    "wof:name":"Alatly",
+    "wof:parent_id":85668243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.99842,
+    40.5226,
+    46.99842,
+    40.5226
+],
+  "geometry": {"coordinates":[46.99842,40.5226],"type":"Point"}
+}

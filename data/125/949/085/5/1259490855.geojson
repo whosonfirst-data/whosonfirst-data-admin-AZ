@@ -1,0 +1,86 @@
+{
+  "id": 1259490855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.96873,40.03115,46.96873,40.03115",
+    "geom:latitude":40.03115,
+    "geom:longitude":46.96873,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kengorli",
+    "gn:country_code":"AZ",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586036,
+    "gn:latitude":40.03115,
+    "gn:longitude":46.96873,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Kengorli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u0259ng\u0259rli"
+    ],
+    "name:hye_x_preferred":[
+        "K\u2019engerli"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0565\u0576\u0563\u0565\u0580\u056c\u056b",
+        "Kangarrk\u2019",
+        "\u053f\u0561\u0576\u0563\u0561\u057c\u0584"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0433\u0435\u0440\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "G\u0259ng\u0259rli",
+        "Kengerli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586036,
+        "wk:page":"G%C9%99ng%C9%99rli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7547c8c79f8add3764559717e744f81b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259490855,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1259490855,
+    "wof:lastmodified":1537585405,
+    "wof:name":"Kengorli",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.96873,
+    40.03115,
+    46.96873,
+    40.03115
+],
+  "geometry": {"coordinates":[46.96873,40.03115],"type":"Point"}
+}

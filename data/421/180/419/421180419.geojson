@@ -1,0 +1,106 @@
+{
+  "id": 421180419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.66028,40.29667,49.66028,40.29667",
+    "geom:latitude":40.29667,
+    "geom:longitude":49.66028,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Puta"
+    ],
+    "name:ceb_x_preferred":[
+        "Puta"
+    ],
+    "name:dut_x_preferred":[
+        "Puta"
+    ],
+    "name:eng_x_preferred":[
+        "Puta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Puta"
+    ],
+    "name:swe_x_preferred":[
+        "Puta"
+    ],
+    "name:unk_x_variant":[
+        "Staraya Puta"
+    ],
+    "qs:gn_country":"AZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":585236,
+    "qs:gn_pop":1018,
+    "qs:name":"Puta",
+    "qs:name_adm0":"Azerbaijan",
+    "qs:name_adm1":"Baki",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":430498,
+    "qs:woe_adm0":23424741,
+    "qs:woe_id":1951995,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585236,
+        "gp:id":1951995,
+        "qs:id":430498,
+        "wd:id":"Q4026827",
+        "wk:page":"Puta, Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:created":1459009258,
+    "wof:geomhash":"2fed7740a0ccdba2dbfa67c48959427f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":421180419,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":421180419,
+    "wof:lastmodified":1527716239,
+    "wof:name":"Puta",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:population":1018,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.66028,
+    40.29667,
+    49.66028,
+    40.29667
+],
+  "geometry": {"coordinates":[49.66028,40.29667],"type":"Point"}
+}

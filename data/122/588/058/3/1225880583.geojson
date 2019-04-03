@@ -1,0 +1,79 @@
+{
+  "id": 1225880583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.81246,40.3312,47.81246,40.3312",
+    "geom:latitude":40.3312,
+    "geom:longitude":47.81246,
+    "gn:admin1_code":"59",
+    "gn:asciiname":"Yuxari Silyan",
+    "gn:country_code":"AZ",
+    "gn:dem":-5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584624,
+    "gn:latitude":40.3312,
+    "gn:longitude":47.81246,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Yuxar\u0131 \u015eilyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yuxar\u0131 \u015eilyan"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0445\u0430\u0440\u044b_\u0448\u0438\u043b\u044c\u044f\u043d"
+    ],
+    "name:und_x_variant":[
+        "Yukh-Shil\u2019yan",
+        "Yukhary-Shil\u2019yan",
+        "Yuxar\u0131 \u015eilyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668475,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584624,
+        "wk:page":"Yuxar%C4%B1_%C5%9Eilyan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7ce16719c1b23eb0e25ad12b5c57eb73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225880583,
+            "macroregion_id":1108808627,
+            "region_id":85668475
+        }
+    ],
+    "wof:id":1225880583,
+    "wof:lastmodified":1537585310,
+    "wof:name":"Yuxari Silyan",
+    "wof:parent_id":85668475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.81246,
+    40.3312,
+    47.81246,
+    40.3312
+],
+  "geometry": {"coordinates":[47.81246,40.3312],"type":"Point"}
+}

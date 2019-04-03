@@ -1,0 +1,74 @@
+{
+  "id": 1225911435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.0635,40.24544,46.0635,40.24544",
+    "geom:latitude":40.24544,
+    "geom:longitude":46.0635,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Dzhamilli",
+    "gn:country_code":"AZ",
+    "gn:dem":1858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586674,
+    "gn:latitude":40.24544,
+    "gn:longitude":46.0635,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Dzhamilli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u0438\u043b\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "C\u0259milli",
+        "Damychldam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586674
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a73f5bb05fed500b43a69ccf501e4b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225911435,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1225911435,
+    "wof:lastmodified":1537585451,
+    "wof:name":"Dzhamilli",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.0635,
+    40.24544,
+    46.0635,
+    40.24544
+],
+  "geometry": {"coordinates":[46.0635,40.24544],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226173111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.3932,40.83487,49.3932,40.83487",
+    "geom:latitude":40.83487,
+    "geom:longitude":49.3932,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Masadi Hasan",
+    "gn:country_code":"AZ",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8609873,
+    "gn:latitude":40.83487,
+    "gn:longitude":49.3932,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"M\u0259\u015f\u0259di H\u0259s\u0259n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259\u015f\u0259di H\u0259s\u0259n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668485,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8609873,
+        "wk:page":"M%C9%99%C5%9F%C9%99di_H%C9%99s%C9%99n"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"91c06ecf22aa1c2c61bc6331ec9a9ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226173111,
+            "macroregion_id":1108808621,
+            "region_id":85668485
+        }
+    ],
+    "wof:id":1226173111,
+    "wof:lastmodified":1537585534,
+    "wof:name":"Masadi Hasan",
+    "wof:parent_id":85668485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.3932,
+    40.83487,
+    49.3932,
+    40.83487
+],
+  "geometry": {"coordinates":[49.3932,40.83487],"type":"Point"}
+}

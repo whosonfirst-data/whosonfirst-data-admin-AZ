@@ -1,0 +1,74 @@
+{
+  "id": 1225815743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.35951,39.17351,48.35951,39.17351",
+    "geom:latitude":39.17351,
+    "geom:longitude":48.35951,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Meshadiguseynli",
+    "gn:country_code":"AZ",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147523,
+    "gn:latitude":39.17351,
+    "gn:longitude":48.35951,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Meshadiguseynli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259\u015f\u0259dih\u00fccejnli"
+    ],
+    "name:und_x_variant":[
+        "Mashaduseynly",
+        "Meshadiguseynli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147523
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"86e98eb6c374b71e339778502e38180b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225815743,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1225815743,
+    "wof:lastmodified":1537585182,
+    "wof:name":"Meshadiguseynli",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.35951,
+    39.17351,
+    48.35951,
+    39.17351
+],
+  "geometry": {"coordinates":[48.35951,39.17351],"type":"Point"}
+}

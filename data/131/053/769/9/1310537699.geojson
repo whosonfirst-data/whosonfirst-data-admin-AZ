@@ -1,0 +1,74 @@
+{
+  "id": 1310537699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.53305,39.33455,46.53305,39.33455",
+    "geom:latitude":39.33455,
+    "geom:longitude":46.53305,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Tarovlu",
+    "gn:country_code":"AZ",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147081,
+    "gn:latitude":39.33455,
+    "gn:longitude":46.53305,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Tarovlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Tarovlu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u043e\u0432\u043b\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147081,
+        "wk:page":"Tarovlu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"60f6841afede074975f4265d5290a7b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310537699,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1310537699,
+    "wof:lastmodified":1537585142,
+    "wof:name":"Tarovlu",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.53305,
+    39.33455,
+    46.53305,
+    39.33455
+],
+  "geometry": {"coordinates":[46.53305,39.33455],"type":"Point"}
+}

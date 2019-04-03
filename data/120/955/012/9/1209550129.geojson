@@ -1,0 +1,79 @@
+{
+  "id": 1209550129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.9315,39.57005,46.9315,39.57005",
+    "geom:latitude":39.57005,
+    "geom:longitude":46.9315,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Susanliq",
+    "gn:country_code":"AZ",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388673,
+    "gn:latitude":39.57005,
+    "gn:longitude":46.9315,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Susanl\u0131q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Susanl\u0131q"
+    ],
+    "name:hye_x_preferred":[
+        "Mokhrenes"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0578\u056d\u0580\u0565\u0576\u0565\u057d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0441\u0430\u043d\u043b\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Mukhrenis",
+        "Suanlyk",
+        "Susanlyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388673,
+        "wk:page":"Susanl%C4%B1q"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5b52087a0d7e172a32b6fcc3acac8840",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209550129
+        }
+    ],
+    "wof:id":1209550129,
+    "wof:lastmodified":1537585290,
+    "wof:name":"Susanliq",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.9315,
+    39.57005,
+    46.9315,
+    39.57005
+],
+  "geometry": {"coordinates":[46.9315,39.57005],"type":"Point"}
+}

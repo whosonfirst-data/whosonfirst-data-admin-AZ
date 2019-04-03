@@ -1,0 +1,79 @@
+{
+  "id": 1276374091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.86427,40.57897,48.86427,40.57897",
+    "geom:latitude":40.57897,
+    "geom:longitude":48.86427,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Dzheirli",
+    "gn:country_code":"AZ",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586656,
+    "gn:latitude":40.57897,
+    "gn:longitude":48.86427,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Dzheirli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "C\u01ddyirli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u0438\u0440\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dzhagyrli",
+        "Dzheirli",
+        "Dzhagirli",
+        "C\u0259yirli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668419,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586656
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"74c61a5b63bebef8c5959c9273085b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276374091,
+            "macroregion_id":1108808611,
+            "region_id":85668419
+        }
+    ],
+    "wof:id":1276374091,
+    "wof:lastmodified":1537585449,
+    "wof:name":"Dzheirli",
+    "wof:parent_id":85668419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.86427,
+    40.57897,
+    48.86427,
+    40.57897
+],
+  "geometry": {"coordinates":[48.86427,40.57897],"type":"Point"}
+}

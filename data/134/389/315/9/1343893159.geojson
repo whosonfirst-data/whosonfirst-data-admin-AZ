@@ -1,0 +1,75 @@
+{
+  "id": 1343893159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.94639,39.69444,46.94639,39.69444",
+    "geom:latitude":39.69444,
+    "geom:longitude":46.94639,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Bilbilyak",
+    "gn:cc2":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148338,
+    "gn:latitude":39.69444,
+    "gn:longitude":46.94639,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bilbilyak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bilbilyak"
+    ],
+    "name:und_x_variant":[
+        "Bilbilak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148338,
+        "wk:page":"Bilbilyak"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f4505130c7b8ddd286c19cbca236fbee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343893159,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1343893159,
+    "wof:lastmodified":1537585263,
+    "wof:name":"Bilbilyak",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.94639,
+    39.69444,
+    46.94639,
+    39.69444
+],
+  "geometry": {"coordinates":[46.94639,39.69444],"type":"Point"}
+}

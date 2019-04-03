@@ -1,0 +1,72 @@
+{
+  "id": 1276622643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.03302,39.83608,48.03302,39.83608",
+    "geom:latitude":39.83608,
+    "geom:longitude":48.03302,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Rassuly",
+    "gn:country_code":"AZ",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147299,
+    "gn:latitude":39.83608,
+    "gn:longitude":48.03302,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Rassuly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rassuli",
+        "Rassuly",
+        "R\u0259sullu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668365,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147299
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e12ec7c5bd2ea45e04f64b33611d5c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276622643,
+            "macroregion_id":1108808627,
+            "region_id":85668365
+        }
+    ],
+    "wof:id":1276622643,
+    "wof:lastmodified":1537585162,
+    "wof:name":"Rassuly",
+    "wof:parent_id":85668365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.03302,
+    39.83608,
+    48.03302,
+    39.83608
+],
+  "geometry": {"coordinates":[48.03302,39.83608],"type":"Point"}
+}

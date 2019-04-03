@@ -1,0 +1,75 @@
+{
+  "id": 1242825089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.75653,38.85153,48.75653,38.85153",
+    "geom:latitude":38.85153,
+    "geom:longitude":48.75653,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Kazimli Cil",
+    "gn:country_code":"AZ",
+    "gn:dem":-22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148136,
+    "gn:latitude":38.85153,
+    "gn:longitude":48.75653,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Kaz\u0131ml\u0131 Cil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Cil"
+    ],
+    "name:und_x_variant":[
+        "Dzhil\u2019",
+        "Kaz\u0131ml\u0131 Cil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148136,
+        "wk:page":"Cil%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4d38c433fa462dd6fbd06c84993ffa7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242825089,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1242825089,
+    "wof:lastmodified":1537585243,
+    "wof:name":"Kazimli Cil",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.75653,
+    38.85153,
+    48.75653,
+    38.85153
+],
+  "geometry": {"coordinates":[48.75653,38.85153],"type":"Point"}
+}

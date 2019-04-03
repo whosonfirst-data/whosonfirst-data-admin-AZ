@@ -1,0 +1,75 @@
+{
+  "id": 1327189533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.32509,40.77662,48.32509,40.77662",
+    "geom:latitude":40.77662,
+    "geom:longitude":48.32509,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Sardakhar",
+    "gn:country_code":"AZ",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585144,
+    "gn:latitude":40.77662,
+    "gn:longitude":48.32509,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Sardakhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u0259rdahar"
+    ],
+    "name:aze_x_variant":[
+        "S\u0259rdakhar",
+        "S\u0259rdaxar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585144,
+        "wk:page":"S%C9%99rdahar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2fb0ba692ed1969c37a321147260237f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327189533,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1327189533,
+    "wof:lastmodified":1537585346,
+    "wof:name":"Sardakhar",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.32509,
+    40.77662,
+    48.32509,
+    40.77662
+],
+  "geometry": {"coordinates":[48.32509,40.77662],"type":"Point"}
+}

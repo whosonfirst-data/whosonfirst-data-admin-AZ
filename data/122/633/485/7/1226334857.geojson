@@ -1,0 +1,72 @@
+{
+  "id": 1226334857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.39598,40.52112,48.39598,40.52112",
+    "geom:latitude":40.52112,
+    "geom:longitude":48.39598,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Aratkend Pervyy",
+    "gn:country_code":"AZ",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587218,
+    "gn:latitude":40.52112,
+    "gn:longitude":48.39598,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Aratkend Pervyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aratkend",
+        "Birinci Aratk\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587218,
+        "wk:page":"Ma%C5%9Fadqanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7de6dbabb55c7456ceb7b7610e7ff56d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226334857,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1226334857,
+    "wof:lastmodified":1537585491,
+    "wof:name":"Aratkend Pervyy",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.39598,
+    40.52112,
+    48.39598,
+    40.52112
+],
+  "geometry": {"coordinates":[48.39598,40.52112],"type":"Point"}
+}

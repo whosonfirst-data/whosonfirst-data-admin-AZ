@@ -1,0 +1,82 @@
+{
+  "id": 1360044965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.75611,39.12222,48.75611,39.12222",
+    "geom:latitude":39.12222,
+    "geom:longitude":48.75611,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Kechakli",
+    "gn:country_code":"AZ",
+    "gn:dem":-23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148039,
+    "gn:latitude":39.12222,
+    "gn:longitude":48.75611,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Kechakli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00f6\u00e7\u0259kli"
+    ],
+    "name:aze_x_variant":[
+        "K\u00f6c\u0259kli"
+    ],
+    "name:und_x_variant":[
+        "Kechagly",
+        "Kechakli",
+        "Gochakli",
+        "G\u00f6c\u0259kli",
+        "Kochakhly",
+        "Kochakli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148039,
+        "wk:page":"K%C3%B6c%C9%99kli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e85fc1cbac38d83ff816e3a04c350f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360044965,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1360044965,
+    "wof:lastmodified":1537585233,
+    "wof:name":"Kechakli",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.75611,
+    39.12222,
+    48.75611,
+    39.12222
+],
+  "geometry": {"coordinates":[48.75611,39.12222],"type":"Point"}
+}

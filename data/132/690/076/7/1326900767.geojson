@@ -1,0 +1,70 @@
+{
+  "id": 1326900767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.42345,39.23542,48.42345,39.23542",
+    "geom:latitude":39.23542,
+    "geom:longitude":48.42345,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Aliabad",
+    "gn:country_code":"AZ",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148569,
+    "gn:latitude":39.23542,
+    "gn:longitude":48.42345,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Aliabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fliabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148569
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b1a388a5355fb7b85c4e9bcec53585de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326900767,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1326900767,
+    "wof:lastmodified":1537585282,
+    "wof:name":"Aliabad",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.42345,
+    39.23542,
+    48.42345,
+    39.23542
+],
+  "geometry": {"coordinates":[48.42345,39.23542],"type":"Point"}
+}

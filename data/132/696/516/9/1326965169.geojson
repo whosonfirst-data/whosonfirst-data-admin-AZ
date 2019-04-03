@@ -1,0 +1,79 @@
+{
+  "id": 1326965169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.68773,39.07322,46.68773,39.07322",
+    "geom:latitude":39.07322,
+    "geom:longitude":46.68773,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Melikli",
+    "gn:country_code":"AZ",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147526,
+    "gn:latitude":39.07322,
+    "gn:longitude":46.68773,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Melikli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259likli"
+    ],
+    "name:hye_x_preferred":[
+        "Mush"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0578\u0582\u0577"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u0438\u043a\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147526
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"daa620bff833ed7097a254b1e977b703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326965169,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1326965169,
+    "wof:lastmodified":1537585182,
+    "wof:name":"Melikli",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.68773,
+    39.07322,
+    46.68773,
+    39.07322
+],
+  "geometry": {"coordinates":[46.68773,39.07322],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1276372057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.88399,39.902,46.88399,39.902",
+    "geom:latitude":39.902,
+    "geom:longitude":46.88399,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Pircamal",
+    "gn:country_code":"AZ",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147329,
+    "gn:latitude":39.902,
+    "gn:longitude":46.88399,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pircamal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Pircamal"
+    ],
+    "name:hye_x_preferred":[
+        "Vardadzor"
+    ],
+    "name:hye_x_variant":[
+        "\u054e\u0561\u0580\u0564\u0561\u0571\u0578\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0440\u0434\u0436\u0430\u043c\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "Pirdzhamal",
+        "Pirjamal",
+        "Pirdgamal",
+        "\u041f\u0438\u0440\u0434\u0436\u0430\u043c\u0430\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147329,
+        "wk:page":"Pircamal"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cbfb807b9e866732aa015774b1f913e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276372057,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1276372057,
+    "wof:lastmodified":1537585164,
+    "wof:name":"Pircamal",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.88399,
+    39.902,
+    46.88399,
+    39.902
+],
+  "geometry": {"coordinates":[46.88399,39.902],"type":"Point"}
+}

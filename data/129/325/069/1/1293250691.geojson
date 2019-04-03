@@ -1,0 +1,78 @@
+{
+  "id": 1293250691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.86878,40.2625,48.86878,40.2625",
+    "geom:latitude":40.2625,
+    "geom:longitude":48.86878,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Birinci Udullu",
+    "gn:country_code":"AZ",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584786,
+    "gn:latitude":40.2625,
+    "gn:longitude":48.86878,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Birinci Udullu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uduly",
+        "Udulu",
+        "Udullu Pervoye",
+        "Uduli Pervyye",
+        "Udula",
+        "Tava",
+        "Uduli",
+        "Birinci Udullu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668293,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584786,
+        "wk:page":"Birinci_Udullu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fd692db9b36acd335392b0d5a0ea09f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293250691,
+            "macroregion_id":1108808627,
+            "region_id":85668293
+        }
+    ],
+    "wof:id":1293250691,
+    "wof:lastmodified":1537585322,
+    "wof:name":"Birinci Udullu",
+    "wof:parent_id":85668293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.86878,
+    40.2625,
+    48.86878,
+    40.2625
+],
+  "geometry": {"coordinates":[48.86878,40.2625],"type":"Point"}
+}

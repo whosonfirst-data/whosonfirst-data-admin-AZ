@@ -1,0 +1,84 @@
+{
+  "id": 1360320239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.6759,39.8125,46.6759,39.8125",
+    "geom:latitude":39.8125,
+    "geom:longitude":46.6759,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Kosalar",
+    "gn:country_code":"AZ",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147704,
+    "gn:latitude":39.8125,
+    "gn:longitude":46.6759,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Kosalar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kosalar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0554\u0578\u057d\u0561\u056c\u0561\u0580"
+    ],
+    "name:hye_x_variant":[
+        "K\u2019osalar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0430\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Kyosalar",
+        "Kesalar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147704,
+        "wk:page":"Kosalar%2C_Khojaly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"15bce178190b50be9827ffdfdabe5565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360320239,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1360320239,
+    "wof:lastmodified":1537585199,
+    "wof:name":"Kosalar",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.6759,
+    39.8125,
+    46.6759,
+    39.8125
+],
+  "geometry": {"coordinates":[46.6759,39.8125],"type":"Point"}
+}

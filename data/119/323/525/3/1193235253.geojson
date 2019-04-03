@@ -1,0 +1,84 @@
+{
+  "id": 1193235253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.11344,40.18162,46.11344,40.18162",
+    "geom:latitude":40.18162,
+    "geom:longitude":46.11344,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Alcali",
+    "gn:country_code":"AZ",
+    "gn:dem":1837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587325,
+    "gn:latitude":40.18162,
+    "gn:longitude":46.11344,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Al\u00e7al\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Al\u00e7al\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Shlorut"
+    ],
+    "name:hye_x_variant":[
+        "\u0547\u056c\u0578\u0580\u0578\u0582\u057f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0447\u0430\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Alchaby",
+        "Alchaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587325,
+        "wk:page":"Alchaly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"707c033fcf701bd31d76aabb8bf2fea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193235253,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1193235253,
+    "wof:lastmodified":1537585498,
+    "wof:name":"Alcali",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.11344,
+    40.18162,
+    46.11344,
+    40.18162
+],
+  "geometry": {"coordinates":[46.11344,40.18162],"type":"Point"}
+}

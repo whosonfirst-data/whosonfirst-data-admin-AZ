@@ -1,0 +1,73 @@
+{
+  "id": 1344115105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.68774,40.06547,48.68774,40.06547",
+    "geom:latitude":40.06547,
+    "geom:longitude":48.68774,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Talis",
+    "gn:country_code":"AZ",
+    "gn:dem":-16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584886,
+    "gn:latitude":40.06547,
+    "gn:longitude":48.68774,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Tal\u0131\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bol\u2019shoy Talysh",
+        "Talysh",
+        "Beyuk-Talysh",
+        "Tal\u0131\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668293,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584886
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"575540cdff6461960b63c735269bdd05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344115105,
+            "macroregion_id":1108808627,
+            "region_id":85668293
+        }
+    ],
+    "wof:id":1344115105,
+    "wof:lastmodified":1537585329,
+    "wof:name":"Talis",
+    "wof:parent_id":85668293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.68774000000001,
+    40.06547,
+    48.68774000000001,
+    40.06547
+],
+  "geometry": {"coordinates":[48.68774000000001,40.06547],"type":"Point"}
+}

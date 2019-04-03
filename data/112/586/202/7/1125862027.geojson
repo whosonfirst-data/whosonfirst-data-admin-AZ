@@ -1,0 +1,115 @@
+{
+  "id": 1125862027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.87478,40.49257,49.87478,40.49257",
+    "geom:latitude":40.49257,
+    "geom:longitude":49.87478,
+    "gn:gn_country":"AZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3211,
+    "gn:population":3211,
+    "iso:country":"AZ",
+    "lbl:latitude":40.49257,
+    "lbl:longitude":49.87478,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "Digah"
+    ],
+    "name:dut_x_preferred":[
+        "Digah"
+    ],
+    "name:eng_x_preferred":[
+        "Digah"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d3\u10d8\u10d2\u10d0\u10f0\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Digah"
+    ],
+    "name:may_x_preferred":[
+        "Digah"
+    ],
+    "name:pol_x_preferred":[
+        "Digah"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0433\u044f\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "Digah"
+    ],
+    "name:swe_x_preferred":[
+        "Digah"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0456\u0433\u0430\u0445"
+    ],
+    "name:unk_x_variant":[
+        "Dygya"
+    ],
+    "qs_pg:aaroncc":"AZ",
+    "qs_pg:gn_country":"AZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":586736,
+    "qs_pg:gn_pop":3211,
+    "qs_pg:name":"Digah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":125854,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668251,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586736,
+        "qs_pg:id":125854,
+        "wd:id":"Q4120921"
+    },
+    "wof:country":"AZ",
+    "wof:created":1497293867,
+    "wof:geomhash":"75e1a76064f26af961c12195dddf6aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1125862027,
+            "macroregion_id":1108808621,
+            "region_id":85668251
+        }
+    ],
+    "wof:id":1125862027,
+    "wof:lastmodified":1553816580,
+    "wof:name":"Digah",
+    "wof:parent_id":85668251,
+    "wof:placetype":"locality",
+    "wof:population":3211,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.87478,
+    40.49257,
+    49.87478,
+    40.49257
+],
+  "geometry": {"coordinates":[49.87478,40.49257],"type":"Point"}
+}

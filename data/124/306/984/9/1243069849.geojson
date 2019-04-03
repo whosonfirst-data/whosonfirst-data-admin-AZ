@@ -1,0 +1,76 @@
+{
+  "id": 1243069849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91646,40.09952,46.91646,40.09952",
+    "geom:latitude":40.09952,
+    "geom:longitude":46.91646,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tukyanzbanly",
+    "gn:country_code":"AZ",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8527979,
+    "gn:latitude":40.09952,
+    "gn:longitude":46.91646,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Tukyanzbanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "T\u00fckazbanl\u0131"
+    ],
+    "name:aze_x_variant":[
+        "T\u00fck\u0259zbanl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043a\u044f\u0437\u0431\u0430\u043d\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8527979
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3722be2222698f88982324b5ff34c506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243069849,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1243069849,
+    "wof:lastmodified":1537585529,
+    "wof:name":"Tukyanzbanly",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91646,
+    40.09952,
+    46.91646,
+    40.09952
+],
+  "geometry": {"coordinates":[46.91646,40.09952],"type":"Point"}
+}

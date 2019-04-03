@@ -1,0 +1,67 @@
+{
+  "id": 1209449469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.55393,40.68856,45.55393,40.68856",
+    "geom:latitude":40.68856,
+    "geom:longitude":45.55393,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Meshedi-Veliler",
+    "gn:country_code":"AZ",
+    "gn:dem":1567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585527,
+    "gn:latitude":40.68856,
+    "gn:longitude":45.55393,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Meshedi-Veliler",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meshadivelilar",
+        "Meshedi-Veliler",
+        "M\u0259\u015f\u0259div\u0259lil\u0259r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585527,
+        "wk:page":"M%C9%99%C5%9F%C9%99div%C9%99lil%C9%99r"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"03cfe906a082672c4b14f63effe2df04",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209449469
+        }
+    ],
+    "wof:id":1209449469,
+    "wof:lastmodified":1537585371,
+    "wof:name":"Meshedi-Veliler",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.55393,
+    40.68856,
+    45.55393,
+    40.68856
+],
+  "geometry": {"coordinates":[45.55393,40.68856],"type":"Point"}
+}

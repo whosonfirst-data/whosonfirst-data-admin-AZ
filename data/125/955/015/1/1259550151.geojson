@@ -1,0 +1,78 @@
+{
+  "id": 1259550151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.28692,40.38152,48.28692,40.38152",
+    "geom:latitude":40.38152,
+    "geom:longitude":48.28692,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Qarasaqqal",
+    "gn:country_code":"AZ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586152,
+    "gn:latitude":40.38152,
+    "gn:longitude":48.28692,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Qarasaqqal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qarasaqqal"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0441\u0430\u043a\u043a\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "Karasakkal",
+        "Qarasaqqal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668383,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586152,
+        "wk:page":"Qarasaqqal"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a6ebf880a09114256ffb629443ca7db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259550151,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":1259550151,
+    "wof:lastmodified":1537585413,
+    "wof:name":"Qarasaqqal",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.28692,
+    40.38152,
+    48.28692,
+    40.38152
+],
+  "geometry": {"coordinates":[48.28692,40.38152],"type":"Point"}
+}

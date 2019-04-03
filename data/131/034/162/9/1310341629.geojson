@@ -1,0 +1,82 @@
+{
+  "id": 1310341629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.64689,40.55228,48.64689,40.55228",
+    "geom:latitude":40.55228,
+    "geom:longitude":48.64689,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Carhan",
+    "gn:country_code":"AZ",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586890,
+    "gn:latitude":40.55228,
+    "gn:longitude":48.64689,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"\u00c7arhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7arhan"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c7arxan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0440\u0433\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Charkhan",
+        "Chargan",
+        "\u00c7arxan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586890,
+        "wk:page":"%C3%87arxan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"353d04ad5e28ba808fa55643642f2722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310341629,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1310341629,
+    "wof:lastmodified":1537585466,
+    "wof:name":"Carhan",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.64689,
+    40.55228,
+    48.64689,
+    40.55228
+],
+  "geometry": {"coordinates":[48.64689,40.55228],"type":"Point"}
+}

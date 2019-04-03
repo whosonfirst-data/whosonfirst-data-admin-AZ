@@ -1,0 +1,68 @@
+{
+  "id": 1242663203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.60636,38.42652,48.60636,38.42652",
+    "geom:latitude":38.42652,
+    "geom:longitude":48.60636,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bagchilyar",
+    "gn:country_code":"AZ",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":148403,
+    "gn:latitude":38.42652,
+    "gn:longitude":48.60636,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Bagchilyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148403,
+        "wk:page":"Bagchilyar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"851d8759f6b015ed2e28eb6cb7328a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242663203,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1242663203,
+    "wof:lastmodified":1537486560,
+    "wof:name":"Bagchilyar",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.60636,
+    38.42652,
+    48.60636,
+    38.42652
+],
+  "geometry": {"coordinates":[48.60636,38.42652],"type":"Point"}
+}

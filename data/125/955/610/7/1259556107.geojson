@@ -1,0 +1,77 @@
+{
+  "id": 1259556107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.01224,40.4672,46.01224,40.4672",
+    "geom:latitude":40.4672,
+    "geom:longitude":46.01224,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Xosbulaq",
+    "gn:country_code":"AZ",
+    "gn:dem":1744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586006,
+    "gn:latitude":40.4672,
+    "gn:longitude":46.01224,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Xo\u015fbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xa\u00e7bulaq"
+    ],
+    "name:und_x_variant":[
+        "Khachbulak",
+        "Khachbulag",
+        "Khashbulag",
+        "Xo\u015fbulaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586006,
+        "wk:page":"Xo%C5%9Fbulaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2c0d6ea643d2ac33739c85f4abd0c1e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259556107,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1259556107,
+    "wof:lastmodified":1537585402,
+    "wof:name":"Xosbulaq",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.01224000000001,
+    40.4672,
+    46.01224000000001,
+    40.4672
+],
+  "geometry": {"coordinates":[46.01224000000001,40.4672],"type":"Point"}
+}

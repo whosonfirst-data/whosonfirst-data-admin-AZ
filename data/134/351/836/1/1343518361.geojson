@@ -1,0 +1,73 @@
+{
+  "id": 1343518361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.11952,40.12994,46.11952,40.12994",
+    "geom:latitude":40.12994,
+    "geom:longitude":46.11952,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Bashkend",
+    "gn:country_code":"AZ",
+    "gn:dem":1834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587042,
+    "gn:latitude":40.12994,
+    "gn:longitude":46.11952,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bashkend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0448\u043a\u0435\u043d\u0434"
+    ],
+    "name:und_x_variant":[
+        "Ba\u015fk\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587042
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"988fc8e75f428bde656c6523fefd871e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343518361,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1343518361,
+    "wof:lastmodified":1537585477,
+    "wof:name":"Bashkend",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.11952,
+    40.12994000000001,
+    46.11952,
+    40.12994000000001
+],
+  "geometry": {"coordinates":[46.11952,40.12994000000001],"type":"Point"}
+}

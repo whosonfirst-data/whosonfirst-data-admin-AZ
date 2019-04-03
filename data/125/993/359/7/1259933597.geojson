@@ -1,0 +1,71 @@
+{
+  "id": 1259933597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.46168,39.11597,45.46168,39.11597",
+    "geom:latitude":39.11597,
+    "geom:longitude":45.46168,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"7669114.0",
+    "gn:asciiname":"Negram",
+    "gn:country_code":"AZ",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147420,
+    "gn:latitude":39.11597,
+    "gn:longitude":45.46168,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Negram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Nehr\u0259m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668673,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147420
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"65b29ef07dcae64049b2c2fe13a05ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259933597,
+            "macroregion_id":1108808617,
+            "region_id":85668673
+        }
+    ],
+    "wof:id":1259933597,
+    "wof:lastmodified":1537585172,
+    "wof:name":"Negram",
+    "wof:parent_id":85668673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.46168,
+    39.11597,
+    45.46168,
+    39.11597
+],
+  "geometry": {"coordinates":[45.46168,39.11597],"type":"Point"}
+}

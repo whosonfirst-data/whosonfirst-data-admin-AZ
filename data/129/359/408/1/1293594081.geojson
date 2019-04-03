@@ -1,0 +1,73 @@
+{
+  "id": 1293594081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.46667,41.05,45.46667,41.05",
+    "geom:latitude":41.05,
+    "geom:longitude":45.46667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Beyazatly",
+    "gn:country_code":"AZ",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587003,
+    "gn:latitude":41.05,
+    "gn:longitude":45.46667,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Beyazatly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayazatly",
+        "Beyazatly",
+        "B\u0259yazatl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668195,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587003,
+        "wk:page":"B%C9%99yazatl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"82cdf4d269853b98c89a1daabebfe32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293594081,
+            "macroregion_id":1108808609,
+            "region_id":85668195
+        }
+    ],
+    "wof:id":1293594081,
+    "wof:lastmodified":1537585475,
+    "wof:name":"Beyazatly",
+    "wof:parent_id":85668195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.46667,
+    41.05,
+    45.46667,
+    41.05
+],
+  "geometry": {"coordinates":[45.46667,41.05],"type":"Point"}
+}

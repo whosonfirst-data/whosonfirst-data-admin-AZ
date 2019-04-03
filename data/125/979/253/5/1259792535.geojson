@@ -1,0 +1,77 @@
+{
+  "id": 1259792535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.43238,40.13221,47.43238,40.13221",
+    "geom:latitude":40.13221,
+    "geom:longitude":47.43238,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Shenlik",
+    "gn:country_code":"AZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824075,
+    "gn:latitude":40.13221,
+    "gn:longitude":47.43238,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Shenlik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u015e\u01ddnlik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u043d\u043b\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "\u015e\u0259nlik",
+        "Shenlik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668519,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824075
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b357b0d97e5cec13b936e630791a1e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259792535,
+            "macroregion_id":1108808627,
+            "region_id":85668519
+        }
+    ],
+    "wof:id":1259792535,
+    "wof:lastmodified":1537585510,
+    "wof:name":"Shenlik",
+    "wof:parent_id":85668519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.43238,
+    40.13221,
+    47.43238,
+    40.13221
+],
+  "geometry": {"coordinates":[47.43238,40.13221],"type":"Point"}
+}

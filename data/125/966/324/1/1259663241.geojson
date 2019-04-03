@@ -1,0 +1,67 @@
+{
+  "id": 1259663241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.6025,39.50028,48.6025,39.50028",
+    "geom:latitude":39.50028,
+    "geom:longitude":48.6025,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Cinarli",
+    "gn:country_code":"AZ",
+    "gn:dem":-18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":393394,
+    "gn:latitude":39.50028,
+    "gn:longitude":48.6025,
+    "gn:modification_date":"1998-04-03",
+    "gn:name":"Cinarl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668317,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":393394
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fde284b8a7bcf89f9400ae9c3aece993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259663241,
+            "macroregion_id":1108808627,
+            "region_id":85668317
+        }
+    ],
+    "wof:id":1259663241,
+    "wof:lastmodified":1537092945,
+    "wof:name":"Cinarli",
+    "wof:parent_id":85668317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.6025,
+    39.50028,
+    48.6025,
+    39.50028
+],
+  "geometry": {"coordinates":[48.6025,39.50028],"type":"Point"}
+}

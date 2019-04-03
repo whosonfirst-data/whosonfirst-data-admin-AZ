@@ -1,0 +1,73 @@
+{
+  "id": 1344136925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.65764,39.7327,47.65764,39.7327",
+    "geom:latitude":39.7327,
+    "geom:longitude":47.65764,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Yuxari Aran",
+    "gn:country_code":"AZ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388658,
+    "gn:latitude":39.7327,
+    "gn:longitude":47.65764,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Yuxar\u0131 Aran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 Aran"
+    ],
+    "name:aze_x_variant":[
+        "Komsomol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668313,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388658
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e1d7a26ca89a889a84d715412eb80f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344136925,
+            "macroregion_id":1108808627,
+            "region_id":85668313
+        }
+    ],
+    "wof:id":1344136925,
+    "wof:lastmodified":1537585289,
+    "wof:name":"Yuxari Aran",
+    "wof:parent_id":85668313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.65764,
+    39.7327,
+    47.65764,
+    39.7327
+],
+  "geometry": {"coordinates":[47.65764,39.7327],"type":"Point"}
+}

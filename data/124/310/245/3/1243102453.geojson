@@ -1,0 +1,68 @@
+{
+  "id": 1243102453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.76765,41.43896,48.76765,41.43896",
+    "geom:latitude":41.43896,
+    "geom:longitude":48.76765,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Armudpadar",
+    "gn:country_code":"AZ",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587211,
+    "gn:latitude":41.43896,
+    "gn:longitude":48.76765,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Armudpadar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587211,
+        "wk:page":"Armudpadar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"52854fca727152e600077b0a372c312f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243102453,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1243102453,
+    "wof:lastmodified":1537486669,
+    "wof:name":"Armudpadar",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.76765,
+    41.43896,
+    48.76765,
+    41.43896
+],
+  "geometry": {"coordinates":[48.76765,41.43896],"type":"Point"}
+}

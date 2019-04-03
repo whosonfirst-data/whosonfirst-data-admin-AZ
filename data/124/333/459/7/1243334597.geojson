@@ -1,0 +1,89 @@
+{
+  "id": 1243334597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1075,39.42694,47.1075,39.42694",
+    "geom:latitude":39.42694,
+    "geom:longitude":47.1075,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Deshkesen",
+    "gn:country_code":"AZ",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148230,
+    "gn:latitude":39.42694,
+    "gn:longitude":47.1075,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Deshkesen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Da\u015fg\u0259s\u0259n"
+    ],
+    "name:aze_x_variant":[
+        "Da\u015fk\u0259s\u0259n"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u0577\u0584\u0565\u057d\u0561\u0576"
+    ],
+    "name:hye_x_variant":[
+        "Dashk\u2019esan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0448\u043a\u0435\u0441\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Doshkesen",
+        "Dashkesan",
+        "Deshkesen",
+        "\u0414\u0430\u0448\u043a\u0435\u0441\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148230,
+        "wk:page":"Da%C5%9Fg%C9%99s%C9%99n"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"573949f91d22edea5900dca6b8d5aec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243334597,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1243334597,
+    "wof:lastmodified":1537585252,
+    "wof:name":"Deshkesen",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1075,
+    39.42694,
+    47.1075,
+    39.42694
+],
+  "geometry": {"coordinates":[47.1075,39.42694],"type":"Point"}
+}

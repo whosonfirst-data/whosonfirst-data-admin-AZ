@@ -1,0 +1,70 @@
+{
+  "id": 1327302227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.02976,39.77279,48.02976,39.77279",
+    "geom:latitude":39.77279,
+    "geom:longitude":48.02976,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Mazarli",
+    "gn:country_code":"AZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147537,
+    "gn:latitude":39.77279,
+    "gn:longitude":48.02976,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Mazarli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259zr\u0259li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668365,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147537
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c891ddb42ca4f2cdd66086248223df68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327302227,
+            "macroregion_id":1108808627,
+            "region_id":85668365
+        }
+    ],
+    "wof:id":1327302227,
+    "wof:lastmodified":1537585184,
+    "wof:name":"Mazarli",
+    "wof:parent_id":85668365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.02976,
+    39.77279,
+    48.02976,
+    39.77279
+],
+  "geometry": {"coordinates":[48.02976,39.77279],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276925529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.74877,38.96513,48.74877,38.96513",
+    "geom:latitude":38.96513,
+    "geom:longitude":48.74877,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Sarchuvar",
+    "gn:country_code":"AZ",
+    "gn:dem":-21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147260,
+    "gn:latitude":38.96513,
+    "gn:longitude":48.74877,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Sarchuvar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "C\u0259r\u00e7uvar"
+    ],
+    "name:und_x_variant":[
+        "S\u0259r\u00e7uvar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147260,
+        "wk:page":"S%C9%99r%C3%A7uvar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0edf6c5bfff42576661f31c4b4ec1df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276925529,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1276925529,
+    "wof:lastmodified":1537585159,
+    "wof:name":"Sarchuvar",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.74877,
+    38.96513,
+    48.74877,
+    38.96513
+],
+  "geometry": {"coordinates":[48.74877,38.96513],"type":"Point"}
+}

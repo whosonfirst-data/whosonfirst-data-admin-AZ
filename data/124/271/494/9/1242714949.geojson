@@ -1,0 +1,75 @@
+{
+  "id": 1242714949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.58592,38.69179,48.58592,38.69179",
+    "geom:latitude":38.69179,
+    "geom:longitude":48.58592,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Khalabin",
+    "gn:country_code":"AZ",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147955,
+    "gn:latitude":38.69179,
+    "gn:longitude":48.58592,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Khalabin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalyabin",
+        "Khalabin",
+        "Kalabin",
+        "Q\u0259l\u0259bin",
+        "Galyabyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668403,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147955,
+        "wk:page":"Q%C9%99l%C9%99bin"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0db3b4d99f1974de4c2b12188d3d9511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242714949,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":1242714949,
+    "wof:lastmodified":1537585226,
+    "wof:name":"Khalabin",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.58592,
+    38.69179000000001,
+    48.58592,
+    38.69179000000001
+],
+  "geometry": {"coordinates":[48.58592,38.69179000000001],"type":"Point"}
+}

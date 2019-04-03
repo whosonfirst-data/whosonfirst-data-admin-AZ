@@ -1,0 +1,87 @@
+{
+  "id": 1226079683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.71104,39.53954,46.71104,39.53954",
+    "geom:latitude":39.53954,
+    "geom:longitude":46.71104,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Spitaksen",
+    "gn:country_code":"AZ",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412748,
+    "gn:latitude":39.53954,
+    "gn:longitude":46.71104,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Spitak\u015fen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Spitak\u015fen"
+    ],
+    "name:aze_x_variant":[
+        "A\u011fk\u0259nd"
+    ],
+    "name:hye_x_preferred":[
+        "Spitakashen"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u057a\u056b\u057f\u0561\u056f\u0561\u0577\u0565\u0576",
+        "\u054d\u057a\u056b\u057f\u0561\u056f\u0577\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043f\u0438\u0442\u0430\u043a\u0448\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Spitakshen",
+        "\u0421\u043f\u0438\u0442\u0430\u043a\u0448\u0435\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412748
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a49219c43044f58c1dfd8a0169200a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226079683,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1226079683,
+    "wof:lastmodified":1537585303,
+    "wof:name":"Spitaksen",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.71104,
+    39.53954,
+    46.71104,
+    39.53954
+],
+  "geometry": {"coordinates":[46.71104,39.53954],"type":"Point"}
+}

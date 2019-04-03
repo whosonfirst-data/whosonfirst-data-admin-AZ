@@ -1,0 +1,68 @@
+{
+  "id": 1276473397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.4,41.26667,48.4,41.26667",
+    "geom:latitude":41.26667,
+    "geom:longitude":48.4,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Sukhtakala",
+    "gn:country_code":"AZ",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584934,
+    "gn:latitude":41.26667,
+    "gn:longitude":48.4,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Sukhtakala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584934,
+        "wk:page":"Sukhtakala"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"abaa013dca2b8f2c228315808d0bfac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276473397,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1276473397,
+    "wof:lastmodified":1537486593,
+    "wof:name":"Sukhtakala",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.4,
+    41.26667,
+    48.4,
+    41.26667
+],
+  "geometry": {"coordinates":[48.4,41.26667],"type":"Point"}
+}

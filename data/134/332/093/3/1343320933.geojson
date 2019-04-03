@@ -1,0 +1,92 @@
+{
+  "id": 1343320933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.55599,40.44669,46.55599,40.44669",
+    "geom:latitude":40.44669,
+    "geom:longitude":46.55599,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Borisy-Armyanskiye",
+    "gn:country_code":"AZ",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587210,
+    "gn:latitude":40.44669,
+    "gn:longitude":46.55599,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Borisy-Armyanskiye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "B\u00f6r\u00fc"
+    ],
+    "name:aze_x_variant":[
+        "Erm\u0259ni Borisi"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0575\u056f\u0561\u056f\u0561\u0576 \u0532\u0578\u0580\u056b\u057d\u0576\u0565\u0580"
+    ],
+    "name:hye_x_variant":[
+        "Haykakan Borisner",
+        "\u0540\u0561\u0575 \u054a\u0561\u0580\u056b\u057d",
+        "Hay Paris"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u043c\u044f\u043d\u0441\u043a\u0438\u0435 \u0411\u043e\u0440\u0438\u0441\u044b"
+    ],
+    "name:und_x_variant":[
+        "Haykakan Borisi",
+        "Borisy-Armyanskiye",
+        "Armyanskiye Borisy",
+        "Hayi Paris",
+        "Haykakan Borisner"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587210,
+        "wk:page":"B%C3%B6r%C3%BC"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b3f6e3ad030045664fbd8ba86710c71c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343320933,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1343320933,
+    "wof:lastmodified":1537585490,
+    "wof:name":"Borisy-Armyanskiye",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.55599,
+    40.44669,
+    46.55599,
+    40.44669
+],
+  "geometry": {"coordinates":[46.55599,40.44669],"type":"Point"}
+}

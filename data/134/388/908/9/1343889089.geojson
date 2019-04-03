@@ -1,0 +1,68 @@
+{
+  "id": 1343889089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.66837,38.6852,48.66837,38.6852",
+    "geom:latitude":38.6852,
+    "geom:longitude":48.66837,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Bobla",
+    "gn:country_code":"AZ",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148327,
+    "gn:latitude":38.6852,
+    "gn:longitude":48.66837,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Bobla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148327,
+        "wk:page":"Bobla"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3a206825595d6e41b7f0bf106bc5d36c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343889089,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1343889089,
+    "wof:lastmodified":1537486557,
+    "wof:name":"Bobla",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.66837,
+    38.6852,
+    48.66837,
+    38.6852
+],
+  "geometry": {"coordinates":[48.66837,38.6852],"type":"Point"}
+}

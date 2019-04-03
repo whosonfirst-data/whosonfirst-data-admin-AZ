@@ -1,0 +1,83 @@
+{
+  "id": 1242589449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.82602,40.06908,46.82602,40.06908",
+    "geom:latitude":40.06908,
+    "geom:longitude":46.82602,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mollalar",
+    "gn:country_code":"AZ",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585479,
+    "gn:latitude":40.06908,
+    "gn:longitude":46.82602,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Mollalar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mollalar"
+    ],
+    "name:eng_x_preferred":[
+        "Nor Aygestan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0580 \u0531\u0575\u0563\u0565\u057d\u057f\u0561\u0576"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0578\u056c\u056c\u0561\u056c\u0561\u0580",
+        "Nor Aygetsan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u043b\u0430\u043b\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585479
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c91b0f53fa32b29df5189a8a257b3f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242589449,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1242589449,
+    "wof:lastmodified":1537585368,
+    "wof:name":"Mollalar",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.82602,
+    40.06908,
+    46.82602,
+    40.06908
+],
+  "geometry": {"coordinates":[46.82602,40.06908],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326798317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.07412,40.69083,48.07412,40.69083",
+    "geom:latitude":40.69083,
+    "geom:longitude":48.07412,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Shyukyurchi",
+    "gn:country_code":"AZ",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584994,
+    "gn:latitude":40.69083,
+    "gn:longitude":48.07412,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Shyukyurchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shukyurchu",
+        "Shyukyurchi",
+        "\u015e\u00fck\u00fcr\u00e7\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584994,
+        "wk:page":"%C5%9E%C3%BCk%C3%BCr%C3%A7%C3%BC"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"51e52d727a1adfef09cdd2691f705de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326798317,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1326798317,
+    "wof:lastmodified":1537585335,
+    "wof:name":"Shyukyurchi",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.07412,
+    40.69083,
+    48.07412,
+    40.69083
+],
+  "geometry": {"coordinates":[48.07412,40.69083],"type":"Point"}
+}

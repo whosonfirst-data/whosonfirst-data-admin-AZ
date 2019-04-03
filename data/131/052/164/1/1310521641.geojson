@@ -1,0 +1,70 @@
+{
+  "id": 1310521641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.77599,38.48392,48.77599,38.48392",
+    "geom:latitude":38.48392,
+    "geom:longitude":48.77599,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Veznesh",
+    "gn:country_code":"AZ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472643,
+    "gn:latitude":38.48392,
+    "gn:longitude":48.77599,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Veznesh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "V\u0259zn\u0259\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472643
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e9ef2b78581a72101948913d7f9fdef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310521641,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1310521641,
+    "wof:lastmodified":1537585525,
+    "wof:name":"Veznesh",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.77599,
+    38.48392,
+    48.77599,
+    38.48392
+],
+  "geometry": {"coordinates":[48.77599,38.48392],"type":"Point"}
+}

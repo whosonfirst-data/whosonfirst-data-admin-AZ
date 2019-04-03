@@ -1,0 +1,77 @@
+{
+  "id": 1293814137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.39528,38.81791,48.39528,38.81791",
+    "geom:latitude":38.81791,
+    "geom:longitude":48.39528,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Livadirgya",
+    "gn:country_code":"AZ",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147606,
+    "gn:latitude":38.81791,
+    "gn:longitude":48.39528,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Livadirgya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Liv\u0259dirq\u0259"
+    ],
+    "name:und_x_variant":[
+        "Leva-Dyr\u2019gya",
+        "Livadirgya",
+        "Liv\u0259dirg\u0259",
+        "Livadirgyakh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668403,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147606,
+        "wk:page":"Liv%C9%99dirg%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"aca5804b25056529700c00f32c942a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293814137,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":1293814137,
+    "wof:lastmodified":1537585190,
+    "wof:name":"Livadirgya",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.39528,
+    38.81791,
+    48.39528,
+    38.81791
+],
+  "geometry": {"coordinates":[48.39528,38.81791],"type":"Point"}
+}

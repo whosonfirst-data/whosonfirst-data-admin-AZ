@@ -1,0 +1,80 @@
+{
+  "id": 1293329141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91964,40.40368,46.91964,40.40368",
+    "geom:latitude":40.40368,
+    "geom:longitude":46.91964,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Dzhamilli",
+    "gn:country_code":"AZ",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586673,
+    "gn:latitude":40.40368,
+    "gn:longitude":46.91964,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Dzhamilli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "C\u0259milli"
+    ],
+    "name:hye_x_preferred":[
+        "Jamilli"
+    ],
+    "name:hye_x_variant":[
+        "\u054b\u0561\u0574\u056b\u056c\u056c\u056b"
+    ],
+    "name:und_x_variant":[
+        "Dzhamily",
+        "Dzhamilli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586673
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1865affc08156e9c5dd6b2f89a4887aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293329141,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1293329141,
+    "wof:lastmodified":1537585451,
+    "wof:name":"Dzhamilli",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91964,
+    40.40368,
+    46.91964,
+    40.40368
+],
+  "geometry": {"coordinates":[46.91964,40.40368],"type":"Point"}
+}

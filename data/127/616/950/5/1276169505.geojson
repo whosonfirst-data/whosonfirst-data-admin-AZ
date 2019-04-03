@@ -1,0 +1,75 @@
+{
+  "id": 1276169505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.72223,39.06158,48.72223,39.06158",
+    "geom:latitude":39.06158,
+    "geom:longitude":48.72223,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Alisanli",
+    "gn:country_code":"AZ",
+    "gn:dem":-15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148539,
+    "gn:latitude":39.06158,
+    "gn:longitude":48.72223,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Al\u0131\u015fanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Al\u0131\u015fanl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Alishanly",
+        "Alyshanly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148539,
+        "wk:page":"Al%C4%B1%C5%9Fanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c1ed10d9400e51521f574041a8e5674b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276169505,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1276169505,
+    "wof:lastmodified":1537585279,
+    "wof:name":"Alisanli",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.72223,
+    39.06158,
+    48.72223,
+    39.06158
+],
+  "geometry": {"coordinates":[48.72223,39.06158],"type":"Point"}
+}

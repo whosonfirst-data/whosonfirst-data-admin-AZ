@@ -1,0 +1,81 @@
+{
+  "id": 1226355497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.19847,39.98346,47.19847,39.98346",
+    "geom:latitude":39.98346,
+    "geom:longitude":47.19847,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Minaxorlu",
+    "gn:country_code":"AZ",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147508,
+    "gn:latitude":39.98346,
+    "gn:longitude":47.19847,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Minaxorlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Minaxorlu"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u0576\u0561\u056d\u0578\u0580\u056c\u0578\u0582"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043d\u0430\u0445\u043e\u0440\u043b\u0443"
+    ],
+    "name:und_x_variant":[
+        "Minakhorlu",
+        "\u041c\u0438\u043d\u0430\u0445\u043e\u0440\u043b\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668519,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147508,
+        "wk:page":"Minaxorlu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a2a940c9e76e09d5322a51f95b79e359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226355497,
+            "macroregion_id":1108808627,
+            "region_id":85668519
+        }
+    ],
+    "wof:id":1226355497,
+    "wof:lastmodified":1537585180,
+    "wof:name":"Minaxorlu",
+    "wof:parent_id":85668519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.19847,
+    39.98346,
+    47.19847,
+    39.98346
+],
+  "geometry": {"coordinates":[47.19847,39.98346],"type":"Point"}
+}

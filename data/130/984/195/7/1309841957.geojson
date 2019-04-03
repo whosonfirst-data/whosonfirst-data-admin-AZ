@@ -1,0 +1,70 @@
+{
+  "id": 1309841957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.35014,38.99744,48.35014,38.99744",
+    "geom:latitude":38.99744,
+    "geom:longitude":48.35014,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Edzhara",
+    "gn:country_code":"AZ",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8442396,
+    "gn:latitude":38.99744,
+    "gn:longitude":48.35014,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Edzhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_preferred":[
+        "E\u00e7ara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668497,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442396
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"298dbf5438dd0c18e5b88019940fb862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309841957,
+            "macroregion_id":1108808625,
+            "region_id":85668497
+        }
+    ],
+    "wof:id":1309841957,
+    "wof:lastmodified":1537585521,
+    "wof:name":"Edzhara",
+    "wof:parent_id":85668497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.35014,
+    38.99744000000001,
+    48.35014,
+    38.99744000000001
+],
+  "geometry": {"coordinates":[48.35014,38.99744000000001],"type":"Point"}
+}

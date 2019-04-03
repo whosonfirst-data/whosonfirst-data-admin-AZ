@@ -1,0 +1,81 @@
+{
+  "id": 1293525605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.35418,40.49143,46.35418,40.49143",
+    "geom:latitude":40.49143,
+    "geom:longitude":46.35418,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Yeni Zod",
+    "gn:country_code":"AZ",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586264,
+    "gn:latitude":40.49143,
+    "gn:longitude":46.35418,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Yeni Zod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kalinino"
+    ],
+    "name:aze_x_variant":[
+        "Yeni Zod",
+        "Azad"
+    ],
+    "name:hye_x_preferred":[
+        "Azat"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0566\u0561\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586264,
+        "wk:page":"Yeni_Zod"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"479968010cb28b9498dc56a2d3834285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293525605,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1293525605,
+    "wof:lastmodified":1537585421,
+    "wof:name":"Yeni Zod",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.35418,
+    40.49143,
+    46.35418,
+    40.49143
+],
+  "geometry": {"coordinates":[46.35418,40.49143],"type":"Point"}
+}

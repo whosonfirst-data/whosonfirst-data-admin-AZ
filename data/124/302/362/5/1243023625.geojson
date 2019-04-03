@@ -1,0 +1,71 @@
+{
+  "id": 1243023625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.37906,40.77226,48.37906,40.77226",
+    "geom:latitude":40.77226,
+    "geom:longitude":48.37906,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Taglabiyan",
+    "gn:country_code":"AZ",
+    "gn:dem":1444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584896,
+    "gn:latitude":40.77226,
+    "gn:longitude":48.37906,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ta\u011flabiyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta\u011flabiyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584896,
+        "wk:page":"Ta%C4%9Flabiyan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"414687b03a2fa403d21b48da010315a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243023625,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1243023625,
+    "wof:lastmodified":1537585329,
+    "wof:name":"Taglabiyan",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.37906,
+    40.77226,
+    48.37906,
+    40.77226
+],
+  "geometry": {"coordinates":[48.37906,40.77226],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1225901161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.00063,40.00852,46.00063,40.00852",
+    "geom:latitude":40.00852,
+    "geom:longitude":46.00063,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Soyuqbulaq",
+    "gn:country_code":"AZ",
+    "gn:dem":1973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824317,
+    "gn:latitude":40.00852,
+    "gn:longitude":46.00063,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Soyuqbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Soyuqbulaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u044e\u043a\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Soyukbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824317
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1252433b17bbc47d8a63d4fa47548b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225901161,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1225901161,
+    "wof:lastmodified":1537585510,
+    "wof:name":"Soyuqbulaq",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.00063,
+    40.00852,
+    46.00063,
+    40.00852
+],
+  "geometry": {"coordinates":[46.00063,40.00852],"type":"Point"}
+}

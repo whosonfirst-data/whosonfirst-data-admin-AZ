@@ -1,0 +1,71 @@
+{
+  "id": 1310136779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.30156,39.893,48.30156,39.893",
+    "geom:latitude":39.893,
+    "geom:longitude":48.30156,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Potubeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":-8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147314,
+    "gn:latitude":39.893,
+    "gn:longitude":48.30156,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Potubeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Potub\u0259yli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668433,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147314,
+        "wk:page":"Potub%C9%99yli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d654df3f18b870a576fdafc87e5a15fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310136779,
+            "macroregion_id":1108808627,
+            "region_id":85668433
+        }
+    ],
+    "wof:id":1310136779,
+    "wof:lastmodified":1537585163,
+    "wof:name":"Potubeyli",
+    "wof:parent_id":85668433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.30156,
+    39.893,
+    48.30156,
+    39.893
+],
+  "geometry": {"coordinates":[48.30156,39.893],"type":"Point"}
+}

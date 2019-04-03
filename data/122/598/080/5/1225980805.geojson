@@ -1,0 +1,75 @@
+{
+  "id": 1225980805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.11032,41.25264,47.11032,41.25264",
+    "geom:latitude":41.25264,
+    "geom:longitude":47.11032,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Indzha",
+    "gn:country_code":"AZ",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586334,
+    "gn:latitude":41.25264,
+    "gn:longitude":47.11032,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Indzha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "In\u00e7\u0259"
+    ],
+    "name:und_x_variant":[
+        "Incha",
+        "Indzha",
+        "\u0130nc\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586334
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d408092d449e734a9c8128aec861b19e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225980805,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1225980805,
+    "wof:lastmodified":1537585426,
+    "wof:name":"Indzha",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.11032,
+    41.25264,
+    47.11032,
+    41.25264
+],
+  "geometry": {"coordinates":[47.11032,41.25264],"type":"Point"}
+}

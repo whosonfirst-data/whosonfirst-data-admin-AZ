@@ -1,0 +1,72 @@
+{
+  "id": 1327252525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.76667,40.43333,49.76667,40.43333",
+    "geom:latitude":40.43333,
+    "geom:longitude":49.76667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sulutapa",
+    "gn:cc2":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584929,
+    "gn:latitude":40.43333,
+    "gn:longitude":49.76667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Sulut\u01ddp\u01dd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sulutepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584929,
+        "wk:page":"Sulut%C9%99p%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5b940fc189a7c03b098cfd376b3eef80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327252525,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1327252525,
+    "wof:lastmodified":1537585331,
+    "wof:name":"Sulutapa",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.76667,
+    40.43333,
+    49.76667,
+    40.43333
+],
+  "geometry": {"coordinates":[49.76667,40.43333],"type":"Point"}
+}

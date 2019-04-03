@@ -1,0 +1,87 @@
+{
+  "id": 1326732329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.72716,40.09206,46.72716,40.09206",
+    "geom:latitude":40.09206,
+    "geom:longitude":46.72716,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Orta Giounepaia",
+    "gn:country_code":"AZ",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824372,
+    "gn:latitude":40.09206,
+    "gn:longitude":46.72716,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Orta Giounepaia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Orta G\u00fcn\u0259yp\u0259y\u0259"
+    ],
+    "name:aze_x_variant":[
+        "Orta G\u00fcneyt\u0259p\u0259"
+    ],
+    "name:hye_x_preferred":[
+        "Ort\u2019a"
+    ],
+    "name:hye_x_variant":[
+        "\u0548\u0580\u0569\u0561"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0442\u0430 \u0413\u044e\u043d\u0435\u0439\u043b\u0435\u044f"
+    ],
+    "name:und_x_variant":[
+        "Orta Gyunep\u2019aya",
+        "Orta Gyuneyleya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824372,
+        "wk:page":"Orta_G%C3%BCn%C9%99yp%C9%99y%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ae04722e28627345b7034297a3a272ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326732329,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1326732329,
+    "wof:lastmodified":1537585511,
+    "wof:name":"Orta Giounepaia",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.72716,
+    40.09206,
+    46.72716,
+    40.09206
+],
+  "geometry": {"coordinates":[46.72716,40.09206],"type":"Point"}
+}

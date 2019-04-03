@@ -1,0 +1,75 @@
+{
+  "id": 1209847021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.73425,40.58932,48.73425,40.58932",
+    "geom:latitude":40.58932,
+    "geom:longitude":48.73425,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Merzengeli",
+    "gn:country_code":"AZ",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585563,
+    "gn:latitude":40.58932,
+    "gn:longitude":48.73425,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Merzengeli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259rz\u0259ndiy\u0259"
+    ],
+    "name:und_x_variant":[
+        "Marzayandigyakh",
+        "Marazandigyakh",
+        "Mirz\u0259yandigah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585563
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0806e469ef8f334234c675203b7ede3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209847021,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1209847021,
+    "wof:lastmodified":1537585373,
+    "wof:name":"Merzengeli",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.73425,
+    40.58932,
+    48.73425,
+    40.58932
+],
+  "geometry": {"coordinates":[48.73425,40.58932],"type":"Point"}
+}

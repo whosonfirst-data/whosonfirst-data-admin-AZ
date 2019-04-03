@@ -1,0 +1,74 @@
+{
+  "id": 1259819907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.06685,39.69421,49.06685,39.69421",
+    "geom:latitude":39.69421,
+    "geom:longitude":49.06685,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Shekerli",
+    "gn:country_code":"AZ",
+    "gn:dem":-22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147190,
+    "gn:latitude":39.69421,
+    "gn:longitude":49.06685,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Shekerli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015e\u0259k\u0259rli"
+    ],
+    "name:und_x_variant":[
+        "Shakirly",
+        "Shekerli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668449,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147190
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8bdbd2856ed423fa9a39e36ece9d80c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259819907,
+            "macroregion_id":1108808627,
+            "region_id":85668449
+        }
+    ],
+    "wof:id":1259819907,
+    "wof:lastmodified":1537585153,
+    "wof:name":"Shekerli",
+    "wof:parent_id":85668449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.06685,
+    39.69421,
+    49.06685,
+    39.69421
+],
+  "geometry": {"coordinates":[49.06685,39.69421],"type":"Point"}
+}

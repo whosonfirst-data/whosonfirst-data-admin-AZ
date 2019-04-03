@@ -1,0 +1,72 @@
+{
+  "id": 1276503995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.31953,40.70725,48.31953,40.70725",
+    "geom:latitude":40.70725,
+    "geom:longitude":48.31953,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Minka",
+    "gn:country_code":"AZ",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":825014,
+    "gn:latitude":40.70725,
+    "gn:longitude":48.31953,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Minka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ming\u0259",
+        "Minka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":825014,
+        "wk:page":"Ming%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1f0776a04a6f1aa5fb9b6af29541d46b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276503995,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1276503995,
+    "wof:lastmodified":1537585515,
+    "wof:name":"Minka",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.31953,
+    40.70725,
+    48.31953,
+    40.70725
+],
+  "geometry": {"coordinates":[48.31953,40.70725],"type":"Point"}
+}

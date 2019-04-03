@@ -1,0 +1,68 @@
+{
+  "id": 1193113347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.01667,41.36667,49.01667,41.36667",
+    "geom:latitude":41.36667,
+    "geom:longitude":49.01667,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Gadzhibatir",
+    "gn:country_code":"AZ",
+    "gn:dem":-17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586565,
+    "gn:latitude":41.36667,
+    "gn:longitude":49.01667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Gadzhibatir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586565,
+        "wk:page":"Gadzhibatir"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d36601b827d2c8dd8b846df89f2fe156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193113347,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1193113347,
+    "wof:lastmodified":1537486646,
+    "wof:name":"Gadzhibatir",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.01667,
+    41.36667,
+    49.01667,
+    41.36667
+],
+  "geometry": {"coordinates":[49.01667,41.36667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242731393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.45873,39.05232,45.45873,39.05232",
+    "geom:latitude":39.05232,
+    "geom:longitude":45.45873,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"7669114.0",
+    "gn:asciiname":"Ashagy-Negrat",
+    "gn:country_code":"AZ",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9485461,
+    "gn:latitude":39.05232,
+    "gn:longitude":45.45873,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Ashagy-Negrat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 Nehr\u0259m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668673,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9485461
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4aacd3f29f4b9ac6abaecd073f06f184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242731393,
+            "macroregion_id":1108808617,
+            "region_id":85668673
+        }
+    ],
+    "wof:id":1242731393,
+    "wof:lastmodified":1537585541,
+    "wof:name":"Ashagy-Negrat",
+    "wof:parent_id":85668673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.45873,
+    39.05232,
+    45.45873,
+    39.05232
+],
+  "geometry": {"coordinates":[45.45873,39.05232],"type":"Point"}
+}

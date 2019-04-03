@@ -1,0 +1,87 @@
+{
+  "id": 1259941385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.45669,39.67757,46.45669,39.67757",
+    "geom:latitude":39.67757,
+    "geom:longitude":46.45669,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Hocaz",
+    "gn:country_code":"AZ",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148038,
+    "gn:latitude":39.67757,
+    "gn:longitude":46.45669,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Ho\u00e7az",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ho\u00e7az"
+    ],
+    "name:hye_x_preferred":[
+        "Ghochaz"
+    ],
+    "name:hye_x_variant":[
+        "\u0542\u0578\u0579\u0561\u0566",
+        "Hoch\u2019ants\u2019",
+        "\u0540\u0578\u0579\u0561\u0576\u0581"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0447\u0430\u0437"
+    ],
+    "name:und_x_variant":[
+        "Khochaz",
+        "Gochaz",
+        "\u0413\u043e\u0447\u0430\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148038,
+        "wk:page":"Ho%C3%A7az"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7c7056fc34fd9d19de7b013aab5c0c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259941385,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1259941385,
+    "wof:lastmodified":1537585233,
+    "wof:name":"Hocaz",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.45669,
+    39.67757,
+    46.45669,
+    39.67757
+],
+  "geometry": {"coordinates":[46.45669,39.67757],"type":"Point"}
+}

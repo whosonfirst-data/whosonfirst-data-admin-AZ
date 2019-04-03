@@ -1,0 +1,76 @@
+{
+  "id": 1209850467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.68295,41.58051,48.68295,41.58051",
+    "geom:latitude":41.58051,
+    "geom:longitude":48.68295,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Gasankala",
+    "gn:country_code":"AZ",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586507,
+    "gn:latitude":41.58051,
+    "gn:longitude":48.68295,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Gasankala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "H\u01dds\u01ddnqala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0441\u0430\u043d\u043a\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "H\u0259s\u0259nqala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586507
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"94eb259901f55c5abf198e11571701f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209850467,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1209850467,
+    "wof:lastmodified":1537585438,
+    "wof:name":"Gasankala",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.68295,
+    41.58051,
+    48.68295,
+    41.58051
+],
+  "geometry": {"coordinates":[48.68295,41.58051],"type":"Point"}
+}

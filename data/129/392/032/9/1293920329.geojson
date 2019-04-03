@@ -1,0 +1,74 @@
+{
+  "id": 1293920329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.73893,41.49689,48.73893,41.49689",
+    "geom:latitude":41.49689,
+    "geom:longitude":48.73893,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Qadasoba",
+    "gn:country_code":"AZ",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8621982,
+    "gn:latitude":41.49689,
+    "gn:longitude":48.73893,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Qada\u015foba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qada\u015foba"
+    ],
+    "name:und_x_variant":[
+        "Kadashoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8621982,
+        "wk:page":"Qada%C5%9Foba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"423c75d4818060ca11a800c494454f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293920329,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1293920329,
+    "wof:lastmodified":1537585535,
+    "wof:name":"Qadasoba",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.73893,
+    41.49689,
+    48.73893,
+    41.49689
+],
+  "geometry": {"coordinates":[48.73893,41.49689],"type":"Point"}
+}

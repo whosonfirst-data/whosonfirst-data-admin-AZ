@@ -1,0 +1,70 @@
+{
+  "id": 1343717259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.21099,40.62842,48.21099,40.62842",
+    "geom:latitude":40.62842,
+    "geom:longitude":48.21099,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Geraybeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586476,
+    "gn:latitude":40.62842,
+    "gn:longitude":48.21099,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Geraybeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u0259rayb\u0259yli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586476
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"60333b9a4f42dd38087679ce182ba1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343717259,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1343717259,
+    "wof:lastmodified":1537585436,
+    "wof:name":"Geraybeyli",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.21099,
+    40.62842,
+    48.21099,
+    40.62842
+],
+  "geometry": {"coordinates":[48.21099,40.62842],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310053115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.09603,40.44279,48.09603,40.44279",
+    "geom:latitude":40.44279,
+    "geom:longitude":48.09603,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Melikumud",
+    "gn:country_code":"AZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585533,
+    "gn:latitude":40.44279,
+    "gn:longitude":48.09603,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Melikumud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melikumu",
+        "Melikumud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668383,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585533,
+        "wk:page":"Melikumud"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"40830e0a50af47350424014e463060fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310053115,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":1310053115,
+    "wof:lastmodified":1537585371,
+    "wof:name":"Melikumud",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.09603,
+    40.44279,
+    48.09603,
+    40.44279
+],
+  "geometry": {"coordinates":[48.09603,40.44279],"type":"Point"}
+}

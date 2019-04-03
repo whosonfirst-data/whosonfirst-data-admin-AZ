@@ -1,0 +1,76 @@
+{
+  "id": 1226353965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.98446,40.16926,46.98446,40.16926",
+    "geom:latitude":40.16926,
+    "geom:longitude":46.98446,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Suma",
+    "gn:country_code":"AZ",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584928,
+    "gn:latitude":40.16926,
+    "gn:longitude":46.98446,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Suma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Suma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043c\u0430"
+    ],
+    "name:und_x_variant":[
+        "Suma-Molla-Mamedly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584928
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7a22d36cb49e3f536150140caffa1d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226353965,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1226353965,
+    "wof:lastmodified":1537585331,
+    "wof:name":"Suma",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.98446,
+    40.16926,
+    46.98446,
+    40.16926
+],
+  "geometry": {"coordinates":[46.98446,40.16926],"type":"Point"}
+}

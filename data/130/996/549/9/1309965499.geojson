@@ -1,0 +1,70 @@
+{
+  "id": 1309965499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.65281,39.06593,48.65281,39.06593",
+    "geom:latitude":39.06593,
+    "geom:longitude":48.65281,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Bina Khodzhavar",
+    "gn:country_code":"AZ",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8507813,
+    "gn:latitude":39.06593,
+    "gn:longitude":48.65281,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Bina Khodzhavar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bin\u0259 Xocavar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8507813
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"035d4ca3567d8a7e985e447f6798afd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309965499,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1309965499,
+    "wof:lastmodified":1537585527,
+    "wof:name":"Bina Khodzhavar",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.65281,
+    39.06593,
+    48.65281,
+    39.06593
+],
+  "geometry": {"coordinates":[48.65281,39.06593],"type":"Point"}
+}

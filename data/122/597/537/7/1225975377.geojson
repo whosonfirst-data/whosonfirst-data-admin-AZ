@@ -1,0 +1,76 @@
+{
+  "id": 1225975377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.4977,40.55689,46.4977,40.55689",
+    "geom:latitude":40.55689,
+    "geom:longitude":46.4977,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Panakhlyar",
+    "gn:country_code":"AZ",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585289,
+    "gn:latitude":40.55689,
+    "gn:longitude":46.4977,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Panakhlyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "P\u0259nahlar"
+    ],
+    "name:hye_x_preferred":[
+        "P\u2019anakhlar"
+    ],
+    "name:hye_x_variant":[
+        "\u0553\u0561\u0576\u0561\u056d\u056c\u0561\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585289
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"300e3e144676775496a73788e0879671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225975377,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1225975377,
+    "wof:lastmodified":1537585355,
+    "wof:name":"Panakhlyar",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.4977,
+    40.55689,
+    46.4977,
+    40.55689
+],
+  "geometry": {"coordinates":[46.4977,40.55689],"type":"Point"}
+}

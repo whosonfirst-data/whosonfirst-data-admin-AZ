@@ -1,0 +1,88 @@
+{
+  "id": 1276366155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.72749,39.86918,46.72749,39.86918",
+    "geom:latitude":39.86918,
+    "geom:longitude":46.72749,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Ballica",
+    "gn:country_code":"AZ",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148383,
+    "gn:latitude":39.86918,
+    "gn:longitude":46.72749,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Ball\u0131ca",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ball\u0131ca"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u0563\u0565\u057d\u057f\u0561\u0576"
+    ],
+    "name:hye_x_variant":[
+        "Aygestan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u044b\u0434\u0436\u0430"
+    ],
+    "name:und_x_variant":[
+        "Balludzha",
+        "Baloudga",
+        "Baludzha",
+        "Ballydzha",
+        "Aygestan",
+        "Boludzha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148383,
+        "wk:page":"Ball%C4%B1ca"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"37cd436a07646b5a4b3a11064926229c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276366155,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1276366155,
+    "wof:lastmodified":1537585266,
+    "wof:name":"Ballica",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.72749,
+    39.86918,
+    46.72749,
+    39.86918
+],
+  "geometry": {"coordinates":[46.72749,39.86918],"type":"Point"}
+}

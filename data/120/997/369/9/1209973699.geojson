@@ -1,0 +1,73 @@
+{
+  "id": 1209973699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.20421,40.22788,46.20421,40.22788",
+    "geom:latitude":40.22788,
+    "geom:longitude":46.20421,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Kasymbinasi",
+    "gn:country_code":"AZ",
+    "gn:dem":1469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470100,
+    "gn:latitude":40.22788,
+    "gn:longitude":46.20421,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Kasymbinasi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qas\u0131mbin\u0259si"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u044b\u043c\u0431\u0438\u043d\u0430\u0441\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470100
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ccd4c313852f70aed75d2f3d33768da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209973699,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1209973699,
+    "wof:lastmodified":1537585525,
+    "wof:name":"Kasymbinasi",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.20421,
+    40.22788,
+    46.20421,
+    40.22788
+],
+  "geometry": {"coordinates":[46.20421,40.22788],"type":"Point"}
+}

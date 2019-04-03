@@ -1,0 +1,73 @@
+{
+  "id": 1276488451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.5339,40.98073,47.5339,40.98073",
+    "geom:latitude":40.98073,
+    "geom:longitude":47.5339,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Yemisanli",
+    "gn:country_code":"AZ",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8722140,
+    "gn:latitude":40.98073,
+    "gn:longitude":47.5339,
+    "gn:modification_date":"2014-04-07",
+    "gn:name":"Yemi\u015fanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yemi\u015fanl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Yemishanly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668549,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8722140
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f4b09079e1d406d15cc68d3a8d71ed2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276488451,
+            "macroregion_id":1108808619,
+            "region_id":85668549
+        }
+    ],
+    "wof:id":1276488451,
+    "wof:lastmodified":1537585541,
+    "wof:name":"Yemisanli",
+    "wof:parent_id":85668549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.5339,
+    40.98073,
+    47.5339,
+    40.98073
+],
+  "geometry": {"coordinates":[47.5339,40.98073],"type":"Point"}
+}

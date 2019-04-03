@@ -1,0 +1,79 @@
+{
+  "id": 1210047715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.93563,39.71321,46.93563,39.71321",
+    "geom:latitude":39.71321,
+    "geom:longitude":46.93563,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Mavas",
+    "gn:country_code":"AZ",
+    "gn:dem":1245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147542,
+    "gn:latitude":39.71321,
+    "gn:longitude":46.93563,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Mavas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u057e\u0561\u057d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0432\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Movas",
+        "Mavas",
+        "\u041c\u0430\u0432\u0430\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147542,
+        "wk:page":"Mavas"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6656c73907fcd93d16288288f159d6f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1210047715,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1210047715,
+    "wof:lastmodified":1537585185,
+    "wof:name":"Mavas",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.93563,
+    39.71321,
+    46.93563,
+    39.71321
+],
+  "geometry": {"coordinates":[46.93563,39.71321],"type":"Point"}
+}

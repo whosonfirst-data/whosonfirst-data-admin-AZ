@@ -1,0 +1,65 @@
+{
+  "id": 1209188311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.65294,40.71149,46.65294,40.71149",
+    "geom:latitude":40.71149,
+    "geom:longitude":46.65294,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Akhmedabad",
+    "gn:country_code":"AZ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587351,
+    "gn:latitude":40.71149,
+    "gn:longitude":46.65294,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Akhmedabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u018fhm\u0259dabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587351,
+        "wk:page":"%C6%8Fhm%C9%99dabad%2C_Goranboy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4d5db07a402e7e7a42dbd212fcc96582",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209188311
+        }
+    ],
+    "wof:id":1209188311,
+    "wof:lastmodified":1537585499,
+    "wof:name":"Akhmedabad",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.65294,
+    40.71149000000001,
+    46.65294,
+    40.71149000000001
+],
+  "geometry": {"coordinates":[46.65294,40.71149000000001],"type":"Point"}
+}

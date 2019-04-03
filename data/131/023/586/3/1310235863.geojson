@@ -1,0 +1,81 @@
+{
+  "id": 1310235863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.24512,40.85645,47.24512,40.85645",
+    "geom:latitude":40.85645,
+    "geom:longitude":47.24512,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Turan",
+    "gn:country_code":"AZ",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585321,
+    "gn:latitude":40.85645,
+    "gn:longitude":47.24512,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Turan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Turan"
+    ],
+    "name:eng_x_preferred":[
+        "Orconikidze"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0434\u0436\u043e\u043d\u0438\u043a\u0438\u0434\u0437\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ordzhonikidze",
+        "Orconikidze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585321,
+        "wk:page":"Turan%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"96e80caff0d2393db65ab45243aced6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310235863,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1310235863,
+    "wof:lastmodified":1537585357,
+    "wof:name":"Turan",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.24512,
+    40.85645,
+    47.24512,
+    40.85645
+],
+  "geometry": {"coordinates":[47.24512,40.85645],"type":"Point"}
+}

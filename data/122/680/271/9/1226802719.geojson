@@ -1,0 +1,82 @@
+{
+  "id": 1226802719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.82661,39.28905,45.82661,39.28905",
+    "geom:latitude":39.28905,
+    "geom:longitude":45.82661,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"148132.0",
+    "gn:asciiname":"Lyaketag",
+    "gn:country_code":"AZ",
+    "gn:dem":1712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147600,
+    "gn:latitude":39.28905,
+    "gn:longitude":45.82661,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lyaketag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_colloquial":[
+        "L\u0259k\u0259ta\u011f"
+    ],
+    "name:aze_x_historical":[
+        "L\u0259k\u0259ta\u011f"
+    ],
+    "name:aze_x_preferred":[
+        "L\u0259k\u0259ta\u011f"
+    ],
+    "name:und_x_variant":[
+        "Lyakatog",
+        "Lyaketag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668677,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147600,
+        "wk:page":"L%C9%99k%C9%99ta%C4%9F"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4ca01d0ec38476bb6f749ab1efc00d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226802719,
+            "macroregion_id":1108808617,
+            "region_id":85668677
+        }
+    ],
+    "wof:id":1226802719,
+    "wof:lastmodified":1537585190,
+    "wof:name":"Lyaketag",
+    "wof:parent_id":85668677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.82661,
+    39.28905,
+    45.82661,
+    39.28905
+],
+  "geometry": {"coordinates":[45.82661,39.28905],"type":"Point"}
+}

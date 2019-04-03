@@ -1,0 +1,77 @@
+{
+  "id": 1259719771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.56673,40.75519,48.56673,40.75519",
+    "geom:latitude":40.75519,
+    "geom:longitude":48.56673,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Qaleybugurd",
+    "gn:country_code":"AZ",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586271,
+    "gn:latitude":40.75519,
+    "gn:longitude":48.56673,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Qaleybu\u011furd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaleybu\u011furd"
+    ],
+    "name:und_x_variant":[
+        "Kalaybugurt",
+        "Keleybugurt",
+        "Kaleybugurt",
+        "Qalaybu\u011furt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586271,
+        "wk:page":"Qaleybu%C4%9Furd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4764db0e478b7866e1208bf52e750435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259719771,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1259719771,
+    "wof:lastmodified":1537585422,
+    "wof:name":"Qaleybugurd",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.56673,
+    40.75519,
+    48.56673,
+    40.75519
+],
+  "geometry": {"coordinates":[48.56673,40.75519],"type":"Point"}
+}

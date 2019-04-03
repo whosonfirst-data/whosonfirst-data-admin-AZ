@@ -1,0 +1,74 @@
+{
+  "id": 1277113715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.60353,38.64527,48.60353,38.64527",
+    "geom:latitude":38.64527,
+    "geom:longitude":48.60353,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Dostar",
+    "gn:country_code":"AZ",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148224,
+    "gn:latitude":38.64527,
+    "gn:longitude":48.60353,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Dostar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daster",
+        "Dostar",
+        "Dastyr\u2019",
+        "D\u0259st\u0259r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668403,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148224,
+        "wk:page":"D%C9%99st%C9%99r"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a7b4d5db848c8e159d90316b447a005d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277113715,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":1277113715,
+    "wof:lastmodified":1537585251,
+    "wof:name":"Dostar",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.60353,
+    38.64527,
+    48.60353,
+    38.64527
+],
+  "geometry": {"coordinates":[48.60353,38.64527],"type":"Point"}
+}

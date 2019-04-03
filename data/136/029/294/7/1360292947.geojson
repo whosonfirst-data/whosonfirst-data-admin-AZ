@@ -1,0 +1,70 @@
+{
+  "id": 1360292947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.06829,40.26395,47.06829,40.26395",
+    "geom:latitude":40.26395,
+    "geom:longitude":47.06829,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ilkhychylar",
+    "gn:country_code":"AZ",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586350,
+    "gn:latitude":40.26395,
+    "gn:longitude":47.06829,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Ilkhychylar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130lx\u0131\u00e7\u0131lar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586350
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"03482b700ad906b9a6c732cb82fb1314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360292947,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1360292947,
+    "wof:lastmodified":1537585427,
+    "wof:name":"Ilkhychylar",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.06829000000001,
+    40.26395,
+    47.06829000000001,
+    40.26395
+],
+  "geometry": {"coordinates":[47.06829000000001,40.26395],"type":"Point"}
+}

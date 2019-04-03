@@ -1,0 +1,71 @@
+{
+  "id": 1310046349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.43894,39.18359,45.43894,39.18359",
+    "geom:latitude":39.18359,
+    "geom:longitude":45.43894,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"7669114.0",
+    "gn:asciiname":"Haciniyyat",
+    "gn:country_code":"AZ",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9485456,
+    "gn:latitude":39.18359,
+    "gn:longitude":45.43894,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Hac\u0131niyy\u0259t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hac\u0131niyy\u0259t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668673,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9485456
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c02c963ee8ddd8b7a72284b7a8630c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310046349,
+            "macroregion_id":1108808617,
+            "region_id":85668673
+        }
+    ],
+    "wof:id":1310046349,
+    "wof:lastmodified":1537585541,
+    "wof:name":"Haciniyyat",
+    "wof:parent_id":85668673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.43894,
+    39.18359,
+    45.43894,
+    39.18359
+],
+  "geometry": {"coordinates":[45.43894,39.18359],"type":"Point"}
+}

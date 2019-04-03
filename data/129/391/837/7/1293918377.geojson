@@ -1,0 +1,80 @@
+{
+  "id": 1293918377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.54397,40.90051,48.54397,40.90051",
+    "geom:latitude":40.90051,
+    "geom:longitude":48.54397,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Zarat-Kheyberi",
+    "gn:country_code":"AZ",
+    "gn:dem":1711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584587,
+    "gn:latitude":40.90051,
+    "gn:longitude":48.54397,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Zarat-Kheyberi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zarat Xeyb\u0259ri"
+    ],
+    "name:eng_x_preferred":[
+        "Zarat Xeyt\u01ddri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u0430\u0442 \u0425\u0435\u0439\u0431\u0435\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zarat Xeyt\u0259ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584587,
+        "wk:page":"Zarat_Xeyb%C9%99ri"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f03365bc3159becd4f2db058d0be678f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293918377,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1293918377,
+    "wof:lastmodified":1537585308,
+    "wof:name":"Zarat-Kheyberi",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.54397,
+    40.90051,
+    48.54397,
+    40.90051
+],
+  "geometry": {"coordinates":[48.54397,40.90051],"type":"Point"}
+}

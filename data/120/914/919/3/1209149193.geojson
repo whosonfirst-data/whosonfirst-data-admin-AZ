@@ -1,0 +1,64 @@
+{
+  "id": 1209149193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.80778,39.3196,48.80778,39.3196",
+    "geom:latitude":39.3196,
+    "geom:longitude":48.80778,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Dortlyar",
+    "gn:country_code":"AZ",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148184,
+    "gn:latitude":39.3196,
+    "gn:longitude":48.80778,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dortlyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00f6rdl\u0259r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148184
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2688bd64c579cc8f75654096f5427f97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209149193
+        }
+    ],
+    "wof:id":1209149193,
+    "wof:lastmodified":1537585247,
+    "wof:name":"Dortlyar",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.80778,
+    39.3196,
+    48.80778,
+    39.3196
+],
+  "geometry": {"coordinates":[48.80778,39.3196],"type":"Point"}
+}

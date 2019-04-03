@@ -1,0 +1,123 @@
+{
+  "id": 421178461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.55861,40.62333,49.55861,40.62333",
+    "geom:latitude":40.62333,
+    "geom:longitude":49.55861,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Hac\u0131 Zeynalabdin"
+    ],
+    "name:ceb_x_preferred":[
+        "Hac\u0131 Zeynalabdin"
+    ],
+    "name:dut_x_preferred":[
+        "Hac\u0131 Zeynalabdin"
+    ],
+    "name:eng_x_preferred":[
+        "Hac\u0131 Zeynalabdin"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u062c\u06cc \u0632\u06cc\u0646\u200c\u0627\u0644\u0639\u0627\u0628\u062f\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Hac\u0131 Zeynalabdin"
+    ],
+    "name:fre_x_preferred":[
+        "Hac\u0131 Zeynalabdin"
+    ],
+    "name:per_x_preferred":[
+        "\u062d\u0627\u062c\u06cc \u0632\u06cc\u0646\u200c\u0627\u0644\u0639\u0627\u0628\u062f\u06cc\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0434\u0436\u0438-\u0417\u0435\u0439\u043d\u0430\u043b\u0430\u0431\u0434\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Hac\u0131 Zeynalabdin"
+    ],
+    "name:swe_x_preferred":[
+        "Hac\u0131 Zeynalabdin"
+    ],
+    "name:unk_x_variant":[
+        "Nasosnyy"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0627\u06a9\u06cc \u0632\u06cc\u0646 \u0627\u0644\u0639\u0627\u0628\u062f\u06cc\u0646"
+    ],
+    "qs:gn_country":"AZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":585379,
+    "qs:gn_pop":19019,
+    "qs:name":"Hac\u1e2f Zeynalabdin",
+    "qs:name_adm0":"Azerbaijan",
+    "qs:name_adm1":"Sumqayit",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":125822,
+    "qs:woe_adm0":23424741,
+    "qs:woe_id":1949039,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":40.624167,
+    "wd:longitude":49.5575,
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668251,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585379,
+        "gp:id":1949039,
+        "qs:id":125822,
+        "wd:id":"Q4120954",
+        "wk:page":"Hac\u0131 Zeynalabdin"
+    },
+    "wof:country":"AZ",
+    "wof:created":1459009182,
+    "wof:geomhash":"aeae3b3365c5b19745994b7d0088419e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":421178461,
+            "macroregion_id":1108808621,
+            "region_id":85668251
+        }
+    ],
+    "wof:id":421178461,
+    "wof:lastmodified":1527717727,
+    "wof:name":"Hac\u1e2f Zeynalabdin",
+    "wof:parent_id":85668251,
+    "wof:placetype":"locality",
+    "wof:population":19019,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.55861,
+    40.62333,
+    49.55861,
+    40.62333
+],
+  "geometry": {"coordinates":[49.55861,40.62333],"type":"Point"}
+}

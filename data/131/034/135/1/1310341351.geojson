@@ -1,0 +1,79 @@
+{
+  "id": 1310341351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.46937,40.04176,48.46937,40.04176",
+    "geom:latitude":40.04176,
+    "geom:longitude":48.46937,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Cavad",
+    "gn:country_code":"AZ",
+    "gn:dem":-13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586662,
+    "gn:latitude":40.04176,
+    "gn:longitude":48.46937,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Cavad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cavad"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u0432\u0430\u0434"
+    ],
+    "name:und_x_variant":[
+        "Dzhavat",
+        "Dzhavad",
+        "Cavad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586662,
+        "wk:page":"Cavad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"babacb8fde021b16cf2baf01bb95c70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310341351,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1310341351,
+    "wof:lastmodified":1537585450,
+    "wof:name":"Cavad",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.46937,
+    40.04176,
+    48.46937,
+    40.04176
+],
+  "geometry": {"coordinates":[48.46937,40.04176],"type":"Point"}
+}

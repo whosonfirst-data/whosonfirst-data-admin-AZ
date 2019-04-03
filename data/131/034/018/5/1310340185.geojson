@@ -1,0 +1,76 @@
+{
+  "id": 1310340185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.78889,39.89136,48.78889,39.89136",
+    "geom:latitude":39.89136,
+    "geom:longitude":48.78889,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Col Besdali",
+    "gn:country_code":"AZ",
+    "gn:dem":-21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148273,
+    "gn:latitude":39.89136,
+    "gn:longitude":48.78889,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"\u00c7\u00f6l Be\u015fd\u0259li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ch\u00ebl\u2019-Beshdali"
+    ],
+    "name:und_x_variant":[
+        "Chol\u2019-Beshtali",
+        "Chol\u2019beshtaly",
+        "\u00c7\u00f6l Be\u015fd\u0259li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148273,
+        "wk:page":"%C3%87%C3%B6l_Be%C5%9Fd%C9%99li"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3d965c64dca80e43532ea44e1baf45be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310340185,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1310340185,
+    "wof:lastmodified":1537585258,
+    "wof:name":"Col Besdali",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.78889,
+    39.89136,
+    48.78889,
+    39.89136
+],
+  "geometry": {"coordinates":[48.78889,39.89136],"type":"Point"}
+}

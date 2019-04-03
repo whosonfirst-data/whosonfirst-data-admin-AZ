@@ -1,0 +1,74 @@
+{
+  "id": 1293717625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.98032,39.58017,48.98032,39.58017",
+    "geom:latitude":39.58017,
+    "geom:longitude":48.98032,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Kur Qaraqasli",
+    "gn:country_code":"AZ",
+    "gn:dem":-17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147640,
+    "gn:latitude":39.58017,
+    "gn:longitude":48.98032,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"K\u00fcr Qaraqa\u015fl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korakashly",
+        "Kyur Karakashly",
+        "K\u00fcr Qaraqa\u015fl\u0131",
+        "Kyurkara Kashly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668449,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147640,
+        "wk:page":"K%C3%BCr_Qaraqa%C5%9Fl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"519248076e17af00ddf5d812d11b4483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293717625,
+            "macroregion_id":1108808627,
+            "region_id":85668449
+        }
+    ],
+    "wof:id":1293717625,
+    "wof:lastmodified":1537585192,
+    "wof:name":"Kur Qaraqasli",
+    "wof:parent_id":85668449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.98032,
+    39.58017,
+    48.98032,
+    39.58017
+],
+  "geometry": {"coordinates":[48.98032,39.58017],"type":"Point"}
+}

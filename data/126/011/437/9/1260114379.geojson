@@ -1,0 +1,73 @@
+{
+  "id": 1260114379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.56892,41.48785,48.56892,41.48785",
+    "geom:latitude":41.48785,
+    "geom:longitude":48.56892,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Avaranqislaq",
+    "gn:country_code":"AZ",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587131,
+    "gn:latitude":41.48785,
+    "gn:longitude":48.56892,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Avaranq\u0131\u015flaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Avarankyshlak",
+        "Avaran-Kishlag",
+        "Avaranq\u0131\u015flaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587131,
+        "wk:page":"Avaranq%C4%B1%C5%9Flaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"49d5cec7f39a67d8fc46aac3298d9a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260114379,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1260114379,
+    "wof:lastmodified":1537585483,
+    "wof:name":"Avaranqislaq",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.56892,
+    41.48785,
+    48.56892,
+    41.48785
+],
+  "geometry": {"coordinates":[48.56892,41.48785],"type":"Point"}
+}

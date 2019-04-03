@@ -1,0 +1,71 @@
+{
+  "id": 1360198619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.43833,40.26083,49.43833,40.26083",
+    "geom:latitude":40.26083,
+    "geom:longitude":49.43833,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Minadzhykh",
+    "gn:country_code":"AZ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585518,
+    "gn:latitude":40.26083,
+    "gn:longitude":49.43833,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Minadzhykh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miadzhik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668251,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585518,
+        "wk:page":"Miadzhik"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2bd4463ecc211d7315363ae018c5202b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360198619,
+            "macroregion_id":1108808621,
+            "region_id":85668251
+        }
+    ],
+    "wof:id":1360198619,
+    "wof:lastmodified":1537585370,
+    "wof:name":"Minadzhykh",
+    "wof:parent_id":85668251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.43833,
+    40.26083,
+    49.43833,
+    40.26083
+],
+  "geometry": {"coordinates":[49.43833,40.26083],"type":"Point"}
+}

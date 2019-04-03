@@ -1,0 +1,74 @@
+{
+  "id": 1293135087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5403,41.32892,48.5403,41.32892",
+    "geom:latitude":41.32892,
+    "geom:longitude":48.5403,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Amsar",
+    "gn:country_code":"AZ",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587256,
+    "gn:latitude":41.32892,
+    "gn:longitude":48.5403,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Amsar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amsar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0441\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587256,
+        "wk:page":"Amsar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3a80848754bf7b91090b33e703c4ab88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293135087,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1293135087,
+    "wof:lastmodified":1537585493,
+    "wof:name":"Amsar",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5403,
+    41.32892,
+    48.5403,
+    41.32892
+],
+  "geometry": {"coordinates":[48.5403,41.32892],"type":"Point"}
+}

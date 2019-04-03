@@ -1,0 +1,68 @@
+{
+  "id": 1293524065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.57797,41.37621,48.57797,41.37621",
+    "geom:latitude":41.37621,
+    "geom:longitude":48.57797,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Alekseyevka",
+    "gn:country_code":"AZ",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587322,
+    "gn:latitude":41.37621,
+    "gn:longitude":48.57797,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Alekseyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587322,
+        "wk:page":"Alekseyevka%2C_Quba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7987c6179c6555f22aaee72f817a7fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293524065,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1293524065,
+    "wof:lastmodified":1537486673,
+    "wof:name":"Alekseyevka",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.57797,
+    41.37621,
+    48.57797,
+    41.37621
+],
+  "geometry": {"coordinates":[48.57797,41.37621],"type":"Point"}
+}

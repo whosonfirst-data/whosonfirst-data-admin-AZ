@@ -1,0 +1,77 @@
+{
+  "id": 1310361677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.32091,39.84321,49.32091,39.84321",
+    "geom:latitude":39.84321,
+    "geom:longitude":49.32091,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Khydyrly",
+    "gn:country_code":"AZ",
+    "gn:dem":-20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147745,
+    "gn:latitude":39.84321,
+    "gn:longitude":49.32091,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Khydyrly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khidirly",
+        "Chidirly",
+        "Khydyrly",
+        "Khidyrly",
+        "Kochev\u2019ye",
+        "X\u0131d\u0131rl\u0131",
+        "Chalovly",
+        "Chalovlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668449,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147745
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"546c3e25f954c3c6e6df84bd7f7abdb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310361677,
+            "macroregion_id":1108808627,
+            "region_id":85668449
+        }
+    ],
+    "wof:id":1310361677,
+    "wof:lastmodified":1537585203,
+    "wof:name":"Khydyrly",
+    "wof:parent_id":85668449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.32091,
+    39.84321,
+    49.32091,
+    39.84321
+],
+  "geometry": {"coordinates":[49.32091,39.84321],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1193052721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.87337,39.90897,46.87337,39.90897",
+    "geom:latitude":39.90897,
+    "geom:longitude":46.87337,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Naxcivanli",
+    "gn:country_code":"AZ",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147434,
+    "gn:latitude":39.90897,
+    "gn:longitude":46.87337,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Nax\u00e7\u0131vanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Nax\u00e7\u0131vanl\u0131"
+    ],
+    "name:aze_x_variant":[
+        "Nax\u00e7\u0131vanik"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u056d\u056b\u057b\u0587\u0561\u0576\u056b\u056f"
+    ],
+    "name:hye_x_variant":[
+        "Nakhijevanik"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0445\u0438\u0447\u0435\u0432\u0430\u043d\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Nakhidgevanik",
+        "Nakhichevanik",
+        "Nakhijevanik",
+        "\u041d\u0430\u0445\u0438\u0447\u0435\u0432\u0430\u043d\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147434,
+        "wk:page":"Nakhichevanik"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"064c87d504433a29120bbb37c5a535e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193052721,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1193052721,
+    "wof:lastmodified":1537585172,
+    "wof:name":"Naxcivanli",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.87337,
+    39.90897,
+    46.87337,
+    39.90897
+],
+  "geometry": {"coordinates":[46.87337,39.90897],"type":"Point"}
+}

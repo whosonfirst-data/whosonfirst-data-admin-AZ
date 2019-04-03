@@ -1,0 +1,72 @@
+{
+  "id": 1293324145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.54805,40.19042,47.54805,40.19042",
+    "geom:latitude":40.19042,
+    "geom:longitude":47.54805,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Qoruqbagi",
+    "gn:country_code":"AZ",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585815,
+    "gn:latitude":40.19042,
+    "gn:longitude":47.54805,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Qoruqba\u011f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korukhbagy",
+        "Qoruqba\u011f\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668509,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585815,
+        "wk:page":"Qoruqba%C4%9F%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"33b07aeb57d8c7ba4ef2b8014ec25e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293324145,
+            "macroregion_id":1108808627,
+            "region_id":85668509
+        }
+    ],
+    "wof:id":1293324145,
+    "wof:lastmodified":1537585390,
+    "wof:name":"Qoruqbagi",
+    "wof:parent_id":85668509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.54805,
+    40.19042,
+    47.54805,
+    40.19042
+],
+  "geometry": {"coordinates":[47.54805,40.19042],"type":"Point"}
+}

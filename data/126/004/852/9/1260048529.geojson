@@ -1,0 +1,73 @@
+{
+  "id": 1260048529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.74022,40.04342,48.74022,40.04342",
+    "geom:latitude":40.04342,
+    "geom:longitude":48.74022,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Ikinci Meyniman",
+    "gn:country_code":"AZ",
+    "gn:dem":-16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585521,
+    "gn:latitude":40.04342,
+    "gn:longitude":48.74022,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"\u0130kinci Meyniman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meyniman",
+        "Meyniman Vtoroye",
+        "\u0130kinci Meyniman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668293,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585521,
+        "wk:page":"%C4%B0kinci_Meyniman"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"389c4b34d39c0cfb8477d2bfee06776d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260048529,
+            "macroregion_id":1108808627,
+            "region_id":85668293
+        }
+    ],
+    "wof:id":1260048529,
+    "wof:lastmodified":1537585370,
+    "wof:name":"Ikinci Meyniman",
+    "wof:parent_id":85668293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.74022,
+    40.04342000000001,
+    48.74022,
+    40.04342000000001
+],
+  "geometry": {"coordinates":[48.74022,40.04342000000001],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259714863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.38686,41.32159,48.38686,41.32159",
+    "geom:latitude":41.32159,
+    "geom:longitude":48.38686,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Kechresh",
+    "gn:country_code":"AZ",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586062,
+    "gn:latitude":41.32159,
+    "gn:longitude":48.38686,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kechresh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Q\u01dd\u00e7r\u01dd\u015f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0447\u0440\u0435\u0448"
+    ],
+    "name:und_x_variant":[
+        "Q\u0259\u00e7r\u0259\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586062,
+        "wk:page":"Q%C9%99%C3%A7r%C9%99%C5%9F"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b6ac36494068f59f3b3f75a9a6474bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259714863,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1259714863,
+    "wof:lastmodified":1537585406,
+    "wof:name":"Kechresh",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.38686,
+    41.32159,
+    48.38686,
+    41.32159
+],
+  "geometry": {"coordinates":[48.38686,41.32159],"type":"Point"}
+}

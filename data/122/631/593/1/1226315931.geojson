@@ -1,0 +1,78 @@
+{
+  "id": 1226315931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.32939,39.32718,48.32939,39.32718",
+    "geom:latitude":39.32718,
+    "geom:longitude":48.32939,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Bazayran",
+    "gn:country_code":"AZ",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148350,
+    "gn:latitude":39.32718,
+    "gn:longitude":48.32939,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Bazayran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015e\u00fck\u00fcrl\u00fc"
+    ],
+    "name:aze_x_variant":[
+        "B\u00f6yuk Bozayran"
+    ],
+    "name:und_x_variant":[
+        "B\u00ebyuk Bozayran",
+        "Bozayran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148350,
+        "wk:page":"B%C3%AByuk_Bozayran"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8dd0d8d0c4d56ea0995330f8aeedb6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226315931,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1226315931,
+    "wof:lastmodified":1537585264,
+    "wof:name":"Bazayran",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.32939,
+    39.32718,
+    48.32939,
+    39.32718
+],
+  "geometry": {"coordinates":[48.32939,39.32718],"type":"Point"}
+}

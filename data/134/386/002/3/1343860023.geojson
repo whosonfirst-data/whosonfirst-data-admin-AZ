@@ -1,0 +1,73 @@
+{
+  "id": 1343860023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.94943,40.08108,46.94943,40.08108",
+    "geom:latitude":40.08108,
+    "geom:longitude":46.94943,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Eyvazkhanbeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8505611,
+    "gn:latitude":40.08108,
+    "gn:longitude":46.94943,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Eyvazkhanbeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Eyvazxanb\u0259yli"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0439\u0432\u0430\u0437\u0445\u0430\u043d\u0431\u0435\u0439\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8505611
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"946ece894de4d7e2d0247c71f0b1fddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343860023,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1343860023,
+    "wof:lastmodified":1537585527,
+    "wof:name":"Eyvazkhanbeyli",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.94943,
+    40.08108,
+    46.94943,
+    40.08108
+],
+  "geometry": {"coordinates":[46.94943,40.08108],"type":"Point"}
+}

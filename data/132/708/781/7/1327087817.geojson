@@ -1,0 +1,74 @@
+{
+  "id": 1327087817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.01237,39.53062,45.01237,39.53062",
+    "geom:latitude":39.53062,
+    "geom:longitude":45.01237,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147997.0",
+    "gn:asciiname":"Asagi Araliq",
+    "gn:country_code":"AZ",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11128490,
+    "gn:latitude":39.53062,
+    "gn:longitude":45.01237,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"A\u015fa\u011f\u0131 Aral\u0131q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 Aral\u0131q"
+    ],
+    "name:und_x_variant":[
+        "Ashagy-Aralyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668667,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11128490
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4e63345f4d3e3ec542f202efcd0d6a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327087817,
+            "macroregion_id":1108808617,
+            "region_id":85668667
+        }
+    ],
+    "wof:id":1327087817,
+    "wof:lastmodified":1537585543,
+    "wof:name":"Asagi Araliq",
+    "wof:parent_id":85668667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.01237,
+    39.53062,
+    45.01237,
+    39.53062
+],
+  "geometry": {"coordinates":[45.01237,39.53062],"type":"Point"}
+}

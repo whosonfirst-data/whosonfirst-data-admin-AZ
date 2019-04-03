@@ -1,0 +1,78 @@
+{
+  "id": 1243186561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.07591,40.28663,49.07591,40.28663",
+    "geom:latitude":40.28663,
+    "geom:longitude":49.07591,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Adzhiyely",
+    "gn:country_code":"AZ",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800542,
+    "gn:latitude":40.28663,
+    "gn:longitude":49.07591,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Adzhiyely",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hac\u0131v\u01ddli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u0436\u0438\u0432\u0435\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Hac\u0131v\u0259li",
+        "Adzhiveli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668251,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800542,
+        "wk:page":"Hac%C4%B1v%C9%99li"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2d5acdb3b8b09c4db7ddda2c99b5f5c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243186561,
+            "macroregion_id":1108808621,
+            "region_id":85668251
+        }
+    ],
+    "wof:id":1243186561,
+    "wof:lastmodified":1537585504,
+    "wof:name":"Adzhiyely",
+    "wof:parent_id":85668251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.07591,
+    40.28663,
+    49.07591,
+    40.28663
+],
+  "geometry": {"coordinates":[49.07591,40.28663],"type":"Point"}
+}

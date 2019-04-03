@@ -1,0 +1,74 @@
+{
+  "id": 1310036033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.32935,41.00559,47.32935,41.00559",
+    "geom:latitude":41.00559,
+    "geom:longitude":47.32935,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Ashagy-Dashagyl",
+    "gn:country_code":"AZ",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587187,
+    "gn:latitude":41.00559,
+    "gn:longitude":47.32935,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Ashagy-Dashagyl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ashaga Dashagi",
+        "Ashagy-Dashagyl",
+        "Ashagi-Dashagyl",
+        "A\u015fa\u011f\u0131 Da\u015fa\u011f\u0131l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587187,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_Da%C5%9Fa%C4%9F%C4%B1l"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ddfff78505dc51c2e7a791acbe5dbf07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310036033,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1310036033,
+    "wof:lastmodified":1537585488,
+    "wof:name":"Ashagy-Dashagyl",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.32935,
+    41.00559000000001,
+    47.32935,
+    41.00559000000001
+],
+  "geometry": {"coordinates":[47.32935,41.00559000000001],"type":"Point"}
+}

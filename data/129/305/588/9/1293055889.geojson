@@ -1,0 +1,68 @@
+{
+  "id": 1293055889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.05972,40.24306,46.05972,40.24306",
+    "geom:latitude":40.24306,
+    "geom:longitude":46.05972,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Damychldam",
+    "gn:country_code":"AZ",
+    "gn:dem":1913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":801193,
+    "gn:latitude":40.24306,
+    "gn:longitude":46.05972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Damychldam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":801193,
+        "wk:page":"Damychldam"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d778ffaae00b32a9aa2b09cc09948ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293055889,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1293055889,
+    "wof:lastmodified":1537486682,
+    "wof:name":"Damychldam",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.05972,
+    40.24306,
+    46.05972,
+    40.24306
+],
+  "geometry": {"coordinates":[46.05972,40.24306],"type":"Point"}
+}

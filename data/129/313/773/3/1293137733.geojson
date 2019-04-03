@@ -1,0 +1,84 @@
+{
+  "id": 1293137733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.23304,39.91357,48.23304,39.91357",
+    "geom:latitude":39.91357,
+    "geom:longitude":48.23304,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Maztaly",
+    "gn:country_code":"AZ",
+    "gn:dem":-7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147536,
+    "gn:latitude":39.91357,
+    "gn:longitude":48.23304,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Maztaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259zr\u0259li"
+    ],
+    "name:aze_x_variant":[
+        "M\u0259rz\u0259li",
+        "Yuxar\u0131 Hac\u0131qas\u0131ml\u0131"
+    ],
+    "name:und_x_variant":[
+        "Mazra",
+        "Maztaly",
+        "Mazrali",
+        "Gadzhykasymly",
+        "Gadzhikasymly",
+        "Gadzhi-Kasumly",
+        "Yukhary Gadzhykasymly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668365,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147536,
+        "wk:page":"Yuxar%C4%B1_Hac%C4%B1qas%C4%B1ml%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4657577a3433c4f4409cf4a45b6ff82f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293137733,
+            "macroregion_id":1108808627,
+            "region_id":85668365
+        }
+    ],
+    "wof:id":1293137733,
+    "wof:lastmodified":1537585184,
+    "wof:name":"Maztaly",
+    "wof:parent_id":85668365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.23304,
+    39.91357,
+    48.23304,
+    39.91357
+],
+  "geometry": {"coordinates":[48.23304,39.91357],"type":"Point"}
+}

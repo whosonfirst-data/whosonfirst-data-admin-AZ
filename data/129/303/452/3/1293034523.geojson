@@ -1,0 +1,77 @@
+{
+  "id": 1293034523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.70906,39.75943,46.70906,39.75943",
+    "geom:latitude":39.75943,
+    "geom:longitude":46.70906,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Dukanlar",
+    "gn:country_code":"AZ",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8457449,
+    "gn:latitude":39.75943,
+    "gn:longitude":46.70906,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"D\u00fckanlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u00fckanlar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044e\u043a\u044f\u043d\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Dyukyanlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668643,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8457449,
+        "wk:page":"D%C3%BCkanlar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9312d86fec455e2aca72c6ed3e8ff52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293034523,
+            "macroregion_id":1108808615,
+            "region_id":85668643
+        }
+    ],
+    "wof:id":1293034523,
+    "wof:lastmodified":1537585523,
+    "wof:name":"Dukanlar",
+    "wof:parent_id":85668643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.70906,
+    39.75943,
+    46.70906,
+    39.75943
+],
+  "geometry": {"coordinates":[46.70906,39.75943],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209043729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7,41.25,48.7,41.25",
+    "geom:latitude":41.25,
+    "geom:longitude":48.7,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Gasaneri",
+    "gn:country_code":"AZ",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586509,
+    "gn:latitude":41.25,
+    "gn:longitude":48.7,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Gasaneri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586509,
+        "wk:page":"Gasaneri"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8cadd2de9a81e55a91e870a15267fb3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209043729
+        }
+    ],
+    "wof:id":1209043729,
+    "wof:lastmodified":1537486644,
+    "wof:name":"Gasaneri",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7,
+    41.25,
+    48.7,
+    41.25
+],
+  "geometry": {"coordinates":[48.7,41.25],"type":"Point"}
+}

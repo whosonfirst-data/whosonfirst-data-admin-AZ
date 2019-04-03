@@ -1,0 +1,72 @@
+{
+  "id": 1310497179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.61773,38.53494,48.61773,38.53494",
+    "geom:latitude":38.53494,
+    "geom:longitude":48.61773,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dolu",
+    "gn:country_code":"AZ",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148189,
+    "gn:latitude":38.53494,
+    "gn:longitude":48.61773,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Dolu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doli",
+        "Dolu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148189,
+        "wk:page":"Dolu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cfb650acb00e57ef508d001f95617338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310497179,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1310497179,
+    "wof:lastmodified":1537585247,
+    "wof:name":"Dolu",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.61773,
+    38.53494,
+    48.61773,
+    38.53494
+],
+  "geometry": {"coordinates":[48.61773,38.53494],"type":"Point"}
+}

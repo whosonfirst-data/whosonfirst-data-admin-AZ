@@ -1,0 +1,74 @@
+{
+  "id": 1344138061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.04577,40.48762,47.04577,40.48762",
+    "geom:latitude":40.48762,
+    "geom:longitude":47.04577,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Umudalilar",
+    "gn:country_code":"AZ",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584773,
+    "gn:latitude":40.48762,
+    "gn:longitude":47.04577,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Umudal\u0131lar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Umudal\u0131lar"
+    ],
+    "name:und_x_variant":[
+        "Umudalylar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584773,
+        "wk:page":"Umudal%C4%B1lar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"460083409ad4b33f4c12f6ed57f76ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344138061,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1344138061,
+    "wof:lastmodified":1537585321,
+    "wof:name":"Umudalilar",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.04577000000001,
+    40.48762,
+    47.04577000000001,
+    40.48762
+],
+  "geometry": {"coordinates":[47.04577000000001,40.48762],"type":"Point"}
+}

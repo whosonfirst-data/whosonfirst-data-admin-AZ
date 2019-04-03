@@ -1,0 +1,76 @@
+{
+  "id": 1344093065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3551,39.02503,48.3551,39.02503",
+    "geom:latitude":39.02503,
+    "geom:longitude":48.3551,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Zevin",
+    "gn:country_code":"AZ",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146870,
+    "gn:latitude":39.02503,
+    "gn:longitude":48.3551,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Zevin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zevin"
+    ],
+    "name:und_x_variant":[
+        "Z\u00ebvin",
+        "Zovik",
+        "Zovin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668497,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146870,
+        "wk:page":"Zevin"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4c7a1db9f7571257539c6774a3066396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344093065,
+            "macroregion_id":1108808625,
+            "region_id":85668497
+        }
+    ],
+    "wof:id":1344093065,
+    "wof:lastmodified":1537585122,
+    "wof:name":"Zevin",
+    "wof:parent_id":85668497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3551,
+    39.02503,
+    48.3551,
+    39.02503
+],
+  "geometry": {"coordinates":[48.3551,39.02503],"type":"Point"}
+}

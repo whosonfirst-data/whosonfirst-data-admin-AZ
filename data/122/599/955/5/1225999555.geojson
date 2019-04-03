@@ -1,0 +1,80 @@
+{
+  "id": 1225999555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.65933,40.09394,46.65933,40.09394",
+    "geom:latitude":40.09394,
+    "geom:longitude":46.65933,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Txkot",
+    "gn:country_code":"AZ",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":584834,
+    "gn:latitude":40.09394,
+    "gn:longitude":46.65933,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Txkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_preferred":[
+        "Tkhkot"
+    ],
+    "name:aze_x_variant":[
+        "Txkot"
+    ],
+    "name:hye_x_preferred":[
+        "T\u2019ghkot"
+    ],
+    "name:hye_x_variant":[
+        "\u0539\u0572\u056f\u0578\u057f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584834,
+        "wk:page":"Tkhkot"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a8b22acdcbf13d3856aa9625775007ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225999555,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1225999555,
+    "wof:lastmodified":1537585325,
+    "wof:name":"Txkot",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.65933,
+    40.09394,
+    46.65933,
+    40.09394
+],
+  "geometry": {"coordinates":[46.65933,40.09394],"type":"Point"}
+}

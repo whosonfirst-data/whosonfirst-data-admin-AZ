@@ -1,0 +1,74 @@
+{
+  "id": 1243585421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.21245,41.14329,48.21245,41.14329",
+    "geom:latitude":41.14329,
+    "geom:longitude":48.21245,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Hapit",
+    "gn:country_code":"AZ",
+    "gn:dem":1907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586519,
+    "gn:latitude":41.14329,
+    "gn:longitude":48.21245,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hap\u0131t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chagadzhik Gaput",
+        "Khaput",
+        "Khapit",
+        "Gapyt",
+        "Hap\u0131t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586519
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"db007f6223b1d3e1237bc3877962bd46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243585421,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1243585421,
+    "wof:lastmodified":1537585439,
+    "wof:name":"Hapit",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.21245,
+    41.14329,
+    48.21245,
+    41.14329
+],
+  "geometry": {"coordinates":[48.21245,41.14329],"type":"Point"}
+}

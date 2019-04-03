@@ -1,0 +1,73 @@
+{
+  "id": 1193215673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.77705,40.97376,47.77705,40.97376",
+    "geom:latitude":40.97376,
+    "geom:longitude":47.77705,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Cigatelli",
+    "gn:country_code":"AZ",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586624,
+    "gn:latitude":40.97376,
+    "gn:longitude":47.77705,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"C\u0131\u011fatelli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhygatelli",
+        "Dzhigatally",
+        "C\u0131\u011fatelli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586624,
+        "wk:page":"C%C4%B1%C4%9Fatelli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"120924849994f33abdc9ecc16c42ce2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193215673,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1193215673,
+    "wof:lastmodified":1537585447,
+    "wof:name":"Cigatelli",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.77705,
+    40.97376,
+    47.77705,
+    40.97376
+],
+  "geometry": {"coordinates":[47.77705,40.97376],"type":"Point"}
+}

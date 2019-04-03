@@ -1,0 +1,72 @@
+{
+  "id": 1309834897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.21357,41.07108,47.21357,41.07108",
+    "geom:latitude":41.07108,
+    "geom:longitude":47.21357,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Capagan",
+    "gn:country_code":"AZ",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586899,
+    "gn:latitude":41.07108,
+    "gn:longitude":47.21357,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"\u00c7apa\u011fan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chapagan",
+        "\u00c7apa\u011fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586899,
+        "wk:page":"%C3%87apa%C4%9Fan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7172949c73c5c639211183eebbba2c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309834897,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1309834897,
+    "wof:lastmodified":1537585467,
+    "wof:name":"Capagan",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.21357,
+    41.07108,
+    47.21357,
+    41.07108
+],
+  "geometry": {"coordinates":[47.21357,41.07108],"type":"Point"}
+}

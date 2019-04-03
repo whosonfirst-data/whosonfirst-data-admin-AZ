@@ -1,0 +1,71 @@
+{
+  "id": 1260117145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.65,40.36667,46.65,40.36667",
+    "geom:latitude":40.36667,
+    "geom:longitude":46.65,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Yegakor",
+    "gn:country_code":"AZ",
+    "gn:dem":1432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":584695,
+    "gn:latitude":40.36667,
+    "gn:longitude":46.65,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Yegakor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_preferred":[
+        "Yegakor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584695,
+        "wk:page":"Yegakor"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dcc397a8005b57a9e8e01e50b375d654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260117145,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1260117145,
+    "wof:lastmodified":1537585315,
+    "wof:name":"Yegakor",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.65,
+    40.36667,
+    46.65,
+    40.36667
+],
+  "geometry": {"coordinates":[46.65,40.36667],"type":"Point"}
+}

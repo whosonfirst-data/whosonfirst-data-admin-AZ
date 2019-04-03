@@ -1,0 +1,78 @@
+{
+  "id": 1276382779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.03109,39.44852,45.03109,39.44852",
+    "geom:latitude":39.44852,
+    "geom:longitude":45.03109,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147997.0",
+    "gn:asciiname":"Pusyan",
+    "gn:country_code":"AZ",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147309,
+    "gn:latitude":39.44852,
+    "gn:longitude":45.03109,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"P\u00fcsyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "P\u00fcsyan"
+    ],
+    "name:aze_x_variant":[
+        "Pusyan"
+    ],
+    "name:rus_x_preferred":[
+        "Pu\u2019syan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668667,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147309,
+        "wk:page":"P%C3%BCsyan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"80743bed4c1278b5085f96e551a4bae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276382779,
+            "macroregion_id":1108808617,
+            "region_id":85668667
+        }
+    ],
+    "wof:id":1276382779,
+    "wof:lastmodified":1537585163,
+    "wof:name":"Pusyan",
+    "wof:parent_id":85668667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.03109,
+    39.44852,
+    45.03109,
+    39.44852
+],
+  "geometry": {"coordinates":[45.03109,39.44852],"type":"Point"}
+}

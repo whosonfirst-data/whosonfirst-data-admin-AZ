@@ -1,0 +1,77 @@
+{
+  "id": 1293193249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.41559,40.52738,48.41559,40.52738",
+    "geom:latitude":40.52738,
+    "geom:longitude":48.41559,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Arabushagy",
+    "gn:country_code":"AZ",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587223,
+    "gn:latitude":40.52738,
+    "gn:longitude":48.41559,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Arabushagy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u018fr\u01ddbu\u015fa\u011f\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u0431\u0443\u0448\u0430\u0433\u044b"
+    ],
+    "name:und_x_variant":[
+        "\u018fr\u0259bu\u015fa\u011f\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587223,
+        "wk:page":"%C6%8Fr%C9%99bu%C5%9Fa%C4%9F%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"311f2b661710a105cb5244c16233cf6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293193249,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1293193249,
+    "wof:lastmodified":1537585491,
+    "wof:name":"Arabushagy",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.41559,
+    40.52738,
+    48.41559,
+    40.52738
+],
+  "geometry": {"coordinates":[48.41559,40.52738],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243336695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.47672,39.15272,48.47672,39.15272",
+    "geom:latitude":39.15272,
+    "geom:longitude":48.47672,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Khalilabad",
+    "gn:country_code":"AZ",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147820,
+    "gn:latitude":39.15272,
+    "gn:longitude":48.47672,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khalilabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u0259lilabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147820
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"69efb80a696b700cd699171e1196a8a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243336695,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1243336695,
+    "wof:lastmodified":1537585212,
+    "wof:name":"Khalilabad",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.47672,
+    39.15272,
+    48.47672,
+    39.15272
+],
+  "geometry": {"coordinates":[48.47672,39.15272],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343496333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.69749,41.26924,48.69749,41.26924",
+    "geom:latitude":41.26924,
+    "geom:longitude":48.69749,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Qorxmazoba",
+    "gn:country_code":"AZ",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824951,
+    "gn:latitude":41.26924,
+    "gn:longitude":48.69749,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Qorxmazoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korkhmazoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824951,
+        "wk:page":"Qorxmazoba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"74a7e22bbfe34142da256bb579e3a32c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343496333,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1343496333,
+    "wof:lastmodified":1537585515,
+    "wof:name":"Qorxmazoba",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.69749,
+    41.26924,
+    48.69749,
+    41.26924
+],
+  "geometry": {"coordinates":[48.69749,41.26924],"type":"Point"}
+}

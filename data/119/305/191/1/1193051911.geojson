@@ -1,0 +1,73 @@
+{
+  "id": 1193051911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.23356,40.80041,46.23356,40.80041",
+    "geom:latitude":40.80041,
+    "geom:longitude":46.23356,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Qaralar",
+    "gn:country_code":"AZ",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8630555,
+    "gn:latitude":40.80041,
+    "gn:longitude":46.23356,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"Qaralar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaralar"
+    ],
+    "name:aze_x_variant":[
+        "Komsomol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8630555
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a25cfa0f43c5c20fd5dbb5e26f03907c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193051911,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1193051911,
+    "wof:lastmodified":1537585537,
+    "wof:name":"Qaralar",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.23356,
+    40.80041,
+    46.23356,
+    40.80041
+],
+  "geometry": {"coordinates":[46.23356,40.80041],"type":"Point"}
+}

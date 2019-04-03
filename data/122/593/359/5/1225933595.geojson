@@ -1,0 +1,72 @@
+{
+  "id": 1225933595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.23938,40.43351,50.23938,40.43351",
+    "geom:latitude":40.43351,
+    "geom:longitude":50.23938,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kishlak Dyubendy",
+    "gn:country_code":"AZ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586704,
+    "gn:latitude":40.43351,
+    "gn:longitude":50.23938,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Kishlak Dyubendy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dyubendi",
+        "D\u00fcb\u0259ndi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586704,
+        "wk:page":"D%C3%BCb%C9%99ndi"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e922fd5c1ee3115afa9f9a5f23afb546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225933595,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1225933595,
+    "wof:lastmodified":1537585453,
+    "wof:name":"Kishlak Dyubendy",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.23938,
+    40.43351,
+    50.23938,
+    40.43351
+],
+  "geometry": {"coordinates":[50.23938,40.43351],"type":"Point"}
+}

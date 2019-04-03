@@ -1,0 +1,81 @@
+{
+  "id": 1343639721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.2452,40.42436,47.2452,40.42436",
+    "geom:latitude":40.42436,
+    "geom:longitude":47.2452,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Eyridzha",
+    "gn:country_code":"AZ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587123,
+    "gn:latitude":40.42436,
+    "gn:longitude":47.2452,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Eyridzha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fyric\u0259"
+    ],
+    "name:eng_x_preferred":[
+        "\u018fyric\u01dd"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043d\u0438\u0430\u0439\u0440\u0438\u0434\u0436\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ayridzha",
+        "Eyridzha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587123,
+        "wk:page":"%C6%8Fyric%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7df470d986532db224dd73d6b7a576f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343639721,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1343639721,
+    "wof:lastmodified":1537585482,
+    "wof:name":"Eyridzha",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.2452,
+    40.42436,
+    47.2452,
+    40.42436
+],
+  "geometry": {"coordinates":[47.2452,40.42436],"type":"Point"}
+}

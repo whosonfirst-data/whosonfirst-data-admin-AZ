@@ -1,0 +1,67 @@
+{
+  "id": 1209283069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.04851,40.04703,49.04851,40.04703",
+    "geom:latitude":40.04703,
+    "geom:longitude":49.04851,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Pirsaat",
+    "gn:country_code":"AZ",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":825073,
+    "gn:latitude":40.04703,
+    "gn:longitude":49.04851,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Pirsaat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Pirsaat"
+    ],
+    "name:und_x_variant":[
+        "Pirsagat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":825073
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"19aade44d51f377a0421715398266015",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209283069
+        }
+    ],
+    "wof:id":1209283069,
+    "wof:lastmodified":1537585516,
+    "wof:name":"Pirsaat",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.04851,
+    40.04703,
+    49.04851,
+    40.04703
+],
+  "geometry": {"coordinates":[49.04851,40.04703],"type":"Point"}
+}

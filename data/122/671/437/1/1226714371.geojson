@@ -1,0 +1,84 @@
+{
+  "id": 1226714371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.64227,40.45231,46.64227,40.45231",
+    "geom:latitude":40.45231,
+    "geom:longitude":46.64227,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Shefek",
+    "gn:country_code":"AZ",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585037,
+    "gn:latitude":40.45231,
+    "gn:longitude":46.64227,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Shefek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015e\u0259f\u0259q"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0565\u0586\u0565\u056f"
+    ],
+    "name:hye_x_variant":[
+        "Shefek",
+        "Shafak",
+        "\u0547\u0561\u0586\u0561\u056f",
+        "Shafag",
+        "\u0547\u0561\u0586\u0561\u0563"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0444\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585037,
+        "wk:page":"%C5%9E%C9%99f%C9%99q%2C_Goranboy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"249bee81aa207422cad265a0d6bc3ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226714371,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1226714371,
+    "wof:lastmodified":1537585339,
+    "wof:name":"Shefek",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.64227,
+    40.45231,
+    46.64227,
+    40.45231
+],
+  "geometry": {"coordinates":[46.64227,40.45231],"type":"Point"}
+}

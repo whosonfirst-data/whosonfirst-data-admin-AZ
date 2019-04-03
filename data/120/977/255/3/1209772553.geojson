@@ -1,0 +1,74 @@
+{
+  "id": 1209772553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.04274,40.0813,46.04274,40.0813",
+    "geom:latitude":40.0813,
+    "geom:longitude":46.04274,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Mamedushagy",
+    "gn:country_code":"AZ",
+    "gn:dem":2037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585586,
+    "gn:latitude":40.0813,
+    "gn:longitude":46.04274,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Mamedushagy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043c\u0435\u0434\u0443\u0448\u0430\u0433\u044b"
+    ],
+    "name:und_x_variant":[
+        "M\u0259mm\u0259du\u015fa\u011f\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585586,
+        "wk:page":"M%C9%99mm%C9%99du%C5%9Fa%C4%9F%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"36125451bb68efe9e599925f858dfcbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209772553,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1209772553,
+    "wof:lastmodified":1537585375,
+    "wof:name":"Mamedushagy",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.04274,
+    40.0813,
+    46.04274,
+    40.0813
+],
+  "geometry": {"coordinates":[46.04274,40.0813],"type":"Point"}
+}

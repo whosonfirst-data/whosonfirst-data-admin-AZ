@@ -1,0 +1,81 @@
+{
+  "id": 1360221139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.99515,39.84658,46.99515,39.84658",
+    "geom:latitude":39.84658,
+    "geom:longitude":46.99515,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Hesan",
+    "gn:country_code":"AZ",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148455,
+    "gn:latitude":39.84658,
+    "gn:longitude":46.99515,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"He\u015fan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "He\u015fan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0577\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0448\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "A\u015fan",
+        "Ashan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148455,
+        "wk:page":"He%C5%9Fan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"11c492bcb3ee6d0c87200331933186f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360221139,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1360221139,
+    "wof:lastmodified":1537585271,
+    "wof:name":"Hesan",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.99515,
+    39.84658,
+    46.99515,
+    39.84658
+],
+  "geometry": {"coordinates":[46.99515,39.84658],"type":"Point"}
+}

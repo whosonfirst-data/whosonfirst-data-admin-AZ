@@ -1,0 +1,73 @@
+{
+  "id": 1310357137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.51133,41.0469,47.51133,41.0469",
+    "geom:latitude":41.0469,
+    "geom:longitude":47.51133,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Xalxalqislaq",
+    "gn:country_code":"AZ",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585984,
+    "gn:latitude":41.0469,
+    "gn:longitude":47.51133,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Xalxalq\u0131\u015flaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khalkhal-Kyshlag",
+        "Khalkhalkyshlak",
+        "Xalxalq\u0131\u015flaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668549,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585984,
+        "wk:page":"Xalxalq%C4%B1%C5%9Flaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7311b92915cff902832282e52c70c76f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310357137,
+            "macroregion_id":1108808619,
+            "region_id":85668549
+        }
+    ],
+    "wof:id":1310357137,
+    "wof:lastmodified":1537585400,
+    "wof:name":"Xalxalqislaq",
+    "wof:parent_id":85668549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.51133,
+    41.0469,
+    47.51133,
+    41.0469
+],
+  "geometry": {"coordinates":[47.51133,41.0469],"type":"Point"}
+}

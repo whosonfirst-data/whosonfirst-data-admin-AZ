@@ -1,0 +1,77 @@
+{
+  "id": 1276157019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.76202,39.17847,46.76202,39.17847",
+    "geom:latitude":39.17847,
+    "geom:longitude":46.76202,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Ikinci Agali",
+    "gn:country_code":"AZ",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148630,
+    "gn:latitude":39.17847,
+    "gn:longitude":46.76202,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"\u0130kinci A\u011fal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130kinci A\u011fal\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0430\u043b\u044b \u0412\u0442\u043e\u0440\u044b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Agaly Vtoryye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148630,
+        "wk:page":"%C4%B0kinci_A%C4%9Fal%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"30e65a58879861e9f52678b470a09f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276157019,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1276157019,
+    "wof:lastmodified":1537585287,
+    "wof:name":"Ikinci Agali",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.76202,
+    39.17847,
+    46.76202,
+    39.17847
+],
+  "geometry": {"coordinates":[46.76202,39.17847],"type":"Point"}
+}

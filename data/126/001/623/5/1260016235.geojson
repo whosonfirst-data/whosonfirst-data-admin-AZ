@@ -1,0 +1,79 @@
+{
+  "id": 1260016235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.54991,39.94304,48.54991,39.94304",
+    "geom:latitude":39.94304,
+    "geom:longitude":48.54991,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Ukrainskiye Otruba",
+    "gn:country_code":"AZ",
+    "gn:dem":-14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147018,
+    "gn:latitude":39.94304,
+    "gn:longitude":48.54991,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Ukrainskiye Otruba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fbil"
+    ],
+    "name:aze_x_variant":[
+        "\u0130yirmi Alt\u0131 Bak\u0131 Komissar\u0131"
+    ],
+    "name:und_x_variant":[
+        "Ukrainskiy",
+        "Ukrainskiye Otruba",
+        "Imeni Dvadtsati Shesti Bakinskikh Komissarov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668433,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147018,
+        "wk:page":"Ukrainskiye_Otruba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"93560259922c11d4f8c508f4a0cf0592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260016235,
+            "macroregion_id":1108808627,
+            "region_id":85668433
+        }
+    ],
+    "wof:id":1260016235,
+    "wof:lastmodified":1537585137,
+    "wof:name":"Ukrainskiye Otruba",
+    "wof:parent_id":85668433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.54991,
+    39.94304,
+    48.54991,
+    39.94304
+],
+  "geometry": {"coordinates":[48.54991,39.94304],"type":"Point"}
+}

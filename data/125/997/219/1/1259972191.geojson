@@ -1,0 +1,70 @@
+{
+  "id": 1259972191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.47208,40.36688,48.47208,40.36688",
+    "geom:latitude":40.36688,
+    "geom:longitude":48.47208,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dzhafarli",
+    "gn:country_code":"AZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560309,
+    "gn:latitude":40.36688,
+    "gn:longitude":48.47208,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Dzhafarli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "C\u0259f\u0259rli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560309
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ceb575c014d54d5e19b2f90b4f9e8d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259972191,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1259972191,
+    "wof:lastmodified":1537585532,
+    "wof:name":"Dzhafarli",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.47208,
+    40.36688,
+    48.47208,
+    40.36688
+],
+  "geometry": {"coordinates":[48.47208,40.36688],"type":"Point"}
+}

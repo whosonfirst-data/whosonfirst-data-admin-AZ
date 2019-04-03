@@ -1,0 +1,68 @@
+{
+  "id": 1343625999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.59944,40.48083,46.59944,40.48083",
+    "geom:latitude":40.48083,
+    "geom:longitude":46.59944,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kelami",
+    "gn:country_code":"AZ",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":801173,
+    "gn:latitude":40.48083,
+    "gn:longitude":46.59944,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Kelami",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":801173,
+        "wk:page":"Kelami"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"32363e1712caa7f94122b23b5343bede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343625999,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1343625999,
+    "wof:lastmodified":1537486682,
+    "wof:name":"Kelami",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.59944,
+    40.48083,
+    46.59944,
+    40.48083
+],
+  "geometry": {"coordinates":[46.59944,40.48083],"type":"Point"}
+}

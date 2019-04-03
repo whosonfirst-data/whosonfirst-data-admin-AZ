@@ -1,0 +1,77 @@
+{
+  "id": 1225876003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.64637,41.59263,48.64637,41.59263",
+    "geom:latitude":41.59263,
+    "geom:longitude":48.64637,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Bala Qusarqislaq",
+    "gn:country_code":"AZ",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585750,
+    "gn:latitude":41.59263,
+    "gn:longitude":48.64637,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Bala Qusarq\u0131\u015flaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bala Qusarq\u0131\u015flaq"
+    ],
+    "name:und_x_variant":[
+        "Kusarkyshlakh",
+        "Bala-Kusiry",
+        "Bala-Kusary",
+        "Balakusarkyshlak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585750,
+        "wk:page":"Bala_Qusarq%C4%B1%C5%9Flaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8018ecb022e965bc0af0cddd8674fcba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225876003,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1225876003,
+    "wof:lastmodified":1537585386,
+    "wof:name":"Bala Qusarqislaq",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.64637000000001,
+    41.59263,
+    48.64637000000001,
+    41.59263
+],
+  "geometry": {"coordinates":[48.64637000000001,41.59263],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243348805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.64678,38.52169,48.64678,38.52169",
+    "geom:latitude":38.52169,
+    "geom:longitude":48.64678,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Palokyat",
+    "gn:country_code":"AZ",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147351,
+    "gn:latitude":38.52169,
+    "gn:longitude":48.64678,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Palokyat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palikesh",
+        "Palokyat",
+        "Palikyash",
+        "P\u0259lik\u0259\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147351,
+        "wk:page":"P%C9%99lik%C9%99%C5%9F"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9acca27a71b21b0a98a2428dab0ef16d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243348805,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1243348805,
+    "wof:lastmodified":1537585166,
+    "wof:name":"Palokyat",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.64678,
+    38.52169,
+    48.64678,
+    38.52169
+],
+  "geometry": {"coordinates":[48.64678,38.52169],"type":"Point"}
+}

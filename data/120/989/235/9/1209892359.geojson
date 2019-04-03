@@ -1,0 +1,75 @@
+{
+  "id": 1209892359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.9286,41.14974,48.9286,41.14974",
+    "geom:latitude":41.14974,
+    "geom:longitude":48.9286,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Ceyranli",
+    "gn:country_code":"AZ",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585318,
+    "gn:latitude":41.14974,
+    "gn:longitude":48.9286,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Ceyranl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ceyranl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Orta Emirkhanly",
+        "Dzheyranly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585318,
+        "wk:page":"Ceyranl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"80c74a17da77fa0f98e1cb7515495ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209892359,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1209892359,
+    "wof:lastmodified":1537585356,
+    "wof:name":"Ceyranli",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.9286,
+    41.14974,
+    48.9286,
+    41.14974
+],
+  "geometry": {"coordinates":[48.9286,41.14974],"type":"Point"}
+}

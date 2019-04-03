@@ -1,0 +1,80 @@
+{
+  "id": 1310036205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.24456,40.50537,46.24456,40.50537",
+    "geom:latitude":40.50537,
+    "geom:longitude":46.24456,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Zurnabad",
+    "gn:country_code":"AZ",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584549,
+    "gn:latitude":40.50537,
+    "gn:longitude":46.24456,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Zurnabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zurnabad"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0443\u0440\u043d\u0430\u0431\u0430\u0434"
+    ],
+    "name:und_x_variant":[
+        "Zhurnadad",
+        "Surnabab",
+        "Zurnadad",
+        "Zurnabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584549,
+        "wk:page":"Zurnabad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"eec40f399664ac9d635df81ca541e089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310036205,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1310036205,
+    "wof:lastmodified":1537585305,
+    "wof:name":"Zurnabad",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.24456,
+    40.50537,
+    46.24456,
+    40.50537
+],
+  "geometry": {"coordinates":[46.24456,40.50537],"type":"Point"}
+}

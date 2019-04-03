@@ -1,0 +1,79 @@
+{
+  "id": 1344118207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.51443,39.62537,46.51443,39.62537",
+    "geom:latitude":39.62537,
+    "geom:longitude":46.51443,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Sus",
+    "gn:country_code":"AZ",
+    "gn:dem":1124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147106,
+    "gn:latitude":39.62537,
+    "gn:longitude":46.51443,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Sus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sus"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u057d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0441"
+    ],
+    "name:und_x_variant":[
+        "Suse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147106
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6ebfccb1bc5ff66549748db7ece8580b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344118207,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1344118207,
+    "wof:lastmodified":1537585144,
+    "wof:name":"Sus",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.51443,
+    39.62537,
+    46.51443,
+    39.62537
+],
+  "geometry": {"coordinates":[46.51443,39.62537],"type":"Point"}
+}

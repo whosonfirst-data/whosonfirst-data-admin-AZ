@@ -1,0 +1,74 @@
+{
+  "id": 1309675557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.93632,41.19648,48.93632,41.19648",
+    "geom:latitude":41.19648,
+    "geom:longitude":48.93632,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Taxtalar",
+    "gn:country_code":"AZ",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8422852,
+    "gn:latitude":41.19648,
+    "gn:longitude":48.93632,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Taxtalar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Taktalar"
+    ],
+    "name:aze_x_variant":[
+        "Taxtalar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8422852,
+        "wk:page":"Taxtalar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8e5a2fb8e09ed14ded917a91e39c056c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309675557,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1309675557,
+    "wof:lastmodified":1537585517,
+    "wof:name":"Taxtalar",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.93632,
+    41.19648,
+    48.93632,
+    41.19648
+],
+  "geometry": {"coordinates":[48.93632,41.19648],"type":"Point"}
+}

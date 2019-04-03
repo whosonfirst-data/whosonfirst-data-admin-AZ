@@ -1,0 +1,75 @@
+{
+  "id": 1226398267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.20978,39.80631,48.20978,39.80631",
+    "geom:latitude":39.80631,
+    "geom:longitude":48.20978,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Kurdmahmudlu",
+    "gn:country_code":"AZ",
+    "gn:dem":-5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147644,
+    "gn:latitude":39.80631,
+    "gn:longitude":48.20978,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"K\u00fcrdmahmudlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyurdmakhmudlu",
+        "Kyur-Makhmudly",
+        "K\u00fcrdmahmudlu",
+        "Gadzhal-Muradly",
+        "Muradally"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668365,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147644,
+        "wk:page":"K%C3%BCrdmahmudlu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"81fc3c54da7135c76c0dabfb7453648a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226398267,
+            "macroregion_id":1108808627,
+            "region_id":85668365
+        }
+    ],
+    "wof:id":1226398267,
+    "wof:lastmodified":1537585193,
+    "wof:name":"Kurdmahmudlu",
+    "wof:parent_id":85668365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.20978,
+    39.80631,
+    48.20978,
+    39.80631
+],
+  "geometry": {"coordinates":[48.20978,39.80631],"type":"Point"}
+}

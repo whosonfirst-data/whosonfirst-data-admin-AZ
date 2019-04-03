@@ -1,0 +1,74 @@
+{
+  "id": 1260113927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.64889,41.45639,48.64889,41.45639",
+    "geom:latitude":41.45639,
+    "geom:longitude":48.64889,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Hacihuseynli",
+    "gn:country_code":"AZ",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824037,
+    "gn:latitude":41.45639,
+    "gn:longitude":48.64889,
+    "gn:modification_date":"2013-05-05",
+    "gn:name":"Hac\u0131h\u00fcseynli",
+    "gn:population":1731,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hac\u0131h\u00fcseynli"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824037,
+        "wk:page":"Hac%C4%B1h%C3%BCseynli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"960aae72654df9b7833b7877ea5bc4c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260113927,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1260113927,
+    "wof:lastmodified":1537585509,
+    "wof:name":"Hacihuseynli",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:population":1731,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.64889,
+    41.45639,
+    48.64889,
+    41.45639
+],
+  "geometry": {"coordinates":[48.64889,41.45639],"type":"Point"}
+}

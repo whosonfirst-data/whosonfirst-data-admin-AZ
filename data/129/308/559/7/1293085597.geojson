@@ -1,0 +1,73 @@
+{
+  "id": 1293085597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.77669,40.33806,49.77669,40.33806",
+    "geom:latitude":40.33806,
+    "geom:longitude":49.77669,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Eibat",
+    "gn:country_code":"AZ",
+    "gn:dem":-18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":863771,
+    "gn:latitude":40.33806,
+    "gn:longitude":49.77669,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Eibat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Heyb\u0259t"
+    ],
+    "name:und_x_variant":[
+        "Eybat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863771
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0d07617d64a0511dbc41765cdc3ee576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293085597,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1293085597,
+    "wof:lastmodified":1537585517,
+    "wof:name":"Eibat",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.77669,
+    40.33806,
+    49.77669,
+    40.33806
+],
+  "geometry": {"coordinates":[49.77669,40.33806],"type":"Point"}
+}

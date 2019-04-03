@@ -1,0 +1,77 @@
+{
+  "id": 1344264389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.98245,40.06899,46.98245,40.06899",
+    "geom:latitude":40.06899,
+    "geom:longitude":46.98245,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sirvanli",
+    "gn:country_code":"AZ",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824381,
+    "gn:latitude":40.06899,
+    "gn:longitude":46.98245,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"\u015eirvanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015eirvanl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0440\u0432\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Shirvanly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824381,
+        "wk:page":"%C5%9Eirvanl%C4%B1%2C_Agdam"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"048cc503cdc26f13cde00641afb50569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344264389,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1344264389,
+    "wof:lastmodified":1537585512,
+    "wof:name":"Sirvanli",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.98245,
+    40.06899,
+    46.98245,
+    40.06899
+],
+  "geometry": {"coordinates":[46.98245,40.06899],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293938749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.83403,40.8322,47.83403,40.8322",
+    "geom:latitude":40.8322,
+    "geom:longitude":47.83403,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Yenikend",
+    "gn:country_code":"AZ",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8720992,
+    "gn:latitude":40.8322,
+    "gn:longitude":47.83403,
+    "gn:modification_date":"2014-04-07",
+    "gn:name":"Yenikend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yenik\u0259nd"
+    ],
+    "name:und_x_variant":[
+        "Stalinkend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8720992
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dbb6e93a3b2c2730614fbd8956b82091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293938749,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1293938749,
+    "wof:lastmodified":1537585541,
+    "wof:name":"Yenikend",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.83403,
+    40.8322,
+    47.83403,
+    40.8322
+],
+  "geometry": {"coordinates":[47.83403,40.8322],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1260345715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.99574,40.10954,45.99574,40.10954",
+    "geom:latitude":40.10954,
+    "geom:longitude":45.99574,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Barmakbina",
+    "gn:country_code":"AZ",
+    "gn:dem":1912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470083,
+    "gn:latitude":40.10954,
+    "gn:longitude":45.99574,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"Barmakbina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Barmakbin\u0259"
+    ],
+    "name:aze_x_variant":[
+        "Barmaqbin\u0259"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u043c\u0430\u043a\u0431\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470083
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bee25b9081d373a7853965e460169514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260345715,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1260345715,
+    "wof:lastmodified":1537585524,
+    "wof:name":"Barmakbina",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.99574000000001,
+    40.10954,
+    45.99574000000001,
+    40.10954
+],
+  "geometry": {"coordinates":[45.99574000000001,40.10954],"type":"Point"}
+}

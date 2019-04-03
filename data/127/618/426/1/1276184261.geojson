@@ -1,0 +1,75 @@
+{
+  "id": 1276184261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.66327,39.0434,48.66327,39.0434",
+    "geom:latitude":39.0434,
+    "geom:longitude":48.66327,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Digah",
+    "gn:country_code":"AZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148197,
+    "gn:latitude":39.0434,
+    "gn:longitude":48.66327,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Digah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Digah"
+    ],
+    "name:und_x_variant":[
+        "Dygya",
+        "Digyakh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148197,
+        "wk:page":"Digah%2C_Masally"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"697812ab0f752e080d0c8b7159909508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276184261,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1276184261,
+    "wof:lastmodified":1537585248,
+    "wof:name":"Digah",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.66327,
+    39.0434,
+    48.66327,
+    39.0434
+],
+  "geometry": {"coordinates":[48.66327,39.0434],"type":"Point"}
+}

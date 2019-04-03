@@ -1,0 +1,70 @@
+{
+  "id": 1310634651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.2387,40.44239,46.2387,40.44239",
+    "geom:latitude":40.44239,
+    "geom:longitude":46.2387,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Tulallar",
+    "gn:country_code":"AZ",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584811,
+    "gn:latitude":40.44239,
+    "gn:longitude":46.2387,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tulallar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tulalar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584811
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ade279011861f98f756a36f4a5657917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310634651,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1310634651,
+    "wof:lastmodified":1537585323,
+    "wof:name":"Tulallar",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.2387,
+    40.44239,
+    46.2387,
+    40.44239
+],
+  "geometry": {"coordinates":[46.2387,40.44239],"type":"Point"}
+}

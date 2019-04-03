@@ -1,0 +1,75 @@
+{
+  "id": 1209188291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.87912,40.56469,46.87912,40.56469",
+    "geom:latitude":40.56469,
+    "geom:longitude":46.87912,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Asagi Balliqaya",
+    "gn:country_code":"AZ",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587061,
+    "gn:latitude":40.56469,
+    "gn:longitude":46.87912,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"A\u015fa\u011f\u0131 Ball\u0131qaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ball\u0131qaya"
+    ],
+    "name:aze_x_variant":[
+        "A\u015fa\u011f\u0131 Ball\u0131qaya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u044b\u043a\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Ballukaya",
+        "Ballykaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587061,
+        "wk:page":"Ball%C4%B1qaya%2C_Goranboy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d4b931316227d67665ebbf41dd72b2b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209188291
+        }
+    ],
+    "wof:id":1209188291,
+    "wof:lastmodified":1537585478,
+    "wof:name":"Asagi Balliqaya",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.87912,
+    40.56469,
+    46.87912,
+    40.56469
+],
+  "geometry": {"coordinates":[46.87912,40.56469],"type":"Point"}
+}

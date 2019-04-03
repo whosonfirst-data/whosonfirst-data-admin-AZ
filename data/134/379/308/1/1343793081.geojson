@@ -1,0 +1,74 @@
+{
+  "id": 1343793081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.63588,41.56298,48.63588,41.56298",
+    "geom:latitude":41.56298,
+    "geom:longitude":48.63588,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Qocaqqazma",
+    "gn:country_code":"AZ",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8621962,
+    "gn:latitude":41.56298,
+    "gn:longitude":48.63588,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Qo\u00e7aqqazma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qo\u00e7aqqazma"
+    ],
+    "name:und_x_variant":[
+        "Kochakkazma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8621962,
+        "wk:page":"Qo%C3%A7aqqazma"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"02bed47f9d218ef2ea5ad2ce7d554224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343793081,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1343793081,
+    "wof:lastmodified":1537585535,
+    "wof:name":"Qocaqqazma",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.63588,
+    41.56298,
+    48.63588,
+    41.56298
+],
+  "geometry": {"coordinates":[48.63588,41.56298],"type":"Point"}
+}

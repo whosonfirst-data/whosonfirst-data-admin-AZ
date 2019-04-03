@@ -1,0 +1,74 @@
+{
+  "id": 1326834145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.6656,40.48133,49.6656,40.48133",
+    "geom:latitude":40.48133,
+    "geom:longitude":49.6656,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Verkhniy Guzdak",
+    "gn:country_code":"AZ",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":823985,
+    "gn:latitude":40.48133,
+    "gn:longitude":49.6656,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Verkhniy Guzdak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 G\u00fczd\u0259k"
+    ],
+    "name:und_x_variant":[
+        "Ashagy Gyuzdek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":823985,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_G%C3%BCzd%C9%99k"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7749aeab35e842053049ad4694ee14e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326834145,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1326834145,
+    "wof:lastmodified":1537585508,
+    "wof:name":"Verkhniy Guzdak",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.6656,
+    40.48133,
+    49.6656,
+    40.48133
+],
+  "geometry": {"coordinates":[49.6656,40.48133],"type":"Point"}
+}

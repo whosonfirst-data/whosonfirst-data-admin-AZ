@@ -1,0 +1,85 @@
+{
+  "id": 1193047575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.69722,39.30441,46.69722,39.30441",
+    "geom:latitude":39.30441,
+    "geom:longitude":46.69722,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Asagi Mollu",
+    "gn:country_code":"AZ",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148467,
+    "gn:latitude":39.30441,
+    "gn:longitude":46.69722,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"A\u015fa\u011f\u0131 Mollu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 Mollu"
+    ],
+    "name:hye_x_preferred":[
+        "K\u2019ashunik\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0561\u0577\u0578\u0582\u0576\u056b\u0584"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0448\u0430\u0433\u044b-\u041c\u043e\u043b\u043b\u0443"
+    ],
+    "name:und_x_variant":[
+        "Molly",
+        "Ashaga Molly",
+        "Ashagy-Mollu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148467,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_Mollu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3971d04387b1a9fdcb01a6e5ec19ca2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193047575,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1193047575,
+    "wof:lastmodified":1537585273,
+    "wof:name":"Asagi Mollu",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.69722,
+    39.30441,
+    46.69722,
+    39.30441
+],
+  "geometry": {"coordinates":[46.69722,39.30441],"type":"Point"}
+}

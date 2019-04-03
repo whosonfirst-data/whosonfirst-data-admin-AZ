@@ -1,0 +1,71 @@
+{
+  "id": 1326459963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.52315,41.72758,48.52315,41.72758",
+    "geom:latitude":41.72758,
+    "geom:longitude":48.52315,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Adzhakhuroba",
+    "gn:country_code":"AZ",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587421,
+    "gn:latitude":41.72758,
+    "gn:longitude":48.52315,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Adzhakhuroba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u018fc\u0259xuroba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587421,
+        "wk:page":"%C6%8Fc%C9%99xuroba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c9abea6725c26936c9fff702751498d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326459963,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1326459963,
+    "wof:lastmodified":1537585502,
+    "wof:name":"Adzhakhuroba",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.52315,
+    41.72758,
+    48.52315,
+    41.72758
+],
+  "geometry": {"coordinates":[48.52315,41.72758],"type":"Point"}
+}

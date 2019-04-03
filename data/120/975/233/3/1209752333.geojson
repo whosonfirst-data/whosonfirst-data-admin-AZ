@@ -1,0 +1,68 @@
+{
+  "id": 1209752333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.60433,40.19961,46.60433,40.19961",
+    "geom:latitude":40.19961,
+    "geom:longitude":46.60433,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Chinari",
+    "gn:country_code":"AZ",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":801233,
+    "gn:latitude":40.19961,
+    "gn:longitude":46.60433,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Chinari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":801233,
+        "wk:page":"Chinari%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8ed96b599467b098b26632c2d41acb2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209752333,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1209752333,
+    "wof:lastmodified":1537486683,
+    "wof:name":"Chinari",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.60433,
+    40.19961,
+    46.60433,
+    40.19961
+],
+  "geometry": {"coordinates":[46.60433,40.19961],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243248963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8013,38.45326,48.8013,38.45326",
+    "geom:latitude":38.45326,
+    "geom:longitude":48.8013,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Alasa",
+    "gn:country_code":"AZ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148579,
+    "gn:latitude":38.45326,
+    "gn:longitude":48.8013,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Ala\u015fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alasha",
+        "Alashakend",
+        "Ala\u015fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148579,
+        "wk:page":"Ala%C5%9Fa"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e6e6a0baffe65978d3d7dca203c219f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243248963,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1243248963,
+    "wof:lastmodified":1537585283,
+    "wof:name":"Alasa",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8013,
+    38.45326,
+    48.8013,
+    38.45326
+],
+  "geometry": {"coordinates":[48.8013,38.45326],"type":"Point"}
+}

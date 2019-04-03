@@ -1,0 +1,81 @@
+{
+  "id": 1310192211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.8323,39.70113,47.8323,39.70113",
+    "geom:latitude":39.70113,
+    "geom:longitude":47.8323,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Asiqalilar",
+    "gn:country_code":"AZ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146955,
+    "gn:latitude":39.70113,
+    "gn:longitude":47.8323,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"A\u015f\u0131qal\u0131lar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015f\u0131qal\u0131lar"
+    ],
+    "name:aze_x_variant":[
+        "A\u015fqalar"
+    ],
+    "name:und_x_variant":[
+        "Yeddybugukskiy",
+        "Gadzhi-Kharrar",
+        "Ashkallar",
+        "Ashgalar",
+        "Ashygalylar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668365,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146955,
+        "wk:page":"A%C5%9F%C4%B1qal%C4%B1lar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d53930304747b15815b8f4dbddda1832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310192211,
+            "macroregion_id":1108808627,
+            "region_id":85668365
+        }
+    ],
+    "wof:id":1310192211,
+    "wof:lastmodified":1537585132,
+    "wof:name":"Asiqalilar",
+    "wof:parent_id":85668365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.8323,
+    39.70113,
+    47.8323,
+    39.70113
+],
+  "geometry": {"coordinates":[47.8323,39.70113],"type":"Point"}
+}

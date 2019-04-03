@@ -1,0 +1,72 @@
+{
+  "id": 1226376625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.09552,40.74144,47.09552,40.74144",
+    "geom:latitude":40.74144,
+    "geom:longitude":47.09552,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Havarli",
+    "gn:country_code":"AZ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586498,
+    "gn:latitude":40.74144,
+    "gn:longitude":47.09552,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Havarl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gavarly",
+        "Havarl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668225,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586498,
+        "wk:page":"Havarl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5d049329e324df179bc0eb428b10df38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226376625,
+            "macroregion_id":1108808627,
+            "region_id":85668225
+        }
+    ],
+    "wof:id":1226376625,
+    "wof:lastmodified":1537585438,
+    "wof:name":"Havarli",
+    "wof:parent_id":85668225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.09552,
+    40.74144,
+    47.09552,
+    40.74144
+],
+  "geometry": {"coordinates":[47.09552,40.74144],"type":"Point"}
+}

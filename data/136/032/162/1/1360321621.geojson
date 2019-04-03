@@ -1,0 +1,73 @@
+{
+  "id": 1360321621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.67539,41.32873,48.67539,41.32873",
+    "geom:latitude":41.32873,
+    "geom:longitude":48.67539,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Pirvahid",
+    "gn:country_code":"AZ",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585255,
+    "gn:latitude":41.32873,
+    "gn:longitude":48.67539,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Pirvahid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pirvagid",
+        "Pirvaid",
+        "Pirvahid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585255,
+        "wk:page":"Pirvahid"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"80bafe7b1a5147458d1d476c7c17b0b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360321621,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1360321621,
+    "wof:lastmodified":1537585352,
+    "wof:name":"Pirvahid",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.67539,
+    41.32873,
+    48.67539,
+    41.32873
+],
+  "geometry": {"coordinates":[48.67539,41.32873],"type":"Point"}
+}

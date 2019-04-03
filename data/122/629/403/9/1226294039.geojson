@@ -1,0 +1,76 @@
+{
+  "id": 1226294039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.36409,41.11443,45.36409,41.11443",
+    "geom:latitude":41.11443,
+    "geom:longitude":45.36409,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Azizbeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587111,
+    "gn:latitude":41.11443,
+    "gn:longitude":45.36409,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Azizbeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "H\u00fcseynb\u0259yli"
+    ],
+    "name:und_x_variant":[
+        "Azizbeyly",
+        "Azizbeyli",
+        "\u018fzizb\u0259yli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668195,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587111,
+        "wk:page":"%C6%8Fzizb%C9%99yli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2b2b6bf7c61fd23a51f2556d33ceeda1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226294039,
+            "macroregion_id":1108808609,
+            "region_id":85668195
+        }
+    ],
+    "wof:id":1226294039,
+    "wof:lastmodified":1537585481,
+    "wof:name":"Azizbeyli",
+    "wof:parent_id":85668195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.36409,
+    41.11443,
+    45.36409,
+    41.11443
+],
+  "geometry": {"coordinates":[45.36409,41.11443],"type":"Point"}
+}

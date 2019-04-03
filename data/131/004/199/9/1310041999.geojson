@@ -1,0 +1,70 @@
+{
+  "id": 1310041999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.21209,40.9072,47.21209,40.9072",
+    "geom:latitude":40.9072,
+    "geom:longitude":47.21209,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Sheki",
+    "gn:country_code":"AZ",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8698835,
+    "gn:latitude":40.9072,
+    "gn:longitude":47.21209,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Sheki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015e\u0259ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8698835
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7cca40e3ddb13be62b00aa25d9ea376b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310041999,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1310041999,
+    "wof:lastmodified":1537585540,
+    "wof:name":"Sheki",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.21209,
+    40.9072,
+    47.21209,
+    40.9072
+],
+  "geometry": {"coordinates":[47.21209,40.9072],"type":"Point"}
+}

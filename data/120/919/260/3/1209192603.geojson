@@ -1,0 +1,67 @@
+{
+  "id": 1209192603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.04848,40.45435,47.04848,40.45435",
+    "geom:latitude":40.45435,
+    "geom:longitude":47.04848,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Qayali",
+    "gn:country_code":"AZ",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8548998,
+    "gn:latitude":40.45435,
+    "gn:longitude":47.04848,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Qayal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qayal\u0131"
+    ],
+    "name:und_x_variant":[
+        "Kayaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8548998
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"758410cc4e17447b5a061106e953397a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209192603
+        }
+    ],
+    "wof:id":1209192603,
+    "wof:lastmodified":1537585531,
+    "wof:name":"Qayali",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.04848,
+    40.45435,
+    47.04848,
+    40.45435
+],
+  "geometry": {"coordinates":[47.04848,40.45435],"type":"Point"}
+}

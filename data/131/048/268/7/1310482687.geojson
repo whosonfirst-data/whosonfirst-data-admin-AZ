@@ -1,0 +1,81 @@
+{
+  "id": 1310482687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1962,40.3187,47.1962,40.3187",
+    "geom:latitude":40.3187,
+    "geom:longitude":47.1962,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Qarayusifli",
+    "gn:country_code":"AZ",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586134,
+    "gn:latitude":40.3187,
+    "gn:longitude":47.1962,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Qarayusifli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qarayusifli"
+    ],
+    "name:eng_x_preferred":[
+        "Qarayusifli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u044e\u0441\u0438\u0444\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Karayusifli",
+        "Karayusuflu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586134,
+        "wk:page":"Qarayusifli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f09f70dac23d388e3dc993335d5053a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310482687,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1310482687,
+    "wof:lastmodified":1537585411,
+    "wof:name":"Qarayusifli",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1962,
+    40.3187,
+    47.1962,
+    40.3187
+],
+  "geometry": {"coordinates":[47.1962,40.3187],"type":"Point"}
+}

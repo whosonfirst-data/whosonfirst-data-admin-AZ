@@ -1,0 +1,94 @@
+{
+  "id": 1243103917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.08134,39.52788,47.08134,39.52788",
+    "geom:latitude":39.52788,
+    "geom:longitude":47.08134,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Melikcanli",
+    "gn:country_code":"AZ",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147529,
+    "gn:latitude":39.52788,
+    "gn:longitude":47.08134,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Melikcanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Melikcanl\u0131"
+    ],
+    "name:aze_x_variant":[
+        "M\u0259likcanl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Melik\u2019janlu"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0565\u056c\u056b\u0584\u057b\u0561\u0576\u056c\u0578\u0582",
+        "\u0544\u0565\u056c\u056b\u0584\u057b\u0561\u0576",
+        "Melik\u2019ashen",
+        "\u0544\u0565\u056c\u056b\u0584\u0561\u0577\u0565\u0576",
+        "Melik\u2019ch\u2019an"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u0438\u043a\u0434\u0436\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Melikdganlou",
+        "Melikashen",
+        "Milikdzhanlu",
+        "Melikdzhanly",
+        "\u041c\u0435\u043b\u0438\u043a\u0434\u0436\u0430\u043d\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147529,
+        "wk:page":"Melikcanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"72fa77e6c43af7d22b21190828d5be18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243103917,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1243103917,
+    "wof:lastmodified":1537585183,
+    "wof:name":"Melikcanli",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.08134,
+    39.52788,
+    47.08134,
+    39.52788
+],
+  "geometry": {"coordinates":[47.08134,39.52788],"type":"Point"}
+}

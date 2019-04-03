@@ -1,0 +1,72 @@
+{
+  "id": 1225926869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.42822,39.1948,48.42822,39.1948",
+    "geom:latitude":39.1948,
+    "geom:longitude":48.42822,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Astanli",
+    "gn:country_code":"AZ",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148447,
+    "gn:latitude":39.1948,
+    "gn:longitude":48.42822,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Astanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Astanly",
+        "Astanl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148447,
+        "wk:page":"Astanl%C4%B1%2C_Jalilabad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ce8836b2b286f7b279d225fd4a878425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225926869,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1225926869,
+    "wof:lastmodified":1537585271,
+    "wof:name":"Astanli",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.42822,
+    39.1948,
+    48.42822,
+    39.1948
+],
+  "geometry": {"coordinates":[48.42822,39.1948],"type":"Point"}
+}

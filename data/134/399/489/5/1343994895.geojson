@@ -1,0 +1,68 @@
+{
+  "id": 1343994895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.57503,41.392,48.57503,41.392",
+    "geom:latitude":41.392,
+    "geom:longitude":48.57503,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Zizik",
+    "gn:country_code":"AZ",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584559,
+    "gn:latitude":41.392,
+    "gn:longitude":48.57503,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Zizik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584559,
+        "wk:page":"Zizik%2C_Quba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1ac98f550a859d207344b25e6dd9b65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343994895,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1343994895,
+    "wof:lastmodified":1537486581,
+    "wof:name":"Zizik",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.57503,
+    41.392,
+    48.57503,
+    41.392
+],
+  "geometry": {"coordinates":[48.57503,41.392],"type":"Point"}
+}

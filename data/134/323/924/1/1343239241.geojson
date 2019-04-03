@@ -1,0 +1,81 @@
+{
+  "id": 1343239241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.89954,39.77171,47.89954,39.77171",
+    "geom:latitude":39.77171,
+    "geom:longitude":47.89954,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Imamverdili",
+    "gn:country_code":"AZ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147994,
+    "gn:latitude":39.77171,
+    "gn:longitude":47.89954,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"\u0130mamverdili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130mamverdili"
+    ],
+    "name:aze_x_variant":[
+        "\u0130manverdili"
+    ],
+    "name:und_x_variant":[
+        "Birinci \u0130mamverdili",
+        "Imash-Verdylyar",
+        "Imamverdili Pervoye",
+        "Imamverdili",
+        "Ala-Bekly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668313,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147994,
+        "wk:page":"%C4%B0mamverdili"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"70493d1804fd710299d9128f3c9507c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343239241,
+            "macroregion_id":1108808627,
+            "region_id":85668313
+        }
+    ],
+    "wof:id":1343239241,
+    "wof:lastmodified":1537585229,
+    "wof:name":"Imamverdili",
+    "wof:parent_id":85668313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.89954,
+    39.77171,
+    47.89954,
+    39.77171
+],
+  "geometry": {"coordinates":[47.89954,39.77171],"type":"Point"}
+}

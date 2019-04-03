@@ -1,0 +1,72 @@
+{
+  "id": 1276225073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.41185,40.70135,48.41185,40.70135",
+    "geom:latitude":40.70135,
+    "geom:longitude":48.41185,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Khasidere",
+    "gn:country_code":"AZ",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585957,
+    "gn:latitude":40.70135,
+    "gn:longitude":48.41185,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Khasidere",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kubalikend",
+        "Khasidere",
+        "Xas\u0131d\u0259r\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585957
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1e6e38c1e30b4cfce056d5cbc71c5e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276225073,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1276225073,
+    "wof:lastmodified":1537585399,
+    "wof:name":"Khasidere",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.41185,
+    40.70135,
+    48.41185,
+    40.70135
+],
+  "geometry": {"coordinates":[48.41185,40.70135],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309939563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.47738,39.8665,48.47738,39.8665",
+    "geom:latitude":39.8665,
+    "geom:longitude":48.47738,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Mamedabad",
+    "gn:country_code":"AZ",
+    "gn:dem":-15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147570,
+    "gn:latitude":39.8665,
+    "gn:longitude":48.47738,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Mamedabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0259mm\u0259dabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668433,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147570,
+        "wk:page":"M%C9%99mm%C9%99dabad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fd4faaf8999ff5d67f6a9b2134d2bff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309939563,
+            "macroregion_id":1108808627,
+            "region_id":85668433
+        }
+    ],
+    "wof:id":1309939563,
+    "wof:lastmodified":1537585186,
+    "wof:name":"Mamedabad",
+    "wof:parent_id":85668433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.47738,
+    39.8665,
+    48.47738,
+    39.8665
+],
+  "geometry": {"coordinates":[48.47738,39.8665],"type":"Point"}
+}

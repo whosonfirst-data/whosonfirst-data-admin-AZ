@@ -1,0 +1,68 @@
+{
+  "id": 1276796305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.58333,41.48333,48.58333,41.48333",
+    "geom:latitude":41.48333,
+    "geom:longitude":48.58333,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Kazioba",
+    "gn:country_code":"AZ",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586080,
+    "gn:latitude":41.48333,
+    "gn:longitude":48.58333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Kazioba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586080,
+        "wk:page":"Kazioba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f7c9fa25920afb242b75d9f2d9905daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276796305,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1276796305,
+    "wof:lastmodified":1537486630,
+    "wof:name":"Kazioba",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.58333,
+    41.48333,
+    48.58333,
+    41.48333
+],
+  "geometry": {"coordinates":[48.58333,41.48333],"type":"Point"}
+}

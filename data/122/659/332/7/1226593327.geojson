@@ -1,0 +1,74 @@
+{
+  "id": 1226593327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.66921,38.97205,48.66921,38.97205",
+    "geom:latitude":38.97205,
+    "geom:longitude":48.66921,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Dellyakoba",
+    "gn:country_code":"AZ",
+    "gn:dem":-6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148214,
+    "gn:latitude":38.97205,
+    "gn:longitude":48.66921,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Dellyakoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u0259ll\u0259koba"
+    ],
+    "name:und_x_variant":[
+        "Dalenoba",
+        "Dellyakoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148214
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fdce43d30656edaddf906193d4e21e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226593327,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1226593327,
+    "wof:lastmodified":1537585250,
+    "wof:name":"Dellyakoba",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.66921,
+    38.97205,
+    48.66921,
+    38.97205
+],
+  "geometry": {"coordinates":[48.66921,38.97205],"type":"Point"}
+}

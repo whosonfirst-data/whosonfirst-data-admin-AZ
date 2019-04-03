@@ -1,0 +1,73 @@
+{
+  "id": 1209423979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.79988,40.11662,47.79988,40.11662",
+    "geom:latitude":40.11662,
+    "geom:longitude":47.79988,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kandabil",
+    "gn:country_code":"AZ",
+    "gn:dem":-15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586485,
+    "gn:latitude":40.11662,
+    "gn:longitude":47.79988,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"K\u0259nd\u0259bil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "K\u01ddnd\u01ddbil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u043d\u0434\u0430\u0431\u0438\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Gendabil\u2019",
+        "Gendebil\u2019",
+        "K\u0259nd\u0259bil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586485,
+        "wk:page":"K%C9%99nd%C9%99bil"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"603c327fc0b397bd14ef9bac521c7463",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209423979
+        }
+    ],
+    "wof:id":1209423979,
+    "wof:lastmodified":1537585437,
+    "wof:name":"Kandabil",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.79988,
+    40.11662000000001,
+    47.79988,
+    40.11662000000001
+],
+  "geometry": {"coordinates":[47.79988,40.11662000000001],"type":"Point"}
+}

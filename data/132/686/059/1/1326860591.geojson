@@ -1,0 +1,73 @@
+{
+  "id": 1326860591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.45549,38.67389,48.45549,38.67389",
+    "geom:latitude":38.67389,
+    "geom:longitude":48.45549,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Razgov",
+    "gn:country_code":"AZ",
+    "gn:dem":1794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147297,
+    "gn:latitude":38.67389,
+    "gn:longitude":48.45549,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Raz\u011fov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Raz\u011fov"
+    ],
+    "name:und_x_variant":[
+        "Razqov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668403,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147297
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"22fad766663d69f79e06401f1c5fc7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326860591,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":1326860591,
+    "wof:lastmodified":1537585162,
+    "wof:name":"Razgov",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.45549000000001,
+    38.67389,
+    48.45549000000001,
+    38.67389
+],
+  "geometry": {"coordinates":[48.45549000000001,38.67389],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1293717791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.84096,39.74063,46.84096,39.74063",
+    "geom:latitude":39.74063,
+    "geom:longitude":46.84096,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Asagi Yemiscan",
+    "gn:country_code":"AZ",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147418,
+    "gn:latitude":39.74063,
+    "gn:longitude":46.84096,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"A\u015fa\u011f\u0131 Yemi\u015fcan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 Yemi\u015fcan"
+    ],
+    "name:aze_x_variant":[
+        "Nerkin S\u0131znek"
+    ],
+    "name:hye_x_preferred":[
+        "Sznek"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u0566\u0576\u0565\u056f",
+        "Nerk\u2019in Sznek",
+        "\u0546\u0565\u0580\u0584\u056b\u0576 \u054d\u0566\u0576\u0565\u056f",
+        "Nerk\u2019in Sznek\u2019",
+        "\u0546\u0565\u0580\u0584\u056b\u0576 \u054d\u0566\u0576\u0565\u0584"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0440\u043a\u0438\u043d-\u0421\u044b\u0437\u043d\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Nerkin-Siznek",
+        "Nerkin-Syznek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147418,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_Yemi%C5%9Fcan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c994f56e8be87a7dd538e088e69f309d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293717791,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1293717791,
+    "wof:lastmodified":1537585172,
+    "wof:name":"Asagi Yemiscan",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.84096,
+    39.74063,
+    46.84096,
+    39.74063
+],
+  "geometry": {"coordinates":[46.84096,39.74063],"type":"Point"}
+}

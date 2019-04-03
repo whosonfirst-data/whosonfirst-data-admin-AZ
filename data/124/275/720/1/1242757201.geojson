@@ -1,0 +1,76 @@
+{
+  "id": 1242757201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.58758,39.502,48.58758,39.502",
+    "geom:latitude":39.502,
+    "geom:longitude":48.58758,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Cinarli",
+    "gn:country_code":"AZ",
+    "gn:dem":-15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147073,
+    "gn:latitude":39.502,
+    "gn:longitude":48.58758,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"\u00c7inarl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7inarl\u0131"
+    ],
+    "name:aze_x_variant":[
+        "Novoqrajdanovka"
+    ],
+    "name:und_x_variant":[
+        "Novograzhdanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668317,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147073
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d6581ce2f4422bf2bb507ba25b808bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242757201,
+            "macroregion_id":1108808627,
+            "region_id":85668317
+        }
+    ],
+    "wof:id":1242757201,
+    "wof:lastmodified":1537585141,
+    "wof:name":"Cinarli",
+    "wof:parent_id":85668317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.58758,
+    39.502,
+    48.58758,
+    39.502
+],
+  "geometry": {"coordinates":[48.58758,39.502],"type":"Point"}
+}

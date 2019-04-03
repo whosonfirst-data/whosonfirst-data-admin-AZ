@@ -1,0 +1,74 @@
+{
+  "id": 1327164989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.47528,39.15644,46.47528,39.15644",
+    "geom:latitude":39.15644,
+    "geom:longitude":46.47528,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Canbar",
+    "gn:country_code":"AZ",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148150,
+    "gn:latitude":39.15644,
+    "gn:longitude":46.47528,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Canbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Canbar"
+    ],
+    "name:und_x_variant":[
+        "DZhanbar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148150,
+        "wk:page":"Canbar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"905b0f15f042bba3fee101f4ac72a730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327164989,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1327164989,
+    "wof:lastmodified":1537585244,
+    "wof:name":"Canbar",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.47528,
+    39.15644,
+    46.47528,
+    39.15644
+],
+  "geometry": {"coordinates":[46.47528,39.15644],"type":"Point"}
+}

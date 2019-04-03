@@ -1,0 +1,72 @@
+{
+  "id": 1327287493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.46932,39.2506,45.46932,39.2506",
+    "geom:latitude":39.2506,
+    "geom:longitude":45.46932,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"7669114.0",
+    "gn:asciiname":"Zeynaddin",
+    "gn:country_code":"AZ",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146884,
+    "gn:latitude":39.2506,
+    "gn:longitude":45.46932,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Zeynaddin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zeyn\u0259ddin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668673,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146884,
+        "wk:page":"Zeyn%C9%99ddin"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2d029d62253f76732ee3595659148f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327287493,
+            "macroregion_id":1108808617,
+            "region_id":85668673
+        }
+    ],
+    "wof:id":1327287493,
+    "wof:lastmodified":1537585124,
+    "wof:name":"Zeynaddin",
+    "wof:parent_id":85668673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.46932,
+    39.2506,
+    45.46932,
+    39.2506
+],
+  "geometry": {"coordinates":[45.46932,39.2506],"type":"Point"}
+}

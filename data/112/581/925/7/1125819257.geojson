@@ -1,0 +1,87 @@
+{
+  "id": 1125819257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.21414,39.33667,49.21414,39.33667",
+    "geom:latitude":39.33667,
+    "geom:longitude":49.21414,
+    "gn:gn_country":"AZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4308,
+    "gn:population":4308,
+    "iso:country":"AZ",
+    "lbl:latitude":39.33667,
+    "lbl:longitude":49.21414,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "\u0130yirmi Alt\u0131 Bak\u0131 Komissar\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0441\u0430\u043d\u0430\u0431\u0430\u0434"
+    ],
+    "name:unk_x_variant":[
+        "H\u0259s\u0259nabad"
+    ],
+    "qs_pg:aaroncc":"AZ",
+    "qs_pg:gn_country":"AZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":393443,
+    "qs_pg:gn_pop":4308,
+    "qs_pg:name":"Sovetabad",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":124561,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668409,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":393443,
+        "qs_pg:id":124561
+    },
+    "wof:country":"AZ",
+    "wof:created":1497291978,
+    "wof:geomhash":"9ceb06afc5da97a1798f6fd3ba0a1afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1125819257,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1125819257,
+    "wof:lastmodified":1509393989,
+    "wof:name":"Sovetabad",
+    "wof:parent_id":85668409,
+    "wof:placetype":"locality",
+    "wof:population":4308,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.21414,
+    39.33667,
+    49.21414,
+    39.33667
+],
+  "geometry": {"coordinates":[49.21414,39.33667],"type":"Point"}
+}

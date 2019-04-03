@@ -1,0 +1,65 @@
+{
+  "id": 1209151039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.83764,40.78494,47.83764,40.78494",
+    "geom:latitude":40.78494,
+    "geom:longitude":47.83764,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Sileyli",
+    "gn:country_code":"AZ",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584960,
+    "gn:latitude":40.78494,
+    "gn:longitude":47.83764,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Sileyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seleyli",
+        "Sil\u0259yli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584960
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0e9cea9a99bd477f94be9c6290bcef6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209151039
+        }
+    ],
+    "wof:id":1209151039,
+    "wof:lastmodified":1537585333,
+    "wof:name":"Sileyli",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.83764,
+    40.78494,
+    47.83764,
+    40.78494
+],
+  "geometry": {"coordinates":[47.83764,40.78494],"type":"Point"}
+}

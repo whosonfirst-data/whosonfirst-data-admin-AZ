@@ -1,0 +1,73 @@
+{
+  "id": 1343695843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.00972,40.39717,47.00972,40.39717",
+    "geom:latitude":40.39717,
+    "geom:longitude":47.00972,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Hacili",
+    "gn:country_code":"AZ",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586539,
+    "gn:latitude":40.39717,
+    "gn:longitude":47.00972,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Hac\u0131l\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hac\u0131l\u0131"
+    ],
+    "name:und_x_variant":[
+        "Gadzhyly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586539
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"628625855ff7bcf1866351994a377de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343695843,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1343695843,
+    "wof:lastmodified":1537585441,
+    "wof:name":"Hacili",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.00972,
+    40.39717,
+    47.00972,
+    40.39717
+],
+  "geometry": {"coordinates":[47.00972,40.39717],"type":"Point"}
+}

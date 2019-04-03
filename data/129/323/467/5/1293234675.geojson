@@ -1,0 +1,85 @@
+{
+  "id": 1293234675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.42139,39.3867,46.42139,39.3867",
+    "geom:latitude":39.3867,
+    "geom:longitude":46.42139,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Seytas",
+    "gn:country_code":"AZ",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147221,
+    "gn:latitude":39.3867,
+    "gn:longitude":46.42139,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Seytas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Seytas"
+    ],
+    "name:hye_x_preferred":[
+        "Seyt\u2019as"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u0565\u0575\u0569\u0561\u057d",
+        "Zeyt\u2019a",
+        "\u0536\u0565\u0575\u0569\u0561"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0439\u0442\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "\u0421\u0435\u0439\u0442\u0430\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147221,
+        "wk:page":"Seytas"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"af7a60618fd41928036d4ee6b14e19ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293234675,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1293234675,
+    "wof:lastmodified":1537585155,
+    "wof:name":"Seytas",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.42139,
+    39.3867,
+    46.42139,
+    39.3867
+],
+  "geometry": {"coordinates":[46.42139,39.3867],"type":"Point"}
+}

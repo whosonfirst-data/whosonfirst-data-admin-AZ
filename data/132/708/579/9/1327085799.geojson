@@ -1,0 +1,67 @@
+{
+  "id": 1327085799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.65296,40.85927,47.65296,40.85927",
+    "geom:latitude":40.85927,
+    "geom:longitude":47.65296,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Tyurkman",
+    "gn:country_code":"AZ",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800714,
+    "gn:latitude":40.85927,
+    "gn:longitude":47.65296,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Tyurkman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800714
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dfd74b8be5500d5d64557daa9e7b0917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327085799,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1327085799,
+    "wof:lastmodified":1536683543,
+    "wof:name":"Tyurkman",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.65296,
+    40.85927,
+    47.65296,
+    40.85927
+],
+  "geometry": {"coordinates":[47.65296,40.85927],"type":"Point"}
+}

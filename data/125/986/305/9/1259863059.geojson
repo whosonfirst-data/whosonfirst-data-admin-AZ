@@ -1,0 +1,88 @@
+{
+  "id": 1259863059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.87332,39.42024,46.87332,39.42024",
+    "geom:latitude":39.42024,
+    "geom:longitude":46.87332,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Isaqli",
+    "gn:country_code":"AZ",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147975,
+    "gn:latitude":39.42024,
+    "gn:longitude":46.87332,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0130saql\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130saql\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Isak\u2019ly"
+    ],
+    "name:hye_x_variant":[
+        "\u053b\u057d\u0561\u0584\u056c\u0568",
+        "Sahakashen",
+        "\u054d\u0561\u0570\u0561\u056f\u0561\u0577\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u0430\u043a\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Isakly",
+        "Isak-Kishtak",
+        "Isak-Kishlak",
+        "\u0418\u0441\u0430\u043a\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147975,
+        "wk:page":"Isaql%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a35ec535a216af75fb4de11387f5d8f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259863059,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1259863059,
+    "wof:lastmodified":1537585228,
+    "wof:name":"Isaqli",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.87332,
+    39.42024,
+    46.87332,
+    39.42024
+],
+  "geometry": {"coordinates":[46.87332,39.42024],"type":"Point"}
+}

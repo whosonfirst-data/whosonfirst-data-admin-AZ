@@ -1,0 +1,70 @@
+{
+  "id": 1309987281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.18694,40.45,47.18694,40.45",
+    "geom:latitude":40.45,
+    "geom:longitude":47.18694,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mollalar",
+    "gn:country_code":"AZ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585476,
+    "gn:latitude":40.45,
+    "gn:longitude":47.18694,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Mollalar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mollalar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585476
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"84dd56ed9adeb6a35974e799805d774c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309987281,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1309987281,
+    "wof:lastmodified":1537585367,
+    "wof:name":"Mollalar",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.18694,
+    40.45,
+    47.18694,
+    40.45
+],
+  "geometry": {"coordinates":[47.18694,40.45],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327169199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.72631,41.06663,48.72631,41.06663",
+    "geom:latitude":41.06663,
+    "geom:longitude":48.72631,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Komurdahna",
+    "gn:country_code":"AZ",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9887926,
+    "gn:latitude":41.06663,
+    "gn:longitude":48.72631,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"K\u00f6m\u00fcrd\u0259hn\u0259",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00f6m\u00fcrd\u0259hn\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9887926
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7542d6bcbee28694efd74db3a7d7393b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327169199,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1327169199,
+    "wof:lastmodified":1537585543,
+    "wof:name":"Komurdahna",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.72631,
+    41.06663,
+    48.72631,
+    41.06663
+],
+  "geometry": {"coordinates":[48.72631,41.06663],"type":"Point"}
+}

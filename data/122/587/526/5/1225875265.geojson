@@ -1,0 +1,70 @@
+{
+  "id": 1225875265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.68261,40.79846,45.68261,40.79846",
+    "geom:latitude":40.79846,
+    "geom:longitude":45.68261,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Avdal",
+    "gn:country_code":"AZ",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607088,
+    "gn:latitude":40.79846,
+    "gn:longitude":45.68261,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Avdal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Avdal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607088
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"11e64ef48d2e46956b69454a6fc26205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225875265,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1225875265,
+    "wof:lastmodified":1537585533,
+    "wof:name":"Avdal",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.68261,
+    40.79846,
+    45.68261,
+    40.79846
+],
+  "geometry": {"coordinates":[45.68261,40.79846],"type":"Point"}
+}

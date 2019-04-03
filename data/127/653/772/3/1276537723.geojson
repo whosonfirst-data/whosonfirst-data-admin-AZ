@@ -1,0 +1,79 @@
+{
+  "id": 1276537723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.38597,41.6942,46.38597,41.6942",
+    "geom:latitude":41.6942,
+    "geom:longitude":46.38597,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Qazma",
+    "gn:country_code":"AZ",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586079,
+    "gn:latitude":41.6942,
+    "gn:longitude":46.38597,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Qazma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qazma"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u043c\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kazma",
+        "Kazmatabun",
+        "Qazma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586079,
+        "wk:page":"Qazma"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c581f12cba67fb24591358d9a66eaa5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276537723,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1276537723,
+    "wof:lastmodified":1537585408,
+    "wof:name":"Qazma",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.38597,
+    41.6942,
+    46.38597,
+    41.6942
+],
+  "geometry": {"coordinates":[46.38597,41.6942],"type":"Point"}
+}

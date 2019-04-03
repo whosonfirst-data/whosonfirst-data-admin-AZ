@@ -1,0 +1,71 @@
+{
+  "id": 1276581111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.95078,41.41955,48.95078,41.41955",
+    "geom:latitude":41.41955,
+    "geom:longitude":48.95078,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Arab-Babaly",
+    "gn:country_code":"AZ",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587243,
+    "gn:latitude":41.41955,
+    "gn:longitude":48.95078,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Arab-Babaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u018fr\u0259b",
+        "Arab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587243
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3f51470b5adc0cea6166b5a9122803f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276581111,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1276581111,
+    "wof:lastmodified":1537585493,
+    "wof:name":"Arab-Babaly",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.95078,
+    41.41955,
+    48.95078,
+    41.41955
+],
+  "geometry": {"coordinates":[48.95078,41.41955],"type":"Point"}
+}

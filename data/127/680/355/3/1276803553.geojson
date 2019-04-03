@@ -1,0 +1,74 @@
+{
+  "id": 1276803553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.52369,39.14084,46.52369,39.14084",
+    "geom:latitude":39.14084,
+    "geom:longitude":46.52369,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Shayyfly",
+    "gn:country_code":"AZ",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147193,
+    "gn:latitude":39.14084,
+    "gn:longitude":46.52369,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Shayyfly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015eay\u0131fl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0439\u044b\u0444\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147193,
+        "wk:page":"%C5%9Eay%C4%B1fl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"793bfb5e55edcc8373d059ee45358252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276803553,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1276803553,
+    "wof:lastmodified":1537585153,
+    "wof:name":"Shayyfly",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.52369,
+    39.14084,
+    46.52369,
+    39.14084
+],
+  "geometry": {"coordinates":[46.52369,39.14084],"type":"Point"}
+}

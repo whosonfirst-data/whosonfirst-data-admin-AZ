@@ -1,0 +1,73 @@
+{
+  "id": 1293611425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.76146,38.60603,48.76146,38.60603",
+    "geom:latitude":38.60603,
+    "geom:longitude":48.76146,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Biu",
+    "gn:country_code":"AZ",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8474190,
+    "gn:latitude":38.60603,
+    "gn:longitude":48.76146,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Biu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Biu"
+    ],
+    "name:aze_x_variant":[
+        "Bio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8474190
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5ec6a3d4c7d83c8fbcc489700006153b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293611425,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1293611425,
+    "wof:lastmodified":1537585526,
+    "wof:name":"Biu",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.76146,
+    38.60603,
+    48.76146,
+    38.60603
+],
+  "geometry": {"coordinates":[48.76146,38.60603],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209437743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.35293,41.27524,45.35293,41.27524",
+    "geom:latitude":41.27524,
+    "geom:longitude":45.35293,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Saloglu",
+    "gn:country_code":"AZ",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585160,
+    "gn:latitude":41.27524,
+    "gn:longitude":45.35293,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Salo\u011flu",
+    "gn:population":1581,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saloghly",
+        "Salogly",
+        "Salo\u011flu",
+        "Kukheti",
+        "Kukhety"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585160,
+        "wk:page":"Salo%C4%9Flu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1bc7df3dade7794dc767280dc6811b63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209437743
+        }
+    ],
+    "wof:id":1209437743,
+    "wof:lastmodified":1537585346,
+    "wof:name":"Saloglu",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:population":1581,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.35293,
+    41.27524,
+    45.35293,
+    41.27524
+],
+  "geometry": {"coordinates":[45.35293,41.27524],"type":"Point"}
+}

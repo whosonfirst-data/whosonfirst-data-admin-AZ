@@ -1,0 +1,73 @@
+{
+  "id": 1327410187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.88713,41.3687,48.88713,41.3687",
+    "geom:latitude":41.3687,
+    "geom:longitude":48.88713,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Xirdaoymaq",
+    "gn:country_code":"AZ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585914,
+    "gn:latitude":41.3687,
+    "gn:longitude":48.88713,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"X\u0131rdaoymaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khyrdaoymakh",
+        "Khyrdaoymak",
+        "X\u0131rdaoymaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585914,
+        "wk:page":"X%C4%B1rdaoymaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1e3bad2f8eb2a65f486c0f62d6dc97b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327410187,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1327410187,
+    "wof:lastmodified":1537585395,
+    "wof:name":"Xirdaoymaq",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.88713,
+    41.3687,
+    48.88713,
+    41.3687
+],
+  "geometry": {"coordinates":[48.88713,41.3687],"type":"Point"}
+}

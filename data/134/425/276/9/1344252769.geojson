@@ -1,0 +1,71 @@
+{
+  "id": 1344252769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.67451,38.52111,48.67451,38.52111",
+    "geom:latitude":38.52111,
+    "geom:longitude":48.67451,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Lomin",
+    "gn:country_code":"AZ",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8435278,
+    "gn:latitude":38.52111,
+    "gn:longitude":48.67451,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Lomin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Lomin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435278,
+        "wk:page":"Lomin"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1d36b35b2b9ae880103b0977720aebf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344252769,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1344252769,
+    "wof:lastmodified":1537585520,
+    "wof:name":"Lomin",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.67451,
+    38.52111,
+    48.67451,
+    38.52111
+],
+  "geometry": {"coordinates":[48.67451,38.52111],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1193050877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.54351,40.65061,47.54351,40.65061",
+    "geom:latitude":40.65061,
+    "geom:longitude":47.54351,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Qaragan Sixlar",
+    "gn:country_code":"AZ",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586192,
+    "gn:latitude":40.65061,
+    "gn:longitude":47.54351,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Qara\u011fan \u015e\u0131xlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qara\u011fan \u015e\u0131xlar"
+    ],
+    "name:und_x_variant":[
+        "Karagan-Shykhlar",
+        "Qaraqan \u015e\u0131xlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668259,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586192,
+        "wk:page":"Qaraqan_%C5%9E%C4%B1xlar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2f95f6e7beab6723c54795f1271f1255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193050877,
+            "macroregion_id":1108808627,
+            "region_id":85668259
+        }
+    ],
+    "wof:id":1193050877,
+    "wof:lastmodified":1537585416,
+    "wof:name":"Qaragan Sixlar",
+    "wof:parent_id":85668259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.54351,
+    40.65061,
+    47.54351,
+    40.65061
+],
+  "geometry": {"coordinates":[47.54351,40.65061],"type":"Point"}
+}

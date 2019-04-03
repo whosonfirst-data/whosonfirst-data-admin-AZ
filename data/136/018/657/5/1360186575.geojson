@@ -1,0 +1,87 @@
+{
+  "id": 1360186575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.88733,39.95416,46.88733,39.95416",
+    "geom:latitude":39.95416,
+    "geom:longitude":46.88733,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Selli",
+    "gn:country_code":"AZ",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147188,
+    "gn:latitude":39.95416,
+    "gn:longitude":46.88733,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"\u015eelli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015eelli"
+    ],
+    "name:hye_x_preferred":[
+        "Ukhtasar"
+    ],
+    "name:hye_x_variant":[
+        "\u0548\u0582\u056d\u057f\u0561\u057d\u0561\u0580",
+        "Ughtasar",
+        "\u0548\u0582\u0572\u057f\u0561\u057d\u0561\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u043b\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Shelli",
+        "Shelly",
+        "\u0428\u0435\u043b\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147188,
+        "wk:page":"%C5%9Eelli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4ec779a88e55ecca8d1510bdceba2d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360186575,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1360186575,
+    "wof:lastmodified":1537585152,
+    "wof:name":"Selli",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.88733,
+    39.95416,
+    46.88733,
+    39.95416
+],
+  "geometry": {"coordinates":[46.88733,39.95416],"type":"Point"}
+}

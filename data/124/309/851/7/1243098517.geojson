@@ -1,0 +1,99 @@
+{
+  "id": 1243098517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.81856,39.97001,46.81856,39.97001",
+    "geom:latitude":39.97001,
+    "geom:longitude":46.81856,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Xanabad",
+    "gn:country_code":"AZ",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147813,
+    "gn:latitude":39.97001,
+    "gn:longitude":46.81856,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Xanabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_colloquial":[
+        "Xanabad"
+    ],
+    "name:aze_x_historical":[
+        "Xanabad"
+    ],
+    "name:aze_x_preferred":[
+        "Xanabad"
+    ],
+    "name:eng_x_colloquial":[
+        "Khanabad"
+    ],
+    "name:eng_x_historical":[
+        "Khanabad"
+    ],
+    "name:eng_x_preferred":[
+        "Khanabad"
+    ],
+    "name:hye_x_preferred":[
+        "Khnapat"
+    ],
+    "name:hye_x_variant":[
+        "Dgrver",
+        "Jrver",
+        "Voskevaz",
+        "\u0548\u057d\u056f\u0587\u0561\u0566",
+        "\u053d\u0576\u0561\u057a\u0561\u057f",
+        "\u053d\u0561\u0576\u0561\u0562\u0561\u0564"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043d\u0430\u0431\u0430\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147813
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1bc793ec0125939f7747b3abcab964f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243098517,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1243098517,
+    "wof:lastmodified":1537585211,
+    "wof:name":"Xanabad",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.81856,
+    39.97001,
+    46.81856,
+    39.97001
+],
+  "geometry": {"coordinates":[46.81856,39.97001],"type":"Point"}
+}

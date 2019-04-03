@@ -1,0 +1,79 @@
+{
+  "id": 1293922533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.58559,40.94276,47.58559,40.94276",
+    "geom:latitude":40.94276,
+    "geom:longitude":47.58559,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Sincan",
+    "gn:country_code":"AZ",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584959,
+    "gn:latitude":40.94276,
+    "gn:longitude":47.58559,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sincan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sincan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043d\u0434\u0436\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Sindzhan",
+        "Sindzhav",
+        "Sincan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668549,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584959,
+        "wk:page":"Sincan%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5be238d31c86e8c57227ecf67c167f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293922533,
+            "macroregion_id":1108808619,
+            "region_id":85668549
+        }
+    ],
+    "wof:id":1293922533,
+    "wof:lastmodified":1537585333,
+    "wof:name":"Sincan",
+    "wof:parent_id":85668549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.58559,
+    40.94276,
+    47.58559,
+    40.94276
+],
+  "geometry": {"coordinates":[47.58559,40.94276],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242909529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.12745,40.76092,46.12745,40.76092",
+    "geom:latitude":40.76092,
+    "geom:longitude":46.12745,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Seyfeli",
+    "gn:country_code":"AZ",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587162,
+    "gn:latitude":40.76092,
+    "gn:longitude":46.12745,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Seyfeli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Seyf\u0259li"
+    ],
+    "name:und_x_variant":[
+        "Seyfaly",
+        "Ashagy Seyfali",
+        "Seyfeli",
+        "Ashagy-Shikhly",
+        "A\u015fa\u011f\u0131 Seyf\u0259li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587162,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_Seyf%C9%99li"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"480ad9bc0a6f22bccd2946ed3293d5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242909529,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1242909529,
+    "wof:lastmodified":1537585485,
+    "wof:name":"Seyfeli",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.12745,
+    40.76092,
+    46.12745,
+    40.76092
+],
+  "geometry": {"coordinates":[46.12745,40.76092],"type":"Point"}
+}

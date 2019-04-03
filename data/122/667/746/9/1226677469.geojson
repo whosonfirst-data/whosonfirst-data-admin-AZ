@@ -1,0 +1,72 @@
+{
+  "id": 1226677469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.99338,41.33505,46.99338,41.33505",
+    "geom:latitude":41.33505,
+    "geom:longitude":46.99338,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Baqqal",
+    "gn:country_code":"AZ",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":799308,
+    "gn:latitude":41.33505,
+    "gn:longitude":46.99338,
+    "gn:modification_date":"2014-01-14",
+    "gn:name":"Baqqal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakkal",
+        "Baqqal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":799308,
+        "wk:page":"Baqqal"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d16160fd2a1489d9463f2284ec4c71b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226677469,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1226677469,
+    "wof:lastmodified":1537585503,
+    "wof:name":"Baqqal",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.99338,
+    41.33505,
+    46.99338,
+    41.33505
+],
+  "geometry": {"coordinates":[46.99338,41.33505],"type":"Point"}
+}

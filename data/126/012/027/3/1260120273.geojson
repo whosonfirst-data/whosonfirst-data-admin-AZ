@@ -1,0 +1,73 @@
+{
+  "id": 1260120273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.22691,39.16797,49.22691,39.16797",
+    "geom:latitude":39.16797,
+    "geom:longitude":49.22691,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Dalgali",
+    "gn:country_code":"AZ",
+    "gn:dem":-28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147311,
+    "gn:latitude":39.16797,
+    "gn:longitude":49.22691,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Dal\u011fal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Dal\u011fal\u0131"
+    ],
+    "name:aze_x_variant":[
+        "Prorva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668409,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147311
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"68cab1fd7286d35290e193c0156ce0ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260120273,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1260120273,
+    "wof:lastmodified":1537585163,
+    "wof:name":"Dalgali",
+    "wof:parent_id":85668409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.22691,
+    39.16797,
+    49.22691,
+    39.16797
+],
+  "geometry": {"coordinates":[49.22691,39.16797],"type":"Point"}
+}

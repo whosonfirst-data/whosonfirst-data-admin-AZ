@@ -1,0 +1,78 @@
+{
+  "id": 1293718465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.61305,40.99711,48.61305,40.99711",
+    "geom:latitude":40.99711,
+    "geom:longitude":48.61305,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Utuq",
+    "gn:country_code":"AZ",
+    "gn:dem":1328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584763,
+    "gn:latitude":40.99711,
+    "gn:longitude":48.61305,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Utuq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Utuq"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0442\u0443\u0433"
+    ],
+    "name:und_x_variant":[
+        "Utug",
+        "Utuq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584763,
+        "wk:page":"Utuq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bb83531348c3c57a313edc0214388fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293718465,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1293718465,
+    "wof:lastmodified":1537585320,
+    "wof:name":"Utuq",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.61305,
+    40.99711,
+    48.61305,
+    40.99711
+],
+  "geometry": {"coordinates":[48.61305,40.99711],"type":"Point"}
+}

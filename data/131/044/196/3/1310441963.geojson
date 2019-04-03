@@ -1,0 +1,70 @@
+{
+  "id": 1310441963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.75775,41.45004,48.75775,41.45004",
+    "geom:latitude":41.45004,
+    "geom:longitude":48.75775,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Uryanoba",
+    "gn:country_code":"AZ",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8623297,
+    "gn:latitude":41.45004,
+    "gn:longitude":48.75775,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Uryanoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Uryanoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8623297
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e5a487d733dccad68cc7b04bd2000743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310441963,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1310441963,
+    "wof:lastmodified":1537585536,
+    "wof:name":"Uryanoba",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.75775,
+    41.45004,
+    48.75775,
+    41.45004
+],
+  "geometry": {"coordinates":[48.75775,41.45004],"type":"Point"}
+}

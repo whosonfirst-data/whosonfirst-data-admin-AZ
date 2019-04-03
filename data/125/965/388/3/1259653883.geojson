@@ -1,0 +1,74 @@
+{
+  "id": 1259653883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.33512,39.16665,48.33512,39.16665",
+    "geom:latitude":39.16665,
+    "geom:longitude":48.33512,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Cinar",
+    "gn:country_code":"AZ",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148265,
+    "gn:latitude":39.16665,
+    "gn:longitude":48.33512,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"\u00c7inar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7inar"
+    ],
+    "name:und_x_variant":[
+        "Chinar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148265,
+        "wk:page":"%C3%87inar%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"09ac9188d5e0eeeb667a607a679294db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259653883,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1259653883,
+    "wof:lastmodified":1537585257,
+    "wof:name":"Cinar",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.33512,
+    39.16665,
+    48.33512,
+    39.16665
+],
+  "geometry": {"coordinates":[48.33512,39.16665],"type":"Point"}
+}

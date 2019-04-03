@@ -1,0 +1,90 @@
+{
+  "id": 1310064717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.51069,40.43579,46.51069,40.43579",
+    "geom:latitude":40.43579,
+    "geom:longitude":46.51069,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Rus Borisi",
+    "gn:country_code":"AZ",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585197,
+    "gn:latitude":40.43579,
+    "gn:longitude":46.51069,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Rus Borisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Rus Borisi"
+    ],
+    "name:hye_x_preferred":[
+        "Rrusakan Borisner"
+    ],
+    "name:hye_x_variant":[
+        "\u054c\u0578\u0582\u057d\u0561\u056f\u0561\u0576 \u0532\u0578\u0580\u056b\u057d\u0576\u0565\u0580",
+        "Rrusakan Borisi",
+        "Rrus Paris",
+        "\u054c\u0578\u0582\u057d \u054a\u0561\u0580\u056b\u057d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u0441\u043a\u0438\u0435 \u0411\u043e\u0440\u0438\u0441\u044b"
+    ],
+    "name:und_x_variant":[
+        "Borisy-Russkiye",
+        "Rousi Paris",
+        "Rrusakan Borisi",
+        "Russkiye Borisy",
+        "Rrusi Paris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585197,
+        "wk:page":"Rus_Borisi"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f7df74c1ec4b2c27777cbc2bbfb539d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310064717,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1310064717,
+    "wof:lastmodified":1537585349,
+    "wof:name":"Rus Borisi",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.51069,
+    40.43579,
+    46.51069,
+    40.43579
+],
+  "geometry": {"coordinates":[46.51069,40.43579],"type":"Point"}
+}

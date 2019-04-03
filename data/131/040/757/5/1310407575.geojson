@@ -1,0 +1,85 @@
+{
+  "id": 1310407575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91495,40.12828,46.91495,40.12828",
+    "geom:latitude":40.12828,
+    "geom:longitude":46.91495,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Salakhly-Kengerli",
+    "gn:country_code":"AZ",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824375,
+    "gn:latitude":40.12828,
+    "gn:longitude":46.91495,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Salakhly-Kengerli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Salahl\u0131 K\u0259ng\u0259rli"
+    ],
+    "name:aze_x_variant":[
+        "Salahl\u0131 Cavahirli"
+    ],
+    "name:hye_x_preferred":[
+        "Salakly K\u2019engerli"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u0561\u056c\u0561\u056d\u056c\u056b \u0554\u0565\u0576\u0563\u0565\u0580\u056c\u056b",
+        "Kangark\u2019",
+        "\u053f\u0561\u0576\u0563\u0561\u0580\u0584"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u0445\u043b\u044b-\u041a\u0435\u043d\u0433\u0435\u0440\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824375,
+        "wk:page":"Salahl%C4%B1_K%C9%99ng%C9%99rli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"492c6c3cc27efcd592b246b3bbec07a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310407575,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1310407575,
+    "wof:lastmodified":1537585512,
+    "wof:name":"Salakhly-Kengerli",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91495,
+    40.12828,
+    46.91495,
+    40.12828
+],
+  "geometry": {"coordinates":[46.91495,40.12828],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1226273439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.73447,40.2464,46.73447,40.2464",
+    "geom:latitude":40.2464,
+    "geom:longitude":46.73447,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Miqrelalay",
+    "gn:country_code":"AZ",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585511,
+    "gn:latitude":40.2464,
+    "gn:longitude":46.73447,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Miqrelalay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Miqrelalay"
+    ],
+    "name:hye_x_preferred":[
+        "K\u2019mk\u2019adzor"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0574\u0584\u0561\u0571\u0578\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "Mingrel\u2019sk"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0438\u043d\u0433\u0440\u0435\u043b\u044c\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Mingrelsk",
+        "Minqrelsk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585511,
+        "wk:page":"Miqrelalay"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fcfaa259839c61a19f1fa5ab58d2b9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226273439,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1226273439,
+    "wof:lastmodified":1537585370,
+    "wof:name":"Miqrelalay",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.73447,
+    40.2464,
+    46.73447,
+    40.2464
+],
+  "geometry": {"coordinates":[46.73447,40.2464],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243460319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.57997,40.59808,47.57997,40.59808",
+    "geom:latitude":40.59808,
+    "geom:longitude":47.57997,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ikinci Aral",
+    "gn:country_code":"AZ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587219,
+    "gn:latitude":40.59808,
+    "gn:longitude":47.57997,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"\u0130kinci Aral",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aral Vtoroye",
+        "\u0130kinci Aral",
+        "Aral Vtoroy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668259,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587219,
+        "wk:page":"%C4%B0kinci_Aral"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"380c55119c8235b11f4245cf1e74cbfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243460319,
+            "macroregion_id":1108808627,
+            "region_id":85668259
+        }
+    ],
+    "wof:id":1243460319,
+    "wof:lastmodified":1537585491,
+    "wof:name":"Ikinci Aral",
+    "wof:parent_id":85668259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.57997,
+    40.59808,
+    47.57997,
+    40.59808
+],
+  "geometry": {"coordinates":[47.57997,40.59808],"type":"Point"}
+}

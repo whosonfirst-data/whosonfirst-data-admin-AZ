@@ -1,0 +1,77 @@
+{
+  "id": 1327397497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.94055,41.24696,48.94055,41.24696",
+    "geom:latitude":41.24696,
+    "geom:longitude":48.94055,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Mollakamalli",
+    "gn:country_code":"AZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585480,
+    "gn:latitude":41.24696,
+    "gn:longitude":48.94055,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Mollakamall\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mollakamall\u0131"
+    ],
+    "name:und_x_variant":[
+        "Mollakemally",
+        "Molla-Kemanly",
+        "Kuyb\u0131\u015fevk\u0259nd",
+        "Kuybyshevkend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585480,
+        "wk:page":"Mollakamall%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"913949aa00bf411b4491d6d98dca8f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327397497,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1327397497,
+    "wof:lastmodified":1537585368,
+    "wof:name":"Mollakamalli",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.94055,
+    41.24696,
+    48.94055,
+    41.24696
+],
+  "geometry": {"coordinates":[48.94055,41.24696],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225880335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.56182,40.79751,48.56182,40.79751",
+    "geom:latitude":40.79751,
+    "geom:longitude":48.56182,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Avaxil",
+    "gn:country_code":"AZ",
+    "gn:dem":1368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587134,
+    "gn:latitude":40.79751,
+    "gn:longitude":48.56182,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Avax\u0131l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Avakhyl",
+        "Avax\u0131l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587134,
+        "wk:page":"Avax%C4%B1l"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2e0d518d672db126f54ca76def8b008c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225880335,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1225880335,
+    "wof:lastmodified":1537585483,
+    "wof:name":"Avaxil",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.56182,
+    40.79751,
+    48.56182,
+    40.79751
+],
+  "geometry": {"coordinates":[48.56182,40.79751],"type":"Point"}
+}

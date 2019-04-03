@@ -1,0 +1,73 @@
+{
+  "id": 1343313275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.25796,41.10403,45.25796,41.10403",
+    "geom:latitude":41.10403,
+    "geom:longitude":45.25796,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Urkmezli",
+    "gn:country_code":"AZ",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584769,
+    "gn:latitude":41.10403,
+    "gn:longitude":45.25796,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Urkmezli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urkmagly",
+        "\u00dcrkm\u0259zli",
+        "Urkmazli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668229,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584769,
+        "wk:page":"%C3%9Crkm%C9%99zli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7c6003afc1eb3c29613c969e78b32412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343313275,
+            "macroregion_id":1108808609,
+            "region_id":85668229
+        }
+    ],
+    "wof:id":1343313275,
+    "wof:lastmodified":1537585320,
+    "wof:name":"Urkmezli",
+    "wof:parent_id":85668229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.25796,
+    41.10403,
+    45.25796,
+    41.10403
+],
+  "geometry": {"coordinates":[45.25796,41.10403],"type":"Point"}
+}

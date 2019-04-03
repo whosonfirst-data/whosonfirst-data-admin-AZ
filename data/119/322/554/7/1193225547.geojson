@@ -1,0 +1,75 @@
+{
+  "id": 1193225547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3382,40.42691,48.3382,40.42691",
+    "geom:latitude":40.42691,
+    "geom:longitude":48.3382,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ismayilli",
+    "gn:country_code":"AZ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586319,
+    "gn:latitude":40.42691,
+    "gn:longitude":48.3382,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"\u0130smay\u0131ll\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u043c\u0430\u0438\u043b\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ismailli",
+        "Ismailly",
+        "\u0130smay\u0131ll\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668383,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586319
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a05f6f1e7e1ec91bae7f746712404935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193225547,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":1193225547,
+    "wof:lastmodified":1537585425,
+    "wof:name":"Ismayilli",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3382,
+    40.42691,
+    48.3382,
+    40.42691
+],
+  "geometry": {"coordinates":[48.3382,40.42691],"type":"Point"}
+}

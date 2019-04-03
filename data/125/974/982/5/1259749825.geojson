@@ -1,0 +1,68 @@
+{
+  "id": 1259749825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.03333,40.2,48.03333,40.2",
+    "geom:latitude":40.2,
+    "geom:longitude":48.03333,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Chelsorsor",
+    "gn:country_code":"AZ",
+    "gn:dem":-11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586858,
+    "gn:latitude":40.2,
+    "gn:longitude":48.03333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Chelsorsor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668383,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586858,
+        "wk:page":"Chelsorsor"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f6eadb39f4ca49fbfa40b6eca0a390b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259749825,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":1259749825,
+    "wof:lastmodified":1537486656,
+    "wof:name":"Chelsorsor",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.03333,
+    40.2,
+    48.03333,
+    40.2
+],
+  "geometry": {"coordinates":[48.03333,40.2],"type":"Point"}
+}

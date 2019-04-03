@@ -1,0 +1,79 @@
+{
+  "id": 1310460537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.01498,40.61269,48.01498,40.61269",
+    "geom:latitude":40.61269,
+    "geom:longitude":48.01498,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Qaramaryam",
+    "gn:country_code":"AZ",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586161,
+    "gn:latitude":40.61269,
+    "gn:longitude":48.01498,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Qaram\u0259ry\u0259m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qaram\u01ddry\u01ddm"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043c\u0430\u0440\u044c\u044f\u043c"
+    ],
+    "name:und_x_variant":[
+        "Karamar\u2019yan",
+        "Yukhary Karamar\u2019yan",
+        "Qaram\u0259ry\u0259m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668357,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586161,
+        "wk:page":"Qaram%C9%99ry%C9%99m"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0b567774851c62e9e9e35b5e0c2ce776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310460537,
+            "macroregion_id":1108808627,
+            "region_id":85668357
+        }
+    ],
+    "wof:id":1310460537,
+    "wof:lastmodified":1537585413,
+    "wof:name":"Qaramaryam",
+    "wof:parent_id":85668357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.01498,
+    40.61269,
+    48.01498,
+    40.61269
+],
+  "geometry": {"coordinates":[48.01498,40.61269],"type":"Point"}
+}

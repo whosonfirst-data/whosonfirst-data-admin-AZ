@@ -1,0 +1,71 @@
+{
+  "id": 1310212807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.03793,40.11064,47.03793,40.11064",
+    "geom:latitude":40.11064,
+    "geom:longitude":47.03793,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Akhmedagaly",
+    "gn:country_code":"AZ",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587349,
+    "gn:latitude":40.11064,
+    "gn:longitude":47.03793,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Akhmedagaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fhm\u0259da\u011fal\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587349,
+        "wk:page":"%C6%8Fhm%C9%99da%C4%9Fal%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e0d91b4240c89f9b374fff9ca4c3d783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310212807,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1310212807,
+    "wof:lastmodified":1537585499,
+    "wof:name":"Akhmedagaly",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.03793,
+    40.11064,
+    47.03793,
+    40.11064
+],
+  "geometry": {"coordinates":[47.03793,40.11064],"type":"Point"}
+}

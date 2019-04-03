@@ -1,0 +1,86 @@
+{
+  "id": 1326767055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.67218,41.6769,48.67218,41.6769",
+    "geom:latitude":41.6769,
+    "geom:longitude":48.67218,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Pyardagyran",
+    "gn:country_code":"AZ",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585233,
+    "gn:latitude":41.6769,
+    "gn:longitude":48.67218,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Pyardagyran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "P\u0259rd\u0259q\u0131ran"
+    ],
+    "name:aze_x_variant":[
+        "P\u0259rdaq\u0131ran"
+    ],
+    "name:eng_x_preferred":[
+        "P\u01ddrdiq\u0131ran"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u044f\u0440\u0434\u0430\u0433\u044b\u0440\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Perdigran",
+        "Pyardagyran",
+        "P\u0259rdiq\u0131ran",
+        "Pardagiran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585233,
+        "wk:page":"P%C9%99rdiq%C4%B1ran"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d5833325e01640152b37e8345f667e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326767055,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1326767055,
+    "wof:lastmodified":1537585351,
+    "wof:name":"Pyardagyran",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.67218,
+    41.6769,
+    48.67218,
+    41.6769
+],
+  "geometry": {"coordinates":[48.67218,41.6769],"type":"Point"}
+}

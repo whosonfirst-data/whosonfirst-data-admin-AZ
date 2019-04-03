@@ -1,0 +1,72 @@
+{
+  "id": 1259419357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.22917,40.65371,46.22917,40.65371",
+    "geom:latitude":40.65371,
+    "geom:longitude":46.22917,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Hacaqaya",
+    "gn:country_code":"AZ",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587425,
+    "gn:latitude":40.65371,
+    "gn:longitude":46.22917,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Ha\u00e7aqaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Achakaya",
+        "Ha\u00e7aqaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587425,
+        "wk:page":"Ha%C3%A7aqaya"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b261c33be5284a60861a0f73a65cb8c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259419357,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1259419357,
+    "wof:lastmodified":1537585502,
+    "wof:name":"Hacaqaya",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.22917,
+    40.65371,
+    46.22917,
+    40.65371
+],
+  "geometry": {"coordinates":[46.22917,40.65371],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276800907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.79648,41.58857,46.79648,41.58857",
+    "geom:latitude":41.58857,
+    "geom:longitude":46.79648,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Sabuncu",
+    "gn:country_code":"AZ",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585183,
+    "gn:latitude":41.58857,
+    "gn:longitude":46.79648,
+    "gn:modification_date":"2018-01-04",
+    "gn:name":"Sabun\u00e7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sabun\u00e7u"
+    ],
+    "name:und_x_variant":[
+        "Sabunchi",
+        "Sabyncha",
+        "Sabynchy",
+        "Sabunchu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668601,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585183,
+        "wk:page":"Sabun%C3%A7u%2C_Zaqatala"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"aa9b282ed7e3dc775c07facc966f21f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276800907,
+            "macroregion_id":1108808619,
+            "region_id":85668601
+        }
+    ],
+    "wof:id":1276800907,
+    "wof:lastmodified":1537585348,
+    "wof:name":"Sabuncu",
+    "wof:parent_id":85668601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.79648,
+    41.58857,
+    46.79648,
+    41.58857
+],
+  "geometry": {"coordinates":[46.79648,41.58857],"type":"Point"}
+}

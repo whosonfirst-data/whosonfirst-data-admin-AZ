@@ -1,0 +1,73 @@
+{
+  "id": 1327365239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.52662,41.61751,48.52662,41.61751",
+    "geom:latitude":41.61751,
+    "geom:longitude":48.52662,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Gicanoba",
+    "gn:country_code":"AZ",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622904,
+    "gn:latitude":41.61751,
+    "gn:longitude":48.52662,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Gicanoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Gicanoba"
+    ],
+    "name:und_x_variant":[
+        "Gadzhykyshlak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622904
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9df8397efb41f2530c419d0741cda6be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327365239,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1327365239,
+    "wof:lastmodified":1537585536,
+    "wof:name":"Gicanoba",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.52662,
+    41.61751,
+    48.52662,
+    41.61751
+],
+  "geometry": {"coordinates":[48.52662,41.61751],"type":"Point"}
+}

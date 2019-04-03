@@ -1,0 +1,86 @@
+{
+  "id": 1243292251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.01153,39.52049,47.01153,39.52049",
+    "geom:latitude":39.52049,
+    "geom:longitude":47.01153,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Tagaser",
+    "gn:country_code":"AZ",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147094,
+    "gn:latitude":39.52049,
+    "gn:longitude":47.01153,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Ta\u011faser",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ta\u011faser"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0561\u0572\u0561\u057d\u0565\u0580"
+    ],
+    "name:hye_x_variant":[
+        "T\u2019aghaser",
+        "T\u2019aghaserr",
+        "\u0539\u0561\u0572\u0561\u057d\u0565\u057c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0433\u0430\u0441\u0435\u0440"
+    ],
+    "name:und_x_variant":[
+        "Tagasir",
+        "Tagaser"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147094,
+        "wk:page":"Ta%C4%9Faser"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c068232613374920c38f76f1be09c78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243292251,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1243292251,
+    "wof:lastmodified":1537585143,
+    "wof:name":"Tagaser",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.01153,
+    39.52049,
+    47.01153,
+    39.52049
+],
+  "geometry": {"coordinates":[47.01153,39.52049],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209243257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.43676,39.19228,45.43676,39.19228",
+    "geom:latitude":39.19228,
+    "geom:longitude":45.43676,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"8411069.0",
+    "gn:asciiname":"Shekyarabad",
+    "gn:country_code":"AZ",
+    "gn:dem":852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147192,
+    "gn:latitude":39.19228,
+    "gn:longitude":45.43676,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Shekyarabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015e\u0259k\u0259rabad"
+    ],
+    "name:und_x_variant":[
+        "Shekerabad",
+        "Shakyarabad",
+        "Shekyarabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147192,
+        "wk:page":"%C5%9E%C9%99k%C9%99rabad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c8517397c61782e39cd0e85cb252bbbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209243257
+        }
+    ],
+    "wof:id":1209243257,
+    "wof:lastmodified":1537585153,
+    "wof:name":"Shekyarabad",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.43676,
+    39.19228,
+    45.43676,
+    39.19228
+],
+  "geometry": {"coordinates":[45.43676,39.19228],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293037149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.30056,39.87892,48.30056,39.87892",
+    "geom:latitude":39.87892,
+    "geom:longitude":48.30056,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Qaracalar",
+    "gn:country_code":"AZ",
+    "gn:dem":-10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147922,
+    "gn:latitude":39.87892,
+    "gn:longitude":48.30056,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Qaracalar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaracalar"
+    ],
+    "name:und_x_variant":[
+        "Karadzhalyar",
+        "Karadzhalar",
+        "Tomushlv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668433,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147922,
+        "wk:page":"Qaracalar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b4e8c05330a94660f6c085e39ca8d8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293037149,
+            "macroregion_id":1108808627,
+            "region_id":85668433
+        }
+    ],
+    "wof:id":1293037149,
+    "wof:lastmodified":1537585222,
+    "wof:name":"Qaracalar",
+    "wof:parent_id":85668433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.30056,
+    39.87892,
+    48.30056,
+    39.87892
+],
+  "geometry": {"coordinates":[48.30056,39.87892],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293723523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.50631,38.76284,48.50631,38.76284",
+    "geom:latitude":38.76284,
+    "geom:longitude":48.50631,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Qincvo",
+    "gn:country_code":"AZ",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388730,
+    "gn:latitude":38.76284,
+    "gn:longitude":48.50631,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Q\u0131ncvo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u0131nc\u0131vo"
+    ],
+    "name:und_x_variant":[
+        "Konzhavu",
+        "Q\u0131ncvo",
+        "Kyndzho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668403,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388730
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c216a290a7fa248eaed3d60abfb3a589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293723523,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":1293723523,
+    "wof:lastmodified":1537585291,
+    "wof:name":"Qincvo",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.50631,
+    38.76284,
+    48.50631,
+    38.76284
+],
+  "geometry": {"coordinates":[48.50631,38.76284],"type":"Point"}
+}

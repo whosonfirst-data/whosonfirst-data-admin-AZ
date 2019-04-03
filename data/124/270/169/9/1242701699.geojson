@@ -1,0 +1,76 @@
+{
+  "id": 1242701699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.54926,40.60312,47.54926,40.60312",
+    "geom:latitude":40.60312,
+    "geom:longitude":47.54926,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Qaraqan Saatli",
+    "gn:country_code":"AZ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586193,
+    "gn:latitude":40.60312,
+    "gn:longitude":47.54926,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Qaraqan Saatl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qara\u011fan Saatl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Karagan Saatly",
+        "Karagansaat",
+        "Qaraqan Saatl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668259,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586193,
+        "wk:page":"Qaraqan_Saatl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6e03c55f9b3de675dddaef1c39aae6d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242701699,
+            "macroregion_id":1108808627,
+            "region_id":85668259
+        }
+    ],
+    "wof:id":1242701699,
+    "wof:lastmodified":1537585416,
+    "wof:name":"Qaraqan Saatli",
+    "wof:parent_id":85668259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.54926,
+    40.60312,
+    47.54926,
+    40.60312
+],
+  "geometry": {"coordinates":[47.54926,40.60312],"type":"Point"}
+}

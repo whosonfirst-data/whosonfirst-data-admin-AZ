@@ -1,0 +1,84 @@
+{
+  "id": 1243009921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.43926,39.36792,46.43926,39.36792",
+    "geom:latitude":39.36792,
+    "geom:longitude":46.43926,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Yuxari Cibikli",
+    "gn:country_code":"AZ",
+    "gn:dem":1400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394882,
+    "gn:latitude":39.36792,
+    "gn:longitude":46.43926,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"Yuxar\u0131 Cibikli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 Cibikli"
+    ],
+    "name:hye_x_preferred":[
+        "Yukhary-Jibikli"
+    ],
+    "name:hye_x_variant":[
+        "\u0545\u0578\u0582\u056d\u0561\u0580\u0568-\u054b\u056b\u0562\u056b\u056f\u056c\u0568"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0445\u0430\u0440\u044b-\u0414\u0436\u0438\u0431\u0438\u043a\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Yukhary-Dzhibikli",
+        "\u042e\u0445\u0430\u0440\u044b-\u0414\u0436\u0438\u0431\u0438\u043a\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394882,
+        "wk:page":"Yuxar%C4%B1_Cibikli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a5995235946b165da85a9bf62d44d2f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243009921,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1243009921,
+    "wof:lastmodified":1537585298,
+    "wof:name":"Yuxari Cibikli",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.43926,
+    39.36792,
+    46.43926,
+    39.36792
+],
+  "geometry": {"coordinates":[46.43926,39.36792],"type":"Point"}
+}

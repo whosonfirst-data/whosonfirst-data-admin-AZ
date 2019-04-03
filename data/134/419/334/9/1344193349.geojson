@@ -1,0 +1,75 @@
+{
+  "id": 1344193349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.97022,40.71144,45.97022,40.71144",
+    "geom:latitude":40.71144,
+    "geom:longitude":45.97022,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Qaraqoyunlu",
+    "gn:country_code":"AZ",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584941,
+    "gn:latitude":40.71144,
+    "gn:longitude":45.97022,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Qaraqoyunlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaraqoyunlu"
+    ],
+    "name:und_x_variant":[
+        "Siptakshen",
+        "Spitakshen",
+        "Spitak\u015fen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584941
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"18bd9ce6886435793bd4b0640be6d4bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344193349,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1344193349,
+    "wof:lastmodified":1537585332,
+    "wof:name":"Qaraqoyunlu",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.97022,
+    40.71144,
+    45.97022,
+    40.71144
+],
+  "geometry": {"coordinates":[45.97022,40.71144],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360242843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.10346,39.69812,48.10346,39.69812",
+    "geom:latitude":39.69812,
+    "geom:longitude":48.10346,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Aranli",
+    "gn:country_code":"AZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147319,
+    "gn:latitude":39.69812,
+    "gn:longitude":48.10346,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Aranl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Aranl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Poltavka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668365,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147319,
+        "wk:page":"Poltavka"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"acc5fbd1666df994faf2af169df21a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360242843,
+            "macroregion_id":1108808627,
+            "region_id":85668365
+        }
+    ],
+    "wof:id":1360242843,
+    "wof:lastmodified":1537585163,
+    "wof:name":"Aranli",
+    "wof:parent_id":85668365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.10346,
+    39.69812,
+    48.10346,
+    39.69812
+],
+  "geometry": {"coordinates":[48.10346,39.69812],"type":"Point"}
+}

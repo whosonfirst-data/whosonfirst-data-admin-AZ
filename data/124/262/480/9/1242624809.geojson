@@ -1,0 +1,84 @@
+{
+  "id": 1242624809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.41664,39.69979,46.41664,39.69979",
+    "geom:latitude":39.69979,
+    "geom:longitude":46.41664,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Sonasar",
+    "gn:country_code":"AZ",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147122,
+    "gn:latitude":39.69979,
+    "gn:longitude":46.41664,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Sonasar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sonasar"
+    ],
+    "name:hye_x_preferred":[
+        "Sanasar"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u0561\u0576\u0561\u057d\u0561\u0580",
+        "\u054d\u0578\u0576\u0561\u057d\u0561\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043d\u0430\u0441\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Sunasar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147122,
+        "wk:page":"Sonasar%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e02fae0d9e755681e912181ec3fd923b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242624809,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1242624809,
+    "wof:lastmodified":1537585145,
+    "wof:name":"Sonasar",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.41664,
+    39.69979,
+    46.41664,
+    39.69979
+],
+  "geometry": {"coordinates":[46.41664,39.69979],"type":"Point"}
+}

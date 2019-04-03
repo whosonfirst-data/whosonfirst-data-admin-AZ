@@ -1,0 +1,72 @@
+{
+  "id": 1259628965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.72389,38.92,48.72389,38.92",
+    "geom:latitude":38.92,
+    "geom:longitude":48.72389,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Satiroba",
+    "gn:country_code":"AZ",
+    "gn:dem":-18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400325,
+    "gn:latitude":38.92,
+    "gn:longitude":48.72389,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"\u015eat\u0131roba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eat\u0131roba",
+        "Shatyroba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400325,
+        "wk:page":"%C5%9Eat%C4%B1roba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"80ceb9bf1ef95cee04a1bad80d0c94f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259628965,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1259628965,
+    "wof:lastmodified":1537585302,
+    "wof:name":"Satiroba",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.72389,
+    38.92,
+    48.72389,
+    38.92
+],
+  "geometry": {"coordinates":[48.72389,38.92],"type":"Point"}
+}

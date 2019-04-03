@@ -1,0 +1,74 @@
+{
+  "id": 1225915735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.86073,41.08956,48.86073,41.08956",
+    "geom:latitude":41.08956,
+    "geom:longitude":48.86073,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Uqah",
+    "gn:country_code":"AZ",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584782,
+    "gn:latitude":41.08956,
+    "gn:longitude":48.86073,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Uqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uchakh",
+        "Ugakh",
+        "Uga",
+        "Uqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584782,
+        "wk:page":"Uqah"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"46a91759418f69fdbf36887dac76ff4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225915735,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1225915735,
+    "wof:lastmodified":1537585321,
+    "wof:name":"Uqah",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.86073,
+    41.08956,
+    48.86073,
+    41.08956
+],
+  "geometry": {"coordinates":[48.86073,41.08956],"type":"Point"}
+}

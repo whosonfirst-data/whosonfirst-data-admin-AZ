@@ -1,0 +1,70 @@
+{
+  "id": 1310239139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.12865,41.49252,48.12865,41.49252",
+    "geom:latitude":41.49252,
+    "geom:longitude":48.12865,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Yukhary-Gelenkhur",
+    "gn:country_code":"AZ",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584637,
+    "gn:latitude":41.49252,
+    "gn:longitude":48.12865,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Yukhary-Gelenkhur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yuxar\u0131 Q\u0259l\u0259nxur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584637
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"394ebf4aa8f8c54f898e923b64ce5370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310239139,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1310239139,
+    "wof:lastmodified":1537585311,
+    "wof:name":"Yukhary-Gelenkhur",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.12865,
+    41.49252,
+    48.12865,
+    41.49252
+],
+  "geometry": {"coordinates":[48.12865,41.49252],"type":"Point"}
+}

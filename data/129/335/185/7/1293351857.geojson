@@ -1,0 +1,81 @@
+{
+  "id": 1293351857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.33368,39.68905,46.33368,39.68905",
+    "geom:latitude":39.68905,
+    "geom:longitude":46.33368,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Mirik",
+    "gn:country_code":"AZ",
+    "gn:dem":1475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147501,
+    "gn:latitude":39.68905,
+    "gn:longitude":46.33368,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Mirik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mirik"
+    ],
+    "name:hye_x_preferred":[
+        "Mirik\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u056b\u0580\u056b\u0584",
+        "\u0544\u056b\u0580\u056b\u056f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147501,
+        "wk:page":"Mirik%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c499ae432dab6f3c948e36d180ef94bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293351857,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1293351857,
+    "wof:lastmodified":1537585180,
+    "wof:name":"Mirik",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.33368,
+    39.68905,
+    46.33368,
+    39.68905
+],
+  "geometry": {"coordinates":[46.33368,39.68905],"type":"Point"}
+}

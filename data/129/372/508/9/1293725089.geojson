@@ -1,0 +1,73 @@
+{
+  "id": 1293725089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.84554,41.4167,48.84554,41.4167",
+    "geom:latitude":41.4167,
+    "geom:longitude":48.84554,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Laman",
+    "gn:country_code":"AZ",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585655,
+    "gn:latitude":41.4167,
+    "gn:longitude":48.84554,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Laman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Laman"
+    ],
+    "name:und_x_variant":[
+        "Lamak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585655
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"04e63874c5d11f7dda15b6a0e9c38f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293725089,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1293725089,
+    "wof:lastmodified":1537585379,
+    "wof:name":"Laman",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.84554,
+    41.4167,
+    48.84554,
+    41.4167
+],
+  "geometry": {"coordinates":[48.84554,41.4167],"type":"Point"}
+}

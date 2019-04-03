@@ -1,0 +1,86 @@
+{
+  "id": 1360051719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.22251,39.58299,47.22251,39.58299",
+    "geom:latitude":39.58299,
+    "geom:longitude":47.22251,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Mahmudlu",
+    "gn:country_code":"AZ",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147581,
+    "gn:latitude":39.58299,
+    "gn:longitude":47.22251,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mahmudlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00dc\u00e7\u00fcnc\u00fc Mahmudlu"
+    ],
+    "name:hye_x_preferred":[
+        "Mahmudlu"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0561\u0570\u0574\u0578\u0582\u0564\u056c\u0578\u0582"
+    ],
+    "name:rus_x_preferred":[
+        "Makhmudlu Tret\u2019ye"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u0445\u043c\u0443\u0434\u043b\u0443 \u0422\u0440\u0435\u0442\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "\u041c\u0430\u0445\u043c\u0443\u0434\u043b\u0443 \u0422\u0440\u0435\u0442\u044c\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668351,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147581,
+        "wk:page":"%C3%9C%C3%A7%C3%BCnc%C3%BC_Mahmudlu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"76c12897082994eacc69f80e1123ce42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360051719,
+            "macroregion_id":1108808615,
+            "region_id":85668351
+        }
+    ],
+    "wof:id":1360051719,
+    "wof:lastmodified":1537585188,
+    "wof:name":"Mahmudlu",
+    "wof:parent_id":85668351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.22251,
+    39.58299,
+    47.22251,
+    39.58299
+],
+  "geometry": {"coordinates":[47.22251,39.58299],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243605017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.27167,39.85722,46.27167,39.85722",
+    "geom:latitude":39.85722,
+    "geom:longitude":46.27167,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Hacixanli",
+    "gn:country_code":"AZ",
+    "gn:dem":1650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394118,
+    "gn:latitude":39.85722,
+    "gn:longitude":46.27167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hac\u0131xanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hac\u0131xanl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394118,
+        "wk:page":"Hac%C4%B1xanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c500521561df9649a1bd44df18d8657b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243605017,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1243605017,
+    "wof:lastmodified":1537585297,
+    "wof:name":"Hacixanli",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.27167,
+    39.85722,
+    46.27167,
+    39.85722
+],
+  "geometry": {"coordinates":[46.27167,39.85722],"type":"Point"}
+}

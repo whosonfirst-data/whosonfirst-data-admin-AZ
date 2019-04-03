@@ -1,0 +1,73 @@
+{
+  "id": 1242613519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.98763,41.36999,46.98763,41.36999",
+    "geom:latitude":41.36999,
+    "geom:longitude":46.98763,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Asagi Malax",
+    "gn:country_code":"AZ",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587196,
+    "gn:latitude":41.36999,
+    "gn:longitude":46.98763,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"A\u015fa\u011f\u0131 Malax",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ashaga Malakh",
+        "A\u015fa\u011f\u0131 Malax",
+        "Bash Malakh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668557,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587196,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_Malax"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"354874cd7830185214b936d7eb44421d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242613519,
+            "macroregion_id":1108808619,
+            "region_id":85668557
+        }
+    ],
+    "wof:id":1242613519,
+    "wof:lastmodified":1537585489,
+    "wof:name":"Asagi Malax",
+    "wof:parent_id":85668557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.98763,
+    41.36999,
+    46.98763,
+    41.36999
+],
+  "geometry": {"coordinates":[46.98763,41.36999],"type":"Point"}
+}

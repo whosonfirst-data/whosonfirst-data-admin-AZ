@@ -1,0 +1,78 @@
+{
+  "id": 1226225681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.19591,39.34395,47.19591,39.34395",
+    "geom:latitude":39.34395,
+    "geom:longitude":47.19591,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Karxulu",
+    "gn:country_code":"AZ",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147877,
+    "gn:latitude":39.34395,
+    "gn:longitude":47.19591,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Karxulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Karxulu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0445\u0443\u043b\u0443"
+    ],
+    "name:und_x_variant":[
+        "Karkhulu",
+        "\u041a\u0430\u0440\u0445\u0443\u043b\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147877,
+        "wk:page":"Karxulu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"72d223a07365e2e32c0925d9cdefb2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226225681,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1226225681,
+    "wof:lastmodified":1537585217,
+    "wof:name":"Karxulu",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.19591,
+    39.34395,
+    47.19591,
+    39.34395
+],
+  "geometry": {"coordinates":[47.19591,39.34395],"type":"Point"}
+}

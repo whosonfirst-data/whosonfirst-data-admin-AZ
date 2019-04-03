@@ -1,0 +1,67 @@
+{
+  "id": 1243194981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.35151,41.273,45.35151,41.273",
+    "geom:latitude":41.273,
+    "geom:longitude":45.35151,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Salahli",
+    "gn:country_code":"AZ",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824429,
+    "gn:latitude":41.273,
+    "gn:longitude":45.35151,
+    "gn:modification_date":"2011-08-30",
+    "gn:name":"Salahli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668195,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824429
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dee4dd9cd74590ea2134e7a3fcea8e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243194981,
+            "macroregion_id":1108808609,
+            "region_id":85668195
+        }
+    ],
+    "wof:id":1243194981,
+    "wof:lastmodified":1536671069,
+    "wof:name":"Salahli",
+    "wof:parent_id":85668195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.35151,
+    41.273,
+    45.35151,
+    41.273
+],
+  "geometry": {"coordinates":[45.35151,41.273],"type":"Point"}
+}

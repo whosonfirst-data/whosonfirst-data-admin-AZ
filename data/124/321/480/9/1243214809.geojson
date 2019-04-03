@@ -1,0 +1,84 @@
+{
+  "id": 1243214809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.37876,39.65242,46.37876,39.65242",
+    "geom:latitude":39.65242,
+    "geom:longitude":46.37876,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Hacilar",
+    "gn:country_code":"AZ",
+    "gn:dem":1370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148094,
+    "gn:latitude":39.65242,
+    "gn:longitude":46.37876,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Hac\u0131lar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hac\u0131lar"
+    ],
+    "name:hye_x_preferred":[
+        "Hajilar"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0561\u057b\u056b\u056c\u0561\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0434\u0436\u044b\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Gadzhylar",
+        "Gadzhilyar",
+        "\u0413\u0430\u0434\u0436\u044b\u043b\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148094
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"56fbdc4ba7eb4ed1c9af12380a1fe9eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243214809,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1243214809,
+    "wof:lastmodified":1537585239,
+    "wof:name":"Hacilar",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.37876,
+    39.65242,
+    46.37876,
+    39.65242
+],
+  "geometry": {"coordinates":[46.37876,39.65242],"type":"Point"}
+}

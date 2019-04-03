@@ -1,0 +1,69 @@
+{
+  "id": 1209450145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.43447,40.75269,46.43447,40.75269",
+    "geom:latitude":40.75269,
+    "geom:longitude":46.43447,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Cobanabdalli",
+    "gn:country_code":"AZ",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586836,
+    "gn:latitude":40.75269,
+    "gn:longitude":46.43447,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"\u00c7obanabdall\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7obanabdall\u0131"
+    ],
+    "name:und_x_variant":[
+        "Chobanabdally",
+        "\u00c7oban Abdall\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586836,
+        "wk:page":"%C3%87obanabdall%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d11a0b4315f7aac81330bedb332834c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209450145
+        }
+    ],
+    "wof:id":1209450145,
+    "wof:lastmodified":1537585462,
+    "wof:name":"Cobanabdalli",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.43447000000001,
+    40.75269,
+    46.43447000000001,
+    40.75269
+],
+  "geometry": {"coordinates":[46.43447000000001,40.75269],"type":"Point"}
+}

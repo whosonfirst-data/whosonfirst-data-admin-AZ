@@ -1,0 +1,74 @@
+{
+  "id": 1309671795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.63548,39.04968,48.63548,39.04968",
+    "geom:latitude":39.04968,
+    "geom:longitude":48.63548,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Staryye Alvady",
+    "gn:country_code":"AZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147853,
+    "gn:latitude":39.04968,
+    "gn:longitude":48.63548,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Staryye Alvady",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00f6hn\u0259 Alvad\u0131"
+    ],
+    "name:und_x_variant":[
+        "K\u00ebgna Alvady"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147853,
+        "wk:page":"K%C3%B6hn%C9%99_Alvad%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ab2eb2e23dd26e17995e62eeea3c08b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309671795,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1309671795,
+    "wof:lastmodified":1537585215,
+    "wof:name":"Staryye Alvady",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.63548,
+    39.04968,
+    48.63548,
+    39.04968
+],
+  "geometry": {"coordinates":[48.63548,39.04968],"type":"Point"}
+}

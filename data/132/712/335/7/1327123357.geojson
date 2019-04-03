@@ -1,0 +1,72 @@
+{
+  "id": 1327123357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.29147,41.73602,46.29147,41.73602",
+    "geom:latitude":41.73602,
+    "geom:longitude":46.29147,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Zogallyk",
+    "gn:country_code":"AZ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":584558,
+    "gn:latitude":41.73602,
+    "gn:longitude":46.29147,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Zogallyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Zagalyk",
+        "Zogallyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584558,
+        "wk:page":"Zogallyk"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"28442c025d4bcf6a4b851e521bfffbab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327123357,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1327123357,
+    "wof:lastmodified":1537585306,
+    "wof:name":"Zogallyk",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.29147,
+    41.73602,
+    46.29147,
+    41.73602
+],
+  "geometry": {"coordinates":[46.29147,41.73602],"type":"Point"}
+}

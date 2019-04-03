@@ -1,0 +1,80 @@
+{
+  "id": 1209451499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.32202,40.51628,46.32202,40.51628",
+    "geom:latitude":40.51628,
+    "geom:longitude":46.32202,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Adzhikend",
+    "gn:country_code":"AZ",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587417,
+    "gn:latitude":40.51628,
+    "gn:longitude":46.32202,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Adzhikend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hac\u0131k\u0259nd"
+    ],
+    "name:eng_x_preferred":[
+        "Hac\u0131k\u01ddnd"
+    ],
+    "name:hye_x_preferred":[
+        "Hajik\u2019end"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0561\u057b\u056b\u0584\u0565\u0576\u0564"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u0436\u0438\u043a\u0435\u043d\u0434"
+    ],
+    "name:und_x_variant":[
+        "Adzhakend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587417,
+        "wk:page":"Hac%C4%B1k%C9%99nd%2C_Goygol"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"44f627479b79065c4d818d16f58bab7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209451499
+        }
+    ],
+    "wof:id":1209451499,
+    "wof:lastmodified":1537585502,
+    "wof:name":"Adzhikend",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.32202,
+    40.51628,
+    46.32202,
+    40.51628
+],
+  "geometry": {"coordinates":[46.32202,40.51628],"type":"Point"}
+}

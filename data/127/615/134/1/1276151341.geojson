@@ -1,0 +1,70 @@
+{
+  "id": 1276151341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.20495,40.71582,47.20495,40.71582",
+    "geom:latitude":40.71582,
+    "geom:longitude":47.20495,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Yenidzha",
+    "gn:country_code":"AZ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584672,
+    "gn:latitude":40.71582,
+    "gn:longitude":47.20495,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Yenidzha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yenic\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668243,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584672
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a28c3b6e92a2590e97d3ea7ff428d41c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276151341,
+            "macroregion_id":1108808627,
+            "region_id":85668243
+        }
+    ],
+    "wof:id":1276151341,
+    "wof:lastmodified":1537585314,
+    "wof:name":"Yenidzha",
+    "wof:parent_id":85668243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.20495,
+    40.71582,
+    47.20495,
+    40.71582
+],
+  "geometry": {"coordinates":[47.20495,40.71582],"type":"Point"}
+}

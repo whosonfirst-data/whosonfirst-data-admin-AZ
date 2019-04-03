@@ -1,0 +1,80 @@
+{
+  "id": 1360216059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.08426,40.68421,46.08426,40.68421",
+    "geom:latitude":40.68421,
+    "geom:longitude":46.08426,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Nuzger",
+    "gn:country_code":"AZ",
+    "gn:dem":1382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585342,
+    "gn:latitude":40.68421,
+    "gn:longitude":46.08426,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Nuzger",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "N\u0259rimanl\u0131"
+    ],
+    "name:eng_x_preferred":[
+        "N\u00fczg\u01ddr"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u0437\u0433\u0435\u0440"
+    ],
+    "name:und_x_variant":[
+        "N\u00fczg\u0259r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585342,
+        "wk:page":"N%C3%BCzg%C9%99r"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"aabdd52883a14fb4a22abe4b1d917466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360216059,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1360216059,
+    "wof:lastmodified":1537585358,
+    "wof:name":"Nuzger",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.08426,
+    40.68421,
+    46.08426,
+    40.68421
+],
+  "geometry": {"coordinates":[46.08426,40.68421],"type":"Point"}
+}

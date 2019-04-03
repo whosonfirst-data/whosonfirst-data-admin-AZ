@@ -1,0 +1,72 @@
+{
+  "id": 1293164565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.80219,41.13129,48.80219,41.13129",
+    "geom:latitude":41.13129,
+    "geom:longitude":48.80219,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Cinarlar",
+    "gn:country_code":"AZ",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586846,
+    "gn:latitude":41.13129,
+    "gn:longitude":48.80219,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"\u00c7inarlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chinarlar",
+        "\u00c7inarlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586846,
+        "wk:page":"%C3%87inarlar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"49cde6b6f3b1547287e57448523a8a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293164565,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1293164565,
+    "wof:lastmodified":1537585463,
+    "wof:name":"Cinarlar",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.80219,
+    41.13129,
+    48.80219,
+    41.13129
+],
+  "geometry": {"coordinates":[48.80219,41.13129],"type":"Point"}
+}

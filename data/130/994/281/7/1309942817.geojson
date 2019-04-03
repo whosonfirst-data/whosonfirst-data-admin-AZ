@@ -1,0 +1,73 @@
+{
+  "id": 1309942817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.28778,38.86889,48.28778,38.86889",
+    "geom:latitude":38.86889,
+    "geom:longitude":48.28778,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Abbasabad",
+    "gn:cc2":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148649,
+    "gn:latitude":38.86889,
+    "gn:longitude":48.28778,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Abbasabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abas-Abad",
+        "Abbasabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668497,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148649,
+        "wk:page":"Abbasabad%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"672a484978347e6ccd37b2018740859c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309942817,
+            "macroregion_id":1108808625,
+            "region_id":85668497
+        }
+    ],
+    "wof:id":1309942817,
+    "wof:lastmodified":1537585289,
+    "wof:name":"Abbasabad",
+    "wof:parent_id":85668497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.28778,
+    38.86889,
+    48.28778,
+    38.86889
+],
+  "geometry": {"coordinates":[48.28778,38.86889],"type":"Point"}
+}

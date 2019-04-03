@@ -1,0 +1,76 @@
+{
+  "id": 1225981029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.68847,40.21802,47.68847,40.21802",
+    "geom:latitude":40.21802,
+    "geom:longitude":47.68847,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Galma",
+    "gn:country_code":"AZ",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586410,
+    "gn:latitude":40.21802,
+    "gn:longitude":47.68847,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"G\u0259lm\u0259",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u0259lm\u0259"
+    ],
+    "name:und_x_variant":[
+        "Gal\u2019mya",
+        "Gyal\u2019ma",
+        "Gyal\u2019mya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668509,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586410,
+        "wk:page":"G%C9%99lm%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"444938b707e29cb05ab232317726ef2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225981029,
+            "macroregion_id":1108808627,
+            "region_id":85668509
+        }
+    ],
+    "wof:id":1225981029,
+    "wof:lastmodified":1537585432,
+    "wof:name":"Galma",
+    "wof:parent_id":85668509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.68847,
+    40.21802,
+    47.68847,
+    40.21802
+],
+  "geometry": {"coordinates":[47.68847,40.21802],"type":"Point"}
+}

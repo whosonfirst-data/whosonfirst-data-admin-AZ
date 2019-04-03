@@ -1,0 +1,68 @@
+{
+  "id": 1226178679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.41151,39.82172,48.41151,39.82172",
+    "geom:latitude":39.82172,
+    "geom:longitude":48.41151,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Yevdokimovka",
+    "gn:country_code":"AZ",
+    "gn:dem":-16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389120,
+    "gn:latitude":39.82172,
+    "gn:longitude":48.41151,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Yevdokimovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668433,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389120,
+        "wk:page":"Yevdokimovka"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c8c00c701aebfbdbca3691d4627b0b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226178679,
+            "macroregion_id":1108808627,
+            "region_id":85668433
+        }
+    ],
+    "wof:id":1226178679,
+    "wof:lastmodified":1537486573,
+    "wof:name":"Yevdokimovka",
+    "wof:parent_id":85668433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.41151,
+    39.82172,
+    48.41151,
+    39.82172
+],
+  "geometry": {"coordinates":[48.41151,39.82172],"type":"Point"}
+}

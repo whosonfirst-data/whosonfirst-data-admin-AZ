@@ -1,0 +1,90 @@
+{
+  "id": 1276801567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.70532,39.55889,46.70532,39.55889",
+    "geom:latitude":39.55889,
+    "geom:longitude":46.70532,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Arpagyadyuk",
+    "gn:country_code":"AZ",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148502,
+    "gn:latitude":39.55889,
+    "gn:longitude":46.70532,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Arpagyadyuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Arpag\u0259dik"
+    ],
+    "name:hye_x_preferred":[
+        "Arp\u2019agetik"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0580\u0583\u0561\u0584\u0565\u057f\u056b\u056f",
+        "\u0554\u0561\u0580\u056b\u0576\u0563",
+        "Arp\u2019ak\u2019etik",
+        "\u0531\u0580\u0583\u0561\u0563\u0565\u057f\u056b\u056f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u043f\u0430\u0433\u044f\u0434\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "K\u2019aring",
+        "Arpaguetik",
+        "Arpagyadyuk",
+        "Arpagyadik",
+        "\u0410\u0440\u043f\u0430\u0433\u044f\u0434\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148502,
+        "wk:page":"Arpag%C9%99dik"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"77d0b53abd1e6f3cfaf9570c92288893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276801567,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1276801567,
+    "wof:lastmodified":1537585276,
+    "wof:name":"Arpagyadyuk",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.70532,
+    39.55889000000001,
+    46.70532,
+    39.55889000000001
+],
+  "geometry": {"coordinates":[46.70532,39.55889000000001],"type":"Point"}
+}

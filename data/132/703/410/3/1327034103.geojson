@@ -1,0 +1,68 @@
+{
+  "id": 1327034103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.315,40.13667,49.315,40.13667",
+    "geom:latitude":40.13667,
+    "geom:longitude":49.315,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gasan",
+    "gn:country_code":"AZ",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800457,
+    "gn:latitude":40.13667,
+    "gn:longitude":49.315,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Gasan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668251,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800457,
+        "wk:page":"Gasan%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"223ab441661df171792d77aed68254cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327034103,
+            "macroregion_id":1108808621,
+            "region_id":85668251
+        }
+    ],
+    "wof:id":1327034103,
+    "wof:lastmodified":1537486678,
+    "wof:name":"Gasan",
+    "wof:parent_id":85668251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.315,
+    40.13667,
+    49.315,
+    40.13667
+],
+  "geometry": {"coordinates":[49.315,40.13667],"type":"Point"}
+}

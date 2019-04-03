@@ -1,0 +1,70 @@
+{
+  "id": 1309776375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.34684,39.25679,48.34684,39.25679",
+    "geom:latitude":39.25679,
+    "geom:longitude":48.34684,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Teklya",
+    "gn:country_code":"AZ",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147061,
+    "gn:latitude":39.25679,
+    "gn:longitude":48.34684,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Teklya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u0259kl\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147061
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"88ca2a3c207b70f3a3e824a26174456f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309776375,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1309776375,
+    "wof:lastmodified":1537585141,
+    "wof:name":"Teklya",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.34684,
+    39.25679,
+    48.34684,
+    39.25679
+],
+  "geometry": {"coordinates":[48.34684,39.25679],"type":"Point"}
+}

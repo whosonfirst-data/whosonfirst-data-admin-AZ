@@ -1,0 +1,89 @@
+{
+  "id": 1310562681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.29618,39.82192,46.29618,39.82192",
+    "geom:latitude":39.82192,
+    "geom:longitude":46.29618,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Velibeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":1677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146993,
+    "gn:latitude":39.82192,
+    "gn:longitude":46.29618,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Velibeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "V\u0259lib\u0259yli"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u056c\u056b\u0562\u0565\u0575\u056c\u056b"
+    ],
+    "name:hye_x_variant":[
+        "Valibeyli",
+        "Verishen",
+        "\u054e\u0565\u0580\u056b\u0577\u0565\u0576",
+        "Verin Shen",
+        "\u054e\u0565\u0580\u056b\u0576 \u0547\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u0431\u0435\u0439\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Belibeyli",
+        "Velibeyli",
+        "\u0412\u0435\u043b\u0438\u0431\u0435\u0439\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146993,
+        "wk:page":"V%C9%99lib%C9%99yli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"010d459e686eaa3ccda6b83f0aeb55c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310562681,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1310562681,
+    "wof:lastmodified":1537585135,
+    "wof:name":"Velibeyli",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.29618,
+    39.82192,
+    46.29618,
+    39.82192
+],
+  "geometry": {"coordinates":[46.29618,39.82192],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 421192439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.41517,40.75728,48.41517,40.75728",
+    "geom:latitude":40.75728,
+    "geom:longitude":48.41517,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u0430\u043d\u0430\u043a\u0435\u0440\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Khankendi"
+    ],
+    "qs:gn_country":"AZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":585970,
+    "qs:gn_pop":0,
+    "qs:name":"Xank\u00e4ndi",
+    "qs:name_adm0":"Azerbaijan",
+    "qs:name_adm1":"Ismayilli",
+    "qs:photos":66,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":66,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168203,
+    "qs:woe_adm0":23424741,
+    "qs:woe_id":1951551,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585970,
+        "gp:id":1951551,
+        "qs:id":1168203
+    },
+    "wof:country":"AZ",
+    "wof:created":1459009737,
+    "wof:geomhash":"e7318f9c2e9cb29824ff30b3ca97949e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":421192439,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":421192439,
+    "wof:lastmodified":1501214826,
+    "wof:name":"Xank\u00e4ndi",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.41517,
+    40.75728,
+    48.41517,
+    40.75728
+],
+  "geometry": {"coordinates":[48.41517,40.75728],"type":"Point"}
+}

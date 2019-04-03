@@ -1,0 +1,83 @@
+{
+  "id": 1226179115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.61351,40.42448,48.61351,40.42448",
+    "geom:latitude":40.42448,
+    "geom:longitude":48.61351,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Kishlak Geoglyar",
+    "gn:country_code":"AZ",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586460,
+    "gn:latitude":40.42448,
+    "gn:longitude":48.61351,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Kishlak Geoglyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7\u00f6l G\u00f6yl\u0259r"
+    ],
+    "name:eng_x_preferred":[
+        "G\u00f6yl\u01ddr \u00c7\u00f6l"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0439\u043b\u044f\u0440_\u0427\u0435\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Geoglyar-Chol\u2019",
+        "G\u00ebylyar Ch\u00ebl\u2019",
+        "Geoglyar",
+        "G\u00f6yl\u0259r \u00c7\u00f6l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586460,
+        "wk:page":"G%C3%B6yl%C9%99r_%C3%87%C3%B6l"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f7e21bb81295ff69e23a9475f12cdfcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226179115,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1226179115,
+    "wof:lastmodified":1537585435,
+    "wof:name":"Kishlak Geoglyar",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.61351,
+    40.42448,
+    48.61351,
+    40.42448
+],
+  "geometry": {"coordinates":[48.61351,40.42448],"type":"Point"}
+}

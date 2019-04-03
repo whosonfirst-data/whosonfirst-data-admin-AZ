@@ -1,0 +1,75 @@
+{
+  "id": 1344061741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.48504,41.11561,45.48504,41.11561",
+    "geom:latitude":41.11561,
+    "geom:longitude":45.48504,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Gadzhally",
+    "gn:country_code":"AZ",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586464,
+    "gn:latitude":41.11561,
+    "gn:longitude":45.48504,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Gadzhally",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 G\u00f6yc\u0259li"
+    ],
+    "name:und_x_variant":[
+        "G\u00ebydzhali",
+        "Gadzhally",
+        "G\u00f6yc\u0259li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668195,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586464
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7ed7b7ffdc89b986b508377bd5c4d554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344061741,
+            "macroregion_id":1108808609,
+            "region_id":85668195
+        }
+    ],
+    "wof:id":1344061741,
+    "wof:lastmodified":1537585436,
+    "wof:name":"Gadzhally",
+    "wof:parent_id":85668195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.48504000000001,
+    41.11561,
+    45.48504000000001,
+    41.11561
+],
+  "geometry": {"coordinates":[45.48504000000001,41.11561],"type":"Point"}
+}

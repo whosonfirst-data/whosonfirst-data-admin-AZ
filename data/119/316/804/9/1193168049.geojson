@@ -1,0 +1,68 @@
+{
+  "id": 1193168049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.65,40.78333,45.65,40.78333",
+    "geom:latitude":40.78333,
+    "geom:longitude":45.65,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Chukhurtala",
+    "gn:country_code":"AZ",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586818,
+    "gn:latitude":40.78333,
+    "gn:longitude":45.65,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Chukhurtala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586818,
+        "wk:page":"Chukhurtala"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"380faa78fae8b59b2814f9e13cfbc745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193168049,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1193168049,
+    "wof:lastmodified":1537486655,
+    "wof:name":"Chukhurtala",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.65,
+    40.78333,
+    45.65,
+    40.78333
+],
+  "geometry": {"coordinates":[45.65,40.78333],"type":"Point"}
+}

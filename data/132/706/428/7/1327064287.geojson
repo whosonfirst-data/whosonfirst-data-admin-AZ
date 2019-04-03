@@ -1,0 +1,77 @@
+{
+  "id": 1327064287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.81498,40.00925,46.81498,40.00925",
+    "geom:latitude":40.00925,
+    "geom:longitude":46.81498,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Dashbashy",
+    "gn:country_code":"AZ",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586776,
+    "gn:latitude":40.00925,
+    "gn:longitude":46.81498,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"Dashbashy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Da\u015fba\u015f\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "P\u2019arrukh"
+    ],
+    "name:hye_x_variant":[
+        "\u0553\u0561\u057c\u0578\u0582\u056d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586776,
+        "wk:page":"Da%C5%9Fba%C5%9F%C4%B1%2C_Agdam"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e08340e394c434bdaced643a44aa82be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327064287,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1327064287,
+    "wof:lastmodified":1537585457,
+    "wof:name":"Dashbashy",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.81498,
+    40.00925,
+    46.81498,
+    40.00925
+],
+  "geometry": {"coordinates":[46.81498,40.00925],"type":"Point"}
+}

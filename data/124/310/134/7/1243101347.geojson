@@ -1,0 +1,72 @@
+{
+  "id": 1243101347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.59829,41.03701,45.59829,41.03701",
+    "geom:latitude":41.03701,
+    "geom:longitude":45.59829,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Dzhelilli",
+    "gn:country_code":"AZ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586677,
+    "gn:latitude":41.03701,
+    "gn:longitude":45.59829,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Dzhelilli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhalilli",
+        "C\u0259lilli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668195,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586677,
+        "wk:page":"C%C9%99lilli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7093e698788a2b90d6fa20891e897805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243101347,
+            "macroregion_id":1108808609,
+            "region_id":85668195
+        }
+    ],
+    "wof:id":1243101347,
+    "wof:lastmodified":1537585451,
+    "wof:name":"Dzhelilli",
+    "wof:parent_id":85668195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.59829000000001,
+    41.03701,
+    45.59829000000001,
+    41.03701
+],
+  "geometry": {"coordinates":[45.59829000000001,41.03701],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343592611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.87592,41.41101,46.87592,41.41101",
+    "geom:latitude":41.41101,
+    "geom:longitude":46.87592,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Meshabash",
+    "gn:country_code":"AZ",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585531,
+    "gn:latitude":41.41101,
+    "gn:longitude":46.87592,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Meshabash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Me\u015f\u0259ba\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668557,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585531,
+        "wk:page":"Me%C5%9F%C9%99ba%C5%9F"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"79497f08e6367d26439614752b3c5e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343592611,
+            "macroregion_id":1108808619,
+            "region_id":85668557
+        }
+    ],
+    "wof:id":1343592611,
+    "wof:lastmodified":1537585371,
+    "wof:name":"Meshabash",
+    "wof:parent_id":85668557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.87592,
+    41.41101,
+    46.87592,
+    41.41101
+],
+  "geometry": {"coordinates":[46.87592,41.41101],"type":"Point"}
+}

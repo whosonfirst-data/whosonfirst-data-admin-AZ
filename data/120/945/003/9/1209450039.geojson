@@ -1,0 +1,76 @@
+{
+  "id": 1209450039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.5533,39.31486,46.5533,39.31486",
+    "geom:latitude":39.31486,
+    "geom:longitude":46.5533,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Asagi Xocamsaqli",
+    "gn:country_code":"AZ",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148472,
+    "gn:latitude":39.31486,
+    "gn:longitude":46.5533,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"A\u015fa\u011f\u0131 Xocamsaql\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 Xocamusaxl\u0131"
+    ],
+    "name:aze_x_variant":[
+        "A\u015fa\u011f\u0131 Xocamsaql\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0448\u0430\u0433\u044b \u0425\u043e\u0434\u0436\u0430\u043c\u0443\u0441\u0430\u0445\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ashaga Khodzham Sagly",
+        "Ashagy Khodzhamusakhly",
+        "Khodzham Saqly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148472,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_Xocamusaxl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"56eb0a37ffdfda773be49898e7497f8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209450039
+        }
+    ],
+    "wof:id":1209450039,
+    "wof:lastmodified":1537585274,
+    "wof:name":"Asagi Xocamsaqli",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.5533,
+    39.31486,
+    46.5533,
+    39.31486
+],
+  "geometry": {"coordinates":[46.5533,39.31486],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343602037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.01503,39.54005,45.01503,39.54005",
+    "geom:latitude":39.54005,
+    "geom:longitude":45.01503,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147997.0",
+    "gn:asciiname":"Yuxari Araliq",
+    "gn:country_code":"AZ",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394101,
+    "gn:latitude":39.54005,
+    "gn:longitude":45.01503,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Yuxar\u0131 Aral\u0131q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yuxar\u0131 Aral\u0131q",
+        "Yukhary-Aralyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668667,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394101,
+        "wk:page":"Yuxar%C4%B1_Aral%C4%B1q"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d64e1cf28bfb1f51e68a234a21d21b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343602037,
+            "macroregion_id":1108808617,
+            "region_id":85668667
+        }
+    ],
+    "wof:id":1343602037,
+    "wof:lastmodified":1537585297,
+    "wof:name":"Yuxari Araliq",
+    "wof:parent_id":85668667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.01503,
+    39.54005,
+    45.01503,
+    39.54005
+],
+  "geometry": {"coordinates":[45.01503,39.54005],"type":"Point"}
+}

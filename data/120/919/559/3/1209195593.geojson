@@ -1,0 +1,68 @@
+{
+  "id": 1209195593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.12535,40.42365,47.12535,40.42365",
+    "geom:latitude":40.42365,
+    "geom:longitude":47.12535,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Dzheirli",
+    "gn:country_code":"AZ",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586658,
+    "gn:latitude":40.42365,
+    "gn:longitude":47.12535,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Dzheirli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "C\u0259yirli"
+    ],
+    "name:und_x_variant":[
+        "Dzhayirli",
+        "Irivanly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586658
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"46d9f2431f9d0b843b4988504c72e0ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209195593
+        }
+    ],
+    "wof:id":1209195593,
+    "wof:lastmodified":1537585449,
+    "wof:name":"Dzheirli",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.12535,
+    40.42365,
+    47.12535,
+    40.42365
+],
+  "geometry": {"coordinates":[47.12535,40.42365],"type":"Point"}
+}

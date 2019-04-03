@@ -1,0 +1,86 @@
+{
+  "id": 1276708045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.39816,39.7776,46.39816,39.7776",
+    "geom:latitude":39.7776,
+    "geom:longitude":46.39816,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Byulevlik",
+    "gn:country_code":"AZ",
+    "gn:dem":1577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148294,
+    "gn:latitude":39.7776,
+    "gn:longitude":46.39816,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Byulevlik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "B\u00fcl\u00f6vl\u00fck"
+    ],
+    "name:hye_x_preferred":[
+        "Byulevlik\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0575\u0578\u0582\u056c\u0565\u057e\u056c\u056b\u0584",
+        "Antarranej",
+        "\u0531\u0576\u057f\u0561\u057c\u0561\u0576\u0565\u057b",
+        "Antarramej",
+        "\u0531\u0576\u057f\u0561\u057c\u0561\u0574\u0565\u057b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044e\u043b\u0435\u0432\u043b\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "\u0411\u044e\u043b\u0435\u0432\u043b\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148294
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a349badb2322fa3fca909917dfa3f8c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276708045,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1276708045,
+    "wof:lastmodified":1537585259,
+    "wof:name":"Byulevlik",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.39816,
+    39.7776,
+    46.39816,
+    39.7776
+],
+  "geometry": {"coordinates":[46.39816,39.7776],"type":"Point"}
+}

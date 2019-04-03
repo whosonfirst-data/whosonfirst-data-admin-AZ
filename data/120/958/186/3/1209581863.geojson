@@ -1,0 +1,79 @@
+{
+  "id": 1209581863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.12658,39.53564,47.12658,39.53564",
+    "geom:latitude":39.53564,
+    "geom:longitude":47.12658,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Kochakhmedli",
+    "gn:country_code":"AZ",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147725,
+    "gn:latitude":39.53564,
+    "gn:longitude":47.12658,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Kochakhmedli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qo\u00e7\u0259hm\u0259dli"
+    ],
+    "name:hye_x_preferred":[
+        "K\u2019ochahmedli"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0578\u0579\u0561\u0570\u0574\u0565\u0564\u056c\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0447\u0430\u0445\u043c\u0435\u0434\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ghouchahmedli",
+        "Kochakhmedli",
+        "\u041a\u043e\u0447\u0430\u0445\u043c\u0435\u0434\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147725,
+        "wk:page":"Qo%C3%A7%C9%99hm%C9%99dli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9e27f9b278cada38a3ea980ab17773e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209581863
+        }
+    ],
+    "wof:id":1209581863,
+    "wof:lastmodified":1537585201,
+    "wof:name":"Kochakhmedli",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.12658,
+    39.53564,
+    47.12658,
+    39.53564
+],
+  "geometry": {"coordinates":[47.12658,39.53564],"type":"Point"}
+}

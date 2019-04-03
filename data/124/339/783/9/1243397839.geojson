@@ -1,0 +1,80 @@
+{
+  "id": 1243397839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.90211,40.47443,46.90211,40.47443",
+    "geom:latitude":40.47443,
+    "geom:longitude":46.90211,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Bildircinli",
+    "gn:country_code":"AZ",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586974,
+    "gn:latitude":40.47443,
+    "gn:longitude":46.90211,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bildir\u00e7inli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bildirchinli"
+    ],
+    "name:aze_x_variant":[
+        "Bildir\u00e7inli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043b\u0434\u0438\u0440\u0447\u0438\u043d\u0434\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bildirchindi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586974,
+        "wk:page":"Bildir%C3%A7inli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1bc8de4e411f5e221a558047ce4affbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243397839,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1243397839,
+    "wof:lastmodified":1537585472,
+    "wof:name":"Bildircinli",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.90211,
+    40.47443,
+    46.90211,
+    40.47443
+],
+  "geometry": {"coordinates":[46.90211,40.47443],"type":"Point"}
+}

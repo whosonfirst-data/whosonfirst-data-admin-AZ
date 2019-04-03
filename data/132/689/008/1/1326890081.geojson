@@ -1,0 +1,72 @@
+{
+  "id": 1326890081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.61556,38.95625,48.61556,38.95625",
+    "geom:latitude":38.95625,
+    "geom:longitude":48.61556,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Sygdash",
+    "gn:country_code":"AZ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147097,
+    "gn:latitude":38.95625,
+    "gn:longitude":48.61556,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sygdash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sigdash",
+        "S\u0131\u011fda\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147097,
+        "wk:page":"S%C4%B1%C4%9Fda%C5%9F"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"310c6a93f0740295bc8ce447b3aa3501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326890081,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1326890081,
+    "wof:lastmodified":1537585143,
+    "wof:name":"Sygdash",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.61556,
+    38.95625,
+    48.61556,
+    38.95625
+],
+  "geometry": {"coordinates":[48.61556,38.95625],"type":"Point"}
+}

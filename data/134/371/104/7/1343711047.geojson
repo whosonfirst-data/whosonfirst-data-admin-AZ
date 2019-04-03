@@ -1,0 +1,74 @@
+{
+  "id": 1343711047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.62581,38.97846,48.62581,38.97846",
+    "geom:latitude":38.97846,
+    "geom:longitude":48.62581,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Qodman",
+    "gn:country_code":"AZ",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147724,
+    "gn:latitude":38.97846,
+    "gn:longitude":48.62581,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Qodman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kodoman",
+        "Godman",
+        "Kodman",
+        "Qodman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147724,
+        "wk:page":"Qodman"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1b8e7b7f6d97b9a036b3942a0ca5b0a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343711047,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1343711047,
+    "wof:lastmodified":1537585201,
+    "wof:name":"Qodman",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.62581,
+    38.97846,
+    48.62581,
+    38.97846
+],
+  "geometry": {"coordinates":[48.62581,38.97846],"type":"Point"}
+}

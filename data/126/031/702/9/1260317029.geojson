@@ -1,0 +1,72 @@
+{
+  "id": 1260317029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.33933,38.61154,48.33933,38.61154",
+    "geom:latitude":38.61154,
+    "geom:longitude":48.33933,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Ashagy-Gyaduk",
+    "gn:country_code":"AZ",
+    "gn:dem":1698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":388743,
+    "gn:latitude":38.61154,
+    "gn:longitude":48.33933,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Ashagy-Gyaduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Nizhniy Gyaduk",
+        "Ashagy-Gyaduk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668403,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388743,
+        "wk:page":"Nizhniy_Gyaduk"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"54bfa80325138f4f3c7f6cf154627978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260317029,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":1260317029,
+    "wof:lastmodified":1537585291,
+    "wof:name":"Ashagy-Gyaduk",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.33933,
+    38.61154000000001,
+    48.33933,
+    38.61154000000001
+],
+  "geometry": {"coordinates":[48.33933,38.61154000000001],"type":"Point"}
+}

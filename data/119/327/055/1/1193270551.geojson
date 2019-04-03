@@ -1,0 +1,71 @@
+{
+  "id": 1193270551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.50291,40.72774,48.50291,40.72774",
+    "geom:latitude":40.72774,
+    "geom:longitude":48.50291,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dilman",
+    "gn:country_code":"AZ",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586730,
+    "gn:latitude":40.72774,
+    "gn:longitude":48.50291,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Dilman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Dil\u2019man"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586730,
+        "wk:page":"Dilman"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e923264f1cae6077bf82338a7c4bde21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193270551,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1193270551,
+    "wof:lastmodified":1537585454,
+    "wof:name":"Dilman",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.50291,
+    40.72774,
+    48.50291,
+    40.72774
+],
+  "geometry": {"coordinates":[48.50291,40.72774],"type":"Point"}
+}

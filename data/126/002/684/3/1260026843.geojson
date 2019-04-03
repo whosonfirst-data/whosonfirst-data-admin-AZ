@@ -1,0 +1,74 @@
+{
+  "id": 1260026843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7393,38.85319,48.7393,38.85319",
+    "geom:latitude":38.85319,
+    "geom:longitude":48.7393,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Xarxatan",
+    "gn:country_code":"AZ",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147794,
+    "gn:latitude":38.85319,
+    "gn:longitude":48.7393,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Xarxatan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xarxatan"
+    ],
+    "name:und_x_variant":[
+        "Kharkhatan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147794,
+        "wk:page":"Xarxatan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"24cfd5a51466ec4042de48ee0fdd34b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260026843,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1260026843,
+    "wof:lastmodified":1537585209,
+    "wof:name":"Xarxatan",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7393,
+    38.85319000000001,
+    48.7393,
+    38.85319000000001
+],
+  "geometry": {"coordinates":[48.7393,38.85319000000001],"type":"Point"}
+}

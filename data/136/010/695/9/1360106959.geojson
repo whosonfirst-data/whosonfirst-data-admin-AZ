@@ -1,0 +1,73 @@
+{
+  "id": 1360106959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.24581,40.523,48.24581,40.523",
+    "geom:latitude":40.523,
+    "geom:longitude":48.24581,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ciyni",
+    "gn:country_code":"AZ",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586839,
+    "gn:latitude":40.523,
+    "gn:longitude":48.24581,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"\u00c7iyni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7iyni"
+    ],
+    "name:und_x_variant":[
+        "Chiyni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586839
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ee8d94659b96444b5ede3bed59d7d605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360106959,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1360106959,
+    "wof:lastmodified":1537585462,
+    "wof:name":"Ciyni",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.24581,
+    40.523,
+    48.24581,
+    40.523
+],
+  "geometry": {"coordinates":[48.24581,40.523],"type":"Point"}
+}

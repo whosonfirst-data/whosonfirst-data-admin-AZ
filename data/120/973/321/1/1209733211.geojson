@@ -1,0 +1,74 @@
+{
+  "id": 1209733211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.8517,40.49691,49.8517,40.49691",
+    "geom:latitude":40.49691,
+    "geom:longitude":49.8517,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mehdiabad",
+    "gn:country_code":"AZ",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8572256,
+    "gn:latitude":40.49691,
+    "gn:longitude":49.8517,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Mehdiabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mehdiabad"
+    ],
+    "name:und_x_variant":[
+        "Mekhdiabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668251,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8572256,
+        "wk:page":"Mehdiabad%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2e20de7167fa666679403b890e183288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209733211,
+            "macroregion_id":1108808621,
+            "region_id":85668251
+        }
+    ],
+    "wof:id":1209733211,
+    "wof:lastmodified":1537585532,
+    "wof:name":"Mehdiabad",
+    "wof:parent_id":85668251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.8517,
+    40.49691,
+    49.8517,
+    40.49691
+],
+  "geometry": {"coordinates":[49.8517,40.49691],"type":"Point"}
+}

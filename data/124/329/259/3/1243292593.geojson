@@ -1,0 +1,84 @@
+{
+  "id": 1243292593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.67245,40.06357,46.67245,40.06357",
+    "geom:latitude":40.06357,
+    "geom:longitude":46.67245,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Balliqaya",
+    "gn:country_code":"AZ",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585908,
+    "gn:latitude":40.06357,
+    "gn:longitude":46.67245,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Ball\u0131qaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ball\u0131qaya"
+    ],
+    "name:hye_x_preferred":[
+        "Kich\u2019an"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u056b\u0579\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0447\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Ki\u00e7an",
+        "Kichan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585908,
+        "wk:page":"Ki%C3%A7an"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a1ca5227dcbc2b8a3e77d72001f1b34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243292593,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1243292593,
+    "wof:lastmodified":1537585395,
+    "wof:name":"Balliqaya",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.67245,
+    40.06357,
+    46.67245,
+    40.06357
+],
+  "geometry": {"coordinates":[46.67245,40.06357],"type":"Point"}
+}

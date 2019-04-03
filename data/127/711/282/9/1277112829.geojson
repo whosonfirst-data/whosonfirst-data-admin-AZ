@@ -1,0 +1,72 @@
+{
+  "id": 1277112829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.60119,39.68065,46.60119,39.68065",
+    "geom:latitude":39.68065,
+    "geom:longitude":46.60119,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Dashtaog",
+    "gn:country_code":"AZ",
+    "gn:dem":1481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148228,
+    "gn:latitude":39.68065,
+    "gn:longitude":46.60119,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Dashtaog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dashtagog",
+        "Dashtaog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668643,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148228,
+        "wk:page":"Dashtaog"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8da61847e45e053bb5c87917e06ca18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277112829,
+            "macroregion_id":1108808615,
+            "region_id":85668643
+        }
+    ],
+    "wof:id":1277112829,
+    "wof:lastmodified":1537585251,
+    "wof:name":"Dashtaog",
+    "wof:parent_id":85668643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.60119,
+    39.68065,
+    46.60119,
+    39.68065
+],
+  "geometry": {"coordinates":[46.60119,39.68065],"type":"Point"}
+}

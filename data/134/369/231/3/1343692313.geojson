@@ -1,0 +1,78 @@
+{
+  "id": 1343692313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.48882,41.69596,48.48882,41.69596",
+    "geom:latitude":41.69596,
+    "geom:longitude":48.48882,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Sirvanovka",
+    "gn:country_code":"AZ",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585019,
+    "gn:latitude":41.69596,
+    "gn:longitude":48.48882,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u015e\u0131rvanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u015e\u0131rvanovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0440\u0432\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Shirvanovka",
+        "\u015e\u0131rvanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585019,
+        "wk:page":"%C5%9Eirvanovka"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f821f8e2de69026facaba18f3704aac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343692313,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1343692313,
+    "wof:lastmodified":1537585337,
+    "wof:name":"Sirvanovka",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.48882,
+    41.69596,
+    48.48882,
+    41.69596
+],
+  "geometry": {"coordinates":[48.48882,41.69596],"type":"Point"}
+}

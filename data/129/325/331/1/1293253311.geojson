@@ -1,0 +1,74 @@
+{
+  "id": 1293253311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.82765,38.76308,48.82765,38.76308",
+    "geom:latitude":38.76308,
+    "geom:longitude":48.82765,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Digah",
+    "gn:country_code":"AZ",
+    "gn:dem":-20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148198,
+    "gn:latitude":38.76308,
+    "gn:longitude":48.82765,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Digah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Digah"
+    ],
+    "name:und_x_variant":[
+        "Dygya",
+        "Digyakh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668697,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148198
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1fb95fbae97f561218cf8628a44bf8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293253311,
+            "macroregion_id":1108808625,
+            "region_id":85668697
+        }
+    ],
+    "wof:id":1293253311,
+    "wof:lastmodified":1537585248,
+    "wof:name":"Digah",
+    "wof:parent_id":85668697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.82765,
+    38.76308,
+    48.82765,
+    38.76308
+],
+  "geometry": {"coordinates":[48.82765,38.76308],"type":"Point"}
+}

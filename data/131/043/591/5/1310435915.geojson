@@ -1,0 +1,73 @@
+{
+  "id": 1310435915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.93244,39.66975,46.93244,39.66975",
+    "geom:latitude":39.66975,
+    "geom:longitude":46.93244,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Nerk'in T'aghavard",
+    "gn:country_code":"AZ",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8655931,
+    "gn:latitude":39.66975,
+    "gn:longitude":46.93244,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Nerk\u2019in T\u2019aghavard",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Nerk\u2019in T\u2019aghavard"
+    ],
+    "name:hye_x_variant":[
+        "\u0546\u0565\u0580\u0584\u056b\u0576 \u0539\u0561\u0572\u0561\u057e\u0561\u0580\u0564"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8655931
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"52b56be89905d5ef0993e0ddf5aea748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310435915,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1310435915,
+    "wof:lastmodified":1537585538,
+    "wof:name":"Nerk'in T'aghavard",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.93244,
+    39.66975,
+    46.93244,
+    39.66975
+],
+  "geometry": {"coordinates":[46.93244,39.66975],"type":"Point"}
+}

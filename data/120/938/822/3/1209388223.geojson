@@ -1,0 +1,64 @@
+{
+  "id": 1209388223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.38633,39.11267,48.38633,39.11267",
+    "geom:latitude":39.11267,
+    "geom:longitude":48.38633,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Koshabulak",
+    "gn:country_code":"AZ",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389032,
+    "gn:latitude":39.11267,
+    "gn:longitude":48.38633,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Koshabulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kochev\u2019ye Koshabulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389032
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1492905784be2b1c9b8b16d79a2c19d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209388223
+        }
+    ],
+    "wof:id":1209388223,
+    "wof:lastmodified":1537585292,
+    "wof:name":"Koshabulak",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.38633,
+    39.11267,
+    48.38633,
+    39.11267
+],
+  "geometry": {"coordinates":[48.38633,39.11267],"type":"Point"}
+}

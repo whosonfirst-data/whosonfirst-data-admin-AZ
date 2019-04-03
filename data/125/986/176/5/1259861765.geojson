@@ -1,0 +1,72 @@
+{
+  "id": 1259861765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.07496,40.46179,46.07496,40.46179",
+    "geom:latitude":40.46179,
+    "geom:longitude":46.07496,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Qazaxyolcular",
+    "gn:country_code":"AZ",
+    "gn:dem":1643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586093,
+    "gn:latitude":40.46179,
+    "gn:longitude":46.07496,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Qazaxyol\u00e7ular",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kazakh\u00eblchular",
+        "Qazaxyol\u00e7ular"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586093,
+        "wk:page":"Qazaxyol%C3%A7ular"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c4a59877517437d93cc63bf416589ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259861765,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1259861765,
+    "wof:lastmodified":1537585408,
+    "wof:name":"Qazaxyolcular",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.07496,
+    40.46179,
+    46.07496,
+    40.46179
+],
+  "geometry": {"coordinates":[46.07496,40.46179],"type":"Point"}
+}

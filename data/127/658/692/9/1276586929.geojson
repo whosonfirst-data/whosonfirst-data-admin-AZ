@@ -1,0 +1,84 @@
+{
+  "id": 1276586929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.96613,39.49775,46.96613,39.49775",
+    "geom:latitude":39.49775,
+    "geom:longitude":46.96613,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Zamzur",
+    "gn:country_code":"AZ",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146902,
+    "gn:latitude":39.49775,
+    "gn:longitude":46.96613,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Zamzur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u0259r\u0259k\u0259nd"
+    ],
+    "name:hye_x_preferred":[
+        "\u053e\u0561\u0574\u0571\u0578\u0580"
+    ],
+    "name:hye_x_variant":[
+        "Tsamdzor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043c\u0437\u0443\u0440"
+    ],
+    "name:und_x_variant":[
+        "Tsamdzor",
+        "Zamzur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146902,
+        "wk:page":"D%C9%99r%C9%99k%C9%99nd%2C_Khojavend"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5c79563f214cdc9262d9533d7024ec60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276586929,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1276586929,
+    "wof:lastmodified":1537585125,
+    "wof:name":"Zamzur",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.96613,
+    39.49775,
+    46.96613,
+    39.49775
+],
+  "geometry": {"coordinates":[46.96613,39.49775],"type":"Point"}
+}

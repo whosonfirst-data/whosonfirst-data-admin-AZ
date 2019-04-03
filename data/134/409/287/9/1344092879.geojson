@@ -1,0 +1,71 @@
+{
+  "id": 1344092879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.31994,38.89751,48.31994,38.89751",
+    "geom:latitude":38.89751,
+    "geom:longitude":48.31994,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Vergyaduz",
+    "gn:country_code":"AZ",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146987,
+    "gn:latitude":38.89751,
+    "gn:longitude":48.31994,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vergyaduz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u0259rg\u0259d\u00fcz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668497,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146987,
+        "wk:page":"V%C9%99rg%C9%99d%C3%BCz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3efed0761b20b4f602d40c4c25eb2789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344092879,
+            "macroregion_id":1108808625,
+            "region_id":85668497
+        }
+    ],
+    "wof:id":1344092879,
+    "wof:lastmodified":1537585134,
+    "wof:name":"Vergyaduz",
+    "wof:parent_id":85668497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.31994,
+    38.89751,
+    48.31994,
+    38.89751
+],
+  "geometry": {"coordinates":[48.31994,38.89751],"type":"Point"}
+}

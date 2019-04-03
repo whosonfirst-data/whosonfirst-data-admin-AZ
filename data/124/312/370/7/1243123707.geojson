@@ -1,0 +1,74 @@
+{
+  "id": 1243123707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.81939,40.91772,47.81939,40.91772",
+    "geom:latitude":40.91772,
+    "geom:longitude":47.81939,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Aydinqislaq",
+    "gn:country_code":"AZ",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587126,
+    "gn:latitude":40.91772,
+    "gn:longitude":47.81939,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Ayd\u0131nq\u0131\u015flaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aydynkyshlakh",
+        "Aydin-Kishlyag",
+        "Aydynkyshlak",
+        "Ayd\u0131nq\u0131\u015flaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587126,
+        "wk:page":"Ayd%C4%B1nq%C4%B1%C5%9Flaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"15fd8a78a2e75b45c6d4ef262cdff331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243123707,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1243123707,
+    "wof:lastmodified":1537585482,
+    "wof:name":"Aydinqislaq",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.81939000000001,
+    40.91772,
+    47.81939000000001,
+    40.91772
+],
+  "geometry": {"coordinates":[47.81939000000001,40.91772],"type":"Point"}
+}

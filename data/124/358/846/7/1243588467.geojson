@@ -1,0 +1,74 @@
+{
+  "id": 1243588467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.57706,41.25012,48.57706,41.25012",
+    "geom:latitude":41.25012,
+    "geom:longitude":48.57706,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Rustov",
+    "gn:country_code":"AZ",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585195,
+    "gn:latitude":41.25012,
+    "gn:longitude":48.57706,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Rustov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rustov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u0442\u043e\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585195,
+        "wk:page":"Rustov"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0d2ef4505c9a6b2b11936d20f484fba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243588467,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1243588467,
+    "wof:lastmodified":1537585349,
+    "wof:name":"Rustov",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.57706,
+    41.25012,
+    48.57706,
+    41.25012
+],
+  "geometry": {"coordinates":[48.57706,41.25012],"type":"Point"}
+}

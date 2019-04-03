@@ -1,0 +1,84 @@
+{
+  "id": 1209651493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.70118,39.8969,46.70118,39.8969",
+    "geom:latitude":39.8969,
+    "geom:longitude":46.70118,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Qayabasi",
+    "gn:country_code":"AZ",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148246,
+    "gn:latitude":39.8969,
+    "gn:longitude":46.70118,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Qayabas\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u0259hr\u0259v"
+    ],
+    "name:aze_x_variant":[
+        "Qayabas\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u0570\u0580\u0561\u057e"
+    ],
+    "name:hye_x_variant":[
+        "Dahrav"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0433\u0440\u0430\u0432"
+    ],
+    "name:und_x_variant":[
+        "Lusadzor",
+        "Dagrav",
+        "Dagrov",
+        "Dahrav",
+        "\u0414\u0430\u0433\u0440\u0430\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148246,
+        "wk:page":"D%C9%99hr%C9%99v"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2d75c8f36e690d5c14ab2527f8c70e80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209651493
+        }
+    ],
+    "wof:id":1209651493,
+    "wof:lastmodified":1537585254,
+    "wof:name":"Qayabasi",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.70118,
+    39.8969,
+    46.70118,
+    39.8969
+],
+  "geometry": {"coordinates":[46.70118,39.8969],"type":"Point"}
+}

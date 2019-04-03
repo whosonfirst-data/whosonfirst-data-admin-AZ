@@ -1,0 +1,70 @@
+{
+  "id": 1344031105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.30156,39.25926,48.30156,39.25926",
+    "geom:latitude":39.25926,
+    "geom:longitude":48.30156,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Madatli",
+    "gn:country_code":"AZ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439513,
+    "gn:latitude":39.25926,
+    "gn:longitude":48.30156,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Madatli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259d\u0259tli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439513
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"68ac80cca0ae83a8d9ac3aa4335f8716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344031105,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1344031105,
+    "wof:lastmodified":1537585520,
+    "wof:name":"Madatli",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.30156,
+    39.25926,
+    48.30156,
+    39.25926
+],
+  "geometry": {"coordinates":[48.30156,39.25926],"type":"Point"}
+}

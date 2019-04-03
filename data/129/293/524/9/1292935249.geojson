@@ -1,0 +1,78 @@
+{
+  "id": 1292935249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.68259,40.974,48.68259,40.974",
+    "geom:latitude":40.974,
+    "geom:longitude":48.68259,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Xaltan",
+    "gn:country_code":"AZ",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585982,
+    "gn:latitude":40.974,
+    "gn:longitude":48.68259,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Xaltan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Xaltan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043b\u0442\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Khaltan",
+        "Xaltan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585982,
+        "wk:page":"Xaltan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0dd5cb60a6247b862003b29febcbb5a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1292935249,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1292935249,
+    "wof:lastmodified":1537585400,
+    "wof:name":"Xaltan",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.68259000000001,
+    40.974,
+    48.68259000000001,
+    40.974
+],
+  "geometry": {"coordinates":[48.68259000000001,40.974],"type":"Point"}
+}

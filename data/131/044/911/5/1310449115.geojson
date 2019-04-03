@@ -1,0 +1,81 @@
+{
+  "id": 1310449115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.41597,39.87982,46.41597,39.87982",
+    "geom:latitude":39.87982,
+    "geom:longitude":46.41597,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Shamkend",
+    "gn:country_code":"AZ",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147200,
+    "gn:latitude":39.87982,
+    "gn:longitude":46.41597,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Shamkend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015eamk\u0259nd"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0574\u0584\u0565\u0576\u0564"
+    ],
+    "name:hye_x_variant":[
+        "Shamk\u2019",
+        "\u0547\u0561\u0574\u0584"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043c\u043a\u0435\u043d\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147200,
+        "wk:page":"%C5%9Eamk%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e966363bea2324adf4aa82aab3b01bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310449115,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1310449115,
+    "wof:lastmodified":1537585153,
+    "wof:name":"Shamkend",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.41597,
+    39.87982,
+    46.41597,
+    39.87982
+],
+  "geometry": {"coordinates":[46.41597,39.87982],"type":"Point"}
+}

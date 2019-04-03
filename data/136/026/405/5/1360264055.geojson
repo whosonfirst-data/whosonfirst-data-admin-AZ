@@ -1,0 +1,84 @@
+{
+  "id": 1360264055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.95706,39.42323,46.95706,39.42323",
+    "geom:latitude":39.42323,
+    "geom:longitude":46.95706,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Khalapyu",
+    "gn:country_code":"AZ",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147829,
+    "gn:latitude":39.42323,
+    "gn:longitude":46.95706,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Khalapyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "X\u0259l\u0259fli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043b\u0430\u0444\u043b\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u0425\u0430\u043b\u0430\u0444\u043b\u044f"
+    ],
+    "name:und_x_variant":[
+        "Khalaplyu",
+        "Khalapyu",
+        "Khalafli",
+        "\u0425\u0430\u043b\u0430\u0444\u043b\u044b",
+        "Khalaflya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147829,
+        "wk:page":"Khalafli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6c477b0d739dbb77ee382097b2d7926f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360264055,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1360264055,
+    "wof:lastmodified":1537585212,
+    "wof:name":"Khalapyu",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.95706,
+    39.42323,
+    46.95706,
+    39.42323
+],
+  "geometry": {"coordinates":[46.95706,39.42323],"type":"Point"}
+}

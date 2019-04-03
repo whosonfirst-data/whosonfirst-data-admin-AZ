@@ -1,0 +1,72 @@
+{
+  "id": 1327119869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.80278,38.6033,48.80278,38.6033",
+    "geom:latitude":38.6033,
+    "geom:longitude":48.80278,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Vaqo",
+    "gn:country_code":"AZ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147006,
+    "gn:latitude":38.6033,
+    "gn:longitude":48.80278,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Vaqo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vago",
+        "Vaqo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147006,
+        "wk:page":"Vaqo"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1ecf3a74f045b9a58a3175c17288ebb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327119869,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1327119869,
+    "wof:lastmodified":1537585135,
+    "wof:name":"Vaqo",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.80278,
+    38.6033,
+    48.80278,
+    38.6033
+],
+  "geometry": {"coordinates":[48.80278,38.6033],"type":"Point"}
+}

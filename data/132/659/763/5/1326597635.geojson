@@ -1,0 +1,73 @@
+{
+  "id": 1326597635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3832,40.90986,48.3832,40.90986",
+    "geom:latitude":40.90986,
+    "geom:longitude":48.3832,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Varna",
+    "gn:country_code":"AZ",
+    "gn:dem":1787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":584744,
+    "gn:latitude":40.90986,
+    "gn:longitude":48.3832,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Varna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Varna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584744
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8ade700e8faed0f33f3efed32d35e805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326597635,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1326597635,
+    "wof:lastmodified":1537585319,
+    "wof:name":"Varna",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3832,
+    40.90986,
+    48.3832,
+    40.90986
+],
+  "geometry": {"coordinates":[48.3832,40.90986],"type":"Point"}
+}

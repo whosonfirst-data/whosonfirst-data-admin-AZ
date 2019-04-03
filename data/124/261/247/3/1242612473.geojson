@@ -1,0 +1,84 @@
+{
+  "id": 1242612473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.97833,39.62056,46.97833,39.62056",
+    "geom:latitude":39.62056,
+    "geom:longitude":46.97833,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Azix",
+    "gn:cc2":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148422,
+    "gn:latitude":39.62056,
+    "gn:longitude":46.97833,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Az\u0131x",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Az\u0131x"
+    ],
+    "name:aze_x_variant":[
+        "Azox"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0566\u0578\u056d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0437\u043e\u0445"
+    ],
+    "name:und_x_variant":[
+        "Azokh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148422,
+        "wk:page":"Azokh"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9224df3eee59adab87a4319241ac1572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242612473,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1242612473,
+    "wof:lastmodified":1537585270,
+    "wof:name":"Azix",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.97833,
+    39.62056,
+    46.97833,
+    39.62056
+],
+  "geometry": {"coordinates":[46.97833,39.62056],"type":"Point"}
+}

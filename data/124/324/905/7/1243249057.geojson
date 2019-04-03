@@ -1,0 +1,74 @@
+{
+  "id": 1243249057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.60571,38.55837,48.60571,38.55837",
+    "geom:latitude":38.55837,
+    "geom:longitude":48.60571,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Klinbi",
+    "gn:country_code":"AZ",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8435282,
+    "gn:latitude":38.55837,
+    "gn:longitude":48.60571,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Kl\u0131nbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kl\u0131nbi"
+    ],
+    "name:und_x_variant":[
+        "Klynbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435282,
+        "wk:page":"Klinbi"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"942cb1b4b62641adc246f8759be99291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243249057,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1243249057,
+    "wof:lastmodified":1537585520,
+    "wof:name":"Klinbi",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.60571,
+    38.55837,
+    48.60571,
+    38.55837
+],
+  "geometry": {"coordinates":[48.60571,38.55837],"type":"Point"}
+}

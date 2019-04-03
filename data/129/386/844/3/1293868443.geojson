@@ -1,0 +1,75 @@
+{
+  "id": 1293868443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.13056,40.49389,50.13056,40.49389",
+    "geom:latitude":40.49389,
+    "geom:longitude":50.13056,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sagan",
+    "gn:country_code":"AZ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585089,
+    "gn:latitude":40.49389,
+    "gn:longitude":50.13056,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"\u015ea\u011fan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015ea\u011fan"
+    ],
+    "name:und_x_variant":[
+        "Shagany",
+        "Shagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585089,
+        "wk:page":"%C5%9Ea%C4%9Fan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"77709b0dc15c30afd969f94cab886f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293868443,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1293868443,
+    "wof:lastmodified":1537585342,
+    "wof:name":"Sagan",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.13056,
+    40.49389,
+    50.13056,
+    40.49389
+],
+  "geometry": {"coordinates":[50.13056,40.49389],"type":"Point"}
+}

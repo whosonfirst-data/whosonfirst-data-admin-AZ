@@ -1,0 +1,83 @@
+{
+  "id": 1327462485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.96939,40.35827,46.96939,40.35827",
+    "geom:latitude":40.35827,
+    "geom:longitude":46.96939,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Buruc",
+    "gn:country_code":"AZ",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586930,
+    "gn:latitude":40.35827,
+    "gn:longitude":46.96939,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Buruc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Buruc"
+    ],
+    "name:hye_x_preferred":[
+        "Buruj"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0578\u0582\u0580\u0578\u0582\u057b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u0443\u0434\u0436"
+    ],
+    "name:und_x_variant":[
+        "Burudzh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586930,
+        "wk:page":"Buruc"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"65ffbd893d57475570113e5c4241af37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327462485,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1327462485,
+    "wof:lastmodified":1537585470,
+    "wof:name":"Buruc",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.96939,
+    40.35827000000001,
+    46.96939,
+    40.35827000000001
+],
+  "geometry": {"coordinates":[46.96939,40.35827000000001],"type":"Point"}
+}

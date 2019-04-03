@@ -1,0 +1,76 @@
+{
+  "id": 1310694781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.77917,38.45169,48.77917,38.45169",
+    "geom:latitude":38.45169,
+    "geom:longitude":48.77917,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Zungulyash",
+    "gn:country_code":"AZ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146867,
+    "gn:latitude":38.45169,
+    "gn:longitude":48.77917,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Zungulyash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Z\u00fcng\u00fcl\u0259\u015f"
+    ],
+    "name:und_x_variant":[
+        "Zangyulyash",
+        "Zungulyash",
+        "Z\u00fcnq\u00fcl\u0259\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146867,
+        "wk:page":"Z%C3%BCng%C3%BCl%C9%99%C5%9F"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2d8b045f422e7c2f58050e0207707300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310694781,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1310694781,
+    "wof:lastmodified":1537585122,
+    "wof:name":"Zungulyash",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.77917,
+    38.45169,
+    48.77917,
+    38.45169
+],
+  "geometry": {"coordinates":[48.77917,38.45169],"type":"Point"}
+}

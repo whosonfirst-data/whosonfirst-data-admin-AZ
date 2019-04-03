@@ -1,0 +1,68 @@
+{
+  "id": 1209345899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.64374,38.662,48.64374,38.662",
+    "geom:latitude":38.662,
+    "geom:longitude":48.64374,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Byursyulyum",
+    "gn:country_code":"AZ",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148292,
+    "gn:latitude":38.662,
+    "gn:longitude":48.64374,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Byursyulyum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barsalym",
+        "B\u00fcrs\u00fcl\u00fcm",
+        "Byursyulyum",
+        "B\u00fcrs\u00fcml\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148292,
+        "wk:page":"B%C3%BCrs%C3%BCl%C3%BCm"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"68f0baa31bdcc629bf8645e02682d89c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209345899
+        }
+    ],
+    "wof:id":1209345899,
+    "wof:lastmodified":1537585259,
+    "wof:name":"Byursyulyum",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.64374,
+    38.662,
+    48.64374,
+    38.662
+],
+  "geometry": {"coordinates":[48.64374,38.662],"type":"Point"}
+}

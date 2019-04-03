@@ -1,0 +1,75 @@
+{
+  "id": 1276661425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.5196,40.50865,49.5196,40.50865",
+    "geom:latitude":40.50865,
+    "geom:longitude":49.5196,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nagdali",
+    "gn:country_code":"AZ",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":585399,
+    "gn:latitude":40.50865,
+    "gn:longitude":49.5196,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Na\u011fdal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_preferred":[
+        "Na\u011fdal\u0131"
+    ],
+    "name:und_x_variant":[
+        "Nakhdalli",
+        "Nagdali",
+        "Nagdaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668251,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585399
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e30f0a61479b6ae06fdfcf74f5bd2a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276661425,
+            "macroregion_id":1108808621,
+            "region_id":85668251
+        }
+    ],
+    "wof:id":1276661425,
+    "wof:lastmodified":1537585362,
+    "wof:name":"Nagdali",
+    "wof:parent_id":85668251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.5196,
+    40.50865,
+    49.5196,
+    40.50865
+],
+  "geometry": {"coordinates":[49.5196,40.50865],"type":"Point"}
+}

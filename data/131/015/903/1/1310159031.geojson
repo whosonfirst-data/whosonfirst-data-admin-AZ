@@ -1,0 +1,83 @@
+{
+  "id": 1310159031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.41557,39.34837,45.41557,39.34837",
+    "geom:latitude":39.34837,
+    "geom:longitude":45.41557,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"7669114.0",
+    "gn:asciiname":"Cahri",
+    "gn:country_code":"AZ",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148291,
+    "gn:latitude":39.34837,
+    "gn:longitude":45.41557,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Cahri",
+    "gn:population":8200,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "C\u0259hri"
+    ],
+    "name:eng_x_preferred":[
+        "Jahri"
+    ],
+    "name:und_x_variant":[
+        "Dzhagri",
+        "Dzhakhri",
+        "Dzhagry"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668673,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148291,
+        "wk:page":"C%C9%99hri"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"27cbc04146e37cea12f515c3906e0a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310159031,
+            "macroregion_id":1108808617,
+            "region_id":85668673
+        }
+    ],
+    "wof:id":1310159031,
+    "wof:lastmodified":1537585259,
+    "wof:name":"Cahri",
+    "wof:parent_id":85668673,
+    "wof:placetype":"locality",
+    "wof:population":8200,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.41557,
+    39.34837,
+    45.41557,
+    39.34837
+],
+  "geometry": {"coordinates":[45.41557,39.34837],"type":"Point"}
+}

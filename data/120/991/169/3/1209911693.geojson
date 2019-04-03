@@ -1,0 +1,68 @@
+{
+  "id": 1209911693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.41239,40.65624,48.41239,40.65624",
+    "geom:latitude":40.65624,
+    "geom:longitude":48.41239,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nuran",
+    "gn:country_code":"AZ",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585343,
+    "gn:latitude":40.65624,
+    "gn:longitude":48.41239,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Nuran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585343,
+        "wk:page":"Nuran%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"00882b6fc65ae91ccb3aba61a9f1c635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209911693,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1209911693,
+    "wof:lastmodified":1537486607,
+    "wof:name":"Nuran",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.41239,
+    40.65624,
+    48.41239,
+    40.65624
+],
+  "geometry": {"coordinates":[48.41239,40.65624],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293814213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.6748,39.01899,46.6748,39.01899",
+    "geom:latitude":39.01899,
+    "geom:longitude":46.6748,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Baharli",
+    "gn:country_code":"AZ",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148400,
+    "gn:latitude":39.01899,
+    "gn:longitude":46.6748,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Baharl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Baharl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0445\u0430\u0440\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Bakharly",
+        "Bagarly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148400
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e775c4a14412df20dee18b97e599c701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293814213,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1293814213,
+    "wof:lastmodified":1537585268,
+    "wof:name":"Baharli",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.6748,
+    39.01899,
+    46.6748,
+    39.01899
+],
+  "geometry": {"coordinates":[46.6748,39.01899],"type":"Point"}
+}

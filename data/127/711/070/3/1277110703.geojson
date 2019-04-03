@@ -1,0 +1,78 @@
+{
+  "id": 1277110703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.34437,41.46768,48.34437,41.46768",
+    "geom:latitude":41.46768,
+    "geom:longitude":48.34437,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Hil",
+    "gn:country_code":"AZ",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586449,
+    "gn:latitude":41.46768,
+    "gn:longitude":48.34437,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Hil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Gil\u2019",
+        "Hil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586449,
+        "wk:page":"Hil%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f1aad897aa2ff769338967221e110918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277110703,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1277110703,
+    "wof:lastmodified":1537585434,
+    "wof:name":"Hil",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.34437,
+    41.46768,
+    48.34437,
+    41.46768
+],
+  "geometry": {"coordinates":[48.34437,41.46768],"type":"Point"}
+}

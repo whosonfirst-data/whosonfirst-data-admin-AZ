@@ -1,0 +1,72 @@
+{
+  "id": 1243208665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.62101,38.67482,48.62101,38.67482",
+    "geom:latitude":38.67482,
+    "geom:longitude":48.62101,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Qilqlov",
+    "gn:country_code":"AZ",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148020,
+    "gn:latitude":38.67482,
+    "gn:longitude":48.62101,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Q\u0131lqlov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gylglov",
+        "Gel\u2019glov",
+        "Q\u0131lqlov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668403,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148020
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c43c345edbbcb35c6710ab4b1c21996b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243208665,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":1243208665,
+    "wof:lastmodified":1537585231,
+    "wof:name":"Qilqlov",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.62101,
+    38.67482,
+    48.62101,
+    38.67482
+],
+  "geometry": {"coordinates":[48.62101,38.67482],"type":"Point"}
+}

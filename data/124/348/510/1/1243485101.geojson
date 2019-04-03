@@ -1,0 +1,70 @@
+{
+  "id": 1243485101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.62994,41.35502,48.62994,41.35502",
+    "geom:latitude":41.35502,
+    "geom:longitude":48.62994,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Nugadiqazma",
+    "gn:country_code":"AZ",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9887956,
+    "gn:latitude":41.35502,
+    "gn:longitude":48.62994,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"N\u00fcg\u0259diqazma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "N\u00fcg\u0259diqazma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9887956
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"28b84f3f5b4590d3c034ee5e30049528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243485101,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1243485101,
+    "wof:lastmodified":1537585543,
+    "wof:name":"Nugadiqazma",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.62994000000001,
+    41.35502,
+    48.62994000000001,
+    41.35502
+],
+  "geometry": {"coordinates":[48.62994000000001,41.35502],"type":"Point"}
+}

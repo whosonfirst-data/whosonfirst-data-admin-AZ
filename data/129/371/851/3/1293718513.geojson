@@ -1,0 +1,80 @@
+{
+  "id": 1293718513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.03712,41.10551,49.03712,41.10551",
+    "geom:latitude":41.10551,
+    "geom:longitude":49.03712,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Eynibulaq",
+    "gn:country_code":"AZ",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586594,
+    "gn:latitude":41.10551,
+    "gn:longitude":49.03712,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Eynibulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Eynibulaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0439\u043d\u0438\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Eyni-Bulagi",
+        "Eynibulak",
+        "Eynibulag",
+        "Eynibulaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668425,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586594,
+        "wk:page":"Eynibulaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5ed71e9c15e1da1f2c095fde5779db3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293718513,
+            "macroregion_id":1108808623,
+            "region_id":85668425
+        }
+    ],
+    "wof:id":1293718513,
+    "wof:lastmodified":1537585445,
+    "wof:name":"Eynibulaq",
+    "wof:parent_id":85668425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.03712,
+    41.10551,
+    49.03712,
+    41.10551
+],
+  "geometry": {"coordinates":[49.03712,41.10551],"type":"Point"}
+}

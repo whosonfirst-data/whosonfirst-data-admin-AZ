@@ -1,0 +1,77 @@
+{
+  "id": 1209072433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.32083,39.40643,47.32083,39.40643",
+    "geom:latitude":39.40643,
+    "geom:longitude":47.32083,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Qazaxlar",
+    "gn:country_code":"AZ",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147866,
+    "gn:latitude":39.40643,
+    "gn:longitude":47.32083,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Qazaxlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qazaxlar"
+    ],
+    "name:hye_x_preferred":[
+        "Ghazakhlar"
+    ],
+    "name:hye_x_variant":[
+        "\u0542\u0561\u0566\u0561\u056d\u056c\u0561\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0445\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Kazakhlar",
+        "\u041a\u0430\u0437\u0430\u0445\u043b\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147866
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1733c439527dd432074a75f98cb282dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209072433
+        }
+    ],
+    "wof:id":1209072433,
+    "wof:lastmodified":1537585216,
+    "wof:name":"Qazaxlar",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.32083,
+    39.40643,
+    47.32083,
+    39.40643
+],
+  "geometry": {"coordinates":[47.32083,39.40643],"type":"Point"}
+}

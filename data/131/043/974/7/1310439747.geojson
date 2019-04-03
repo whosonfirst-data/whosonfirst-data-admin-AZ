@@ -1,0 +1,73 @@
+{
+  "id": 1310439747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.28024,40.99399,47.28024,40.99399",
+    "geom:latitude":40.99399,
+    "geom:longitude":47.28024,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Aydinbulaq",
+    "gn:country_code":"AZ",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587128,
+    "gn:latitude":40.99399,
+    "gn:longitude":47.28024,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Ayd\u0131nbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aydynbulak",
+        "Aydynbulag",
+        "Ayd\u0131nbulaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587128,
+        "wk:page":"Ayd%C4%B1nbulaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c34688849e36047f3d46a395a8333f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310439747,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1310439747,
+    "wof:lastmodified":1537585482,
+    "wof:name":"Aydinbulaq",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.28024,
+    40.99399,
+    47.28024,
+    40.99399
+],
+  "geometry": {"coordinates":[47.28024,40.99399],"type":"Point"}
+}

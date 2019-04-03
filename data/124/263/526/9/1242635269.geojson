@@ -1,0 +1,70 @@
+{
+  "id": 1242635269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9936,40.08963,47.9936,40.08963",
+    "geom:latitude":40.08963,
+    "geom:longitude":47.9936,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Mamedli",
+    "gn:country_code":"AZ",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800614,
+    "gn:latitude":40.08963,
+    "gn:longitude":47.9936,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Mamedli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0259mm\u0259dli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668365,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800614
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e0836985f5798e4b07dd3fe5b4ac5917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242635269,
+            "macroregion_id":1108808627,
+            "region_id":85668365
+        }
+    ],
+    "wof:id":1242635269,
+    "wof:lastmodified":1537585504,
+    "wof:name":"Mamedli",
+    "wof:parent_id":85668365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9936,
+    40.08963,
+    47.9936,
+    40.08963
+],
+  "geometry": {"coordinates":[47.9936,40.08963],"type":"Point"}
+}

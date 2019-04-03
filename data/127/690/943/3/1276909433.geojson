@@ -1,0 +1,83 @@
+{
+  "id": 1276909433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.72162,39.22533,46.72162,39.22533",
+    "geom:latitude":39.22533,
+    "geom:longitude":46.72162,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Qaralar",
+    "gn:country_code":"AZ",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147898,
+    "gn:latitude":39.22533,
+    "gn:longitude":46.72162,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Qaralar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaralar"
+    ],
+    "name:hye_x_preferred":[
+        "Khoy"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0578\u0575"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Karalar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147898,
+        "wk:page":"Qaralar%2C_Qubadli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e6eb844c87ad1789465b5d0680d24c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276909433,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1276909433,
+    "wof:lastmodified":1537585219,
+    "wof:name":"Qaralar",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.72162,
+    39.22533,
+    46.72162,
+    39.22533
+],
+  "geometry": {"coordinates":[46.72162,39.22533],"type":"Point"}
+}

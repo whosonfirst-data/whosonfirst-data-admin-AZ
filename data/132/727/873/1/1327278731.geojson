@@ -1,0 +1,72 @@
+{
+  "id": 1327278731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.43483,39.31226,45.43483,39.31226",
+    "geom:latitude":39.31226,
+    "geom:longitude":45.43483,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"7669114.0",
+    "gn:asciiname":"Nazarabad",
+    "gn:country_code":"AZ",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147427,
+    "gn:latitude":39.31226,
+    "gn:longitude":45.43483,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Nazarabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "N\u0259z\u0259rabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668673,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147427,
+        "wk:page":"N%C9%99z%C9%99rabad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e2ec1f077570845fbd2c7bf1554e2c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327278731,
+            "macroregion_id":1108808617,
+            "region_id":85668673
+        }
+    ],
+    "wof:id":1327278731,
+    "wof:lastmodified":1537585172,
+    "wof:name":"Nazarabad",
+    "wof:parent_id":85668673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.43483,
+    39.31226,
+    45.43483,
+    39.31226
+],
+  "geometry": {"coordinates":[45.43483,39.31226],"type":"Point"}
+}

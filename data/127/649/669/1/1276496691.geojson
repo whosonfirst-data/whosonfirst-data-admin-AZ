@@ -1,0 +1,74 @@
+{
+  "id": 1276496691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.70208,38.80936,48.70208,38.80936",
+    "geom:latitude":38.80936,
+    "geom:longitude":48.70208,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Osakyudzha",
+    "gn:country_code":"AZ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147361,
+    "gn:latitude":38.80936,
+    "gn:longitude":48.70208,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Osakyudzha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asakyudzha",
+        "Osakyudzha",
+        "Osakudzha",
+        "Osak\u00fcc\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147361,
+        "wk:page":"Osak%C3%BCc%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2492129e7d15c4c065f9ba144ac0b2a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276496691,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1276496691,
+    "wof:lastmodified":1537585167,
+    "wof:name":"Osakyudzha",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.70208,
+    38.80936,
+    48.70208,
+    38.80936
+],
+  "geometry": {"coordinates":[48.70208,38.80936],"type":"Point"}
+}

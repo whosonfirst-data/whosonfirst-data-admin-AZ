@@ -1,0 +1,87 @@
+{
+  "id": 1327066687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.61173,39.78583,46.61173,39.78583",
+    "geom:latitude":39.78583,
+    "geom:longitude":46.61173,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Sirlan",
+    "gn:country_code":"AZ",
+    "gn:dem":1667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147145,
+    "gn:latitude":39.78583,
+    "gn:longitude":46.61173,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"\u015e\u0131rlan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015e\u0131rlan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0580\u056c\u0561\u0576"
+    ],
+    "name:hye_x_variant":[
+        "Shrlan",
+        "Shrrlan",
+        "\u0547\u057c\u056c\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u044b\u0440\u043b\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Shirlan",
+        "Shyrlan",
+        "Shrlan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147145,
+        "wk:page":"%C5%9E%C4%B1rlan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"76b9b5a315ab970820d2ec4e6f11afb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327066687,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1327066687,
+    "wof:lastmodified":1537585148,
+    "wof:name":"Sirlan",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.61173,
+    39.78583,
+    46.61173,
+    39.78583
+],
+  "geometry": {"coordinates":[46.61173,39.78583],"type":"Point"}
+}

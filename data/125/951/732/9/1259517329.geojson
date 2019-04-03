@@ -1,0 +1,77 @@
+{
+  "id": 1259517329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.52152,41.44081,48.52152,41.44081",
+    "geom:latitude":41.44081,
+    "geom:longitude":48.52152,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Ashagy-Khuch",
+    "gn:country_code":"AZ",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587175,
+    "gn:latitude":41.44081,
+    "gn:longitude":48.52152,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Ashagy-Khuch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 Xu\u00e7"
+    ],
+    "name:und_x_variant":[
+        "Ashaga Khuch",
+        "Ashagy-Guch",
+        "Ashagy-Khuch",
+        "A\u015faq\u0131 Xu\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587175,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_Xu%C3%A7"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5705c1059672ef4d7422c6c87d98becf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259517329,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1259517329,
+    "wof:lastmodified":1537585487,
+    "wof:name":"Ashagy-Khuch",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.52152,
+    41.44081,
+    48.52152,
+    41.44081
+],
+  "geometry": {"coordinates":[48.52152,41.44081],"type":"Point"}
+}

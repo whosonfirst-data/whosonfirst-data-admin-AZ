@@ -1,0 +1,71 @@
+{
+  "id": 1243097655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.9109,39.81561,48.9109,39.81561",
+    "geom:latitude":39.81561,
+    "geom:longitude":48.9109,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Azadkend",
+    "gn:country_code":"AZ",
+    "gn:dem":-22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148428,
+    "gn:latitude":39.81561,
+    "gn:longitude":48.9109,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Azadkend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azadakend",
+        "Azadk\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148428
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b0153b99113b9c84ac7a1b4a46e8905a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243097655,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1243097655,
+    "wof:lastmodified":1537585270,
+    "wof:name":"Azadkend",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.9109,
+    39.81561,
+    48.9109,
+    39.81561
+],
+  "geometry": {"coordinates":[48.9109,39.81561],"type":"Point"}
+}

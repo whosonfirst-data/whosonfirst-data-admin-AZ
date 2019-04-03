@@ -1,0 +1,79 @@
+{
+  "id": 1326665981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.22667,41.45423,48.22667,41.45423",
+    "geom:latitude":41.45423,
+    "geom:longitude":48.22667,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Mucuq",
+    "gn:country_code":"AZ",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585463,
+    "gn:latitude":41.45423,
+    "gn:longitude":48.22667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mucuq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mucuq"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0434\u0436\u0443\u043a"
+    ],
+    "name:und_x_variant":[
+        "Mudzhuk",
+        "Mudzhukh",
+        "Mucuq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585463,
+        "wk:page":"Mucuq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f0168ee93cc24e5cd992830e0596c6bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326665981,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1326665981,
+    "wof:lastmodified":1537585367,
+    "wof:name":"Mucuq",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.22667,
+    41.45423,
+    48.22667,
+    41.45423
+],
+  "geometry": {"coordinates":[48.22667,41.45423],"type":"Point"}
+}

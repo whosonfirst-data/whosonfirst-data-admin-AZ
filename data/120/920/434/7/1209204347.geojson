@@ -1,0 +1,76 @@
+{
+  "id": 1209204347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.60693,40.32185,50.60693,40.32185",
+    "geom:latitude":40.32185,
+    "geom:longitude":50.60693,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Cilov",
+    "gn:country_code":"AZ",
+    "gn:dem":-21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584568,
+    "gn:latitude":40.32185,
+    "gn:longitude":50.60693,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"\u00c7ilov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7ilov"
+    ],
+    "name:eng_x_preferred":[
+        "Jiloy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u043b\u043e\u0439"
+    ],
+    "name:und_x_variant":[
+        "Zhiloy",
+        "Rybnyy Promysel Azrybtrest",
+        "Jiloy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584568,
+        "wk:page":"%C3%87ilov"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ce0414bac12ffd254d15bc88459177c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209204347
+        }
+    ],
+    "wof:id":1209204347,
+    "wof:lastmodified":1537585306,
+    "wof:name":"Cilov",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.60693,
+    40.32185,
+    50.60693,
+    40.32185
+],
+  "geometry": {"coordinates":[50.60693,40.32185],"type":"Point"}
+}

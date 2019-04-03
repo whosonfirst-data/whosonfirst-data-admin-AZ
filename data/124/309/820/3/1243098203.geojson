@@ -1,0 +1,72 @@
+{
+  "id": 1243098203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.65972,40.47738,47.65972,40.47738",
+    "geom:latitude":40.47738,
+    "geom:longitude":47.65972,
+    "gn:admin1_code":"59",
+    "gn:asciiname":"Qarabork",
+    "gn:country_code":"AZ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586236,
+    "gn:latitude":40.47738,
+    "gn:longitude":47.65972,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Qarab\u00f6rk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karab\u00ebrk",
+        "Qarab\u00f6rk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668475,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586236,
+        "wk:page":"Qarab%C3%B6rk"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5527bdf86147e65d39bc3bdf712b2e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243098203,
+            "macroregion_id":1108808627,
+            "region_id":85668475
+        }
+    ],
+    "wof:id":1243098203,
+    "wof:lastmodified":1537585419,
+    "wof:name":"Qarabork",
+    "wof:parent_id":85668475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.65972,
+    40.47738,
+    47.65972,
+    40.47738
+],
+  "geometry": {"coordinates":[47.65972,40.47738],"type":"Point"}
+}

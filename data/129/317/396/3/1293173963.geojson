@@ -1,0 +1,71 @@
+{
+  "id": 1293173963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7811,39.36667,48.7811,39.36667",
+    "geom:latitude":39.36667,
+    "geom:longitude":48.7811,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Kazakhbarasi",
+    "gn:country_code":"AZ",
+    "gn:dem":-24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147867,
+    "gn:latitude":39.36667,
+    "gn:longitude":48.7811,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kazakhbarasi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qazaxb\u0259r\u0259si"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668409,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147867,
+        "wk:page":"Kazakhbarasi"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4d908bd03845bfca5956a03bbd67fd66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293173963,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1293173963,
+    "wof:lastmodified":1537585216,
+    "wof:name":"Kazakhbarasi",
+    "wof:parent_id":85668409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7811,
+    39.36667,
+    48.7811,
+    39.36667
+],
+  "geometry": {"coordinates":[48.7811,39.36667],"type":"Point"}
+}

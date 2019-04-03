@@ -1,0 +1,72 @@
+{
+  "id": 1293869509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.78791,38.49836,48.78791,38.49836",
+    "geom:latitude":38.49836,
+    "geom:longitude":48.78791,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sarak",
+    "gn:country_code":"AZ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147263,
+    "gn:latitude":38.49836,
+    "gn:longitude":48.78791,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Sarak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0259r\u0259k",
+        "Sarak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147263,
+        "wk:page":"S%C9%99r%C9%99k"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3f87454a5d2a0caca379a8de9e76238f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293869509,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1293869509,
+    "wof:lastmodified":1537585160,
+    "wof:name":"Sarak",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.78791,
+    38.49836,
+    48.78791,
+    38.49836
+],
+  "geometry": {"coordinates":[48.78791,38.49836],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360320077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.50166,41.66678,48.50166,41.66678",
+    "geom:latitude":41.66678,
+    "geom:longitude":48.50166,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Ashagy-Imamkulikend",
+    "gn:country_code":"AZ",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622010,
+    "gn:latitude":41.66678,
+    "gn:longitude":48.50166,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Ashagy-Imamkulikend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 \u0130mamquluk\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622010
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9cbed22929f200e566eb28b15c58338c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360320077,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1360320077,
+    "wof:lastmodified":1537585535,
+    "wof:name":"Ashagy-Imamkulikend",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.50166,
+    41.66678,
+    48.50166,
+    41.66678
+],
+  "geometry": {"coordinates":[48.50166,41.66678],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343828167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.44563,39.06746,48.44563,39.06746",
+    "geom:latitude":39.06746,
+    "geom:longitude":48.44563,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ogrubulaq",
+    "gn:country_code":"AZ",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147377,
+    "gn:latitude":39.06746,
+    "gn:longitude":48.44563,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"O\u011frubulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ogru-Bulakh",
+        "Ogrubulak",
+        "O\u011frubulaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147377,
+        "wk:page":"O%C4%9Frubulaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6ed022de100b9e307fd71399c4830d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343828167,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1343828167,
+    "wof:lastmodified":1537585168,
+    "wof:name":"Ogrubulaq",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.44563,
+    39.06746,
+    48.44563,
+    39.06746
+],
+  "geometry": {"coordinates":[48.44563,39.06746],"type":"Point"}
+}

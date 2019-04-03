@@ -1,0 +1,76 @@
+{
+  "id": 1326721271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.59535,38.55046,48.59535,38.55046",
+    "geom:latitude":38.55046,
+    "geom:longitude":48.59535,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Reqloba",
+    "gn:country_code":"AZ",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147289,
+    "gn:latitude":38.55046,
+    "gn:longitude":48.59535,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Reqloba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Reqloba"
+    ],
+    "name:und_x_variant":[
+        "Yagul\u2019ba",
+        "Ryglyba",
+        "R\u0131qloba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147289,
+        "wk:page":"R%C4%B1qloba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2cc8c73e683174040fb1ac94c3e038bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326721271,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1326721271,
+    "wof:lastmodified":1537585161,
+    "wof:name":"Reqloba",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.59535,
+    38.55046,
+    48.59535,
+    38.55046
+],
+  "geometry": {"coordinates":[48.59535,38.55046],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1343415379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.09228,40.18006,48.09228,40.18006",
+    "geom:latitude":40.18006,
+    "geom:longitude":48.09228,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Cholarb",
+    "gn:country_code":"AZ",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586860,
+    "gn:latitude":40.18006,
+    "gn:longitude":48.09228,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Cholarb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7\u00f6l \u018fr\u0259b"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c7\u00f6l\u01ddr\u01ddb"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043b\u044c \u0410\u0440\u0430\u0431"
+    ],
+    "name:und_x_variant":[
+        "Ch\u00ebl\u2019arab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668383,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586860,
+        "wk:page":"%C3%87%C3%B6l_%C6%8Fr%C9%99b"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e2620a29085ea966ca8ef5a41b974d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343415379,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":1343415379,
+    "wof:lastmodified":1537585464,
+    "wof:name":"Cholarb",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.09228,
+    40.18006,
+    48.09228,
+    40.18006
+],
+  "geometry": {"coordinates":[48.09228,40.18006],"type":"Point"}
+}

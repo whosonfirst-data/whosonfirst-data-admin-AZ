@@ -1,0 +1,74 @@
+{
+  "id": 1259433503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.79666,38.91616,48.79666,38.91616",
+    "geom:latitude":38.91616,
+    "geom:longitude":48.79666,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Sirinsu",
+    "gn:country_code":"AZ",
+    "gn:dem":-22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8475317,
+    "gn:latitude":38.91616,
+    "gn:longitude":48.79666,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"\u015eirinsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015eirinsu"
+    ],
+    "name:und_x_variant":[
+        "Shirinsu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8475317,
+        "wk:page":"%C5%9Eirinsu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4f4a3a136e4df4cf2e57bb71fbb58f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259433503,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1259433503,
+    "wof:lastmodified":1537585526,
+    "wof:name":"Sirinsu",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.79666,
+    38.91616,
+    48.79666,
+    38.91616
+],
+  "geometry": {"coordinates":[48.79666,38.91616],"type":"Point"}
+}

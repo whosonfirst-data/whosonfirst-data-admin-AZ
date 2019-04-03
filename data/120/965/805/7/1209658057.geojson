@@ -1,0 +1,65 @@
+{
+  "id": 1209658057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.61395,40.81855,47.61395,40.81855",
+    "geom:latitude":40.81855,
+    "geom:longitude":47.61395,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Beyli",
+    "gn:country_code":"AZ",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586998,
+    "gn:latitude":40.81855,
+    "gn:longitude":47.61395,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Beyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0259yli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586998,
+        "wk:page":"B%C9%99yli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c1a9c6cc92f321d40905b672db01f9d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209658057
+        }
+    ],
+    "wof:id":1209658057,
+    "wof:lastmodified":1537585474,
+    "wof:name":"Beyli",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.61395,
+    40.81855,
+    47.61395,
+    40.81855
+],
+  "geometry": {"coordinates":[47.61395,40.81855],"type":"Point"}
+}

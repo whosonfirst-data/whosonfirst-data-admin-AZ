@@ -1,0 +1,70 @@
+{
+  "id": 1226320957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.0694,40.38861,47.0694,40.38861",
+    "geom:latitude":40.38861,
+    "geom:longitude":47.0694,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Imamkulubeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586347,
+    "gn:latitude":40.38861,
+    "gn:longitude":47.0694,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Imamkulubeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130mamqulub\u0259yli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586347
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7bb057791fbfc18476bc2c4434c1243c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226320957,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1226320957,
+    "wof:lastmodified":1537585427,
+    "wof:name":"Imamkulubeyli",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.0694,
+    40.38861,
+    47.0694,
+    40.38861
+],
+  "geometry": {"coordinates":[47.0694,40.38861],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1259827097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.36567,40.28242,48.36567,40.28242",
+    "geom:latitude":40.28242,
+    "geom:longitude":48.36567,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Karrar",
+    "gn:country_code":"AZ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586024,
+    "gn:latitude":40.28242,
+    "gn:longitude":48.36567,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Karrar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karrar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Kerrar",
+        "Kerar",
+        "Karrar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668383,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586024,
+        "wk:page":"Karrar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"eecbbd0a096fa2d33333fed7600ca2f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259827097,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":1259827097,
+    "wof:lastmodified":1537585404,
+    "wof:name":"Karrar",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.36567,
+    40.28242,
+    48.36567,
+    40.28242
+],
+  "geometry": {"coordinates":[48.36567,40.28242],"type":"Point"}
+}

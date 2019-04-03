@@ -1,0 +1,85 @@
+{
+  "id": 1260157163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.98712,41.20117,48.98712,41.20117",
+    "geom:latitude":41.20117,
+    "geom:longitude":48.98712,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Divichibazar",
+    "gn:country_code":"AZ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":586763,
+    "gn:latitude":41.20117,
+    "gn:longitude":48.98712,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Divichibazar",
+    "gn:population":23248,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "D\u01ddv\u01dd\u00e7i"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0432\u0438\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "D\u00e4v\u00e4chi",
+        "Divichi",
+        "D\u0259v\u0259\u00e7i",
+        "Shabran",
+        "Divachi",
+        "Sabran"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586763,
+        "wk:page":"%C5%9Eabran"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"296eadee252f25c85a785e5dc5529e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260157163,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1260157163,
+    "wof:lastmodified":1537585457,
+    "wof:name":"Divichibazar",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:population":23248,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.98712,
+    41.20117,
+    48.98712,
+    41.20117
+],
+  "geometry": {"coordinates":[48.98712,41.20117],"type":"Point"}
+}

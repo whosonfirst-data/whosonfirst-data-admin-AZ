@@ -1,0 +1,77 @@
+{
+  "id": 1309956803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.54066,39.74223,46.54066,39.74223",
+    "geom:latitude":39.74223,
+    "geom:longitude":46.54066,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ipak Pervoye",
+    "gn:country_code":"AZ",
+    "gn:dem":1678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8457266,
+    "gn:latitude":39.74223,
+    "gn:longitude":46.54066,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Ipak Pervoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Birinci Ip\u0259k"
+    ],
+    "name:aze_x_variant":[
+        "Birinci \u0130p\u0259k"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043f\u044f\u043a \u041f\u0435\u0440\u0432\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8457266,
+        "wk:page":"Birinci_%C4%B0p%C9%99k"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ac8b11d37bef72e3a0aa5408d04880ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309956803,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1309956803,
+    "wof:lastmodified":1537585522,
+    "wof:name":"Ipak Pervoye",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.54066,
+    39.74223,
+    46.54066,
+    39.74223
+],
+  "geometry": {"coordinates":[46.54066,39.74223],"type":"Point"}
+}

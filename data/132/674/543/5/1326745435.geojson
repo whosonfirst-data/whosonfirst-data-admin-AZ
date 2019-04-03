@@ -1,0 +1,66 @@
+{
+  "id": 1326745435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.72231,38.58038,48.72231,38.58038",
+    "geom:latitude":38.58038,
+    "geom:longitude":48.72231,
+    "gn:asciiname":"Dashdatuk",
+    "gn:country_code":"AZ",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8378798,
+    "gn:latitude":38.58038,
+    "gn:longitude":48.72231,
+    "gn:modification_date":"2012-08-21",
+    "gn:name":"Dashdatuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8378798
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"876db7fe038d9e5922d198301ed60cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326745435,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1326745435,
+    "wof:lastmodified":1536676604,
+    "wof:name":"Dashdatuk",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.72231,
+    38.58038,
+    48.72231,
+    38.58038
+],
+  "geometry": {"coordinates":[48.72231,38.58038],"type":"Point"}
+}

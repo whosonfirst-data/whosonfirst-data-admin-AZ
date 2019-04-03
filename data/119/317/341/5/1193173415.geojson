@@ -1,0 +1,75 @@
+{
+  "id": 1193173415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.85349,40.12049,47.85349,40.12049",
+    "geom:latitude":40.12049,
+    "geom:longitude":47.85349,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Seidlyar",
+    "gn:country_code":"AZ",
+    "gn:dem":-8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585108,
+    "gn:latitude":40.12049,
+    "gn:longitude":47.85349,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Seidlyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 Seyidl\u0259r"
+    ],
+    "name:und_x_variant":[
+        "Sendlyar",
+        "Seidlyar",
+        "Seyidl\u0259r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668509,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585108
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d86b56d83a1ce2c032f0cf87dc1b91df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193173415,
+            "macroregion_id":1108808627,
+            "region_id":85668509
+        }
+    ],
+    "wof:id":1193173415,
+    "wof:lastmodified":1537585343,
+    "wof:name":"Seidlyar",
+    "wof:parent_id":85668509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.85349,
+    40.12049,
+    47.85349,
+    40.12049
+],
+  "geometry": {"coordinates":[47.85349,40.12049],"type":"Point"}
+}

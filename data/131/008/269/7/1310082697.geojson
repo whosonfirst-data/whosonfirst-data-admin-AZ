@@ -1,0 +1,77 @@
+{
+  "id": 1310082697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.53442,39.85194,47.53442,39.85194",
+    "geom:latitude":39.85194,
+    "geom:longitude":47.53442,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kyabirli",
+    "gn:country_code":"AZ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585733,
+    "gn:latitude":39.85194,
+    "gn:longitude":47.53442,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Kyabirli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kyabirli"
+    ],
+    "name:aze_x_variant":[
+        "K\u0259birli",
+        "Yuxar\u0131 K\u0259birli"
+    ],
+    "name:und_x_variant":[
+        "Kebirli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668313,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585733
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"43e96db2226f5b82a622195cead9e756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310082697,
+            "macroregion_id":1108808627,
+            "region_id":85668313
+        }
+    ],
+    "wof:id":1310082697,
+    "wof:lastmodified":1537585385,
+    "wof:name":"Kyabirli",
+    "wof:parent_id":85668313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.53442,
+    39.85194,
+    47.53442,
+    39.85194
+],
+  "geometry": {"coordinates":[47.53442,39.85194],"type":"Point"}
+}

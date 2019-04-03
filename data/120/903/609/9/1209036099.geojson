@@ -1,0 +1,64 @@
+{
+  "id": 1209036099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.74416,39.02812,46.74416,39.02812",
+    "geom:latitude":39.02812,
+    "geom:longitude":46.74416,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Velikulubeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171479,
+    "gn:latitude":39.02812,
+    "gn:longitude":46.74416,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Velikulubeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0443\u043b\u0443\u0431\u0435\u0439\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171479
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"81ea997497fab218a59fb07cdd321820",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209036099
+        }
+    ],
+    "wof:id":1209036099,
+    "wof:lastmodified":1537585544,
+    "wof:name":"Velikulubeyli",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.74416,
+    39.02812,
+    46.74416,
+    39.02812
+],
+  "geometry": {"coordinates":[46.74416,39.02812],"type":"Point"}
+}

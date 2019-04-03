@@ -1,0 +1,71 @@
+{
+  "id": 1327189569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.40748,40.92359,48.40748,40.92359",
+    "geom:latitude":40.92359,
+    "geom:longitude":48.40748,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Zarat",
+    "gn:country_code":"AZ",
+    "gn:dem":1520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584591,
+    "gn:latitude":40.92359,
+    "gn:longitude":48.40748,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Zarat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaratbaba-Deresi",
+        "Zarat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584591
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ec5f9967750727737eb526dd6ee35c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327189569,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1327189569,
+    "wof:lastmodified":1537585308,
+    "wof:name":"Zarat",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.40748,
+    40.92359,
+    48.40748,
+    40.92359
+],
+  "geometry": {"coordinates":[48.40748,40.92359],"type":"Point"}
+}

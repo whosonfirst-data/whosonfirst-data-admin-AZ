@@ -1,0 +1,93 @@
+{
+  "id": 1310059167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.90963,38.88375,45.90963,38.88375",
+    "geom:latitude":38.88375,
+    "geom:longitude":45.90963,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147365.0",
+    "gn:asciiname":"Deste",
+    "gn:country_code":"AZ",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148225,
+    "gn:latitude":38.88375,
+    "gn:longitude":45.90963,
+    "gn:modification_date":"2013-05-31",
+    "gn:name":"Deste",
+    "gn:population":4282,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_colloquial":[
+        "D\u0259st\u0259"
+    ],
+    "name:aze_x_historical":[
+        "D\u0259st\u0259"
+    ],
+    "name:aze_x_preferred":[
+        "D\u0259st\u0259"
+    ],
+    "name:eng_x_historical":[
+        "Dasta"
+    ],
+    "name:eng_x_preferred":[
+        "Dasta"
+    ],
+    "name:tur_x_historical":[
+        "Deste"
+    ],
+    "name:tur_x_preferred":[
+        "Deste"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668665,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148225,
+        "wk:page":"D%C9%99st%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b24d63e799145a7d5a83c9fd2e435db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310059167,
+            "macroregion_id":1108808617,
+            "region_id":85668665
+        }
+    ],
+    "wof:id":1310059167,
+    "wof:lastmodified":1537585251,
+    "wof:name":"Deste",
+    "wof:parent_id":85668665,
+    "wof:placetype":"locality",
+    "wof:population":4282,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.90963,
+    38.88375,
+    45.90963,
+    38.88375
+],
+  "geometry": {"coordinates":[45.90963,38.88375],"type":"Point"}
+}

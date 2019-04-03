@@ -1,0 +1,71 @@
+{
+  "id": 1243394063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.69579,40.53032,47.69579,40.53032",
+    "geom:latitude":40.53032,
+    "geom:longitude":47.69579,
+    "gn:admin1_code":"59",
+    "gn:asciiname":"Rastadzha",
+    "gn:country_code":"AZ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585206,
+    "gn:latitude":40.53032,
+    "gn:longitude":47.69579,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Rastadzha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u0259st\u0259c\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668357,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585206,
+        "wk:page":"R%C9%99st%C9%99c%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"882b37a6bfa4d5949a34a970c4dac1e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243394063,
+            "macroregion_id":1108808627,
+            "region_id":85668357
+        }
+    ],
+    "wof:id":1243394063,
+    "wof:lastmodified":1537585349,
+    "wof:name":"Rastadzha",
+    "wof:parent_id":85668357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.69579,
+    40.53032,
+    47.69579,
+    40.53032
+],
+  "geometry": {"coordinates":[47.69579,40.53032],"type":"Point"}
+}

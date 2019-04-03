@@ -1,0 +1,75 @@
+{
+  "id": 1242812703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.96084,40.568,48.96084,40.568",
+    "geom:latitude":40.568,
+    "geom:longitude":48.96084,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Qurbanci",
+    "gn:country_code":"AZ",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585766,
+    "gn:latitude":40.568,
+    "gn:longitude":48.96084,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Qurban\u00e7\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dagkurbanchi",
+        "Kurbanchy",
+        "Dag-Kurbanchy",
+        "Kurbanchi",
+        "Qurban\u00e7\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668419,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585766,
+        "wk:page":"Qurban%C3%A7%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c60b12aee536a3d770a3245a46e12405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242812703,
+            "macroregion_id":1108808611,
+            "region_id":85668419
+        }
+    ],
+    "wof:id":1242812703,
+    "wof:lastmodified":1537585387,
+    "wof:name":"Qurbanci",
+    "wof:parent_id":85668419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.96084000000001,
+    40.56800000000001,
+    48.96084000000001,
+    40.56800000000001
+],
+  "geometry": {"coordinates":[48.96084000000001,40.56800000000001],"type":"Point"}
+}

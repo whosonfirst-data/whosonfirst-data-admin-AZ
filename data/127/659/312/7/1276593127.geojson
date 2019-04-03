@@ -1,0 +1,79 @@
+{
+  "id": 1276593127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.60797,39.49426,45.60797,39.49426",
+    "geom:latitude":39.49426,
+    "geom:longitude":45.60797,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147212.0",
+    "gn:asciiname":"Qizil Qislaq",
+    "gn:country_code":"AZ",
+    "gn:dem":1555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148463,
+    "gn:latitude":39.49426,
+    "gn:longitude":45.60797,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Q\u0131z\u0131l Q\u0131\u015flaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 Reme\u015fin"
+    ],
+    "name:eng_x_preferred":[
+        "Kizil Kishlak"
+    ],
+    "name:und_x_variant":[
+        "Ashagy Remeshin",
+        "Ashaga-Rameshin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668683,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148463,
+        "wk:page":"Q%C4%B1z%C4%B1l_Q%C4%B1%C5%9Flaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bf8971e4a37e3c32e5c52d252f28943d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276593127,
+            "macroregion_id":1108808617,
+            "region_id":85668683
+        }
+    ],
+    "wof:id":1276593127,
+    "wof:lastmodified":1537585272,
+    "wof:name":"Qizil Qislaq",
+    "wof:parent_id":85668683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.60797,
+    39.49426,
+    45.60797,
+    39.49426
+],
+  "geometry": {"coordinates":[45.60797,39.49426],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259613707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.68573,40.5406,48.68573,40.5406",
+    "geom:latitude":40.5406,
+    "geom:longitude":48.68573,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Melik-Chobany",
+    "gn:country_code":"AZ",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585538,
+    "gn:latitude":40.5406,
+    "gn:longitude":48.68573,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Melik-Chobany",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "M\u01ddlik\u00e7obanl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u0438\u043a\u0447\u043e\u0431\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Melikchobanly",
+        "Melik-Chobany",
+        "M\u0259lik\u00e7obanl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585538
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e64457f47866d50b8381df721889294e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259613707,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1259613707,
+    "wof:lastmodified":1537585371,
+    "wof:name":"Melik-Chobany",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.68573,
+    40.5406,
+    48.68573,
+    40.5406
+],
+  "geometry": {"coordinates":[48.68573,40.5406],"type":"Point"}
+}

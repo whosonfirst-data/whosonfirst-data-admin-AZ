@@ -1,0 +1,78 @@
+{
+  "id": 1209390725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.26083,39.57976,47.26083,39.57976",
+    "geom:latitude":39.57976,
+    "geom:longitude":47.26083,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Yukhary Seidakhmedli",
+    "gn:country_code":"AZ",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146919,
+    "gn:latitude":39.57976,
+    "gn:longitude":47.26083,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yukhary Seidakhmedli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 Seyid\u0259hm\u0259dli"
+    ],
+    "name:hye_x_preferred":[
+        "Seyidmakhmedli"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u0565\u0575\u056b\u0564\u0574\u0561\u056d\u0574\u0565\u0564\u056c\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0445\u0430\u0440\u044b \u0421\u0435\u0438\u0434\u0430\u0445\u043c\u0435\u0434\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Yukhari Seyd-Akhmedly",
+        "\u042e\u0445\u0430\u0440\u044b \u0421\u0435\u0438\u0434\u0430\u0445\u043c\u0435\u0434\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146919,
+        "wk:page":"Yuxar%C4%B1_Seyid%C9%99hm%C9%99dli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e86dc2bde2370c930b08ec79b91c6423",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209390725
+        }
+    ],
+    "wof:id":1209390725,
+    "wof:lastmodified":1537585127,
+    "wof:name":"Yukhary Seidakhmedli",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.26083,
+    39.57976,
+    47.26083,
+    39.57976
+],
+  "geometry": {"coordinates":[47.26083,39.57976],"type":"Point"}
+}

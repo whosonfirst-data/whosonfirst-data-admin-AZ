@@ -1,0 +1,86 @@
+{
+  "id": 1309747127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.88623,39.79432,46.88623,39.79432",
+    "geom:latitude":39.79432,
+    "geom:longitude":46.88623,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Ningi",
+    "gn:country_code":"AZ",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147415,
+    "gn:latitude":39.79432,
+    "gn:longitude":46.88623,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Ningi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "C\u0259miyy\u0259t"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0576\u0563\u056b"
+    ],
+    "name:hye_x_variant":[
+        "Nngi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043d\u0433\u0438"
+    ],
+    "name:und_x_variant":[
+        "Nngi",
+        "Ninki",
+        "Nngui",
+        "Ningi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147415,
+        "wk:page":"C%C9%99miyy%C9%99t"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"af54efeb6c0d0ccd674cf952bfffebdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309747127,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1309747127,
+    "wof:lastmodified":1537585171,
+    "wof:name":"Ningi",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.88623,
+    39.79432,
+    46.88623,
+    39.79432
+],
+  "geometry": {"coordinates":[46.88623,39.79432],"type":"Point"}
+}

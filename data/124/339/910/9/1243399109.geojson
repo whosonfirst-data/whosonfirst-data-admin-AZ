@@ -1,0 +1,68 @@
+{
+  "id": 1243399109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.33333,40.85,49.33333,40.85",
+    "geom:latitude":40.85,
+    "geom:longitude":49.33333,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Germiyan",
+    "gn:country_code":"AZ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586473,
+    "gn:latitude":40.85,
+    "gn:longitude":49.33333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Germiyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668485,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586473,
+        "wk:page":"Germiyan%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"abd2327f70adbc93ca0fee8c84381f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243399109,
+            "macroregion_id":1108808621,
+            "region_id":85668485
+        }
+    ],
+    "wof:id":1243399109,
+    "wof:lastmodified":1537486643,
+    "wof:name":"Germiyan",
+    "wof:parent_id":85668485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.33333,
+    40.85,
+    49.33333,
+    40.85
+],
+  "geometry": {"coordinates":[49.33333,40.85],"type":"Point"}
+}

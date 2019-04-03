@@ -1,0 +1,73 @@
+{
+  "id": 1293034631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.94149,39.72776,48.94149,39.72776",
+    "geom:latitude":39.72776,
+    "geom:longitude":48.94149,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Dzhangyan",
+    "gn:country_code":"AZ",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148144,
+    "gn:latitude":39.72776,
+    "gn:longitude":48.94149,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Dzhangyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mugan\u2019-Dzhangen",
+        "Dzhangyan",
+        "C\u0259ngan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148144,
+        "wk:page":"C%C9%99ngan%2C_Salyan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a5ed0c19cc6e84aef63981e2059b3c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293034631,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1293034631,
+    "wof:lastmodified":1537585244,
+    "wof:name":"Dzhangyan",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.94149,
+    39.72776,
+    48.94149,
+    39.72776
+],
+  "geometry": {"coordinates":[48.94149,39.72776],"type":"Point"}
+}

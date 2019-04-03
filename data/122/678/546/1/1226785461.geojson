@@ -1,0 +1,80 @@
+{
+  "id": 1226785461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.84812,40.91655,45.84812,40.91655",
+    "geom:latitude":40.91655,
+    "geom:longitude":45.84812,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Dyukyarli",
+    "gn:country_code":"AZ",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586701,
+    "gn:latitude":40.91655,
+    "gn:longitude":45.84812,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Dyukyarli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "D\u00fcy\u01ddrli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044e\u0433\u0435\u0440\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dugyarli",
+        "Dyugyarli",
+        "Dugyarly",
+        "Dyukyarli",
+        "D\u00fcy\u0259rli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586701
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b4ee4ef8099ff763d4718b538e095f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226785461,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1226785461,
+    "wof:lastmodified":1537585453,
+    "wof:name":"Dyukyarli",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.84812,
+    40.91655,
+    45.84812,
+    40.91655
+],
+  "geometry": {"coordinates":[45.84812,40.91655],"type":"Point"}
+}

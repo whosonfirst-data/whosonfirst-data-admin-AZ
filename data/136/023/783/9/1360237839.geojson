@@ -1,0 +1,69 @@
+{
+  "id": 1360237839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.16945,38.99128,49.16945,38.99128",
+    "geom:latitude":38.99128,
+    "geom:longitude":49.16945,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Kosa",
+    "gn:country_code":"AZ",
+    "gn:dem":-28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":147707,
+    "gn:latitude":38.99128,
+    "gn:longitude":49.16945,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Kosa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85668409,
+        102191569,
+        85632717,
+        1108808627,
+        1092001695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147707
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"882928b307b2887dc7b1e5eb1ab1590f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "county_id":1092001695,
+            "locality_id":1360237839,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1360237839,
+    "wof:lastmodified":1536725832,
+    "wof:name":"Kosa",
+    "wof:parent_id":1092001695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.16945,
+    38.99128,
+    49.16945,
+    38.99128
+],
+  "geometry": {"coordinates":[49.16945,38.99128],"type":"Point"}
+}

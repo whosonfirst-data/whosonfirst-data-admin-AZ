@@ -1,0 +1,71 @@
+{
+  "id": 1343914393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.66966,40.57129,47.66966,40.57129",
+    "geom:latitude":40.57129,
+    "geom:longitude":47.66966,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Yeniarx",
+    "gn:country_code":"AZ",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584677,
+    "gn:latitude":40.57129,
+    "gn:longitude":47.66966,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Yeniarx",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yeniarkh",
+        "Yeniarx"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668357,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584677
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"09d6ecae698a65a028a41181fe5d7123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343914393,
+            "macroregion_id":1108808627,
+            "region_id":85668357
+        }
+    ],
+    "wof:id":1343914393,
+    "wof:lastmodified":1537585314,
+    "wof:name":"Yeniarx",
+    "wof:parent_id":85668357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.66966,
+    40.57129000000001,
+    47.66966,
+    40.57129000000001
+],
+  "geometry": {"coordinates":[47.66966,40.57129000000001],"type":"Point"}
+}

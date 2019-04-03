@@ -1,0 +1,70 @@
+{
+  "id": 1276175631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.80379,40.99956,47.80379,40.99956",
+    "geom:latitude":40.99956,
+    "geom:longitude":47.80379,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Gamzali",
+    "gn:country_code":"AZ",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586526,
+    "gn:latitude":40.99956,
+    "gn:longitude":47.80379,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Gamzali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u0259mz\u0259li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586526
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e07aea0693dc39a932ce3213dadb0247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276175631,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1276175631,
+    "wof:lastmodified":1537585439,
+    "wof:name":"Gamzali",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.80379,
+    40.99956,
+    47.80379,
+    40.99956
+],
+  "geometry": {"coordinates":[47.80379,40.99956],"type":"Point"}
+}

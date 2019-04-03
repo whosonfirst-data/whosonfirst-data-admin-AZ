@@ -1,0 +1,72 @@
+{
+  "id": 1243148713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.42632,39.41017,48.42632,39.41017",
+    "geom:latitude":39.41017,
+    "geom:longitude":48.42632,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Armen-Keno",
+    "gn:country_code":"AZ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389053,
+    "gn:latitude":39.41017,
+    "gn:longitude":48.42632,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Armen-Keno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amank\u0259nd",
+        "Amenkend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668317,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389053,
+        "wk:page":"Amank%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bc80b4351674f254f97e68831efe0dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243148713,
+            "macroregion_id":1108808627,
+            "region_id":85668317
+        }
+    ],
+    "wof:id":1243148713,
+    "wof:lastmodified":1537585292,
+    "wof:name":"Armen-Keno",
+    "wof:parent_id":85668317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.42632,
+    39.41017,
+    48.42632,
+    39.41017
+],
+  "geometry": {"coordinates":[48.42632,39.41017],"type":"Point"}
+}

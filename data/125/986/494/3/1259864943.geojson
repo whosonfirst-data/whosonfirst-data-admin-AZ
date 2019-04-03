@@ -1,0 +1,72 @@
+{
+  "id": 1259864943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.75501,38.52399,48.75501,38.52399",
+    "geom:latitude":38.52399,
+    "geom:longitude":48.75501,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Burzubend",
+    "gn:country_code":"AZ",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148299,
+    "gn:latitude":38.52399,
+    "gn:longitude":48.75501,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Burzubend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birziband",
+        "Burzub\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148299,
+        "wk:page":"Burzub%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b11370cf227762c585f1707470a26b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259864943,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1259864943,
+    "wof:lastmodified":1537585260,
+    "wof:name":"Burzubend",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.75501,
+    38.52399000000001,
+    48.75501,
+    38.52399000000001
+],
+  "geometry": {"coordinates":[48.75501,38.52399000000001],"type":"Point"}
+}

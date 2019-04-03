@@ -1,0 +1,71 @@
+{
+  "id": 1326681143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.32482,41.18914,45.32482,41.18914",
+    "geom:latitude":41.18914,
+    "geom:longitude":45.32482,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Orta Salahli",
+    "gn:country_code":"AZ",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585311,
+    "gn:latitude":41.18914,
+    "gn:longitude":45.32482,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Orta Salahl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Orta-Salakhly",
+        "Orta Salahl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668229,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585311
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6a273799b6544848bc01fb0c6f564dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326681143,
+            "macroregion_id":1108808609,
+            "region_id":85668229
+        }
+    ],
+    "wof:id":1326681143,
+    "wof:lastmodified":1537585356,
+    "wof:name":"Orta Salahli",
+    "wof:parent_id":85668229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.32482,
+    41.18914,
+    45.32482,
+    41.18914
+],
+  "geometry": {"coordinates":[45.32482,41.18914],"type":"Point"}
+}

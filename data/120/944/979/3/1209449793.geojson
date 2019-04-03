@@ -1,0 +1,74 @@
+{
+  "id": 1209449793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.70012,39.32805,46.70012,39.32805",
+    "geom:latitude":39.32805,
+    "geom:longitude":46.70012,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Efendilyar",
+    "gn:country_code":"AZ",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148126,
+    "gn:latitude":39.32805,
+    "gn:longitude":46.70012,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Efendilyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018ff\u0259ndil\u0259r"
+    ],
+    "name:hye_x_preferred":[
+        "Aygek"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0575\u0563\u0565\u056f"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0444\u0435\u043d\u0434\u0438\u043b\u044f\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148126,
+        "wk:page":"%C6%8Ff%C9%99ndil%C9%99r%2C_Qubadli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dc47942cd5a86cfcde8d70771fe4f442",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209449793
+        }
+    ],
+    "wof:id":1209449793,
+    "wof:lastmodified":1537585242,
+    "wof:name":"Efendilyar",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.70012,
+    39.32805,
+    46.70012,
+    39.32805
+],
+  "geometry": {"coordinates":[46.70012,39.32805],"type":"Point"}
+}

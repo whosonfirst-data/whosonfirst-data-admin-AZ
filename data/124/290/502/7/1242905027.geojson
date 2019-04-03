@@ -1,0 +1,79 @@
+{
+  "id": 1242905027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.82277,39.95732,46.82277,39.95732",
+    "geom:latitude":39.95732,
+    "geom:longitude":46.82277,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Verin Klychbag",
+    "gn:country_code":"AZ",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146985,
+    "gn:latitude":39.95732,
+    "gn:longitude":46.82277,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Verin Klychbag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Verin Ql\u0131\u00e7ba\u011f"
+    ],
+    "name:aze_x_variant":[
+        "A\u015fa\u011f\u0131 Q\u0131l\u0131\u00e7ba\u011f"
+    ],
+    "name:und_x_variant":[
+        "Klishbag",
+        "Verin Klychbag",
+        "Ashaga-Klishbag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146985,
+        "wk:page":"Verin_Ql%C4%B1%C3%A7ba%C4%9F"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d1e7bb6de219b4a09129cbfd17ce663a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242905027,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1242905027,
+    "wof:lastmodified":1537585134,
+    "wof:name":"Verin Klychbag",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.82277,
+    39.95732,
+    46.82277,
+    39.95732
+],
+  "geometry": {"coordinates":[46.82277,39.95732],"type":"Point"}
+}

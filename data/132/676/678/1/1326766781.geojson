@@ -1,0 +1,74 @@
+{
+  "id": 1326766781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.00955,40.36819,47.00955,40.36819",
+    "geom:latitude":40.36819,
+    "geom:longitude":47.00955,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Saricali",
+    "gn:country_code":"AZ",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585128,
+    "gn:latitude":40.36819,
+    "gn:longitude":47.00955,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Sar\u0131cal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sar\u0131cal\u0131"
+    ],
+    "name:und_x_variant":[
+        "Sarydzhaly",
+        "Sarydzhally"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585128
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ce5de6a459933807759328dae13a36a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326766781,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1326766781,
+    "wof:lastmodified":1537585344,
+    "wof:name":"Saricali",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.00955,
+    40.36819000000001,
+    47.00955,
+    40.36819000000001
+],
+  "geometry": {"coordinates":[47.00955,40.36819000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242607965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.63905,41.29207,48.63905,41.29207",
+    "geom:latitude":41.29207,
+    "geom:longitude":48.63905,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Yukhary-Kardash",
+    "gn:country_code":"AZ",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586133,
+    "gn:latitude":41.29207,
+    "gn:longitude":48.63905,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Yukhary-Kardash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyardash",
+        "Kardash",
+        "Yukhary-Kardash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586133,
+        "wk:page":"Kardash"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e75fc410027a4117499ba16e9b4db783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242607965,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1242607965,
+    "wof:lastmodified":1537585411,
+    "wof:name":"Yukhary-Kardash",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.63905,
+    41.29207,
+    48.63905,
+    41.29207
+],
+  "geometry": {"coordinates":[48.63905,41.29207],"type":"Point"}
+}

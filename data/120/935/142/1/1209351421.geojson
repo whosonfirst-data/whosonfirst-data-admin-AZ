@@ -1,0 +1,66 @@
+{
+  "id": 1209351421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.74528,41.43098,48.74528,41.43098",
+    "geom:latitude":41.43098,
+    "geom:longitude":48.74528,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Mekhdikyshlak",
+    "gn:country_code":"AZ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585549,
+    "gn:latitude":41.43098,
+    "gn:longitude":48.74528,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Mekhdikyshlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mekhti-Kishlyagi",
+        "Mekhdikyshlak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585549,
+        "wk:page":"Mekhdikyshlak"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"34e2e50deb41fe9593fd0c79998de01a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209351421
+        }
+    ],
+    "wof:id":1209351421,
+    "wof:lastmodified":1537585372,
+    "wof:name":"Mekhdikyshlak",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.74528,
+    41.43098,
+    48.74528,
+    41.43098
+],
+  "geometry": {"coordinates":[48.74528,41.43098],"type":"Point"}
+}

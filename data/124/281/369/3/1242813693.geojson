@@ -1,0 +1,73 @@
+{
+  "id": 1242813693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.47174,41.4631,48.47174,41.4631",
+    "geom:latitude":41.4631,
+    "geom:longitude":48.47174,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Kazmalar",
+    "gn:country_code":"AZ",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586057,
+    "gn:latitude":41.4631,
+    "gn:longitude":48.47174,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Kazmalar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00ebgnakhudat Kazmalar",
+        "Kazmalar",
+        "K\u00f6hn\u0259 Xudat Qazmalar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586057,
+        "wk:page":"K%C3%B6hn%C9%99_Xudat_Qazmalar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2eb398064c768a503519319760464d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242813693,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1242813693,
+    "wof:lastmodified":1537585406,
+    "wof:name":"Kazmalar",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.47174,
+    41.4631,
+    48.47174,
+    41.4631
+],
+  "geometry": {"coordinates":[48.47174,41.4631],"type":"Point"}
+}

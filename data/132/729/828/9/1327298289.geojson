@@ -1,0 +1,76 @@
+{
+  "id": 1327298289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.74965,40.58425,46.74965,40.58425",
+    "geom:latitude":40.58425,
+    "geom:longitude":46.74965,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Ragimli",
+    "gn:country_code":"AZ",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585214,
+    "gn:latitude":40.58425,
+    "gn:longitude":46.74965,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ragimli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0433\u0438\u043c\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ragimly",
+        "Ragimli",
+        "R\u0259himli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585214,
+        "wk:page":"R%C9%99himli%2C_Goranboy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"89414421b1638060d652c0cd5dc4ffff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327298289,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1327298289,
+    "wof:lastmodified":1537585350,
+    "wof:name":"Ragimli",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.74965,
+    40.58425,
+    46.74965,
+    40.58425
+],
+  "geometry": {"coordinates":[46.74965,40.58425],"type":"Point"}
+}

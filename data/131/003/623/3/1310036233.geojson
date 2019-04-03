@@ -1,0 +1,74 @@
+{
+  "id": 1310036233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.74282,40.00772,48.74282,40.00772",
+    "geom:latitude":40.00772,
+    "geom:longitude":48.74282,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Qaratugay",
+    "gn:country_code":"AZ",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147890,
+    "gn:latitude":40.00772,
+    "gn:longitude":48.74282,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Qaratu\u011fay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kara-Tugai",
+        "Karatogay",
+        "Karatugay",
+        "Qaratu\u011fay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147890,
+        "wk:page":"Qaratu%C4%9Fay"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"86f46700c33ce16bda597849d9e7e35d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310036233,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1310036233,
+    "wof:lastmodified":1537585218,
+    "wof:name":"Qaratugay",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.74282,
+    40.00772,
+    48.74282,
+    40.00772
+],
+  "geometry": {"coordinates":[48.74282,40.00772],"type":"Point"}
+}

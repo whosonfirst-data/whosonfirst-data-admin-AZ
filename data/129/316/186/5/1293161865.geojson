@@ -1,0 +1,73 @@
+{
+  "id": 1293161865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.78956,38.75985,48.78956,38.75985",
+    "geom:latitude":38.75985,
+    "geom:longitude":48.78956,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Lyazh",
+    "gn:country_code":"AZ",
+    "gn:dem":-13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147620,
+    "gn:latitude":38.75985,
+    "gn:longitude":48.78956,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lyazh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lazh",
+        "Lyazh",
+        "L\u0259j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147620,
+        "wk:page":"L%C9%99j"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3811b63256dc8d60943a9c014ac3b503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293161865,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1293161865,
+    "wof:lastmodified":1537585191,
+    "wof:name":"Lyazh",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.78956,
+    38.75985,
+    48.78956,
+    38.75985
+],
+  "geometry": {"coordinates":[48.78956,38.75985],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326560847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.56588,41.25868,48.56588,41.25868",
+    "geom:latitude":41.25868,
+    "geom:longitude":48.56588,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Cindar",
+    "gn:country_code":"AZ",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9887795,
+    "gn:latitude":41.25868,
+    "gn:longitude":48.56588,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Cindar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Cindar"
+    ],
+    "name:und_x_variant":[
+        "Dzhindar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9887795,
+        "wk:page":"C%C4%B1ndar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"14a29a247fa4fa519e1f406395992e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326560847,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1326560847,
+    "wof:lastmodified":1537585542,
+    "wof:name":"Cindar",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.56588,
+    41.25868,
+    48.56588,
+    41.25868
+],
+  "geometry": {"coordinates":[48.56588,41.25868],"type":"Point"}
+}

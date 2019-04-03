@@ -1,0 +1,74 @@
+{
+  "id": 1243006791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1132,40.50461,47.1132,40.50461",
+    "geom:latitude":40.50461,
+    "geom:longitude":47.1132,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Kebikeru",
+    "gn:country_code":"AZ",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800824,
+    "gn:latitude":40.50461,
+    "gn:longitude":47.1132,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kebikeru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00f6v\u0259r"
+    ],
+    "name:rus_x_preferred":[
+        "K\u00ebvar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668243,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800824,
+        "wk:page":"Kebikeru"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a43e78b9b1a33f6dad6011fdc048e069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243006791,
+            "macroregion_id":1108808627,
+            "region_id":85668243
+        }
+    ],
+    "wof:id":1243006791,
+    "wof:lastmodified":1537585505,
+    "wof:name":"Kebikeru",
+    "wof:parent_id":85668243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1132,
+    40.50461,
+    47.1132,
+    40.50461
+],
+  "geometry": {"coordinates":[47.1132,40.50461],"type":"Point"}
+}

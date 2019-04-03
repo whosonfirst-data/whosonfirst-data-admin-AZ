@@ -1,0 +1,73 @@
+{
+  "id": 1259852809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.44245,39.23745,48.44245,39.23745",
+    "geom:latitude":39.23745,
+    "geom:longitude":48.44245,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sarkhadabad",
+    "gn:country_code":"AZ",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147256,
+    "gn:latitude":39.23745,
+    "gn:longitude":48.44245,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Sarkhadabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakhradaba",
+        "Sarkhadabad",
+        "S\u0259rh\u0259dabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147256,
+        "wk:page":"S%C9%99rh%C9%99dabad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f804eb2b9a36fa5d8eae9f37bd7f6ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259852809,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1259852809,
+    "wof:lastmodified":1537585159,
+    "wof:name":"Sarkhadabad",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.44245,
+    39.23745,
+    48.44245,
+    39.23745
+],
+  "geometry": {"coordinates":[48.44245,39.23745],"type":"Point"}
+}

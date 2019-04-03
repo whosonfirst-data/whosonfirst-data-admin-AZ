@@ -1,0 +1,78 @@
+{
+  "id": 1209847165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.74601,41.53549,48.74601,41.53549",
+    "geom:latitude":41.53549,
+    "geom:longitude":48.74601,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Neredzhan",
+    "gn:country_code":"AZ",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585390,
+    "gn:latitude":41.53549,
+    "gn:longitude":48.74601,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Neredzhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "N\u01ddr\u01ddcan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0440\u0430\u0434\u0436\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "N\u0259r\u0259can",
+        "Naradzhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585390,
+        "wk:page":"N%C9%99r%C9%99can"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0dfff006948c255b2d778bdd7bae6be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209847165,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1209847165,
+    "wof:lastmodified":1537585361,
+    "wof:name":"Neredzhan",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.74601,
+    41.53549,
+    48.74601,
+    41.53549
+],
+  "geometry": {"coordinates":[48.74601,41.53549],"type":"Point"}
+}

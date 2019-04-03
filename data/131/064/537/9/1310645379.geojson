@@ -1,0 +1,77 @@
+{
+  "id": 1310645379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.90532,39.01775,45.90532,39.01775",
+    "geom:latitude":39.01775,
+    "geom:longitude":45.90532,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147365.0",
+    "gn:asciiname":"Tsagna",
+    "gn:country_code":"AZ",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148281,
+    "gn:latitude":39.01775,
+    "gn:longitude":45.90532,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tsagna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7\u0259nn\u0259b"
+    ],
+    "name:aze_x_variant":[
+        "\u00c7\u0259n\u0259n\u0259b"
+    ],
+    "name:und_x_variant":[
+        "Chananab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668665,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148281
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"489bf0f1c398fc22abf44b96f89a1c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310645379,
+            "macroregion_id":1108808617,
+            "region_id":85668665
+        }
+    ],
+    "wof:id":1310645379,
+    "wof:lastmodified":1537585258,
+    "wof:name":"Tsagna",
+    "wof:parent_id":85668665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.90532,
+    39.01775,
+    45.90532,
+    39.01775
+],
+  "geometry": {"coordinates":[45.90532,39.01775],"type":"Point"}
+}

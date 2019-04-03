@@ -1,0 +1,76 @@
+{
+  "id": 1343850491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.28539,40.53002,48.28539,40.53002",
+    "geom:latitude":40.53002,
+    "geom:longitude":48.28539,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Musabeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585436,
+    "gn:latitude":40.53002,
+    "gn:longitude":48.28539,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Musabeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Musab\u0259yli"
+    ],
+    "name:und_x_variant":[
+        "Musabekly",
+        "Musabekpy",
+        "Musabeyli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585436,
+        "wk:page":"Musabeyli%2C_Agsu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"db8cba7ae2c5a7f699ee026c0a702838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343850491,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1343850491,
+    "wof:lastmodified":1537585365,
+    "wof:name":"Musabeyli",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.28539,
+    40.53002,
+    48.28539,
+    40.53002
+],
+  "geometry": {"coordinates":[48.28539,40.53002],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226473027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.79891,41.34267,48.79891,41.34267",
+    "geom:latitude":41.34267,
+    "geom:longitude":48.79891,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Gyadikseydlyar",
+    "gn:country_code":"AZ",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586412,
+    "gn:latitude":41.34267,
+    "gn:longitude":48.79891,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Gyadikseydlyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyadikoyeydlyar",
+        "G\u0259dikq\u0131\u015flaq",
+        "Gyadik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586412,
+        "wk:page":"G%C9%99dikq%C4%B1%C5%9Flaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"34e14108086641fd1533942a6bbebb46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226473027,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1226473027,
+    "wof:lastmodified":1537585432,
+    "wof:name":"Gyadikseydlyar",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.79891,
+    41.34267,
+    48.79891,
+    41.34267
+],
+  "geometry": {"coordinates":[48.79891,41.34267],"type":"Point"}
+}

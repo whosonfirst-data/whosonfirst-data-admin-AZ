@@ -1,0 +1,73 @@
+{
+  "id": 1310042447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.58793,40.93226,45.58793,40.93226",
+    "geom:latitude":40.93226,
+    "geom:longitude":45.58793,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Vahidli",
+    "gn:country_code":"AZ",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584737,
+    "gn:latitude":40.93226,
+    "gn:longitude":45.58793,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Vahidli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vayytly",
+        "Vaitly",
+        "Vahidli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584737,
+        "wk:page":"Vahidli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0e487099b1350d3c81191b1ff62eafca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310042447,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1310042447,
+    "wof:lastmodified":1537585318,
+    "wof:name":"Vahidli",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.58793,
+    40.93226,
+    45.58793,
+    40.93226
+],
+  "geometry": {"coordinates":[45.58793,40.93226],"type":"Point"}
+}

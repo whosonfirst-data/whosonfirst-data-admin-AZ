@@ -1,0 +1,72 @@
+{
+  "id": 1310333753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.80444,41.60766,48.80444,41.60766",
+    "geom:latitude":41.60766,
+    "geom:longitude":48.80444,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Kicik Baraxum",
+    "gn:country_code":"AZ",
+    "gn:dem":-14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585906,
+    "gn:latitude":41.60766,
+    "gn:longitude":48.80444,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Ki\u00e7ik Baraxum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kichik Barakhum",
+        "Ki\u00e7ik Baraxum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585906,
+        "wk:page":"Ki%C3%A7ik_Baraxum"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dcafd2d6b646fd79817b4b91e4d2adb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310333753,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1310333753,
+    "wof:lastmodified":1537585394,
+    "wof:name":"Kicik Baraxum",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.80444,
+    41.60766,
+    48.80444,
+    41.60766
+],
+  "geometry": {"coordinates":[48.80444,41.60766],"type":"Point"}
+}

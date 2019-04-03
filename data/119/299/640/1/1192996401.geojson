@@ -1,0 +1,74 @@
+{
+  "id": 1192996401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.14353,40.35784,47.14353,40.35784",
+    "geom:latitude":40.35784,
+    "geom:longitude":47.14353,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Qaziqurdali",
+    "gn:country_code":"AZ",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586070,
+    "gn:latitude":40.35784,
+    "gn:longitude":47.14353,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Qaz\u0131qurdal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kazykurdaly"
+    ],
+    "name:aze_x_variant":[
+        "Qaz\u0131qurdal\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586070,
+        "wk:page":"Qaz%C4%B1qurdal%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"af6c56fd18136d18ecd357c6e7690ea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1192996401,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1192996401,
+    "wof:lastmodified":1537585407,
+    "wof:name":"Qaziqurdali",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.14353,
+    40.35784,
+    47.14353,
+    40.35784
+],
+  "geometry": {"coordinates":[47.14353,40.35784],"type":"Point"}
+}

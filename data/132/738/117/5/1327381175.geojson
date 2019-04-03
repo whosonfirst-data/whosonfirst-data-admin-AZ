@@ -1,0 +1,67 @@
+{
+  "id": 1327381175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.87024,38.67631,48.87024,38.67631",
+    "geom:latitude":38.67631,
+    "geom:longitude":48.87024,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Vel",
+    "gn:country_code":"AZ",
+    "gn:dem":-20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146995,
+    "gn:latitude":38.67631,
+    "gn:longitude":48.87024,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Vel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Vel"
+    ],
+    "name:rus_x_preferred":[
+        "Vel\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146995
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a378d500d32b9631b14f73f6b9afa7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327381175,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327381175,
+    "wof:lastmodified":1537585135,
+    "wof:name":"Vel",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.87024,
+    38.67631,
+    48.87024,
+    38.67631
+],
+  "geometry": {"coordinates":[48.87024,38.67631],"type":"Point"}
+}

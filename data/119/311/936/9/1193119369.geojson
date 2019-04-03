@@ -1,0 +1,84 @@
+{
+  "id": 1193119369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.16978,40.44405,46.16978,40.44405",
+    "geom:latitude":40.44405,
+    "geom:longitude":46.16978,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Dostafyur",
+    "gn:country_code":"AZ",
+    "gn:dem":1319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586764,
+    "gn:latitude":40.44405,
+    "gn:longitude":46.16978,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Dostafyur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u0259st\u0259f\u00fcr"
+    ],
+    "name:eng_x_preferred":[
+        "D\u01ddst\u01ddfur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0441\u0442\u0430\u0444\u044e\u0440"
+    ],
+    "name:und_x_variant":[
+        "Dastafyur",
+        "D\u0259st\u0259tur",
+        "Dostafur",
+        "Dostafyur",
+        "D\u0259st\u0259fur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586764,
+        "wk:page":"D%C9%99st%C9%99fur"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c9e07d74365ef41282e385d2eed5189e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193119369,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1193119369,
+    "wof:lastmodified":1537585457,
+    "wof:name":"Dostafyur",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.16978,
+    40.44405,
+    46.16978,
+    40.44405
+],
+  "geometry": {"coordinates":[46.16978,40.44405],"type":"Point"}
+}

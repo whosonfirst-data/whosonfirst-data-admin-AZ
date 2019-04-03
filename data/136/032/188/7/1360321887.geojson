@@ -1,0 +1,77 @@
+{
+  "id": 1360321887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.73599,39.20475,46.73599,39.20475",
+    "geom:latitude":39.20475,
+    "geom:longitude":46.73599,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Zilanli",
+    "gn:country_code":"AZ",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146876,
+    "gn:latitude":39.20475,
+    "gn:longitude":46.73599,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Zilanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zilanl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u043b\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Zilanly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146876,
+        "wk:page":"Zilanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5d44a71449ff766345608e19fb8b0afa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360321887,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1360321887,
+    "wof:lastmodified":1537585123,
+    "wof:name":"Zilanli",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.73599,
+    39.20475,
+    46.73599,
+    39.20475
+],
+  "geometry": {"coordinates":[46.73599,39.20475],"type":"Point"}
+}

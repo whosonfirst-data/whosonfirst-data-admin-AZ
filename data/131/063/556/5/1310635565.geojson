@@ -1,0 +1,89 @@
+{
+  "id": 1310635565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.94634,40.32757,46.94634,40.32757",
+    "geom:latitude":40.32757,
+    "geom:longitude":46.94634,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Sakhlanbad",
+    "gn:country_code":"AZ",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585171,
+    "gn:latitude":40.32757,
+    "gn:longitude":46.94634,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Sakhlanbad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u0259hlaabad"
+    ],
+    "name:aze_x_variant":[
+        "S\u0259hl\u0259bad"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0570\u056c\u0561\u0561\u0562\u0561\u0564"
+    ],
+    "name:hye_x_variant":[
+        "Sahlabad",
+        "\u054d\u0561\u0570\u056c\u0561\u0562\u0561\u0564"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0445\u043b\u0430\u0430\u0431\u0430\u0434"
+    ],
+    "name:und_x_variant":[
+        "Sakhlabad",
+        "Sakhlaabad",
+        "Sahlaabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585171,
+        "wk:page":"S%C9%99hl%C9%99bad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"00d8cdfb9e7b0c85a35fc081ecd62373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310635565,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1310635565,
+    "wof:lastmodified":1537585347,
+    "wof:name":"Sakhlanbad",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.94634,
+    40.32757,
+    46.94634,
+    40.32757
+],
+  "geometry": {"coordinates":[46.94634,40.32757],"type":"Point"}
+}

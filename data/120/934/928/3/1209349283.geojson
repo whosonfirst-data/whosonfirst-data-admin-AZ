@@ -1,0 +1,74 @@
+{
+  "id": 1209349283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.98005,39.84994,46.98005,39.84994",
+    "geom:latitude":39.84994,
+    "geom:longitude":46.98005,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Norshen",
+    "gn:country_code":"AZ",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147405,
+    "gn:latitude":39.84994,
+    "gn:longitude":46.98005,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Norshen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yenik\u0259nd"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0580\u0577\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0440\u0448\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Nor\u015fen",
+        "Norshen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147405
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5b9932a602903bfdc1b1e49994c39193",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209349283
+        }
+    ],
+    "wof:id":1209349283,
+    "wof:lastmodified":1537585170,
+    "wof:name":"Norshen",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.98005,
+    39.84994,
+    46.98005,
+    39.84994
+],
+  "geometry": {"coordinates":[46.98005,39.84994],"type":"Point"}
+}

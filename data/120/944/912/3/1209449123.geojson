@@ -1,0 +1,80 @@
+{
+  "id": 1209449123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.93095,40.37105,46.93095,40.37105",
+    "geom:latitude":40.37105,
+    "geom:longitude":46.93095,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Seydimli",
+    "gn:country_code":"AZ",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585112,
+    "gn:latitude":40.37105,
+    "gn:longitude":46.93095,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Seydimli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Seyidimli"
+    ],
+    "name:aze_x_variant":[
+        "Seydimli"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u0575\u056b\u0564\u056b\u0574\u056c\u056b"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u0565\u0575\u0564\u056b\u0574\u056c\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0438\u0434\u0438\u043c\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Seidimli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585112,
+        "wk:page":"Seydimli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e2a50f566dce022a13e47520e56fb2e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209449123
+        }
+    ],
+    "wof:id":1209449123,
+    "wof:lastmodified":1537585344,
+    "wof:name":"Seydimli",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.93095,
+    40.37105,
+    46.93095,
+    40.37105
+],
+  "geometry": {"coordinates":[46.93095,40.37105],"type":"Point"}
+}

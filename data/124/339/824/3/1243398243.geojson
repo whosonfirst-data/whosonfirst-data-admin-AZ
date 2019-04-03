@@ -1,0 +1,71 @@
+{
+  "id": 1243398243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.509,41.45136,48.509,41.45136",
+    "geom:latitude":41.45136,
+    "geom:longitude":48.509,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Gasankala",
+    "gn:country_code":"AZ",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586508,
+    "gn:latitude":41.45136,
+    "gn:longitude":48.509,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Gasankala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u0259s\u0259nqala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586508,
+        "wk:page":"H%C9%99s%C9%99nqala%2C_Qusar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"451656bf5910e09f5dfb9ec58da17650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243398243,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1243398243,
+    "wof:lastmodified":1537585438,
+    "wof:name":"Gasankala",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.50899999999999,
+    41.45136,
+    48.50899999999999,
+    41.45136
+],
+  "geometry": {"coordinates":[48.50899999999999,41.45136],"type":"Point"}
+}

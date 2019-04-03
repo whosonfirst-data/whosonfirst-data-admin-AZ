@@ -1,0 +1,70 @@
+{
+  "id": 1243001991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.72251,41.73366,48.72251,41.73366",
+    "geom:latitude":41.73366,
+    "geom:longitude":48.72251,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Mesheli",
+    "gn:country_code":"AZ",
+    "gn:dem":-14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824933,
+    "gn:latitude":41.73366,
+    "gn:longitude":48.72251,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Mesheli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Me\u015f\u0259li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824933
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"375fece655e06648f187b5d19dcd0ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243001991,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1243001991,
+    "wof:lastmodified":1537585514,
+    "wof:name":"Mesheli",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.72251,
+    41.73366,
+    48.72251,
+    41.73366
+],
+  "geometry": {"coordinates":[48.72251,41.73366],"type":"Point"}
+}

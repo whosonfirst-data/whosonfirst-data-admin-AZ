@@ -1,0 +1,74 @@
+{
+  "id": 1276905237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.55678,39.87501,48.55678,39.87501",
+    "geom:latitude":39.87501,
+    "geom:longitude":48.55678,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Severskoye",
+    "gn:country_code":"AZ",
+    "gn:dem":-17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147226,
+    "gn:latitude":39.87501,
+    "gn:longitude":48.55678,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Severskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "F\u0259t\u0259lik\u0259nd"
+    ],
+    "name:und_x_variant":[
+        "Fatalikend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668433,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147226,
+        "wk:page":"F%C9%99t%C9%99lik%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"41547465854262292f6e3d3671ae86aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276905237,
+            "macroregion_id":1108808627,
+            "region_id":85668433
+        }
+    ],
+    "wof:id":1276905237,
+    "wof:lastmodified":1537585156,
+    "wof:name":"Severskoye",
+    "wof:parent_id":85668433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.55678,
+    39.87501,
+    48.55678,
+    39.87501
+],
+  "geometry": {"coordinates":[48.55678,39.87501],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326983665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.96563,39.47402,44.96563,39.47402",
+    "geom:latitude":39.47402,
+    "geom:longitude":44.96563,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147997.0",
+    "gn:asciiname":"Arab Yengidzha",
+    "gn:country_code":"AZ",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148522,
+    "gn:latitude":39.47402,
+    "gn:longitude":44.96563,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Arab Yengidzha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fr\u0259byengic\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668667,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148522
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c54c530a5ffe9caa5eb4d62348cd69ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326983665,
+            "macroregion_id":1108808617,
+            "region_id":85668667
+        }
+    ],
+    "wof:id":1326983665,
+    "wof:lastmodified":1537585278,
+    "wof:name":"Arab Yengidzha",
+    "wof:parent_id":85668667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.96563,
+    39.47402,
+    44.96563,
+    39.47402
+],
+  "geometry": {"coordinates":[44.96563,39.47402],"type":"Point"}
+}

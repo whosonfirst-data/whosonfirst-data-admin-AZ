@@ -1,0 +1,76 @@
+{
+  "id": 1293434629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.44219,39.27719,45.44219,39.27719",
+    "geom:latitude":39.27719,
+    "geom:longitude":45.44219,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"7669114.0",
+    "gn:asciiname":"Asagi Uzunoba",
+    "gn:country_code":"AZ",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148460,
+    "gn:latitude":39.27719,
+    "gn:longitude":45.44219,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"A\u015fa\u011f\u0131 Uzunoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 Uzunoba"
+    ],
+    "name:und_x_variant":[
+        "Uzun-oba-ashaga",
+        "Ashagy-Uzunoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668673,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148460,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_Uzunoba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e82e724a3e623b2111d82b738bff619b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293434629,
+            "macroregion_id":1108808617,
+            "region_id":85668673
+        }
+    ],
+    "wof:id":1293434629,
+    "wof:lastmodified":1537585272,
+    "wof:name":"Asagi Uzunoba",
+    "wof:parent_id":85668673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.44219,
+    39.27719,
+    45.44219,
+    39.27719
+],
+  "geometry": {"coordinates":[45.44219,39.27719],"type":"Point"}
+}

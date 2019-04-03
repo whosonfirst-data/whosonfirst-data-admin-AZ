@@ -1,0 +1,74 @@
+{
+  "id": 1293518707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.88601,41.54083,48.88601,41.54083",
+    "geom:latitude":41.54083,
+    "geom:longitude":48.88601,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Abilyataq",
+    "gn:country_code":"AZ",
+    "gn:dem":-21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824947,
+    "gn:latitude":41.54083,
+    "gn:longitude":48.88601,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"\u018fbilyataq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Abil\u2019yatag"
+    ],
+    "name:und_x_variant":[
+        "\u018fbilyataq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824947,
+        "wk:page":"%C6%8Fbilyataq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9295dcaa1add280583b9a73768c74b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293518707,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1293518707,
+    "wof:lastmodified":1537585515,
+    "wof:name":"Abilyataq",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.88601,
+    41.54083,
+    48.88601,
+    41.54083
+],
+  "geometry": {"coordinates":[48.88601,41.54083],"type":"Point"}
+}

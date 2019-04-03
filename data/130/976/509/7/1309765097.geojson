@@ -1,0 +1,73 @@
+{
+  "id": 1309765097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.5906,40.72661,46.5906,40.72661",
+    "geom:latitude":40.72661,
+    "geom:longitude":46.5906,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Sarov",
+    "gn:country_code":"AZ",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585138,
+    "gn:latitude":40.72661,
+    "gn:longitude":46.5906,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Sarov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saroylu",
+        "Sarov",
+        "Sarovlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585138,
+        "wk:page":"Sarovlu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"985f9a9e3668bcc50af65429263e3198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309765097,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1309765097,
+    "wof:lastmodified":1537585345,
+    "wof:name":"Sarov",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.5906,
+    40.72661,
+    46.5906,
+    40.72661
+],
+  "geometry": {"coordinates":[46.5906,40.72661],"type":"Point"}
+}

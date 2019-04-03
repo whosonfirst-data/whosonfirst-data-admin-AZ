@@ -1,0 +1,71 @@
+{
+  "id": 1343798531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.52833,40.70059,45.52833,40.70059",
+    "geom:latitude":40.70059,
+    "geom:longitude":45.52833,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Safarly",
+    "gn:country_code":"AZ",
+    "gn:dem":1575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585176,
+    "gn:latitude":40.70059,
+    "gn:longitude":45.52833,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Safarly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0259f\u0259rli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585176,
+        "wk:page":"S%C9%99f%C9%99rli%2C_Tovuz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ba624b9b05689dc3c5dec2ed62991ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343798531,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1343798531,
+    "wof:lastmodified":1537585347,
+    "wof:name":"Safarly",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.52833,
+    40.70059000000001,
+    45.52833,
+    40.70059000000001
+],
+  "geometry": {"coordinates":[45.52833,40.70059000000001],"type":"Point"}
+}

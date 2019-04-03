@@ -1,0 +1,74 @@
+{
+  "id": 1209646339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.74336,41.42286,48.74336,41.42286",
+    "geom:latitude":41.42286,
+    "geom:longitude":48.74336,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Yerguc",
+    "gn:country_code":"AZ",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584652,
+    "gn:latitude":41.42286,
+    "gn:longitude":48.74336,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Yerg\u00fcc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yerg\u00fcc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0440\u0433\u044e\u0434\u0436"
+    ],
+    "name:und_x_variant":[
+        "Ot-Yerguch",
+        "Yergyuch",
+        "Yerkyuch",
+        "Yergyudzh",
+        "Yerg\u00fcc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584652
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a9c1511e1661c6ae5075977cf6ecfc4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209646339
+        }
+    ],
+    "wof:id":1209646339,
+    "wof:lastmodified":1537585312,
+    "wof:name":"Yerguc",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.74336,
+    41.42286,
+    48.74336,
+    41.42286
+],
+  "geometry": {"coordinates":[48.74336,41.42286],"type":"Point"}
+}

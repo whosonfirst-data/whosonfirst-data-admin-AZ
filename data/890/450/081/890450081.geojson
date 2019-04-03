@@ -1,0 +1,99 @@
+{
+  "id": 890450081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.08056,40.52167,46.08056,40.52167",
+    "geom:latitude":40.52167,
+    "geom:longitude":46.08056,
+    "gn:country":"AZ",
+    "gn:fcode":"PPL",
+    "gn:pop":857,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u056c\u0578\u0582\u0576\u056b\u0569\u0564\u0561\u0572"
+    ],
+    "name:aze_x_preferred":[
+        "Alunitda\u011f"
+    ],
+    "name:dut_x_preferred":[
+        "Alunitda\u011f"
+    ],
+    "name:eng_x_preferred":[
+        "Alunitda\u011f"
+    ],
+    "name:ita_x_preferred":[
+        "Alunitda\u011f"
+    ],
+    "name:may_x_preferred":[
+        "Alunitda\u011f"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0627\u0646\u06cc\u062c\u0627\u06af"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0443\u043d\u0438\u0442\u0434\u0430\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Alunitda\u011f"
+    ],
+    "name:unk_x_variant":[
+        "Alunitdag"
+    ],
+    "qs:name":"Alunitda\u011f",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587271,
+        "gp:id":1951888,
+        "qs:id":81094,
+        "wd:id":"Q4063078",
+        "wk:page":"Alunitda\u011f"
+    },
+    "wof:country":"AZ",
+    "wof:created":1469052725,
+    "wof:geomhash":"6247674557dfbbcbdc57af28e68f00b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":890450081,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":890450081,
+    "wof:lastmodified":1527792964,
+    "wof:name":"Alunitda\u011f",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:population":857,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.08056,
+    40.52167,
+    46.08056,
+    40.52167
+],
+  "geometry": {"coordinates":[46.08056,40.52167],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1310208151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1423,39.98402,47.1423,39.98402",
+    "geom:latitude":39.98402,
+    "geom:longitude":47.1423,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Arazbari",
+    "gn:country_code":"AZ",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148516,
+    "gn:latitude":39.98402,
+    "gn:longitude":47.1423,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Arazbar\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Arazbar\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Araabazary"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0580\u0561\u0566\u0562\u0561\u0566\u0561\u0580\u0568",
+        "Arazbar",
+        "\u0531\u0580\u0561\u0566\u0562\u0561\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u0437\u0431\u0430\u0440\u044b"
+    ],
+    "name:und_x_variant":[
+        "Arasparlu",
+        "Arazbary",
+        "Araspar",
+        "\u0410\u0440\u0430\u0437\u0431\u0430\u0440\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668519,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148516,
+        "wk:page":"Arazbar%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8913c2a2051c688f17bd7cf14b183485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310208151,
+            "macroregion_id":1108808627,
+            "region_id":85668519
+        }
+    ],
+    "wof:id":1310208151,
+    "wof:lastmodified":1537585278,
+    "wof:name":"Arazbari",
+    "wof:parent_id":85668519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1423,
+    39.98402,
+    47.1423,
+    39.98402
+],
+  "geometry": {"coordinates":[47.1423,39.98402],"type":"Point"}
+}

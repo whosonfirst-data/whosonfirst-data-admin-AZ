@@ -1,0 +1,74 @@
+{
+  "id": 1293928397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.90947,39.0276,45.90947,39.0276",
+    "geom:latitude":39.0276,
+    "geom:longitude":45.90947,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147365.0",
+    "gn:asciiname":"Ustupu",
+    "gn:country_code":"AZ",
+    "gn:dem":1366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147010,
+    "gn:latitude":39.0276,
+    "gn:longitude":45.90947,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ustupu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ustupu"
+    ],
+    "name:und_x_variant":[
+        "Ustupi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668665,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147010
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"99cad267b647ee847e77e6d0d78cfb2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293928397,
+            "macroregion_id":1108808617,
+            "region_id":85668665
+        }
+    ],
+    "wof:id":1293928397,
+    "wof:lastmodified":1537585136,
+    "wof:name":"Ustupu",
+    "wof:parent_id":85668665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.90947,
+    39.0276,
+    45.90947,
+    39.0276
+],
+  "geometry": {"coordinates":[45.90947,39.0276],"type":"Point"}
+}

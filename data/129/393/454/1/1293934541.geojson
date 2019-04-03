@@ -1,0 +1,88 @@
+{
+  "id": 1293934541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.47944,39.78011,46.47944,39.78011",
+    "geom:latitude":39.78011,
+    "geom:longitude":46.47944,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Vaqazin",
+    "gn:country_code":"AZ",
+    "gn:dem":1479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147007,
+    "gn:latitude":39.78011,
+    "gn:longitude":46.47944,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Vaqazin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Vaqazin"
+    ],
+    "name:aze_x_variant":[
+        "Va\u011fazin"
+    ],
+    "name:hye_x_preferred":[
+        "Vaghazin"
+    ],
+    "name:hye_x_variant":[
+        "\u054e\u0561\u0572\u0561\u0566\u056b\u0576",
+        "Vagatsin",
+        "\u054e\u0561\u0572\u0561\u056e\u056b\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0433\u0430\u0437\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Vagazin",
+        "\u0412\u0430\u0433\u0430\u0437\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147007
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"78c2c2b67654e77d2c5d8d221de26e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293934541,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1293934541,
+    "wof:lastmodified":1537585136,
+    "wof:name":"Vaqazin",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.47944,
+    39.78011,
+    46.47944,
+    39.78011
+],
+  "geometry": {"coordinates":[46.47944,39.78011],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226619953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.96771,39.28143,46.96771,39.28143",
+    "geom:latitude":39.28143,
+    "geom:longitude":46.96771,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Shakhvelli",
+    "gn:country_code":"AZ",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147204,
+    "gn:latitude":39.28143,
+    "gn:longitude":46.96771,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Shakhvelli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015eahv\u0259lili"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0445\u0432\u0435\u043b\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Shakhvelili",
+        "Shakhvelli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147204,
+        "wk:page":"%C5%9Eahv%C9%99lili"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9987f95e9d3d14b5e9d79bdd0fe6d476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226619953,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1226619953,
+    "wof:lastmodified":1537585154,
+    "wof:name":"Shakhvelli",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.96771,
+    39.28143,
+    46.96771,
+    39.28143
+],
+  "geometry": {"coordinates":[46.96771,39.28143],"type":"Point"}
+}

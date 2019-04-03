@@ -1,0 +1,74 @@
+{
+  "id": 1343998117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.99216,39.58663,48.99216,39.58663",
+    "geom:latitude":39.58663,
+    "geom:longitude":48.99216,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Qaraqasli",
+    "gn:country_code":"AZ",
+    "gn:dem":-24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147910,
+    "gn:latitude":39.58663,
+    "gn:longitude":48.99216,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Qaraqa\u015fl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaraqa\u015fl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Karakashly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668409,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147910,
+        "wk:page":"Karakashly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d7d84eb331d14c1794512ae13ca43034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343998117,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1343998117,
+    "wof:lastmodified":1537585221,
+    "wof:name":"Qaraqasli",
+    "wof:parent_id":85668409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.99216,
+    39.58663,
+    48.99216,
+    39.58663
+],
+  "geometry": {"coordinates":[48.99216,39.58663],"type":"Point"}
+}

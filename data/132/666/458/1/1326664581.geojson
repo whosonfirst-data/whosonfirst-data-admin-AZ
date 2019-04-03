@@ -1,0 +1,81 @@
+{
+  "id": 1326664581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.76246,39.98958,46.76246,39.98958",
+    "geom:latitude":39.98958,
+    "geom:longitude":46.76246,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Sardarashen",
+    "gn:country_code":"AZ",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147259,
+    "gn:latitude":39.98958,
+    "gn:longitude":46.76246,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Sardarashen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u0259rdark\u0259nd"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0580\u0564\u0561\u0580\u0561\u0577\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0434\u0430\u0440\u0430\u0448\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Sardara\u015fen",
+        "Sardarashen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147259,
+        "wk:page":"S%C9%99rdark%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"50f2971fde06db2d266aab26175f315f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326664581,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1326664581,
+    "wof:lastmodified":1537585159,
+    "wof:name":"Sardarashen",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.76246,
+    39.98958,
+    46.76246,
+    39.98958
+],
+  "geometry": {"coordinates":[46.76246,39.98958],"type":"Point"}
+}

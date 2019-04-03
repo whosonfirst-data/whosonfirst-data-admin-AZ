@@ -1,0 +1,68 @@
+{
+  "id": 1326973091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.60444,40.99306,47.60444,40.99306",
+    "geom:latitude":40.99306,
+    "geom:longitude":47.60444,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Shakhra",
+    "gn:country_code":"AZ",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585071,
+    "gn:latitude":40.99306,
+    "gn:longitude":47.60444,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Shakhra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668549,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585071,
+        "wk:page":"Shakhra"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1d7ee69185a5b31092857ff732315b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326973091,
+            "macroregion_id":1108808619,
+            "region_id":85668549
+        }
+    ],
+    "wof:id":1326973091,
+    "wof:lastmodified":1537486598,
+    "wof:name":"Shakhra",
+    "wof:parent_id":85668549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.60444,
+    40.99306,
+    47.60444,
+    40.99306
+],
+  "geometry": {"coordinates":[47.60444,40.99306],"type":"Point"}
+}

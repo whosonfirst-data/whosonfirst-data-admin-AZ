@@ -1,0 +1,68 @@
+{
+  "id": 1226316085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.55576,39.07773,48.55576,39.07773",
+    "geom:latitude":39.07773,
+    "geom:longitude":48.55576,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Asadabad",
+    "gn:country_code":"AZ",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148493,
+    "gn:latitude":39.07773,
+    "gn:longitude":48.55576,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Asadabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148493,
+        "wk:page":"Asadabad%2C_Jalilabad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8e43a5879a0b07300d5c7bd04c096aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226316085,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1226316085,
+    "wof:lastmodified":1537486564,
+    "wof:name":"Asadabad",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.55576,
+    39.07773,
+    48.55576,
+    39.07773
+],
+  "geometry": {"coordinates":[48.55576,39.07773],"type":"Point"}
+}

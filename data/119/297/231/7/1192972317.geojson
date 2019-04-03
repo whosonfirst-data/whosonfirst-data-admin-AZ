@@ -1,0 +1,73 @@
+{
+  "id": 1192972317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.62372,40.71433,46.62372,40.71433",
+    "geom:latitude":40.71433,
+    "geom:longitude":46.62372,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Yolpaq",
+    "gn:country_code":"AZ",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584681,
+    "gn:latitude":40.71433,
+    "gn:longitude":46.62372,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Yolpaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00eblpak",
+        "Yelpakh",
+        "Yolpaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584681,
+        "wk:page":"Yolpaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3327a96ddcf37d0da7e5a06c4e97b405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1192972317,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1192972317,
+    "wof:lastmodified":1537585314,
+    "wof:name":"Yolpaq",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.62372,
+    40.71433,
+    46.62372,
+    40.71433
+],
+  "geometry": {"coordinates":[46.62372,40.71433],"type":"Point"}
+}

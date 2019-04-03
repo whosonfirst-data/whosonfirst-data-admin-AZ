@@ -1,0 +1,76 @@
+{
+  "id": 1343995093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.66078,39.81274,46.66078,39.81274",
+    "geom:latitude":39.81274,
+    "geom:longitude":46.66078,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Yalobakend",
+    "gn:country_code":"AZ",
+    "gn:dem":1425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8458411,
+    "gn:latitude":39.81274,
+    "gn:longitude":46.66078,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Yalobakend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Jalobak\u0259nd"
+    ],
+    "name:aze_x_variant":[
+        "Yalobak\u0259nd"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043b\u043e\u0431\u0430\u043a\u0435\u043d\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8458411
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b00508822966cb34a262264c230ac264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343995093,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1343995093,
+    "wof:lastmodified":1537585523,
+    "wof:name":"Yalobakend",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.66078,
+    39.81274000000001,
+    46.66078,
+    39.81274000000001
+],
+  "geometry": {"coordinates":[46.66078,39.81274000000001],"type":"Point"}
+}

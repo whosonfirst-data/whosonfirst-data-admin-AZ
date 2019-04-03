@@ -1,0 +1,71 @@
+{
+  "id": 1226785591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.31499,41.54176,48.31499,41.54176",
+    "geom:latitude":41.54176,
+    "geom:longitude":48.31499,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Ledzhet",
+    "gn:country_code":"AZ",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585649,
+    "gn:latitude":41.54176,
+    "gn:longitude":48.31499,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Ledzhet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u0259c\u0259t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585649,
+        "wk:page":"L%C9%99c%C9%99t%2C_Qusar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e0f17cdcbcd4e9d61478a864210d32ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226785591,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1226785591,
+    "wof:lastmodified":1537585379,
+    "wof:name":"Ledzhet",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.31499,
+    41.54176,
+    48.31499,
+    41.54176
+],
+  "geometry": {"coordinates":[48.31499,41.54176],"type":"Point"}
+}

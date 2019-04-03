@@ -1,0 +1,90 @@
+{
+  "id": 1193237287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.55056,40.49634,46.55056,40.49634",
+    "geom:latitude":40.49634,
+    "geom:longitude":46.55056,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Gurzallar",
+    "gn:country_code":"AZ",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586373,
+    "gn:latitude":40.49634,
+    "gn:longitude":46.55056,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"G\u00fcrzallar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u00fcrzal\u0131lar"
+    ],
+    "name:aze_x_variant":[
+        "G\u00fcrzallar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0575\u0578\u0582\u0580\u0566\u0561\u056c\u0561\u0580"
+    ],
+    "name:hye_x_variant":[
+        "Gyurzalar",
+        "Odzabun",
+        "\u0555\u0571\u0561\u0562\u0578\u0582\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u044e\u0440\u0437\u0430\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Gyurzalar",
+        "Giourzalar",
+        "Gyurzallar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586373,
+        "wk:page":"G%C3%BCrzal%C4%B1lar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5cd286d644e7a94df8f2704eec1ddc92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193237287,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1193237287,
+    "wof:lastmodified":1537585429,
+    "wof:name":"Gurzallar",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.55056,
+    40.49634,
+    46.55056,
+    40.49634
+],
+  "geometry": {"coordinates":[46.55056,40.49634],"type":"Point"}
+}

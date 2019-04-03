@@ -1,0 +1,77 @@
+{
+  "id": 1293424895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.01759,39.75648,47.01759,39.75648",
+    "geom:latitude":39.75648,
+    "geom:longitude":47.01759,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Guneycartar",
+    "gn:country_code":"AZ",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148010,
+    "gn:latitude":39.75648,
+    "gn:longitude":47.01759,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"G\u00fcney\u00e7artar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u00fcney\u00e7artar"
+    ],
+    "name:und_x_variant":[
+        "Gyune-Chertaz",
+        "Gyuneychartar",
+        "Gioune-Tchartar",
+        "Gyune Chartar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148010,
+        "wk:page":"G%C3%BCney%C3%A7artar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8b2827a4a7728541e068fb428315d3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293424895,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1293424895,
+    "wof:lastmodified":1537585231,
+    "wof:name":"Guneycartar",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.01759000000001,
+    39.75648,
+    47.01759000000001,
+    39.75648
+],
+  "geometry": {"coordinates":[47.01759000000001,39.75648],"type":"Point"}
+}

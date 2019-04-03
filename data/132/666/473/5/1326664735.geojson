@@ -1,0 +1,86 @@
+{
+  "id": 1326664735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.00168,39.62816,47.00168,39.62816",
+    "geom:latitude":39.62816,
+    "geom:longitude":47.00168,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Zogalbulaq",
+    "gn:country_code":"AZ",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147042,
+    "gn:latitude":39.62816,
+    "gn:longitude":47.00168,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Zo\u011falbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zo\u011falbulaq"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0580\u0561\u056d\u057f\u056b\u056f"
+    ],
+    "name:hye_x_variant":[
+        "Drakhtik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0430\u0445\u0442\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Drakhtik",
+        "Traxtik",
+        "Trakhtik",
+        "\u0422\u0440\u0430\u0445\u0442\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147042,
+        "wk:page":"Zo%C4%9Falbulaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"43607250a3c26eb5c4a53a50f14c8c36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326664735,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1326664735,
+    "wof:lastmodified":1537585139,
+    "wof:name":"Zogalbulaq",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.00168,
+    39.62816,
+    47.00168,
+    39.62816
+],
+  "geometry": {"coordinates":[47.00168,39.62816],"type":"Point"}
+}

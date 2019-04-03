@@ -1,0 +1,71 @@
+{
+  "id": 1326464175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.84346,41.56031,48.84346,41.56031",
+    "geom:latitude":41.56031,
+    "geom:longitude":48.84346,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Qaracalli",
+    "gn:country_code":"AZ",
+    "gn:dem":-11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586200,
+    "gn:latitude":41.56031,
+    "gn:longitude":48.84346,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Qaracall\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karadzhally",
+        "Qaracall\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586200
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b0d3bb6f549b393272454046c0e8e957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326464175,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1326464175,
+    "wof:lastmodified":1537585416,
+    "wof:name":"Qaracalli",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.84346,
+    41.56031,
+    48.84346,
+    41.56031
+],
+  "geometry": {"coordinates":[48.84346,41.56031],"type":"Point"}
+}

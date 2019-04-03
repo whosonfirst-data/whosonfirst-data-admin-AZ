@@ -1,0 +1,75 @@
+{
+  "id": 1277112777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.31062,41.12869,47.31062,41.12869",
+    "geom:latitude":41.12869,
+    "geom:longitude":47.31062,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Bideyiz",
+    "gn:country_code":"AZ",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586977,
+    "gn:latitude":41.12869,
+    "gn:longitude":47.31062,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Bideyiz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bideyiz"
+    ],
+    "name:und_x_variant":[
+        "Bideiz",
+        "Bidey\u0131z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586977,
+        "wk:page":"Bideyiz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dbeb2cf468462888d87febf0668b8ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277112777,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1277112777,
+    "wof:lastmodified":1537585473,
+    "wof:name":"Bideyiz",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.31062,
+    41.12869,
+    47.31062,
+    41.12869
+],
+  "geometry": {"coordinates":[47.31062,41.12869],"type":"Point"}
+}

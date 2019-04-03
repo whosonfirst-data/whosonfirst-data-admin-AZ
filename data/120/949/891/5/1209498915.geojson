@@ -1,0 +1,64 @@
+{
+  "id": 1209498915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.32789,41.61112,46.32789,41.61112",
+    "geom:latitude":41.61112,
+    "geom:longitude":46.32789,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Geyamtala",
+    "gn:country_code":"AZ",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8669071,
+    "gn:latitude":41.61112,
+    "gn:longitude":46.32789,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Geyamtala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u00f6y\u0259mtala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8669071
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7903b0bb8baa415879f1d11fc130a406",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209498915
+        }
+    ],
+    "wof:id":1209498915,
+    "wof:lastmodified":1537585539,
+    "wof:name":"Geyamtala",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.32789,
+    41.61112,
+    46.32789,
+    41.61112
+],
+  "geometry": {"coordinates":[46.32789,41.61112],"type":"Point"}
+}

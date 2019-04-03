@@ -1,0 +1,73 @@
+{
+  "id": 1276761475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.39069,41.14337,45.39069,41.14337",
+    "geom:latitude":41.14337,
+    "geom:longitude":45.39069,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Karagasanly",
+    "gn:country_code":"AZ",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586191,
+    "gn:latitude":41.14337,
+    "gn:longitude":45.39069,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Karagasanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karagasanli",
+        "Karagasanly",
+        "Qarah\u0259s\u0259nli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668195,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586191,
+        "wk:page":"Qarah%C9%99s%C9%99nli%2C_Agstafa"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"57a513a5c782054d5ab5f33475245565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276761475,
+            "macroregion_id":1108808609,
+            "region_id":85668195
+        }
+    ],
+    "wof:id":1276761475,
+    "wof:lastmodified":1537585416,
+    "wof:name":"Karagasanly",
+    "wof:parent_id":85668195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.39069,
+    41.14337,
+    45.39069,
+    41.14337
+],
+  "geometry": {"coordinates":[45.39069,41.14337],"type":"Point"}
+}

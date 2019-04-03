@@ -1,0 +1,74 @@
+{
+  "id": 1209671255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.95999,39.81501,47.95999,39.81501",
+    "geom:latitude":39.81501,
+    "geom:longitude":47.95999,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Boscalilar",
+    "gn:country_code":"AZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148321,
+    "gn:latitude":39.81501,
+    "gn:longitude":47.95999,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Bo\u015f\u00e7al\u0131lar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bo\u015f\u00e7al\u0131lar"
+    ],
+    "name:aze_x_variant":[
+        "Bo\u015f\u00e7allar"
+    ],
+    "name:und_x_variant":[
+        "Boshchallar",
+        "Boshalar",
+        "Bashchilar",
+        "Boshchalylar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148321,
+        "wk:page":"Bo%C5%9F%C3%A7al%C4%B1lar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"36d119b0e237371690295ef39bdb2ef2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209671255
+        }
+    ],
+    "wof:id":1209671255,
+    "wof:lastmodified":1537585262,
+    "wof:name":"Boscalilar",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.95999000000001,
+    39.81501,
+    47.95999000000001,
+    39.81501
+],
+  "geometry": {"coordinates":[47.95999000000001,39.81501],"type":"Point"}
+}

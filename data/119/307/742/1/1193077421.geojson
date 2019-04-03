@@ -1,0 +1,77 @@
+{
+  "id": 1193077421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.93333,38.95482,45.93333,38.95482",
+    "geom:latitude":38.95482,
+    "geom:longitude":45.93333,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147365.0",
+    "gn:asciiname":"Valaver",
+    "gn:country_code":"AZ",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147005,
+    "gn:latitude":38.95482,
+    "gn:longitude":45.93333,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Valaver",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "V\u0259l\u0259ver"
+    ],
+    "name:aze_x_variant":[
+        "V\u0259l\u0259v\u0259r"
+    ],
+    "name:und_x_variant":[
+        "Valavar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668665,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147005
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fffbb6f6636d00b5d42a20c9461357a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193077421,
+            "macroregion_id":1108808617,
+            "region_id":85668665
+        }
+    ],
+    "wof:id":1193077421,
+    "wof:lastmodified":1537585135,
+    "wof:name":"Valaver",
+    "wof:parent_id":85668665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.93333,
+    38.95482,
+    45.93333,
+    38.95482
+],
+  "geometry": {"coordinates":[45.93333,38.95482],"type":"Point"}
+}

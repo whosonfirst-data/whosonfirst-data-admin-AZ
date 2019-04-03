@@ -1,0 +1,68 @@
+{
+  "id": 1209312023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.39752,40.47089,48.39752,40.47089",
+    "geom:latitude":40.47089,
+    "geom:longitude":48.39752,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Shebaly",
+    "gn:country_code":"AZ",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585081,
+    "gn:latitude":40.47089,
+    "gn:longitude":48.39752,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Shebaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shakhbeyli",
+        "Shebali",
+        "Shebaly",
+        "\u015eahb\u0259yli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585081,
+        "wk:page":"%C5%9Eahb%C9%99yli%2C_Agsu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6ce30638feaba11f00c0ed1f1cb1589f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209312023
+        }
+    ],
+    "wof:id":1209312023,
+    "wof:lastmodified":1537585342,
+    "wof:name":"Shebaly",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.39752,
+    40.47089,
+    48.39752,
+    40.47089
+],
+  "geometry": {"coordinates":[48.39752,40.47089],"type":"Point"}
+}

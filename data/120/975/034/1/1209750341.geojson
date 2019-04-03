@@ -1,0 +1,81 @@
+{
+  "id": 1209750341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.58996,39.75061,46.58996,39.75061",
+    "geom:latitude":39.75061,
+    "geom:longitude":46.58996,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Xanali",
+    "gn:country_code":"AZ",
+    "gn:dem":1648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443116,
+    "gn:latitude":39.75061,
+    "gn:longitude":46.58996,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Xanal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xanal\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0561\u0576\u0561\u056c\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043d\u0430\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Khanaly",
+        "Khanali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668643,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443116,
+        "wk:page":"Xanal%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"33095b64751fb918ae7af8a2728acdc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209750341,
+            "macroregion_id":1108808615,
+            "region_id":85668643
+        }
+    ],
+    "wof:id":1209750341,
+    "wof:lastmodified":1537585304,
+    "wof:name":"Xanali",
+    "wof:parent_id":85668643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.58996,
+    39.75061,
+    46.58996,
+    39.75061
+],
+  "geometry": {"coordinates":[46.58996,39.75061],"type":"Point"}
+}

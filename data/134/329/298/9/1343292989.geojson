@@ -1,0 +1,73 @@
+{
+  "id": 1343292989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.82937,41.5962,48.82937,41.5962",
+    "geom:latitude":41.5962,
+    "geom:longitude":48.82937,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Baraxum",
+    "gn:country_code":"AZ",
+    "gn:dem":-15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587058,
+    "gn:latitude":41.5962,
+    "gn:longitude":48.82937,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Baraxum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beyuk-Barakhum",
+        "Barakhum",
+        "Baraxum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587058,
+        "wk:page":"Baraxum"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"eb1e6003dae026932ea3fdd5cc2b168e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343292989,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1343292989,
+    "wof:lastmodified":1537585478,
+    "wof:name":"Baraxum",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.82937,
+    41.5962,
+    48.82937,
+    41.5962
+],
+  "geometry": {"coordinates":[48.82937,41.5962],"type":"Point"}
+}

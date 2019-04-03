@@ -1,0 +1,74 @@
+{
+  "id": 1327393519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.67672,39.04205,48.67672,39.04205",
+    "geom:latitude":39.04205,
+    "geom:longitude":48.67672,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Seyfadyn",
+    "gn:country_code":"AZ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147225,
+    "gn:latitude":39.04205,
+    "gn:longitude":48.67672,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Seyfadyn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Seyb\u0259tin"
+    ],
+    "name:und_x_variant":[
+        "Seybetin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147225,
+        "wk:page":"Seyb%C9%99tin"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1783238f3947d82582a2c4786c7e4b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327393519,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1327393519,
+    "wof:lastmodified":1537585156,
+    "wof:name":"Seyfadyn",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.67672,
+    39.04205,
+    48.67672,
+    39.04205
+],
+  "geometry": {"coordinates":[48.67672,39.04205],"type":"Point"}
+}

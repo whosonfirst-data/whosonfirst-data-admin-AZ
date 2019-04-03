@@ -1,0 +1,78 @@
+{
+  "id": 1225998151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.74532,39.12159,45.74532,39.12159",
+    "geom:latitude":39.12159,
+    "geom:longitude":45.74532,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"148132.0",
+    "gn:asciiname":"Gal",
+    "gn:country_code":"AZ",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148025,
+    "gn:latitude":39.12159,
+    "gn:longitude":45.74532,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Gal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qal"
+    ],
+    "name:aze_x_variant":[
+        "Gal",
+        "Hal"
+    ],
+    "name:und_x_variant":[
+        "Gyal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668677,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148025
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"508cc41b0d43a72d929c06b52794fa1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225998151,
+            "macroregion_id":1108808617,
+            "region_id":85668677
+        }
+    ],
+    "wof:id":1225998151,
+    "wof:lastmodified":1537585232,
+    "wof:name":"Gal",
+    "wof:parent_id":85668677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.74532,
+    39.12159000000001,
+    45.74532,
+    39.12159000000001
+],
+  "geometry": {"coordinates":[45.74532,39.12159000000001],"type":"Point"}
+}

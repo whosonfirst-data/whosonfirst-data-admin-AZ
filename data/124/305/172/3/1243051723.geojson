@@ -1,0 +1,74 @@
+{
+  "id": 1243051723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.28745,41.7283,46.28745,41.7283",
+    "geom:latitude":41.7283,
+    "geom:longitude":46.28745,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Xalatala",
+    "gn:country_code":"AZ",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585996,
+    "gn:latitude":41.7283,
+    "gn:longitude":46.28745,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Xalatala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kovakhchel\u2019",
+        "Khalatala",
+        "Kavahchol",
+        "Xalatala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585996,
+        "wk:page":"Xalatala"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1c8543a3d7b49afbd8e6dfe1c48c4b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243051723,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1243051723,
+    "wof:lastmodified":1537585401,
+    "wof:name":"Xalatala",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.28745,
+    41.7283,
+    46.28745,
+    41.7283
+],
+  "geometry": {"coordinates":[46.28745,41.7283],"type":"Point"}
+}

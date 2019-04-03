@@ -1,0 +1,73 @@
+{
+  "id": 1226176445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.25892,40.78339,46.25892,40.78339",
+    "geom:latitude":40.78339,
+    "geom:longitude":46.25892,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Alabasli",
+    "gn:country_code":"AZ",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585923,
+    "gn:latitude":40.78339,
+    "gn:longitude":46.25892,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Alaba\u015fl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khutor Alabashly",
+        "Alaba\u015fl\u0131",
+        "Alabashly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585923,
+        "wk:page":"Alaba%C5%9Fl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b31ad3556dd2552a10c94e05646cd07c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226176445,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1226176445,
+    "wof:lastmodified":1537585396,
+    "wof:name":"Alabasli",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.25892,
+    40.78339,
+    46.25892,
+    40.78339
+],
+  "geometry": {"coordinates":[46.25892,40.78339],"type":"Point"}
+}

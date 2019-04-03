@@ -1,0 +1,71 @@
+{
+  "id": 1243203259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.62886,39.15209,46.62886,39.15209",
+    "geom:latitude":39.15209,
+    "geom:longitude":46.62886,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Aladin",
+    "gn:country_code":"AZ",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148586,
+    "gn:latitude":39.15209,
+    "gn:longitude":46.62886,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Aladin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0430\u0434\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148586,
+        "wk:page":"Aladin%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6cb3d71cc64d3358b075345ad9ce4456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243203259,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1243203259,
+    "wof:lastmodified":1537585283,
+    "wof:name":"Aladin",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.62886,
+    39.15209,
+    46.62886,
+    39.15209
+],
+  "geometry": {"coordinates":[46.62886,39.15209],"type":"Point"}
+}

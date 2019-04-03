@@ -1,0 +1,79 @@
+{
+  "id": 1310078117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.09696,40.62225,46.09696,40.62225",
+    "geom:latitude":40.62225,
+    "geom:longitude":46.09696,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Ketishen",
+    "gn:country_code":"AZ",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586012,
+    "gn:latitude":40.62225,
+    "gn:longitude":46.09696,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Ketishen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7ayk\u0259nd"
+    ],
+    "name:aze_x_variant":[
+        "G\u0259ti\u015fen"
+    ],
+    "name:und_x_variant":[
+        "Ketashen",
+        "Ketishen",
+        "K\u0259ti\u015fen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586012,
+        "wk:page":"K%C9%99ti%C5%9Fen"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5730ae5c5ff09300605004e2831e1a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310078117,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1310078117,
+    "wof:lastmodified":1537585403,
+    "wof:name":"Ketishen",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.09696,
+    40.62225,
+    46.09696,
+    40.62225
+],
+  "geometry": {"coordinates":[46.09696,40.62225],"type":"Point"}
+}

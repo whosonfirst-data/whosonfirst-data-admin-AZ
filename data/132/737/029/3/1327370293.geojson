@@ -1,0 +1,79 @@
+{
+  "id": 1327370293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.12186,41.17942,49.12186,41.17942",
+    "geom:latitude":41.17942,
+    "geom:longitude":49.12186,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Kolani",
+    "gn:country_code":"AZ",
+    "gn:dem":-14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585827,
+    "gn:latitude":41.17942,
+    "gn:longitude":49.12186,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Kolan\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kolan\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u0430\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kelan\u2019",
+        "Kelany",
+        "Kolany",
+        "Kolan\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668425,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585827
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e20c8e797e5caf1997e08e99094957f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327370293,
+            "macroregion_id":1108808623,
+            "region_id":85668425
+        }
+    ],
+    "wof:id":1327370293,
+    "wof:lastmodified":1537585391,
+    "wof:name":"Kolani",
+    "wof:parent_id":85668425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.12186,
+    41.17942,
+    49.12186,
+    41.17942
+],
+  "geometry": {"coordinates":[49.12186,41.17942],"type":"Point"}
+}

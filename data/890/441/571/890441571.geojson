@@ -1,0 +1,103 @@
+{
+  "id": 890441571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.59255,39.11817,48.59255,39.11817",
+    "geom:latitude":39.11817,
+    "geom:longitude":48.59255,
+    "gn:country":"AZ",
+    "gn:fcode":"PPL",
+    "gn:pop":13340,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0533\u0575\u0578\u0575\u0569\u0565\u0583\u0565"
+    ],
+    "name:aze_x_preferred":[
+        "Pri\u015fib"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0451\u0439\u0442\u0435\u043f\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "G\u00f6yt\u0259p\u0259"
+    ],
+    "name:eng_x_preferred":[
+        "G\u00f6yt\u0259p\u0259"
+    ],
+    "name:fin_x_preferred":[
+        "G\u00f6yt\u0259p\u0259"
+    ],
+    "name:may_x_preferred":[
+        "G\u00f6yt\u0259p\u0259"
+    ],
+    "name:pol_x_preferred":[
+        "G\u00f6yt\u0259p\u0259"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0451\u0439\u0442\u0435\u043f\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "G\u00f6jt\u00e4p\u00e4"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u0439\u0442\u0435\u043f\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Prishib"
+    ],
+    "qs:name":"Prishibinskoye",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146862,
+        "gp:id":12510394,
+        "qs:id":122422,
+        "wd:id":"Q2656617"
+    },
+    "wof:country":"AZ",
+    "wof:created":1469052329,
+    "wof:geomhash":"469e6d9ef2329d0fe4044155494a66ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":890441571,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":890441571,
+    "wof:lastmodified":1513898780,
+    "wof:name":"Prishibinskoye",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:population":13340,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.59255,
+    39.11817,
+    48.59255,
+    39.11817
+],
+  "geometry": {"coordinates":[48.59255,39.11817],"type":"Point"}
+}

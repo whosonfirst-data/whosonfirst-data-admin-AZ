@@ -1,0 +1,71 @@
+{
+  "id": 1259837497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.1977,39.86632,48.1977,39.86632",
+    "geom:latitude":39.86632,
+    "geom:longitude":48.1977,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Myursalli",
+    "gn:country_code":"AZ",
+    "gn:dem":-6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147442,
+    "gn:latitude":39.86632,
+    "gn:longitude":48.1977,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Myursalli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myursali",
+        "M\u00fcrs\u0259lli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668365,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147442
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"952227389627ed988376d924042d0ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259837497,
+            "macroregion_id":1108808627,
+            "region_id":85668365
+        }
+    ],
+    "wof:id":1259837497,
+    "wof:lastmodified":1537585173,
+    "wof:name":"Myursalli",
+    "wof:parent_id":85668365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.1977,
+    39.86632,
+    48.1977,
+    39.86632
+],
+  "geometry": {"coordinates":[48.1977,39.86632],"type":"Point"}
+}

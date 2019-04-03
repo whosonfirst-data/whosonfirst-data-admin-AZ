@@ -1,0 +1,78 @@
+{
+  "id": 1310519299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.82972,40.54861,49.82972,40.54861",
+    "geom:latitude":40.54861,
+    "geom:longitude":49.82972,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Goradil",
+    "gn:country_code":"AZ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586432,
+    "gn:latitude":40.54861,
+    "gn:longitude":49.82972,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Goradil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Goradil"
+    ],
+    "name:rus_x_preferred":[
+        "Goradil\u2019"
+    ],
+    "name:und_x_variant":[
+        "Gerodil\u2019",
+        "Gorodil\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668251,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586432,
+        "wk:page":"Goradil"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6f93f0e74110fe3226816789ca017db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310519299,
+            "macroregion_id":1108808621,
+            "region_id":85668251
+        }
+    ],
+    "wof:id":1310519299,
+    "wof:lastmodified":1537585433,
+    "wof:name":"Goradil",
+    "wof:parent_id":85668251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.82972,
+    40.54861,
+    49.82972,
+    40.54861
+],
+  "geometry": {"coordinates":[49.82972,40.54861],"type":"Point"}
+}

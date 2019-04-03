@@ -1,0 +1,74 @@
+{
+  "id": 1209322031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.87414,40.04698,46.87414,40.04698",
+    "geom:latitude":40.04698,
+    "geom:longitude":46.87414,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cullu",
+    "gn:country_code":"AZ",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586815,
+    "gn:latitude":40.04698,
+    "gn:longitude":46.87414,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"\u00c7ullu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7ullu"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0578\u0582\u056c\u056c\u0578\u0582"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043b\u043b\u0443"
+    ],
+    "name:und_x_variant":[
+        "Chullu Vtoroye",
+        "Chullu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586815
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"05ef74c07544040a18098a0fe2698269",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209322031
+        }
+    ],
+    "wof:id":1209322031,
+    "wof:lastmodified":1537585460,
+    "wof:name":"Cullu",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.87414,
+    40.04698,
+    46.87414,
+    40.04698
+],
+  "geometry": {"coordinates":[46.87414,40.04698],"type":"Point"}
+}

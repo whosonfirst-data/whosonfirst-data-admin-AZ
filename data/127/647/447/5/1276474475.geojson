@@ -1,0 +1,73 @@
+{
+  "id": 1276474475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.15423,40.92504,47.15423,40.92504",
+    "geom:latitude":40.92504,
+    "geom:longitude":47.15423,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Aran",
+    "gn:country_code":"AZ",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8700581,
+    "gn:latitude":40.92504,
+    "gn:longitude":47.15423,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Aran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Aran"
+    ],
+    "name:aze_x_variant":[
+        "\u015e\u0259ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8700581
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c901e00afd2eb38477fb8481df2eaf9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276474475,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1276474475,
+    "wof:lastmodified":1537585541,
+    "wof:name":"Aran",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.15423,
+    40.92504,
+    47.15423,
+    40.92504
+],
+  "geometry": {"coordinates":[47.15423,40.92504],"type":"Point"}
+}

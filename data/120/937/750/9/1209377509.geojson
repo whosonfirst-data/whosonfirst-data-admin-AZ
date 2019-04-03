@@ -1,0 +1,69 @@
+{
+  "id": 1209377509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.89817,40.61026,45.89817,40.61026",
+    "geom:latitude":40.61026,
+    "geom:longitude":45.89817,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Pirbulaq",
+    "gn:country_code":"AZ",
+    "gn:dem":1554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585345,
+    "gn:latitude":40.61026,
+    "gn:longitude":45.89817,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Pirbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Pirbulaq"
+    ],
+    "name:und_x_variant":[
+        "Novaya Spasovka",
+        "Novospasovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585345,
+        "wk:page":"Novospasovka"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ef2c7bcc9307ad66fa3b4fc5bd9f7a48",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209377509
+        }
+    ],
+    "wof:id":1209377509,
+    "wof:lastmodified":1537585358,
+    "wof:name":"Pirbulaq",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.89817,
+    40.61026,
+    45.89817,
+    40.61026
+],
+  "geometry": {"coordinates":[45.89817,40.61026],"type":"Point"}
+}

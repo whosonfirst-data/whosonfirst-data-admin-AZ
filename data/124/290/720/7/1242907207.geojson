@@ -1,0 +1,80 @@
+{
+  "id": 1242907207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.70141,41.52127,48.70141,41.52127",
+    "geom:latitude":41.52127,
+    "geom:longitude":48.70141,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Aleksandrovka",
+    "gn:country_code":"AZ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587324,
+    "gn:latitude":41.52127,
+    "gn:longitude":48.70141,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Aleksandrovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u00f6d\u0259kli"
+    ],
+    "name:aze_x_variant":[
+        "K\u00f6d\u0259kli"
+    ],
+    "name:eng_x_preferred":[
+        "Aleksandrovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587324,
+        "wk:page":"G%C3%B6d%C9%99kli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fe54c842b21ffc535a31779c1063de6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242907207,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1242907207,
+    "wof:lastmodified":1537585497,
+    "wof:name":"Aleksandrovka",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.70141,
+    41.52127,
+    48.70141,
+    41.52127
+],
+  "geometry": {"coordinates":[48.70141,41.52127],"type":"Point"}
+}

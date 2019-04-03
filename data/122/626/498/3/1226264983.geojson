@@ -1,0 +1,70 @@
+{
+  "id": 1226264983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.38775,40.61982,48.38775,40.61982",
+    "geom:latitude":40.61982,
+    "geom:longitude":48.38775,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kevlyudzh",
+    "gn:country_code":"AZ",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586010,
+    "gn:latitude":40.61982,
+    "gn:longitude":48.38775,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Kevlyudzh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f6vl\u00fcc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586010
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c6f59bc38a150685a2c8843c583ad1f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226264983,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1226264983,
+    "wof:lastmodified":1537585402,
+    "wof:name":"Kevlyudzh",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.38775,
+    40.61982,
+    48.38775,
+    40.61982
+],
+  "geometry": {"coordinates":[48.38775,40.61982],"type":"Point"}
+}

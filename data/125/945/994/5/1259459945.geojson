@@ -1,0 +1,79 @@
+{
+  "id": 1259459945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.87561,39.77705,47.87561,39.77705",
+    "geom:latitude":39.77705,
+    "geom:longitude":47.87561,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Qaralilar",
+    "gn:country_code":"AZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147993,
+    "gn:latitude":39.77705,
+    "gn:longitude":47.87561,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Qaral\u0131lar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaralar"
+    ],
+    "name:aze_x_variant":[
+        "Qaral\u0131lar"
+    ],
+    "name:und_x_variant":[
+        "Imam-Verdylyar",
+        "Imamverdili Vtoroye",
+        "\u0130kinci \u0130mamverdili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668313,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147993,
+        "wk:page":"%C4%B0kinci_%C4%B0mamverdili"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8d33612d8fac6d57e5b2a05b5a02fb8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259459945,
+            "macroregion_id":1108808627,
+            "region_id":85668313
+        }
+    ],
+    "wof:id":1259459945,
+    "wof:lastmodified":1537585229,
+    "wof:name":"Qaralilar",
+    "wof:parent_id":85668313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.87561,
+    39.77705,
+    47.87561,
+    39.77705
+],
+  "geometry": {"coordinates":[47.87561,39.77705],"type":"Point"}
+}

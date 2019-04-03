@@ -1,0 +1,74 @@
+{
+  "id": 1343556871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.4141,41.62846,46.4141,41.62846",
+    "geom:latitude":41.62846,
+    "geom:longitude":46.4141,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Pushtbina",
+    "gn:country_code":"AZ",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585237,
+    "gn:latitude":41.62846,
+    "gn:longitude":46.4141,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Pushtbina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pushtatala",
+        "Pushtala",
+        "Pushtabina",
+        "P\u00fc\u015ft\u0259tala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585237,
+        "wk:page":"P%C3%BC%C5%9Ft%C9%99tala"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b0572989b92411ebadb61f7e8e7cb106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343556871,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1343556871,
+    "wof:lastmodified":1537585351,
+    "wof:name":"Pushtbina",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.4141,
+    41.62846,
+    46.4141,
+    41.62846
+],
+  "geometry": {"coordinates":[46.4141,41.62846],"type":"Point"}
+}

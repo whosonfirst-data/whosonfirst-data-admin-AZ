@@ -1,0 +1,82 @@
+{
+  "id": 1260218495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.21663,40.85007,46.21663,40.85007",
+    "geom:latitude":40.85007,
+    "geom:longitude":46.21663,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Karalylar",
+    "gn:country_code":"AZ",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585230,
+    "gn:latitude":40.85007,
+    "gn:longitude":46.21663,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Karalylar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qarac\u01ddmirli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0434\u0436\u0430\u043c\u0438\u0440\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Karadzhamirly",
+        "Karadzhimirli",
+        "Karadzhamirli",
+        "Karalilar",
+        "Karalylar",
+        "Qarac\u0259mirli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585230,
+        "wk:page":"Qarac%C9%99mirli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d76c3ceafb9d9884be02e0333f8b4b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260218495,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1260218495,
+    "wof:lastmodified":1537585351,
+    "wof:name":"Karalylar",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.21663,
+    40.85007,
+    46.21663,
+    40.85007
+],
+  "geometry": {"coordinates":[46.21663,40.85007],"type":"Point"}
+}

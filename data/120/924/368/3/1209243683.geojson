@@ -1,0 +1,61 @@
+{
+  "id": 1209243683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.05278,40.51389,47.05278,40.51389",
+    "geom:latitude":40.51389,
+    "geom:longitude":47.05278,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Dzhafarly",
+    "gn:country_code":"AZ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800822,
+    "gn:latitude":40.51389,
+    "gn:longitude":47.05278,
+    "gn:modification_date":"1999-02-02",
+    "gn:name":"Dzhafarly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800822
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"58786b81a8f140d05c8847a3a51fba27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209243683
+        }
+    ],
+    "wof:id":1209243683,
+    "wof:lastmodified":1536293237,
+    "wof:name":"Dzhafarly",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.05278,
+    40.51389,
+    47.05278,
+    40.51389
+],
+  "geometry": {"coordinates":[47.05278,40.51389],"type":"Point"}
+}

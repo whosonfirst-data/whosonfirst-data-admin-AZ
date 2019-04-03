@@ -1,0 +1,71 @@
+{
+  "id": 1360274509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.34893,41.68434,46.34893,41.68434",
+    "geom:latitude":41.68434,
+    "geom:longitude":46.34893,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Cillik",
+    "gn:country_code":"AZ",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8669190,
+    "gn:latitude":41.68434,
+    "gn:longitude":46.34893,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Cillik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Cillik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8669190,
+        "wk:page":"Cillik"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b8a7601038c4f3a266a385f45d233b05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360274509,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1360274509,
+    "wof:lastmodified":1537585540,
+    "wof:name":"Cillik",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.34893,
+    41.68434,
+    46.34893,
+    41.68434
+],
+  "geometry": {"coordinates":[46.34893,41.68434],"type":"Point"}
+}

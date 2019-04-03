@@ -1,0 +1,129 @@
+{
+  "id": 85668693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000478,
+    "geom:area_square_m":4493273.739388,
+    "geom:bbox":"46.8116112693,40.4956179671,46.8408873909,40.5201580735",
+    "geom:latitude":40.506645,
+    "geom:longitude":46.82702,
+    "gn:population":90554,
+    "iso:country":"AZ",
+    "label:eng_x_preferred_longname":[
+        "Naftalan City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
+    "lbl:latitude":40.507104,
+    "lbl:longitude":46.827298,
+    "meso:hasc_id":"AZ.NA",
+    "mps:latitude":40.507104,
+    "mps:longitude":46.827298,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:aze_x_preferred":[
+        "Goranboy Rayonu"
+    ],
+    "name:eng_x_preferred":[
+        "Goranboy"
+    ],
+    "name:unk_x_variant":[
+        "Qasym Ismayylov Rayonu"
+    ],
+    "qs:a0":"Azerbaijan",
+    "qs:a0_lc":"AZ",
+    "qs:a1":"Naftalan",
+    "qs:a1_lc":"AZE-5561",
+    "qs:a1r":"Ganja-Gazakh Economic Region",
+    "qs:a1r_lc":"AZ-02",
+    "qs:adm0":"Azerbaijan",
+    "qs:adm0_a3":"AZE",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality",
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"1999-01-27",
+    "statoids:area_km":"2",
+    "statoids:area_mi":"1",
+    "statoids:as_of_date":"1999-01-27",
+    "statoids:capital":"Naftalan",
+    "statoids:country":"AZ",
+    "statoids:gec":"AJ34",
+    "statoids:hasc":"AZ.NA",
+    "statoids:iso":"NA",
+    "statoids:name":"Naftalan",
+    "statoids:population":"7551",
+    "statoids:timezone":"+4",
+    "statoids:type":"city",
+    "unlc:subdivision":"AZ-NA",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AJ34",
+        "gn:id":586112,
+        "gp:id":20070261,
+        "hasc:id":"AZ.NA",
+        "iso:id":"AZ-NA",
+        "qs:id":49485,
+        "unlc:id":"AZ-NA",
+        "wd:id":"Q330843",
+        "wk:page":"Goranboy District"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"becff7a8297d03a68ca92b511220c57e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "macroregion_id":1108808609,
+            "region_id":85668693
+        }
+    ],
+    "wof:id":85668693,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "aze"
+    ],
+    "wof:lang_x_spoken":[
+        "aze"
+    ],
+    "wof:lastmodified":1553550305,
+    "wof:name":"Naftalan",
+    "wof:parent_id":1108808609,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"city",
+    "wof:population":7551,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:shortcode":"NA",
+    "wof:subdivision":"AZ-NA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.81161126934467,
+    40.49561796709554,
+    46.8408873909404,
+    40.52015807353632
+],
+  "geometry": {"coordinates":[[[46.8408873909404,40.50637756757072],[46.83963627479432,40.50112287921758],[46.83037801423404,40.49586819086437],[46.82136997654322,40.49561796709554],[46.81486417204394,40.50037220881046],[46.81161126934467,40.50662779044023],[46.81586506532057,40.5106313626473],[46.82123406380106,40.51601678814433],[46.82720521864599,40.52015807353632],[46.83524701663657,40.51505369876924],[46.84049585489981,40.5106716414831],[46.8408873909404,40.50637756757072]]],"type":"Polygon"}
+}

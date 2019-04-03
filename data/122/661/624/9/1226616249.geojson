@@ -1,0 +1,74 @@
+{
+  "id": 1226616249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.6976,39.05517,48.6976,39.05517",
+    "geom:latitude":39.05517,
+    "geom:longitude":48.6976,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Etchelyar",
+    "gn:country_code":"AZ",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148119,
+    "gn:latitude":39.05517,
+    "gn:longitude":48.6976,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Etchelyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018ftc\u0259l\u0259r"
+    ],
+    "name:und_x_variant":[
+        "Atzhalyar",
+        "Etchelyar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148119
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d21417835037f50fe9cffb8a2c07699a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226616249,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1226616249,
+    "wof:lastmodified":1537585241,
+    "wof:name":"Etchelyar",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.6976,
+    39.05517,
+    48.6976,
+    39.05517
+],
+  "geometry": {"coordinates":[48.6976,39.05517],"type":"Point"}
+}

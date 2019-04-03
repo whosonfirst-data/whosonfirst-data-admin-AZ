@@ -1,0 +1,76 @@
+{
+  "id": 1277111647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.27694,40.55861,46.27694,40.55861",
+    "geom:latitude":40.55861,
+    "geom:longitude":46.27694,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Safikurd",
+    "gn:country_code":"AZ",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824497,
+    "gn:latitude":40.55861,
+    "gn:longitude":46.27694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u0259fik\u00fcrd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u0259fik\u00fcrd"
+    ],
+    "name:hye_x_preferred":[
+        "T\u2019op\u2019olhasanly"
+    ],
+    "name:hye_x_variant":[
+        "\u0539\u0578\u0583\u0578\u056c\u0570\u0561\u057d\u0561\u0576\u056c\u0568"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824497
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"99d1b26597d66e282435deba538e7189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277111647,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1277111647,
+    "wof:lastmodified":1537585513,
+    "wof:name":"Safikurd",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.27694,
+    40.55861,
+    46.27694,
+    40.55861
+],
+  "geometry": {"coordinates":[46.27694,40.55861],"type":"Point"}
+}

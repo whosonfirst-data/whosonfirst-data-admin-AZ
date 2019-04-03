@@ -1,0 +1,72 @@
+{
+  "id": 1327020617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.81749,38.6097,48.81749,38.6097",
+    "geom:latitude":38.6097,
+    "geom:longitude":48.81749,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Peisar",
+    "gn:country_code":"AZ",
+    "gn:dem":-13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147339,
+    "gn:latitude":38.6097,
+    "gn:longitude":48.81749,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Peisar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pens\u0259r",
+        "Pensar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147339,
+        "wk:page":"Pens%C9%99r"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7bf81eb47c46972daf667738dfdc3365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327020617,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1327020617,
+    "wof:lastmodified":1537585165,
+    "wof:name":"Peisar",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.81749,
+    38.6097,
+    48.81749,
+    38.6097
+],
+  "geometry": {"coordinates":[48.81749,38.6097],"type":"Point"}
+}

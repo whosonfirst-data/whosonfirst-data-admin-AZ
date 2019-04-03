@@ -1,0 +1,77 @@
+{
+  "id": 1343521185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.69972,38.91097,48.69972,38.91097",
+    "geom:latitude":38.91097,
+    "geom:longitude":48.69972,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Khishkadere",
+    "gn:country_code":"AZ",
+    "gn:dem":-12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147781,
+    "gn:latitude":38.91097,
+    "gn:longitude":48.69972,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Khishkadere",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hi\u015fk\u0259d\u0259r\u0259"
+    ],
+    "name:und_x_variant":[
+        "Khishkadara",
+        "Khashkadere",
+        "Khashka-Dara",
+        "Khishkadere",
+        "Hi\u015fg\u0259d\u0259r\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147781
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0e4e7ef697f8579ad06d6a229e515174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343521185,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1343521185,
+    "wof:lastmodified":1537585207,
+    "wof:name":"Khishkadere",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.69972,
+    38.91097,
+    48.69972,
+    38.91097
+],
+  "geometry": {"coordinates":[48.69972,38.91097],"type":"Point"}
+}

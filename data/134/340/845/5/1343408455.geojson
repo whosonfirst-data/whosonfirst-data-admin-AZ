@@ -1,0 +1,74 @@
+{
+  "id": 1343408455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.85536,38.70714,48.85536,38.70714",
+    "geom:latitude":38.70714,
+    "geom:longitude":48.85536,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Silim",
+    "gn:country_code":"AZ",
+    "gn:dem":-14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8475852,
+    "gn:latitude":38.70714,
+    "gn:longitude":48.85536,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"\u015eilim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015eilim"
+    ],
+    "name:und_x_variant":[
+        "Shilim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8475852,
+        "wk:page":"%C5%9Eilim"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d992380e3834fddea67c4d41a80f5151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343408455,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1343408455,
+    "wof:lastmodified":1537585526,
+    "wof:name":"Silim",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.85536,
+    38.70714,
+    48.85536,
+    38.70714
+],
+  "geometry": {"coordinates":[48.85536,38.70714],"type":"Point"}
+}

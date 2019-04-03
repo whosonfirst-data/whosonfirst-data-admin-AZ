@@ -1,0 +1,85 @@
+{
+  "id": 1259634451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.53845,39.67847,46.53845,39.67847",
+    "geom:latitude":39.67847,
+    "geom:longitude":46.53845,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Zerti",
+    "gn:country_code":"AZ",
+    "gn:dem":1360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146886,
+    "gn:latitude":39.67847,
+    "gn:longitude":46.53845,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Zerti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zerti"
+    ],
+    "name:hye_x_preferred":[
+        "Zert\u2019i"
+    ],
+    "name:hye_x_variant":[
+        "\u0536\u0565\u0580\u0569\u056b",
+        "Zard",
+        "\u0536\u0561\u0580\u0564"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u0440\u0442\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zerty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146886,
+        "wk:page":"Zerti"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4e7abaf8ceddef2fa30270f597763d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259634451,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1259634451,
+    "wof:lastmodified":1537585124,
+    "wof:name":"Zerti",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.53845,
+    39.67847,
+    46.53845,
+    39.67847
+],
+  "geometry": {"coordinates":[46.53845,39.67847],"type":"Point"}
+}

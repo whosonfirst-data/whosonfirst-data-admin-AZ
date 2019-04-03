@@ -1,0 +1,72 @@
+{
+  "id": 1343892421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.59088,41.28152,48.59088,41.28152",
+    "geom:latitude":41.28152,
+    "geom:longitude":48.59088,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Pyustakasym",
+    "gn:country_code":"AZ",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585232,
+    "gn:latitude":41.28152,
+    "gn:longitude":48.59088,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Pyustakasym",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pyuztakasym",
+        "P\u00fcst\u0259qas\u0131m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585232,
+        "wk:page":"P%C3%BCst%C9%99qas%C4%B1m"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1adc14f46d2df7554c5ed5ac4438e25e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343892421,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1343892421,
+    "wof:lastmodified":1537585351,
+    "wof:name":"Pyustakasym",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.59088,
+    41.28152,
+    48.59088,
+    41.28152
+],
+  "geometry": {"coordinates":[48.59088,41.28152],"type":"Point"}
+}

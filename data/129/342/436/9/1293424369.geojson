@@ -1,0 +1,71 @@
+{
+  "id": 1293424369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.41107,38.80264,48.41107,38.80264",
+    "geom:latitude":38.80264,
+    "geom:longitude":48.41107,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Verkhnyaya Bilinya",
+    "gn:country_code":"AZ",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146937,
+    "gn:latitude":38.80264,
+    "gn:longitude":48.41107,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Verkhnyaya Bilinya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yukhary Bil\u2019nya",
+        "Yuxar\u0131 Biln\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668403,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146937
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f0d45502bc3530d38821fd8c4ffad812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293424369,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":1293424369,
+    "wof:lastmodified":1537585129,
+    "wof:name":"Verkhnyaya Bilinya",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.41107,
+    38.80264,
+    48.41107,
+    38.80264
+],
+  "geometry": {"coordinates":[48.41107,38.80264],"type":"Point"}
+}

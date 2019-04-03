@@ -1,0 +1,94 @@
+{
+  "id": 1309835321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.82297,40.33174,46.82297,40.33174",
+    "geom:latitude":40.33174,
+    "geom:longitude":46.82297,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Cayli",
+    "gn:country_code":"AZ",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584730,
+    "gn:latitude":40.33174,
+    "gn:longitude":46.82297,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"\u00c7ayl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7ayl\u0131"
+    ],
+    "name:aze_x_variant":[
+        "Verin \u00c7ayl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u0580\u056b\u0576 \u0549\u0561\u0575\u056c\u0568"
+    ],
+    "name:hye_x_variant":[
+        "Verin-Chayly",
+        "Verin Ch\u2019ayly",
+        "\u0531\u0575\u0563\u0565\u057d\u057f\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0438\u043d-\u0427\u0430\u0439\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Getk",
+        "Aygestan",
+        "Verin-Chayly",
+        "Ch\u2019aylu",
+        "Verin-Chaylu",
+        "Chailu",
+        "Stalino",
+        "Verin Chailou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584730
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1a4b41c68b75a39a8d263c9fd6b2b635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309835321,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1309835321,
+    "wof:lastmodified":1537585318,
+    "wof:name":"Cayli",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.82297,
+    40.33174,
+    46.82297,
+    40.33174
+],
+  "geometry": {"coordinates":[46.82297,40.33174],"type":"Point"}
+}

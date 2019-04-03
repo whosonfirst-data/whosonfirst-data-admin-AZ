@@ -1,0 +1,72 @@
+{
+  "id": 1360118841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.72992,41.47796,48.72992,41.47796",
+    "geom:latitude":41.47796,
+    "geom:longitude":48.72992,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Mirzamamedkyshlakh",
+    "gn:country_code":"AZ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585497,
+    "gn:latitude":41.47796,
+    "gn:longitude":48.72992,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Mirzamamedkyshlakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mirzamamedkyshlak",
+        "Mirzamamedkyshlakh",
+        "Mirz\u0259m\u0259mm\u0259dq\u0131\u015flaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585497
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ab5516c24a83f395868ad3d4bc20b749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360118841,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1360118841,
+    "wof:lastmodified":1537585369,
+    "wof:name":"Mirzamamedkyshlakh",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.72992,
+    41.47796,
+    48.72992,
+    41.47796
+],
+  "geometry": {"coordinates":[48.72992,41.47796],"type":"Point"}
+}

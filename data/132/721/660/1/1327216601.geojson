@@ -1,0 +1,73 @@
+{
+  "id": 1327216601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.43675,39.26038,48.43675,39.26038",
+    "geom:latitude":39.26038,
+    "geom:longitude":48.43675,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Shilyavyangya",
+    "gn:country_code":"AZ",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147182,
+    "gn:latitude":39.26038,
+    "gn:longitude":48.43675,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shilyavyangya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shilavegyakh",
+        "Shilyavyangya",
+        "Shilavengya",
+        "\u015eil\u0259v\u0259ng\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147182
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2561c19c5bac3dc08704e853dfc24ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327216601,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1327216601,
+    "wof:lastmodified":1537585151,
+    "wof:name":"Shilyavyangya",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.43675,
+    39.26038,
+    48.43675,
+    39.26038
+],
+  "geometry": {"coordinates":[48.43675,39.26038],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1210050033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.60893,40.44609,47.60893,40.44609",
+    "geom:latitude":40.44609,
+    "geom:longitude":47.60893,
+    "gn:admin1_code":"59",
+    "gn:asciiname":"Alpout",
+    "gn:country_code":"AZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587278,
+    "gn:latitude":40.44609,
+    "gn:longitude":47.60893,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Alpout",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Alpout"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u043f\u043e\u0443\u0442"
+    ],
+    "name:und_x_variant":[
+        "Ashaga Alpout",
+        "Alpaut",
+        "Alpout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668475,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587278
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d7393cbeb9752a36bdd1c1bce049e966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1210050033,
+            "macroregion_id":1108808627,
+            "region_id":85668475
+        }
+    ],
+    "wof:id":1210050033,
+    "wof:lastmodified":1537585494,
+    "wof:name":"Alpout",
+    "wof:parent_id":85668475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.60893,
+    40.44609000000001,
+    47.60893,
+    40.44609000000001
+],
+  "geometry": {"coordinates":[47.60893,40.44609000000001],"type":"Point"}
+}

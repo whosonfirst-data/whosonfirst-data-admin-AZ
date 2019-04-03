@@ -1,0 +1,78 @@
+{
+  "id": 1242907683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.83221,39.1485,46.83221,39.1485",
+    "geom:latitude":39.1485,
+    "geom:longitude":46.83221,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Havali",
+    "gn:country_code":"AZ",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147789,
+    "gn:latitude":39.1485,
+    "gn:longitude":46.83221,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Haval\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Haval\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0432\u0430\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Gavali",
+        "Khavaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147789,
+        "wk:page":"Haval%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6f9f9c8e9dd707206e6b1c1f683b9282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242907683,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1242907683,
+    "wof:lastmodified":1537585208,
+    "wof:name":"Havali",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.83221,
+    39.1485,
+    46.83221,
+    39.1485
+],
+  "geometry": {"coordinates":[46.83221,39.1485],"type":"Point"}
+}

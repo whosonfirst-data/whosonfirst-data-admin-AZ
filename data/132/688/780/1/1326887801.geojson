@@ -1,0 +1,83 @@
+{
+  "id": 1326887801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.09011,40.81788,48.09011,40.81788",
+    "geom:latitude":40.81788,
+    "geom:longitude":48.09011,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Qalincaq",
+    "gn:country_code":"AZ",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586262,
+    "gn:latitude":40.81788,
+    "gn:longitude":48.09011,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Qal\u0131n\u00e7aq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qal\u0131n\u00e7aq"
+    ],
+    "name:eng_x_preferred":[
+        "Qal\u0131ncaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u044b\u043d\u0434\u0436\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kalynchakh",
+        "Kalyndzha",
+        "Kalyndzhak",
+        "Qal\u0131ncaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586262,
+        "wk:page":"Qal%C4%B1ncaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"296628b06f157730393d36d6d50ad99f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326887801,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1326887801,
+    "wof:lastmodified":1537585421,
+    "wof:name":"Qalincaq",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.09011,
+    40.81788,
+    48.09011,
+    40.81788
+],
+  "geometry": {"coordinates":[48.09011,40.81788],"type":"Point"}
+}

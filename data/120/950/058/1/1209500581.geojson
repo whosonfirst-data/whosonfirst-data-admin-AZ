@@ -1,0 +1,67 @@
+{
+  "id": 1209500581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.66566,38.53909,48.66566,38.53909",
+    "geom:latitude":38.53909,
+    "geom:longitude":48.66566,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Duriya",
+    "gn:country_code":"AZ",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148175,
+    "gn:latitude":38.53909,
+    "gn:longitude":48.66566,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Duriya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deruya",
+        "Duriya",
+        "D\u00fcrriy\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148175,
+        "wk:page":"D%C3%BCrriy%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0b862bda2280a03dc44c89c94f3a1ea3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209500581
+        }
+    ],
+    "wof:id":1209500581,
+    "wof:lastmodified":1537585246,
+    "wof:name":"Duriya",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.66566,
+    38.53909,
+    48.66566,
+    38.53909
+],
+  "geometry": {"coordinates":[48.66566,38.53909],"type":"Point"}
+}

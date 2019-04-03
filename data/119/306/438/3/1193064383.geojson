@@ -1,0 +1,89 @@
+{
+  "id": 1193064383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.98192,38.95314,45.98192,38.95314",
+    "geom:latitude":38.95314,
+    "geom:longitude":45.98192,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147365.0",
+    "gn:asciiname":"Yukhary Aylis",
+    "gn:cc2":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146939,
+    "gn:latitude":38.95314,
+    "gn:longitude":45.98192,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yukhary Aylis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_colloquial":[
+        "Yuxar\u0131 \u018fylis"
+    ],
+    "name:aze_x_historical":[
+        "Yuxar\u0131 \u018fylis"
+    ],
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 \u018fylis"
+    ],
+    "name:tur_x_preferred":[
+        "Yuhari Aylis"
+    ],
+    "name:und_x_variant":[
+        "Akulisy",
+        "Yukhary-Akulis",
+        "Akulis",
+        "Yukhary Aylis",
+        "Yukhari-Aylis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668665,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146939,
+        "wk:page":"Yuxar%C4%B1_%C6%8Fylis"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"14371700e57efb065d8796fa86079000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193064383,
+            "macroregion_id":1108808617,
+            "region_id":85668665
+        }
+    ],
+    "wof:id":1193064383,
+    "wof:lastmodified":1537585130,
+    "wof:name":"Yukhary Aylis",
+    "wof:parent_id":85668665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.98192,
+    38.95314000000001,
+    45.98192,
+    38.95314000000001
+],
+  "geometry": {"coordinates":[45.98192,38.95314000000001],"type":"Point"}
+}

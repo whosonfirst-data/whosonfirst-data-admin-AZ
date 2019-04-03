@@ -1,0 +1,114 @@
+{
+  "id": 85668697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001237,
+    "geom:area_square_m":11929877.22308,
+    "geom:bbox":"48.8262982232,38.7267097731,48.8640230173,38.7875670093",
+    "geom:latitude":38.753136,
+    "geom:longitude":48.839621,
+    "gn:id":"",
+    "iso:country":"AZ",
+    "label:eng_x_preferred_longname":[
+        "Lankaran City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
+    "lbl:latitude":38.749163,
+    "lbl:longitude":48.839907,
+    "meso:hasc_id":"AZ.LA",
+    "mps:latitude":38.755228,
+    "mps:longitude":48.843999,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:eng_x_preferred":[
+        "Lankaran"
+    ],
+    "qs:a0":"Azerbaijan",
+    "qs:a0_lc":"AZ",
+    "qs:a1":"Lankaran",
+    "qs:a1_lc":"AZE-5562",
+    "qs:a1r":"Lankaran Economic Region",
+    "qs:a1r_lc":"AZ-04",
+    "qs:adm0":"Azerbaijan",
+    "qs:adm0_a3":"AZE",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Municipality",
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population:date":"1999-01-27",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"1999-01-27",
+    "statoids:capital":"Lenkaran",
+    "statoids:country":"AZ",
+    "statoids:gec":"AJ30",
+    "statoids:hasc":"AZ.LA",
+    "statoids:iso":"LA",
+    "statoids:name":"Lenkaran",
+    "statoids:population":"",
+    "statoids:timezone":"+4",
+    "statoids:type":"city",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AJ30",
+        "gp:id":20070263,
+        "hasc:id":"AZ.LA",
+        "iso:id":"AZ-LA",
+        "qs:id":245193
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d59c3d319d901d1d7da773abaf5a082a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "macroregion_id":1108808625,
+            "region_id":85668697
+        }
+    ],
+    "wof:id":85668697,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "aze"
+    ],
+    "wof:lang_x_spoken":[
+        "aze"
+    ],
+    "wof:lastmodified":1553550305,
+    "wof:name":"Lankaran",
+    "wof:parent_id":1108808625,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"city",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:shortcode":"LA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.82629822318449,
+    38.7267097731376,
+    48.86402301734942,
+    38.7875670093265
+],
+  "geometry": {"coordinates":[[[48.82629822318449,38.74698171243614],[48.82629822318449,38.76296070737078],[48.82629822318449,38.77797127815199],[48.83642809623591,38.7875670093265],[48.83997826585801,38.77788785754441],[48.84108961808818,38.77515154366769],[48.84368153542281,38.7691376532376],[48.84552219767719,38.76515319070509],[48.84891236352079,38.75981127516508],[48.85247331251949,38.7557104745079],[48.86402301734942,38.74630667978952],[48.84736144357583,38.73148692957818],[48.83402011703481,38.7267097731376],[48.82904029027725,38.73368152987877],[48.82629822318449,38.74698171243614]]],"type":"Polygon"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293917293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.67507,38.67366,48.67507,38.67366",
+    "geom:latitude":38.67366,
+    "geom:longitude":48.67507,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Andzhakov",
+    "gn:country_code":"AZ",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400432,
+    "gn:latitude":38.67366,
+    "gn:longitude":48.67507,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Andzhakov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "An\u00e7aqov"
+    ],
+    "name:aze_x_variant":[
+        "Anc\u0259qov"
+    ],
+    "name:und_x_variant":[
+        "\u018fnc\u0259qov",
+        "Andzhakov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400432,
+        "wk:page":"%C6%8Fnc%C9%99qov"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a45319e9416d2dba9d5af2715facf0a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293917293,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1293917293,
+    "wof:lastmodified":1537585302,
+    "wof:name":"Andzhakov",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.67507,
+    38.67366,
+    48.67507,
+    38.67366
+],
+  "geometry": {"coordinates":[48.67507,38.67366],"type":"Point"}
+}

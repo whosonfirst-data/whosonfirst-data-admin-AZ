@@ -1,0 +1,72 @@
+{
+  "id": 1226198321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.03088,40.12662,48.03088,40.12662",
+    "geom:latitude":40.12662,
+    "geom:longitude":48.03088,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Aliyetmazli",
+    "gn:country_code":"AZ",
+    "gn:dem":-10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587292,
+    "gn:latitude":40.12662,
+    "gn:longitude":48.03088,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Aliyetmazli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u018fliyetm\u0259zli",
+        "Aliyetmazli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668365,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587292,
+        "wk:page":"%C6%8Fliyetm%C9%99zli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d60195919efe91a59ccd89298726cd10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226198321,
+            "macroregion_id":1108808627,
+            "region_id":85668365
+        }
+    ],
+    "wof:id":1226198321,
+    "wof:lastmodified":1537585495,
+    "wof:name":"Aliyetmazli",
+    "wof:parent_id":85668365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.03088,
+    40.12662,
+    48.03088,
+    40.12662
+],
+  "geometry": {"coordinates":[48.03088,40.12662],"type":"Point"}
+}

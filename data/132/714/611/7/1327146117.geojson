@@ -1,0 +1,86 @@
+{
+  "id": 1327146117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.97006,40.19617,46.97006,40.19617",
+    "geom:latitude":40.19617,
+    "geom:longitude":46.97006,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ilkhychylar",
+    "gn:country_code":"AZ",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586351,
+    "gn:latitude":40.19617,
+    "gn:longitude":46.97006,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ilkhychylar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130lx\u0131\u00e7\u0131lar"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u056c\u056d\u0568\u0579\u0568\u056c\u0561\u0580"
+    ],
+    "name:hye_x_variant":[
+        "Ilkhychylar"
+    ],
+    "name:rus_x_preferred":[
+        "Il\u2019khychylar"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u043b\u044c\u0445\u044b\u0447\u044b\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Yikhchilar",
+        "Ilkhychylar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586351
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"89a843472a2b4f89e7fc85f070192739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327146117,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1327146117,
+    "wof:lastmodified":1537585427,
+    "wof:name":"Ilkhychylar",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.97006,
+    40.19617,
+    46.97006,
+    40.19617
+],
+  "geometry": {"coordinates":[46.97006,40.19617],"type":"Point"}
+}

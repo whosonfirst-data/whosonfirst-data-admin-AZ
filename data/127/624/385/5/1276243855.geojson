@@ -1,0 +1,66 @@
+{
+  "id": 1276243855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.78044,40.32864,49.78044,40.32864",
+    "geom:latitude":40.32864,
+    "geom:longitude":49.78044,
+    "gn:asciiname":"Baki-Pilsen Brewery",
+    "gn:country_code":"AZ",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8436127,
+    "gn:latitude":40.32864,
+    "gn:longitude":49.78044,
+    "gn:modification_date":"2012-12-17",
+    "gn:name":"Baki-Pilsen Brewery",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8436127
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8529e9ea0a44631ae8965aad5d6f5393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276243855,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1276243855,
+    "wof:lastmodified":1536898463,
+    "wof:name":"Baki-Pilsen Brewery",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.78044000000001,
+    40.32864,
+    49.78044000000001,
+    40.32864
+],
+  "geometry": {"coordinates":[49.78044000000001,40.32864],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209562307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.73474,38.7169,48.73474,38.7169",
+    "geom:latitude":38.7169,
+    "geom:longitude":48.73474,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Mollakend",
+    "gn:country_code":"AZ",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147480,
+    "gn:latitude":38.7169,
+    "gn:longitude":48.73474,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Mollakend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mollak\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147480
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2582988588b850ae0831911f33250481",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209562307
+        }
+    ],
+    "wof:id":1209562307,
+    "wof:lastmodified":1537585177,
+    "wof:name":"Mollakend",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.73474,
+    38.7169,
+    48.73474,
+    38.7169
+],
+  "geometry": {"coordinates":[48.73474,38.7169],"type":"Point"}
+}

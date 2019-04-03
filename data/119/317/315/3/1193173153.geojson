@@ -1,0 +1,72 @@
+{
+  "id": 1193173153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.56072,40.63645,48.56072,40.63645",
+    "geom:latitude":40.63645,
+    "geom:longitude":48.56072,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Malcak",
+    "gn:country_code":"AZ",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585542,
+    "gn:latitude":40.63645,
+    "gn:longitude":48.56072,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"M\u0259lc\u0259k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mel\u2019dzhek",
+        "M\u0259lc\u0259k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585542,
+        "wk:page":"M%C9%99lc%C9%99k"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c8675b9b8353324983802ed9d8411e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193173153,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1193173153,
+    "wof:lastmodified":1537585372,
+    "wof:name":"Malcak",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.56072,
+    40.63645,
+    48.56072,
+    40.63645
+],
+  "geometry": {"coordinates":[48.56072,40.63645],"type":"Point"}
+}

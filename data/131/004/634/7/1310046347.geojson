@@ -1,0 +1,71 @@
+{
+  "id": 1310046347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9495,39.52221,44.9495,39.52221",
+    "geom:latitude":39.52221,
+    "geom:longitude":44.9495,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147997.0",
+    "gn:asciiname":"Khaladzh",
+    "gn:country_code":"AZ",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147831,
+    "gn:latitude":39.52221,
+    "gn:longitude":44.9495,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Khaladzh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "X\u0259l\u0259c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668667,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147831
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"36a1b629747322992d0c4c9166fb36ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310046347,
+            "macroregion_id":1108808617,
+            "region_id":85668667
+        }
+    ],
+    "wof:id":1310046347,
+    "wof:lastmodified":1537585213,
+    "wof:name":"Khaladzh",
+    "wof:parent_id":85668667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9495,
+    39.52221,
+    44.9495,
+    39.52221
+],
+  "geometry": {"coordinates":[44.9495,39.52221],"type":"Point"}
+}

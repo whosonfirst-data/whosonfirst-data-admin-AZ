@@ -1,0 +1,83 @@
+{
+  "id": 1226724043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.43641,40.4151,46.43641,40.4151",
+    "geom:latitude":40.4151,
+    "geom:longitude":46.43641,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Buzluq",
+    "gn:country_code":"AZ",
+    "gn:dem":1319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586927,
+    "gn:latitude":40.4151,
+    "gn:longitude":46.43641,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Buzluq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Buzluq"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u0566\u056c\u0578\u0582\u056d"
+    ],
+    "name:hye_x_variant":[
+        "Buzlukh"
+    ],
+    "name:und_x_variant":[
+        "Bouzloukh",
+        "Buzuluk",
+        "Buzlukh",
+        "Buzluk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586927,
+        "wk:page":"Buzluq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0c373a6be0cf3973bbe1539041e4dd29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226724043,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1226724043,
+    "wof:lastmodified":1537585469,
+    "wof:name":"Buzluq",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.43641,
+    40.4151,
+    46.43641,
+    40.4151
+],
+  "geometry": {"coordinates":[46.43641,40.4151],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1343298983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.71299,39.76606,46.71299,39.76606",
+    "geom:latitude":39.76606,
+    "geom:longitude":46.71299,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Lacinlar",
+    "gn:country_code":"AZ",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147627,
+    "gn:latitude":39.76606,
+    "gn:longitude":46.71299,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"La\u00e7\u0131nlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "La\u00e7\u0131nlar"
+    ],
+    "name:hye_x_preferred":[
+        "Lach\u2019inlar"
+    ],
+    "name:hye_x_variant":[
+        "\u053c\u0561\u0579\u056b\u0576\u056c\u0561\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0447\u0438\u043d\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Lachinlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668643,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147627,
+        "wk:page":"La%C3%A7%C4%B1nlar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"81f255ec4d8ea14cbfce33b31406066f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343298983,
+            "macroregion_id":1108808615,
+            "region_id":85668643
+        }
+    ],
+    "wof:id":1343298983,
+    "wof:lastmodified":1537585191,
+    "wof:name":"Lacinlar",
+    "wof:parent_id":85668643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.71299000000001,
+    39.76606,
+    46.71299000000001,
+    39.76606
+],
+  "geometry": {"coordinates":[46.71299000000001,39.76606],"type":"Point"}
+}

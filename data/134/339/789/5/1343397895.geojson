@@ -1,0 +1,78 @@
+{
+  "id": 1343397895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.95802,40.91414,48.95802,40.91414",
+    "geom:latitude":40.91414,
+    "geom:longitude":48.95802,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Beyakhmed-Yurdu",
+    "gn:country_code":"AZ",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587004,
+    "gn:latitude":40.91414,
+    "gn:longitude":48.95802,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Beyakhmed-Yurdu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "B\u01ddy\u01ddhm\u01dddyurd"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0439\u0430\u0445\u043c\u0435\u0434\u044e\u0440\u0434"
+    ],
+    "name:und_x_variant":[
+        "Beyakhmedyurd",
+        "B\u0259y\u0259hm\u0259dyurd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668485,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587004,
+        "wk:page":"B%C9%99y%C9%99hm%C9%99dyurd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b46834743b36fe1257f3ddf7896d2009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343397895,
+            "macroregion_id":1108808621,
+            "region_id":85668485
+        }
+    ],
+    "wof:id":1343397895,
+    "wof:lastmodified":1537585475,
+    "wof:name":"Beyakhmed-Yurdu",
+    "wof:parent_id":85668485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.95802,
+    40.91414,
+    48.95802,
+    40.91414
+],
+  "geometry": {"coordinates":[48.95802,40.91414],"type":"Point"}
+}

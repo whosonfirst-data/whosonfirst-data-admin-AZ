@@ -1,0 +1,78 @@
+{
+  "id": 1259566757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.95555,39.25668,46.95555,39.25668",
+    "geom:latitude":39.25668,
+    "geom:longitude":46.95555,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Niyazqulular",
+    "gn:country_code":"AZ",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147411,
+    "gn:latitude":39.25668,
+    "gn:longitude":46.95555,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Niyazqulular",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Niyazqulular"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u044f\u0437\u043a\u0443\u043b\u0443\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Niyazkulular",
+        "Niyazgullar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147411,
+        "wk:page":"Niyazqulular"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"405c2a91779f896a93374c0186295776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259566757,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1259566757,
+    "wof:lastmodified":1537585171,
+    "wof:name":"Niyazqulular",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.95555,
+    39.25668,
+    46.95555,
+    39.25668
+],
+  "geometry": {"coordinates":[46.95555,39.25668],"type":"Point"}
+}

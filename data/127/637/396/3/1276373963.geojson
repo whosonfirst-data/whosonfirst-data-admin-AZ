@@ -1,0 +1,81 @@
+{
+  "id": 1276373963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.47019,41.29193,48.47019,41.29193",
+    "geom:latitude":41.29193,
+    "geom:longitude":48.47019,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Tekeshykhy",
+    "gn:country_code":"AZ",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584847,
+    "gn:latitude":41.29193,
+    "gn:longitude":48.47019,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Tekeshykhy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u00fclt\u0259p\u0259"
+    ],
+    "name:aze_x_variant":[
+        "Qult\u0259p\u0259"
+    ],
+    "name:rus_x_preferred":[
+        "Gyul\u2019tepe"
+    ],
+    "name:und_x_variant":[
+        "Teke-Shikhi",
+        "Tekeshykhy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584847,
+        "wk:page":"Tekeshykhy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b71498e91948b9c9b1caa0ffa14045a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276373963,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1276373963,
+    "wof:lastmodified":1537585325,
+    "wof:name":"Tekeshykhy",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.47019,
+    41.29193,
+    48.47019,
+    41.29193
+],
+  "geometry": {"coordinates":[48.47019,41.29193],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1310537695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.74271,40.37663,46.74271,40.37663",
+    "geom:latitude":40.37663,
+    "geom:longitude":46.74271,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Talis",
+    "gn:country_code":"AZ",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584885,
+    "gn:latitude":40.37663,
+    "gn:longitude":46.74271,
+    "gn:modification_date":"2018-02-18",
+    "gn:name":"Tal\u0131\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Tal\u0131\u015f"
+    ],
+    "name:eng_x_preferred":[
+        "Talish"
+    ],
+    "name:hye_x_preferred":[
+        "T\u2019alish"
+    ],
+    "name:hye_x_variant":[
+        "\u0539\u0561\u056c\u056b\u0577",
+        "T\u2019arinj",
+        "\u0539\u0561\u0580\u056b\u0576\u057b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u044b\u0448"
+    ],
+    "name:und_x_variant":[
+        "T\u2019alrinj",
+        "Trishetsik",
+        "Talysh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584885,
+        "wk:page":"Tal%C4%B1%C5%9F,_Tartar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fb924dd2ca64947123592afd17adf4a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310537695,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1310537695,
+    "wof:lastmodified":1537585329,
+    "wof:name":"Talis",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.74271,
+    40.37663,
+    46.74271,
+    40.37663
+],
+  "geometry": {"coordinates":[46.74271,40.37663],"type":"Point"}
+}

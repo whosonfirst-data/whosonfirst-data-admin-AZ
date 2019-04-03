@@ -1,0 +1,71 @@
+{
+  "id": 1343344375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.2873,39.33741,48.2873,39.33741",
+    "geom:latitude":39.33741,
+    "geom:longitude":48.2873,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Delali",
+    "gn:country_code":"AZ",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148217,
+    "gn:latitude":39.33741,
+    "gn:longitude":48.2873,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Delali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0259l\u0259li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148217,
+        "wk:page":"D%C9%99l%C9%99li"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"515c40e66b47ea5d926d45f852753090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343344375,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1343344375,
+    "wof:lastmodified":1537585250,
+    "wof:name":"Delali",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.2873,
+    39.33741,
+    48.2873,
+    39.33741
+],
+  "geometry": {"coordinates":[48.2873,39.33741],"type":"Point"}
+}

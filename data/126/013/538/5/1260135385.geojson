@@ -1,0 +1,79 @@
+{
+  "id": 1260135385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.93492,40.81024,47.93492,40.81024",
+    "geom:latitude":40.81024,
+    "geom:longitude":47.93492,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Vank Pervyy",
+    "gn:country_code":"AZ",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584748,
+    "gn:latitude":40.81024,
+    "gn:longitude":47.93492,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Vank Pervyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "V\u01ddng"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043d\u043a"
+    ],
+    "name:und_x_variant":[
+        "Bank",
+        "Vank Pervyy",
+        "Vank",
+        "V\u0259ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584748
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8a4ccc56d0f5c9c9452c97af8436eb32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260135385,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1260135385,
+    "wof:lastmodified":1537585319,
+    "wof:name":"Vank Pervyy",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.93492,
+    40.81024,
+    47.93492,
+    40.81024
+],
+  "geometry": {"coordinates":[47.93492,40.81024],"type":"Point"}
+}

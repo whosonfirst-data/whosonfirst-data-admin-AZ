@@ -1,0 +1,72 @@
+{
+  "id": 1310636975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.47192,41.6399,48.47192,41.6399",
+    "geom:latitude":41.6399,
+    "geom:longitude":48.47192,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Qullar",
+    "gn:country_code":"AZ",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585777,
+    "gn:latitude":41.6399,
+    "gn:longitude":48.47192,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Qullar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kullar",
+        "Qullar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585777,
+        "wk:page":"Qullar%2C_Qusar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b17415ab10e8308fe91713fb60ba19cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310636975,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1310636975,
+    "wof:lastmodified":1537585387,
+    "wof:name":"Qullar",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.47192,
+    41.6399,
+    48.47192,
+    41.6399
+],
+  "geometry": {"coordinates":[48.47192,41.6399],"type":"Point"}
+}

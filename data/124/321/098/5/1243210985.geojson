@@ -1,0 +1,73 @@
+{
+  "id": 1243210985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.79325,38.73537,48.79325,38.73537",
+    "geom:latitude":38.73537,
+    "geom:longitude":48.79325,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Shavlazuza",
+    "gn:country_code":"AZ",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147215,
+    "gn:latitude":38.73537,
+    "gn:longitude":48.79325,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Shavlazuza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shaglazuza",
+        "\u015ea\u011flak\u00fcc\u0259",
+        "Shaglakyudzha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147215,
+        "wk:page":"%C5%9Ea%C4%9Flak%C3%BCc%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d3b71759da23749b5fb71fe25df62c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243210985,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1243210985,
+    "wof:lastmodified":1537585155,
+    "wof:name":"Shavlazuza",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.79325,
+    38.73537,
+    48.79325,
+    38.73537
+],
+  "geometry": {"coordinates":[48.79325,38.73537],"type":"Point"}
+}

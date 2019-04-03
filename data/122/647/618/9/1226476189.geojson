@@ -1,0 +1,91 @@
+{
+  "id": 1226476189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.08917,39.56759,47.08917,39.56759",
+    "geom:latitude":39.56759,
+    "geom:longitude":47.08917,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Axullu",
+    "gn:country_code":"AZ",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":393997,
+    "gn:latitude":39.56759,
+    "gn:longitude":47.08917,
+    "gn:modification_date":"2014-01-14",
+    "gn:name":"Axullu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Axullu"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u056d\u0578\u0582\u056c\u056c\u0578\u0582"
+    ],
+    "name:hye_x_variant":[
+        "Hakhullu",
+        "Hart\u2019ashen",
+        "\u0540\u0561\u0580\u0569\u0561\u0577\u0565\u0576",
+        "Hakhllu",
+        "\u0540\u0561\u056d\u056c\u056c\u0578\u0582"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0445\u0443\u043b\u043b\u0443"
+    ],
+    "name:und_x_variant":[
+        "Hakhullu",
+        "Akxullu",
+        "Hakhoullou",
+        "\u0410\u0445\u0443\u043b\u043b\u0443",
+        "Akhullu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":393997,
+        "wk:page":"Axullu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"230d6f6cb6aebecabd98810598b19157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226476189,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1226476189,
+    "wof:lastmodified":1537585297,
+    "wof:name":"Axullu",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.08917,
+    39.56759,
+    47.08917,
+    39.56759
+],
+  "geometry": {"coordinates":[47.08917,39.56759],"type":"Point"}
+}

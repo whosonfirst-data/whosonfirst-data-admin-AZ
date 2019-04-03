@@ -1,0 +1,68 @@
+{
+  "id": 1209779381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.85,41.16667,48.85,41.16667",
+    "geom:latitude":41.16667,
+    "geom:longitude":48.85,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Izmara",
+    "gn:country_code":"AZ",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586312,
+    "gn:latitude":41.16667,
+    "gn:longitude":48.85,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Izmara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586312,
+        "wk:page":"Izmara"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"62ed477156d27aced2feb74aaa1e9d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209779381,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1209779381,
+    "wof:lastmodified":1537486637,
+    "wof:name":"Izmara",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.85,
+    41.16667,
+    48.85,
+    41.16667
+],
+  "geometry": {"coordinates":[48.85,41.16667],"type":"Point"}
+}

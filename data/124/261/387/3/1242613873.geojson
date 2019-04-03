@@ -1,0 +1,73 @@
+{
+  "id": 1242613873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.58268,41.46794,48.58268,41.46794",
+    "geom:latitude":41.46794,
+    "geom:longitude":48.58268,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Susayqislaq",
+    "gn:country_code":"AZ",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622015,
+    "gn:latitude":41.46794,
+    "gn:longitude":48.58268,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Susayq\u0131\u015flaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Susayq\u0131\u015flaq"
+    ],
+    "name:und_x_variant":[
+        "Susaykyshlak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622015
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f9fb3ac98d4135c2c84608765eaba067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242613873,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1242613873,
+    "wof:lastmodified":1537585535,
+    "wof:name":"Susayqislaq",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.58268,
+    41.46794000000001,
+    48.58268,
+    41.46794000000001
+],
+  "geometry": {"coordinates":[48.58268,41.46794000000001],"type":"Point"}
+}

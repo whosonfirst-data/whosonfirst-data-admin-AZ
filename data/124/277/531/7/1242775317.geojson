@@ -1,0 +1,72 @@
+{
+  "id": 1242775317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.49133,40.37793,48.49133,40.37793",
+    "geom:latitude":40.37793,
+    "geom:longitude":48.49133,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Karaganly",
+    "gn:country_code":"AZ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586195,
+    "gn:latitude":40.37793,
+    "gn:longitude":48.49133,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Karaganly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karagarly",
+        "Karaganly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586195,
+        "wk:page":"Karaganly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"67cc8ce3c2c7542df5538f5b6003c2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242775317,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1242775317,
+    "wof:lastmodified":1537585416,
+    "wof:name":"Karaganly",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.49133,
+    40.37793,
+    48.49133,
+    40.37793
+],
+  "geometry": {"coordinates":[48.49133,40.37793],"type":"Point"}
+}

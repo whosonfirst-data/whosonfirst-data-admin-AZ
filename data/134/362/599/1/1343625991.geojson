@@ -1,0 +1,73 @@
+{
+  "id": 1343625991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.75723,40.69881,46.75723,40.69881",
+    "geom:latitude":40.69881,
+    "geom:longitude":46.75723,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Qarapirimli",
+    "gn:country_code":"AZ",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586153,
+    "gn:latitude":40.69881,
+    "gn:longitude":46.75723,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Qarapirimli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karapirimli",
+        "Karapirili",
+        "Qarapirimli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586153,
+        "wk:page":"Qarapirimli%2C_Goranboy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c8d3720eb731b855ff40f12d252524f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343625991,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1343625991,
+    "wof:lastmodified":1537585413,
+    "wof:name":"Qarapirimli",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.75723,
+    40.69881,
+    46.75723,
+    40.69881
+],
+  "geometry": {"coordinates":[46.75723,40.69881],"type":"Point"}
+}

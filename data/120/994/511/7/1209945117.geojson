@@ -1,0 +1,80 @@
+{
+  "id": 1209945117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.39006,40.05802,48.39006,40.05802",
+    "geom:latitude":40.05802,
+    "geom:longitude":48.39006,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Yenibeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":-14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584689,
+    "gn:latitude":40.05802,
+    "gn:longitude":48.39006,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Yenibeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yol\u00e7ub\u01ddyli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043b\u0447\u0443\u0431\u0435\u0439\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Yelshbekly",
+        "Yenibeyli",
+        "Y\u00eblchubeyli",
+        "Yol\u00e7ub\u0259yli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584689,
+        "wk:page":"Yol%C3%A7ub%C9%99yli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e0b91da2ea2d5a8669ea9182039554a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209945117,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1209945117,
+    "wof:lastmodified":1537585315,
+    "wof:name":"Yenibeyli",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.39006,
+    40.05802,
+    48.39006,
+    40.05802
+],
+  "geometry": {"coordinates":[48.39006,40.05802],"type":"Point"}
+}

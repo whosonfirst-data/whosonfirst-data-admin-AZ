@@ -1,0 +1,66 @@
+{
+  "id": 1209458027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.42641,41.0748,47.42641,41.0748",
+    "geom:latitude":41.0748,
+    "geom:longitude":47.42641,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Calut",
+    "gn:country_code":"AZ",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586676,
+    "gn:latitude":41.0748,
+    "gn:longitude":47.42641,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Calut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhalut",
+        "Calut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586676,
+        "wk:page":"Calut"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5dce9658848b30a1e2449dad6fb8e44c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209458027
+        }
+    ],
+    "wof:id":1209458027,
+    "wof:lastmodified":1537585451,
+    "wof:name":"Calut",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.42641,
+    41.0748,
+    47.42641,
+    41.0748
+],
+  "geometry": {"coordinates":[47.42641,41.0748],"type":"Point"}
+}

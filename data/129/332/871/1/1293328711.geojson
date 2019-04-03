@@ -1,0 +1,81 @@
+{
+  "id": 1293328711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.24259,41.21377,48.24259,41.21377",
+    "geom:latitude":41.21377,
+    "geom:longitude":48.24259,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Qriz",
+    "gn:country_code":"AZ",
+    "gn:dem":2016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585706,
+    "gn:latitude":41.21377,
+    "gn:longitude":48.24259,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Qr\u0131z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qr\u0131z"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0440\u044b\u0437"
+    ],
+    "name:und_x_variant":[
+        "Kriz",
+        "Krits",
+        "Kyryz",
+        "Giriz",
+        "Qr\u0131z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585706,
+        "wk:page":"Qr%C4%B1z"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"33b3170c9357e3b7edd546a8560c8ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293328711,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1293328711,
+    "wof:lastmodified":1537585382,
+    "wof:name":"Qriz",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.24259,
+    41.21377,
+    48.24259,
+    41.21377
+],
+  "geometry": {"coordinates":[48.24259,41.21377],"type":"Point"}
+}

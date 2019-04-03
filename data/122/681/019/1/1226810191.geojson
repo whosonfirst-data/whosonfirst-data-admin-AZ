@@ -1,0 +1,77 @@
+{
+  "id": 1226810191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.73663,38.71062,48.73663,38.71062",
+    "geom:latitude":38.71062,
+    "geom:longitude":48.73663,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Eshlya",
+    "gn:country_code":"AZ",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148120,
+    "gn:latitude":38.71062,
+    "gn:longitude":48.73663,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Eshlya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "E\u015fl\u0259"
+    ],
+    "name:aze_x_variant":[
+        "\u018f\u015fl\u0259"
+    ],
+    "name:und_x_variant":[
+        "\u018fshl\u0259",
+        "Ashla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148120
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a19f2525d6233f6f2117ca7add34f9ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226810191,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1226810191,
+    "wof:lastmodified":1537585241,
+    "wof:name":"Eshlya",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.73663,
+    38.71062,
+    48.73663,
+    38.71062
+],
+  "geometry": {"coordinates":[48.73663,38.71062],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293518991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.95438,39.64548,48.95438,39.64548",
+    "geom:latitude":39.64548,
+    "geom:longitude":48.95438,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Asagi Noxudlu",
+    "gn:country_code":"AZ",
+    "gn:dem":-23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148466,
+    "gn:latitude":39.64548,
+    "gn:longitude":48.95438,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"A\u015fa\u011f\u0131 Noxudlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nizhniye Nokhudly",
+        "Ashagy Nokhudlu",
+        "Nizhmye Nokhudly",
+        "A\u015fa\u011f\u0131 Noxudlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668449,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148466,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_Noxudlu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b668bcd90a88c8e2f0aec69c40a3e689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293518991,
+            "macroregion_id":1108808627,
+            "region_id":85668449
+        }
+    ],
+    "wof:id":1293518991,
+    "wof:lastmodified":1537585273,
+    "wof:name":"Asagi Noxudlu",
+    "wof:parent_id":85668449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.95438,
+    39.64548,
+    48.95438,
+    39.64548
+],
+  "geometry": {"coordinates":[48.95438,39.64548],"type":"Point"}
+}

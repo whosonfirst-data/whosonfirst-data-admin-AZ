@@ -1,0 +1,72 @@
+{
+  "id": 1293235631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.90101,40.61021,48.90101,40.61021",
+    "geom:latitude":40.61021,
+    "geom:longitude":48.90101,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Beklya",
+    "gn:country_code":"AZ",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587012,
+    "gn:latitude":40.61021,
+    "gn:longitude":48.90101,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Beklya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bekle",
+        "B\u0259kl\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668419,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587012,
+        "wk:page":"B%C9%99kl%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bb377f1d0cf4898d4f31eb6c1213655e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293235631,
+            "macroregion_id":1108808611,
+            "region_id":85668419
+        }
+    ],
+    "wof:id":1293235631,
+    "wof:lastmodified":1537585475,
+    "wof:name":"Beklya",
+    "wof:parent_id":85668419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.90101,
+    40.61021,
+    48.90101,
+    40.61021
+],
+  "geometry": {"coordinates":[48.90101,40.61021],"type":"Point"}
+}

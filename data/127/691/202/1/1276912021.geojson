@@ -1,0 +1,77 @@
+{
+  "id": 1276912021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.48777,39.34725,46.48777,39.34725",
+    "geom:latitude":39.34725,
+    "geom:longitude":46.48777,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Eyin",
+    "gn:country_code":"AZ",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148117,
+    "gn:latitude":39.34725,
+    "gn:longitude":46.48777,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Eyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fyin"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u0575\u056b\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0439\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148117,
+        "wk:page":"%C6%8Fyin"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2cc55035c28a206037716cdb9480c39c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276912021,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1276912021,
+    "wof:lastmodified":1537585241,
+    "wof:name":"Eyin",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.48777000000001,
+    39.34725,
+    46.48777000000001,
+    39.34725
+],
+  "geometry": {"coordinates":[46.48777000000001,39.34725],"type":"Point"}
+}

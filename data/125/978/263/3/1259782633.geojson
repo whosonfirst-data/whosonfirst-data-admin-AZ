@@ -1,0 +1,72 @@
+{
+  "id": 1259782633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4427,41.22819,45.4427,41.22819",
+    "geom:latitude":41.22819,
+    "geom:longitude":45.4427,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Poylu",
+    "gn:country_code":"AZ",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585243,
+    "gn:latitude":41.22819,
+    "gn:longitude":45.4427,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Poylu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poyli",
+        "Poylu",
+        "Poyly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668195,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585243
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dd651a3d5448f1d8e8d440dfd2dd4eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259782633,
+            "macroregion_id":1108808609,
+            "region_id":85668195
+        }
+    ],
+    "wof:id":1259782633,
+    "wof:lastmodified":1537585352,
+    "wof:name":"Poylu",
+    "wof:parent_id":85668195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4427,
+    41.22819000000001,
+    45.4427,
+    41.22819000000001
+],
+  "geometry": {"coordinates":[45.4427,41.22819000000001],"type":"Point"}
+}

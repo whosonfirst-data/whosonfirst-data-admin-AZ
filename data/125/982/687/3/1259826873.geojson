@@ -1,0 +1,82 @@
+{
+  "id": 1259826873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.382,39.8785,46.382,39.8785",
+    "geom:latitude":39.8785,
+    "geom:longitude":46.382,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Karabeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":1696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147934,
+    "gn:latitude":39.8785,
+    "gn:longitude":46.382,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Karabeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qarab\u0259yli"
+    ],
+    "name:hye_x_preferred":[
+        "Gharabeyli"
+    ],
+    "name:hye_x_variant":[
+        "\u0542\u0561\u0580\u0561\u0562\u0565\u0575\u056c\u056b",
+        "K\u2019arabak",
+        "\u0554\u0561\u0580\u0561\u0562\u0561\u056f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0435\u0439\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147934,
+        "wk:page":"Qarab%C9%99yli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"39ce05b1ae19d4e8359c2690cdbc1566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259826873,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1259826873,
+    "wof:lastmodified":1537585224,
+    "wof:name":"Karabeyli",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.382,
+    39.8785,
+    46.382,
+    39.8785
+],
+  "geometry": {"coordinates":[46.382,39.8785],"type":"Point"}
+}

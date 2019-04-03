@@ -1,0 +1,72 @@
+{
+  "id": 1360321303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.50733,41.44153,48.50733,41.44153",
+    "geom:latitude":41.44153,
+    "geom:longitude":48.50733,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Orta Xuc",
+    "gn:country_code":"AZ",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585315,
+    "gn:latitude":41.44153,
+    "gn:longitude":48.50733,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Orta Xu\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Orta Khuch",
+        "Orta Xu\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585315,
+        "wk:page":"Orta_Xu%C3%A7"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fda6d0339f266a4fdbeadd64c80acd6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360321303,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1360321303,
+    "wof:lastmodified":1537585356,
+    "wof:name":"Orta Xuc",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.50733,
+    41.44153,
+    48.50733,
+    41.44153
+],
+  "geometry": {"coordinates":[48.50733,41.44153],"type":"Point"}
+}

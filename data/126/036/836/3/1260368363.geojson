@@ -1,0 +1,74 @@
+{
+  "id": 1260368363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.235,40.3875,47.235,40.3875",
+    "geom:latitude":40.3875,
+    "geom:longitude":47.235,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Qaraqoyunlu",
+    "gn:country_code":"AZ",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585972,
+    "gn:latitude":40.3875,
+    "gn:longitude":47.235,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Qaraqoyunlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaraqoyunlu"
+    ],
+    "name:und_x_variant":[
+        "Khan-Karakoyunlu",
+        "Karakoyunly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585972
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"016402df8b17a0cd1ebc130fa22e6678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260368363,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1260368363,
+    "wof:lastmodified":1537585400,
+    "wof:name":"Qaraqoyunlu",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.235,
+    40.3875,
+    47.235,
+    40.3875
+],
+  "geometry": {"coordinates":[47.235,40.3875],"type":"Point"}
+}

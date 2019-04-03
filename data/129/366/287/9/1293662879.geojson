@@ -1,0 +1,84 @@
+{
+  "id": 1293662879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.02998,39.34511,47.02998,39.34511",
+    "geom:latitude":39.34511,
+    "geom:longitude":47.02998,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Minbasili",
+    "gn:country_code":"AZ",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147506,
+    "gn:latitude":39.34511,
+    "gn:longitude":47.02998,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Minba\u015f\u0131l\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Minba\u015f\u0131l\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Minbashyghly"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u056b\u0576\u0562\u0561\u0577\u0568\u0572\u056c\u0568"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043d\u0431\u0430\u0448\u044b\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Minbashyly",
+        "Minbashi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147506,
+        "wk:page":"Minba%C5%9F%C4%B1l%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2853fac08d6f39d934579586c4bf2a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293662879,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1293662879,
+    "wof:lastmodified":1537585180,
+    "wof:name":"Minbasili",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.02998,
+    39.34511,
+    47.02998,
+    39.34511
+],
+  "geometry": {"coordinates":[47.02998,39.34511],"type":"Point"}
+}

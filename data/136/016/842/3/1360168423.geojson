@@ -1,0 +1,76 @@
+{
+  "id": 1360168423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.31388,41.70025,46.31388,41.70025",
+    "geom:latitude":41.70025,
+    "geom:longitude":46.31388,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Cederovtala",
+    "gn:country_code":"AZ",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586863,
+    "gn:latitude":41.70025,
+    "gn:longitude":46.31388,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"\u00c7ederovtala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7ederovtala"
+    ],
+    "name:und_x_variant":[
+        "Chederovtala",
+        "Chederentala",
+        "\u00c7\u0259d\u0259rovtala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586863,
+        "wk:page":"%C3%87%C9%99d%C9%99rovtala"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b080f7f1e209624aa66f02920144384f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360168423,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1360168423,
+    "wof:lastmodified":1537585464,
+    "wof:name":"Cederovtala",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.31388,
+    41.70025,
+    46.31388,
+    41.70025
+],
+  "geometry": {"coordinates":[46.31388,41.70025],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209449989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.58483,39.98298,48.58483,39.98298",
+    "geom:latitude":39.98298,
+    "geom:longitude":48.58483,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Yastiqobu",
+    "gn:country_code":"AZ",
+    "gn:dem":-17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8515652,
+    "gn:latitude":39.98298,
+    "gn:longitude":48.58483,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Yast\u0131qobu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yast\u0131qobu"
+    ],
+    "name:und_x_variant":[
+        "Yasti Kobu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8515652,
+        "wk:page":"Yast%C4%B1qobu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fb1c93d1d780c35c4d06db16efd9f3c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209449989
+        }
+    ],
+    "wof:id":1209449989,
+    "wof:lastmodified":1537585528,
+    "wof:name":"Yastiqobu",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.58483,
+    39.98298,
+    48.58483,
+    39.98298
+],
+  "geometry": {"coordinates":[48.58483,39.98298],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310277423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.09575,40.38285,46.09575,40.38285",
+    "geom:latitude":40.38285,
+    "geom:longitude":46.09575,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Alaxancalli",
+    "gn:country_code":"AZ",
+    "gn:dem":1568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587328,
+    "gn:latitude":40.38285,
+    "gn:longitude":46.09575,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Alaxan\u00e7all\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Alaxan\u00e7all\u0131"
+    ],
+    "name:und_x_variant":[
+        "Karakullar-Alakhanchally",
+        "Alakhanchally"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587328,
+        "wk:page":"Alaxan%C3%A7all%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"29d55471ddcfbb9a5fc4ac3b98767052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310277423,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1310277423,
+    "wof:lastmodified":1537585498,
+    "wof:name":"Alaxancalli",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.09575,
+    40.38285,
+    46.09575,
+    40.38285
+],
+  "geometry": {"coordinates":[46.09575,40.38285],"type":"Point"}
+}

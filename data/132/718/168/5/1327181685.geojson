@@ -1,0 +1,85 @@
+{
+  "id": 1327181685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.23653,39.87582,46.23653,39.87582",
+    "geom:latitude":39.87582,
+    "geom:longitude":46.23653,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Qovusuq",
+    "gn:country_code":"AZ",
+    "gn:dem":1714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147698,
+    "gn:latitude":39.87582,
+    "gn:longitude":46.23653,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Qovu\u015fuq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qovu\u015fuq"
+    ],
+    "name:hye_x_preferred":[
+        "Karmrashen"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0561\u0580\u0574\u0580\u0561\u0577\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0432\u0443\u0448\u0443\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kovushut",
+        "Kavyshykh",
+        "Kovushuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147698,
+        "wk:page":"Qovu%C5%9Fuq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"997913648e1099a035f3db075af1b0d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327181685,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1327181685,
+    "wof:lastmodified":1537585199,
+    "wof:name":"Qovusuq",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.23653,
+    39.87582,
+    46.23653,
+    39.87582
+],
+  "geometry": {"coordinates":[46.23653,39.87582],"type":"Point"}
+}

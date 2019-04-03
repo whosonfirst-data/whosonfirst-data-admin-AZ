@@ -1,0 +1,71 @@
+{
+  "id": 1209474579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.61139,38.97416,48.61139,38.97416",
+    "geom:latitude":38.97416,
+    "geom:longitude":48.61139,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Mamedrzakyudzha",
+    "gn:country_code":"AZ",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147563,
+    "gn:latitude":38.97416,
+    "gn:longitude":48.61139,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Mamedrzakyudzha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259mm\u0259drak\u00fcc\u0259"
+    ],
+    "name:aze_x_variant":[
+        "M\u0259mm\u0259drzak\u00fcc\u0259"
+    ],
+    "name:und_x_variant":[
+        "Mamedi-Rzakyudzha",
+        "Mamedrzakyudzha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147563
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"80c670f60002cd713ef9049e4b532e7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209474579
+        }
+    ],
+    "wof:id":1209474579,
+    "wof:lastmodified":1537585186,
+    "wof:name":"Mamedrzakyudzha",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.61139,
+    38.97416,
+    48.61139,
+    38.97416
+],
+  "geometry": {"coordinates":[48.61139,38.97416],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243114921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.67404,40.81887,47.67404,40.81887",
+    "geom:latitude":40.81887,
+    "geom:longitude":47.67404,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Qaradeyin",
+    "gn:country_code":"AZ",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586206,
+    "gn:latitude":40.81887,
+    "gn:longitude":47.67404,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Qaradeyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karadein",
+        "Karadigin",
+        "Qaradeyin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586206
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"faa251dab2a2ce680b1046c6aeb11014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243114921,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1243114921,
+    "wof:lastmodified":1537585417,
+    "wof:name":"Qaradeyin",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.67404000000001,
+    40.81887,
+    47.67404000000001,
+    40.81887
+],
+  "geometry": {"coordinates":[47.67404000000001,40.81887],"type":"Point"}
+}

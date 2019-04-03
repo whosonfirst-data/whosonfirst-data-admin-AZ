@@ -1,0 +1,71 @@
+{
+  "id": 1225806235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.69889,38.66883,48.69889,38.66883",
+    "geom:latitude":38.66883,
+    "geom:longitude":48.69889,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Rezvan",
+    "gn:country_code":"AZ",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147294,
+    "gn:latitude":38.66883,
+    "gn:longitude":48.69889,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Rezvan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Razvayn",
+        "Rezvan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147294
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"20d14fed650f6c7d13e98fb90bf07ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225806235,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1225806235,
+    "wof:lastmodified":1537585162,
+    "wof:name":"Rezvan",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.69889000000001,
+    38.66883,
+    48.69889000000001,
+    38.66883
+],
+  "geometry": {"coordinates":[48.69889000000001,38.66883],"type":"Point"}
+}

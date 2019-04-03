@@ -1,0 +1,92 @@
+{
+  "id": 1260010037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.72778,39.77639,46.72778,39.77639",
+    "geom:latitude":39.77639,
+    "geom:longitude":46.72778,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Qaybali",
+    "gn:country_code":"AZ",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395867,
+    "gn:latitude":39.77639,
+    "gn:longitude":46.72778,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Qaybal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qeybal\u0131"
+    ],
+    "name:aze_x_variant":[
+        "Qaybal\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "K\u2019eybaly"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0565\u0575\u0562\u0561\u056c\u0568",
+        "Gaylabun",
+        "\u0533\u0561\u0575\u056c\u0561\u0562\u0578\u0582\u0576",
+        "Ghaybalishen",
+        "\u0542\u0561\u0575\u0562\u0561\u056c\u056b\u0577\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0439\u0431\u0430\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ghaibalou",
+        "Keybaly",
+        "\u041a\u0435\u0439\u0431\u0430\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668643,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395867,
+        "wk:page":"Qeybal%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c9c1dd29bd670304544428e2b8b296a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260010037,
+            "macroregion_id":1108808615,
+            "region_id":85668643
+        }
+    ],
+    "wof:id":1260010037,
+    "wof:lastmodified":1537585300,
+    "wof:name":"Qaybali",
+    "wof:parent_id":85668643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.72778,
+    39.77639,
+    46.72778,
+    39.77639
+],
+  "geometry": {"coordinates":[46.72778,39.77639],"type":"Point"}
+}

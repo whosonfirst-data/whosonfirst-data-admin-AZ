@@ -1,0 +1,74 @@
+{
+  "id": 1209847157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.78039,40.15076,47.78039,40.15076",
+    "geom:latitude":40.15076,
+    "geom:longitude":47.78039,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Nazarally",
+    "gn:country_code":"AZ",
+    "gn:dem":-5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585373,
+    "gn:latitude":40.15076,
+    "gn:longitude":47.78039,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Nazarally",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "N\u0259z\u0259rall\u0131"
+    ],
+    "name:und_x_variant":[
+        "N\u0259z\u0259ral\u0131l\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668509,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585373,
+        "wk:page":"N%C9%99z%C9%99ral%C4%B1l%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d6debb0d97c21f6e87a5b0c973d3579f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209847157,
+            "macroregion_id":1108808627,
+            "region_id":85668509
+        }
+    ],
+    "wof:id":1209847157,
+    "wof:lastmodified":1537585361,
+    "wof:name":"Nazarally",
+    "wof:parent_id":85668509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.78039,
+    40.15076,
+    47.78039,
+    40.15076
+],
+  "geometry": {"coordinates":[47.78039,40.15076],"type":"Point"}
+}

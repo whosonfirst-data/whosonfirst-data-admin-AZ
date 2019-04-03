@@ -1,0 +1,72 @@
+{
+  "id": 1327283347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.72413,38.974,48.72413,38.974",
+    "geom:latitude":38.974,
+    "geom:longitude":48.72413,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Xil",
+    "gn:country_code":"AZ",
+    "gn:dem":-18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147744,
+    "gn:latitude":38.974,
+    "gn:longitude":48.72413,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"X\u0131l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khyl",
+        "X\u0131l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147744,
+        "wk:page":"X%C4%B1l"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"62ed1f73788164d6d7d6998c842aa1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327283347,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1327283347,
+    "wof:lastmodified":1537585203,
+    "wof:name":"Xil",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.72413,
+    38.974,
+    48.72413,
+    38.974
+],
+  "geometry": {"coordinates":[48.72413,38.974],"type":"Point"}
+}

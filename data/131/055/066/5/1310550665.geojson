@@ -1,0 +1,68 @@
+{
+  "id": 1310550665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.66667,39.03333,48.66667,39.03333",
+    "geom:latitude":39.03333,
+    "geom:longitude":48.66667,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Dadva",
+    "gn:country_code":"AZ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148248,
+    "gn:latitude":39.03333,
+    "gn:longitude":48.66667,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Dadva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148248,
+        "wk:page":"Dadva"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"409d0c21b2310e4b27a1619a081dae6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310550665,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1310550665,
+    "wof:lastmodified":1537486554,
+    "wof:name":"Dadva",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.66667,
+    39.03333,
+    48.66667,
+    39.03333
+],
+  "geometry": {"coordinates":[48.66667,39.03333],"type":"Point"}
+}

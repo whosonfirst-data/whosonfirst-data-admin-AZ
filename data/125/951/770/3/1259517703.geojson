@@ -1,0 +1,74 @@
+{
+  "id": 1259517703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.51848,40.69546,45.51848,40.69546",
+    "geom:latitude":40.69546,
+    "geom:longitude":45.51848,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Mesmalar",
+    "gn:country_code":"AZ",
+    "gn:dem":1633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585524,
+    "gn:latitude":40.69546,
+    "gn:longitude":45.51848,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Mesmalar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259siml\u0259r"
+    ],
+    "name:aze_x_variant":[
+        "M\u0259sm\u0259l\u0259r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585524,
+        "wk:page":"M%C9%99siml%C9%99r"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4bd654bba0b7c1896a41727728476b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259517703,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1259517703,
+    "wof:lastmodified":1537585371,
+    "wof:name":"Mesmalar",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.51848,
+    40.69546,
+    45.51848,
+    40.69546
+],
+  "geometry": {"coordinates":[45.51848,40.69546],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209212531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.22948,40.55658,48.22948,40.55658",
+    "geom:latitude":40.55658,
+    "geom:longitude":48.22948,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bagimli",
+    "gn:country_code":"AZ",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560329,
+    "gn:latitude":40.55658,
+    "gn:longitude":48.22948,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Bagimli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "B\u0259yimli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560329
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8e256fe0f550ce38100ffdbeac0dd48e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209212531
+        }
+    ],
+    "wof:id":1209212531,
+    "wof:lastmodified":1537585532,
+    "wof:name":"Bagimli",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.22948,
+    40.55658,
+    48.22948,
+    40.55658
+],
+  "geometry": {"coordinates":[48.22948,40.55658],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327433313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.04373,40.08039,47.04373,40.08039",
+    "geom:latitude":40.08039,
+    "geom:longitude":47.04373,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shukyuragaly",
+    "gn:country_code":"AZ",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584995,
+    "gn:latitude":40.08039,
+    "gn:longitude":47.04373,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Shukyuragaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015e\u00fck\u00fcrb\u0259yli"
+    ],
+    "name:aze_x_variant":[
+        "\u015e\u00fck\u00fcra\u011fal\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584995,
+        "wk:page":"%C5%9E%C3%BCk%C3%BCra%C4%9Fal%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1d7146ae8506fcd32b142708c4413076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327433313,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1327433313,
+    "wof:lastmodified":1537585336,
+    "wof:name":"Shukyuragaly",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.04373,
+    40.08039,
+    47.04373,
+    40.08039
+],
+  "geometry": {"coordinates":[47.04373,40.08039],"type":"Point"}
+}

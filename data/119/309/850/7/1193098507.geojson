@@ -1,0 +1,89 @@
+{
+  "id": 1193098507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.44553,39.80462,46.44553,39.80462",
+    "geom:latitude":39.80462,
+    "geom:longitude":46.44553,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Pichenis",
+    "gn:country_code":"AZ",
+    "gn:dem":1449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147335,
+    "gn:latitude":39.80462,
+    "gn:longitude":46.44553,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Pichenis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Pi\u00e7\u0259nis"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u056b\u0579\u0561\u0576\u056b\u057d"
+    ],
+    "name:hye_x_variant":[
+        "Pich\u2019anis",
+        "Vakunis",
+        "\u054e\u0561\u056f\u0578\u0582\u0576\u056b\u057d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0447\u0430\u043d\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "Pichanys",
+        "Pichenis",
+        "Pichaniz",
+        "Pichanis",
+        "\u041f\u0438\u0447\u0430\u043d\u0438\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147335,
+        "wk:page":"Pi%C3%A7%C9%99nis"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"924812b9515e18ab86d9b7bd2c5ae916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193098507,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1193098507,
+    "wof:lastmodified":1537585165,
+    "wof:name":"Pichenis",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.44553,
+    39.80462,
+    46.44553,
+    39.80462
+],
+  "geometry": {"coordinates":[46.44553,39.80462],"type":"Point"}
+}

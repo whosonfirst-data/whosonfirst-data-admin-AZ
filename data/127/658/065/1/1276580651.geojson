@@ -1,0 +1,87 @@
+{
+  "id": 1276580651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.64017,39.41556,46.64017,39.41556",
+    "geom:latitude":39.41556,
+    "geom:longitude":46.64017,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Qaracalli",
+    "gn:country_code":"AZ",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147921,
+    "gn:latitude":39.41556,
+    "gn:longitude":46.64017,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Qaracall\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaracall\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Gharajaly"
+    ],
+    "name:hye_x_variant":[
+        "\u0542\u0561\u0580\u0561\u057b\u0561\u056c\u0568",
+        "Martunashen",
+        "\u0544\u0561\u0580\u057f\u0578\u0582\u0576\u0561\u0577\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0434\u0436\u0430\u043b\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Karadzhally",
+        "Karadzhanly",
+        "\u041a\u0430\u0440\u0430\u0434\u0436\u0430\u043b\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147921,
+        "wk:page":"Qaracall%C4%B1%2C_Qubadli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"de67081de6366445e70f0ba4a42849a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276580651,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1276580651,
+    "wof:lastmodified":1537585222,
+    "wof:name":"Qaracalli",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.64017,
+    39.41556,
+    46.64017,
+    39.41556
+],
+  "geometry": {"coordinates":[46.64017,39.41556],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1193262247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.36726,41.63238,46.36726,41.63238",
+    "geom:latitude":41.63238,
+    "geom:longitude":46.36726,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Buchagar",
+    "gn:country_code":"AZ",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586978,
+    "gn:latitude":41.63238,
+    "gn:longitude":46.36726,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Buchagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Be\u00e7eqarbin\u0259"
+    ],
+    "name:aze_x_variant":[
+        "B\u0259\u00e7\u0259qarbin\u0259"
+    ],
+    "name:und_x_variant":[
+        "Bichagarbina",
+        "Bichigar",
+        "Bichigarbina",
+        "Bi\u00e7iqarbin\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586978,
+        "wk:page":"Bi%C3%A7iqarbin%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"64268ccf1cc5d98faf4c3c3d7a9335b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193262247,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1193262247,
+    "wof:lastmodified":1537585473,
+    "wof:name":"Buchagar",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.36726,
+    41.63238,
+    46.36726,
+    41.63238
+],
+  "geometry": {"coordinates":[46.36726,41.63238],"type":"Point"}
+}

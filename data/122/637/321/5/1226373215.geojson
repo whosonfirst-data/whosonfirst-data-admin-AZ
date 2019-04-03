@@ -1,0 +1,89 @@
+{
+  "id": 1226373215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.99598,39.43953,46.99598,39.43953",
+    "geom:latitude":39.43953,
+    "geom:longitude":46.99598,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Arakul",
+    "gn:country_code":"AZ",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148520,
+    "gn:latitude":39.43953,
+    "gn:longitude":46.99598,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"Arak\u00fcl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Arak\u00fcl"
+    ],
+    "name:hye_x_preferred":[
+        "Arrak\u2019yal"
+    ],
+    "name:hye_x_variant":[
+        "Arrak\u2019ul",
+        "\u0531\u057c\u0561\u0584\u0575\u0561\u056c",
+        "Arrak\u2019el",
+        "\u0531\u057c\u0561\u0584\u0565\u056c"
+    ],
+    "name:rus_x_preferred":[
+        "Arakyul\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0440\u0430\u043a\u044e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "\u0410\u0440\u0430\u043a\u044e\u043b\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148520,
+        "wk:page":"Arak%C3%BCl"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0314dcb4351f0e12a7215af1670bfd8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226373215,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1226373215,
+    "wof:lastmodified":1537585278,
+    "wof:name":"Arakul",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.99598,
+    39.43953,
+    46.99598,
+    39.43953
+],
+  "geometry": {"coordinates":[46.99598,39.43953],"type":"Point"}
+}

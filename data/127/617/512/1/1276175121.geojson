@@ -1,0 +1,87 @@
+{
+  "id": 1276175121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.60377,39.56678,46.60377,39.56678",
+    "geom:latitude":39.56678,
+    "geom:longitude":46.60377,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Melikpeya",
+    "gn:country_code":"AZ",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147525,
+    "gn:latitude":39.56678,
+    "gn:longitude":46.60377,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Melikpeya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259likp\u0259y\u0259"
+    ],
+    "name:hye_x_preferred":[
+        "Melik P\u2019eya"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0565\u056c\u056b\u056f \u0553\u0565\u0575\u0561",
+        "Melik\u2019ahogh",
+        "\u0544\u0565\u056c\u056b\u0584\u0561\u0570\u0578\u0572"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u0438\u043a\u043f\u0435\u044f"
+    ],
+    "name:und_x_variant":[
+        "Melik-Payasi",
+        "Melikpeya",
+        "\u041c\u0435\u043b\u0438\u043a\u043f\u0435\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147525,
+        "wk:page":"M%C9%99likp%C9%99y%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"82ccf3df5a4be3961cdcf4de2f164590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276175121,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1276175121,
+    "wof:lastmodified":1537585182,
+    "wof:name":"Melikpeya",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.60377,
+    39.56678,
+    46.60377,
+    39.56678
+],
+  "geometry": {"coordinates":[46.60377,39.56678],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260214435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.73137,41.26563,48.73137,41.26563",
+    "geom:latitude":41.26563,
+    "geom:longitude":48.73137,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Isnov",
+    "gn:country_code":"AZ",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9887804,
+    "gn:latitude":41.26563,
+    "gn:longitude":48.73137,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"\u0130snov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130snov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9887804,
+        "wk:page":"%C4%B0snov"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"42ee8683f6103e3e993b6e99e1b9ebce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260214435,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1260214435,
+    "wof:lastmodified":1537585542,
+    "wof:name":"Isnov",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.73137,
+    41.26563,
+    48.73137,
+    41.26563
+],
+  "geometry": {"coordinates":[48.73137,41.26563],"type":"Point"}
+}

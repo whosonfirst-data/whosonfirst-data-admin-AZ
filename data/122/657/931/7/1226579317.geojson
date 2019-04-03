@@ -1,0 +1,72 @@
+{
+  "id": 1226579317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.63333,41.5,48.63333,41.5",
+    "geom:latitude":41.5,
+    "geom:longitude":48.63333,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Kyraglydzhek",
+    "gn:country_code":"AZ",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585713,
+    "gn:latitude":41.5,
+    "gn:longitude":48.63333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Kyraglydzhek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyrakhly-Dzhek",
+        "Kyraglydzhek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585713,
+        "wk:page":"Kyraglydzhek"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"36221cbaa1c1bca2c17b2c21c9f07c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226579317,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1226579317,
+    "wof:lastmodified":1537585383,
+    "wof:name":"Kyraglydzhek",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.63333,
+    41.5,
+    48.63333,
+    41.5
+],
+  "geometry": {"coordinates":[48.63333,41.5],"type":"Point"}
+}

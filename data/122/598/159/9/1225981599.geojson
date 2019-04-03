@@ -1,0 +1,73 @@
+{
+  "id": 1225981599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.14818,41.04743,47.14818,41.04743",
+    "geom:latitude":41.04743,
+    "geom:longitude":47.14818,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Goybulaq",
+    "gn:country_code":"AZ",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586469,
+    "gn:latitude":41.04743,
+    "gn:longitude":47.14818,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"G\u00f6ybulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00ebybulak",
+        "Geybulag",
+        "G\u00f6ybulaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586469,
+        "wk:page":"G%C3%B6ybulaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3483641f3b2d18e395c040a0c36e4c12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225981599,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1225981599,
+    "wof:lastmodified":1537585436,
+    "wof:name":"Goybulaq",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.14818,
+    41.04743,
+    47.14818,
+    41.04743
+],
+  "geometry": {"coordinates":[47.14818,41.04743],"type":"Point"}
+}

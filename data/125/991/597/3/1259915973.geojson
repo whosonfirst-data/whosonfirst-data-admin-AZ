@@ -1,0 +1,79 @@
+{
+  "id": 1259915973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.11252,40.77542,46.11252,40.77542",
+    "geom:latitude":40.77542,
+    "geom:longitude":46.11252,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Cinarli",
+    "gn:country_code":"AZ",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585642,
+    "gn:latitude":40.77542,
+    "gn:longitude":46.11252,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"\u00c7inarl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00c7inarl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Leninfel\u2019d",
+        "Lenin",
+        "Leninkend",
+        "\u00c7inarl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585642
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3670ca09fe615bf912a548328404037a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259915973,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1259915973,
+    "wof:lastmodified":1537585379,
+    "wof:name":"Cinarli",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.11252,
+    40.77542,
+    46.11252,
+    40.77542
+],
+  "geometry": {"coordinates":[46.11252,40.77542],"type":"Point"}
+}

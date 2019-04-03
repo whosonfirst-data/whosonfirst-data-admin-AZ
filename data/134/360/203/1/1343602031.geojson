@@ -1,0 +1,75 @@
+{
+  "id": 1343602031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.92535,39.16826,45.92535,39.16826",
+    "geom:latitude":39.16826,
+    "geom:longitude":45.92535,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147365.0",
+    "gn:asciiname":"Naservas",
+    "gn:country_code":"AZ",
+    "gn:dem":1942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147430,
+    "gn:latitude":39.16826,
+    "gn:longitude":45.92535,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Naservas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "N\u0259sirvaz"
+    ],
+    "name:und_x_variant":[
+        "Nasirvaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668665,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147430,
+        "wk:page":"N%C9%99sirvaz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"95f6d50c7e116ec36faa93e5e3b8d8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343602031,
+            "macroregion_id":1108808617,
+            "region_id":85668665
+        }
+    ],
+    "wof:id":1343602031,
+    "wof:lastmodified":1537585172,
+    "wof:name":"Naservas",
+    "wof:parent_id":85668665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.92535,
+    39.16826,
+    45.92535,
+    39.16826
+],
+  "geometry": {"coordinates":[45.92535,39.16826],"type":"Point"}
+}

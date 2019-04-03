@@ -1,0 +1,74 @@
+{
+  "id": 1326593473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.9712,41.14359,48.9712,41.14359",
+    "geom:latitude":41.14359,
+    "geom:longitude":48.9712,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Karabagly",
+    "gn:country_code":"AZ",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586242,
+    "gn:latitude":41.14359,
+    "gn:longitude":48.9712,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Karabagly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00dcz\u00fcmlu"
+    ],
+    "name:und_x_variant":[
+        "Uzyumlyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586242,
+        "wk:page":"Karabagly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0621379c469d93bbe800ebe0d8abc399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326593473,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1326593473,
+    "wof:lastmodified":1537585420,
+    "wof:name":"Karabagly",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.9712,
+    41.14359,
+    48.9712,
+    41.14359
+],
+  "geometry": {"coordinates":[48.9712,41.14359],"type":"Point"}
+}

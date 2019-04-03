@@ -1,0 +1,72 @@
+{
+  "id": 1259717705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.60861,39.83894,48.60861,39.83894",
+    "geom:latitude":39.83894,
+    "geom:longitude":48.60861,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Nasimikend",
+    "gn:country_code":"AZ",
+    "gn:dem":-17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":393333,
+    "gn:latitude":39.83894,
+    "gn:longitude":48.60861,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Nasimikend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0259simik\u0259nd",
+        "Nasimikend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668433,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":393333,
+        "wk:page":"N%C9%99simik%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f7b3e9b5dc786302d3d1e3ceb7a80a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259717705,
+            "macroregion_id":1108808627,
+            "region_id":85668433
+        }
+    ],
+    "wof:id":1259717705,
+    "wof:lastmodified":1537585295,
+    "wof:name":"Nasimikend",
+    "wof:parent_id":85668433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.60861,
+    39.83894,
+    48.60861,
+    39.83894
+],
+  "geometry": {"coordinates":[48.60861,39.83894],"type":"Point"}
+}

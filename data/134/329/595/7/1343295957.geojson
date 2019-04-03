@@ -1,0 +1,74 @@
+{
+  "id": 1343295957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.9456,40.98057,48.9456,40.98057",
+    "geom:latitude":40.98057,
+    "geom:longitude":48.9456,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Almagovlu",
+    "gn:country_code":"AZ",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587287,
+    "gn:latitude":40.98057,
+    "gn:longitude":48.9456,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Almagovlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Almakuyuly",
+        "Almagovlu",
+        "\u018flm\u0259kolu",
+        "Almakovly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668425,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587287,
+        "wk:page":"%C6%8Flm%C9%99kolu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a8908a7fd7d3ce3fd5d52eb037bf1f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343295957,
+            "macroregion_id":1108808623,
+            "region_id":85668425
+        }
+    ],
+    "wof:id":1343295957,
+    "wof:lastmodified":1537585495,
+    "wof:name":"Almagovlu",
+    "wof:parent_id":85668425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.9456,
+    40.98057,
+    48.9456,
+    40.98057
+],
+  "geometry": {"coordinates":[48.9456,40.98057],"type":"Point"}
+}

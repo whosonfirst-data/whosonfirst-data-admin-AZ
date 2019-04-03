@@ -1,0 +1,73 @@
+{
+  "id": 1225975519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.59529,38.87347,48.59529,38.87347",
+    "geom:latitude":38.87347,
+    "geom:longitude":48.59529,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Konagager",
+    "gn:country_code":"AZ",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147852,
+    "gn:latitude":38.87347,
+    "gn:longitude":48.59529,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Konagager",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00f6hn\u0259 G\u0259gir"
+    ],
+    "name:und_x_variant":[
+        "K\u00ebgna Gegir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147852
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"54815120f9e8e77f8dc4747c8e92fe2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225975519,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1225975519,
+    "wof:lastmodified":1537585215,
+    "wof:name":"Konagager",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.59529000000001,
+    38.87347000000001,
+    48.59529000000001,
+    38.87347000000001
+],
+  "geometry": {"coordinates":[48.59529000000001,38.87347000000001],"type":"Point"}
+}

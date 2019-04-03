@@ -1,0 +1,65 @@
+{
+  "id": 1209202735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.12972,40.34124,47.12972,40.34124",
+    "geom:latitude":40.34124,
+    "geom:longitude":47.12972,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Aliyanly",
+    "gn:country_code":"AZ",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587293,
+    "gn:latitude":40.34124,
+    "gn:longitude":47.12972,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Aliyanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fliyanl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587293,
+        "wk:page":"%C6%8Fliyanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6f109ed921687ce8bbf36a40990f1c97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209202735
+        }
+    ],
+    "wof:id":1209202735,
+    "wof:lastmodified":1537585495,
+    "wof:name":"Aliyanly",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.12972,
+    40.34124,
+    47.12972,
+    40.34124
+],
+  "geometry": {"coordinates":[47.12972,40.34124],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1226177025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91355,39.76541,46.91355,39.76541",
+    "geom:latitude":39.76541,
+    "geom:longitude":46.91355,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Gavahin",
+    "gn:country_code":"AZ",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148075,
+    "gn:latitude":39.76541,
+    "gn:longitude":46.91355,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Gavah\u0131n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Gavah\u0131n"
+    ],
+    "name:hye_x_preferred":[
+        "Brukhashen"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0580\u0578\u0582\u056d\u0561\u0577\u0565\u0576",
+        "\u053f\u0561\u057e\u0561\u0570\u0561\u0576",
+        "\u0542\u0561\u057e\u0561\u056d\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0432\u0430\u0445\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Kavahan",
+        "Gavakhan",
+        "Gavahan",
+        "Ghavakhan",
+        "\u0413\u0430\u0432\u0430\u0445\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148075,
+        "wk:page":"Gavah%C4%B1n"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4ce1ecfbb6e53e85774b067b23c95cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226177025,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1226177025,
+    "wof:lastmodified":1537585237,
+    "wof:name":"Gavahin",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91355,
+    39.76541,
+    46.91355,
+    39.76541
+],
+  "geometry": {"coordinates":[46.91355,39.76541],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1209786667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.04272,39.47245,47.04272,39.47245",
+    "geom:latitude":39.47245,
+    "geom:longitude":47.04272,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Qislaq",
+    "gn:country_code":"AZ",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147663,
+    "gn:latitude":39.47245,
+    "gn:longitude":47.04272,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Q\u0131\u015flaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Q\u0131\u015flaq"
+    ],
+    "name:hye_x_preferred":[
+        "Ghyshlagh"
+    ],
+    "name:hye_x_variant":[
+        "\u0542\u0568\u0577\u056c\u0561\u0572"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0448\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kyshlak",
+        "Gishlagh",
+        "Kishlak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147663
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7fea4997a4e23cfbe9bcf2aab8d7645c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209786667,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1209786667,
+    "wof:lastmodified":1537585195,
+    "wof:name":"Qislaq",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.04272,
+    39.47245,
+    47.04272,
+    39.47245
+],
+  "geometry": {"coordinates":[47.04272,39.47245],"type":"Point"}
+}

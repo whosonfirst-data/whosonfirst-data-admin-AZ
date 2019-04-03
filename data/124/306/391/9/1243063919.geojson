@@ -1,0 +1,71 @@
+{
+  "id": 1243063919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.43212,39.98477,49.43212,39.98477",
+    "geom:latitude":39.98477,
+    "geom:longitude":49.43212,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kotal",
+    "gn:country_code":"AZ",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8571879,
+    "gn:latitude":39.98477,
+    "gn:longitude":49.43212,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Kotal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kotal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8571879,
+        "wk:page":"Kotal"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5d2298c513b038beff3959fa486e67af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243063919,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1243063919,
+    "wof:lastmodified":1537585532,
+    "wof:name":"Kotal",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.43212,
+    39.98477000000001,
+    49.43212,
+    39.98477000000001
+],
+  "geometry": {"coordinates":[49.43212,39.98477000000001],"type":"Point"}
+}

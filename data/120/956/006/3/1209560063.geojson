@@ -1,0 +1,96 @@
+{
+  "id": 1209560063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.73244,38.94052,45.73244,38.94052",
+    "geom:latitude":38.94052,
+    "geom:longitude":45.73244,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"148132.0",
+    "gn:asciiname":"Yayci",
+    "gn:country_code":"AZ",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146958,
+    "gn:latitude":38.94052,
+    "gn:longitude":45.73244,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Yayc\u0131",
+    "gn:population":8500,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_colloquial":[
+        "Yayc\u0131"
+    ],
+    "name:aze_x_historical":[
+        "Yayc\u0131"
+    ],
+    "name:aze_x_preferred":[
+        "Yayc\u0131"
+    ],
+    "name:eng_x_historical":[
+        "Yaydzhi"
+    ],
+    "name:eng_x_preferred":[
+        "Yaydzhy"
+    ],
+    "name:eng_x_variant":[
+        "Yaydzhi"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u062c\u06cc \u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646"
+    ],
+    "name:tur_x_historical":[
+        "Yayc\u0131"
+    ],
+    "name:tur_x_preferred":[
+        "Yayc\u0131"
+    ],
+    "name:und_x_variant":[
+        "Y\u0101j\u012b-ye \u0100z\u0304arb\u0101yj\u0101n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146958,
+        "wk:page":"Yayc%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"196820ee09894e2650db6abdfba1e8e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209560063
+        }
+    ],
+    "wof:id":1209560063,
+    "wof:lastmodified":1537585132,
+    "wof:name":"Yayci",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:population":8500,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.73244,
+    38.94052,
+    45.73244,
+    38.94052
+],
+  "geometry": {"coordinates":[45.73244,38.94052],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1276177627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.83037,38.93997,45.83037,38.93997",
+    "geom:latitude":38.93997,
+    "geom:longitude":45.83037,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147365.0",
+    "gn:asciiname":"Kalantardiza",
+    "gn:country_code":"AZ",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147948,
+    "gn:latitude":38.93997,
+    "gn:longitude":45.83037,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Kalantardiza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_colloquial":[
+        "K\u0259l\u0259nt\u0259rdiz\u0259"
+    ],
+    "name:aze_x_historical":[
+        "K\u0259l\u0259nt\u0259rdiz\u0259"
+    ],
+    "name:aze_x_preferred":[
+        "K\u0259l\u0259nt\u0259rdiz\u0259"
+    ],
+    "name:aze_x_variant":[
+        "K\u0259l\u0259nt\u0259r Diz\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668665,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147948
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"edf5f60fad23dae1f1e8c8e1766601ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276177627,
+            "macroregion_id":1108808617,
+            "region_id":85668665
+        }
+    ],
+    "wof:id":1276177627,
+    "wof:lastmodified":1537585225,
+    "wof:name":"Kalantardiza",
+    "wof:parent_id":85668665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.83037,
+    38.93997,
+    45.83037,
+    38.93997
+],
+  "geometry": {"coordinates":[45.83037,38.93997],"type":"Point"}
+}

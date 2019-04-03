@@ -1,0 +1,68 @@
+{
+  "id": 1326488927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.64556,40.6325,47.64556,40.6325",
+    "geom:latitude":40.6325,
+    "geom:longitude":47.64556,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Goyuniusnykhly",
+    "gn:country_code":"AZ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":800701,
+    "gn:latitude":40.6325,
+    "gn:longitude":47.64556,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Goyuniusnykhly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668357,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800701,
+        "wk:page":"Goyuniusnykhly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"914d61c910831e263a464ed7b4a85aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326488927,
+            "macroregion_id":1108808627,
+            "region_id":85668357
+        }
+    ],
+    "wof:id":1326488927,
+    "wof:lastmodified":1537486679,
+    "wof:name":"Goyuniusnykhly",
+    "wof:parent_id":85668357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.64556,
+    40.6325,
+    47.64556,
+    40.6325
+],
+  "geometry": {"coordinates":[47.64556,40.6325],"type":"Point"}
+}

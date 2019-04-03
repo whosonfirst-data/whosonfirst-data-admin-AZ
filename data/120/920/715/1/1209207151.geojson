@@ -1,0 +1,67 @@
+{
+  "id": 1209207151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.44387,40.49121,48.44387,40.49121",
+    "geom:latitude":40.49121,
+    "geom:longitude":48.44387,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Qiyasli",
+    "gn:country_code":"AZ",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800644,
+    "gn:latitude":40.49121,
+    "gn:longitude":48.44387,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Qiyasl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arabkyyasly",
+        "Qiyasl\u0131",
+        "Kyyasly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800644,
+        "wk:page":"Qiyasl%C4%B1%2C_Agsu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"03b8c2074f6e38f8cc918a431a377f45",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209207151
+        }
+    ],
+    "wof:id":1209207151,
+    "wof:lastmodified":1537585505,
+    "wof:name":"Qiyasli",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.44387,
+    40.49121,
+    48.44387,
+    40.49121
+],
+  "geometry": {"coordinates":[48.44387,40.49121],"type":"Point"}
+}

@@ -1,0 +1,16 @@
+{
+  "id": 890438263,
+  "type": "Feature",
+  "properties": {"wof:repo":"whosonfirst-data-admin-az",
+    "src:geom":"quattroshapes",
+    "wof:geomhash":"82882abb90900df613b23eb3ecc033f9",
+    "wof:id":890438263
+},
+  "bbox": [
+    45.66667,
+    39.16667,
+    45.66667,
+    39.16667
+],
+  "geometry": {"coordinates":[45.66667,39.16667],"type":"Point"}
+}

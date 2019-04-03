@@ -1,0 +1,78 @@
+{
+  "id": 1293036965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.89112,40.8431,45.89112,40.8431",
+    "geom:latitude":40.8431,
+    "geom:longitude":45.89112,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Irmashly",
+    "gn:country_code":"AZ",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586328,
+    "gn:latitude":40.8431,
+    "gn:longitude":45.89112,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Irmashly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Engelsk\u0259nd"
+    ],
+    "name:rus_x_preferred":[
+        "Engel\u2019skend"
+    ],
+    "name:und_x_variant":[
+        "\u0130rma\u015fl\u0131",
+        "Eygenfel\u2019d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586328,
+        "wk:page":"%C4%B0rma%C5%9Fl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b67034655bd4d7e22429f2ec0c47bc25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293036965,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1293036965,
+    "wof:lastmodified":1537585425,
+    "wof:name":"Irmashly",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.89112,
+    40.8431,
+    45.89112,
+    40.8431
+],
+  "geometry": {"coordinates":[45.89112,40.8431],"type":"Point"}
+}

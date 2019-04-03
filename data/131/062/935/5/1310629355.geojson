@@ -1,0 +1,85 @@
+{
+  "id": 1310629355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.9624,39.70446,46.9624,39.70446",
+    "geom:latitude":39.70446,
+    "geom:longitude":46.9624,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Qarqar",
+    "gn:country_code":"AZ",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148059,
+    "gn:latitude":39.70446,
+    "gn:longitude":46.9624,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Qarqar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qarqar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0565\u0580\u0570\u0565\u0580"
+    ],
+    "name:hye_x_variant":[
+        "Herher"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0440\u0433\u0435\u0440"
+    ],
+    "name:und_x_variant":[
+        "Gerger",
+        "Herher",
+        "\u0413\u0435\u0440\u0433\u0435\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148059,
+        "wk:page":"Qarqar%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"560c27cb3b546c553b5013a9c60cbb68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310629355,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1310629355,
+    "wof:lastmodified":1537585235,
+    "wof:name":"Qarqar",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.9624,
+    39.70446,
+    46.9624,
+    39.70446
+],
+  "geometry": {"coordinates":[46.9624,39.70446],"type":"Point"}
+}

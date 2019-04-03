@@ -1,0 +1,82 @@
+{
+  "id": 1310360297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.20228,40.05575,46.20228,40.05575",
+    "geom:latitude":40.05575,
+    "geom:longitude":46.20228,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Abdullausagi",
+    "gn:country_code":"AZ",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587428,
+    "gn:latitude":40.05575,
+    "gn:longitude":46.20228,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Abdullau\u015fa\u011f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Apahen"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u057a\u0561\u0570\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0434\u0443\u043b\u043b\u0430\u0443\u0448\u0430\u0433\u044b"
+    ],
+    "name:und_x_variant":[
+        "Abdulla-Ushagi",
+        "Abdullaushagy",
+        "Abdullau\u015fa\u011f\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587428,
+        "wk:page":"Abdullau%C5%9Fa%C4%9F%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b0010a6b194e4dc8dc196bda9676d27a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310360297,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1310360297,
+    "wof:lastmodified":1537585503,
+    "wof:name":"Abdullausagi",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.20228,
+    40.05575,
+    46.20228,
+    40.05575
+],
+  "geometry": {"coordinates":[46.20228,40.05575],"type":"Point"}
+}

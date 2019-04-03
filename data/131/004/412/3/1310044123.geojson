@@ -1,0 +1,68 @@
+{
+  "id": 1310044123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.25425,41.01957,45.25425,41.01957",
+    "geom:latitude":41.01957,
+    "geom:longitude":45.25425,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Bala Dzhafarli",
+    "gn:country_code":"AZ",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824441,
+    "gn:latitude":41.01957,
+    "gn:longitude":45.25425,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Bala Dzhafarli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bala C\u0259f\u0259rli",
+        "Bala Dzhafarli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824441,
+        "wk:page":"Bala_C%C9%99f%C9%99rli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"689bcd6b1e48d787aa96c1f65e59c593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1310044123,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310044123,
+    "wof:lastmodified":1537585512,
+    "wof:name":"Bala Dzhafarli",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.25425,
+    41.01957,
+    45.25425,
+    41.01957
+],
+  "geometry": {"coordinates":[45.25425,41.01957],"type":"Point"}
+}

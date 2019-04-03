@@ -1,0 +1,72 @@
+{
+  "id": 1293323789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.49075,40.46919,47.49075,40.46919",
+    "geom:latitude":40.46919,
+    "geom:longitude":47.49075,
+    "gn:admin1_code":"59",
+    "gn:asciiname":"Sahliq",
+    "gn:country_code":"AZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585076,
+    "gn:latitude":40.46919,
+    "gn:longitude":47.49075,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"\u015eahl\u0131q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shakhlyk",
+        "\u015eahl\u0131q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668475,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585076,
+        "wk:page":"%C5%9Eahl%C4%B1q"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"65dc970414825a15deb1e1f16c58a7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293323789,
+            "macroregion_id":1108808627,
+            "region_id":85668475
+        }
+    ],
+    "wof:id":1293323789,
+    "wof:lastmodified":1537585341,
+    "wof:name":"Sahliq",
+    "wof:parent_id":85668475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.49075,
+    40.46919000000001,
+    47.49075,
+    40.46919000000001
+],
+  "geometry": {"coordinates":[47.49075,40.46919000000001],"type":"Point"}
+}

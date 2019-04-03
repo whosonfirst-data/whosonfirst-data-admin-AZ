@@ -1,0 +1,72 @@
+{
+  "id": 1242847027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.10357,40.48629,46.10357,40.48629",
+    "geom:latitude":40.48629,
+    "geom:longitude":46.10357,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Molla-Gasanly",
+    "gn:country_code":"AZ",
+    "gn:dem":1638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585485,
+    "gn:latitude":40.48629,
+    "gn:longitude":46.10357,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Molla-Gasanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mollagasanli",
+        "Molla-Gasanly",
+        "Mollah\u0259s\u0259nli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585485
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4f6763f732f360b6e73a0c7bd0fc5715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242847027,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1242847027,
+    "wof:lastmodified":1537585368,
+    "wof:name":"Molla-Gasanly",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.10357,
+    40.48629,
+    46.10357,
+    40.48629
+],
+  "geometry": {"coordinates":[46.10357,40.48629],"type":"Point"}
+}

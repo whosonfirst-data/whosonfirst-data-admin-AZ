@@ -1,0 +1,74 @@
+{
+  "id": 1259523735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.34229,39.36934,49.34229,39.36934",
+    "geom:latitude":39.36934,
+    "geom:longitude":49.34229,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Birinci Nomrali Mayak",
+    "gn:country_code":"AZ",
+    "gn:dem":-30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389487,
+    "gn:latitude":39.36934,
+    "gn:longitude":49.34229,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Birinci N\u00f6mr\u00e4li Mayak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pervomayskiy",
+        "Birinci N\u00f6mr\u00e4li Mayak",
+        "Pervyy Mayak",
+        "Birinci Mayak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668409,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389487,
+        "wk:page":"Birinci_Mayak"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0ebe66fe343993c0ebeadbada0465550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259523735,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1259523735,
+    "wof:lastmodified":1537585295,
+    "wof:name":"Birinci Nomrali Mayak",
+    "wof:parent_id":85668409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.34229000000001,
+    39.36934,
+    49.34229000000001,
+    39.36934
+],
+  "geometry": {"coordinates":[49.34229000000001,39.36934],"type":"Point"}
+}

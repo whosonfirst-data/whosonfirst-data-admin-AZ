@@ -1,0 +1,72 @@
+{
+  "id": 1276615031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.82041,38.71039,48.82041,38.71039",
+    "geom:latitude":38.71039,
+    "geom:longitude":48.82041,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Malyy Shuryuk",
+    "gn:country_code":"AZ",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148390,
+    "gn:latitude":38.71039,
+    "gn:longitude":48.82041,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Malyy Shuryuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bala Shuryuk",
+        "Bala \u015e\u00fcr\u00fck"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148390,
+        "wk:page":"Bala_%C5%9E%C3%BCr%C3%BCk"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"00a5b6dec5a59fafd3756d2739dcc387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276615031,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1276615031,
+    "wof:lastmodified":1537585267,
+    "wof:name":"Malyy Shuryuk",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.82041,
+    38.71039,
+    48.82041,
+    38.71039
+],
+  "geometry": {"coordinates":[48.82041,38.71039],"type":"Point"}
+}

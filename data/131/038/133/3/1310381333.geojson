@@ -1,0 +1,80 @@
+{
+  "id": 1310381333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.16056,39.71139,47.16056,39.71139",
+    "geom:latitude":39.71139,
+    "geom:longitude":47.16056,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Dilagarda",
+    "gn:cc2":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148196,
+    "gn:latitude":39.71139,
+    "gn:longitude":47.16056,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Dila\u011farda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Dila\u011farda"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u056b\u056c\u0561\u0563\u0561\u0580\u0564\u0561"
+    ],
+    "name:und_x_variant":[
+        "Dulagarda",
+        "Dilagorda",
+        "Dilagarda",
+        "Bekhbetli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148196
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d7257bf4370a4391569c281db76936dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310381333,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1310381333,
+    "wof:lastmodified":1537585248,
+    "wof:name":"Dilagarda",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.16056,
+    39.71139,
+    47.16056,
+    39.71139
+],
+  "geometry": {"coordinates":[47.16056,39.71139],"type":"Point"}
+}

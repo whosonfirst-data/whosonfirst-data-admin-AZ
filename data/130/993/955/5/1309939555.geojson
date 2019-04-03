@@ -1,0 +1,72 @@
+{
+  "id": 1309939555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.91516,39.82746,48.91516,39.82746",
+    "geom:latitude":39.82746,
+    "geom:longitude":48.91516,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Pambykkend",
+    "gn:country_code":"AZ",
+    "gn:dem":-22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400061,
+    "gn:latitude":39.82746,
+    "gn:longitude":48.91516,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Pambykkend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pamb\u0131qk\u0259nd",
+        "Pambykkend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400061,
+        "wk:page":"Pamb%C4%B1qk%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"67943187be0be1fed1adb3f13c6e0b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309939555,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1309939555,
+    "wof:lastmodified":1537585301,
+    "wof:name":"Pambykkend",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.91516,
+    39.82746,
+    48.91516,
+    39.82746
+],
+  "geometry": {"coordinates":[48.91516,39.82746],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309746223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.15537,38.89962,48.15537,38.89962",
+    "geom:latitude":38.89962,
+    "geom:longitude":48.15537,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Shefekli",
+    "gn:country_code":"AZ",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":393612,
+    "gn:latitude":38.89962,
+    "gn:longitude":48.15537,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Shefekli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015e\u0259f\u0259qli",
+        "Shefekli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668497,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":393612,
+        "wk:page":"%C5%9E%C9%99f%C9%99qli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"609e8e8d7d22572ad403178bced2dc75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309746223,
+            "macroregion_id":1108808625,
+            "region_id":85668497
+        }
+    ],
+    "wof:id":1309746223,
+    "wof:lastmodified":1537585295,
+    "wof:name":"Shefekli",
+    "wof:parent_id":85668497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.15537,
+    38.89962,
+    48.15537,
+    38.89962
+],
+  "geometry": {"coordinates":[48.15537,38.89962],"type":"Point"}
+}

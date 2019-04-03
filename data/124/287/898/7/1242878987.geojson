@@ -1,0 +1,74 @@
+{
+  "id": 1242878987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.18762,41.39022,45.18762,41.39022",
+    "geom:latitude":41.39022,
+    "geom:longitude":45.18762,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Boyuk Kasik",
+    "gn:country_code":"AZ",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824430,
+    "gn:latitude":41.39022,
+    "gn:longitude":45.18762,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"B\u00f6y\u00fck K\u0259sik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "B\u00ebyuk-Kyasik"
+    ],
+    "name:und_x_variant":[
+        "B\u00f6y\u00fck K\u0259sik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668195,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824430,
+        "wk:page":"B%C3%B6y%C3%BCk_K%C9%99sik"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0c76149ce36ca640d452f61e80393e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242878987,
+            "macroregion_id":1108808609,
+            "region_id":85668195
+        }
+    ],
+    "wof:id":1242878987,
+    "wof:lastmodified":1537585512,
+    "wof:name":"Boyuk Kasik",
+    "wof:parent_id":85668195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.18762,
+    41.39022,
+    45.18762,
+    41.39022
+],
+  "geometry": {"coordinates":[45.18762,41.39022],"type":"Point"}
+}

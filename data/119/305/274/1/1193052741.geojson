@@ -1,0 +1,72 @@
+{
+  "id": 1193052741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.19241,40.61518,47.19241,40.61518",
+    "geom:latitude":40.61518,
+    "geom:longitude":47.19241,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Yuxari Qarxun",
+    "gn:country_code":"AZ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584634,
+    "gn:latitude":40.61518,
+    "gn:longitude":47.19241,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Yuxar\u0131 Qarxun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yukhary-Karkhun",
+        "Yuxar\u0131 Qarxun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668243,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584634,
+        "wk:page":"Yuxar%C4%B1_Qarxun"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a6932ae15d73187a7c1aebea0744dc11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193052741,
+            "macroregion_id":1108808627,
+            "region_id":85668243
+        }
+    ],
+    "wof:id":1193052741,
+    "wof:lastmodified":1537585311,
+    "wof:name":"Yuxari Qarxun",
+    "wof:parent_id":85668243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.19241,
+    40.61518,
+    47.19241,
+    40.61518
+],
+  "geometry": {"coordinates":[47.19241,40.61518],"type":"Point"}
+}

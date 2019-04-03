@@ -1,0 +1,83 @@
+{
+  "id": 1360196261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.94497,40.07257,46.94497,40.07257",
+    "geom:latitude":40.07257,
+    "geom:longitude":46.94497,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sispapaqlar",
+    "gn:country_code":"AZ",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585016,
+    "gn:latitude":40.07257,
+    "gn:longitude":46.94497,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"\u015ei\u015fpapaqlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015ei\u015fpapaqlar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u056b\u0577\u057a\u0561\u0583\u0561\u056d\u056c\u0561\u0580"
+    ],
+    "name:hye_x_variant":[
+        "Shishpap\u2019akhlar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0448\u043f\u0430\u043f\u0430\u0445\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Shishpapakhlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585016,
+        "wk:page":"%C5%9Ei%C5%9Fpapaqlar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"591a8422441b220ecaa62a8e2f01ab78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360196261,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1360196261,
+    "wof:lastmodified":1537585337,
+    "wof:name":"Sispapaqlar",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.94497,
+    40.07257,
+    46.94497,
+    40.07257
+],
+  "geometry": {"coordinates":[46.94497,40.07257],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259803505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.84585,38.4541,48.84585,38.4541",
+    "geom:latitude":38.4541,
+    "geom:longitude":48.84585,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mascitmahalla",
+    "gn:country_code":"AZ",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147535,
+    "gn:latitude":38.4541,
+    "gn:longitude":48.84585,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"M\u0259s\u00e7itm\u0259h\u0259ll\u0259",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259s\u00e7itm\u0259h\u0259ll\u0259"
+    ],
+    "name:und_x_variant":[
+        "Mechet\u2019makhla",
+        "Mechet\u2019maglya",
+        "Mechet\u2019 Megla",
+        "Me\u00e7idm\u0259hl\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147535
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"72e71d35eb84c97d5477fc9755566650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259803505,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1259803505,
+    "wof:lastmodified":1537585184,
+    "wof:name":"Mascitmahalla",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.84585,
+    38.4541,
+    48.84585,
+    38.4541
+],
+  "geometry": {"coordinates":[48.84585,38.4541],"type":"Point"}
+}

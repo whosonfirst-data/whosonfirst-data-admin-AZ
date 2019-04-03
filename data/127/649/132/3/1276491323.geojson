@@ -1,0 +1,74 @@
+{
+  "id": 1276491323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7719,39.08533,48.7719,39.08533",
+    "geom:latitude":39.08533,
+    "geom:longitude":48.7719,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Dellyakli",
+    "gn:country_code":"AZ",
+    "gn:dem":-24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148215,
+    "gn:latitude":39.08533,
+    "gn:longitude":48.7719,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Dellyakli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u0259ll\u0259kli"
+    ],
+    "name:und_x_variant":[
+        "Dallakly",
+        "Dellyakli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148215
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a5c42ffc21b560b2763300c17971cc3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276491323,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1276491323,
+    "wof:lastmodified":1537585250,
+    "wof:name":"Dellyakli",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7719,
+    39.08533,
+    48.7719,
+    39.08533
+],
+  "geometry": {"coordinates":[48.7719,39.08533],"type":"Point"}
+}

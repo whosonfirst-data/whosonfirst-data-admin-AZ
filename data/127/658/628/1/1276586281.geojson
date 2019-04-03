@@ -1,0 +1,71 @@
+{
+  "id": 1276586281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.83575,39.42943,48.83575,39.42943",
+    "geom:latitude":39.42943,
+    "geom:longitude":48.83575,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Boranykend",
+    "gn:country_code":"AZ",
+    "gn:dem":-24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148322,
+    "gn:latitude":39.42943,
+    "gn:longitude":48.83575,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Boranykend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boran\u0131k\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668449,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148322,
+        "wk:page":"Boran%C4%B1k%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c14c1669478efafc6f47b11ab3de117b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276586281,
+            "macroregion_id":1108808627,
+            "region_id":85668449
+        }
+    ],
+    "wof:id":1276586281,
+    "wof:lastmodified":1537585262,
+    "wof:name":"Boranykend",
+    "wof:parent_id":85668449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.83575,
+    39.42943,
+    48.83575,
+    39.42943
+],
+  "geometry": {"coordinates":[48.83575,39.42943],"type":"Point"}
+}

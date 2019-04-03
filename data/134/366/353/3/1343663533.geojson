@@ -1,0 +1,86 @@
+{
+  "id": 1343663533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.70482,40.09593,46.70482,40.09593",
+    "geom:latitude":40.09593,
+    "geom:longitude":46.70482,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bash Giounepaia",
+    "gn:country_code":"AZ",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824074,
+    "gn:latitude":40.09593,
+    "gn:longitude":46.70482,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Bash Giounepaia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ba\u015f G\u00fcn\u0259yp\u0259y\u0259"
+    ],
+    "name:aze_x_variant":[
+        "Ba\u015f G\u00fcneyt\u0259p\u0259"
+    ],
+    "name:hye_x_preferred":[
+        "Bash Gyunep\u2019aya"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0561\u0577 \u0533\u0575\u0578\u0582\u0576\u0565\u0575\u0583\u0561\u0575\u0561"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0448 \u0413\u044e\u043d\u0435\u0439\u043b\u0435\u044f"
+    ],
+    "name:und_x_variant":[
+        "Bash Gyuneyleya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824074,
+        "wk:page":"Ba%C5%9F_G%C3%BCn%C9%99yp%C9%99y%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"769638ff6da9819e7300381025a48fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343663533,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1343663533,
+    "wof:lastmodified":1537585510,
+    "wof:name":"Bash Giounepaia",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.70482,
+    40.09593,
+    46.70482,
+    40.09593
+],
+  "geometry": {"coordinates":[46.70482,40.09593],"type":"Point"}
+}

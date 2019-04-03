@@ -1,0 +1,62 @@
+{
+  "id": 1209348579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.61667,41.46667,48.61667,41.46667",
+    "geom:latitude":41.46667,
+    "geom:longitude":48.61667,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Dzhigli",
+    "gn:country_code":"AZ",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586643,
+    "gn:latitude":41.46667,
+    "gn:longitude":48.61667,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Dzhigli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586643,
+        "wk:page":"Dzhigli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"931bf921479a8737db1a58e3a026be67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209348579
+        }
+    ],
+    "wof:id":1209348579,
+    "wof:lastmodified":1537486649,
+    "wof:name":"Dzhigli",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.61667,
+    41.46667,
+    48.61667,
+    41.46667
+],
+  "geometry": {"coordinates":[48.61667,41.46667],"type":"Point"}
+}

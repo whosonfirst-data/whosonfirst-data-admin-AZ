@@ -1,0 +1,80 @@
+{
+  "id": 1309745891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.63209,39.31229,46.63209,39.31229",
+    "geom:latitude":39.31229,
+    "geom:longitude":46.63209,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Saray",
+    "gn:country_code":"AZ",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147261,
+    "gn:latitude":39.31229,
+    "gn:longitude":46.63209,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Saray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Saray"
+    ],
+    "name:hye_x_preferred":[
+        "Sahar"
+    ],
+    "name:hye_x_variant":[
+        "Saharr",
+        "\u054d\u0561\u0570\u0561\u057c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147261
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"47df8a3994fd71c255a5c972a2779766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309745891,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1309745891,
+    "wof:lastmodified":1537585159,
+    "wof:name":"Saray",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.63209000000001,
+    39.31229,
+    46.63209000000001,
+    39.31229
+],
+  "geometry": {"coordinates":[46.63209000000001,39.31229],"type":"Point"}
+}

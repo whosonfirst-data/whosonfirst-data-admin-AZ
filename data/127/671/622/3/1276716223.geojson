@@ -1,0 +1,76 @@
+{
+  "id": 1276716223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.09512,40.11946,46.09512,40.11946",
+    "geom:latitude":40.11946,
+    "geom:longitude":46.09512,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Milli Tret'ye",
+    "gn:country_code":"AZ",
+    "gn:dem":1824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470010,
+    "gn:latitude":40.11946,
+    "gn:longitude":46.09512,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"Milli Tret\u2019ye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00dc\u00e7\u00fcnc\u00fc Milli"
+    ],
+    "name:rus_x_preferred":[
+        "Milli Tret\u2019ye"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0438\u043b\u043b\u0438 \u0422\u0440\u0435\u0442\u044c\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470010
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7370e466ad233eeb0030b85f6f331897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276716223,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1276716223,
+    "wof:lastmodified":1537585524,
+    "wof:name":"Milli Tret'ye",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.09512,
+    40.11946,
+    46.09512,
+    40.11946
+],
+  "geometry": {"coordinates":[46.09512,40.11946],"type":"Point"}
+}

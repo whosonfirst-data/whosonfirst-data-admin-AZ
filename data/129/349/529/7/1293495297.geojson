@@ -1,0 +1,74 @@
+{
+  "id": 1293495297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.00049,40.21846,47.00049,40.21846",
+    "geom:latitude":40.21846,
+    "geom:longitude":47.00049,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Namyrly",
+    "gn:country_code":"AZ",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585394,
+    "gn:latitude":40.21846,
+    "gn:longitude":47.00049,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Namyrly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "N\u0259mirli"
+    ],
+    "name:und_x_variant":[
+        "Namarly",
+        "Namirli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585394
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"65f428abb2caf57f87462f2a8e5d5f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293495297,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1293495297,
+    "wof:lastmodified":1537585362,
+    "wof:name":"Namyrly",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.00049,
+    40.21846,
+    47.00049,
+    40.21846
+],
+  "geometry": {"coordinates":[47.00049,40.21846],"type":"Point"}
+}

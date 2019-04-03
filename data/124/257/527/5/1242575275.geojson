@@ -1,0 +1,78 @@
+{
+  "id": 1242575275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.25117,40.58809,48.25117,40.58809",
+    "geom:latitude":40.58809,
+    "geom:longitude":48.25117,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Padar",
+    "gn:country_code":"AZ",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585297,
+    "gn:latitude":40.58809,
+    "gn:longitude":48.25117,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Padar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Padar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0434\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Padar-Gyul\u2019mali",
+        "Padar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585297,
+        "wk:page":"Padar%2C_Agsu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7ffcd9cb802cae87115fb3f9522b1b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242575275,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1242575275,
+    "wof:lastmodified":1537585355,
+    "wof:name":"Padar",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.25117,
+    40.58809,
+    48.25117,
+    40.58809
+],
+  "geometry": {"coordinates":[48.25117,40.58809],"type":"Point"}
+}

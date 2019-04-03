@@ -1,0 +1,73 @@
+{
+  "id": 1360019657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.14051,40.82189,46.14051,40.82189",
+    "geom:latitude":40.82189,
+    "geom:longitude":46.14051,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Yeni Yol",
+    "gn:country_code":"AZ",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585639,
+    "gn:latitude":40.82189,
+    "gn:longitude":46.14051,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Yeni Yol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yeni Yol"
+    ],
+    "name:aze_x_variant":[
+        "Leninabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585639
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d76dd20d2894f81bdec363f8c43b144e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360019657,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1360019657,
+    "wof:lastmodified":1537585378,
+    "wof:name":"Yeni Yol",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.14051,
+    40.82189,
+    46.14051,
+    40.82189
+],
+  "geometry": {"coordinates":[46.14051,40.82189],"type":"Point"}
+}

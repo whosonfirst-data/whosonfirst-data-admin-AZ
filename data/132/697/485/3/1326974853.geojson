@@ -1,0 +1,81 @@
+{
+  "id": 1326974853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.86589,39.07466,45.86589,39.07466",
+    "geom:latitude":39.07466,
+    "geom:longitude":45.86589,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147365.0",
+    "gn:asciiname":"Behrud",
+    "gn:country_code":"AZ",
+    "gn:dem":1383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148399,
+    "gn:latitude":39.07466,
+    "gn:longitude":45.86589,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Behrud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_colloquial":[
+        "Behrud"
+    ],
+    "name:aze_x_historical":[
+        "Behrud"
+    ],
+    "name:aze_x_preferred":[
+        "Behrud"
+    ],
+    "name:und_x_variant":[
+        "Begryut",
+        "Bakhrud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668665,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148399
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1f0601f424e679428dfac58bcf43b5b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326974853,
+            "macroregion_id":1108808617,
+            "region_id":85668665
+        }
+    ],
+    "wof:id":1326974853,
+    "wof:lastmodified":1537585268,
+    "wof:name":"Behrud",
+    "wof:parent_id":85668665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.86589,
+    39.07466,
+    45.86589,
+    39.07466
+],
+  "geometry": {"coordinates":[45.86589,39.07466],"type":"Point"}
+}

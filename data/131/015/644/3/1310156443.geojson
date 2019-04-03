@@ -1,0 +1,75 @@
+{
+  "id": 1310156443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.85274,38.69778,48.85274,38.69778",
+    "geom:latitude":38.69778,
+    "geom:longitude":48.85274,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Seyde-Karan",
+    "gn:country_code":"AZ",
+    "gn:dem":-12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147224,
+    "gn:latitude":38.69778,
+    "gn:longitude":48.85274,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Seyde-Karan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Seyid\u0259k\u0259ran"
+    ],
+    "name:und_x_variant":[
+        "Seydakeran",
+        "Seyd\u0259k\u0259ran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147224,
+        "wk:page":"Seyd%C9%99k%C9%99ran"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a828f53a185f68527b48d63ad21b1c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310156443,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1310156443,
+    "wof:lastmodified":1537585156,
+    "wof:name":"Seyde-Karan",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.85274,
+    38.69778,
+    48.85274,
+    38.69778
+],
+  "geometry": {"coordinates":[48.85274,38.69778],"type":"Point"}
+}

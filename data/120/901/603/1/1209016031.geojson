@@ -1,0 +1,68 @@
+{
+  "id": 1209016031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.07145,40.03155,47.07145,40.03155",
+    "geom:latitude":40.03155,
+    "geom:longitude":47.07145,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Rzalar",
+    "gn:country_code":"AZ",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585193,
+    "gn:latitude":40.03155,
+    "gn:longitude":47.07145,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rzalar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Rzalar"
+    ],
+    "name:und_x_variant":[
+        "Rizalar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585193,
+        "wk:page":"Rzalar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"df8a7870ca3d2d56b2bb8cdd954e0f60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209016031
+        }
+    ],
+    "wof:id":1209016031,
+    "wof:lastmodified":1537585348,
+    "wof:name":"Rzalar",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.07145,
+    40.03155,
+    47.07145,
+    40.03155
+],
+  "geometry": {"coordinates":[47.07145,40.03155],"type":"Point"}
+}

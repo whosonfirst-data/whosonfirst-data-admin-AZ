@@ -1,0 +1,84 @@
+{
+  "id": 1193027431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.97211,40.07916,46.97211,40.07916",
+    "geom:latitude":40.07916,
+    "geom:longitude":46.97211,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Karamanlu",
+    "gn:country_code":"AZ",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586457,
+    "gn:latitude":40.07916,
+    "gn:longitude":46.97211,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Karamanlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u00f6yt\u0259p\u0259"
+    ],
+    "name:hye_x_preferred":[
+        "Gyoyt\u2019ep\u2019e"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0575\u0578\u0575\u0569\u0565\u0583\u0565"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0451\u0439\u0442\u0435\u043f\u0435"
+    ],
+    "name:und_x_variant":[
+        "G\u00ebytepe",
+        "Geoktepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586457,
+        "wk:page":"G%C3%B6yt%C9%99p%C9%99%2C_Agdam"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b55909627fb56e6e09b556d7667c87ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193027431,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1193027431,
+    "wof:lastmodified":1537585435,
+    "wof:name":"Karamanlu",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.97211,
+    40.07916,
+    46.97211,
+    40.07916
+],
+  "geometry": {"coordinates":[46.97211,40.07916],"type":"Point"}
+}

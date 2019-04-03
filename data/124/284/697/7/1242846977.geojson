@@ -1,0 +1,73 @@
+{
+  "id": 1242846977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.90756,40.47034,45.90756,40.47034",
+    "geom:latitude":40.47034,
+    "geom:longitude":45.90756,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Saumyan",
+    "gn:country_code":"AZ",
+    "gn:dem":1627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585044,
+    "gn:latitude":40.47034,
+    "gn:longitude":45.90756,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u015eaumyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015eaumyan"
+    ],
+    "name:und_x_variant":[
+        "Shaumyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585044
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0a3f707fa2d6cede6820b11c2df3fede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242846977,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1242846977,
+    "wof:lastmodified":1537585339,
+    "wof:name":"Saumyan",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.90756,
+    40.47034,
+    45.90756,
+    40.47034
+],
+  "geometry": {"coordinates":[45.90756,40.47034],"type":"Point"}
+}

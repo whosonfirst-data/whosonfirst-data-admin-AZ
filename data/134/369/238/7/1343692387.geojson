@@ -1,0 +1,73 @@
+{
+  "id": 1343692387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.69879,40.94697,48.69879,40.94697",
+    "geom:latitude":40.94697,
+    "geom:longitude":48.69879,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Carxacu",
+    "gn:country_code":"AZ",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586889,
+    "gn:latitude":40.94697,
+    "gn:longitude":48.69879,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"\u00c7arxa\u00e7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Charkhachu",
+        "Dzharkhachy",
+        "\u00c7arxa\u00e7u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586889,
+        "wk:page":"%C3%87arxa%C3%A7u"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3d1df9e14ad9abab48a6f1560687f8a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343692387,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1343692387,
+    "wof:lastmodified":1537585466,
+    "wof:name":"Carxacu",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.69879,
+    40.94697,
+    48.69879,
+    40.94697
+],
+  "geometry": {"coordinates":[48.69879,40.94697],"type":"Point"}
+}

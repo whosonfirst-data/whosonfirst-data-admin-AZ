@@ -1,0 +1,72 @@
+{
+  "id": 1343723183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.58988,38.85036,48.58988,38.85036",
+    "geom:latitude":38.85036,
+    "geom:longitude":48.58988,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Gegiran",
+    "gn:country_code":"AZ",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148066,
+    "gn:latitude":38.85036,
+    "gn:longitude":48.58988,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Gegiran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gegeran",
+        "G\u0259giran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148066,
+        "wk:page":"G%C9%99giran"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2d2f33611bd09db06366ab2dcb720721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343723183,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1343723183,
+    "wof:lastmodified":1537585236,
+    "wof:name":"Gegiran",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.58988,
+    38.85036,
+    48.58988,
+    38.85036
+],
+  "geometry": {"coordinates":[48.58988,38.85036],"type":"Point"}
+}

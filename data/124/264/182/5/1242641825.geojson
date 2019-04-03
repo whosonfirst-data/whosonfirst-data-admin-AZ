@@ -1,0 +1,86 @@
+{
+  "id": 1242641825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.73954,40.483,46.73954,40.483",
+    "geom:latitude":40.483,
+    "geom:longitude":46.73954,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Hacalli",
+    "gn:country_code":"AZ",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586569,
+    "gn:latitude":40.483,
+    "gn:longitude":46.73954,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Hacall\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hacall\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Hajaly"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0561\u057b\u0561\u056c\u0568",
+        "Hajali",
+        "\u0540\u0561\u057b\u0561\u056c\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0434\u0436\u0430\u043b\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Gadzhialilu",
+        "Gadzhally"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586569,
+        "wk:page":"Hacall%C4%B1%2C_Goranboy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6d1b1c13bd3e7757c0d045bd7aefd2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242641825,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1242641825,
+    "wof:lastmodified":1537585443,
+    "wof:name":"Hacalli",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.73954000000001,
+    40.483,
+    46.73954000000001,
+    40.483
+],
+  "geometry": {"coordinates":[46.73954000000001,40.483],"type":"Point"}
+}

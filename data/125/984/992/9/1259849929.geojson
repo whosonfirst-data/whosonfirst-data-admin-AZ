@@ -1,0 +1,75 @@
+{
+  "id": 1259849929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5349,39.31644,48.5349,39.31644",
+    "geom:latitude":39.31644,
+    "geom:longitude":48.5349,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Alar",
+    "gn:country_code":"AZ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148549,
+    "gn:latitude":39.31644,
+    "gn:longitude":48.5349,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Alar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Alar"
+    ],
+    "name:und_x_variant":[
+        "Allary",
+        "Allar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148549,
+        "wk:page":"Alar%2C_Jalilabad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"183d297aea8dbd9d4fe538c3764c1a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259849929,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1259849929,
+    "wof:lastmodified":1537585280,
+    "wof:name":"Alar",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5349,
+    39.31644,
+    48.5349,
+    39.31644
+],
+  "geometry": {"coordinates":[48.5349,39.31644],"type":"Point"}
+}

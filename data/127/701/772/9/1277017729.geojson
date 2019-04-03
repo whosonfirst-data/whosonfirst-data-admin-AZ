@@ -1,0 +1,86 @@
+{
+  "id": 1277017729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.99501,39.73216,46.99501,39.73216",
+    "geom:latitude":39.73216,
+    "geom:longitude":46.99501,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Qarahonc",
+    "gn:country_code":"AZ",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147889,
+    "gn:latitude":39.73216,
+    "gn:longitude":46.99501,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Qarahon\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qarahon\u00e7"
+    ],
+    "name:hye_x_preferred":[
+        "K\u2019arahunj"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0561\u0580\u0561\u0570\u0578\u0582\u0576\u057b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0443\u043d\u0434\u0436"
+    ],
+    "name:und_x_variant":[
+        "Karahoundge",
+        "K\u2019arahunch\u2019",
+        "Qaraz\u0259mi",
+        "Karaundzh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147889,
+        "wk:page":"Karaundzh%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9753a5500a10f617f7a97f927a4b2533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277017729,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1277017729,
+    "wof:lastmodified":1537585218,
+    "wof:name":"Qarahonc",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.99501,
+    39.73216,
+    46.99501,
+    39.73216
+],
+  "geometry": {"coordinates":[46.99501,39.73216],"type":"Point"}
+}

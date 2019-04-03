@@ -1,0 +1,72 @@
+{
+  "id": 1310373959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.83386,40.28519,48.83386,40.28519",
+    "geom:latitude":40.28519,
+    "geom:longitude":48.83386,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Tagyay",
+    "gn:country_code":"AZ",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584897,
+    "gn:latitude":40.28519,
+    "gn:longitude":48.83386,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Tagyay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagily",
+        "Ta\u011f\u0131l\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668293,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584897,
+        "wk:page":"Ta%C4%9F%C4%B1l%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cf056aba25d5c110d25d518aa286a851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310373959,
+            "macroregion_id":1108808627,
+            "region_id":85668293
+        }
+    ],
+    "wof:id":1310373959,
+    "wof:lastmodified":1537585329,
+    "wof:name":"Tagyay",
+    "wof:parent_id":85668293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.83386,
+    40.28519,
+    48.83386,
+    40.28519
+],
+  "geometry": {"coordinates":[48.83386,40.28519],"type":"Point"}
+}

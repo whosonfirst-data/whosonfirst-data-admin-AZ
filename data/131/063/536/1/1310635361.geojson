@@ -1,0 +1,72 @@
+{
+  "id": 1310635361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.55974,41.71279,48.55974,41.71279",
+    "geom:latitude":41.71279,
+    "geom:longitude":48.55974,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Qaratoba",
+    "gn:country_code":"AZ",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586144,
+    "gn:latitude":41.71279,
+    "gn:longitude":48.55974,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Qaratoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karatoba",
+        "Qaratoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586144,
+        "wk:page":"Qaratoba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4fe92fe24c9a0ee9a9e68043a318d9df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310635361,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1310635361,
+    "wof:lastmodified":1537585412,
+    "wof:name":"Qaratoba",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.55974000000001,
+    41.71279000000001,
+    48.55974000000001,
+    41.71279000000001
+],
+  "geometry": {"coordinates":[48.55974000000001,41.71279000000001],"type":"Point"}
+}

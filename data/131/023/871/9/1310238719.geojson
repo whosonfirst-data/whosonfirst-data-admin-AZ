@@ -1,0 +1,73 @@
+{
+  "id": 1310238719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91326,40.45896,46.91326,40.45896",
+    "geom:latitude":40.45896,
+    "geom:longitude":46.91326,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Radzhabli",
+    "gn:country_code":"AZ",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585217,
+    "gn:latitude":40.45896,
+    "gn:longitude":46.91326,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Radzhabli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "R\u0259c\u0259bli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u0436\u0430\u0431\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585217
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"81b3ab44956dd002a5911ff563803819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310238719,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1310238719,
+    "wof:lastmodified":1537585350,
+    "wof:name":"Radzhabli",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91326,
+    40.45896,
+    46.91326,
+    40.45896
+],
+  "geometry": {"coordinates":[46.91326,40.45896],"type":"Point"}
+}

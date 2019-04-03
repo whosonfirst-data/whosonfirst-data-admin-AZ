@@ -1,0 +1,74 @@
+{
+  "id": 1260330349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.65821,40.83798,47.65821,40.83798",
+    "geom:latitude":40.83798,
+    "geom:longitude":47.65821,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Sarihacalli",
+    "gn:country_code":"AZ",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585127,
+    "gn:latitude":40.83798,
+    "gn:longitude":47.65821,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Sar\u0131hacall\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sargadzhyly",
+        "Sari-Gadzhili",
+        "Sarygadzhally",
+        "Sar\u0131hacall\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585127,
+        "wk:page":"Sar%C4%B1hacall%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e58617ea113e6f911ccafbb80cf2a403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260330349,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1260330349,
+    "wof:lastmodified":1537585344,
+    "wof:name":"Sarihacalli",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.65821,
+    40.83798,
+    47.65821,
+    40.83798
+],
+  "geometry": {"coordinates":[47.65821,40.83798],"type":"Point"}
+}

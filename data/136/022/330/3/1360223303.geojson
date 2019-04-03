@@ -1,0 +1,72 @@
+{
+  "id": 1360223303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.74532,40.94426,47.74532,40.94426",
+    "geom:latitude":40.94426,
+    "geom:longitude":47.74532,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Imamli",
+    "gn:country_code":"AZ",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586345,
+    "gn:latitude":40.94426,
+    "gn:longitude":47.74532,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"\u0130maml\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imamly",
+        "\u0130maml\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586345,
+        "wk:page":"%C4%B0maml%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2c1beb20d831ec47dbbd205dfb6839b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360223303,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1360223303,
+    "wof:lastmodified":1537585427,
+    "wof:name":"Imamli",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.74532,
+    40.94426,
+    47.74532,
+    40.94426
+],
+  "geometry": {"coordinates":[47.74532,40.94426],"type":"Point"}
+}

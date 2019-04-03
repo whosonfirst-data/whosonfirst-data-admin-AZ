@@ -1,0 +1,71 @@
+{
+  "id": 1327463129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.59146,40.20223,47.59146,40.20223",
+    "geom:latitude":40.20223,
+    "geom:longitude":47.59146,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Mamedkasymly",
+    "gn:country_code":"AZ",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585589,
+    "gn:latitude":40.20223,
+    "gn:longitude":47.59146,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Mamedkasymly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0259mm\u0259dqas\u0131ml\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668509,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585589,
+        "wk:page":"M%C9%99mm%C9%99dqas%C4%B1ml%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d899fb8d22e0a510f90a7b6fa527b949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327463129,
+            "macroregion_id":1108808627,
+            "region_id":85668509
+        }
+    ],
+    "wof:id":1327463129,
+    "wof:lastmodified":1537585375,
+    "wof:name":"Mamedkasymly",
+    "wof:parent_id":85668509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.59146,
+    40.20223,
+    47.59146,
+    40.20223
+],
+  "geometry": {"coordinates":[47.59146,40.20223],"type":"Point"}
+}

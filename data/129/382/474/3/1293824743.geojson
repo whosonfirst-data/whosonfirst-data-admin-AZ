@@ -1,0 +1,75 @@
+{
+  "id": 1293824743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.04988,38.94162,46.04988,38.94162",
+    "geom:latitude":38.94162,
+    "geom:longitude":46.04988,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147365.0",
+    "gn:asciiname":"Kyanza",
+    "gn:country_code":"AZ",
+    "gn:dem":1310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388495,
+    "gn:latitude":38.94162,
+    "gn:longitude":46.04988,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyanza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u0259nz\u0259"
+    ],
+    "name:und_x_variant":[
+        "G\u0259nz\u0259",
+        "Ganza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668665,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388495
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"64eb809835a329a9fedad03499db3798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293824743,
+            "macroregion_id":1108808617,
+            "region_id":85668665
+        }
+    ],
+    "wof:id":1293824743,
+    "wof:lastmodified":1537585289,
+    "wof:name":"Kyanza",
+    "wof:parent_id":85668665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.04988,
+    38.94162,
+    46.04988,
+    38.94162
+],
+  "geometry": {"coordinates":[46.04988,38.94162],"type":"Point"}
+}

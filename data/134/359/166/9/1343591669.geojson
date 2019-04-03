@@ -1,0 +1,90 @@
+{
+  "id": 1343591669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.80387,40.01938,46.80387,40.01938",
+    "geom:latitude":40.01938,
+    "geom:longitude":46.80387,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Farukh",
+    "gn:country_code":"AZ",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824370,
+    "gn:latitude":40.01938,
+    "gn:longitude":46.80387,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Farukh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "F\u0259rux"
+    ],
+    "name:aze_x_variant":[
+        "Farux",
+        "F\u0259rrux"
+    ],
+    "name:eng_x_preferred":[
+        "Farux"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0561\u0580\u0578\u0582\u056d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0440\u0443\u0445"
+    ],
+    "name:und_x_variant":[
+        "Paroukh",
+        "P\u2019arrukh",
+        "\u0424\u0430\u0440\u0443\u0445",
+        "Farukh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824370,
+        "wk:page":"Farux"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"77929eb1648f65cafdf95eb81a5229fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343591669,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1343591669,
+    "wof:lastmodified":1537585511,
+    "wof:name":"Farukh",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.80387,
+    40.01938,
+    46.80387,
+    40.01938
+],
+  "geometry": {"coordinates":[46.80387,40.01938],"type":"Point"}
+}

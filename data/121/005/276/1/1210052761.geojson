@@ -1,0 +1,70 @@
+{
+  "id": 1210052761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.19056,40.91895,46.19056,40.91895",
+    "geom:latitude":40.91895,
+    "geom:longitude":46.19056,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Samed Burgun",
+    "gn:country_code":"AZ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8630549,
+    "gn:latitude":40.91895,
+    "gn:longitude":46.19056,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"Samed Burgun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u0259m\u0259d Vur\u011fun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8630549
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"796b0640cd6054391d22e7fddf73d969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1210052761,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1210052761,
+    "wof:lastmodified":1537585537,
+    "wof:name":"Samed Burgun",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.19056,
+    40.91895,
+    46.19056,
+    40.91895
+],
+  "geometry": {"coordinates":[46.19056,40.91895],"type":"Point"}
+}

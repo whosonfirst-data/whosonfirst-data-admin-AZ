@@ -1,0 +1,80 @@
+{
+  "id": 1259620631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.86654,40.69126,48.86654,40.69126",
+    "geom:latitude":40.69126,
+    "geom:longitude":48.86654,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Xilmilli",
+    "gn:country_code":"AZ",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585945,
+    "gn:latitude":40.69126,
+    "gn:longitude":48.86654,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Xilmilli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Xilmilli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u043b\u044c\u043c\u0438\u043b\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Khil\u2019mili",
+        "Khilmih",
+        "Khil\u2019milli",
+        "Xilmilli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668419,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585945,
+        "wk:page":"Xilmilli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"29c5201d06a7760cacc1f76991eae9ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259620631,
+            "macroregion_id":1108808611,
+            "region_id":85668419
+        }
+    ],
+    "wof:id":1259620631,
+    "wof:lastmodified":1537585398,
+    "wof:name":"Xilmilli",
+    "wof:parent_id":85668419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.86654,
+    40.69126,
+    48.86654,
+    40.69126
+],
+  "geometry": {"coordinates":[48.86654,40.69126],"type":"Point"}
+}

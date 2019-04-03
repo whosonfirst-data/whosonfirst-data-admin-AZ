@@ -1,0 +1,67 @@
+{
+  "id": 1209073933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.23157,40.62635,48.23157,40.62635",
+    "geom:latitude":40.62635,
+    "geom:longitude":48.23157,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Eyubbeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586592,
+    "gn:latitude":40.62635,
+    "gn:longitude":48.23157,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Eyubbeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fyyubb\u0259yli"
+    ],
+    "name:und_x_variant":[
+        "\u018fyyubb\u0259li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586592
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0d8223f7c8330e4c8b0ed400f6e94595",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209073933
+        }
+    ],
+    "wof:id":1209073933,
+    "wof:lastmodified":1537585445,
+    "wof:name":"Eyubbeyli",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.23157,
+    40.62635,
+    48.23157,
+    40.62635
+],
+  "geometry": {"coordinates":[48.23157,40.62635],"type":"Point"}
+}

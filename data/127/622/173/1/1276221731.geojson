@@ -1,0 +1,75 @@
+{
+  "id": 1276221731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.96456,40.42935,49.96456,40.42935",
+    "geom:latitude":40.42935,
+    "geom:longitude":49.96456,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Stepan Razin",
+    "gn:country_code":"AZ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584938,
+    "gn:latitude":40.42935,
+    "gn:longitude":49.96456,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Stepan Razin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Stepan Razin"
+    ],
+    "name:und_x_variant":[
+        "Imeni Razina",
+        "Stepana Razina",
+        "Pos\u00eblok Imeni Stepana Razina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584938
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"95f5d2d73edc823aef50a00b1975f509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276221731,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1276221731,
+    "wof:lastmodified":1537585331,
+    "wof:name":"Stepan Razin",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.96456,
+    40.42935,
+    49.96456,
+    40.42935
+],
+  "geometry": {"coordinates":[49.96456,40.42935],"type":"Point"}
+}

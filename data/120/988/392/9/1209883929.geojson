@@ -1,0 +1,70 @@
+{
+  "id": 1209883929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.26822,40.74356,48.26822,40.74356",
+    "geom:latitude":40.74356,
+    "geom:longitude":48.26822,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Tazakend",
+    "gn:country_code":"AZ",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824014,
+    "gn:latitude":40.74356,
+    "gn:longitude":48.26822,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Tazakend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "T\u0259z\u0259k\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824014
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"eb6f057e4986228ab642987845b482e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209883929,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1209883929,
+    "wof:lastmodified":1537585508,
+    "wof:name":"Tazakend",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.26822,
+    40.74356,
+    48.26822,
+    40.74356
+],
+  "geometry": {"coordinates":[48.26822,40.74356],"type":"Point"}
+}

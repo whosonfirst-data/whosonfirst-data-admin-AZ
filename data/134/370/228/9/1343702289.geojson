@@ -1,0 +1,78 @@
+{
+  "id": 1343702289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.91916,39.58243,44.91916,39.58243",
+    "geom:latitude":39.58243,
+    "geom:longitude":44.91916,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147997.0",
+    "gn:asciiname":"Akhmed",
+    "gn:country_code":"AZ",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148635,
+    "gn:latitude":39.58243,
+    "gn:longitude":44.91916,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Akhmed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Axam\u0259d"
+    ],
+    "name:aze_x_variant":[
+        "A\u011f\u0259hm\u0259d"
+    ],
+    "name:und_x_variant":[
+        "Agakhmed",
+        "A\u011f\u0259m\u0259d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668667,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148635
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fede614bfb3809c4a45f528450988e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343702289,
+            "macroregion_id":1108808617,
+            "region_id":85668667
+        }
+    ],
+    "wof:id":1343702289,
+    "wof:lastmodified":1537585287,
+    "wof:name":"Akhmed",
+    "wof:parent_id":85668667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.91916,
+    39.58243,
+    44.91916,
+    39.58243
+],
+  "geometry": {"coordinates":[44.91916,39.58243],"type":"Point"}
+}

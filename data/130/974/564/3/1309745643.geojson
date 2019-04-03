@@ -1,0 +1,82 @@
+{
+  "id": 1309745643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.52898,39.3659,46.52898,39.3659",
+    "geom:latitude":39.3659,
+    "geom:longitude":46.52898,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Khaladzh",
+    "gn:country_code":"AZ",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147832,
+    "gn:latitude":39.3659,
+    "gn:longitude":46.52898,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Khaladzh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "X\u0259l\u0259c"
+    ],
+    "name:hye_x_preferred":[
+        "Khalaj"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0561\u056c\u0561\u057b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043b\u0430\u0434\u0436"
+    ],
+    "name:und_x_variant":[
+        "\u0425\u0430\u043b\u0430\u0434\u0436"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147832
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bcf240eae5836a1e7b451e051644d520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309745643,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1309745643,
+    "wof:lastmodified":1537585213,
+    "wof:name":"Khaladzh",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.52898,
+    39.3659,
+    46.52898,
+    39.3659
+],
+  "geometry": {"coordinates":[46.52898,39.3659],"type":"Point"}
+}

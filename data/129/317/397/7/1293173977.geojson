@@ -1,0 +1,72 @@
+{
+  "id": 1293173977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.41991,39.30191,48.41991,39.30191",
+    "geom:latitude":39.30191,
+    "geom:longitude":48.41991,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Byaderli",
+    "gn:country_code":"AZ",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148362,
+    "gn:latitude":39.30191,
+    "gn:longitude":48.41991,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Byaderli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bedirli",
+        "Byaderli",
+        "B\u0259dirli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148362
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"60782ee076a83c57c42ab269aded70ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293173977,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1293173977,
+    "wof:lastmodified":1537585264,
+    "wof:name":"Byaderli",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.41991,
+    39.30191,
+    48.41991,
+    39.30191
+],
+  "geometry": {"coordinates":[48.41991,39.30191],"type":"Point"}
+}

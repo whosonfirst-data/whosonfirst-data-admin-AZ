@@ -1,0 +1,73 @@
+{
+  "id": 1276393705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.39885,40.2038,46.39885,40.2038",
+    "geom:latitude":40.2038,
+    "geom:longitude":46.39885,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Ojakh",
+    "gn:country_code":"AZ",
+    "gn:dem":1942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8656049,
+    "gn:latitude":40.2038,
+    "gn:longitude":46.39885,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Ojakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Ojakh"
+    ],
+    "name:hye_x_variant":[
+        "\u0555\u057b\u0561\u056d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8656049
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9adab60f0f67669a2bd870b098d4598d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276393705,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1276393705,
+    "wof:lastmodified":1537585538,
+    "wof:name":"Ojakh",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.39885,
+    40.2038,
+    46.39885,
+    40.2038
+],
+  "geometry": {"coordinates":[46.39885,40.2038],"type":"Point"}
+}

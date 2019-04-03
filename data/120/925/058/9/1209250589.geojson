@@ -1,0 +1,62 @@
+{
+  "id": 1209250589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.77456,40.9575,45.77456,40.9575",
+    "geom:latitude":40.9575,
+    "geom:longitude":45.77456,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Akhmedlar",
+    "gn:country_code":"AZ",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587348,
+    "gn:latitude":40.9575,
+    "gn:longitude":45.77456,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Akhmedlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587348,
+        "wk:page":"Akhmedlar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0f853bc0142dd58d4674f0051230358b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209250589
+        }
+    ],
+    "wof:id":1209250589,
+    "wof:lastmodified":1537486674,
+    "wof:name":"Akhmedlar",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.77456,
+    40.9575,
+    45.77456,
+    40.9575
+],
+  "geometry": {"coordinates":[45.77456,40.9575],"type":"Point"}
+}

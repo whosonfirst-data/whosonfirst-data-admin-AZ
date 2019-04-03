@@ -1,0 +1,78 @@
+{
+  "id": 1310338897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.09152,41.13874,49.09152,41.13874",
+    "geom:latitude":41.13874,
+    "geom:longitude":49.09152,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Gilgilcay",
+    "gn:country_code":"AZ",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586447,
+    "gn:latitude":41.13874,
+    "gn:longitude":49.09152,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Gilgil\u00e7ay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gilgil\u00e7ay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u043b\u044c\u0433\u0438\u043b\u044c\u0447\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Gil\u2019gil\u2019chay",
+        "Gilgil\u00e7ay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668425,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586447,
+        "wk:page":"Gilgil%C3%A7ay"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dd83e0b81e917680f4f0e68e8a3dbfe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310338897,
+            "macroregion_id":1108808623,
+            "region_id":85668425
+        }
+    ],
+    "wof:id":1310338897,
+    "wof:lastmodified":1537585434,
+    "wof:name":"Gilgilcay",
+    "wof:parent_id":85668425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.09152,
+    41.13874000000001,
+    49.09152,
+    41.13874000000001
+],
+  "geometry": {"coordinates":[49.09152,41.13874000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326863847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.59087,40.97274,45.59087,40.97274",
+    "geom:latitude":40.97274,
+    "geom:longitude":45.59087,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Ashagy Oksyuzlyu",
+    "gn:country_code":"AZ",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587165,
+    "gn:latitude":40.97274,
+    "gn:longitude":45.59087,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Ashagy Oksyuzlyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131 \u00d6ys\u00fczl\u00fc",
+        "Ashagy Oksyuzlyu",
+        "A\u015fa\u011f\u0131 \u00d6ks\u00fczl\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587165,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_%C3%96ys%C3%BCzl%C3%BC"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ff4f7dc7f1567f23dfbd005079ba2359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326863847,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1326863847,
+    "wof:lastmodified":1537585485,
+    "wof:name":"Ashagy Oksyuzlyu",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.59087,
+    40.97274,
+    45.59087,
+    40.97274
+],
+  "geometry": {"coordinates":[45.59087,40.97274],"type":"Point"}
+}

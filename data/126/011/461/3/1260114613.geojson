@@ -1,0 +1,76 @@
+{
+  "id": 1260114613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.60159,39.09717,46.60159,39.09717",
+    "geom:latitude":39.09717,
+    "geom:longitude":46.60159,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Besh-Dyali",
+    "gn:country_code":"AZ",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148358,
+    "gn:latitude":39.09717,
+    "gn:longitude":46.60159,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Besh-Dyali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "B\u0259\u015fd\u0259li"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0448\u0434\u0430\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Beshdali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148358
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7754a6860fb7cd811370df8fd0cc12c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260114613,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1260114613,
+    "wof:lastmodified":1537585264,
+    "wof:name":"Besh-Dyali",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.60159,
+    39.09717,
+    46.60159,
+    39.09717
+],
+  "geometry": {"coordinates":[46.60159,39.09717],"type":"Point"}
+}

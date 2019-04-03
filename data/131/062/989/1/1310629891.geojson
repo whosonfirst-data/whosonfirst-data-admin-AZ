@@ -1,0 +1,76 @@
+{
+  "id": 1310629891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.56274,41.32422,48.56274,41.32422",
+    "geom:latitude":41.32422,
+    "geom:longitude":48.56274,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Pervyye Nyugedy",
+    "gn:country_code":"AZ",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585341,
+    "gn:latitude":41.32422,
+    "gn:longitude":48.56274,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Pervyye Nyugedy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyugedi Pervoye",
+        "Birindzhi-Nyugedi",
+        "Pervyye Nyugedy",
+        "Nyugedy",
+        "Nyugedi Pervyye",
+        "Birinci N\u00fcg\u0259di"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585341,
+        "wk:page":"Birinci_N%C3%BCg%C9%99di"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f12cebcd5ab04a7495c262aa8c6702f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310629891,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1310629891,
+    "wof:lastmodified":1537585358,
+    "wof:name":"Pervyye Nyugedy",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.56274000000001,
+    41.32422,
+    48.56274000000001,
+    41.32422
+],
+  "geometry": {"coordinates":[48.56274000000001,41.32422],"type":"Point"}
+}

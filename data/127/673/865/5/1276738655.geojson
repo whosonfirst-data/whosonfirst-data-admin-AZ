@@ -1,0 +1,86 @@
+{
+  "id": 1276738655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1694,39.59631,47.1694,39.59631",
+    "geom:latitude":39.59631,
+    "geom:longitude":47.1694,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Yuxari Aybasanli",
+    "gn:country_code":"AZ",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146940,
+    "gn:latitude":39.59631,
+    "gn:longitude":47.1694,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Yuxar\u0131 Aybasanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 Aybasanl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Yukhary Aybasanli"
+    ],
+    "name:hye_x_variant":[
+        "\u0545\u0578\u0582\u056d\u0561\u0580\u0568 \u0531\u0575\u0562\u0561\u057d\u0561\u0576\u056c\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0445\u0430\u0440\u044b \u0410\u0439\u0431\u0430\u0441\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Aybasanly",
+        "\u042e\u0445\u0430\u0440\u044b \u0410\u0439\u0431\u0430\u0441\u0430\u043d\u043b\u044b",
+        "Yukhary-Ayybasanly",
+        "Yukhary Aybasanly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668351,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146940,
+        "wk:page":"Yuxar%C4%B1_Aybasanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0b495ddf5f177b7ebc94f40250a33b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276738655,
+            "macroregion_id":1108808615,
+            "region_id":85668351
+        }
+    ],
+    "wof:id":1276738655,
+    "wof:lastmodified":1537585130,
+    "wof:name":"Yuxari Aybasanli",
+    "wof:parent_id":85668351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1694,
+    39.59631,
+    47.1694,
+    39.59631
+],
+  "geometry": {"coordinates":[47.1694,39.59631],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293842155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.84145,40.30888,48.84145,40.30888",
+    "geom:latitude":40.30888,
+    "geom:longitude":48.84145,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Ikinci Udullu",
+    "gn:country_code":"AZ",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584785,
+    "gn:latitude":40.30888,
+    "gn:longitude":48.84145,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"\u0130kinci Udullu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhangyan-Udulu",
+        "Udullu Vtoroye",
+        "Dzhankend",
+        "Uduli Vtoryye",
+        "\u0130kinci Udullu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668293,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584785,
+        "wk:page":"%C4%B0kinci_Udullu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8a6250b13fc269007e11b6d927a5b1fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293842155,
+            "macroregion_id":1108808627,
+            "region_id":85668293
+        }
+    ],
+    "wof:id":1293842155,
+    "wof:lastmodified":1537585322,
+    "wof:name":"Ikinci Udullu",
+    "wof:parent_id":85668293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.84145,
+    40.30888,
+    48.84145,
+    40.30888
+],
+  "geometry": {"coordinates":[48.84145,40.30888],"type":"Point"}
+}

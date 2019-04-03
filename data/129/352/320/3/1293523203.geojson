@@ -1,0 +1,78 @@
+{
+  "id": 1293523203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.56511,41.05319,48.56511,41.05319",
+    "geom:latitude":41.05319,
+    "geom:longitude":48.56511,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Cimi",
+    "gn:country_code":"AZ",
+    "gn:dem":1282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586640,
+    "gn:latitude":41.05319,
+    "gn:longitude":48.56511,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Cimi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cimi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0438\u043c\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dzhimi",
+        "Cimi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586640,
+        "wk:page":"Cimi"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"40886f413ac2f85b61e5ba3bc54e4417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293523203,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1293523203,
+    "wof:lastmodified":1537585448,
+    "wof:name":"Cimi",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.56511,
+    41.05319,
+    48.56511,
+    41.05319
+],
+  "geometry": {"coordinates":[48.56511,41.05319],"type":"Point"}
+}

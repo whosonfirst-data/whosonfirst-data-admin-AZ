@@ -1,0 +1,75 @@
+{
+  "id": 1226680229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.01454,40.44364,47.01454,40.44364",
+    "geom:latitude":40.44364,
+    "geom:longitude":47.01454,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Xoruzlu",
+    "gn:country_code":"AZ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585935,
+    "gn:latitude":40.44364,
+    "gn:longitude":47.01454,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Xoruzlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xoruzlu"
+    ],
+    "name:und_x_variant":[
+        "Khoruzlu",
+        "Aslanlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585935,
+        "wk:page":"Xoruzlu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d8937cb893bb2c639651d382c9ec2de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226680229,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1226680229,
+    "wof:lastmodified":1537585397,
+    "wof:name":"Xoruzlu",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.01454,
+    40.44364,
+    47.01454,
+    40.44364
+],
+  "geometry": {"coordinates":[47.01454,40.44364],"type":"Point"}
+}

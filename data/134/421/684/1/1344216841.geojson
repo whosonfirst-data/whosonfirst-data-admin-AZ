@@ -1,0 +1,70 @@
+{
+  "id": 1344216841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.6603,39.07887,48.6603,39.07887",
+    "geom:latitude":39.07887,
+    "geom:longitude":48.6603,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Sarydzhafarli",
+    "gn:country_code":"AZ",
+    "gn:dem":-6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8507801,
+    "gn:latitude":39.07887,
+    "gn:longitude":48.6603,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Sarydzhafarli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sar\u0131c\u0259f\u0259rli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8507801
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f04647943a583275bc831ca4f16d0cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344216841,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1344216841,
+    "wof:lastmodified":1537585527,
+    "wof:name":"Sarydzhafarli",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.6603,
+    39.07887,
+    48.6603,
+    39.07887
+],
+  "geometry": {"coordinates":[48.6603,39.07887],"type":"Point"}
+}

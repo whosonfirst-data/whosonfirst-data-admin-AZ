@@ -1,0 +1,89 @@
+{
+  "id": 1259720295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.5961,39.66033,46.5961,39.66033",
+    "geom:latitude":39.66033,
+    "geom:longitude":46.5961,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Mets Shen",
+    "gn:country_code":"AZ",
+    "gn:dem":1429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147519,
+    "gn:latitude":39.66033,
+    "gn:longitude":46.5961,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Mets Shen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "B\u00f6y\u00fck Galad\u0259r\u0259si"
+    ],
+    "name:aze_x_variant":[
+        "Berdadzor"
+    ],
+    "name:hye_x_preferred":[
+        "Bertadzor"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0565\u0580\u0564\u0561\u0573\u0578\u0580",
+        "\u0544\u0565\u056e \u0547\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0446\u043a\u0430\u043b\u0430\u0434\u0435\u0440\u0435\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "B\u00f6y\u00fck Qalad\u0259r\u0259si",
+        "Metskaladeresi",
+        "Metsqalad\u0259r\u0259si"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668643,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147519,
+        "wk:page":"B%C3%B6y%C3%BCk_Galad%C9%99r%C9%99si"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5b06f130eef7b8c24883b0550f81b7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259720295,
+            "macroregion_id":1108808615,
+            "region_id":85668643
+        }
+    ],
+    "wof:id":1259720295,
+    "wof:lastmodified":1537585181,
+    "wof:name":"Mets Shen",
+    "wof:parent_id":85668643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.5961,
+    39.66033,
+    46.5961,
+    39.66033
+],
+  "geometry": {"coordinates":[46.5961,39.66033],"type":"Point"}
+}

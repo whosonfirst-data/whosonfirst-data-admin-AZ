@@ -1,0 +1,72 @@
+{
+  "id": 1276925479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.75051,39.02298,48.75051,39.02298",
+    "geom:latitude":39.02298,
+    "geom:longitude":48.75051,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Sixlar",
+    "gn:country_code":"AZ",
+    "gn:dem":-16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147151,
+    "gn:latitude":39.02298,
+    "gn:longitude":48.75051,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"\u015e\u0131xlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shykhlar",
+        "Shykhlyar",
+        "\u015e\u0131xlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147151
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"af219bd1a6206e99d576b2c7709cc698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276925479,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1276925479,
+    "wof:lastmodified":1537585148,
+    "wof:name":"Sixlar",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.75051,
+    39.02298,
+    48.75051,
+    39.02298
+],
+  "geometry": {"coordinates":[48.75051,39.02298],"type":"Point"}
+}

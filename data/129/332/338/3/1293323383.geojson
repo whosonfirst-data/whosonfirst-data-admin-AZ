@@ -1,0 +1,77 @@
+{
+  "id": 1293323383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.65998,39.77749,46.65998,39.77749",
+    "geom:latitude":39.77749,
+    "geom:longitude":46.65998,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Mirzalar",
+    "gn:country_code":"AZ",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395886,
+    "gn:latitude":39.77749,
+    "gn:longitude":46.65998,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Mirzalar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mirz\u0259l\u0259r"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u0580\u0566\u0561\u056c\u0561\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u0437\u0430\u043b\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668643,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395886,
+        "wk:page":"Mirz%C9%99l%C9%99r"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0e0c9eb98a8e4987f144d954c6c32921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293323383,
+            "macroregion_id":1108808615,
+            "region_id":85668643
+        }
+    ],
+    "wof:id":1293323383,
+    "wof:lastmodified":1537585301,
+    "wof:name":"Mirzalar",
+    "wof:parent_id":85668643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.65998,
+    39.77749,
+    46.65998,
+    39.77749
+],
+  "geometry": {"coordinates":[46.65998,39.77749],"type":"Point"}
+}

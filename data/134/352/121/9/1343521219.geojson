@@ -1,0 +1,76 @@
+{
+  "id": 1343521219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.64132,39.02783,48.64132,39.02783",
+    "geom:latitude":39.02783,
+    "geom:longitude":48.64132,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Kosagul",
+    "gn:country_code":"AZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8473736,
+    "gn:latitude":39.02783,
+    "gn:longitude":48.64132,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Kosagul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kosagul"
+    ],
+    "name:aze_x_variant":[
+        "Kosag\u00fcl"
+    ],
+    "name:rus_x_preferred":[
+        "Kosakyul\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8473736
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"10cc1254dd3a2d56b79c41a46cffc0f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343521219,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1343521219,
+    "wof:lastmodified":1537585526,
+    "wof:name":"Kosagul",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.64132,
+    39.02783,
+    48.64132,
+    39.02783
+],
+  "geometry": {"coordinates":[48.64132,39.02783],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226525279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.59159,39.04226,48.59159,39.04226",
+    "geom:latitude":39.04226,
+    "geom:longitude":48.59159,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tatyanoba",
+    "gn:country_code":"AZ",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147074,
+    "gn:latitude":39.04226,
+    "gn:longitude":48.59159,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Tatyanoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Tatyanoba"
+    ],
+    "name:und_x_variant":[
+        "Tat\u2019yanovka",
+        "Tat\u2019yanoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147074,
+        "wk:page":"Tatyanoba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2e2d3aa1f415ee7bf9ca3e50c98d09c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226525279,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1226525279,
+    "wof:lastmodified":1537585142,
+    "wof:name":"Tatyanoba",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.59159,
+    39.04226,
+    48.59159,
+    39.04226
+],
+  "geometry": {"coordinates":[48.59159,39.04226],"type":"Point"}
+}

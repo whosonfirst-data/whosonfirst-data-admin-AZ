@@ -1,0 +1,74 @@
+{
+  "id": 1326890089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.71834,39.03417,48.71834,39.03417",
+    "geom:latitude":39.03417,
+    "geom:longitude":48.71834,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Ondzhakyala",
+    "gn:country_code":"AZ",
+    "gn:dem":-12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147372,
+    "gn:latitude":39.03417,
+    "gn:longitude":48.71834,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Ondzhakyala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Onc\u0259k\u0259l\u0259"
+    ],
+    "name:und_x_variant":[
+        "Ondzha-Kelya",
+        "Ondzhakyala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147372
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c141e9db7d73e30b27c679647b6d29a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326890089,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1326890089,
+    "wof:lastmodified":1537585168,
+    "wof:name":"Ondzhakyala",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.71834000000001,
+    39.03417,
+    48.71834000000001,
+    39.03417
+],
+  "geometry": {"coordinates":[48.71834000000001,39.03417],"type":"Point"}
+}

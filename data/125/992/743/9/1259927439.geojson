@@ -1,0 +1,91 @@
+{
+  "id": 1259927439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.29508,39.83754,46.29508,39.83754",
+    "geom:latitude":39.83754,
+    "geom:longitude":46.29508,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Shalva",
+    "gn:country_code":"AZ",
+    "gn:dem":1516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147202,
+    "gn:latitude":39.83754,
+    "gn:longitude":46.29508,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"Shalva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015e\u0259lv\u0259"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u056c\u057e\u0561"
+    ],
+    "name:hye_x_variant":[
+        "Shoghavank\u2019",
+        "Shalva",
+        "\u0547\u0578\u0572\u0561\u057e\u0561\u0576\u0584",
+        "Shalua",
+        "\u0547\u0561\u056c\u0578\u0582\u0561"
+    ],
+    "name:rus_x_preferred":[
+        "Shal\u2019va"
+    ],
+    "name:rus_x_variant":[
+        "\u0428\u0430\u043b\u044c\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Shel\u2019ve",
+        "Shel\u2019va",
+        "\u0428\u0430\u043b\u044c\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147202
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ef8f19f10fe5e4977839b6c220a4f130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259927439,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1259927439,
+    "wof:lastmodified":1537585154,
+    "wof:name":"Shalva",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.29508,
+    39.83754,
+    46.29508,
+    39.83754
+],
+  "geometry": {"coordinates":[46.29508,39.83754],"type":"Point"}
+}

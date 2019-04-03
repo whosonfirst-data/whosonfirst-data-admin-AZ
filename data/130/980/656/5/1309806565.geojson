@@ -1,0 +1,68 @@
+{
+  "id": 1309806565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.51691,40.19389,47.51691,40.19389",
+    "geom:latitude":40.19389,
+    "geom:longitude":47.51691,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dalikly",
+    "gn:country_code":"AZ",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800629,
+    "gn:latitude":40.19389,
+    "gn:longitude":47.51691,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Dalikly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668509,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800629,
+        "wk:page":"Dalikly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fb9fe0196f7381012e2076b39344021c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309806565,
+            "macroregion_id":1108808627,
+            "region_id":85668509
+        }
+    ],
+    "wof:id":1309806565,
+    "wof:lastmodified":1537486679,
+    "wof:name":"Dalikly",
+    "wof:parent_id":85668509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.51691,
+    40.19389,
+    47.51691,
+    40.19389
+],
+  "geometry": {"coordinates":[47.51691,40.19389],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209770445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.0126,40.09233,46.0126,40.09233",
+    "geom:latitude":40.09233,
+    "geom:longitude":46.0126,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Alolar",
+    "gn:country_code":"AZ",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824323,
+    "gn:latitude":40.09233,
+    "gn:longitude":46.0126,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Alolar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u043e\u043b\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824323,
+        "wk:page":"Alolar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f6abd89a8f9e0c440a4b72eac7b6d9dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209770445,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1209770445,
+    "wof:lastmodified":1537585511,
+    "wof:name":"Alolar",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.0126,
+    40.09233,
+    46.0126,
+    40.09233
+],
+  "geometry": {"coordinates":[46.0126,40.09233],"type":"Point"}
+}

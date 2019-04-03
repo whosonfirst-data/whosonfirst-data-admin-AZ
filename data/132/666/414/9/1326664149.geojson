@@ -1,0 +1,75 @@
+{
+  "id": 1326664149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.70402,41.27191,48.70402,41.27191",
+    "geom:latitude":41.27191,
+    "geom:longitude":48.70402,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Asparasty",
+    "gn:country_code":"AZ",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587149,
+    "gn:latitude":41.27191,
+    "gn:longitude":48.70402,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Asparasty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Asp\u0259r\u0259sti"
+    ],
+    "name:und_x_variant":[
+        "\u018fsp\u0259r\u0259sti",
+        "Izzhor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587149,
+        "wk:page":"%C6%8Fsp%C9%99r%C9%99sti"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"009ee6557243d8ef660ec178d6ca1af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326664149,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1326664149,
+    "wof:lastmodified":1537585484,
+    "wof:name":"Asparasty",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.70402,
+    41.27191,
+    48.70402,
+    41.27191
+],
+  "geometry": {"coordinates":[48.70402,41.27191],"type":"Point"}
+}

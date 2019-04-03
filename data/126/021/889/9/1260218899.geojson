@@ -1,0 +1,77 @@
+{
+  "id": 1260218899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.27231,40.68834,46.27231,40.68834",
+    "geom:latitude":40.68834,
+    "geom:longitude":46.27231,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Shaumyankend",
+    "gn:country_code":"AZ",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585042,
+    "gn:latitude":40.68834,
+    "gn:longitude":46.27231,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Shaumyankend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bal\u00e7\u0131l\u0131"
+    ],
+    "name:aze_x_variant":[
+        "Bol\u00e7al\u0131"
+    ],
+    "name:und_x_variant":[
+        "Shaumyan",
+        "Bolchaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585042
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3df15f2b13a87f8ecad1af45b89746f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260218899,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1260218899,
+    "wof:lastmodified":1537585339,
+    "wof:name":"Shaumyankend",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.27231,
+    40.68834,
+    46.27231,
+    40.68834
+],
+  "geometry": {"coordinates":[46.27231,40.68834],"type":"Point"}
+}

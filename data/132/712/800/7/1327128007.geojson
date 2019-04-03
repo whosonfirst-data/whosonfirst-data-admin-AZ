@@ -1,0 +1,81 @@
+{
+  "id": 1327128007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.25586,41.73792,46.25586,41.73792",
+    "geom:latitude":41.73792,
+    "geom:longitude":46.25586,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sharifoba",
+    "gn:country_code":"AZ",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585048,
+    "gn:latitude":41.73792,
+    "gn:longitude":46.25586,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Sharifoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015e\u0259rif"
+    ],
+    "name:eng_x_preferred":[
+        "Yeni \u015e\u01ddrif"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u0438\u0444"
+    ],
+    "name:und_x_variant":[
+        "Sharif",
+        "Yeni \u015e\u0259rif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585048,
+        "wk:page":"Yeni_%C5%9E%C9%99rif"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"54000f6bbfc3d7e9c9f1f56d9f0b0a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327128007,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1327128007,
+    "wof:lastmodified":1537585340,
+    "wof:name":"Sharifoba",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.25586,
+    41.73792,
+    46.25586,
+    41.73792
+],
+  "geometry": {"coordinates":[46.25586,41.73792],"type":"Point"}
+}

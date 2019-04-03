@@ -1,0 +1,79 @@
+{
+  "id": 1209808113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.22259,40.46718,48.22259,40.46718",
+    "geom:latitude":40.46718,
+    "geom:longitude":48.22259,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gey-Dellekli",
+    "gn:country_code":"AZ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586468,
+    "gn:latitude":40.46718,
+    "gn:longitude":48.22259,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gey-Dellekli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "G\u00f6yd\u01ddll\u01ddkli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0439\u0434\u0435\u043b\u043b\u044f\u043a\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "G\u00ebydellyakli",
+        "Gey-Dellekli",
+        "G\u00f6yd\u0259ll\u0259kli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586468,
+        "wk:page":"G%C3%B6yd%C9%99ll%C9%99kli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a99d3fdd73e450f005dfb7195e1a5e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209808113,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1209808113,
+    "wof:lastmodified":1537585436,
+    "wof:name":"Gey-Dellekli",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.22259,
+    40.46718,
+    48.22259,
+    40.46718
+],
+  "geometry": {"coordinates":[48.22259,40.46718],"type":"Point"}
+}

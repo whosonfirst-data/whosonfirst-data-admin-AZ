@@ -1,0 +1,88 @@
+{
+  "id": 1326485165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.40713,40.04034,46.40713,40.04034",
+    "geom:latitude":40.04034,
+    "geom:longitude":46.40713,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Narinclar",
+    "gn:country_code":"AZ",
+    "gn:dem":1696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585386,
+    "gn:latitude":40.04034,
+    "gn:longitude":46.40713,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Nar\u0131nclar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Nar\u0131nclar"
+    ],
+    "name:aze_x_variant":[
+        "Mishni",
+        "Nare\u015ftar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0580\u0565\u0577\u057f\u0561\u0580"
+    ],
+    "name:hye_x_variant":[
+        "Nareshtar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0440\u0435\u0448\u0442\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Narishtar",
+        "Nareshtar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585386,
+        "wk:page":"Nar%C4%B1nclar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6a789aa6a1b46130980b3228be036e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326485165,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1326485165,
+    "wof:lastmodified":1537585361,
+    "wof:name":"Narinclar",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.40713,
+    40.04034,
+    46.40713,
+    40.04034
+],
+  "geometry": {"coordinates":[46.40713,40.04034],"type":"Point"}
+}

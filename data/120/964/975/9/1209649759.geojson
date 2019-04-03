@@ -1,0 +1,74 @@
+{
+  "id": 1209649759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.64415,39.04081,46.64415,39.04081",
+    "geom:latitude":39.04081,
+    "geom:longitude":46.64415,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Ordekli",
+    "gn:country_code":"AZ",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147369,
+    "gn:latitude":39.04081,
+    "gn:longitude":46.64415,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ordekli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00d6rd\u0259kli"
+    ],
+    "name:hye_x_preferred":[
+        "Vorduak"
+    ],
+    "name:hye_x_variant":[
+        "\u0548\u0580\u0564\u0578\u0582\u0561\u056f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0434\u0435\u043a\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147369,
+        "wk:page":"%C3%96rd%C9%99kli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d5d72a1d5e36aab90e184eca7ac855a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209649759
+        }
+    ],
+    "wof:id":1209649759,
+    "wof:lastmodified":1537585167,
+    "wof:name":"Ordekli",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.64415,
+    39.04081,
+    46.64415,
+    39.04081
+],
+  "geometry": {"coordinates":[46.64415,39.04081],"type":"Point"}
+}

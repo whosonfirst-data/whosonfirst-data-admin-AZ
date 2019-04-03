@@ -1,0 +1,75 @@
+{
+  "id": 1259636983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.47391,39.29666,45.47391,39.29666",
+    "geom:latitude":39.29666,
+    "geom:longitude":45.47391,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"7669114.0",
+    "gn:asciiname":"Orudzhdiza",
+    "gn:country_code":"AZ",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147362,
+    "gn:latitude":39.29666,
+    "gn:longitude":45.47391,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Orudzhdiza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Oruc Duz\u0259"
+    ],
+    "name:aze_x_variant":[
+        "Kalbaorus Diz\u0259",
+        "Oruc Diz\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668673,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147362
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"26243f7a7bc229964356bee66f683d22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259636983,
+            "macroregion_id":1108808617,
+            "region_id":85668673
+        }
+    ],
+    "wof:id":1259636983,
+    "wof:lastmodified":1537585167,
+    "wof:name":"Orudzhdiza",
+    "wof:parent_id":85668673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.47391,
+    39.29666,
+    45.47391,
+    39.29666
+],
+  "geometry": {"coordinates":[45.47391,39.29666],"type":"Point"}
+}

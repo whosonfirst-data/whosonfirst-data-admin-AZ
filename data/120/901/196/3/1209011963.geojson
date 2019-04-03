@@ -1,0 +1,77 @@
+{
+  "id": 1209011963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.87905,39.978,46.87905,39.978",
+    "geom:latitude":39.978,
+    "geom:longitude":46.87905,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Akhmedavar",
+    "gn:country_code":"AZ",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148598,
+    "gn:latitude":39.978,
+    "gn:longitude":46.87905,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Akhmedavar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fhm\u0259davar"
+    ],
+    "name:hye_x_preferred":[
+        "Ahmedavar"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0570\u0574\u0565\u0564\u0561\u057e\u0561\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0445\u043c\u0435\u0434\u0430\u0432\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "\u0410\u0445\u043c\u0435\u0434\u0430\u0432\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148598,
+        "wk:page":"%C6%8Fhm%C9%99davar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3199b3dfdefc4379fb6861ec01abd346",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209011963
+        }
+    ],
+    "wof:id":1209011963,
+    "wof:lastmodified":1537585284,
+    "wof:name":"Akhmedavar",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.87905,
+    39.978,
+    46.87905,
+    39.978
+],
+  "geometry": {"coordinates":[46.87905,39.978],"type":"Point"}
+}

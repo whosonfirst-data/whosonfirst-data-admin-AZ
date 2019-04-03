@@ -1,0 +1,62 @@
+{
+  "id": 1209213955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.43781,41.01929,45.43781,41.01929",
+    "geom:latitude":41.01929,
+    "geom:longitude":45.43781,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Yaradullu",
+    "gn:country_code":"AZ",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584702,
+    "gn:latitude":41.01929,
+    "gn:longitude":45.43781,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Yaradullu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584702,
+        "wk:page":"Yaradullu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0b486cd3d0658991690edabba912b321",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209213955
+        }
+    ],
+    "wof:id":1209213955,
+    "wof:lastmodified":1537486585,
+    "wof:name":"Yaradullu",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.43781,
+    41.01929000000001,
+    45.43781,
+    41.01929000000001
+],
+  "geometry": {"coordinates":[45.43781,41.01929000000001],"type":"Point"}
+}

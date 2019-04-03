@@ -1,0 +1,73 @@
+{
+  "id": 1293424187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.86085,41.56235,46.86085,41.56235",
+    "geom:latitude":41.56235,
+    "geom:longitude":46.86085,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Ezgilly",
+    "gn:country_code":"AZ",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586589,
+    "gn:latitude":41.56235,
+    "gn:longitude":46.86085,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Ezgilly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azgilo",
+        "Ezgilli",
+        "\u018fzgilli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668601,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586589,
+        "wk:page":"%C6%8Fzgilli%2C_Zaqatala"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"06a23227e22d6e1fe76ccd07e89a3510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293424187,
+            "macroregion_id":1108808619,
+            "region_id":85668601
+        }
+    ],
+    "wof:id":1293424187,
+    "wof:lastmodified":1537585444,
+    "wof:name":"Ezgilly",
+    "wof:parent_id":85668601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.86085,
+    41.56235,
+    46.86085,
+    41.56235
+],
+  "geometry": {"coordinates":[46.86085,41.56235],"type":"Point"}
+}

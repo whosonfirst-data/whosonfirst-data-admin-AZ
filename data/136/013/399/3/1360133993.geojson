@@ -1,0 +1,77 @@
+{
+  "id": 1360133993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.64306,39.01708,48.64306,39.01708",
+    "geom:latitude":39.01708,
+    "geom:longitude":48.64306,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Arkewan",
+    "gn:country_code":"AZ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148504,
+    "gn:latitude":39.01708,
+    "gn:longitude":48.64306,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Arkewan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arkesai",
+        "Arkewan",
+        "Arkavan",
+        "Arkevan",
+        "Arkevak",
+        "\u018frkivan",
+        "Arkivan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148504,
+        "wk:page":"%C6%8Frkivan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8f19ff41fe23c8038715f81713629ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360133993,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1360133993,
+    "wof:lastmodified":1537585277,
+    "wof:name":"Arkewan",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.64306,
+    39.01708,
+    48.64306,
+    39.01708
+],
+  "geometry": {"coordinates":[48.64306,39.01708],"type":"Point"}
+}

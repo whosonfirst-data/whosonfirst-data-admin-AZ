@@ -1,0 +1,75 @@
+{
+  "id": 1260014567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.50242,39.46405,46.50242,39.46405",
+    "geom:latitude":39.46405,
+    "geom:longitude":46.50242,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Nerkin Khndzoresk",
+    "gn:country_code":"AZ",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448082,
+    "gn:latitude":39.46405,
+    "gn:longitude":46.50242,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nerkin Khndzoresk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Nerkin Khndzoresk"
+    ],
+    "name:hye_x_variant":[
+        "Nerk\u2019in Khndzoresk",
+        "\u0546\u0565\u0580\u0584\u056b\u0576 \u053d\u0576\u0571\u0578\u0580\u0565\u057d\u056f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448082,
+        "wk:page":"Nerqin_Khndzoresk"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"de9368fd61bd1fe00b13b7fbd02f9f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260014567,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1260014567,
+    "wof:lastmodified":1537585304,
+    "wof:name":"Nerkin Khndzoresk",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.50242,
+    39.46405,
+    46.50242,
+    39.46405
+],
+  "geometry": {"coordinates":[46.50242,39.46405],"type":"Point"}
+}

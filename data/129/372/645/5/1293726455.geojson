@@ -1,0 +1,74 @@
+{
+  "id": 1293726455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.93788,40.48215,46.93788,40.48215",
+    "geom:latitude":40.48215,
+    "geom:longitude":46.93788,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Maralyansarov",
+    "gn:country_code":"AZ",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585572,
+    "gn:latitude":40.48215,
+    "gn:longitude":46.93788,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Maralyansarov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Maralyansarov"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u043b\u044f\u043d\u0441\u0430\u0440\u043e\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585572,
+        "wk:page":"Maralyansarov"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5f2df044e673561ed7f3a0448ece4a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293726455,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1293726455,
+    "wof:lastmodified":1537585374,
+    "wof:name":"Maralyansarov",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.93788,
+    40.48215,
+    46.93788,
+    40.48215
+],
+  "geometry": {"coordinates":[46.93788,40.48215],"type":"Point"}
+}

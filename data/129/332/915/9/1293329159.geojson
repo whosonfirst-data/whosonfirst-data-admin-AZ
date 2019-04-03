@@ -1,0 +1,68 @@
+{
+  "id": 1293329159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.82583,39.69361,48.82583,39.69361",
+    "geom:latitude":39.69361,
+    "geom:longitude":48.82583,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Ali-Muratly",
+    "gn:country_code":"AZ",
+    "gn:dem":-23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":389139,
+    "gn:latitude":39.69361,
+    "gn:longitude":48.82583,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Ali-Muratly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389139,
+        "wk:page":"Ali-Muratly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d89c6dc56c8e06950ea061ea31ccb5c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293329159,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1293329159,
+    "wof:lastmodified":1537486573,
+    "wof:name":"Ali-Muratly",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.82583,
+    39.69361,
+    48.82583,
+    39.69361
+],
+  "geometry": {"coordinates":[48.82583,39.69361],"type":"Point"}
+}

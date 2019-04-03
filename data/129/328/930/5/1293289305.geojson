@@ -1,0 +1,81 @@
+{
+  "id": 1293289305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.94737,40.38584,49.94737,40.38584",
+    "geom:latitude":40.38584,
+    "geom:longitude":49.94737,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Akhmedly",
+    "gn:country_code":"AZ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587347,
+    "gn:latitude":40.38584,
+    "gn:longitude":49.94737,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Akhmedly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fhm\u0259dli"
+    ],
+    "name:eng_x_preferred":[
+        "\u018fhm\u01dddli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0445\u043c\u0435\u0434\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Akhmedli",
+        "Akhmedly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587347,
+        "wk:page":"%C6%8Fhm%C9%99dli%2C_Baku"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3ee0784dee2de026c7f8a3c3e58763ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293289305,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1293289305,
+    "wof:lastmodified":1537585499,
+    "wof:name":"Akhmedly",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.94737,
+    40.38584,
+    49.94737,
+    40.38584
+],
+  "geometry": {"coordinates":[49.94737,40.38584],"type":"Point"}
+}

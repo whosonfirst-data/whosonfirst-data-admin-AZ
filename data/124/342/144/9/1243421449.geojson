@@ -1,0 +1,87 @@
+{
+  "id": 1243421449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.13117,40.26441,46.13117,40.26441",
+    "geom:latitude":40.26441,
+    "geom:longitude":46.13117,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Tekekayasy",
+    "gn:country_code":"AZ",
+    "gn:dem":1612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":483839,
+    "gn:latitude":40.26441,
+    "gn:longitude":46.13117,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Tekekayasy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "T\u0259k\u0259qaya"
+    ],
+    "name:aze_x_variant":[
+        "T\u0259k\u0259\u00e7aya"
+    ],
+    "name:hye_x_preferred":[
+        "T\u2019ek\u2019eak"
+    ],
+    "name:hye_x_variant":[
+        "\u0539\u0565\u0584\u0565\u0561\u056f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043a\u044f\u043a\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Tekyagayasi",
+        "Tekyakaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":483839,
+        "wk:page":"T%C9%99k%C9%99%C3%A7aya"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b0ef1c59b9c35f0329612398d8c311b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243421449,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1243421449,
+    "wof:lastmodified":1537585304,
+    "wof:name":"Tekekayasy",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.13117,
+    40.26441,
+    46.13117,
+    40.26441
+],
+  "geometry": {"coordinates":[46.13117,40.26441],"type":"Point"}
+}

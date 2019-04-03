@@ -1,0 +1,70 @@
+{
+  "id": 1259814371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.01667,40.3,47.01667,40.3",
+    "geom:latitude":40.3,
+    "geom:longitude":47.01667,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Sarvanlar",
+    "gn:country_code":"AZ",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":498476,
+    "gn:latitude":40.3,
+    "gn:longitude":47.01667,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Sarvanlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sarvanlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":498476
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e99ccd5e1c33f4a90ab5715f319ed462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259814371,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1259814371,
+    "wof:lastmodified":1537585304,
+    "wof:name":"Sarvanlar",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.01667,
+    40.3,
+    47.01667,
+    40.3
+],
+  "geometry": {"coordinates":[47.01667,40.3],"type":"Point"}
+}

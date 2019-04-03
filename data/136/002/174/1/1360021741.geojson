@@ -1,0 +1,73 @@
+{
+  "id": 1360021741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.82115,41.43053,48.82115,41.43053",
+    "geom:latitude":41.43053,
+    "geom:longitude":48.82115,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Beykyshlakh",
+    "gn:country_code":"AZ",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587013,
+    "gn:latitude":41.43053,
+    "gn:longitude":48.82115,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Beykyshlakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bekkyshlak",
+        "Beykyshlakh",
+        "B\u0259yq\u0131\u015flaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587013,
+        "wk:page":"B%C9%99yq%C4%B1%C5%9Flaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"23310cf73a0fc603b83ec927897d1c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360021741,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1360021741,
+    "wof:lastmodified":1537585475,
+    "wof:name":"Beykyshlakh",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.82115,
+    41.43053,
+    48.82115,
+    41.43053
+],
+  "geometry": {"coordinates":[48.82115,41.43053],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1260047037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.04009,40.03587,46.04009,40.03587",
+    "geom:latitude":40.03587,
+    "geom:longitude":46.04009,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Orta Qaracanli",
+    "gn:country_code":"AZ",
+    "gn:dem":1897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824072,
+    "gn:latitude":40.03587,
+    "gn:longitude":46.04009,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Orta Qara\u00e7anl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Orta Qara\u015fanl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "K\u2019arashen"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0561\u0580\u0561\u0577\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0442\u0430-\u041a\u0430\u0440\u0430\u0448\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Orta Qara\u00e7anl\u0131",
+        "Orta-Karashanly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824072,
+        "wk:page":"Orta_Qara%C3%A7anl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"75ba71ba79ac4ecfb096a0ed261ecd59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260047037,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1260047037,
+    "wof:lastmodified":1537585510,
+    "wof:name":"Orta Qaracanli",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.04009,
+    40.03587,
+    46.04009,
+    40.03587
+],
+  "geometry": {"coordinates":[46.04009,40.03587],"type":"Point"}
+}

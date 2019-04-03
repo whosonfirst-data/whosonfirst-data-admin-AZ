@@ -1,0 +1,73 @@
+{
+  "id": 1226600133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.83904,40.74884,47.83904,40.74884",
+    "geom:latitude":40.74884,
+    "geom:longitude":47.83904,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Gideyli",
+    "gn:country_code":"AZ",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8720991,
+    "gn:latitude":40.74884,
+    "gn:longitude":47.83904,
+    "gn:modification_date":"2014-04-07",
+    "gn:name":"Gideyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Gideyli"
+    ],
+    "name:aze_x_variant":[
+        "Gid\u0259yli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8720991
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9d46e7acee0b2fe5057a3fd61198ab7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226600133,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1226600133,
+    "wof:lastmodified":1537585541,
+    "wof:name":"Gideyli",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.83904,
+    40.74884,
+    47.83904,
+    40.74884
+],
+  "geometry": {"coordinates":[47.83904,40.74884],"type":"Point"}
+}

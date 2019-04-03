@@ -1,0 +1,72 @@
+{
+  "id": 1242930853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.35301,40.85133,48.35301,40.85133",
+    "geom:latitude":40.85133,
+    "geom:longitude":48.35301,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Bagali",
+    "gn:country_code":"AZ",
+    "gn:dem":1358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587098,
+    "gn:latitude":40.85133,
+    "gn:longitude":48.35301,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Bagali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u011f\u0259li",
+        "Bagali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587098,
+        "wk:page":"Ba%C4%9F%C9%99li"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"23a7df2f73ce9c1b9d80b6b0adea7eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242930853,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1242930853,
+    "wof:lastmodified":1537585481,
+    "wof:name":"Bagali",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.35301,
+    40.85133,
+    48.35301,
+    40.85133
+],
+  "geometry": {"coordinates":[48.35301,40.85133],"type":"Point"}
+}

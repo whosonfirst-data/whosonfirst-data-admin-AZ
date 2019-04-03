@@ -1,0 +1,73 @@
+{
+  "id": 1225897325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.21111,39.41724,49.21111,39.41724",
+    "geom:latitude":39.41724,
+    "geom:longitude":49.21111,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Uzunbabali",
+    "gn:country_code":"AZ",
+    "gn:dem":-26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147008,
+    "gn:latitude":39.41724,
+    "gn:longitude":49.21111,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Uzunbabal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Usun-Babaly",
+        "Uzunbabaly",
+        "Uzunbabal\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668409,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147008,
+        "wk:page":"Uzunbabal%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b2eaaa4b25cb8f1e8b5e6c2603e007aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225897325,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1225897325,
+    "wof:lastmodified":1537585136,
+    "wof:name":"Uzunbabali",
+    "wof:parent_id":85668409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.21111,
+    39.41724,
+    49.21111,
+    39.41724
+],
+  "geometry": {"coordinates":[49.21111,39.41724],"type":"Point"}
+}

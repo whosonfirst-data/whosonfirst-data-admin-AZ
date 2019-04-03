@@ -1,0 +1,85 @@
+{
+  "id": 1226080963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.02277,39.4895,47.02277,39.4895",
+    "geom:latitude":39.4895,
+    "geom:longitude":47.02277,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Sor",
+    "gn:country_code":"AZ",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147040,
+    "gn:latitude":39.4895,
+    "gn:longitude":47.02277,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Sor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sor"
+    ],
+    "name:hye_x_preferred":[
+        "Ts\u2019or"
+    ],
+    "name:hye_x_variant":[
+        "\u0551\u0578\u057c",
+        "Ts\u2019orr",
+        "\u0551\u0578\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0443\u0440"
+    ],
+    "name:und_x_variant":[
+        "Tsur",
+        "\u0426\u0443\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147040
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fb2cf2bc1619e34469cde13f31b3ee05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226080963,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1226080963,
+    "wof:lastmodified":1537585139,
+    "wof:name":"Sor",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.02277,
+    39.4895,
+    47.02277,
+    39.4895
+],
+  "geometry": {"coordinates":[47.02277,39.4895],"type":"Point"}
+}

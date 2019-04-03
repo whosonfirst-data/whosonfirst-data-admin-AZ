@@ -1,0 +1,81 @@
+{
+  "id": 1293335053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.97993,39.55298,44.97993,39.55298",
+    "geom:latitude":39.55298,
+    "geom:longitude":44.97993,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147997.0",
+    "gn:asciiname":"Sharur City",
+    "gn:country_code":"AZ",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":146858,
+    "gn:latitude":39.55298,
+    "gn:longitude":44.97993,
+    "gn:modification_date":"2016-03-25",
+    "gn:name":"Sharur City",
+    "gn:population":7100,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sharur City"
+    ],
+    "name:und_x_variant":[
+        "Il\u2019ich\u00ebvsk",
+        "Norashen",
+        "Ilich",
+        "\u015e\u0259rur"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668667,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146858,
+        "wk:page":"%C5%9E%C9%99rur"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a61c312abb3b9c797e6f01fcdef96d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293335053,
+            "macroregion_id":1108808617,
+            "region_id":85668667
+        }
+    ],
+    "wof:id":1293335053,
+    "wof:lastmodified":1537585122,
+    "wof:name":"Sharur City",
+    "wof:parent_id":85668667,
+    "wof:placetype":"locality",
+    "wof:population":7100,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.97993,
+    39.55298,
+    44.97993,
+    39.55298
+],
+  "geometry": {"coordinates":[44.97993,39.55298],"type":"Point"}
+}

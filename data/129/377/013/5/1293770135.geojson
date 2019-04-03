@@ -1,0 +1,78 @@
+{
+  "id": 1293770135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.573,39.47192,48.573,39.47192",
+    "geom:latitude":39.47192,
+    "geom:longitude":48.573,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Novomikhaylovka",
+    "gn:country_code":"AZ",
+    "gn:dem":-5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147398,
+    "gn:latitude":39.47192,
+    "gn:longitude":48.573,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Novomikhaylovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Z\u0259hm\u0259tabad"
+    ],
+    "name:aze_x_variant":[
+        "Novomixaylovka"
+    ],
+    "name:und_x_variant":[
+        "Novo-Mikhaylovko",
+        "Novomikhaylovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668317,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147398,
+        "wk:page":"Novomikhaylovka"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7f2ace7bcb60464b1546782678dea539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293770135,
+            "macroregion_id":1108808627,
+            "region_id":85668317
+        }
+    ],
+    "wof:id":1293770135,
+    "wof:lastmodified":1537585170,
+    "wof:name":"Novomikhaylovka",
+    "wof:parent_id":85668317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.573,
+    39.47192,
+    48.573,
+    39.47192
+],
+  "geometry": {"coordinates":[48.573,39.47192],"type":"Point"}
+}

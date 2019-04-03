@@ -1,0 +1,74 @@
+{
+  "id": 1226653337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.86611,40.15722,46.86611,40.15722",
+    "geom:latitude":40.15722,
+    "geom:longitude":46.86611,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bozavend",
+    "gn:country_code":"AZ",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800940,
+    "gn:latitude":40.15722,
+    "gn:longitude":46.86611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bozavend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bozavend"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u0440\u0430\u0432\u0435\u043d\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800940,
+        "wk:page":"Bozavend"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"45ef1dbb479fe41c4824616f2cc6c639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226653337,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1226653337,
+    "wof:lastmodified":1537585506,
+    "wof:name":"Bozavend",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.86611,
+    40.15722,
+    46.86611,
+    40.15722
+],
+  "geometry": {"coordinates":[46.86611,40.15722],"type":"Point"}
+}

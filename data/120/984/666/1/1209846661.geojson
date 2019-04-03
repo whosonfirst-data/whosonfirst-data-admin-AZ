@@ -1,0 +1,73 @@
+{
+  "id": 1209846661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.27672,40.55688,46.27672,40.55688",
+    "geom:latitude":40.55688,
+    "geom:longitude":46.27672,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Topalkhasanly",
+    "gn:country_code":"AZ",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584827,
+    "gn:latitude":40.55688,
+    "gn:longitude":46.27672,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Topalkhasanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Topalgasanli",
+        "Topalgasanly",
+        "Topalkhasanly",
+        "Topalh\u0259s\u0259nli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584827
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bbe97c96404d6b280f224697bb4cb297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209846661,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1209846661,
+    "wof:lastmodified":1537585324,
+    "wof:name":"Topalkhasanly",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.27672000000001,
+    40.55688,
+    46.27672000000001,
+    40.55688
+],
+  "geometry": {"coordinates":[46.27672000000001,40.55688],"type":"Point"}
+}

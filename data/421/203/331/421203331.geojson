@@ -1,0 +1,115 @@
+{
+  "id": 421203331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.94158,40.4761,49.94158,40.4761",
+    "geom:latitude":40.4761,
+    "geom:longitude":49.94158,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Zabrat"
+    ],
+    "name:ceb_x_preferred":[
+        "Zabrat"
+    ],
+    "name:dut_x_preferred":[
+        "Zabrat"
+    ],
+    "name:eng_x_preferred":[
+        "Zabrat"
+    ],
+    "name:fra_x_preferred":[
+        "Zabrat"
+    ],
+    "name:fre_x_preferred":[
+        "Zabrat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30d6\u30e9\u30c8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0431\u0440\u0430\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Zabrat"
+    ],
+    "name:unk_x_variant":[
+        "Sabrat"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0628\u0631\u062a"
+    ],
+    "qs:gn_country":"AZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":584614,
+    "qs:gn_pop":21396,
+    "qs:name":"Zabrat",
+    "qs:name_adm0":"Azerbaijan",
+    "qs:name_adm1":"Baki",
+    "qs:photos":17,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":17,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":59025,
+    "qs:woe_adm0":23424741,
+    "qs:woe_id":1951750,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584614,
+        "gp:id":1951750,
+        "qs:id":59025,
+        "wd:id":"Q4026836",
+        "wk:page":"Zabrat"
+    },
+    "wof:country":"AZ",
+    "wof:created":1459010147,
+    "wof:geomhash":"d16f063a62be421c4a5a827f96f87793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":421203331,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":421203331,
+    "wof:lastmodified":1527716188,
+    "wof:name":"Zabrat",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:population":21396,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.94158,
+    40.4761,
+    49.94158,
+    40.4761
+],
+  "geometry": {"coordinates":[49.94158,40.4761],"type":"Point"}
+}

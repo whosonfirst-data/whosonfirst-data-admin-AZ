@@ -1,0 +1,72 @@
+{
+  "id": 1243515541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.86139,38.74491,48.86139,38.74491",
+    "geom:latitude":38.74491,
+    "geom:longitude":48.86139,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Sutamurdob",
+    "gn:country_code":"AZ",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147103,
+    "gn:latitude":38.74491,
+    "gn:longitude":48.86139,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sutamurdob",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sutamurdo",
+        "S\u00fct\u0259murdov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668697,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147103,
+        "wk:page":"S%C3%BCt%C9%99murdov"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3ba501e03af5f75acf5330b7997dca58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243515541,
+            "macroregion_id":1108808625,
+            "region_id":85668697
+        }
+    ],
+    "wof:id":1243515541,
+    "wof:lastmodified":1537585144,
+    "wof:name":"Sutamurdob",
+    "wof:parent_id":85668697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.86139,
+    38.74491,
+    48.86139,
+    38.74491
+],
+  "geometry": {"coordinates":[48.86139,38.74491],"type":"Point"}
+}

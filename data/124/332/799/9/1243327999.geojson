@@ -1,0 +1,88 @@
+{
+  "id": 1243327999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.61261,40.43138,46.61261,40.43138",
+    "geom:latitude":40.43138,
+    "geom:longitude":46.61261,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kharkoput",
+    "gn:country_code":"AZ",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585963,
+    "gn:latitude":40.43138,
+    "gn:longitude":46.61261,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kharkoput",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xarxaput"
+    ],
+    "name:aze_x_variant":[
+        "Me\u015f\u0259li"
+    ],
+    "name:hye_x_preferred":[
+        "Kharkhap\u2019ut"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0561\u0580\u056d\u0561\u0583\u0578\u0582\u057f",
+        "\u053d\u0561\u0580\u056d\u0561\u057a\u0578\u0582\u057f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u0445\u0430\u043f\u0443\u0442"
+    ],
+    "name:und_x_variant":[
+        "Khrkhapor",
+        "Kharkhaput"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585963,
+        "wk:page":"Xarxaput"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b26133fad2976af9d424b7f32a16f3f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243327999,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1243327999,
+    "wof:lastmodified":1537585399,
+    "wof:name":"Kharkoput",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.61261,
+    40.43138,
+    46.61261,
+    40.43138
+],
+  "geometry": {"coordinates":[46.61261,40.43138],"type":"Point"}
+}

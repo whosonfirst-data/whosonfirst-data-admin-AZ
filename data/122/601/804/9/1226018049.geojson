@@ -1,0 +1,72 @@
+{
+  "id": 1226018049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.6289,39.13222,48.6289,39.13222",
+    "geom:latitude":39.13222,
+    "geom:longitude":48.6289,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kazimabad",
+    "gn:country_code":"AZ",
+    "gn:dem":-11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400278,
+    "gn:latitude":39.13222,
+    "gn:longitude":48.6289,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Kaz\u0131mabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaz\u0131mabad",
+        "Kyazymabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400278,
+        "wk:page":"Kaz%C4%B1mabad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"280d4b4dda6ca2e34cd127bc3369f46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226018049,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1226018049,
+    "wof:lastmodified":1537585302,
+    "wof:name":"Kazimabad",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.6289,
+    39.13222,
+    48.6289,
+    39.13222
+],
+  "geometry": {"coordinates":[48.6289,39.13222],"type":"Point"}
+}

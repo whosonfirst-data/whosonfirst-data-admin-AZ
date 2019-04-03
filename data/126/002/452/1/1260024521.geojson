@@ -1,0 +1,90 @@
+{
+  "id": 1260024521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.78811,39.29383,45.78811,39.29383",
+    "geom:latitude":39.29383,
+    "geom:longitude":45.78811,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"148132.0",
+    "gn:asciiname":"Arafsa",
+    "gn:country_code":"AZ",
+    "gn:dem":1607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148521,
+    "gn:latitude":39.29383,
+    "gn:longitude":45.78811,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Arafsa",
+    "gn:population":927,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_colloquial":[
+        "\u018fr\u0259fs\u0259"
+    ],
+    "name:aze_x_historical":[
+        "\u018fr\u0259fs\u0259"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fr\u0259fs\u0259"
+    ],
+    "name:eng_x_historical":[
+        "Arafsa"
+    ],
+    "name:eng_x_preferred":[
+        "Arafsa"
+    ],
+    "name:eng_x_variant":[
+        "Aravsa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668677,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148521,
+        "wk:page":"%C6%8Fr%C9%99fs%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fe6f1a58329c2d218968a6dfa7fc6364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260024521,
+            "macroregion_id":1108808617,
+            "region_id":85668677
+        }
+    ],
+    "wof:id":1260024521,
+    "wof:lastmodified":1537585278,
+    "wof:name":"Arafsa",
+    "wof:parent_id":85668677,
+    "wof:placetype":"locality",
+    "wof:population":927,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.78811,
+    39.29383,
+    45.78811,
+    39.29383
+],
+  "geometry": {"coordinates":[45.78811,39.29383],"type":"Point"}
+}

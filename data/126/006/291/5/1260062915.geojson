@@ -1,0 +1,78 @@
+{
+  "id": 1260062915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.25174,39.20895,48.25174,39.20895",
+    "geom:latitude":39.20895,
+    "geom:longitude":48.25174,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kargulu",
+    "gn:country_code":"AZ",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147878,
+    "gn:latitude":39.20895,
+    "gn:longitude":48.25174,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Kargulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qar\u011f\u0131l\u0131"
+    ],
+    "name:aze_x_variant":[
+        "Qarqulu"
+    ],
+    "name:und_x_variant":[
+        "Karguli",
+        "Kargulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147878,
+        "wk:page":"Qar%C4%9F%C4%B1l%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"010dab545847dad780f67b8e8fc3d73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260062915,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1260062915,
+    "wof:lastmodified":1537585217,
+    "wof:name":"Kargulu",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.25174000000001,
+    39.20895,
+    48.25174000000001,
+    39.20895
+],
+  "geometry": {"coordinates":[48.25174000000001,39.20895],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209856317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.97166,38.9871,45.97166,38.9871",
+    "geom:latitude":38.9871,
+    "geom:longitude":45.97166,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147365.0",
+    "gn:asciiname":"Dirnis",
+    "gn:country_code":"AZ",
+    "gn:dem":1397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148173,
+    "gn:latitude":38.9871,
+    "gn:longitude":45.97166,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"D\u0131rn\u0131s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dyrnys",
+        "D\u0131rn\u0131s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668665,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148173,
+        "wk:page":"D%C4%B1rn%C4%B1s"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f00d62a40e53436c0f4c136061db9088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209856317,
+            "macroregion_id":1108808617,
+            "region_id":85668665
+        }
+    ],
+    "wof:id":1209856317,
+    "wof:lastmodified":1537585246,
+    "wof:name":"Dirnis",
+    "wof:parent_id":85668665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.97166,
+    38.9871,
+    45.97166,
+    38.9871
+],
+  "geometry": {"coordinates":[45.97166,38.9871],"type":"Point"}
+}

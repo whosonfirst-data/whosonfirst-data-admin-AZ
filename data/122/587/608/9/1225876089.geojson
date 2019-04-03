@@ -1,0 +1,78 @@
+{
+  "id": 1225876089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.57349,40.48859,47.57349,40.48859",
+    "geom:latitude":40.48859,
+    "geom:longitude":47.57349,
+    "gn:admin1_code":"59",
+    "gn:asciiname":"Qaradagli",
+    "gn:country_code":"AZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586214,
+    "gn:latitude":40.48859,
+    "gn:longitude":47.57349,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Qarada\u011fl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qarada\u011fl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0434\u0430\u0433\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Karadagly",
+        "Karadaglidjenam",
+        "Qarada\u011fl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668475,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586214
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"560f1e107e0ffb823271eb82ac06e869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225876089,
+            "macroregion_id":1108808627,
+            "region_id":85668475
+        }
+    ],
+    "wof:id":1225876089,
+    "wof:lastmodified":1537585418,
+    "wof:name":"Qaradagli",
+    "wof:parent_id":85668475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.57349,
+    40.48859,
+    47.57349,
+    40.48859
+],
+  "geometry": {"coordinates":[47.57349,40.48859],"type":"Point"}
+}

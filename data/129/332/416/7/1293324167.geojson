@@ -1,0 +1,78 @@
+{
+  "id": 1293324167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.42042,38.90653,48.42042,38.90653",
+    "geom:latitude":38.90653,
+    "geom:longitude":48.42042,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Burug",
+    "gn:country_code":"AZ",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148302,
+    "gn:latitude":38.90653,
+    "gn:longitude":48.42042,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Buru\u011f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Buru\u011f"
+    ],
+    "name:aze_x_variant":[
+        "Buruq"
+    ],
+    "name:und_x_variant":[
+        "Burukh",
+        "Burug",
+        "Bur\u011fu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668403,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148302
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3a2503eb51e58ca479ed35c53b204183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293324167,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":1293324167,
+    "wof:lastmodified":1537585260,
+    "wof:name":"Burug",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.42042,
+    38.90653,
+    48.42042,
+    38.90653
+],
+  "geometry": {"coordinates":[48.42042,38.90653],"type":"Point"}
+}

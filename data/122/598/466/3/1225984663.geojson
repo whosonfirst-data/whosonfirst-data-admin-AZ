@@ -1,0 +1,81 @@
+{
+  "id": 1225984663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.17801,39.00391,49.17801,39.00391",
+    "geom:latitude":39.00391,
+    "geom:longitude":49.17801,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Kurdili",
+    "gn:country_code":"AZ",
+    "gn:dem":-28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146880,
+    "gn:latitude":39.00391,
+    "gn:longitude":49.17801,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"K\u00fcrdili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015eirvanl\u0131"
+    ],
+    "name:aze_x_variant":[
+        "Jarski",
+        "K\u00fcrdili"
+    ],
+    "name:und_x_variant":[
+        "Zharovskiye",
+        "Zharskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85668409,
+        102191569,
+        85632717,
+        1108808627,
+        1092001695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146880,
+        "wk:page":"Zharskiy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dad28f94f53b23d605b4cbd1aa1bd211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "county_id":1092001695,
+            "locality_id":1225984663,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1225984663,
+    "wof:lastmodified":1537585123,
+    "wof:name":"Kurdili",
+    "wof:parent_id":1092001695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.17801,
+    39.00391,
+    49.17801,
+    39.00391
+],
+  "geometry": {"coordinates":[49.17801,39.00391],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343840779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.4279,39.11176,48.4279,39.11176",
+    "geom:latitude":39.11176,
+    "geom:longitude":48.4279,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Dariliq",
+    "gn:country_code":"AZ",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148236,
+    "gn:latitude":39.11176,
+    "gn:longitude":48.4279,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Dar\u0131l\u0131q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Dar\u0131l\u0131q"
+    ],
+    "name:und_x_variant":[
+        "Darylykh",
+        "Darylyk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148236,
+        "wk:page":"Dar%C4%B1l%C4%B1q"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d6313c52c3a2a79868e7031e0f4f8ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343840779,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1343840779,
+    "wof:lastmodified":1537585253,
+    "wof:name":"Dariliq",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.4279,
+    39.11176,
+    48.4279,
+    39.11176
+],
+  "geometry": {"coordinates":[48.4279,39.11176],"type":"Point"}
+}

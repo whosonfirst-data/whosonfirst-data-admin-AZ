@@ -1,0 +1,70 @@
+{
+  "id": 1193171109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.19458,40.981,47.19458,40.981",
+    "geom:latitude":40.981,
+    "geom:longitude":47.19458,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Tepe Dzhannetli",
+    "gn:country_code":"AZ",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8716529,
+    "gn:latitude":40.981,
+    "gn:longitude":47.19458,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"Tepe Dzhannetli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "T\u0259p\u0259c\u0259nn\u0259t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8716529
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"151fbf42302389ee9794c45584813d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193171109,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1193171109,
+    "wof:lastmodified":1537585541,
+    "wof:name":"Tepe Dzhannetli",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.19458,
+    40.981,
+    47.19458,
+    40.981
+],
+  "geometry": {"coordinates":[47.19458,40.981],"type":"Point"}
+}

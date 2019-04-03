@@ -1,0 +1,71 @@
+{
+  "id": 1243101127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.34619,38.97462,48.34619,38.97462",
+    "geom:latitude":38.97462,
+    "geom:longitude":48.34619,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Arsilya",
+    "gn:country_code":"AZ",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148501,
+    "gn:latitude":38.97462,
+    "gn:longitude":48.34619,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Arsilya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u018frsil\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668497,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148501,
+        "wk:page":"%C6%8Frsil%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"095d648977ae24f587a95aee8113f059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243101127,
+            "macroregion_id":1108808625,
+            "region_id":85668497
+        }
+    ],
+    "wof:id":1243101127,
+    "wof:lastmodified":1537585276,
+    "wof:name":"Arsilya",
+    "wof:parent_id":85668497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.34619,
+    38.97462,
+    48.34619,
+    38.97462
+],
+  "geometry": {"coordinates":[48.34619,38.97462],"type":"Point"}
+}

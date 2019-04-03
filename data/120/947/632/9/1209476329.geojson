@@ -1,0 +1,62 @@
+{
+  "id": 1209476329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.49139,39.82722,46.49139,39.82722",
+    "geom:latitude":39.82722,
+    "geom:longitude":46.49139,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Chalagan-Gyuney",
+    "gn:country_code":"AZ",
+    "gn:dem":1891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389354,
+    "gn:latitude":39.82722,
+    "gn:longitude":46.49139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chalagan-Gyuney",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389354,
+        "wk:page":"Chalagan-Gyuney"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9d27d70b3a2207c1e7f617f3f3d8e40c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209476329
+        }
+    ],
+    "wof:id":1209476329,
+    "wof:lastmodified":1537486575,
+    "wof:name":"Chalagan-Gyuney",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.49139,
+    39.82722,
+    46.49139,
+    39.82722
+],
+  "geometry": {"coordinates":[46.49139,39.82722],"type":"Point"}
+}

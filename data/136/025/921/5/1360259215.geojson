@@ -1,0 +1,84 @@
+{
+  "id": 1360259215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.72528,40.58281,46.72528,40.58281",
+    "geom:latitude":40.58281,
+    "geom:longitude":46.72528,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Veyisli",
+    "gn:country_code":"AZ",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586862,
+    "gn:latitude":40.58281,
+    "gn:longitude":46.72528,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Veyisli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Veyisli"
+    ],
+    "name:aze_x_variant":[
+        "\u00c7elaberti"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c7alaberti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043b\u0430\u0431\u0435\u0440\u0442\u0438"
+    ],
+    "name:und_x_variant":[
+        "Chelaberti",
+        "\u00c7alaberti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586862,
+        "wk:page":"Veyisli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8933fd15c3f5f3df0b0d1de4f9010ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360259215,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1360259215,
+    "wof:lastmodified":1537585464,
+    "wof:name":"Veyisli",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.72528,
+    40.58281,
+    46.72528,
+    40.58281
+],
+  "geometry": {"coordinates":[46.72528,40.58281],"type":"Point"}
+}

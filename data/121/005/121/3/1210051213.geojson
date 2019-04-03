@@ -1,0 +1,70 @@
+{
+  "id": 1210051213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5602,41.24012,48.5602,41.24012",
+    "geom:latitude":41.24012,
+    "geom:longitude":48.5602,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Medzhgekhadzha",
+    "gn:country_code":"AZ",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9887810,
+    "gn:latitude":41.24012,
+    "gn:longitude":48.5602,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Medzhgekhadzha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Me\u00e7k\u0259xac\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9887810
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3202b2429b12d60628fd00d685f73b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1210051213,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1210051213,
+    "wof:lastmodified":1537585542,
+    "wof:name":"Medzhgekhadzha",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5602,
+    41.24012000000001,
+    48.5602,
+    41.24012000000001
+],
+  "geometry": {"coordinates":[48.5602,41.24012000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209371035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.05938,40.12607,49.05938,40.12607",
+    "geom:latitude":40.12607,
+    "geom:longitude":49.05938,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Qubalibalaoglan",
+    "gn:country_code":"AZ",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585787,
+    "gn:latitude":40.12607,
+    "gn:longitude":49.05938,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Qubal\u0131balao\u011flan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qubal\u0131balao\u011flan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0431\u0430\u043b\u044b\u0431\u0430\u043b\u0430\u043e\u0433\u043b\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Kubaly",
+        "Kubah",
+        "Kubalybalaoglan",
+        "Kubali-Bala-Oglan",
+        "Qubal\u0131balao\u011flan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585787,
+        "wk:page":"Qubal%C4%B1balao%C4%9Flan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"07feb3aae9e4483b68c6abf734c93b46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209371035
+        }
+    ],
+    "wof:id":1209371035,
+    "wof:lastmodified":1537585388,
+    "wof:name":"Qubalibalaoglan",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.05938,
+    40.12607,
+    49.05938,
+    40.12607
+],
+  "geometry": {"coordinates":[49.05938,40.12607],"type":"Point"}
+}

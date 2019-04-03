@@ -1,0 +1,89 @@
+{
+  "id": 1293914317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.73459,39.89275,46.73459,39.89275",
+    "geom:latitude":39.89275,
+    "geom:longitude":46.73459,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Mekhtishen",
+    "gn:country_code":"AZ",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147532,
+    "gn:latitude":39.89275,
+    "gn:longitude":46.73459,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Mekhtishen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mehdib\u0259yli"
+    ],
+    "name:hye_x_preferred":[
+        "Lusadzor"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0565\u056d\u056f\u056b\u0577\u0565\u0576",
+        "\u053c\u0578\u0582\u057d\u0561\u0571\u0578\u0580",
+        "Mekhkishen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0445\u0434\u0438\u0448\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Mehtishen",
+        "Mekhdishen",
+        "Mehdi\u015fen",
+        "Mekhtishen",
+        "\u041c\u0435\u0445\u0434\u0438\u0448\u0435\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147532,
+        "wk:page":"Mehdib%C9%99yli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a7ae2eabd55606be12aaeaf78502b5c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293914317,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1293914317,
+    "wof:lastmodified":1537585184,
+    "wof:name":"Mekhtishen",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.73459,
+    39.89275,
+    46.73459,
+    39.89275
+],
+  "geometry": {"coordinates":[46.73459,39.89275],"type":"Point"}
+}

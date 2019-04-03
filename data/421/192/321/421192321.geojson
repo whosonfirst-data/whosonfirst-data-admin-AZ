@@ -1,0 +1,93 @@
+{
+  "id": 421192321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.39472,40.70972,47.39472,40.70972",
+    "geom:latitude":40.70972,
+    "geom:longitude":47.39472,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "\u015e\u0259ki"
+    ],
+    "name:bel_x_variant":[
+        "\u0428\u044d\u043a\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u043a\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eeki"
+    ],
+    "name:unk_x_variant":[
+        "Shekili"
+    ],
+    "qs:gn_country":"AZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":585032,
+    "qs:gn_pop":0,
+    "qs:name":"Sheki",
+    "qs:name_adm0":"Azerbaijan",
+    "qs:name_adm1":"Saki",
+    "qs:photos":504,
+    "qs:photos_1k":102,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":504,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168207,
+    "qs:woe_adm0":23424741,
+    "qs:woe_id":1952009,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668259,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585032,
+        "gp:id":1952009,
+        "qs:id":1168207,
+        "wd:id":"Q4522513"
+    },
+    "wof:country":"AZ",
+    "wof:created":1459009733,
+    "wof:geomhash":"5b7734c025d5195ae4c2a0e96b375aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":421192321,
+            "macroregion_id":1108808627,
+            "region_id":85668259
+        }
+    ],
+    "wof:id":421192321,
+    "wof:lastmodified":1527716116,
+    "wof:name":"Sheki",
+    "wof:parent_id":85668259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.39472,
+    40.70972,
+    47.39472,
+    40.70972
+],
+  "geometry": {"coordinates":[47.39472,40.70972],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1343229321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.16156,40.23131,46.16156,40.23131",
+    "geom:latitude":40.23131,
+    "geom:longitude":46.16156,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Chapli",
+    "gn:country_code":"AZ",
+    "gn:dem":1451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586895,
+    "gn:latitude":40.23131,
+    "gn:longitude":46.16156,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Chapli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7\u0259pli"
+    ],
+    "name:hye_x_preferred":[
+        "Ch\u2019ap\u2019ni"
+    ],
+    "name:hye_x_variant":[
+        "\u0549\u0561\u0583\u0576\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043f\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Chaili",
+        "Chakhly",
+        "Chapli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586895,
+        "wk:page":"%C3%87%C9%99pli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d12685af7cd3132ef86e4a6acd65b498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343229321,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1343229321,
+    "wof:lastmodified":1537585467,
+    "wof:name":"Chapli",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.16156,
+    40.23131,
+    46.16156,
+    40.23131
+],
+  "geometry": {"coordinates":[46.16156,40.23131],"type":"Point"}
+}

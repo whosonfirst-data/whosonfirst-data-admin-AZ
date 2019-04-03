@@ -1,0 +1,71 @@
+{
+  "id": 1293462265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.14953,40.4707,46.14953,40.4707",
+    "geom:latitude":40.4707,
+    "geom:longitude":46.14953,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Akhmedly",
+    "gn:country_code":"AZ",
+    "gn:dem":1754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587346,
+    "gn:latitude":40.4707,
+    "gn:longitude":46.14953,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Akhmedly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akhmedli",
+        "\u018fhm\u0259dli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587346
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d0f690ece3c05961ba682a430f3818cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293462265,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1293462265,
+    "wof:lastmodified":1537585499,
+    "wof:name":"Akhmedly",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.14953,
+    40.4707,
+    46.14953,
+    40.4707
+],
+  "geometry": {"coordinates":[46.14953,40.4707],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890433399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.07722,40.49472,46.07722,40.49472",
+    "geom:latitude":40.49472,
+    "geom:longitude":46.07722,
+    "gn:country":"AZ",
+    "gn:fcode":"PPLA",
+    "gn:pop":9900,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Da\u015fk\u01dds\u01ddn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0448\u043a\u0435\u0441\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Verkhniy Dashkesan"
+    ],
+    "qs:name":"Yukhary-Dashkesan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586765,
+        "gp:id":1948502,
+        "qs:id":125855
+    },
+    "wof:country":"AZ",
+    "wof:created":1469051979,
+    "wof:geomhash":"364d5dffda3414a2c1f0f7d2d68d52c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":890433399,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":890433399,
+    "wof:lastmodified":1505343535,
+    "wof:name":"Yukhary-Dashkesan",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:population":9900,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.07722,
+    40.49472,
+    46.07722,
+    40.49472
+],
+  "geometry": {"coordinates":[46.07722,40.49472],"type":"Point"}
+}

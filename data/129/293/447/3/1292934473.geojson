@@ -1,0 +1,85 @@
+{
+  "id": 1292934473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.94458,39.81242,46.94458,39.81242",
+    "geom:latitude":39.81242,
+    "geom:longitude":46.94458,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Paravatumb",
+    "gn:country_code":"AZ",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147345,
+    "gn:latitude":39.81242,
+    "gn:longitude":46.94458,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Paravatumb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qar\u0131t\u0259p\u0259"
+    ],
+    "name:hye_x_preferred":[
+        "Parravat\u2019umb"
+    ],
+    "name:hye_x_variant":[
+        "\u054a\u0561\u057c\u0561\u057e\u0561\u0569\u0578\u0582\u0574\u0562"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0432\u0430\u0442\u0443\u043c\u0431"
+    ],
+    "name:und_x_variant":[
+        "Barabatyn",
+        "Paravatoumb",
+        "Paravatumb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147345,
+        "wk:page":"Paravatumb"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"32fee0a81b305dfd47f683a0f1a5f377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1292934473,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1292934473,
+    "wof:lastmodified":1537585166,
+    "wof:name":"Paravatumb",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.94458,
+    39.81242,
+    46.94458,
+    39.81242
+],
+  "geometry": {"coordinates":[46.94458,39.81242],"type":"Point"}
+}

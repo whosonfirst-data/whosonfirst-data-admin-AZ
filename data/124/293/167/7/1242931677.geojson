@@ -1,0 +1,72 @@
+{
+  "id": 1242931677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.75633,40.03231,48.75633,40.03231",
+    "geom:latitude":40.03231,
+    "geom:longitude":48.75633,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Birinci Meyniman",
+    "gn:country_code":"AZ",
+    "gn:dem":-17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585522,
+    "gn:latitude":40.03231,
+    "gn:longitude":48.75633,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Birinci Meyniman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meyniman Pervoye",
+        "Birinci Meyniman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668293,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585522,
+        "wk:page":"Birinci_Meyniman"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"425e61875b6b6c03876ae27473585379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242931677,
+            "macroregion_id":1108808627,
+            "region_id":85668293
+        }
+    ],
+    "wof:id":1242931677,
+    "wof:lastmodified":1537585370,
+    "wof:name":"Birinci Meyniman",
+    "wof:parent_id":85668293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.75633,
+    40.03231,
+    48.75633,
+    40.03231
+],
+  "geometry": {"coordinates":[48.75633,40.03231],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310690411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.34167,41.69311,46.34167,41.69311",
+    "geom:latitude":41.69311,
+    "geom:longitude":46.34167,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bedagar",
+    "gn:country_code":"AZ",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8669273,
+    "gn:latitude":41.69311,
+    "gn:longitude":46.34167,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Beda\u011far",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Beda\u011far"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8669273,
+        "wk:page":"Beda%C4%9Far"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1c8f4d0182bc2334a1d15876aa5f77a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310690411,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1310690411,
+    "wof:lastmodified":1537585540,
+    "wof:name":"Bedagar",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.34167,
+    41.69311,
+    46.34167,
+    41.69311
+],
+  "geometry": {"coordinates":[46.34167,41.69311],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293440523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.73597,38.79403,48.73597,38.79403",
+    "geom:latitude":38.79403,
+    "geom:longitude":48.73597,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Istisu",
+    "gn:country_code":"AZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147731,
+    "gn:latitude":38.79403,
+    "gn:longitude":48.73597,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"\u0130stisu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130stisu"
+    ],
+    "name:und_x_variant":[
+        "Khibinogorsk",
+        "Kirovsk",
+        "Kirov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147731
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3afdee58508d81540500cec0f67a7f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293440523,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1293440523,
+    "wof:lastmodified":1537585202,
+    "wof:name":"Istisu",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.73597,
+    38.79403,
+    48.73597,
+    38.79403
+],
+  "geometry": {"coordinates":[48.73597,38.79403],"type":"Point"}
+}

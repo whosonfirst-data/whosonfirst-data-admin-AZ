@@ -1,0 +1,72 @@
+{
+  "id": 1293132647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.51667,41.06667,45.51667,41.06667",
+    "geom:latitude":41.06667,
+    "geom:longitude":45.51667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Alekseyevka",
+    "gn:country_code":"AZ",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587323,
+    "gn:latitude":41.06667,
+    "gn:longitude":45.51667,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Alekseyevka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alexeevka Selo",
+        "Alekseyevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668195,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587323,
+        "wk:page":"Alekseyevka%2C_Agstafa"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"754aebd0b266a2dae68c75c57b422e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293132647,
+            "macroregion_id":1108808609,
+            "region_id":85668195
+        }
+    ],
+    "wof:id":1293132647,
+    "wof:lastmodified":1537585497,
+    "wof:name":"Alekseyevka",
+    "wof:parent_id":85668195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.51667,
+    41.06667,
+    45.51667,
+    41.06667
+],
+  "geometry": {"coordinates":[45.51667,41.06667],"type":"Point"}
+}

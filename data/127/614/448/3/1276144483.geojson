@@ -1,0 +1,80 @@
+{
+  "id": 1276144483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.25948,40.51874,48.25948,40.51874",
+    "geom:latitude":40.51874,
+    "geom:longitude":48.25948,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Novdzhu",
+    "gn:country_code":"AZ",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585352,
+    "gn:latitude":40.51874,
+    "gn:longitude":48.25948,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Novdzhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "N\u00f6vc\u00fc"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0432\u0434\u0436\u0443"
+    ],
+    "name:rus_x_variant":[
+        "N\u00ebvdzhu"
+    ],
+    "name:und_x_variant":[
+        "N\u00f6vc\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585352,
+        "wk:page":"N%C3%B6vc%C3%BC"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"219b138330a7255b3178ece01b5208a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276144483,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1276144483,
+    "wof:lastmodified":1537585359,
+    "wof:name":"Novdzhu",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.25948,
+    40.51874,
+    48.25948,
+    40.51874
+],
+  "geometry": {"coordinates":[48.25948,40.51874],"type":"Point"}
+}

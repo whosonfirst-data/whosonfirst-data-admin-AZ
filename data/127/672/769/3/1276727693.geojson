@@ -1,0 +1,75 @@
+{
+  "id": 1276727693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.89808,40.64558,45.89808,40.64558",
+    "geom:latitude":40.64558,
+    "geom:longitude":45.89808,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Novogorelovka",
+    "gn:country_code":"AZ",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585349,
+    "gn:latitude":40.64558,
+    "gn:longitude":45.89808,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Novogorelovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018frt\u0259p\u0259"
+    ],
+    "name:und_x_variant":[
+        "Novaya Gorelovka",
+        "Novoqorelovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585349,
+        "wk:page":"%C6%8Frt%C9%99p%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f29cbbc35e309c037e9312749ed4a06e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276727693,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1276727693,
+    "wof:lastmodified":1537585358,
+    "wof:name":"Novogorelovka",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.89808,
+    40.64558,
+    45.89808,
+    40.64558
+],
+  "geometry": {"coordinates":[45.89808,40.64558],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193167627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.51427,40.6782,45.51427,40.6782",
+    "geom:latitude":40.6782,
+    "geom:longitude":45.51427,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Gyazabakhan",
+    "gn:country_code":"AZ",
+    "gn:dem":1663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586471,
+    "gn:latitude":40.6782,
+    "gn:longitude":45.51427,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Gyazabakhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00ebyabakhan",
+        "Gyazabakhan",
+        "G\u00f6y\u0259baxan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586471,
+        "wk:page":"G%C3%B6y%C9%99baxan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1df8b39cda78fbef417e1fed8c491fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193167627,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1193167627,
+    "wof:lastmodified":1537585436,
+    "wof:name":"Gyazabakhan",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.51427,
+    40.6782,
+    45.51427,
+    40.6782
+],
+  "geometry": {"coordinates":[45.51427,40.6782],"type":"Point"}
+}

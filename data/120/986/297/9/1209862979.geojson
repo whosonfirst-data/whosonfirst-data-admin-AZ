@@ -1,0 +1,74 @@
+{
+  "id": 1209862979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.73709,38.86375,48.73709,38.86375",
+    "geom:latitude":38.86375,
+    "geom:longitude":48.73709,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Shaglaser",
+    "gn:country_code":"AZ",
+    "gn:dem":-16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147216,
+    "gn:latitude":38.86375,
+    "gn:longitude":48.73709,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Shaglaser",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015ea\u011flaser"
+    ],
+    "name:und_x_variant":[
+        "\u015ea\u011flas\u0259r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147216,
+        "wk:page":"%C5%9Ea%C4%9Flaser"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8f112da727410cd8c65a4f03bc2d398f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209862979,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1209862979,
+    "wof:lastmodified":1537585155,
+    "wof:name":"Shaglaser",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.73709,
+    38.86375,
+    48.73709,
+    38.86375
+],
+  "geometry": {"coordinates":[48.73709,38.86375],"type":"Point"}
+}

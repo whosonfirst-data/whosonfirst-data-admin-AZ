@@ -1,0 +1,87 @@
+{
+  "id": 1327164823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.67812,39.36185,46.67812,39.36185",
+    "geom:latitude":39.36185,
+    "geom:longitude":46.67812,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Balasoltanli",
+    "gn:country_code":"AZ",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148389,
+    "gn:latitude":39.36185,
+    "gn:longitude":46.67812,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Balasoltanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Balasoltanl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Bala-Solt\u2019anly"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0561\u056c\u0561-\u054d\u0578\u056c\u0569\u0561\u0576\u056c\u0568",
+        "Aygehovit",
+        "\u0531\u0575\u0563\u0565\u0570\u0578\u057e\u056b\u057f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0430-\u0421\u043e\u043b\u0442\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Balasalta",
+        "Bala-Soltanly",
+        "\u0411\u0430\u043b\u0430-\u0421\u043e\u043b\u0442\u0430\u043d\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148389,
+        "wk:page":"Bala_Soltanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c51475971381c9747ec94b628e7a9a25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327164823,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1327164823,
+    "wof:lastmodified":1537585267,
+    "wof:name":"Balasoltanli",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.67812,
+    39.36185,
+    46.67812,
+    39.36185
+],
+  "geometry": {"coordinates":[46.67812,39.36185],"type":"Point"}
+}

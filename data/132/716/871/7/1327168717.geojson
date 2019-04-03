@@ -1,0 +1,73 @@
+{
+  "id": 1327168717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.83044,41.53004,48.83044,41.53004",
+    "geom:latitude":41.53004,
+    "geom:longitude":48.83044,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Haciqazma",
+    "gn:country_code":"AZ",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586547,
+    "gn:latitude":41.53004,
+    "gn:longitude":48.83044,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Hac\u0131qazma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gadzhikazma",
+        "Gadzhykazma",
+        "Hac\u0131qazma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586547,
+        "wk:page":"Hac%C4%B1qazma"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b0cba6ec9b564628d5bdb24e386f5e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327168717,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1327168717,
+    "wof:lastmodified":1537585441,
+    "wof:name":"Haciqazma",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.83044,
+    41.53004,
+    48.83044,
+    41.53004
+],
+  "geometry": {"coordinates":[48.83044,41.53004],"type":"Point"}
+}

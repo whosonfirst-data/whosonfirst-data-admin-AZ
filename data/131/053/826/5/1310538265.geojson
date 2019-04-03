@@ -1,0 +1,73 @@
+{
+  "id": 1310538265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.04442,40.90294,46.04442,40.90294",
+    "geom:latitude":40.90294,
+    "geom:longitude":46.04442,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Dashbulak",
+    "gn:country_code":"AZ",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586775,
+    "gn:latitude":40.90294,
+    "gn:longitude":46.04442,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Dashbulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u0259ll\u0259r Da\u015fbulaq"
+    ],
+    "name:und_x_variant":[
+        "Da\u015fbulaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586775
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"acbfb277235f362bfe90e8a14905a49f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310538265,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1310538265,
+    "wof:lastmodified":1537585457,
+    "wof:name":"Dashbulak",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.04442,
+    40.90294,
+    46.04442,
+    40.90294
+],
+  "geometry": {"coordinates":[46.04442,40.90294],"type":"Point"}
+}

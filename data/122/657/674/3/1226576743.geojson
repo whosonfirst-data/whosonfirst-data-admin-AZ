@@ -1,0 +1,68 @@
+{
+  "id": 1226576743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.98333,40.7,46.98333,40.7",
+    "geom:latitude":40.7,
+    "geom:longitude":46.98333,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Kodzharly",
+    "gn:country_code":"AZ",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585832,
+    "gn:latitude":40.7,
+    "gn:longitude":46.98333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Kodzharly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668243,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585832,
+        "wk:page":"Kodzharly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0eaa6c6e8a72b63500ea96857771eb48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226576743,
+            "macroregion_id":1108808627,
+            "region_id":85668243
+        }
+    ],
+    "wof:id":1226576743,
+    "wof:lastmodified":1537486623,
+    "wof:name":"Kodzharly",
+    "wof:parent_id":85668243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.98333,
+    40.7,
+    46.98333,
+    40.7
+],
+  "geometry": {"coordinates":[46.98333,40.7],"type":"Point"}
+}

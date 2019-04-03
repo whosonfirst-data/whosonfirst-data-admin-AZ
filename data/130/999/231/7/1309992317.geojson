@@ -1,0 +1,72 @@
+{
+  "id": 1309992317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.56993,39.41737,48.56993,39.41737",
+    "geom:latitude":39.41737,
+    "geom:longitude":48.56993,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Nizhniy Dzhurali",
+    "gn:country_code":"AZ",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148476,
+    "gn:latitude":39.41737,
+    "gn:longitude":48.56993,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Nizhniy Dzhurali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ashagy Dzhurali",
+        "A\u015fa\u011f\u0131 C\u00fcr\u0259li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668317,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148476,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_C%C3%BCr%C9%99li_%28Ashagy_Dzhurali%29"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0bb93fcc631a57126e5526ee6852070d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309992317,
+            "macroregion_id":1108808627,
+            "region_id":85668317
+        }
+    ],
+    "wof:id":1309992317,
+    "wof:lastmodified":1537585274,
+    "wof:name":"Nizhniy Dzhurali",
+    "wof:parent_id":85668317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.56993,
+    39.41737,
+    48.56993,
+    39.41737
+],
+  "geometry": {"coordinates":[48.56993,39.41737],"type":"Point"}
+}

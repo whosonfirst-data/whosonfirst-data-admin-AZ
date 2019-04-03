@@ -1,0 +1,79 @@
+{
+  "id": 1259420023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.49311,41.45013,48.49311,41.45013",
+    "geom:latitude":41.45013,
+    "geom:longitude":48.49311,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Bala Qusar",
+    "gn:country_code":"AZ",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587069,
+    "gn:latitude":41.45013,
+    "gn:longitude":48.49311,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Bala Qusar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bala Qusar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0430 \u041a\u0443\u0441\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Bala-Kusary",
+        "Bala-Kusar",
+        "Bala Qusar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587069,
+        "wk:page":"Bala_Qusar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5b88caa0529e48b39e22bddc037a915e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259420023,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1259420023,
+    "wof:lastmodified":1537585479,
+    "wof:name":"Bala Qusar",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.49311,
+    41.45013,
+    48.49311,
+    41.45013
+],
+  "geometry": {"coordinates":[48.49311,41.45013],"type":"Point"}
+}

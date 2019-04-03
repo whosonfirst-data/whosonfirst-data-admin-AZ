@@ -1,0 +1,70 @@
+{
+  "id": 1310436551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.84032,41.51266,48.84032,41.51266",
+    "geom:latitude":41.51266,
+    "geom:longitude":48.84032,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Polevoy Stan Azizli",
+    "gn:country_code":"AZ",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587110,
+    "gn:latitude":41.51266,
+    "gn:longitude":48.84032,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Polevoy Stan Azizli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azizli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587110
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b2bd8faf6f8e62b79e4029a73a18f459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310436551,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1310436551,
+    "wof:lastmodified":1537585481,
+    "wof:name":"Polevoy Stan Azizli",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.84032,
+    41.51266,
+    48.84032,
+    41.51266
+],
+  "geometry": {"coordinates":[48.84032,41.51266],"type":"Point"}
+}

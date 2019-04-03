@@ -1,0 +1,85 @@
+{
+  "id": 1343597173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.59391,39.06806,46.59391,39.06806",
+    "geom:latitude":39.06806,
+    "geom:longitude":46.59391,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Meshadiismailly",
+    "gn:country_code":"AZ",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147522,
+    "gn:latitude":39.06806,
+    "gn:longitude":46.59391,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Meshadiismailly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259\u015f\u0259dismay\u0131ll\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Dits\u2019mayri"
+    ],
+    "name:hye_x_variant":[
+        "\u0534\u056b\u0581\u0574\u0561\u0575\u0580\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0448\u0430\u0434\u0438\u0438\u0441\u043c\u0430\u0438\u043b\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Meshadi-Ismayli",
+        "Meshadi-Ismaili",
+        "Meshadiismailly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147522,
+        "wk:page":"M%C9%99%C5%9F%C9%99dismay%C4%B1ll%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2a9bde90f3048d1d020d4371feffaf39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343597173,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1343597173,
+    "wof:lastmodified":1537585182,
+    "wof:name":"Meshadiismailly",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.59391,
+    39.06806,
+    46.59391,
+    39.06806
+],
+  "geometry": {"coordinates":[46.59391,39.06806],"type":"Point"}
+}

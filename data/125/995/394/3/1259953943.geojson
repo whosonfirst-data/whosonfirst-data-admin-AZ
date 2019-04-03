@@ -1,0 +1,68 @@
+{
+  "id": 1259953943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.60527,40.69984,46.60527,40.69984",
+    "geom:latitude":40.69984,
+    "geom:longitude":46.60527,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Muzdurlar",
+    "gn:country_code":"AZ",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585425,
+    "gn:latitude":40.69984,
+    "gn:longitude":46.60527,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Muzdurlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585425,
+        "wk:page":"Muzdurlar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7da808851bdfcaf142b90805755061e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259953943,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1259953943,
+    "wof:lastmodified":1537486610,
+    "wof:name":"Muzdurlar",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.60527,
+    40.69984,
+    46.60527,
+    40.69984
+],
+  "geometry": {"coordinates":[46.60527,40.69984],"type":"Point"}
+}

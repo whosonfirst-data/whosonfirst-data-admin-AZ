@@ -1,0 +1,80 @@
+{
+  "id": 1209381999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.61244,40.14777,46.61244,40.14777",
+    "geom:latitude":40.14777,
+    "geom:longitude":46.61244,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Heyvali",
+    "gn:country_code":"AZ",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586710,
+    "gn:latitude":40.14777,
+    "gn:longitude":46.61244,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Heyval\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Heyval\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0580\u0574\u0562\u0578\u0576"
+    ],
+    "name:hye_x_variant":[
+        "Drmbon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u043c\u0431\u043e\u043d"
+    ],
+    "name:und_x_variant":[
+        "Drumbon",
+        "Drombon",
+        "Drnbon",
+        "Drmbon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586710,
+        "wk:page":"Heyvali_%28village%29"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7dc884f3296a198e61c7eafdfb61cf51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209381999
+        }
+    ],
+    "wof:id":1209381999,
+    "wof:lastmodified":1537585453,
+    "wof:name":"Heyvali",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.61244,
+    40.14777,
+    46.61244,
+    40.14777
+],
+  "geometry": {"coordinates":[46.61244,40.14777],"type":"Point"}
+}

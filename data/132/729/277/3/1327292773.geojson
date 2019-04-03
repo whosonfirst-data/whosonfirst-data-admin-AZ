@@ -1,0 +1,85 @@
+{
+  "id": 1327292773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.77782,40.48819,46.77782,40.48819",
+    "geom:latitude":40.48819,
+    "geom:longitude":46.77782,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Qasalti Qaraqoyunlu",
+    "gn:country_code":"AZ",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800989,
+    "gn:latitude":40.48819,
+    "gn:longitude":46.77782,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Qa\u015falt\u0131 Qaraqoyunlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qa\u015falt\u0131 Qaraqoyunlu"
+    ],
+    "name:hye_x_preferred":[
+        "K\u2019ashyltygharakoyunlu"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0561\u0577\u0568\u056c\u057f\u0568\u0572\u0561\u0580\u0561\u056f\u0578\u0575\u0578\u0582\u0576\u056c\u0578\u0582"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0448\u0430\u043b\u0442\u044b\u043a\u0430\u0440\u0430\u043a\u043e\u044e\u043d\u043b\u0443"
+    ],
+    "name:und_x_variant":[
+        "Kashalty",
+        "Qa\u015falt\u0131",
+        "Kashaltykarakoyunlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800989,
+        "wk:page":"Qa%C5%9Falt%C4%B1_Qaraqoyunlu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"938ed7f0f7ea403e740ced0ab26a0576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327292773,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1327292773,
+    "wof:lastmodified":1537585506,
+    "wof:name":"Qasalti Qaraqoyunlu",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.77782,
+    40.48819,
+    46.77782,
+    40.48819
+],
+  "geometry": {"coordinates":[46.77782,40.48819],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310641265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.51638,39.25138,45.51638,39.25138",
+    "geom:latitude":39.25138,
+    "geom:longitude":45.51638,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"7669114.0",
+    "gn:asciiname":"Qahab",
+    "gn:country_code":"AZ",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147956,
+    "gn:latitude":39.25138,
+    "gn:longitude":45.51638,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Qahab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qahab"
+    ],
+    "name:und_x_variant":[
+        "Kakhab",
+        "Kagab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668673,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147956,
+        "wk:page":"Qahab"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b5a012b45c10526d07569b2ddd24330c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310641265,
+            "macroregion_id":1108808617,
+            "region_id":85668673
+        }
+    ],
+    "wof:id":1310641265,
+    "wof:lastmodified":1537585226,
+    "wof:name":"Qahab",
+    "wof:parent_id":85668673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.51638,
+    39.25138,
+    45.51638,
+    39.25138
+],
+  "geometry": {"coordinates":[45.51638,39.25138],"type":"Point"}
+}

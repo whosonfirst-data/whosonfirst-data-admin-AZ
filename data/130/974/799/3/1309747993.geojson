@@ -1,0 +1,84 @@
+{
+  "id": 1309747993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.70207,39.49013,46.70207,39.49013",
+    "geom:latitude":39.49013,
+    "geom:longitude":46.70207,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Hat",
+    "gn:country_code":"AZ",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147792,
+    "gn:latitude":39.49013,
+    "gn:longitude":46.70207,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Hat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hat"
+    ],
+    "name:hye_x_preferred":[
+        "Khot"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0578\u057f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0442"
+    ],
+    "name:und_x_variant":[
+        "Gat",
+        "Khat",
+        "\u0425\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147792
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6c509cc52935386b9208dcb9bb957bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309747993,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1309747993,
+    "wof:lastmodified":1537585209,
+    "wof:name":"Hat",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.70207,
+    39.49013,
+    46.70207,
+    39.49013
+],
+  "geometry": {"coordinates":[46.70207,39.49013],"type":"Point"}
+}

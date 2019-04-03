@@ -1,0 +1,81 @@
+{
+  "id": 1226584409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.53467,39.12951,45.53467,39.12951",
+    "geom:latitude":39.12951,
+    "geom:longitude":45.53467,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"7669114.0",
+    "gn:asciiname":"Kyuznut",
+    "gn:country_code":"AZ",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147638,
+    "gn:latitude":39.12951,
+    "gn:longitude":45.53467,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Kyuznut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u00fczn\u00fct"
+    ],
+    "name:tur_x_historical":[
+        "Kuznut"
+    ],
+    "name:tur_x_preferred":[
+        "Kuznut"
+    ],
+    "name:und_x_variant":[
+        "Gyuznyut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668673,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147638,
+        "wk:page":"G%C3%BCzn%C3%BCt"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"05fe4ba841a999b87ecfb8bf73da1a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226584409,
+            "macroregion_id":1108808617,
+            "region_id":85668673
+        }
+    ],
+    "wof:id":1226584409,
+    "wof:lastmodified":1537585192,
+    "wof:name":"Kyuznut",
+    "wof:parent_id":85668673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.53467,
+    39.12951,
+    45.53467,
+    39.12951
+],
+  "geometry": {"coordinates":[45.53467,39.12951],"type":"Point"}
+}

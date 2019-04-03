@@ -1,0 +1,90 @@
+{
+  "id": 1242567563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.46394,40.16991,49.46394,40.16991",
+    "geom:latitude":40.16991,
+    "geom:longitude":49.46394,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sanqacal",
+    "gn:country_code":"AZ",
+    "gn:dem":-20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585146,
+    "gn:latitude":40.16991,
+    "gn:longitude":49.46394,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Sanqa\u00e7al",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sanqa\u00e7al"
+    ],
+    "name:aze_x_variant":[
+        "Sanga\u00e7al"
+    ],
+    "name:eng_x_preferred":[
+        "S\u01ddng\u01dd\u00e7al"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0433\u0430\u0447\u0430\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Sangachal",
+        "Sangacha",
+        "Sansachaly",
+        "Sangachaly",
+        "San\u2019achali",
+        "Sangachly",
+        "S\u00e4nq\u00e4\u00e7al",
+        "S\u0259ng\u0259\u00e7al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585146,
+        "wk:page":"Sanqa%C3%A7al"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"32c2acf8aea232e043906a31ad602764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242567563,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1242567563,
+    "wof:lastmodified":1537585346,
+    "wof:name":"Sanqacal",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.46394,
+    40.16991,
+    49.46394,
+    40.16991
+],
+  "geometry": {"coordinates":[49.46394,40.16991],"type":"Point"}
+}

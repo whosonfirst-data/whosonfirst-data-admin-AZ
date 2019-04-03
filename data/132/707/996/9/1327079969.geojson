@@ -1,0 +1,74 @@
+{
+  "id": 1327079969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.65226,38.90741,48.65226,38.90741",
+    "geom:latitude":38.90741,
+    "geom:longitude":48.65226,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Kubin",
+    "gn:country_code":"AZ",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388705,
+    "gn:latitude":38.90741,
+    "gn:longitude":48.65226,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Kubin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kubin"
+    ],
+    "name:und_x_variant":[
+        "Yusublyukend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388705,
+        "wk:page":"Kubin"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8c10c9c14f746491678e8befc02d8359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327079969,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1327079969,
+    "wof:lastmodified":1537585290,
+    "wof:name":"Kubin",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.65226,
+    38.90741,
+    48.65226,
+    38.90741
+],
+  "geometry": {"coordinates":[48.65226,38.90741],"type":"Point"}
+}

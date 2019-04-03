@@ -1,0 +1,70 @@
+{
+  "id": 1293550485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.86428,38.70032,48.86428,38.70032",
+    "geom:latitude":38.70032,
+    "geom:longitude":48.86428,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Kenaramesha",
+    "gn:country_code":"AZ",
+    "gn:dem":-17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388729,
+    "gn:latitude":38.70032,
+    "gn:longitude":48.86428,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kenaramesha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0259nar\u0259me\u015f\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388729
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e4942a7779bb6709f879f969a06a67aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293550485,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1293550485,
+    "wof:lastmodified":1537585291,
+    "wof:name":"Kenaramesha",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.86428,
+    38.70032,
+    48.86428,
+    38.70032
+],
+  "geometry": {"coordinates":[48.86428,38.70032],"type":"Point"}
+}

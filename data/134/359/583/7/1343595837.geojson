@@ -1,0 +1,72 @@
+{
+  "id": 1343595837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.66889,40.95417,45.66889,40.95417",
+    "geom:latitude":40.95417,
+    "geom:longitude":45.66889,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Odzhakhly",
+    "gn:country_code":"AZ",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585335,
+    "gn:latitude":40.95417,
+    "gn:longitude":45.66889,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Odzhakhly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oazhakly",
+        "Odzhakhly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585335,
+        "wk:page":"Odzhakhly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7623cbd2a55405f7645e6f8f0a0e161f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343595837,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1343595837,
+    "wof:lastmodified":1537585357,
+    "wof:name":"Odzhakhly",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.66889000000001,
+    40.95417,
+    45.66889000000001,
+    40.95417
+],
+  "geometry": {"coordinates":[45.66889000000001,40.95417],"type":"Point"}
+}

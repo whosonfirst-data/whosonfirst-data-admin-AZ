@@ -1,0 +1,71 @@
+{
+  "id": 1309941011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.31159,40.63155,46.31159,40.63155",
+    "geom:latitude":40.63155,
+    "geom:longitude":46.31159,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Uchtepe",
+    "gn:country_code":"AZ",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584788,
+    "gn:latitude":40.63155,
+    "gn:longitude":46.31159,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Uchtepe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00dc\u00e7t\u0259p\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584788,
+        "wk:page":"%C3%9C%C3%A7t%C9%99p%C9%99%2C_Goygol"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"92f5734cd491bcca5d2cc0f6d7d1663f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309941011,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1309941011,
+    "wof:lastmodified":1537585322,
+    "wof:name":"Uchtepe",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.31159,
+    40.63155,
+    46.31159,
+    40.63155
+],
+  "geometry": {"coordinates":[46.31159,40.63155],"type":"Point"}
+}

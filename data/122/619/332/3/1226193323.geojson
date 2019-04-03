@@ -1,0 +1,85 @@
+{
+  "id": 1226193323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.62045,39.55949,46.62045,39.55949",
+    "geom:latitude":39.55949,
+    "geom:longitude":46.62045,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Baldirganli",
+    "gn:country_code":"AZ",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148385,
+    "gn:latitude":39.55949,
+    "gn:longitude":46.62045,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Bald\u0131r\u011fanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bald\u0131r\u011fanl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Baldyrhanly"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0561\u056c\u0564\u0568\u0580\u0570\u0561\u0576\u056c\u0568"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0434\u044b\u0440\u0433\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Baldyrganly",
+        "Baldyrkanly",
+        "\u0411\u0430\u043b\u0434\u044b\u0440\u0433\u0430\u043d\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148385,
+        "wk:page":"Bald%C4%B1r%C4%9Fanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a29c35b9c33126041089b1d7af134d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226193323,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1226193323,
+    "wof:lastmodified":1537585267,
+    "wof:name":"Baldirganli",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.62045,
+    39.55949,
+    46.62045,
+    39.55949
+],
+  "geometry": {"coordinates":[46.62045,39.55949],"type":"Point"}
+}

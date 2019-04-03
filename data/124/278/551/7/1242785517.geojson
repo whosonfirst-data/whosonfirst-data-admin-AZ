@@ -1,0 +1,88 @@
+{
+  "id": 1242785517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.96119,40.23479,46.96119,40.23479",
+    "geom:latitude":40.23479,
+    "geom:longitude":46.96119,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sotlanli",
+    "gn:country_code":"AZ",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584998,
+    "gn:latitude":40.23479,
+    "gn:longitude":46.96119,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"\u015eotlanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sotlanl\u0131"
+    ],
+    "name:aze_x_variant":[
+        "\u015eotlanl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Shot\u2019lanly"
+    ],
+    "name:hye_x_variant":[
+        "\u0547\u0578\u0569\u056c\u0561\u0576\u056c\u0568",
+        "Shot\u2019lan",
+        "\u0547\u0578\u0569\u056c\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u0442\u043b\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Shotlanly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584998,
+        "wk:page":"%C5%9Eotlanl%C4%B1%2C_Agdam"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6548a09b4c17270b5f1ff388bee4699a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242785517,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1242785517,
+    "wof:lastmodified":1537585336,
+    "wof:name":"Sotlanli",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.96119,
+    40.23479,
+    46.96119,
+    40.23479
+],
+  "geometry": {"coordinates":[46.96119,40.23479],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209334607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.86935,38.55758,48.86935,38.55758",
+    "geom:latitude":38.55758,
+    "geom:longitude":48.86935,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Shykharkhi",
+    "gn:country_code":"AZ",
+    "gn:dem":-22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147156,
+    "gn:latitude":38.55758,
+    "gn:longitude":48.86935,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Shykharkhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015eiy\u0259k\u0259ran"
+    ],
+    "name:und_x_variant":[
+        "Shikharkhi",
+        "Shykharkhi",
+        "\u015e\u0131xarx\u0131",
+        "Shiyakeran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147156,
+        "wk:page":"%C5%9E%C4%B1xarx%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d42165b945054cf0dd44c180a6ee56ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209334607
+        }
+    ],
+    "wof:id":1209334607,
+    "wof:lastmodified":1537585149,
+    "wof:name":"Shykharkhi",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.86935,
+    38.55758,
+    48.86935,
+    38.55758
+],
+  "geometry": {"coordinates":[48.86935,38.55758],"type":"Point"}
+}

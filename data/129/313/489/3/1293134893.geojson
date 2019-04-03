@@ -1,0 +1,85 @@
+{
+  "id": 1293134893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.04115,39.76568,47.04115,39.76568",
+    "geom:latitude":39.76568,
+    "geom:longitude":47.04115,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Xanoba",
+    "gn:country_code":"AZ",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147778,
+    "gn:latitude":39.76568,
+    "gn:longitude":47.04115,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Xanoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xanoba"
+    ],
+    "name:aze_x_variant":[
+        "Xnu\u015finak"
+    ],
+    "name:hye_x_preferred":[
+        "Hnushinak"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0576\u0578\u0582\u0577\u056b\u0576\u0561\u056f",
+        "\u053d\u0576\u0578\u0582\u0577\u056b\u0576\u0561\u056f"
+    ],
+    "name:und_x_variant":[
+        "Khnoushinak",
+        "Khnushinak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147778,
+        "wk:page":"Khnushinak"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"242a1648af7f4390ebd7e0f4cf578140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293134893,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1293134893,
+    "wof:lastmodified":1537585206,
+    "wof:name":"Xanoba",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.04115,
+    39.76568,
+    47.04115,
+    39.76568
+],
+  "geometry": {"coordinates":[47.04115,39.76568],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1326912375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.11652,40.54454,46.11652,40.54454",
+    "geom:latitude":40.54454,
+    "geom:longitude":46.11652,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kushchinskiy Most",
+    "gn:country_code":"AZ",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585747,
+    "gn:latitude":40.54454,
+    "gn:longitude":46.11652,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Kushchinskiy Most",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qu\u015f\u00e7u K\u00f6rp\u00fcs\u00fc"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0448\u0447\u0438\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kushchinskiy",
+        "Kushchinskiy Most",
+        "Qu\u015f\u00e7u K\u00f6rp\u00fcs\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585747,
+        "wk:page":"Qu%C5%9F%C3%A7u_K%C3%B6rp%C3%BCs%C3%BC"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1b660e7f7e6a05214b80d30b39720487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326912375,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1326912375,
+    "wof:lastmodified":1537585386,
+    "wof:name":"Kushchinskiy Most",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.11652,
+    40.54454000000001,
+    46.11652,
+    40.54454000000001
+],
+  "geometry": {"coordinates":[46.11652,40.54454000000001],"type":"Point"}
+}

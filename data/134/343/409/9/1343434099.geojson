@@ -1,0 +1,72 @@
+{
+  "id": 1343434099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.23475,39.27134,48.23475,39.27134",
+    "geom:latitude":39.27134,
+    "geom:longitude":48.23475,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Razvaliny Germili",
+    "gn:country_code":"AZ",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":389034,
+    "gn:latitude":39.27134,
+    "gn:longitude":48.23475,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Razvaliny Germili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Germili",
+        "Razvaliny Germili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389034,
+        "wk:page":"Germili"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"623a4e5e91e3ba9d899d8ca8ffddeb36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343434099,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1343434099,
+    "wof:lastmodified":1537585292,
+    "wof:name":"Razvaliny Germili",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.23475,
+    39.27134,
+    48.23475,
+    39.27134
+],
+  "geometry": {"coordinates":[48.23475,39.27134],"type":"Point"}
+}

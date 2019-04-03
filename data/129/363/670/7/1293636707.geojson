@@ -1,0 +1,84 @@
+{
+  "id": 1293636707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.32213,39.8499,46.32213,39.8499",
+    "geom:latitude":39.8499,
+    "geom:longitude":46.32213,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Kaha",
+    "gn:country_code":"AZ",
+    "gn:dem":1722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147677,
+    "gn:latitude":39.8499,
+    "gn:longitude":46.32213,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Kaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kaha"
+    ],
+    "name:hye_x_preferred":[
+        "Gah"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0561\u0570"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044f\u0445\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kyakha",
+        "\u041a\u044f\u0445\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147677,
+        "wk:page":"Kaha%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"40f5a5f84bd2d80f7bc1f3d469fb9b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293636707,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1293636707,
+    "wof:lastmodified":1537585197,
+    "wof:name":"Kaha",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.32213,
+    39.8499,
+    46.32213,
+    39.8499
+],
+  "geometry": {"coordinates":[46.32213,39.8499],"type":"Point"}
+}

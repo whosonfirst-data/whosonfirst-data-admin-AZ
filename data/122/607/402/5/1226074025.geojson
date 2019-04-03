@@ -1,0 +1,72 @@
+{
+  "id": 1226074025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3937,38.87378,48.3937,38.87378",
+    "geom:latitude":38.87378,
+    "geom:longitude":48.3937,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Kirabin",
+    "gn:country_code":"AZ",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":147738,
+    "gn:latitude":38.87378,
+    "gn:longitude":48.3937,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Kirabin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Kiryabin",
+        "Kirabin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668403,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147738,
+        "wk:page":"Kirabin"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6fdc3aeaee6eab877f9e43918a6fcfd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226074025,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":1226074025,
+    "wof:lastmodified":1537585202,
+    "wof:name":"Kirabin",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3937,
+    38.87378,
+    48.3937,
+    38.87378
+],
+  "geometry": {"coordinates":[48.3937,38.87378],"type":"Point"}
+}

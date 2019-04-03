@@ -1,0 +1,78 @@
+{
+  "id": 1360042301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.16226,40.02357,46.16226,40.02357",
+    "geom:latitude":40.02357,
+    "geom:longitude":46.16226,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Oruclu",
+    "gn:country_code":"AZ",
+    "gn:dem":1850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585309,
+    "gn:latitude":40.02357,
+    "gn:longitude":46.16226,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Oruclu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Oruclu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0443\u0434\u0436\u043b\u0443"
+    ],
+    "name:und_x_variant":[
+        "Orudzhlu",
+        "Oru\u00e7lu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585309,
+        "wk:page":"Oru%C3%A7lu%2C_Kalbajar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3db116c16c6748046913782c3f1f5ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360042301,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1360042301,
+    "wof:lastmodified":1537585356,
+    "wof:name":"Oruclu",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.16226,
+    40.02357,
+    46.16226,
+    40.02357
+],
+  "geometry": {"coordinates":[46.16226,40.02357],"type":"Point"}
+}

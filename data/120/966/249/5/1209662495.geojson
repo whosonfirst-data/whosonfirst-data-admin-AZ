@@ -1,0 +1,68 @@
+{
+  "id": 1209662495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.72208,38.78997,48.72208,38.78997",
+    "geom:latitude":38.78997,
+    "geom:longitude":48.72208,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Havzova",
+    "gn:country_code":"AZ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8475116,
+    "gn:latitude":38.78997,
+    "gn:longitude":48.72208,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Havzova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Havzova"
+    ],
+    "name:und_x_variant":[
+        "Gavzova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8475116,
+        "wk:page":"Havzova"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"649b85af29b382612167a39817cb19fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209662495
+        }
+    ],
+    "wof:id":1209662495,
+    "wof:lastmodified":1537585526,
+    "wof:name":"Havzova",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.72208,
+    38.78997,
+    48.72208,
+    38.78997
+],
+  "geometry": {"coordinates":[48.72208,38.78997],"type":"Point"}
+}

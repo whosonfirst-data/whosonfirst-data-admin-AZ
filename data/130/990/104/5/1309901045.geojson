@@ -1,0 +1,79 @@
+{
+  "id": 1309901045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.23508,41.70721,46.23508,41.70721",
+    "geom:latitude":41.70721,
+    "geom:longitude":46.23508,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Qaysa",
+    "gn:country_code":"AZ",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586096,
+    "gn:latitude":41.70721,
+    "gn:longitude":46.23508,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Qaysa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qaysa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0439\u0441\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kaysa",
+        "Koysa",
+        "Qaysa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586096,
+        "wk:page":"Qaysa"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3c05c88ba7dddb82024f6e08803267d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309901045,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1309901045,
+    "wof:lastmodified":1537585409,
+    "wof:name":"Qaysa",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.23508,
+    41.70721,
+    46.23508,
+    41.70721
+],
+  "geometry": {"coordinates":[46.23508,41.70721],"type":"Point"}
+}

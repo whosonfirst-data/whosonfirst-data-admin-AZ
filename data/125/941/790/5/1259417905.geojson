@@ -1,0 +1,72 @@
+{
+  "id": 1259417905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.62178,41.14782,48.62178,41.14782",
+    "geom:latitude":41.14782,
+    "geom:longitude":48.62178,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Firiq",
+    "gn:country_code":"AZ",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586577,
+    "gn:latitude":41.14782,
+    "gn:longitude":48.62178,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"F\u0131r\u0131q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Firik",
+        "F\u0131r\u0131q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586577,
+        "wk:page":"F%C4%B1r%C4%B1q"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"72383528a97db78f651f32b1a278fbb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259417905,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1259417905,
+    "wof:lastmodified":1537585444,
+    "wof:name":"Firiq",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.62178,
+    41.14782,
+    48.62178,
+    41.14782
+],
+  "geometry": {"coordinates":[48.62178,41.14782],"type":"Point"}
+}

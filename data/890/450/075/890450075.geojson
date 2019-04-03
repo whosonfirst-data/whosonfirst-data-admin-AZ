@@ -1,0 +1,129 @@
+{
+  "id": 890450075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.58333,40.31667,50.58333,40.31667",
+    "geom:latitude":40.31667,
+    "geom:longitude":50.58333,
+    "gn:country":"AZ",
+    "gn:fcode":"PPL",
+    "gn:pop":916,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0546\u0561\u057e\u0569\u0561\u0575\u056b\u0576 \u0584\u0561\u0580\u0565\u0580"
+    ],
+    "name:aze_x_preferred":[
+        "Neft Da\u015flar\u0131"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0435\u0444\u0442-\u0414\u0430\u0448\u043b\u0430\u0440\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Neft Da\u015flar\u0131"
+    ],
+    "name:eng_x_preferred":[
+        "Neft Da\u015flar\u0131"
+    ],
+    "name:est_x_preferred":[
+        "Neft Da\u015flar\u0131"
+    ],
+    "name:fin_x_preferred":[
+        "Neft Da\u015flar\u0131"
+    ],
+    "name:fre_x_preferred":[
+        "Neft Da\u015flar\u0131"
+    ],
+    "name:ger_x_preferred":[
+        "Neft Da\u015flar\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "Neft Da\u015flar\u0131"
+    ],
+    "name:lit_x_preferred":[
+        "Neft Da\u0161laris"
+    ],
+    "name:nno_x_preferred":[
+        "Neft Da\u015flar\u0131"
+    ],
+    "name:pol_x_preferred":[
+        "Naftowe Kamienie"
+    ],
+    "name:por_x_preferred":[
+        "Oil Rocks"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0444\u0442\u044f\u043d\u044b\u0435 \u041a\u0430\u043c\u043d\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Neft Da\u015flar\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Neft Da\u015flar\u0131"
+    ],
+    "name:tur_x_preferred":[
+        "Petrol Ta\u015flar\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0444\u0442-\u0414\u0430\u0448\u043b\u0430\u0440\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Nerftekamni"
+    ],
+    "qs:name":"Neft Da\u015flar\u0131",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":953,
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585369,
+        "gp:id":1951823,
+        "qs:id":81069,
+        "wd:id":"Q1537647",
+        "wk:page":"Neft Da\u015flar\u0131"
+    },
+    "wof:country":"AZ",
+    "wof:created":1469052723,
+    "wof:geomhash":"d9f9db853f746ecacba7af4445072e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":890450075,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":890450075,
+    "wof:lastmodified":1527792964,
+    "wof:name":"Neft Da\u015flar\u0131",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:population":916,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.58333,
+    40.31667,
+    50.58333,
+    40.31667
+],
+  "geometry": {"coordinates":[50.58333,40.31667],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242826117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.48783,41.02482,47.48783,41.02482",
+    "geom:latitude":41.02482,
+    "geom:longitude":47.48783,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Qumlaq",
+    "gn:country_code":"AZ",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585772,
+    "gn:latitude":41.02482,
+    "gn:longitude":47.48783,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Qumlaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qumlaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043c\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kumlakh",
+        "Kumlak",
+        "Qumlaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668549,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585772
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"de45a237c5c891af2dbd02899a6746cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242826117,
+            "macroregion_id":1108808619,
+            "region_id":85668549
+        }
+    ],
+    "wof:id":1242826117,
+    "wof:lastmodified":1537585387,
+    "wof:name":"Qumlaq",
+    "wof:parent_id":85668549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.48783,
+    41.02482,
+    47.48783,
+    41.02482
+],
+  "geometry": {"coordinates":[47.48783,41.02482],"type":"Point"}
+}

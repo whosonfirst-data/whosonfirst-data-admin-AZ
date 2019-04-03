@@ -1,0 +1,72 @@
+{
+  "id": 1259550163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.11622,40.09456,48.11622,40.09456",
+    "geom:latitude":40.09456,
+    "geom:longitude":48.11622,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Tyurkedy",
+    "gn:country_code":"AZ",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584795,
+    "gn:latitude":40.09456,
+    "gn:longitude":48.11622,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Tyurkedy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tyurkedi",
+        "Tyurkedy",
+        "T\u00fcrk\u0259di"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668365,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584795
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f0fa7398a7bc2af479597f82fd1b77f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259550163,
+            "macroregion_id":1108808627,
+            "region_id":85668365
+        }
+    ],
+    "wof:id":1259550163,
+    "wof:lastmodified":1537585322,
+    "wof:name":"Tyurkedy",
+    "wof:parent_id":85668365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.11622,
+    40.09456,
+    48.11622,
+    40.09456
+],
+  "geometry": {"coordinates":[48.11622,40.09456],"type":"Point"}
+}

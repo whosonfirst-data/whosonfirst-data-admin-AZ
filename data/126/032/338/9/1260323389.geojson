@@ -1,0 +1,73 @@
+{
+  "id": 1260323389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.53483,38.68779,48.53483,38.68779",
+    "geom:latitude":38.68779,
+    "geom:longitude":48.53483,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Kyusa-Kyaran",
+    "gn:country_code":"AZ",
+    "gn:dem":1420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147639,
+    "gn:latitude":38.68779,
+    "gn:longitude":48.53483,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Kyusa-Kyaran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyusakeran",
+        "K\u00fcs\u0259k\u0259ran",
+        "Kyusa-Kyaran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668403,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147639,
+        "wk:page":"K%C3%BCs%C9%99k%C9%99ran"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0ca768545b8de2bd8a7a220f175e9d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260323389,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":1260323389,
+    "wof:lastmodified":1537585192,
+    "wof:name":"Kyusa-Kyaran",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.53483,
+    38.68779,
+    48.53483,
+    38.68779
+],
+  "geometry": {"coordinates":[48.53483,38.68779],"type":"Point"}
+}

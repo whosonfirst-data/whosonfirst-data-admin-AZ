@@ -1,0 +1,79 @@
+{
+  "id": 1360153349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.76817,40.03003,48.76817,40.03003",
+    "geom:latitude":40.03003,
+    "geom:longitude":48.76817,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Meyniman",
+    "gn:country_code":"AZ",
+    "gn:dem":-21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586263,
+    "gn:latitude":40.03003,
+    "gn:longitude":48.76817,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Meyniman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Meyniman"
+    ],
+    "name:eng_x_preferred":[
+        "Kalinovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kalinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668293,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586263
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"139d75d21b8c9b3e096ef23e72af6f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360153349,
+            "macroregion_id":1108808627,
+            "region_id":85668293
+        }
+    ],
+    "wof:id":1360153349,
+    "wof:lastmodified":1537585421,
+    "wof:name":"Meyniman",
+    "wof:parent_id":85668293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.76817,
+    40.03003,
+    48.76817,
+    40.03003
+],
+  "geometry": {"coordinates":[48.76817,40.03003],"type":"Point"}
+}

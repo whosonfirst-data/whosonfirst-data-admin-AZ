@@ -1,0 +1,67 @@
+{
+  "id": 1209583491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.17254,40.81628,48.17254,40.81628",
+    "geom:latitude":40.81628,
+    "geom:longitude":48.17254,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Culyan",
+    "gn:country_code":"AZ",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586628,
+    "gn:latitude":40.81628,
+    "gn:longitude":48.17254,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"C\u00fclyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhyul\u2019yan",
+        "Dzhul\u2019yan",
+        "C\u00fclyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586628,
+        "wk:page":"C%C3%BClyan_%2840%C2%B0_49%27_N_48%C2%B0_11%27_E%29"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"84ae23a55d58f43ef3837717453cfa3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209583491
+        }
+    ],
+    "wof:id":1209583491,
+    "wof:lastmodified":1537585447,
+    "wof:name":"Culyan",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.17254000000001,
+    40.81628,
+    48.17254000000001,
+    40.81628
+],
+  "geometry": {"coordinates":[48.17254000000001,40.81628],"type":"Point"}
+}

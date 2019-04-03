@@ -1,0 +1,72 @@
+{
+  "id": 1242568481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.74292,38.51557,48.74292,38.51557",
+    "geom:latitude":38.51557,
+    "geom:longitude":48.74292,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Noyabud",
+    "gn:country_code":"AZ",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147392,
+    "gn:latitude":38.51557,
+    "gn:longitude":48.74292,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Noyabud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noyabut",
+        "Noyabud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147392,
+        "wk:page":"Noyabud"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7a9cbfa5ca583ddb95326d7b7903c1da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242568481,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1242568481,
+    "wof:lastmodified":1537585169,
+    "wof:name":"Noyabud",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.74292,
+    38.51557,
+    48.74292,
+    38.51557
+],
+  "geometry": {"coordinates":[48.74292,38.51557],"type":"Point"}
+}

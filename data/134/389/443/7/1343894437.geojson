@@ -1,0 +1,73 @@
+{
+  "id": 1343894437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.33224,41.33042,48.33224,41.33042",
+    "geom:latitude":41.33042,
+    "geom:longitude":48.33224,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Girey",
+    "gn:country_code":"AZ",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586438,
+    "gn:latitude":41.33042,
+    "gn:longitude":48.33224,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Girey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gerey",
+        "Girey",
+        "G\u0259ray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586438,
+        "wk:page":"G%C9%99ray"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2ead9b4cca6b9e1214d9105785b7d52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343894437,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1343894437,
+    "wof:lastmodified":1537585434,
+    "wof:name":"Girey",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.33224000000001,
+    41.33042,
+    48.33224000000001,
+    41.33042
+],
+  "geometry": {"coordinates":[48.33224000000001,41.33042],"type":"Point"}
+}

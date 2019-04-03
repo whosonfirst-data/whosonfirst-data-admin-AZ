@@ -1,0 +1,82 @@
+{
+  "id": 1193054035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.25018,41.50458,48.25018,41.50458",
+    "geom:latitude":41.50458,
+    "geom:longitude":48.25018,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Khazry",
+    "gn:country_code":"AZ",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585950,
+    "gn:latitude":41.50458,
+    "gn:longitude":48.25018,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Khazry",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "N\u0259zr\u0259"
+    ],
+    "name:eng_x_preferred":[
+        "H\u01ddzr\u01dd"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0437\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Khazra",
+        "Khazry",
+        "H\u0259zr\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585950,
+        "wk:page":"H%C9%99zr%C9%99%2C_Qusar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7660064992081481601e6d43607e0934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193054035,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1193054035,
+    "wof:lastmodified":1537585398,
+    "wof:name":"Khazry",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.25018,
+    41.50458,
+    48.25018,
+    41.50458
+],
+  "geometry": {"coordinates":[48.25018,41.50458],"type":"Point"}
+}

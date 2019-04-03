@@ -1,0 +1,81 @@
+{
+  "id": 1242713891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.02584,39.69573,47.02584,39.69573",
+    "geom:latitude":39.69573,
+    "geom:longitude":47.02584,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Machkalashen",
+    "gn:country_code":"AZ",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147590,
+    "gn:latitude":39.69573,
+    "gn:longitude":47.02584,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Machkalashen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ma\u00e7kala\u015fen"
+    ],
+    "name:aze_x_variant":[
+        "C\u00fct\u00e7\u00fc"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0573\u056f\u0561\u056c\u0561\u0577\u0565\u0576"
+    ],
+    "name:und_x_variant":[
+        "Matchkalashen",
+        "Machkalashen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147590,
+        "wk:page":"Ma%C3%A7kala%C5%9Fen"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"86825fa9ae462f0707b1d76a2f109b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242713891,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1242713891,
+    "wof:lastmodified":1537585189,
+    "wof:name":"Machkalashen",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.02584,
+    39.69573,
+    47.02584,
+    39.69573
+],
+  "geometry": {"coordinates":[47.02584,39.69573],"type":"Point"}
+}

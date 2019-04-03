@@ -1,0 +1,78 @@
+{
+  "id": 1259728259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.39718,39.37195,45.39718,39.37195",
+    "geom:latitude":39.37195,
+    "geom:longitude":45.39718,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"7669114.0",
+    "gn:asciiname":"Gyul'shanabad",
+    "gn:country_code":"AZ",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389227,
+    "gn:latitude":39.37195,
+    "gn:longitude":45.39718,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gyul'shanabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u00fcl\u015f\u0259nabad"
+    ],
+    "name:rus_x_preferred":[
+        "Gyul\u2019shanabad"
+    ],
+    "name:und_x_variant":[
+        "Shaytanabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668673,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389227,
+        "wk:page":"G%C3%BCl%C5%9F%C9%99nabad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c6a7f05b8216f027ce26b083c992787c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259728259,
+            "macroregion_id":1108808617,
+            "region_id":85668673
+        }
+    ],
+    "wof:id":1259728259,
+    "wof:lastmodified":1537585293,
+    "wof:name":"Gyul'shanabad",
+    "wof:parent_id":85668673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.39718,
+    39.37195,
+    45.39718,
+    39.37195
+],
+  "geometry": {"coordinates":[45.39718,39.37195],"type":"Point"}
+}

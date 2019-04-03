@@ -1,0 +1,73 @@
+{
+  "id": 1260255743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.35791,39.18947,48.35791,39.18947",
+    "geom:latitude":39.18947,
+    "geom:longitude":48.35791,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Lyazran",
+    "gn:country_code":"AZ",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147607,
+    "gn:latitude":39.18947,
+    "gn:longitude":48.35791,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Lyazran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "L\u0259zran"
+    ],
+    "name:und_x_variant":[
+        "Lezran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147607
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bda734689a6185bd0dc8d7a59d66afd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260255743,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1260255743,
+    "wof:lastmodified":1537585190,
+    "wof:name":"Lyazran",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.35791,
+    39.18947,
+    48.35791,
+    39.18947
+],
+  "geometry": {"coordinates":[48.35791,39.18947],"type":"Point"}
+}

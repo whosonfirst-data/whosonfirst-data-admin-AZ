@@ -1,0 +1,71 @@
+{
+  "id": 1360085939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.56133,40.61795,47.56133,40.61795",
+    "geom:latitude":40.61795,
+    "geom:longitude":47.56133,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Shamsabad",
+    "gn:country_code":"AZ",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585055,
+    "gn:latitude":40.61795,
+    "gn:longitude":47.56133,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Shamsabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015e\u0259msabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668259,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585055,
+        "wk:page":"%C5%9E%C9%99msabad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1d90833257567cc0979d1f2e4f3f93c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360085939,
+            "macroregion_id":1108808627,
+            "region_id":85668259
+        }
+    ],
+    "wof:id":1360085939,
+    "wof:lastmodified":1537585340,
+    "wof:name":"Shamsabad",
+    "wof:parent_id":85668259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.56133,
+    40.61795,
+    47.56133,
+    40.61795
+],
+  "geometry": {"coordinates":[47.56133,40.61795],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277064779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.16027,40.30758,47.16027,40.30758",
+    "geom:latitude":40.30758,
+    "geom:longitude":47.16027,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Boyuk Qacar",
+    "gn:country_code":"AZ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586990,
+    "gn:latitude":40.30758,
+    "gn:longitude":47.16027,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"B\u00f6y\u00fck Q\u0259c\u0259r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "B\u00f6y\u00fck Q\u0259c\u0259r"
+    ],
+    "name:und_x_variant":[
+        "B\u00ebyuk Kadzhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586990,
+        "wk:page":"B%C3%B6y%C3%BCk_Q%C9%99c%C9%99r"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"10d2402971a7eedcfb0e92e2fd05a8e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277064779,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1277064779,
+    "wof:lastmodified":1537585474,
+    "wof:name":"Boyuk Qacar",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.16027,
+    40.30758,
+    47.16027,
+    40.30758
+],
+  "geometry": {"coordinates":[47.16027,40.30758],"type":"Point"}
+}

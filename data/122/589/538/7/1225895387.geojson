@@ -1,0 +1,90 @@
+{
+  "id": 1225895387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.46255,39.70827,46.46255,39.70827",
+    "geom:latitude":39.70827,
+    "geom:longitude":46.46255,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Seyidlar",
+    "gn:country_code":"AZ",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147222,
+    "gn:latitude":39.70827,
+    "gn:longitude":46.46255,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Seyidlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Seyidlar"
+    ],
+    "name:aze_x_variant":[
+        "Seidlyar"
+    ],
+    "name:hye_x_preferred":[
+        "Seidlar"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u0565\u056b\u0564\u056c\u0561\u0580",
+        "Gandza",
+        "\u0533\u0561\u0576\u0571\u0561"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0439\u0434\u043b\u044f\u0440"
+    ],
+    "name:und_x_variant":[
+        "Seydlyar",
+        "Seydlyarkend",
+        "Seydlar-Kend",
+        "\u0421\u0435\u0439\u0434\u043b\u044f\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147222
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d7992dc2cda54e32671dd3f9032762a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225895387,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1225895387,
+    "wof:lastmodified":1537585156,
+    "wof:name":"Seyidlar",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.46255,
+    39.70827,
+    46.46255,
+    39.70827
+],
+  "geometry": {"coordinates":[46.46255,39.70827],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209345541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.22979,40.62435,49.22979,40.62435",
+    "geom:latitude":40.62435,
+    "geom:longitude":49.22979,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Sixandag",
+    "gn:country_code":"AZ",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585083,
+    "gn:latitude":40.62435,
+    "gn:longitude":49.22979,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"\u015eixanda\u011f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Zimov\u2019ye Shikhan"
+    ],
+    "name:und_x_variant":[
+        "Shakhan-Dag",
+        "Kishlak Shakhan-Dag",
+        "\u015eixanda\u011f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585083,
+        "wk:page":"%C5%9Eixanda%C4%9F"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2310b32a0848e41de5a240df919d6c78",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209345541
+        }
+    ],
+    "wof:id":1209345541,
+    "wof:lastmodified":1537585342,
+    "wof:name":"Sixandag",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.22979,
+    40.62435,
+    49.22979,
+    40.62435
+],
+  "geometry": {"coordinates":[49.22979,40.62435],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310140019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.41072,41.40798,48.41072,41.40798",
+    "geom:latitude":41.40798,
+    "geom:longitude":48.41072,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Kayakend",
+    "gn:country_code":"AZ",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586099,
+    "gn:latitude":41.40798,
+    "gn:longitude":48.41072,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Kayakend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qayak\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586099,
+        "wk:page":"Qayak%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"db87b0b8383d8291659db621f4d74e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310140019,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1310140019,
+    "wof:lastmodified":1537585409,
+    "wof:name":"Kayakend",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.41072,
+    41.40798,
+    48.41072,
+    41.40798
+],
+  "geometry": {"coordinates":[48.41072,41.40798],"type":"Point"}
+}

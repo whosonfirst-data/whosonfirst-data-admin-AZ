@@ -1,0 +1,71 @@
+{
+  "id": 1327118225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.32743,41.76176,46.32743,41.76176",
+    "geom:latitude":41.76176,
+    "geom:longitude":46.32743,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Garakli",
+    "gn:country_code":"AZ",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8669196,
+    "gn:latitude":41.76176,
+    "gn:longitude":46.32743,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"G\u0259r\u0259kli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u0259r\u0259kli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8669196,
+        "wk:page":"G%C9%99r%C9%99kli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"da7122600e477d792677bfc457162183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327118225,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1327118225,
+    "wof:lastmodified":1537585540,
+    "wof:name":"Garakli",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.32743,
+    41.76176,
+    46.32743,
+    41.76176
+],
+  "geometry": {"coordinates":[46.32743,41.76176],"type":"Point"}
+}

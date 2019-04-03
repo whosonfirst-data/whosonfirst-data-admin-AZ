@@ -1,0 +1,73 @@
+{
+  "id": 1276473289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.78754,40.47285,48.78754,40.47285",
+    "geom:latitude":40.47285,
+    "geom:longitude":48.78754,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Yekya-Khana",
+    "gn:country_code":"AZ",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584693,
+    "gn:latitude":40.47285,
+    "gn:longitude":48.78754,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Yekya-Khana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yekekhana",
+        "Yekya-Khana",
+        "Yekakhana",
+        "Yek\u0259xana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584693
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"22a120f036472f79379c8925c9a369ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276473289,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1276473289,
+    "wof:lastmodified":1537585315,
+    "wof:name":"Yekya-Khana",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.78754,
+    40.47285,
+    48.78754,
+    40.47285
+],
+  "geometry": {"coordinates":[48.78754,40.47285],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1293243099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.87187,38.64708,48.87187,38.64708",
+    "geom:latitude":38.64708,
+    "geom:longitude":48.87187,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Siyavar",
+    "gn:country_code":"AZ",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":393702,
+    "gn:latitude":38.64708,
+    "gn:longitude":48.87187,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Siyavar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":393702,
+        "wk:page":"Siyavar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2ce6cb689c8f6dec61c741ff14d1e4af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293243099,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293243099,
+    "wof:lastmodified":1537486576,
+    "wof:name":"Siyavar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.87187,
+    38.64708,
+    48.87187,
+    38.64708
+],
+  "geometry": {"coordinates":[48.87187,38.64708],"type":"Point"}
+}

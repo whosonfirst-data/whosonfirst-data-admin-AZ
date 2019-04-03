@@ -1,0 +1,79 @@
+{
+  "id": 1226571989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.64417,41.45455,48.64417,41.45455",
+    "geom:latitude":41.45455,
+    "geom:longitude":48.64417,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Hacihuseynli",
+    "gn:country_code":"AZ",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584687,
+    "gn:latitude":41.45455,
+    "gn:longitude":48.64417,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Hac\u0131h\u00fcseynli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hac\u0131h\u00fcseynli"
+    ],
+    "name:eng_x_preferred":[
+        "Yelenovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043b\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yelenovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584687
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f5d76fa4dfd92441093ed238f76add1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226571989,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1226571989,
+    "wof:lastmodified":1537585315,
+    "wof:name":"Hacihuseynli",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.64417,
+    41.45455,
+    48.64417,
+    41.45455
+],
+  "geometry": {"coordinates":[48.64417,41.45455],"type":"Point"}
+}

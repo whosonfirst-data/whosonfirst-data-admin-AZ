@@ -1,0 +1,93 @@
+{
+  "id": 890454133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.9156,41.4723,46.9156,41.4723",
+    "geom:latitude":41.4723,
+    "geom:longitude":46.9156,
+    "gn:country":"AZ",
+    "gn:fcode":"PPL",
+    "gn:pop":6508,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ava_x_preferred":[
+        "\u0427\u0438\u043d\u0430\u0440"
+    ],
+    "name:aze_x_preferred":[
+        "\u00c7inarl\u0131"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c7inarl\u0131"
+    ],
+    "name:may_x_preferred":[
+        "\u00c7inarl\u0131"
+    ],
+    "name:pol_x_preferred":[
+        "\u00c7inarl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c7inarl\u0131"
+    ],
+    "name:unk_x_variant":[
+        "Chinarly"
+    ],
+    "qs:name":"\u00c7inarl\u0131",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668557,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586845,
+        "gp:id":1951948,
+        "qs:id":550116,
+        "wd:id":"Q4830457",
+        "wk:page":"\u00c7\u0131narl\u0131"
+    },
+    "wof:country":"AZ",
+    "wof:created":1469052887,
+    "wof:geomhash":"3a99df61d0153414da841d1fe67212c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":890454133,
+            "macroregion_id":1108808619,
+            "region_id":85668557
+        }
+    ],
+    "wof:id":890454133,
+    "wof:lastmodified":1553816403,
+    "wof:name":"\u00c7inarl\u0131",
+    "wof:parent_id":85668557,
+    "wof:placetype":"locality",
+    "wof:population":6508,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.9156,
+    41.4723,
+    46.9156,
+    41.4723
+],
+  "geometry": {"coordinates":[46.9156,41.4723],"type":"Point"}
+}

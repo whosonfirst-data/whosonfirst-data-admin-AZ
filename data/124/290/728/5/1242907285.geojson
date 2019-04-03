@@ -1,0 +1,76 @@
+{
+  "id": 1242907285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.64008,38.79898,48.64008,38.79898",
+    "geom:latitude":38.79898,
+    "geom:longitude":48.64008,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Beleton",
+    "gn:country_code":"AZ",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148384,
+    "gn:latitude":38.79898,
+    "gn:longitude":48.64008,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Beleton",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "B\u0259liton"
+    ],
+    "name:und_x_variant":[
+        "Baleton",
+        "Beleton",
+        "Baliton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148384,
+        "wk:page":"Baliton"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2d85014f4218b50b45d441b23b5b4dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242907285,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1242907285,
+    "wof:lastmodified":1537585266,
+    "wof:name":"Beleton",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.64008,
+    38.79898,
+    48.64008,
+    38.79898
+],
+  "geometry": {"coordinates":[48.64008,38.79898],"type":"Point"}
+}

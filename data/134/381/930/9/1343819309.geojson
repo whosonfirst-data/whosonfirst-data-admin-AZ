@@ -1,0 +1,85 @@
+{
+  "id": 1343819309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.43213,39.63013,46.43213,39.63013",
+    "geom:latitude":39.63013,
+    "geom:longitude":46.43213,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Malybey",
+    "gn:country_code":"AZ",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147574,
+    "gn:latitude":39.63013,
+    "gn:longitude":46.43213,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Malybey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mal\u0131b\u0259y"
+    ],
+    "name:hye_x_preferred":[
+        "Malhalaf"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0561\u056c\u0570\u0561\u056c\u0561\u0586",
+        "Melik\u2019ashen",
+        "\u0544\u0565\u056c\u056b\u0584\u0561\u0577\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0431\u0435\u0439"
+    ],
+    "name:und_x_variant":[
+        "\u041c\u0430\u043b\u044b\u0431\u0435\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147574,
+        "wk:page":"Mal%C4%B1b%C9%99y"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"985dffd6a3501bcffcede1f5e70cf093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343819309,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1343819309,
+    "wof:lastmodified":1537585187,
+    "wof:name":"Malybey",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.43213,
+    39.63013,
+    46.43213,
+    39.63013
+],
+  "geometry": {"coordinates":[46.43213,39.63013],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293524007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.24702,41.19035,47.24702,41.19035",
+    "geom:latitude":41.19035,
+    "geom:longitude":47.24702,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Bash-Zeyzit",
+    "gn:country_code":"AZ",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587034,
+    "gn:latitude":41.19035,
+    "gn:longitude":47.24702,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Bash-Zeyzit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ba\u015f Z\u0259yzid"
+    ],
+    "name:eng_x_preferred":[
+        "Ba\u015f Z\u01ddyzit"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0448 \u0417\u0435\u0439\u0437\u0438\u0442"
+    ],
+    "name:und_x_variant":[
+        "Ba\u015f Z\u0259yzit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587034,
+        "wk:page":"Ba%C5%9F_Z%C9%99yzid"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"97b7bf5417088e0008693e3f937e1559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293524007,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1293524007,
+    "wof:lastmodified":1537585476,
+    "wof:name":"Bash-Zeyzit",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.24702,
+    41.19035,
+    47.24702,
+    41.19035
+],
+  "geometry": {"coordinates":[47.24702,41.19035],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1276832647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.11465,39.55352,47.11465,39.55352",
+    "geom:latitude":39.55352,
+    "geom:longitude":47.11465,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Khalafsha",
+    "gn:country_code":"AZ",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147827,
+    "gn:latitude":39.55352,
+    "gn:longitude":47.11465,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Khalafsha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "X\u0259laf\u015f\u0259"
+    ],
+    "name:hye_x_preferred":[
+        "Halafsha"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u0561\u056c\u0561\u0586\u0577\u0561"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043b\u0430\u0444\u0448\u0430"
+    ],
+    "name:und_x_variant":[
+        "\u0425\u0430\u043b\u0430\u0444\u0448\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668351,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147827,
+        "wk:page":"X%C9%99laf%C5%9F%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"14a619a9a0b33a2d18eb0571c5bbda02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276832647,
+            "macroregion_id":1108808615,
+            "region_id":85668351
+        }
+    ],
+    "wof:id":1276832647,
+    "wof:lastmodified":1537585212,
+    "wof:name":"Khalafsha",
+    "wof:parent_id":85668351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.11465,
+    39.55352,
+    47.11465,
+    39.55352
+],
+  "geometry": {"coordinates":[47.11465,39.55352],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310427967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5723,38.56317,48.5723,38.56317",
+    "geom:latitude":38.56317,
+    "geom:longitude":48.5723,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Hamosam",
+    "gn:country_code":"AZ",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147814,
+    "gn:latitude":38.56317,
+    "gn:longitude":48.5723,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Hamo\u015fam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khimosham",
+        "Khamosham",
+        "Hamo\u015fam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147814,
+        "wk:page":"Hamo%C5%9Fam"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"859bc369de475e66374aa7d5298199f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310427967,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1310427967,
+    "wof:lastmodified":1537585211,
+    "wof:name":"Hamosam",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5723,
+    38.56317,
+    48.5723,
+    38.56317
+],
+  "geometry": {"coordinates":[48.5723,38.56317],"type":"Point"}
+}

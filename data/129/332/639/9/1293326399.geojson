@@ -1,0 +1,75 @@
+{
+  "id": 1293326399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.47038,40.95849,45.47038,40.95849",
+    "geom:latitude":40.95849,
+    "geom:longitude":45.47038,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Hacialili",
+    "gn:country_code":"AZ",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586566,
+    "gn:latitude":40.95849,
+    "gn:longitude":45.47038,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Hac\u0131al\u0131l\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hac\u0131al\u0131l\u0131"
+    ],
+    "name:und_x_variant":[
+        "Gadzhally",
+        "Hacall\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586566,
+        "wk:page":"Hacall%C4%B1%2C_Tovuz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c7a4f14faa260926530cdb75c2be238a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293326399,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1293326399,
+    "wof:lastmodified":1537585443,
+    "wof:name":"Hacialili",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.47038,
+    40.95849000000001,
+    45.47038,
+    40.95849000000001
+],
+  "geometry": {"coordinates":[45.47038,40.95849000000001],"type":"Point"}
+}

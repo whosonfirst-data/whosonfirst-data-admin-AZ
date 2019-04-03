@@ -1,0 +1,78 @@
+{
+  "id": 1260036777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.21732,40.03366,46.21732,40.03366",
+    "geom:latitude":40.03366,
+    "geom:longitude":46.21732,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Asrik",
+    "gn:country_code":"AZ",
+    "gn:dem":1656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587148,
+    "gn:latitude":40.03366,
+    "gn:longitude":46.21732,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Asrik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0531\u057d\u0580\u056b\u056f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u0440\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "\u018fsrik",
+        "Asrik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587148,
+        "wk:page":"%C6%8Fsrik"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"feb7553ca282e6c91dca2d06aace916c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260036777,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1260036777,
+    "wof:lastmodified":1537585484,
+    "wof:name":"Asrik",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.21732,
+    40.03366,
+    46.21732,
+    40.03366
+],
+  "geometry": {"coordinates":[46.21732,40.03366],"type":"Point"}
+}

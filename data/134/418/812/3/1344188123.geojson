@@ -1,0 +1,76 @@
+{
+  "id": 1344188123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.76878,41.36671,48.76878,41.36671",
+    "geom:latitude":41.36671,
+    "geom:longitude":48.76878,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Kadmalykyshlakh",
+    "gn:country_code":"AZ",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586306,
+    "gn:latitude":41.36671,
+    "gn:longitude":48.76878,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kadmalykyshlakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Q\u0259dim\u0259liq\u0131\u015flaq"
+    ],
+    "name:und_x_variant":[
+        "Kadimalikyshlak",
+        "Kadmalykyshlakh",
+        "Q\u0259dim\u0259likq\u0131\u015flaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586306,
+        "wk:page":"Q%C9%99dim%C9%99likq%C4%B1%C5%9Flaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"468d699325696151a14a5b7fe93044be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344188123,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1344188123,
+    "wof:lastmodified":1537585424,
+    "wof:name":"Kadmalykyshlakh",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.76878,
+    41.36671,
+    48.76878,
+    41.36671
+],
+  "geometry": {"coordinates":[48.76878,41.36671],"type":"Point"}
+}

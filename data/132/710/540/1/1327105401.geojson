@@ -1,0 +1,77 @@
+{
+  "id": 1327105401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.94694,39.15028,46.94694,39.15028",
+    "geom:latitude":39.15028,
+    "geom:longitude":46.94694,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Xudaferin",
+    "gn:country_code":"AZ",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":147755,
+    "gn:latitude":39.15028,
+    "gn:longitude":46.94694,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Xudafer\u0131n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_preferred":[
+        "Xudafer\u0131n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0434\u0430\u0444\u0435\u0440\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Khudaferin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147755,
+        "wk:page":"Xudaf%C9%99rin"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"718296ec7f989d3227864b05debc51f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327105401,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1327105401,
+    "wof:lastmodified":1537585204,
+    "wof:name":"Xudaferin",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.94694000000001,
+    39.15028,
+    46.94694000000001,
+    39.15028
+],
+  "geometry": {"coordinates":[46.94694000000001,39.15028],"type":"Point"}
+}

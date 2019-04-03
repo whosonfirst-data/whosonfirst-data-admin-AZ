@@ -1,0 +1,85 @@
+{
+  "id": 1259814559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.76482,40.17741,46.76482,40.17741",
+    "geom:latitude":40.17741,
+    "geom:longitude":46.76482,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Damirlu",
+    "gn:country_code":"AZ",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586788,
+    "gn:latitude":40.17741,
+    "gn:longitude":46.76482,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Damirlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u0259mirli"
+    ],
+    "name:hye_x_preferred":[
+        "Tsaghkashen"
+    ],
+    "name:hye_x_variant":[
+        "\u053e\u0561\u0572\u056f\u0561\u0577\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043c\u0438\u0440\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Damirlou",
+        "Damirlu",
+        "Damirli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586788,
+        "wk:page":"D%C9%99mirli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3e59e773dd6ebd1c380e3b125bb07c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259814559,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1259814559,
+    "wof:lastmodified":1537585458,
+    "wof:name":"Damirlu",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.76482,
+    40.17741,
+    46.76482,
+    40.17741
+],
+  "geometry": {"coordinates":[46.76482,40.17741],"type":"Point"}
+}

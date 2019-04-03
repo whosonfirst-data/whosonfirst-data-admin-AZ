@@ -1,0 +1,83 @@
+{
+  "id": 1243155603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.71528,39.40722,46.71528,39.40722",
+    "geom:latitude":39.40722,
+    "geom:longitude":46.71528,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chullu",
+    "gn:country_code":"AZ",
+    "gn:dem":868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448050,
+    "gn:latitude":39.40722,
+    "gn:longitude":46.71528,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chullu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7ullu"
+    ],
+    "name:hye_x_preferred":[
+        "Chuleu"
+    ],
+    "name:hye_x_variant":[
+        "\u0549\u0578\u0582\u056c\u0567\u0578\u0582"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043b\u043b\u0443"
+    ],
+    "name:und_x_variant":[
+        "\u0427\u0443\u043b\u043b\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448050,
+        "wk:page":"Chullu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"adbe9218edab58f038210676d9d11284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243155603,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1243155603,
+    "wof:lastmodified":1537585304,
+    "wof:name":"Chullu",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.71528,
+    39.40722,
+    46.71528,
+    39.40722
+],
+  "geometry": {"coordinates":[46.71528,39.40722],"type":"Point"}
+}

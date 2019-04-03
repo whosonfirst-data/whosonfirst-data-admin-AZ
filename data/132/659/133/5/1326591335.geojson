@@ -1,0 +1,86 @@
+{
+  "id": 1326591335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.31288,39.73105,46.31288,39.73105",
+    "geom:latitude":39.73105,
+    "geom:longitude":46.31288,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Chyrakhly",
+    "gn:country_code":"AZ",
+    "gn:dem":1898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148252,
+    "gn:latitude":39.73105,
+    "gn:longitude":46.31288,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Chyrakhly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7\u0131raql\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Chraghly"
+    ],
+    "name:hye_x_variant":[
+        "\u0549\u0580\u0561\u0572\u056c\u0568",
+        "Chragidzor",
+        "\u0543\u0580\u0561\u0572\u056b\u0571\u0578\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u044b\u0440\u0430\u0433\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Chyragly",
+        "Chyakhly",
+        "\u0427\u044b\u0440\u0430\u0433\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148252
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2ada868409a879c942800b3c6b0df5a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326591335,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1326591335,
+    "wof:lastmodified":1537585255,
+    "wof:name":"Chyrakhly",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.31288,
+    39.73105,
+    46.31288,
+    39.73105
+],
+  "geometry": {"coordinates":[46.31288,39.73105],"type":"Point"}
+}

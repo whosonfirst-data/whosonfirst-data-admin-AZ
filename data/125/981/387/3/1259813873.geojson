@@ -1,0 +1,92 @@
+{
+  "id": 1259813873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.82196,39.80249,46.82196,39.80249",
+    "geom:latitude":39.80249,
+    "geom:longitude":46.82196,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Dagdagan",
+    "gn:country_code":"AZ",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148247,
+    "gn:latitude":39.80249,
+    "gn:longitude":46.82196,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Da\u011fda\u011fan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Da\u011fda\u011fan"
+    ],
+    "name:hye_x_preferred":[
+        "K\u2019rasni"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0580\u0561\u057d\u0576\u056b",
+        "K\u2019arrasni",
+        "\u0554\u0561\u057c\u0561\u057d\u0576\u056b",
+        "K\u2019rrasni",
+        "\u0554\u057c\u0561\u057d\u0576\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0430\u0433\u0434\u0430\u0433\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Krasny",
+        "\u041a\u0440\u0430\u0441\u043d\u044b",
+        "Dagdagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148247,
+        "wk:page":"Da%C4%9Fda%C4%9Fan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d0b704bc66fc9c3949a07d7d1b0cd7f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259813873,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1259813873,
+    "wof:lastmodified":1537585254,
+    "wof:name":"Dagdagan",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.82196,
+    39.80249,
+    46.82196,
+    39.80249
+],
+  "geometry": {"coordinates":[46.82196,39.80249],"type":"Point"}
+}

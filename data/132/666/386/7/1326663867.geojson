@@ -1,0 +1,83 @@
+{
+  "id": 1326663867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.64496,39.18778,46.64496,39.18778",
+    "geom:latitude":39.18778,
+    "geom:longitude":46.64496,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Iskenderbeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147973,
+    "gn:latitude":39.18778,
+    "gn:longitude":46.64496,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Iskenderbeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130sg\u0259nd\u0259rb\u0259yli"
+    ],
+    "name:hye_x_preferred":[
+        "Its\u2019an"
+    ],
+    "name:hye_x_variant":[
+        "\u053b\u0581\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u043a\u0435\u043d\u0434\u0435\u0440\u0431\u0435\u0439\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "\u0130sk\u0259nd\u0259rb\u0259yli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147973,
+        "wk:page":"%C4%B0sg%C9%99nd%C9%99rb%C9%99yli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6f3a0cfb418d630b0a49fbcfbb8f51ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326663867,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1326663867,
+    "wof:lastmodified":1537585227,
+    "wof:name":"Iskenderbeyli",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.64496,
+    39.18778,
+    46.64496,
+    39.18778
+],
+  "geometry": {"coordinates":[46.64496,39.18778],"type":"Point"}
+}

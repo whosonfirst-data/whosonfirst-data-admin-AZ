@@ -1,0 +1,87 @@
+{
+  "id": 1310364389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.63503,40.44551,46.63503,40.44551",
+    "geom:latitude":40.44551,
+    "geom:longitude":46.63503,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Qaracinar",
+    "gn:country_code":"AZ",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586223,
+    "gn:latitude":40.44551,
+    "gn:longitude":46.63503,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Qara\u00e7inar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qara\u00e7inar"
+    ],
+    "name:eng_x_preferred":[
+        "Qara\u00e7inar"
+    ],
+    "name:hye_x_preferred":[
+        "Karach\u2019inar"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0561\u0580\u0561\u0579\u056b\u0576\u0561\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0447\u0438\u043d\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Gharach\u2019inar",
+        "Karachinar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586223,
+        "wk:page":"Qara%C3%A7inar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bce115a65580978a1e1561ea2eac8e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310364389,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1310364389,
+    "wof:lastmodified":1537585419,
+    "wof:name":"Qaracinar",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.63503,
+    40.44551,
+    46.63503,
+    40.44551
+],
+  "geometry": {"coordinates":[46.63503,40.44551],"type":"Point"}
+}

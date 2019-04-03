@@ -1,0 +1,73 @@
+{
+  "id": 1243330789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.20439,40.23899,46.20439,40.23899",
+    "geom:latitude":40.23899,
+    "geom:longitude":46.20439,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Yanshakbina",
+    "gn:country_code":"AZ",
+    "gn:dem":1873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470099,
+    "gn:latitude":40.23899,
+    "gn:longitude":46.20439,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Yanshakbina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yan\u015faqbin\u0259"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u0448\u0430\u043a\u0431\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470099
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"745d0c36282415bd017e016cd68adfc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243330789,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1243330789,
+    "wof:lastmodified":1537585525,
+    "wof:name":"Yanshakbina",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.20439,
+    40.23899,
+    46.20439,
+    40.23899
+],
+  "geometry": {"coordinates":[46.20439,40.23899],"type":"Point"}
+}

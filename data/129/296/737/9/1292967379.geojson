@@ -1,0 +1,80 @@
+{
+  "id": 1292967379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.01097,40.32931,48.01097,40.32931",
+    "geom:latitude":40.32931,
+    "geom:longitude":48.01097,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Silyan",
+    "gn:country_code":"AZ",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585027,
+    "gn:latitude":40.32931,
+    "gn:longitude":48.01097,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"\u015eilyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u015eilyan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043b\u044c\u044f\u043d"
+    ],
+    "name:und_x_variant":[
+        "Ash-Shil\u2019yan",
+        "Shil\u2019yan",
+        "Ashaga-Shil\u2019yan",
+        "Ashagy Shilyan",
+        "\u015eilyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668383,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585027
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6fa17b5534e473066ce5dfc6682f5a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1292967379,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":1292967379,
+    "wof:lastmodified":1537585338,
+    "wof:name":"Silyan",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.01097,
+    40.32931,
+    48.01097,
+    40.32931
+],
+  "geometry": {"coordinates":[48.01097,40.32931],"type":"Point"}
+}

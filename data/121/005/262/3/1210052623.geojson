@@ -1,0 +1,76 @@
+{
+  "id": 1210052623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.57926,39.76932,46.57926,39.76932",
+    "geom:latitude":39.76932,
+    "geom:longitude":46.57926,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Turabxan",
+    "gn:country_code":"AZ",
+    "gn:dem":1970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8457942,
+    "gn:latitude":39.76932,
+    "gn:longitude":46.57926,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Turabxan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Turabxan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u0430\u0431\u0445\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Turabkhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668643,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8457942
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6360cbd6d1c164f9dde2df243a02c148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1210052623,
+            "macroregion_id":1108808615,
+            "region_id":85668643
+        }
+    ],
+    "wof:id":1210052623,
+    "wof:lastmodified":1537585523,
+    "wof:name":"Turabxan",
+    "wof:parent_id":85668643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.57926,
+    39.76932,
+    46.57926,
+    39.76932
+],
+  "geometry": {"coordinates":[46.57926,39.76932],"type":"Point"}
+}

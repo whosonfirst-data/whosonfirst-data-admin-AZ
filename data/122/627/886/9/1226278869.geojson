@@ -1,0 +1,78 @@
+{
+  "id": 1226278869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.94652,40.94182,48.94652,40.94182",
+    "geom:latitude":40.94182,
+    "geom:longitude":48.94652,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Kunshady",
+    "gn:country_code":"AZ",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585768,
+    "gn:latitude":40.94182,
+    "gn:longitude":48.94652,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kunshady",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00fcn\u00f6v\u015f\u0259"
+    ],
+    "name:aze_x_variant":[
+        "G\u00fcn\u0259v\u015fa"
+    ],
+    "name:und_x_variant":[
+        "G\u00fcne\u015fl\u0131",
+        "Gyunevsha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668425,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585768,
+        "wk:page":"G%C3%BCn%C9%99v%C5%9Fa"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0ae3da10c68799626e0ec786acb7050a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226278869,
+            "macroregion_id":1108808623,
+            "region_id":85668425
+        }
+    ],
+    "wof:id":1226278869,
+    "wof:lastmodified":1537585387,
+    "wof:name":"Kunshady",
+    "wof:parent_id":85668425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.94652,
+    40.94182,
+    48.94652,
+    40.94182
+],
+  "geometry": {"coordinates":[48.94652,40.94182],"type":"Point"}
+}

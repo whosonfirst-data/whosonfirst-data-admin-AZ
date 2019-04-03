@@ -1,0 +1,88 @@
+{
+  "id": 1192979901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.54403,39.5893,46.54403,39.5893",
+    "geom:latitude":39.5893,
+    "geom:longitude":46.54403,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Zabux",
+    "gn:country_code":"AZ",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146908,
+    "gn:latitude":39.5893,
+    "gn:longitude":46.54403,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Zabux",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zabux"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u0561\u0562\u0578\u0582\u056d"
+    ],
+    "name:hye_x_variant":[
+        "Aghavno",
+        "\u0531\u0572\u0561\u057e\u0576\u0578"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0431\u0443\u0445"
+    ],
+    "name:und_x_variant":[
+        "Aghavni",
+        "Zabukh",
+        "Zabug",
+        "Zabokh",
+        "Zabuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146908,
+        "wk:page":"Zabux"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"51f16dfd5b42372c566db9fdbcf1a384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1192979901,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1192979901,
+    "wof:lastmodified":1537585126,
+    "wof:name":"Zabux",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.54403,
+    39.5893,
+    46.54403,
+    39.5893
+],
+  "geometry": {"coordinates":[46.54403,39.5893],"type":"Point"}
+}

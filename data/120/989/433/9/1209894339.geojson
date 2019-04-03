@@ -1,0 +1,75 @@
+{
+  "id": 1209894339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1974,40.47165,47.1974,40.47165",
+    "geom:latitude":40.47165,
+    "geom:longitude":47.1974,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mollagyullar",
+    "gn:country_code":"AZ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585484,
+    "gn:latitude":40.47165,
+    "gn:longitude":47.1974,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Mollagyullar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mollag\u00fcll\u0259r"
+    ],
+    "name:und_x_variant":[
+        "Mollagyuler",
+        "Mollagyullar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585484,
+        "wk:page":"Mollag%C3%BCll%C9%99r"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3142d8ac3af2ff474a90e29f3d20447e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209894339,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1209894339,
+    "wof:lastmodified":1537585368,
+    "wof:name":"Mollagyullar",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1974,
+    40.47165,
+    47.1974,
+    40.47165
+],
+  "geometry": {"coordinates":[47.1974,40.47165],"type":"Point"}
+}

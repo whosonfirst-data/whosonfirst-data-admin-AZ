@@ -1,0 +1,75 @@
+{
+  "id": 1209142263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.92765,40.39681,46.92765,40.39681",
+    "geom:latitude":40.39681,
+    "geom:longitude":46.92765,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Bala-Kengerly",
+    "gn:country_code":"AZ",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587073,
+    "gn:latitude":40.39681,
+    "gn:longitude":46.92765,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Bala-Kengerly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bala Kengerli"
+    ],
+    "name:aze_x_variant":[
+        "Bala K\u0259ng\u0259rli"
+    ],
+    "name:hye_x_preferred":[
+        "Baly-K\u2019engerli"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0561\u056c\u0568-\u0554\u0565\u0576\u0563\u0565\u0580\u056c\u056b",
+        "Bala Kangarrk\u2019",
+        "\u0532\u0561\u056c\u0561 \u053f\u0561\u0576\u0563\u0561\u057c\u0584"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587073
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1967c8e3c377fc509cd892b3e6026056",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209142263
+        }
+    ],
+    "wof:id":1209142263,
+    "wof:lastmodified":1537585479,
+    "wof:name":"Bala-Kengerly",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.92765,
+    40.39681,
+    46.92765,
+    40.39681
+],
+  "geometry": {"coordinates":[46.92765,40.39681],"type":"Point"}
+}

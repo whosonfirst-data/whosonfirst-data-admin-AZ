@@ -1,0 +1,73 @@
+{
+  "id": 1343313529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.72587,40.93592,47.72587,40.93592",
+    "geom:latitude":40.93592,
+    "geom:longitude":47.72587,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Corlu",
+    "gn:country_code":"AZ",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586630,
+    "gn:latitude":40.93592,
+    "gn:longitude":47.72587,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Corlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhorly",
+        "Dzhorlu",
+        "Corlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586630,
+        "wk:page":"Corlu%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"64c29c2406c5a25a0d47e1981211fa29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343313529,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1343313529,
+    "wof:lastmodified":1537585447,
+    "wof:name":"Corlu",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.72587,
+    40.93592,
+    47.72587,
+    40.93592
+],
+  "geometry": {"coordinates":[47.72587,40.93592],"type":"Point"}
+}

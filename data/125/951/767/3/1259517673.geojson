@@ -1,0 +1,83 @@
+{
+  "id": 1259517673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.50395,39.42785,46.50395,39.42785",
+    "geom:latitude":39.42785,
+    "geom:longitude":46.50395,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Teymurmyuskanly",
+    "gn:country_code":"AZ",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147057,
+    "gn:latitude":39.42785,
+    "gn:longitude":46.50395,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Teymurmyuskanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Teymur M\u00fcsk\u0259nli"
+    ],
+    "name:hye_x_preferred":[
+        "T\u2019eymurmyusk\u2019anly"
+    ],
+    "name:hye_x_variant":[
+        "\u0539\u0565\u0575\u0574\u0578\u0582\u0580\u0574\u0575\u0578\u0582\u057d\u0584\u0561\u0576\u056c\u0568"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0439\u043c\u0443\u0440\u043c\u044e\u0441\u043a\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "\u0422\u0435\u0439\u043c\u0443\u0440\u043c\u044e\u0441\u043a\u0430\u043d\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147057,
+        "wk:page":"Teymurm%C3%BCsk%C9%99nli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1abcb71bb148aa9e5c02406455057e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259517673,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1259517673,
+    "wof:lastmodified":1537585140,
+    "wof:name":"Teymurmyuskanly",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.50395,
+    39.42785,
+    46.50395,
+    39.42785
+],
+  "geometry": {"coordinates":[46.50395,39.42785],"type":"Point"}
+}

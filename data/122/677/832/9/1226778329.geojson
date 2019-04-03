@@ -1,0 +1,73 @@
+{
+  "id": 1226778329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.65968,41.55508,48.65968,41.55508",
+    "geom:latitude":41.55508,
+    "geom:longitude":48.65968,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Pirquluoba",
+    "gn:country_code":"AZ",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585258,
+    "gn:latitude":41.55508,
+    "gn:longitude":48.65968,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Pirquluoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pirkulioba",
+        "Pirkuluoba",
+        "Pirquluoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585258,
+        "wk:page":"Pirquluoba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"56a7f06fe05cdd35e6311e3d59934d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226778329,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1226778329,
+    "wof:lastmodified":1537585353,
+    "wof:name":"Pirquluoba",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.65968,
+    41.55508,
+    48.65968,
+    41.55508
+],
+  "geometry": {"coordinates":[48.65968,41.55508],"type":"Point"}
+}

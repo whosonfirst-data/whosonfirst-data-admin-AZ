@@ -1,0 +1,77 @@
+{
+  "id": 1276371501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.58528,41.5375,46.58528,41.5375",
+    "geom:latitude":41.5375,
+    "geom:longitude":46.58528,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Chudulobina",
+    "gn:country_code":"AZ",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586825,
+    "gn:latitude":41.5375,
+    "gn:longitude":46.58528,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Chudulobina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7\u00fcd\u00fcl\u00fcbin\u0259"
+    ],
+    "name:aze_x_variant":[
+        "\u00c7udulobin\u0259"
+    ],
+    "name:und_x_variant":[
+        "\u00c7udulubin\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668601,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586825,
+        "wk:page":"%C3%87udulubin%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"71c6fb4dfbef81daa475fc12b46507e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276371501,
+            "macroregion_id":1108808619,
+            "region_id":85668601
+        }
+    ],
+    "wof:id":1276371501,
+    "wof:lastmodified":1537585461,
+    "wof:name":"Chudulobina",
+    "wof:parent_id":85668601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.58528,
+    41.5375,
+    46.58528,
+    41.5375
+],
+  "geometry": {"coordinates":[46.58528,41.5375],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225920423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.02028,41.20611,49.02028,41.20611",
+    "geom:latitude":41.20611,
+    "geom:longitude":49.02028,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Gyulamli",
+    "gn:cc2":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586400,
+    "gn:latitude":41.20611,
+    "gn:longitude":49.02028,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Gyulamli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyulamly",
+        "Gyulemli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586400,
+        "wk:page":"Gyulamli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"587e463b28e2c31b21df0cecf7e33902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225920423,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1225920423,
+    "wof:lastmodified":1537585431,
+    "wof:name":"Gyulamli",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.02028,
+    41.20611,
+    49.02028,
+    41.20611
+],
+  "geometry": {"coordinates":[49.02028,41.20611],"type":"Point"}
+}

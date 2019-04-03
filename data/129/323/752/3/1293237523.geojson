@@ -1,0 +1,82 @@
+{
+  "id": 1293237523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.07306,41.44386,48.07306,41.44386",
+    "geom:latitude":41.44386,
+    "geom:longitude":48.07306,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Yuxari Tahircal",
+    "gn:country_code":"AZ",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584623,
+    "gn:latitude":41.44386,
+    "gn:longitude":48.07306,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Yuxar\u0131 Tahircal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yuxar\u0131 Tahircal"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0445\u0430\u0440\u044b-\u0422\u0430\u0438\u0440\u0434\u0436\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "Taardzhal",
+        "Yukhary-Tairdzhal",
+        "Tardzhal",
+        "Tairdzhal",
+        "Yuxar\u0131 Tahircal",
+        "Yukhary-Tayrdzhal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584623,
+        "wk:page":"Yuxar%C4%B1_Tahircal"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"86286604702889836cef1ec9e3b7c8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293237523,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1293237523,
+    "wof:lastmodified":1537585310,
+    "wof:name":"Yuxari Tahircal",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.07306,
+    41.44386,
+    48.07306,
+    41.44386
+],
+  "geometry": {"coordinates":[48.07306,41.44386],"type":"Point"}
+}

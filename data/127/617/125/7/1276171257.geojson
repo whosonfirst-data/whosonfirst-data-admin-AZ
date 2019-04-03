@@ -1,0 +1,84 @@
+{
+  "id": 1276171257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.4461,39.86285,46.4461,39.86285",
+    "geom:latitude":39.86285,
+    "geom:longitude":46.4461,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Corman",
+    "gn:country_code":"AZ",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148260,
+    "gn:latitude":39.86285,
+    "gn:longitude":46.4461,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"\u00c7orman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7orman"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0578\u0580\u0574\u0561\u0576"
+    ],
+    "name:hye_x_variant":[
+        "Ch\u2019ormank\u2019",
+        "\u0549\u0578\u0580\u0574\u0561\u0576\u0584"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u0440\u043c\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Chorman",
+        "Churman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148260
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b14fbb989864fdec366b62fadb509a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276171257,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1276171257,
+    "wof:lastmodified":1537585256,
+    "wof:name":"Corman",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.4461,
+    39.86285,
+    46.4461,
+    39.86285
+],
+  "geometry": {"coordinates":[46.4461,39.86285],"type":"Point"}
+}

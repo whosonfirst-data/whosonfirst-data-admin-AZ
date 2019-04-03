@@ -1,0 +1,78 @@
+{
+  "id": 1327364351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.50895,40.59139,46.50895,40.59139",
+    "geom:latitude":40.59139,
+    "geom:longitude":46.50895,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Cayli",
+    "gn:country_code":"AZ",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586869,
+    "gn:latitude":40.59139,
+    "gn:longitude":46.50895,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"\u00c7ayl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00c7ayl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0439\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Chayly",
+        "\u00c7ayl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586869,
+        "wk:page":"%C3%87ayl%C4%B1%2C_Goygol"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"719113981d897fd704d3056a6a785da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327364351,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1327364351,
+    "wof:lastmodified":1537585465,
+    "wof:name":"Cayli",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.50895,
+    40.59139,
+    46.50895,
+    40.59139
+],
+  "geometry": {"coordinates":[46.50895,40.59139],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343274781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.19488,40.11465,47.19488,40.11465",
+    "geom:latitude":40.11465,
+    "geom:longitude":47.19488,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Poladli",
+    "gn:country_code":"AZ",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585249,
+    "gn:latitude":40.11465,
+    "gn:longitude":47.19488,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Poladl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Poladl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Polatly",
+        "Poladly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668519,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585249
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4d093ca53b3af60d881debcf8d6506d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343274781,
+            "macroregion_id":1108808627,
+            "region_id":85668519
+        }
+    ],
+    "wof:id":1343274781,
+    "wof:lastmodified":1537585352,
+    "wof:name":"Poladli",
+    "wof:parent_id":85668519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.19488,
+    40.11465,
+    47.19488,
+    40.11465
+],
+  "geometry": {"coordinates":[47.19488,40.11465],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209968105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.34576,41.11919,45.34576,41.11919",
+    "geom:latitude":41.11919,
+    "geom:longitude":45.34576,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Canali",
+    "gn:country_code":"AZ",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586670,
+    "gn:latitude":41.11919,
+    "gn:longitude":45.34576,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Canal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhanaly",
+        "Canal\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668229,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586670,
+        "wk:page":"Canal%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"af438fe18f2f156e64bc18fbaa2748ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209968105,
+            "macroregion_id":1108808609,
+            "region_id":85668229
+        }
+    ],
+    "wof:id":1209968105,
+    "wof:lastmodified":1537585450,
+    "wof:name":"Canali",
+    "wof:parent_id":85668229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.34576,
+    41.11919,
+    45.34576,
+    41.11919
+],
+  "geometry": {"coordinates":[45.34576,41.11919],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242663073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.85603,38.4691,48.85603,38.4691",
+    "geom:latitude":38.4691,
+    "geom:longitude":48.85603,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Selyakeran",
+    "gn:country_code":"AZ",
+    "gn:dem":-23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147232,
+    "gn:latitude":38.4691,
+    "gn:longitude":48.85603,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Selyakeran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Selakeran",
+        "Selyakeran",
+        "Sel\u0259k\u0259ran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147232,
+        "wk:page":"Sel%C9%99k%C9%99ran"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"db10abb8dc5471a2d9d9068c708eb762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242663073,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1242663073,
+    "wof:lastmodified":1537585156,
+    "wof:name":"Selyakeran",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.85603,
+    38.4691,
+    48.85603,
+    38.4691
+],
+  "geometry": {"coordinates":[48.85603,38.4691],"type":"Point"}
+}

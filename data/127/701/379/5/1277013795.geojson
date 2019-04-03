@@ -1,0 +1,81 @@
+{
+  "id": 1277013795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.23908,40.83769,47.23908,40.83769",
+    "geom:latitude":40.83769,
+    "geom:longitude":47.23908,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Cayqaraqoyunlu",
+    "gn:country_code":"AZ",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586877,
+    "gn:latitude":40.83769,
+    "gn:longitude":47.23908,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"\u00c7ayqaraqoyunlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7ayqaraqoyunlu"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c7ay Qaraqoyunlu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0439 \u041a\u0430\u0440\u0430\u043a\u043e\u044e\u043d\u043b\u0443"
+    ],
+    "name:und_x_variant":[
+        "Chaykarakoyunlu",
+        "Chay-Karakoyunly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586877,
+        "wk:page":"%C3%87ayqaraqoyunlu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"91efe160d0b759ff155f88dad718cffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277013795,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1277013795,
+    "wof:lastmodified":1537585465,
+    "wof:name":"Cayqaraqoyunlu",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.23908,
+    40.83769,
+    47.23908,
+    40.83769
+],
+  "geometry": {"coordinates":[47.23908,40.83769],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1226079193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.54595,40.94548,45.54595,40.94548",
+    "geom:latitude":40.94548,
+    "geom:longitude":45.54595,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Yukhary Oysyuzlyu",
+    "gn:country_code":"AZ",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584627,
+    "gn:latitude":40.94548,
+    "gn:longitude":45.54595,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Yukhary Oysyuzlyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yuxar\u0131 \u00d6ks\u00fczl\u00fc"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0445\u0430\u0440\u044b-\u041e\u043a\u0441\u044e\u0437\u043b\u044e"
+    ],
+    "name:und_x_variant":[
+        "Yukary-Oysyuzlyu",
+        "Yukhary-Oksyuzlyu",
+        "Yuxar\u0131 \u00d6ys\u00fczl\u00fc",
+        "Yukhary Oysyuzlyu",
+        "Yuxar\u0131 \u00d6ks\u00fczl\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584627,
+        "wk:page":"Yuxar%C4%B1_%C3%96ys%C3%BCzl%C3%BC"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2a4e6d598a78659852a6b77c83f22265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226079193,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1226079193,
+    "wof:lastmodified":1537585311,
+    "wof:name":"Yukhary Oysyuzlyu",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.54595,
+    40.94548,
+    45.54595,
+    40.94548
+],
+  "geometry": {"coordinates":[45.54595,40.94548],"type":"Point"}
+}

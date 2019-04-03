@@ -1,0 +1,88 @@
+{
+  "id": 421185441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.094223,40.436234,50.094223,40.436234",
+    "geom:latitude":40.436234,
+    "geom:longitude":50.094223,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Suraxan\u0131"
+    ],
+    "name:dut_x_preferred":[
+        "Suraxan\u0131"
+    ],
+    "name:eng_x_preferred":[
+        "Suraxan\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0440\u0430\u0445\u0430\u043d\u044b"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Surakhany",
+    "qs:name_adm0":"Azerbaijan",
+    "qs:name_adm1":"Baki",
+    "qs:photos":122,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":122,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":895528,
+    "qs:woe_adm0":23424741,
+    "qs:woe_id":1952022,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1952022,
+        "qs:id":895528,
+        "wd:id":"Q4446440"
+    },
+    "wof:country":"AZ",
+    "wof:created":1459009443,
+    "wof:geomhash":"c1979150e5a62404fafe9b79d55c10b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":421185441,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":421185441,
+    "wof:lastmodified":1513898789,
+    "wof:name":"Surakhany",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.094223,
+    40.436234,
+    50.094223,
+    40.436234
+],
+  "geometry": {"coordinates":[50.094223,40.436234],"type":"Point"}
+}

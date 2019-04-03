@@ -1,0 +1,70 @@
+{
+  "id": 1276478995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.85849,41.02531,48.85849,41.02531",
+    "geom:latitude":41.02531,
+    "geom:longitude":48.85849,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Qarapanli",
+    "gn:country_code":"AZ",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9887916,
+    "gn:latitude":41.02531,
+    "gn:longitude":48.85849,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Qarapanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qarapanl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9887916
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4830fe42cfb049e1ed6cd7e9a8b03475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276478995,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1276478995,
+    "wof:lastmodified":1537585543,
+    "wof:name":"Qarapanli",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.85849,
+    41.02531,
+    48.85849,
+    41.02531
+],
+  "geometry": {"coordinates":[48.85849,41.02531],"type":"Point"}
+}

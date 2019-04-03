@@ -1,0 +1,70 @@
+{
+  "id": 1310524163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.47972,41.16914,45.47972,41.16914",
+    "geom:latitude":41.16914,
+    "geom:longitude":45.47972,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Zelimkhan",
+    "gn:country_code":"AZ",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584574,
+    "gn:latitude":41.16914,
+    "gn:longitude":45.47972,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zelimkhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u0259limxan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668195,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584574
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bfb8ae50efc6239ffe2b7e739913d415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310524163,
+            "macroregion_id":1108808609,
+            "region_id":85668195
+        }
+    ],
+    "wof:id":1310524163,
+    "wof:lastmodified":1537585307,
+    "wof:name":"Zelimkhan",
+    "wof:parent_id":85668195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.47972,
+    41.16914000000001,
+    45.47972,
+    41.16914000000001
+],
+  "geometry": {"coordinates":[45.47972,41.16914000000001],"type":"Point"}
+}

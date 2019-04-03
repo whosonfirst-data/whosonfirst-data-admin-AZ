@@ -1,0 +1,72 @@
+{
+  "id": 1343892967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.15211,41.46765,48.15211,41.46765",
+    "geom:latitude":41.46765,
+    "geom:longitude":48.15211,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Xuluq",
+    "gn:country_code":"AZ",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585930,
+    "gn:latitude":41.46765,
+    "gn:longitude":48.15211,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Xuluq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khuluk",
+        "Xuluq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585930,
+        "wk:page":"Xuluq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bbebba9c05468edc0e99d37365715c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343892967,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1343892967,
+    "wof:lastmodified":1537585397,
+    "wof:name":"Xuluq",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.15211,
+    41.46765,
+    48.15211,
+    41.46765
+],
+  "geometry": {"coordinates":[48.15211,41.46765],"type":"Point"}
+}

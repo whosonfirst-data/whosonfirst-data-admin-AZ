@@ -1,0 +1,73 @@
+{
+  "id": 1293717741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.60634,40.59085,48.60634,40.59085",
+    "geom:latitude":40.59085,
+    "geom:longitude":48.60634,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Kelakhany",
+    "gn:country_code":"AZ",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586052,
+    "gn:latitude":40.59085,
+    "gn:longitude":48.60634,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Kelakhany",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kelakhana",
+        "Kelakhan",
+        "K\u0259l\u0259xana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586052,
+        "wk:page":"%C5%9E%C9%99hriyar%2C_Shamakhi"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"da6c293cdc6baf7891d23b68bd188da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293717741,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1293717741,
+    "wof:lastmodified":1537585405,
+    "wof:name":"Kelakhany",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.60634,
+    40.59085,
+    48.60634,
+    40.59085
+],
+  "geometry": {"coordinates":[48.60634,40.59085],"type":"Point"}
+}

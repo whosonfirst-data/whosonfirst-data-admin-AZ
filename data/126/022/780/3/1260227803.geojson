@@ -1,0 +1,74 @@
+{
+  "id": 1260227803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.72268,38.71457,48.72268,38.71457",
+    "geom:latitude":38.71457,
+    "geom:longitude":48.72268,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Siyabli",
+    "gn:country_code":"AZ",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147137,
+    "gn:latitude":38.71457,
+    "gn:longitude":48.72268,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Siyabl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siyably",
+        "Siobili",
+        "Siyabl\u0131",
+        "Siyabli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147137,
+        "wk:page":"Siyabl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2e03ae750849739704e850ba6a57102f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260227803,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1260227803,
+    "wof:lastmodified":1537585147,
+    "wof:name":"Siyabli",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.72268,
+    38.71457,
+    48.72268,
+    38.71457
+],
+  "geometry": {"coordinates":[48.72268,38.71457],"type":"Point"}
+}

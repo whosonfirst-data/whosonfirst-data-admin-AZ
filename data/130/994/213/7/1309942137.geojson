@@ -1,0 +1,70 @@
+{
+  "id": 1309942137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.45464,39.19084,46.45464,39.19084",
+    "geom:latitude":39.19084,
+    "geom:longitude":46.45464,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Agkend",
+    "gn:country_code":"AZ",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148611,
+    "gn:latitude":39.19084,
+    "gn:longitude":46.45464,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Agkend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u011fk\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148611
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"edfcc314e20e03175236e51bf4501549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309942137,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1309942137,
+    "wof:lastmodified":1537585285,
+    "wof:name":"Agkend",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.45464000000001,
+    39.19084,
+    46.45464000000001,
+    39.19084
+],
+  "geometry": {"coordinates":[46.45464000000001,39.19084],"type":"Point"}
+}

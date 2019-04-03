@@ -1,0 +1,72 @@
+{
+  "id": 1243501935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.19572,40.38449,48.19572,40.38449",
+    "geom:latitude":40.38449,
+    "geom:longitude":48.19572,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Topalgasanly",
+    "gn:country_code":"AZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584828,
+    "gn:latitude":40.38449,
+    "gn:longitude":48.19572,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Topalgasanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Topalgasanli",
+        "Topalgasanly",
+        "Topalh\u0259s\u0259nli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668383,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584828
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"105edb2449acec4e00e2e87a6f0d9a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243501935,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":1243501935,
+    "wof:lastmodified":1537585324,
+    "wof:name":"Topalgasanly",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.19572,
+    40.38449,
+    48.19572,
+    40.38449
+],
+  "geometry": {"coordinates":[48.19572,40.38449],"type":"Point"}
+}

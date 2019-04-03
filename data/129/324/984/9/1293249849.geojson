@@ -1,0 +1,79 @@
+{
+  "id": 1293249849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.03415,40.6684,48.03415,40.6684",
+    "geom:latitude":40.6684,
+    "geom:longitude":48.03415,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kyurtmashi",
+    "gn:country_code":"AZ",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585680,
+    "gn:latitude":40.6684,
+    "gn:longitude":48.03415,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Kyurtmashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "K\u00fcrdma\u015f\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044e\u0440\u0434\u043c\u0430\u0448\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kyurdmashi",
+        "Kyurdmashy",
+        "K\u00fcrdma\u015f\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585680,
+        "wk:page":"K%C3%BCrdma%C5%9F%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"88e0e6be3c382534de51f53a6cfc5e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293249849,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1293249849,
+    "wof:lastmodified":1537585381,
+    "wof:name":"Kyurtmashi",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.03415,
+    40.6684,
+    48.03415,
+    40.6684
+],
+  "geometry": {"coordinates":[48.03415,40.6684],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226373081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.51225,40.53053,47.51225,40.53053",
+    "geom:latitude":40.53053,
+    "geom:longitude":47.51225,
+    "gn:admin1_code":"59",
+    "gn:asciiname":"Qaziqumlaq",
+    "gn:country_code":"AZ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586071,
+    "gn:latitude":40.53053,
+    "gn:longitude":47.51225,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Qaz\u0131qumlaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qaz\u0131qumlaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u044b\u043a\u0443\u043c\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kazykumlakh",
+        "Kazykumlak",
+        "Qaz\u0131qumlaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668475,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586071,
+        "wk:page":"Qaz%C4%B1qumlaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3e4516f00907d0ac7d46d8706a44e4dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226373081,
+            "macroregion_id":1108808627,
+            "region_id":85668475
+        }
+    ],
+    "wof:id":1226373081,
+    "wof:lastmodified":1537585407,
+    "wof:name":"Qaziqumlaq",
+    "wof:parent_id":85668475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.51225,
+    40.53053,
+    47.51225,
+    40.53053
+],
+  "geometry": {"coordinates":[47.51225,40.53053],"type":"Point"}
+}

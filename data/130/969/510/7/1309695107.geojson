@@ -1,0 +1,73 @@
+{
+  "id": 1309695107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.57033,39.28771,48.57033,39.28771",
+    "geom:latitude":39.28771,
+    "geom:longitude":48.57033,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Pokrovka",
+    "gn:country_code":"AZ",
+    "gn:dem":-14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147324,
+    "gn:latitude":39.28771,
+    "gn:longitude":48.57033,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Pokrovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u00fcn\u0259\u015fli"
+    ],
+    "name:aze_x_variant":[
+        "Pokrovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147324
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2dd31f9f7093e940297b539187fad780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309695107,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1309695107,
+    "wof:lastmodified":1537585164,
+    "wof:name":"Pokrovka",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.57033,
+    39.28771,
+    48.57033,
+    39.28771
+],
+  "geometry": {"coordinates":[48.57033,39.28771],"type":"Point"}
+}

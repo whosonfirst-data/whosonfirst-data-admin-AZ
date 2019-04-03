@@ -1,0 +1,73 @@
+{
+  "id": 1327368115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.96379,40.326,46.96379,40.326",
+    "geom:latitude":40.326,
+    "geom:longitude":46.96379,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Dyuyarli",
+    "gn:country_code":"AZ",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528319,
+    "gn:latitude":40.326,
+    "gn:longitude":46.96379,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Dyuyarli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u00fcy\u0259rli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044e\u044f\u0440\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528319
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e1404cba3d076449a96ffab857042f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327368115,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1327368115,
+    "wof:lastmodified":1537585530,
+    "wof:name":"Dyuyarli",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.96379,
+    40.326,
+    46.96379,
+    40.326
+],
+  "geometry": {"coordinates":[46.96379,40.326],"type":"Point"}
+}

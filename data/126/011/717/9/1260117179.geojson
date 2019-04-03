@@ -1,0 +1,73 @@
+{
+  "id": 1260117179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.81945,39.79718,48.81945,39.79718",
+    "geom:latitude":39.79718,
+    "geom:longitude":48.81945,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Bala Hasimxanli",
+    "gn:country_code":"AZ",
+    "gn:dem":-23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148393,
+    "gn:latitude":39.79718,
+    "gn:longitude":48.81945,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Bala Ha\u015f\u0131mxanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bala Gashimkhanly",
+        "Bala Ha\u015f\u0131mxanl\u0131",
+        "Dzhanarly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148393,
+        "wk:page":"Bala_Ha%C5%9Fimxanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"37891cf9512cd56a6dd0dba1ee8569a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260117179,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1260117179,
+    "wof:lastmodified":1537585267,
+    "wof:name":"Bala Hasimxanli",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.81945,
+    39.79718,
+    48.81945,
+    39.79718
+],
+  "geometry": {"coordinates":[48.81945,39.79718],"type":"Point"}
+}

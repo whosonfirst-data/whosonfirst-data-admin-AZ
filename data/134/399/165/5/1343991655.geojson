@@ -1,0 +1,79 @@
+{
+  "id": 1343991655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.89345,41.28258,46.89345,41.28258",
+    "geom:latitude":41.28258,
+    "geom:longitude":46.89345,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Tanqit",
+    "gn:country_code":"AZ",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584878,
+    "gn:latitude":41.28258,
+    "gn:longitude":46.89345,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Tanq\u0131t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Tanq\u0131t"
+    ],
+    "name:aze_x_variant":[
+        "Tan\u011f\u0131t"
+    ],
+    "name:und_x_variant":[
+        "Tangyt",
+        "Tang\u0131t",
+        "Gangyt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584878,
+        "wk:page":"Tanq%C4%B1t"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ff3ecf57aa55bc4567f0c063febf411e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343991655,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1343991655,
+    "wof:lastmodified":1537585328,
+    "wof:name":"Tanqit",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.89345,
+    41.28258,
+    46.89345,
+    41.28258
+],
+  "geometry": {"coordinates":[46.89345,41.28258],"type":"Point"}
+}

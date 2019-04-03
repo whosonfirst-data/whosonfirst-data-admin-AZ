@@ -1,0 +1,81 @@
+{
+  "id": 1360118867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.03946,41.06479,49.03946,41.06479",
+    "geom:latitude":41.06479,
+    "geom:longitude":49.03946,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Siadan",
+    "gn:country_code":"AZ",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585192,
+    "gn:latitude":41.06479,
+    "gn:longitude":49.03946,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Siadan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u0259\u2019d\u0259n"
+    ],
+    "name:eng_x_preferred":[
+        "S\u01dddan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0430\u0434\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Saadan",
+        "S\u0259dan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668425,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585192,
+        "wk:page":"S%C9%99dan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"32c735f1eb9c5800d67c76b50d0b0bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360118867,
+            "macroregion_id":1108808623,
+            "region_id":85668425
+        }
+    ],
+    "wof:id":1360118867,
+    "wof:lastmodified":1537585348,
+    "wof:name":"Siadan",
+    "wof:parent_id":85668425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.03946,
+    41.06479,
+    49.03946,
+    41.06479
+],
+  "geometry": {"coordinates":[49.03946,41.06479],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276916087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.27611,39.39889,45.27611,39.39889",
+    "geom:latitude":39.39889,
+    "geom:longitude":45.27611,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"8014931.0",
+    "gn:asciiname":"Xincab",
+    "gn:cc2":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147783,
+    "gn:latitude":39.39889,
+    "gn:longitude":45.27611,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Xincab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xincab"
+    ],
+    "name:und_x_variant":[
+        "Khynozhov",
+        "Khyndzhav",
+        "Khindzhab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668717,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147783,
+        "wk:page":"Xincab"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"aa9475af74871c159f2969e088fb288c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276916087,
+            "macroregion_id":1108808617,
+            "region_id":85668717
+        }
+    ],
+    "wof:id":1276916087,
+    "wof:lastmodified":1537585207,
+    "wof:name":"Xincab",
+    "wof:parent_id":85668717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.27611,
+    39.39889,
+    45.27611,
+    39.39889
+],
+  "geometry": {"coordinates":[45.27611,39.39889],"type":"Point"}
+}

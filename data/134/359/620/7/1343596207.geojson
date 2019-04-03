@@ -1,0 +1,78 @@
+{
+  "id": 1343596207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.49632,40.63589,48.49632,40.63589",
+    "geom:latitude":40.63589,
+    "geom:longitude":48.49632,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Saqiyan",
+    "gn:country_code":"AZ",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585173,
+    "gn:latitude":40.63589,
+    "gn:longitude":48.49632,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Saqiyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saqiyan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0433\u0438\u044f\u043d"
+    ],
+    "name:und_x_variant":[
+        "Sagiyan",
+        "Saqiyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585173,
+        "wk:page":"Saqiyan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"27086e47b102a576af465ceb4c1e0b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343596207,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1343596207,
+    "wof:lastmodified":1537585347,
+    "wof:name":"Saqiyan",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.49632,
+    40.63589,
+    48.49632,
+    40.63589
+],
+  "geometry": {"coordinates":[48.49632,40.63589],"type":"Point"}
+}

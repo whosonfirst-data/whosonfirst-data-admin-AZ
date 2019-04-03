@@ -1,0 +1,68 @@
+{
+  "id": 1209645863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.79142,40.3813,48.79142,40.3813",
+    "geom:latitude":40.3813,
+    "geom:longitude":48.79142,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Dag Kolani",
+    "gn:country_code":"AZ",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586801,
+    "gn:latitude":40.3813,
+    "gn:longitude":48.79142,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Da\u011f Kolan\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Da\u011f Kolan\u0131"
+    ],
+    "name:und_x_variant":[
+        "Dagkolany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586801,
+        "wk:page":"Dagkolany"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2bb93e995929a2b1d38a94c62dac9842",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209645863
+        }
+    ],
+    "wof:id":1209645863,
+    "wof:lastmodified":1537585459,
+    "wof:name":"Dag Kolani",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.79142,
+    40.3813,
+    48.79142,
+    40.3813
+],
+  "geometry": {"coordinates":[48.79142,40.3813],"type":"Point"}
+}

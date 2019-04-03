@@ -1,0 +1,70 @@
+{
+  "id": 1209079373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.40468,39.25806,48.40468,39.25806",
+    "geom:latitude":39.25806,
+    "geom:longitude":48.40468,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Abisabad",
+    "gn:country_code":"AZ",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148639,
+    "gn:latitude":39.25806,
+    "gn:longitude":48.40468,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Ab\u0131\u015fabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ab\u0131\u015fabad"
+    ],
+    "name:und_x_variant":[
+        "Abush-Abad",
+        "Abushabad",
+        "Abyshabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148639,
+        "wk:page":"Ab%C4%B1%C5%9Fabad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dfb2286199bb8733db2880ca02b6dc18",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209079373
+        }
+    ],
+    "wof:id":1209079373,
+    "wof:lastmodified":1537585288,
+    "wof:name":"Abisabad",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.40468,
+    39.25806,
+    48.40468,
+    39.25806
+],
+  "geometry": {"coordinates":[48.40468,39.25806],"type":"Point"}
+}

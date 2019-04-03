@@ -1,0 +1,77 @@
+{
+  "id": 1209582965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.94486,39.9802,45.94486,39.9802",
+    "geom:latitude":39.9802,
+    "geom:longitude":45.94486,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Zivel",
+    "gn:country_code":"AZ",
+    "gn:dem":2202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146875,
+    "gn:latitude":39.9802,
+    "gn:longitude":45.94486,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Zivel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zivel"
+    ],
+    "name:hye_x_preferred":[
+        "Tsavalk\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u053e\u0561\u057e\u0561\u056c\u0584"
+    ],
+    "name:rus_x_preferred":[
+        "Zivel\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0417\u0438\u0432\u0435\u043b\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146875,
+        "wk:page":"Zivel"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dd6aa5b5db340b825175fbac68293820",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209582965
+        }
+    ],
+    "wof:id":1209582965,
+    "wof:lastmodified":1537585123,
+    "wof:name":"Zivel",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.94486,
+    39.9802,
+    45.94486,
+    39.9802
+],
+  "geometry": {"coordinates":[45.94486,39.9802],"type":"Point"}
+}

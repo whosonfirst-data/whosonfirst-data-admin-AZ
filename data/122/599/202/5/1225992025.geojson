@@ -1,0 +1,82 @@
+{
+  "id": 1225992025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.19187,40.28292,48.19187,40.28292",
+    "geom:latitude":40.28292,
+    "geom:longitude":48.19187,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Chovranly",
+    "gn:country_code":"AZ",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586827,
+    "gn:latitude":40.28292,
+    "gn:longitude":48.19187,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Chovranly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00c7\u00f6hranl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0445\u0440\u0430\u043d\u043b\u044b"
+    ],
+    "name:rus_x_variant":[
+        "Ch\u00ebkhranly"
+    ],
+    "name:und_x_variant":[
+        "Cheyrany",
+        "Chovranly",
+        "\u00c7\u00f6hranl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668383,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586827,
+        "wk:page":"%C3%87%C3%B6hranl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a25160e23abe42e32165f8893363fcc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225992025,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":1225992025,
+    "wof:lastmodified":1537585461,
+    "wof:name":"Chovranly",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.19187,
+    40.28292,
+    48.19187,
+    40.28292
+],
+  "geometry": {"coordinates":[48.19187,40.28292],"type":"Point"}
+}

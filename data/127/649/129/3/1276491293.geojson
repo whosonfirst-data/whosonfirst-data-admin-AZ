@@ -1,0 +1,72 @@
+{
+  "id": 1276491293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.66458,39.0893,48.66458,39.0893",
+    "geom:latitude":39.0893,
+    "geom:longitude":48.66458,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Chakhyrly",
+    "gn:country_code":"AZ",
+    "gn:dem":-11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148287,
+    "gn:latitude":39.0893,
+    "gn:longitude":48.66458,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chakhyrly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chakhirly",
+        "Chakhyrly",
+        "\u00c7ax\u0131rl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148287
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6b9475cd879fba475e72c4d5c516806f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276491293,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1276491293,
+    "wof:lastmodified":1537585259,
+    "wof:name":"Chakhyrly",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.66458,
+    39.0893,
+    48.66458,
+    39.0893
+],
+  "geometry": {"coordinates":[48.66458,39.0893],"type":"Point"}
+}

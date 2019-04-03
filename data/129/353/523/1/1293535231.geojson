@@ -1,0 +1,74 @@
+{
+  "id": 1293535231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.68953,38.9639,48.68953,38.9639",
+    "geom:latitude":38.9639,
+    "geom:longitude":48.68953,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Cayqiraq",
+    "gn:country_code":"AZ",
+    "gn:dem":-12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8473735,
+    "gn:latitude":38.9639,
+    "gn:longitude":48.68953,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"\u00c7ayq\u0131raq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7ayq\u0131raq"
+    ],
+    "name:und_x_variant":[
+        "Chaykyrak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8473735,
+        "wk:page":"%C3%87ayq%C4%B1raq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"437f059b907cf5229e4c859b0817d6eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293535231,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1293535231,
+    "wof:lastmodified":1537585526,
+    "wof:name":"Cayqiraq",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.68953,
+    38.9639,
+    48.68953,
+    38.9639
+],
+  "geometry": {"coordinates":[48.68953,38.9639],"type":"Point"}
+}

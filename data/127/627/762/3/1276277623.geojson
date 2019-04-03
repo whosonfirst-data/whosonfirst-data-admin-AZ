@@ -1,0 +1,72 @@
+{
+  "id": 1276277623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.61628,38.89273,48.61628,38.89273",
+    "geom:latitude":38.89273,
+    "geom:longitude":48.61628,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Didzho",
+    "gn:country_code":"AZ",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147516,
+    "gn:latitude":38.89273,
+    "gn:longitude":48.61628,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Didzho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miandy",
+        "Didzho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147516,
+        "wk:page":"Miandy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"de230b1a95ba33913e8c66c8a04ef152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276277623,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1276277623,
+    "wof:lastmodified":1537585181,
+    "wof:name":"Didzho",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.61628,
+    38.89273,
+    48.61628,
+    38.89273
+],
+  "geometry": {"coordinates":[48.61628,38.89273],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259518117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.02639,39.69361,47.02639,39.69361",
+    "geom:latitude":39.69361,
+    "geom:longitude":47.02639,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Cutcu",
+    "gn:country_code":"AZ",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395738,
+    "gn:latitude":39.69361,
+    "gn:longitude":47.02639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"C\u00fct\u00e7\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C\u00fct\u00e7\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395738,
+        "wk:page":"C%C3%BCt%C3%A7%C3%BC"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f411c8a50baeca3af980cc080c64c9a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259518117,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1259518117,
+    "wof:lastmodified":1537585300,
+    "wof:name":"Cutcu",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.02639,
+    39.69361,
+    47.02639,
+    39.69361
+],
+  "geometry": {"coordinates":[47.02639,39.69361],"type":"Point"}
+}

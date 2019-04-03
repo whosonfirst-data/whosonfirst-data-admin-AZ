@@ -1,0 +1,64 @@
+{
+  "id": 1209480765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.75389,40.48611,45.75389,40.48611",
+    "geom:latitude":40.48611,
+    "geom:longitude":45.75389,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Plankand",
+    "gn:country_code":"AZ",
+    "gn:dem":1335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824410,
+    "gn:latitude":40.48611,
+    "gn:longitude":45.75389,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Plank\u0259nd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Plank\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824410
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e6060b6bd1d12bdf13860b2613cb736a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209480765
+        }
+    ],
+    "wof:id":1209480765,
+    "wof:lastmodified":1537585512,
+    "wof:name":"Plankand",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.75389000000001,
+    40.48611,
+    45.75389000000001,
+    40.48611
+],
+  "geometry": {"coordinates":[45.75389000000001,40.48611],"type":"Point"}
+}

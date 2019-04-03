@@ -1,0 +1,72 @@
+{
+  "id": 1343612999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.69444,40.89067,47.69444,40.89067",
+    "geom:latitude":40.89067,
+    "geom:longitude":47.69444,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Chukhur-Kebele",
+    "gn:country_code":"AZ",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586821,
+    "gn:latitude":40.89067,
+    "gn:longitude":47.69444,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Chukhur-Kebele",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chukhur Kabala",
+        "\u00c7uxur Q\u0259b\u0259l\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586821,
+        "wk:page":"%C3%87uxur_Q%C9%99b%C9%99l%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8b8d2fda6d4a77cf3b95c500d04423b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343612999,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1343612999,
+    "wof:lastmodified":1537585461,
+    "wof:name":"Chukhur-Kebele",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.69444,
+    40.89067,
+    47.69444,
+    40.89067
+],
+  "geometry": {"coordinates":[47.69444,40.89067],"type":"Point"}
+}

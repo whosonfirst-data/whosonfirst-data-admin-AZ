@@ -1,0 +1,75 @@
+{
+  "id": 1260125581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.75,39.03632,48.75,39.03632",
+    "geom:latitude":39.03632,
+    "geom:longitude":48.75,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Huseynhacili",
+    "gn:country_code":"AZ",
+    "gn:dem":-15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148027,
+    "gn:latitude":39.03632,
+    "gn:longitude":48.75,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"H\u00fcseynhac\u0131l\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "H\u00fcseynhac\u0131l\u0131"
+    ],
+    "name:und_x_variant":[
+        "Gusi-Nadzhaly",
+        "Guseyngadzhyly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148027,
+        "wk:page":"H%C3%BCseynhac%C4%B1l%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"085bfbbdfded3c4513fe6e1c8a453934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260125581,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1260125581,
+    "wof:lastmodified":1537585232,
+    "wof:name":"Huseynhacili",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.75,
+    39.03632,
+    48.75,
+    39.03632
+],
+  "geometry": {"coordinates":[48.75,39.03632],"type":"Point"}
+}

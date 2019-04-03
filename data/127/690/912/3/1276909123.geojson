@@ -1,0 +1,87 @@
+{
+  "id": 1276909123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.63952,39.00513,46.63952,39.00513",
+    "geom:latitude":39.00513,
+    "geom:longitude":46.63952,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Chopedere",
+    "gn:country_code":"AZ",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148261,
+    "gn:latitude":39.00513,
+    "gn:longitude":46.63952,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Chopedere",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7\u00f6p\u0259d\u0259r\u0259"
+    ],
+    "name:hye_x_preferred":[
+        "Tsobadzor"
+    ],
+    "name:hye_x_variant":[
+        "\u053e\u0578\u0562\u0561\u0571\u0578\u0580",
+        "Tsopaadzor",
+        "\u053e\u0578\u057a\u0561\u0561\u0571\u0578\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u043f\u0435\u0434\u0435\u0440\u0435"
+    ],
+    "name:und_x_variant":[
+        "Chepa-dara",
+        "Chopedere",
+        "Chopedara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148261,
+        "wk:page":"%C3%87%C3%B6p%C9%99d%C9%99r%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"620d41f9efbdc0677e37352b5f0a44c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276909123,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1276909123,
+    "wof:lastmodified":1537585256,
+    "wof:name":"Chopedere",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.63952000000001,
+    39.00513,
+    46.63952000000001,
+    39.00513
+],
+  "geometry": {"coordinates":[46.63952000000001,39.00513],"type":"Point"}
+}

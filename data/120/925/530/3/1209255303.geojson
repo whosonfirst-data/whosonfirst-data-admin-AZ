@@ -1,0 +1,68 @@
+{
+  "id": 1209255303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.02508,39.0473,46.02508,39.0473",
+    "geom:latitude":39.0473,
+    "geom:longitude":46.02508,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147365.0",
+    "gn:asciiname":"Zvar",
+    "gn:country_code":"AZ",
+    "gn:dem":2452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11312748,
+    "gn:latitude":39.0473,
+    "gn:longitude":46.02508,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Zvar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Zvar"
+    ],
+    "name:hye_x_variant":[
+        "\u0536\u057e\u0561\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11312748
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c731b4944efd7c43cf58d89b6ee9fac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209255303
+        }
+    ],
+    "wof:id":1209255303,
+    "wof:lastmodified":1537585545,
+    "wof:name":"Zvar",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.02508,
+    39.0473,
+    46.02508,
+    39.0473
+],
+  "geometry": {"coordinates":[46.02508,39.0473],"type":"Point"}
+}

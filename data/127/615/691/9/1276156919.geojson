@@ -1,0 +1,79 @@
+{
+  "id": 1276156919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.61469,39.06453,46.61469,39.06453",
+    "geom:latitude":39.06453,
+    "geom:longitude":46.61469,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Shafibeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147218,
+    "gn:latitude":39.06453,
+    "gn:longitude":46.61469,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Shafibeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015e\u0259fib\u0259yli"
+    ],
+    "name:hye_x_preferred":[
+        "Arts\u2019akhamayr"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0580\u0581\u0561\u056d\u0561\u0574\u0561\u0575\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0444\u0438\u0431\u0435\u0439\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147218
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"531c2aef1a8035f025cfdf19630bc546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276156919,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1276156919,
+    "wof:lastmodified":1537585155,
+    "wof:name":"Shafibeyli",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.61469,
+    39.06453,
+    46.61469,
+    39.06453
+],
+  "geometry": {"coordinates":[46.61469,39.06453],"type":"Point"}
+}

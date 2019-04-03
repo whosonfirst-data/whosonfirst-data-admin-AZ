@@ -1,0 +1,79 @@
+{
+  "id": 1310491241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.11593,40.46332,50.11593,40.46332",
+    "geom:latitude":40.46332,
+    "geom:longitude":50.11593,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ikinci Qala",
+    "gn:country_code":"AZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824005,
+    "gn:latitude":40.46332,
+    "gn:longitude":50.11593,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"\u0130kinci Qala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u0130kinci Qala"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Qala",
+        "\u0130kinci Qala",
+        "Kala Vtoroy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824005,
+        "wk:page":"%C4%B0kinci_Qala"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"600a389c793082fa6cc31d1462229026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310491241,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1310491241,
+    "wof:lastmodified":1537585508,
+    "wof:name":"Ikinci Qala",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.11593,
+    40.46332,
+    50.11593,
+    40.46332
+],
+  "geometry": {"coordinates":[50.11593,40.46332],"type":"Point"}
+}

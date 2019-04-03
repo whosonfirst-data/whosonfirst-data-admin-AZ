@@ -1,0 +1,74 @@
+{
+  "id": 1327307147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.58238,39.1608,48.58238,39.1608",
+    "geom:latitude":39.1608,
+    "geom:longitude":48.58238,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mugan",
+    "gn:country_code":"AZ",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147099,
+    "gn:latitude":39.1608,
+    "gn:longitude":48.58238,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Mu\u011fan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mu\u011fan"
+    ],
+    "name:und_x_variant":[
+        "Svetlaya Zarya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147099,
+        "wk:page":"Mu%C4%9Fan%2C_Jalilabad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"12e902dafd3e4ccfd6b253aacba69fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327307147,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1327307147,
+    "wof:lastmodified":1537585143,
+    "wof:name":"Mugan",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.58238,
+    39.1608,
+    48.58238,
+    39.1608
+],
+  "geometry": {"coordinates":[48.58238,39.1608],"type":"Point"}
+}

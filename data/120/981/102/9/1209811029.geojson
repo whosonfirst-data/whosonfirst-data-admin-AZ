@@ -1,0 +1,67 @@
+{
+  "id": 1209811029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.87268,38.63447,48.87268,38.63447",
+    "geom:latitude":38.63447,
+    "geom:longitude":48.87268,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Qamisovka",
+    "gn:country_code":"AZ",
+    "gn:dem":-24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147945,
+    "gn:latitude":38.63447,
+    "gn:longitude":48.87268,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Qam\u0131\u015fovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamyshevka",
+        "Kamyshovka",
+        "Qam\u0131\u015fovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147945,
+        "wk:page":"Qam%C4%B1%C5%9Fovka"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"787ff623b69c0dc33c706bb537565b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209811029,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209811029,
+    "wof:lastmodified":1537585225,
+    "wof:name":"Qamisovka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.87268,
+    38.63447,
+    48.87268,
+    38.63447
+],
+  "geometry": {"coordinates":[48.87268,38.63447],"type":"Point"}
+}

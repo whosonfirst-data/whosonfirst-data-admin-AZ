@@ -1,0 +1,73 @@
+{
+  "id": 1209393849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.14592,39.3201,47.14592,39.3201",
+    "geom:latitude":39.3201,
+    "geom:longitude":47.14592,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Shukyurbeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147168,
+    "gn:latitude":39.3201,
+    "gn:longitude":47.14592,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Shukyurbeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015e\u00fck\u00fcrb\u0259yli"
+    ],
+    "name:hye_x_preferred":[
+        "Shuk\u2019urbeyli"
+    ],
+    "name:hye_x_variant":[
+        "\u0547\u0578\u0582\u0584\u0578\u0582\u0580\u0562\u0565\u0575\u056c\u056b"
+    ],
+    "name:und_x_variant":[
+        "Shekyur-Beklu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147168
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2504a6ed5ab550207c977f839aa5aaa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209393849
+        }
+    ],
+    "wof:id":1209393849,
+    "wof:lastmodified":1537585150,
+    "wof:name":"Shukyurbeyli",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.14592,
+    39.3201,
+    47.14592,
+    39.3201
+],
+  "geometry": {"coordinates":[47.14592,39.3201],"type":"Point"}
+}

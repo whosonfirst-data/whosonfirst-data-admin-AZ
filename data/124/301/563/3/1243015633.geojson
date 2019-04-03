@@ -1,0 +1,87 @@
+{
+  "id": 1243015633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.50333,39.78611,46.50333,39.78611",
+    "geom:latitude":39.78611,
+    "geom:longitude":46.50333,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Bozguney",
+    "gn:cc2":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":1549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148315,
+    "gn:latitude":39.78611,
+    "gn:longitude":46.50333,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Bozg\u00fcney",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bozg\u00fcney"
+    ],
+    "name:hye_x_preferred":[
+        "Bazgyuney"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0561\u0566\u0563\u0575\u0578\u0582\u0576\u0565\u0575",
+        "Artashat",
+        "\u0531\u0580\u057f\u0561\u0577\u0561\u057f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0437\u0433\u044e\u043d\u0435\u0439"
+    ],
+    "name:und_x_variant":[
+        "Bozgyuney",
+        "\u0411\u043e\u0437\u0433\u044e\u043d\u0435\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148315,
+        "wk:page":"Bozg%C3%BCney"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cfac8683bd351671d59949e98c5ccc92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243015633,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1243015633,
+    "wof:lastmodified":1537585261,
+    "wof:name":"Bozguney",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.50333,
+    39.78611,
+    46.50333,
+    39.78611
+],
+  "geometry": {"coordinates":[46.50333,39.78611],"type":"Point"}
+}

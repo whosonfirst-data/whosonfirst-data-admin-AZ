@@ -1,0 +1,76 @@
+{
+  "id": 1326619237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.30251,41.67901,46.30251,41.67901",
+    "geom:latitude":41.67901,
+    "geom:longitude":46.30251,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Saribulaq",
+    "gn:country_code":"AZ",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585133,
+    "gn:latitude":41.67901,
+    "gn:longitude":46.30251,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Sar\u0131bulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sar\u0131bulaq"
+    ],
+    "name:und_x_variant":[
+        "Sarykhbulakhbina",
+        "Sarybulak",
+        "Sarybulakhbina",
+        "\u015ear\u0131bulaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585133
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0c85e44b2a1711b8d043e297e069df76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326619237,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1326619237,
+    "wof:lastmodified":1537585345,
+    "wof:name":"Saribulaq",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.30251,
+    41.67901,
+    46.30251,
+    41.67901
+],
+  "geometry": {"coordinates":[46.30251,41.67901],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1277013665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.69534,39.98702,46.69534,39.98702",
+    "geom:latitude":39.98702,
+    "geom:longitude":46.69534,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Seyidshen",
+    "gn:country_code":"AZ",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147240,
+    "gn:latitude":39.98702,
+    "gn:longitude":46.69534,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Seyidshen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Seyidb\u0259yli"
+    ],
+    "name:aze_x_variant":[
+        "Seyidi\u015fen"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0561\u0573\u0565\u0576"
+    ],
+    "name:hye_x_variant":[
+        "Khachen",
+        "Khach\u2019en",
+        "\u053d\u0561\u0579\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0439\u0438\u0434\u0448\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Khachen",
+        "Seidishen",
+        "Seyidshen",
+        "Seydishen",
+        "\u0421\u0435\u0439\u0438\u0434\u0448\u0435\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147240,
+        "wk:page":"Seyidb%C9%99yli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d9e41aec3973543f60f46ab760c12832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277013665,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1277013665,
+    "wof:lastmodified":1537585157,
+    "wof:name":"Seyidshen",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.69534,
+    39.98702,
+    46.69534,
+    39.98702
+],
+  "geometry": {"coordinates":[46.69534,39.98702],"type":"Point"}
+}

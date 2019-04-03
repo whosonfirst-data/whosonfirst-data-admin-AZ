@@ -1,0 +1,72 @@
+{
+  "id": 1327116611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.0638,40.45864,46.0638,40.45864",
+    "geom:latitude":40.45864,
+    "geom:longitude":46.0638,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Zagali",
+    "gn:country_code":"AZ",
+    "gn:dem":1599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584612,
+    "gn:latitude":40.45864,
+    "gn:longitude":46.0638,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Za\u011fal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zagaly",
+        "Za\u011fal\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584612,
+        "wk:page":"Za%C4%9Fal%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"961ce33255f196392713de818687c991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327116611,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1327116611,
+    "wof:lastmodified":1537585309,
+    "wof:name":"Zagali",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.0638,
+    40.45864,
+    46.0638,
+    40.45864
+],
+  "geometry": {"coordinates":[46.0638,40.45864],"type":"Point"}
+}

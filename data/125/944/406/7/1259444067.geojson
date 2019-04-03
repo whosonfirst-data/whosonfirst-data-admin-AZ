@@ -1,0 +1,82 @@
+{
+  "id": 1259444067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.80834,38.87417,48.80834,38.87417",
+    "geom:latitude":38.87417,
+    "geom:longitude":48.80834,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Liman",
+    "gn:country_code":"AZ",
+    "gn:dem":-23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147316,
+    "gn:latitude":38.87417,
+    "gn:longitude":48.80834,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Liman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Port \u0130li\u00e7"
+    ],
+    "name:aze_x_variant":[
+        "Liman"
+    ],
+    "name:und_x_variant":[
+        "Iliitch Port",
+        "Port-Il\u2019icha",
+        "Iliich",
+        "Port-Il\u2019ich",
+        "Ilych",
+        "Liman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147316,
+        "wk:page":"Liman%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"004a774f707e29e3ffcd0628ff14b6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259444067,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1259444067,
+    "wof:lastmodified":1537585163,
+    "wof:name":"Liman",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.80834,
+    38.87417,
+    48.80834,
+    38.87417
+],
+  "geometry": {"coordinates":[48.80834,38.87417],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 421180417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.00389,40.53278,50.00389,40.53278",
+    "geom:latitude":40.53278,
+    "geom:longitude":50.00389,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Ma\u015fta\u011fa"
+    ],
+    "name:dut_x_preferred":[
+        "Ma\u015fta\u011fa"
+    ],
+    "name:eng_x_preferred":[
+        "Ma\u015fta\u011fa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0634\u062a\u0627\u063a\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ma\u015fta\u011fa"
+    ],
+    "name:fre_x_preferred":[
+        "Ma\u015fta\u011fa"
+    ],
+    "name:lit_x_preferred":[
+        "Ma\u0161taga"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0634\u062a\u0627\u063a\u0627"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0448\u0442\u0430\u0433\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ma\u015fta\u011fa"
+    ],
+    "name:unk_x_variant":[
+        "Mashtagi"
+    ],
+    "qs:gn_country":"AZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":585557,
+    "qs:gn_pop":40092,
+    "qs:name":"Mashtaga",
+    "qs:name_adm0":"Azerbaijan",
+    "qs:name_adm1":"Baki",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":430478,
+    "qs:woe_adm0":23424741,
+    "qs:woe_id":1951969,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585557,
+        "gp:id":1951969,
+        "qs:id":430478,
+        "wd:id":"Q4026905"
+    },
+    "wof:country":"AZ",
+    "wof:created":1459009258,
+    "wof:geomhash":"4f18f3d2617e723a4af74ceb2b4102cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":421180417,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":421180417,
+    "wof:lastmodified":1513898776,
+    "wof:name":"Mashtaga",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:population":40092,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.00389,
+    40.53278,
+    50.00389,
+    40.53278
+],
+  "geometry": {"coordinates":[50.00389,40.53278],"type":"Point"}
+}

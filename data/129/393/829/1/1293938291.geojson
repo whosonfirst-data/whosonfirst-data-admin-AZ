@@ -1,0 +1,73 @@
+{
+  "id": 1293938291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.44199,40.22035,46.44199,40.22035",
+    "geom:latitude":40.22035,
+    "geom:longitude":46.44199,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Mt'nadzor",
+    "gn:country_code":"AZ",
+    "gn:dem":1930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8656045,
+    "gn:latitude":40.22035,
+    "gn:longitude":46.44199,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Mt\u2019nadzor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Mt\u2019nadzor"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0569\u0576\u0561\u0571\u0578\u0580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8656045
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e38247b27e45e0c4e2f4e8e455724429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293938291,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1293938291,
+    "wof:lastmodified":1537585538,
+    "wof:name":"Mt'nadzor",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.44199,
+    40.22035,
+    46.44199,
+    40.22035
+],
+  "geometry": {"coordinates":[46.44199,40.22035],"type":"Point"}
+}

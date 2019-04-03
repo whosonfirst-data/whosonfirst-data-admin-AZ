@@ -1,0 +1,81 @@
+{
+  "id": 1209365779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.294,39.69605,46.294,39.69605",
+    "geom:latitude":39.69605,
+    "geom:longitude":46.294,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Qalaca",
+    "gn:country_code":"AZ",
+    "gn:dem":1405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147954,
+    "gn:latitude":39.69605,
+    "gn:longitude":46.294,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Qala\u00e7a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qala\u00e7a"
+    ],
+    "name:hye_x_preferred":[
+        "Ghalacha"
+    ],
+    "name:hye_x_variant":[
+        "\u0542\u0561\u056c\u0561\u0579\u0561",
+        "Berdik",
+        "\u0532\u0565\u0580\u0564\u056b\u056f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kalacha",
+        "Kalacho",
+        "\u041a\u0430\u043b\u0430\u0447\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147954,
+        "wk:page":"Qala%C3%A7a"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1759ed629147997df7827fc085ad70cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209365779
+        }
+    ],
+    "wof:id":1209365779,
+    "wof:lastmodified":1537585225,
+    "wof:name":"Qalaca",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.294,
+    39.69605,
+    46.294,
+    39.69605
+],
+  "geometry": {"coordinates":[46.294,39.69605],"type":"Point"}
+}

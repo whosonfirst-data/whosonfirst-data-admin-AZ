@@ -1,0 +1,72 @@
+{
+  "id": 1293119085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.43814,41.62944,46.43814,41.62944",
+    "geom:latitude":41.62944,
+    "geom:longitude":46.43814,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Qamistala",
+    "gn:country_code":"AZ",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586256,
+    "gn:latitude":41.62944,
+    "gn:longitude":46.43814,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Qam\u0131\u015ftala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamyshtala",
+        "Qam\u0131\u015ftala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586256,
+        "wk:page":"Qam%C4%B1%C5%9Ftala"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ac1d17b0c74631f33fa54497cca1ee20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293119085,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1293119085,
+    "wof:lastmodified":1537585421,
+    "wof:name":"Qamistala",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.43814,
+    41.62944,
+    46.43814,
+    41.62944
+],
+  "geometry": {"coordinates":[46.43814,41.62944],"type":"Point"}
+}

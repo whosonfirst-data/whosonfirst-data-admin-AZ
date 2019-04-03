@@ -1,0 +1,72 @@
+{
+  "id": 1327302213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.24448,39.91189,48.24448,39.91189",
+    "geom:latitude":39.91189,
+    "geom:longitude":48.24448,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Mirili",
+    "gn:country_code":"AZ",
+    "gn:dem":-6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147500,
+    "gn:latitude":39.91189,
+    "gn:longitude":48.24448,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Mirili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mirilli",
+        "Mirili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668433,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147500,
+        "wk:page":"Mirili"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"411afcc7c28b9b2c178fe796570cf1cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327302213,
+            "macroregion_id":1108808627,
+            "region_id":85668433
+        }
+    ],
+    "wof:id":1327302213,
+    "wof:lastmodified":1537585179,
+    "wof:name":"Mirili",
+    "wof:parent_id":85668433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.24448,
+    39.91189,
+    48.24448,
+    39.91189
+],
+  "geometry": {"coordinates":[48.24448,39.91189],"type":"Point"}
+}

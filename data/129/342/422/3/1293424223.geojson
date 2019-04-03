@@ -1,0 +1,74 @@
+{
+  "id": 1293424223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.17498,41.00812,49.17498,41.00812",
+    "geom:latitude":41.00812,
+    "geom:longitude":49.17498,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Karasiyazen",
+    "gn:country_code":"AZ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586151,
+    "gn:latitude":41.00812,
+    "gn:longitude":49.17498,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Karasiyazen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karasiazan\u2019",
+        "Siazan\u2019",
+        "Kafasiyazen",
+        "Karasiyazen",
+        "Siy\u0259z\u0259n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668425,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586151
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e8268294708bf4e378909b06fc3a7c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293424223,
+            "macroregion_id":1108808623,
+            "region_id":85668425
+        }
+    ],
+    "wof:id":1293424223,
+    "wof:lastmodified":1537585412,
+    "wof:name":"Karasiyazen",
+    "wof:parent_id":85668425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.17498,
+    41.00812,
+    49.17498,
+    41.00812
+],
+  "geometry": {"coordinates":[49.17498,41.00812],"type":"Point"}
+}

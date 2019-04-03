@@ -1,0 +1,88 @@
+{
+  "id": 1327470217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.84745,39.90399,46.84745,39.90399",
+    "geom:latitude":39.90399,
+    "geom:longitude":46.84745,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Kyatuk",
+    "gn:country_code":"AZ",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147669,
+    "gn:latitude":39.90399,
+    "gn:longitude":46.84745,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Kyatuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u011fg\u0259dik"
+    ],
+    "name:hye_x_preferred":[
+        "K\u2019yat\u2019uk"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0575\u0561\u0569\u0578\u0582\u056f",
+        "K\u2019yatuk",
+        "\u0554\u0575\u0561\u057f\u0578\u0582\u056f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044f\u0442\u0443\u043a"
+    ],
+    "name:und_x_variant":[
+        "K\u0259t\u00fck",
+        "Kyatuk",
+        "Kiatouk",
+        "\u041a\u044f\u0442\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147669,
+        "wk:page":"A%C4%9Fg%C9%99dik"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dd18a668e4d075ac0ca07fc3c9ca8892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327470217,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1327470217,
+    "wof:lastmodified":1537585196,
+    "wof:name":"Kyatuk",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.84745,
+    39.90399,
+    46.84745,
+    39.90399
+],
+  "geometry": {"coordinates":[46.84745,39.90399],"type":"Point"}
+}

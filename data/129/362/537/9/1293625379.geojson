@@ -1,0 +1,86 @@
+{
+  "id": 1293625379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.4575,39.38552,46.4575,39.38552",
+    "geom:latitude":39.38552,
+    "geom:longitude":46.4575,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Geyarbas",
+    "gn:country_code":"AZ",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148052,
+    "gn:latitude":39.38552,
+    "gn:longitude":46.4575,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Geyarbas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u00f6y\u0259r Abbas"
+    ],
+    "name:aze_x_variant":[
+        "G\u00f6y\u0259rabas"
+    ],
+    "name:hye_x_preferred":[
+        "Gayarabas"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0561\u0575\u0561\u0580\u0561\u0562\u0561\u057d"
+    ],
+    "name:rus_x_preferred":[
+        "G\u00ebyarabas"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0451\u0439\u0430\u0440\u0430\u0431\u0430\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148052,
+        "wk:page":"G%C3%B6y%C9%99r_Abbas"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"20cae53d801c11c5558c24de9a3f8289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293625379,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1293625379,
+    "wof:lastmodified":1537585234,
+    "wof:name":"Geyarbas",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.4575,
+    39.38552,
+    46.4575,
+    39.38552
+],
+  "geometry": {"coordinates":[46.4575,39.38552],"type":"Point"}
+}

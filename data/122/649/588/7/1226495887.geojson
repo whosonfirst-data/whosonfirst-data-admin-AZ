@@ -1,0 +1,76 @@
+{
+  "id": 1226495887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.36253,39.52454,45.36253,39.52454",
+    "geom:latitude":39.52454,
+    "geom:longitude":45.36253,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"8014931.0",
+    "gn:asciiname":"Yuxari Buzqov",
+    "gn:country_code":"AZ",
+    "gn:dem":1774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146935,
+    "gn:latitude":39.52454,
+    "gn:longitude":45.36253,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yuxar\u0131 Buzqov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 Buzqov"
+    ],
+    "name:und_x_variant":[
+        "Yukhary-Buzgov",
+        "Yukhari-Buzgov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668673,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146935,
+        "wk:page":"Yuxar%C4%B1_Buzqov"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"917fdb5653c3082b353a6b5218754de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226495887,
+            "macroregion_id":1108808617,
+            "region_id":85668673
+        }
+    ],
+    "wof:id":1226495887,
+    "wof:lastmodified":1537585129,
+    "wof:name":"Yuxari Buzqov",
+    "wof:parent_id":85668673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.36253,
+    39.52454,
+    45.36253,
+    39.52454
+],
+  "geometry": {"coordinates":[45.36253,39.52454],"type":"Point"}
+}

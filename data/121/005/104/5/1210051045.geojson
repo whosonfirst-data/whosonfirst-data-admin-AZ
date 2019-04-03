@@ -1,0 +1,77 @@
+{
+  "id": 1210051045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.93859,41.42412,46.93859,41.42412",
+    "geom:latitude":41.42412,
+    "geom:longitude":46.93859,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Qax Ingiloy",
+    "gn:country_code":"AZ",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586294,
+    "gn:latitude":41.42412,
+    "gn:longitude":46.93859,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Qax \u0130ngiloy",
+    "gn:population":2747,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kakh Ingilo",
+        "Kakh-Bash-Ingiloy",
+        "Kakhingiloy",
+        "Qax \u0130ngiloy"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668557,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586294,
+        "wk:page":"Qax_%C4%B0ngiloy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7f974fdbe22d09ae94e85da0b476d7c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1210051045,
+            "macroregion_id":1108808619,
+            "region_id":85668557
+        }
+    ],
+    "wof:id":1210051045,
+    "wof:lastmodified":1537585423,
+    "wof:name":"Qax Ingiloy",
+    "wof:parent_id":85668557,
+    "wof:placetype":"locality",
+    "wof:population":2747,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.93859000000001,
+    41.42412,
+    46.93859000000001,
+    41.42412
+],
+  "geometry": {"coordinates":[46.93859000000001,41.42412],"type":"Point"}
+}

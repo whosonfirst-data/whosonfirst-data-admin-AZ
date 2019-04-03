@@ -1,0 +1,85 @@
+{
+  "id": 1243102281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.77612,39.14469,46.77612,39.14469",
+    "geom:latitude":39.14469,
+    "geom:longitude":46.77612,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Xumarli",
+    "gn:country_code":"AZ",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147753,
+    "gn:latitude":39.14469,
+    "gn:longitude":46.77612,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Xumarl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xumarl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Krrmen"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u057c\u0574\u0565\u0576",
+        "Krmen",
+        "\u053f\u0580\u0574\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u043c\u0430\u0440\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Khumarly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147753,
+        "wk:page":"Xumarl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"36d25c7ea3667ff25cddec7feb4c70c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243102281,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1243102281,
+    "wof:lastmodified":1537585204,
+    "wof:name":"Xumarli",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.77612,
+    39.14469,
+    46.77612,
+    39.14469
+],
+  "geometry": {"coordinates":[46.77612,39.14469],"type":"Point"}
+}

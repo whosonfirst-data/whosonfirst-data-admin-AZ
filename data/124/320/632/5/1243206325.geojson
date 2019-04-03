@@ -1,0 +1,73 @@
+{
+  "id": 1243206325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.2133,40.61256,46.2133,40.61256",
+    "geom:latitude":40.61256,
+    "geom:longitude":46.2133,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Yalqislaq",
+    "gn:country_code":"AZ",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584708,
+    "gn:latitude":40.61256,
+    "gn:longitude":46.2133,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Yalq\u0131\u015flaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yalkyshlak",
+        "Yalkyshlag",
+        "Yalq\u0131\u015flaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584708,
+        "wk:page":"Yalq%C4%B1%C5%9Flaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"09247998bf2426dc233f2b5d4f4fb474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243206325,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1243206325,
+    "wof:lastmodified":1537585316,
+    "wof:name":"Yalqislaq",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.2133,
+    40.61256,
+    46.2133,
+    40.61256
+],
+  "geometry": {"coordinates":[46.2133,40.61256],"type":"Point"}
+}

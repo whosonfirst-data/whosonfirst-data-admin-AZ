@@ -1,0 +1,68 @@
+{
+  "id": 1292939639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.805,41.42,48.805,41.42",
+    "geom:latitude":41.42,
+    "geom:longitude":48.805,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Makhmudoba",
+    "gn:country_code":"AZ",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585605,
+    "gn:latitude":41.42,
+    "gn:longitude":48.805,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Makhmudoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585605,
+        "wk:page":"Makhmudoba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bbc3d1d64feb74cc5af78b76aa32ad27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1292939639,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1292939639,
+    "wof:lastmodified":1537486616,
+    "wof:name":"Makhmudoba",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.805,
+    41.42,
+    48.805,
+    41.42
+],
+  "geometry": {"coordinates":[48.805,41.42],"type":"Point"}
+}

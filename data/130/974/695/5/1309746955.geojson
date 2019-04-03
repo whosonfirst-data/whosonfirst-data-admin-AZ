@@ -1,0 +1,89 @@
+{
+  "id": 1309746955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.01482,39.57815,47.01482,39.57815",
+    "geom:latitude":39.57815,
+    "geom:longitude":47.01482,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Ciraquz",
+    "gn:country_code":"AZ",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148264,
+    "gn:latitude":39.57815,
+    "gn:longitude":47.01482,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Ciraquz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ciraquz"
+    ],
+    "name:hye_x_preferred":[
+        "Chrakus"
+    ],
+    "name:hye_x_variant":[
+        "\u0543\u0580\u0561\u056f\u0578\u0582\u057d",
+        "Jrakus",
+        "\u0541\u0580\u0561\u056f\u0578\u0582\u057d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0440\u0430\u043a\u0443\u0437"
+    ],
+    "name:und_x_variant":[
+        "Chirakuz",
+        "Dgrakous",
+        "Chiranuz",
+        "Jrakuys",
+        "\u0427\u0438\u0440\u0430\u043a\u0443\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148264,
+        "wk:page":"Ciraquz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"25e3de2c2972da84f3c6d41a709592ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309746955,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1309746955,
+    "wof:lastmodified":1537585257,
+    "wof:name":"Ciraquz",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.01482,
+    39.57815,
+    47.01482,
+    39.57815
+],
+  "geometry": {"coordinates":[47.01482,39.57815],"type":"Point"}
+}

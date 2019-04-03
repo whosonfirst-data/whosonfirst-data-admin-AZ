@@ -1,0 +1,86 @@
+{
+  "id": 1310662033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.45985,39.59279,46.45985,39.59279",
+    "geom:latitude":39.59279,
+    "geom:longitude":46.45985,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Cagazur",
+    "gn:country_code":"AZ",
+    "gn:dem":1302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148159,
+    "gn:latitude":39.59279,
+    "gn:longitude":46.45985,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Ca\u011fazur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ca\u011fazur"
+    ],
+    "name:hye_x_preferred":[
+        "Jaghazur"
+    ],
+    "name:hye_x_variant":[
+        "\u054b\u0561\u0572\u0561\u0566\u0578\u0582\u0580",
+        "Tsaghadzor",
+        "\u053e\u0561\u0572\u0561\u0571\u0578\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u0433\u0430\u0437\u0443\u0440"
+    ],
+    "name:und_x_variant":[
+        "Dzhagazur",
+        "Dzhagazur Vtoroy",
+        "\u0414\u0436\u0430\u0433\u0430\u0437\u0443\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148159
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"27658a5f97cdc1376c1502bf6bd99935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310662033,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1310662033,
+    "wof:lastmodified":1537585245,
+    "wof:name":"Cagazur",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.45985,
+    39.59279,
+    46.45985,
+    39.59279
+],
+  "geometry": {"coordinates":[46.45985,39.59279],"type":"Point"}
+}

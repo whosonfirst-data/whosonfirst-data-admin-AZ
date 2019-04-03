@@ -1,0 +1,80 @@
+{
+  "id": 1242608897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.68036,40.95712,45.68036,40.95712",
+    "geom:latitude":40.95712,
+    "geom:longitude":45.68036,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Ash-Kushchu",
+    "gn:country_code":"AZ",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587173,
+    "gn:latitude":40.95712,
+    "gn:longitude":45.68036,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Ash-Kushchu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "A\u015fa\u011f\u0131 Qu\u015f\u00e7u"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0448\u0430\u0433\u044b \u041a\u0443\u0448\u0447\u0443"
+    ],
+    "name:und_x_variant":[
+        "Ashagy-Kushchu-Kyrykly",
+        "Ash-Kushchu",
+        "Ashagy Kushchu",
+        "A\u015fa\u011f\u0131 Qu\u015f\u00e7u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587173,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_Qu%C5%9F%C3%A7u"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0411a9d7d898eb76fe778941e521acd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242608897,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1242608897,
+    "wof:lastmodified":1537585486,
+    "wof:name":"Ash-Kushchu",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.68036,
+    40.95712,
+    45.68036,
+    40.95712
+],
+  "geometry": {"coordinates":[45.68036,40.95712],"type":"Point"}
+}

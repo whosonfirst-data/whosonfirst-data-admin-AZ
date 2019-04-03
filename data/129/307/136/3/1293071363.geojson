@@ -1,0 +1,68 @@
+{
+  "id": 1293071363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5975,39.37833,48.5975,39.37833",
+    "geom:latitude":39.37833,
+    "geom:longitude":48.5975,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ser-Abad",
+    "gn:country_code":"AZ",
+    "gn:dem":-11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389058,
+    "gn:latitude":39.37833,
+    "gn:longitude":48.5975,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ser-Abad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668317,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389058,
+        "wk:page":"Ser-Abad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c12ece20288b1330f92b5496bd58ed38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293071363,
+            "macroregion_id":1108808627,
+            "region_id":85668317
+        }
+    ],
+    "wof:id":1293071363,
+    "wof:lastmodified":1537486572,
+    "wof:name":"Ser-Abad",
+    "wof:parent_id":85668317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5975,
+    39.37833,
+    48.5975,
+    39.37833
+],
+  "geometry": {"coordinates":[48.5975,39.37833],"type":"Point"}
+}

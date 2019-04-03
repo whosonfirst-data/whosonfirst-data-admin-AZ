@@ -1,0 +1,83 @@
+{
+  "id": 1225811459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.16365,39.57568,47.16365,39.57568",
+    "geom:latitude":39.57568,
+    "geom:longitude":47.16365,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Ishygly",
+    "gn:country_code":"AZ",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147974,
+    "gn:latitude":39.57568,
+    "gn:longitude":47.16365,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Ishygly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130\u015f\u0131ql\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Ishihli"
+    ],
+    "name:hye_x_variant":[
+        "\u053b\u0577\u056b\u0570\u056c\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0448\u044b\u0433\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ishikhly",
+        "Ishygly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668351,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147974
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9ca51995faf60297c5b2462dc811cd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225811459,
+            "macroregion_id":1108808615,
+            "region_id":85668351
+        }
+    ],
+    "wof:id":1225811459,
+    "wof:lastmodified":1537585227,
+    "wof:name":"Ishygly",
+    "wof:parent_id":85668351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.16365,
+    39.57568,
+    47.16365,
+    39.57568
+],
+  "geometry": {"coordinates":[47.16365,39.57568],"type":"Point"}
+}

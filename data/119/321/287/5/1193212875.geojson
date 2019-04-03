@@ -1,0 +1,72 @@
+{
+  "id": 1193212875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.56472,39.2472,45.56472,39.2472",
+    "geom:latitude":39.2472,
+    "geom:longitude":45.56472,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"7669114.0",
+    "gn:asciiname":"Naxisnargiz",
+    "gn:country_code":"AZ",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9485455,
+    "gn:latitude":39.2472,
+    "gn:longitude":45.56472,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Nax\u0131\u015fn\u0259rgiz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Nax\u0131\u015fn\u0259rgiz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668673,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9485455,
+        "wk:page":"Nax%C4%B1%C5%9Fn%C9%99rgiz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"12b660329f7578597304c187b8a16316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193212875,
+            "macroregion_id":1108808617,
+            "region_id":85668673
+        }
+    ],
+    "wof:id":1193212875,
+    "wof:lastmodified":1537585541,
+    "wof:name":"Naxisnargiz",
+    "wof:parent_id":85668673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.56472,
+    39.2472,
+    45.56472,
+    39.2472
+],
+  "geometry": {"coordinates":[45.56472,39.2472],"type":"Point"}
+}

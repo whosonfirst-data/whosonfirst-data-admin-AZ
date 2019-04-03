@@ -1,0 +1,62 @@
+{
+  "id": 1209658065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.61215,40.78455,47.61215,40.78455",
+    "geom:latitude":40.78455,
+    "geom:longitude":47.61215,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Savalan",
+    "gn:country_code":"AZ",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585114,
+    "gn:latitude":40.78455,
+    "gn:longitude":47.61215,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Savalan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585114,
+        "wk:page":"Savalan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4dcd67b301f0bc823926aba5ed6a4604",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209658065
+        }
+    ],
+    "wof:id":1209658065,
+    "wof:lastmodified":1537486599,
+    "wof:name":"Savalan",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.61215,
+    40.78455,
+    47.61215,
+    40.78455
+],
+  "geometry": {"coordinates":[47.61215,40.78455],"type":"Point"}
+}

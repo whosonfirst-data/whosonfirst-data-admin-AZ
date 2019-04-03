@@ -1,0 +1,74 @@
+{
+  "id": 1343297181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.84354,39.44225,48.84354,39.44225",
+    "geom:latitude":39.44225,
+    "geom:longitude":48.84354,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Seyidlar",
+    "gn:country_code":"AZ",
+    "gn:dem":-23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147237,
+    "gn:latitude":39.44225,
+    "gn:longitude":48.84354,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Seyidlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Seyidl\u0259r"
+    ],
+    "name:und_x_variant":[
+        "Seidlyar",
+        "Seyidlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668449,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147237
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bf1d0bea285522776d035db8454a22a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343297181,
+            "macroregion_id":1108808627,
+            "region_id":85668449
+        }
+    ],
+    "wof:id":1343297181,
+    "wof:lastmodified":1537585157,
+    "wof:name":"Seyidlar",
+    "wof:parent_id":85668449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.84354,
+    39.44225,
+    48.84354,
+    39.44225
+],
+  "geometry": {"coordinates":[48.84354,39.44225],"type":"Point"}
+}

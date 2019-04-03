@@ -1,0 +1,73 @@
+{
+  "id": 1327398313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.63209,40.69596,46.63209,40.69596",
+    "geom:latitude":40.69596,
+    "geom:longitude":46.63209,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Azizbekovo",
+    "gn:country_code":"AZ",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587113,
+    "gn:latitude":40.69596,
+    "gn:longitude":46.63209,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Azizbekovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azizbekov",
+        "Azizbekovo",
+        "\u018fzizb\u0259yov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587113,
+        "wk:page":"Azizbekov%2C_Goranboy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e2b6b915026eb45d2111efecebb83309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327398313,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1327398313,
+    "wof:lastmodified":1537585482,
+    "wof:name":"Azizbekovo",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.63209000000001,
+    40.69596,
+    46.63209000000001,
+    40.69596
+],
+  "geometry": {"coordinates":[46.63209000000001,40.69596],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293818621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.72614,41.3462,48.72614,41.3462",
+    "geom:latitude":41.3462,
+    "geom:longitude":48.72614,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Cagaciq",
+    "gn:country_code":"AZ",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622907,
+    "gn:latitude":41.3462,
+    "gn:longitude":48.72614,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Ca\u011fac\u0131q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ca\u011fac\u0131q"
+    ],
+    "name:und_x_variant":[
+        "Dzhagadzhug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622907,
+        "wk:page":"Ca%C4%9Fac%C4%B1q"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"36ac7ccb2000d24de68305f1204f2929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293818621,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1293818621,
+    "wof:lastmodified":1537585536,
+    "wof:name":"Cagaciq",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.72614,
+    41.3462,
+    48.72614,
+    41.3462
+],
+  "geometry": {"coordinates":[48.72614,41.3462],"type":"Point"}
+}

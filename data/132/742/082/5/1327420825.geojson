@@ -1,0 +1,78 @@
+{
+  "id": 1327420825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.67944,39.81917,47.67944,39.81917",
+    "geom:latitude":39.81917,
+    "geom:longitude":47.67944,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Birinci Asiqli",
+    "gn:cc2":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":393942,
+    "gn:latitude":39.81917,
+    "gn:longitude":47.67944,
+    "gn:modification_date":"2013-05-05",
+    "gn:name":"Birinci A\u015f\u0131ql\u0131",
+    "gn:population":1981,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Birinci A\u015f\u0131ql\u0131"
+    ],
+    "name:und_x_variant":[
+        "Ashykhly Pervoye"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668313,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":393942,
+        "wk:page":"Birinci_A%C5%9F%C4%B1ql%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"14428b6055a93de5986f2c5529191286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327420825,
+            "macroregion_id":1108808627,
+            "region_id":85668313
+        }
+    ],
+    "wof:id":1327420825,
+    "wof:lastmodified":1537585296,
+    "wof:name":"Birinci Asiqli",
+    "wof:parent_id":85668313,
+    "wof:placetype":"locality",
+    "wof:population":1981,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.67944,
+    39.81917,
+    47.67944,
+    39.81917
+],
+  "geometry": {"coordinates":[47.67944,39.81917],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243432493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.08821,40.33895,47.08821,40.33895",
+    "geom:latitude":40.33895,
+    "geom:longitude":47.08821,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kalentarly",
+    "gn:country_code":"AZ",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586274,
+    "gn:latitude":40.33895,
+    "gn:longitude":47.08821,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Kalentarly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u0259l\u0259nt\u0259rli"
+    ],
+    "name:und_x_variant":[
+        "Kalantarly",
+        "Kalantarli",
+        "Kalentarly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586274,
+        "wk:page":"K%C9%99l%C9%99nt%C9%99rli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9d708242f171b384e3b8778cd5a2ab88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243432493,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1243432493,
+    "wof:lastmodified":1537585422,
+    "wof:name":"Kalentarly",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.08821,
+    40.33895,
+    47.08821,
+    40.33895
+],
+  "geometry": {"coordinates":[47.08821,40.33895],"type":"Point"}
+}

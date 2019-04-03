@@ -1,0 +1,71 @@
+{
+  "id": 1310265877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.84327,38.6943,48.84327,38.6943",
+    "geom:latitude":38.6943,
+    "geom:longitude":48.84327,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Tutapeshta",
+    "gn:country_code":"AZ",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147029,
+    "gn:latitude":38.6943,
+    "gn:longitude":48.84327,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Tutapeshta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00fct\u0259p\u0259\u015ft\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147029,
+        "wk:page":"T%C3%BCt%C9%99p%C9%99%C5%9Ft%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"aed94bef58d9d3cd5e1c704b82fca0f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310265877,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1310265877,
+    "wof:lastmodified":1537585138,
+    "wof:name":"Tutapeshta",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.84327,
+    38.6943,
+    48.84327,
+    38.6943
+],
+  "geometry": {"coordinates":[48.84327,38.6943],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343632351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.95088,39.27638,46.95088,39.27638",
+    "geom:latitude":39.27638,
+    "geom:longitude":46.95088,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gadzhiismaylli",
+    "gn:country_code":"AZ",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171431,
+    "gn:latitude":39.27638,
+    "gn:longitude":46.95088,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Gadzhiismaylli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0434\u0436\u0438\u0438\u0441\u043c\u0430\u0439\u043b\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171431
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"22f4b53f239f9fcef06aa7b997f5ec0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343632351,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1343632351,
+    "wof:lastmodified":1537585544,
+    "wof:name":"Gadzhiismaylli",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.95088,
+    39.27638,
+    46.95088,
+    39.27638
+],
+  "geometry": {"coordinates":[46.95088,39.27638],"type":"Point"}
+}

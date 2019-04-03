@@ -1,0 +1,68 @@
+{
+  "id": 1209249411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5994,40.76857,45.5994,40.76857",
+    "geom:latitude":40.76857,
+    "geom:longitude":45.5994,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Xatincan",
+    "gn:country_code":"AZ",
+    "gn:dem":1494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8606513,
+    "gn:latitude":40.76857,
+    "gn:longitude":45.5994,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Xat\u0131ncan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xat\u0131ncan"
+    ],
+    "name:und_x_variant":[
+        "Khatyndzhay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8606513,
+        "wk:page":"Xat%C4%B1ncan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ed9462e1bc7ad602a14e90cd29e32981",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209249411
+        }
+    ],
+    "wof:id":1209249411,
+    "wof:lastmodified":1537585533,
+    "wof:name":"Xatincan",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5994,
+    40.76857,
+    45.5994,
+    40.76857
+],
+  "geometry": {"coordinates":[45.5994,40.76857],"type":"Point"}
+}

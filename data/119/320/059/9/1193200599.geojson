@@ -1,0 +1,75 @@
+{
+  "id": 1193200599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.65544,39.13849,45.65544,39.13849",
+    "geom:latitude":39.13849,
+    "geom:longitude":45.65544,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"148132.0",
+    "gn:asciiname":"Kirna",
+    "gn:country_code":"AZ",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147735,
+    "gn:latitude":39.13849,
+    "gn:longitude":45.65544,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"K\u0131rna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kirn\u0259"
+    ],
+    "name:und_x_variant":[
+        "K\u0131rna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668677,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147735,
+        "wk:page":"K%C4%B1rna"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"92a9ae1d2b05e00de156b6d04739f560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193200599,
+            "macroregion_id":1108808617,
+            "region_id":85668677
+        }
+    ],
+    "wof:id":1193200599,
+    "wof:lastmodified":1537585202,
+    "wof:name":"Kirna",
+    "wof:parent_id":85668677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.65544000000001,
+    39.13849,
+    45.65544000000001,
+    39.13849
+],
+  "geometry": {"coordinates":[45.65544000000001,39.13849],"type":"Point"}
+}

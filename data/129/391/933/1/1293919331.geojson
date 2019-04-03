@@ -1,0 +1,74 @@
+{
+  "id": 1293919331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.63333,40.25,46.63333,40.25",
+    "geom:latitude":40.25,
+    "geom:longitude":46.63333,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Yerek-Mankunk",
+    "gn:country_code":"AZ",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":584656,
+    "gn:latitude":40.25,
+    "gn:longitude":46.63333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Yerek-Mankunk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_preferred":[
+        "Yerek-Mankunk"
+    ],
+    "name:und_x_variant":[
+        "Yerek-Mankuni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584656,
+        "wk:page":"Yerek-Mankunk"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0e7f676555153e8b1574cb26458e766c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293919331,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1293919331,
+    "wof:lastmodified":1537585313,
+    "wof:name":"Yerek-Mankunk",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.63333,
+    40.25,
+    46.63333,
+    40.25
+],
+  "geometry": {"coordinates":[46.63333,40.25],"type":"Point"}
+}

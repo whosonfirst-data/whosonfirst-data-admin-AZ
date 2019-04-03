@@ -1,0 +1,77 @@
+{
+  "id": 1209950409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.85808,41.36067,46.85808,41.36067",
+    "geom:latitude":41.36067,
+    "geom:longitude":46.85808,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Ibaxli",
+    "gn:country_code":"AZ",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586325,
+    "gn:latitude":41.36067,
+    "gn:longitude":46.85808,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"\u0130baxl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130baxl\u0131"
+    ],
+    "name:und_x_variant":[
+        "\u0130saql\u0131",
+        "Ibakhly",
+        "Isakly",
+        "\u0130saxl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668557,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586325,
+        "wk:page":"%C4%B0baxl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a85b4b03781304cc4d5e58dace90ed28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209950409,
+            "macroregion_id":1108808619,
+            "region_id":85668557
+        }
+    ],
+    "wof:id":1209950409,
+    "wof:lastmodified":1537585425,
+    "wof:name":"Ibaxli",
+    "wof:parent_id":85668557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.85808,
+    41.36067,
+    46.85808,
+    41.36067
+],
+  "geometry": {"coordinates":[46.85808,41.36067],"type":"Point"}
+}

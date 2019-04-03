@@ -1,0 +1,74 @@
+{
+  "id": 1259419907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.22119,40.81728,46.22119,40.81728",
+    "geom:latitude":40.81728,
+    "geom:longitude":46.22119,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Pravda",
+    "gn:country_code":"AZ",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585240,
+    "gn:latitude":40.81728,
+    "gn:longitude":46.22119,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Pravda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Q\u0131l\u0131ncb\u0259yli"
+    ],
+    "name:und_x_variant":[
+        "Pravada",
+        "Pravda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585240
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"367243d6b58f726b7fbd8e6b718a6204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259419907,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1259419907,
+    "wof:lastmodified":1537585351,
+    "wof:name":"Pravda",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.22119,
+    40.81728,
+    46.22119,
+    40.81728
+],
+  "geometry": {"coordinates":[46.22119,40.81728],"type":"Point"}
+}

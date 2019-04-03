@@ -1,0 +1,92 @@
+{
+  "id": 1293920475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.82487,39.50973,46.82487,39.50973",
+    "geom:latitude":39.50973,
+    "geom:longitude":46.82487,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Khintaglar",
+    "gn:country_code":"AZ",
+    "gn:dem":1578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147782,
+    "gn:latitude":39.50973,
+    "gn:longitude":46.82487,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Khintaglar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00f6hn\u0259 Ta\u011flar"
+    ],
+    "name:aze_x_variant":[
+        "Hinta\u011flar"
+    ],
+    "name:hye_x_preferred":[
+        "Hin T\u2019aghlar"
+    ],
+    "name:hye_x_variant":[
+        "\u0540\u056b\u0576 \u0539\u0561\u0572\u056c\u0561\u0580",
+        "Hin T\u2019agher",
+        "\u0540\u056b\u0576 \u0539\u0561\u0572\u0565\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u043d\u0442\u0430\u0433\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Zhintaglar",
+        "Khantaglar",
+        "Khintaglar",
+        "Hin Taghk",
+        "\u0425\u0438\u043d\u0442\u0430\u0433\u043b\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147782,
+        "wk:page":"K%C3%B6hn%C9%99_Ta%C4%9Flar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b6755817e216e8adcf86952973299e12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293920475,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1293920475,
+    "wof:lastmodified":1537585207,
+    "wof:name":"Khintaglar",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.82487,
+    39.50973,
+    46.82487,
+    39.50973
+],
+  "geometry": {"coordinates":[46.82487,39.50973],"type":"Point"}
+}

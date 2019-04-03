@@ -1,0 +1,73 @@
+{
+  "id": 1326861393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.54811,40.07779,48.54811,40.07779",
+    "geom:latitude":40.07779,
+    "geom:longitude":48.54811,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Sixlar",
+    "gn:country_code":"AZ",
+    "gn:dem":-16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584974,
+    "gn:latitude":40.07779,
+    "gn:longitude":48.54811,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"\u015e\u0131xlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shykhlyar",
+        "Shikhlyar",
+        "\u015e\u0131xlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584974,
+        "wk:page":"%C5%9E%C4%B1xlar%2C_Sabirabad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a9d7433a1bf5c546e0ea81cc46eb6cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326861393,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1326861393,
+    "wof:lastmodified":1537585334,
+    "wof:name":"Sixlar",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.54811,
+    40.07779,
+    48.54811,
+    40.07779
+],
+  "geometry": {"coordinates":[48.54811,40.07779],"type":"Point"}
+}

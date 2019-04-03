@@ -1,0 +1,81 @@
+{
+  "id": 1327100779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.38462,39.60204,47.38462,39.60204",
+    "geom:latitude":39.60204,
+    "geom:longitude":47.38462,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Alxanli",
+    "gn:country_code":"AZ",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148553,
+    "gn:latitude":39.60204,
+    "gn:longitude":47.38462,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Alxanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Alxanl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0445\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Orta Alkhanly",
+        "Ashaga Alkhanly",
+        "Yukhari-Alkhanly",
+        "Alkhanly",
+        "Alikhanly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668351,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148553,
+        "wk:page":"Alxanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f911195215a70433e717f16ae77941f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327100779,
+            "macroregion_id":1108808615,
+            "region_id":85668351
+        }
+    ],
+    "wof:id":1327100779,
+    "wof:lastmodified":1537585281,
+    "wof:name":"Alxanli",
+    "wof:parent_id":85668351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.38462,
+    39.60204,
+    47.38462,
+    39.60204
+],
+  "geometry": {"coordinates":[47.38462,39.60204],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276156903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.77603,41.66692,48.77603,41.66692",
+    "geom:latitude":41.66692,
+    "geom:longitude":48.77603,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Mukhtadir",
+    "gn:country_code":"AZ",
+    "gn:dem":-18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585452,
+    "gn:latitude":41.66692,
+    "gn:longitude":48.77603,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Mukhtadir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "M\u00fcqt\u01dddir"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0445\u0442\u0430\u0434\u0438\u0440"
+    ],
+    "name:und_x_variant":[
+        "M\u00fcqt\u0259dir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585452,
+        "wk:page":"M%C3%BCqt%C9%99dir"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7656343d982e9a3b2491bfb40ae1456a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276156903,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1276156903,
+    "wof:lastmodified":1537585366,
+    "wof:name":"Mukhtadir",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.77603,
+    41.66692000000001,
+    48.77603,
+    41.66692000000001
+],
+  "geometry": {"coordinates":[48.77603,41.66692000000001],"type":"Point"}
+}

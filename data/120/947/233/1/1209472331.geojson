@@ -1,0 +1,64 @@
+{
+  "id": 1209472331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.44708,40.74866,48.44708,40.74866",
+    "geom:latitude":40.74866,
+    "geom:longitude":48.44708,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Sarsura",
+    "gn:country_code":"AZ",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585137,
+    "gn:latitude":40.74866,
+    "gn:longitude":48.44708,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Sarsura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u0259rsur\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585137
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1b3b80684c2646b271288e2f56b1d313",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209472331
+        }
+    ],
+    "wof:id":1209472331,
+    "wof:lastmodified":1537585345,
+    "wof:name":"Sarsura",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.44708,
+    40.74866,
+    48.44708,
+    40.74866
+],
+  "geometry": {"coordinates":[48.44708,40.74866],"type":"Point"}
+}

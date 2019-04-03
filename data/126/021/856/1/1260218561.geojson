@@ -1,0 +1,73 @@
+{
+  "id": 1260218561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.49466,39.93675,48.49466,39.93675",
+    "geom:latitude":39.93675,
+    "geom:longitude":48.49466,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Saricalar",
+    "gn:country_code":"AZ",
+    "gn:dem":-11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389073,
+    "gn:latitude":39.93675,
+    "gn:longitude":48.49466,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Sar\u0131calar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saradzhalyar",
+        "Sar\u0131calar",
+        "Sarydzhalar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668433,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389073,
+        "wk:page":"Sar%C4%B1calar%2C_Saatly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0780f1d8333eb98a8c833b4b97500dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260218561,
+            "macroregion_id":1108808627,
+            "region_id":85668433
+        }
+    ],
+    "wof:id":1260218561,
+    "wof:lastmodified":1537585293,
+    "wof:name":"Saricalar",
+    "wof:parent_id":85668433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.49466,
+    39.93675,
+    48.49466,
+    39.93675
+],
+  "geometry": {"coordinates":[48.49466,39.93675],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343497573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.45898,41.53708,46.45898,41.53708",
+    "geom:latitude":41.53708,
+    "geom:longitude":46.45898,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Khalatalabina",
+    "gn:country_code":"AZ",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585995,
+    "gn:latitude":41.53708,
+    "gn:longitude":46.45898,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Khalatalabina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khalatala",
+        "Xalatalabin\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668601,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585995
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e16fe4afffccdeb8aaead1c257ca8db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343497573,
+            "macroregion_id":1108808619,
+            "region_id":85668601
+        }
+    ],
+    "wof:id":1343497573,
+    "wof:lastmodified":1537585401,
+    "wof:name":"Khalatalabina",
+    "wof:parent_id":85668601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.45898,
+    41.53708,
+    46.45898,
+    41.53708
+],
+  "geometry": {"coordinates":[46.45898,41.53708],"type":"Point"}
+}

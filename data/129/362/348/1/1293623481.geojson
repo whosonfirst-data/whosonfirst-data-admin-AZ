@@ -1,0 +1,91 @@
+{
+  "id": 1293623481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.70671,39.92827,46.70671,39.92827",
+    "geom:latitude":39.92827,
+    "geom:longitude":46.70671,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Dasbulaq",
+    "gn:country_code":"AZ",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148233,
+    "gn:latitude":39.92827,
+    "gn:longitude":46.70671,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Da\u015fbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Da\u015fbulaq"
+    ],
+    "name:hye_x_preferred":[
+        "Arts\u2019akhashen"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0580\u0581\u0561\u056d\u0561\u0577\u0565\u0576",
+        "Astghashen",
+        "\u0531\u057d\u057f\u0572\u0565\u0577\u0565\u0576",
+        "Astgheshen",
+        "\u0531\u057d\u057f\u0572\u0561\u0577\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0448\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Artsakhashen",
+        "Dashbulakh",
+        "Dashboulagh",
+        "Bash Bulagh",
+        "Dashbulak",
+        "\u0414\u0430\u0448\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148233
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ef3214946782f6c9cc7878fdace7f87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293623481,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1293623481,
+    "wof:lastmodified":1537585252,
+    "wof:name":"Dasbulaq",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.70671,
+    39.92827,
+    46.70671,
+    39.92827
+],
+  "geometry": {"coordinates":[46.70671,39.92827],"type":"Point"}
+}

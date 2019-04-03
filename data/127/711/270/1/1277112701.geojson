@@ -1,0 +1,70 @@
+{
+  "id": 1277112701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.84904,41.33029,46.84904,41.33029",
+    "geom:latitude":41.33029,
+    "geom:longitude":46.84904,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Uzuntala",
+    "gn:country_code":"AZ",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584755,
+    "gn:latitude":41.33029,
+    "gn:longitude":46.84904,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Uzuntala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Uzuntala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668557,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584755
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"29380c719e79e3ea6ff1777384084a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277112701,
+            "macroregion_id":1108808619,
+            "region_id":85668557
+        }
+    ],
+    "wof:id":1277112701,
+    "wof:lastmodified":1537585320,
+    "wof:name":"Uzuntala",
+    "wof:parent_id":85668557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.84904,
+    41.33029000000001,
+    46.84904,
+    41.33029000000001
+],
+  "geometry": {"coordinates":[46.84904,41.33029000000001],"type":"Point"}
+}

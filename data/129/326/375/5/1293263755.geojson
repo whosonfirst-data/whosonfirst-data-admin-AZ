@@ -1,0 +1,71 @@
+{
+  "id": 1293263755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.82369,41.08236,48.82369,41.08236",
+    "geom:latitude":41.08236,
+    "geom:longitude":48.82369,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kyunchal",
+    "gn:country_code":"AZ",
+    "gn:dem":1067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585696,
+    "gn:latitude":41.08236,
+    "gn:longitude":48.82369,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kyunchal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ky\u00fcn\u00e7al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585696,
+        "wk:page":"Ky%C3%BCn%C3%A7al"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b7f8e72e88c6edb22063e94dc8937fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293263755,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1293263755,
+    "wof:lastmodified":1537585382,
+    "wof:name":"Kyunchal",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.82369,
+    41.08236,
+    48.82369,
+    41.08236
+],
+  "geometry": {"coordinates":[48.82369,41.08236],"type":"Point"}
+}

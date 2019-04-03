@@ -1,0 +1,75 @@
+{
+  "id": 1293327303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.44653,41.17305,48.44653,41.17305",
+    "geom:latitude":41.17305,
+    "geom:longitude":48.44653,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Daliqaya",
+    "gn:country_code":"AZ",
+    "gn:dem":1703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586796,
+    "gn:latitude":41.17305,
+    "gn:longitude":48.44653,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Dal\u0131qaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Dal\u0131qaya"
+    ],
+    "name:und_x_variant":[
+        "Dalikaya",
+        "D\u0259liqaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586796,
+        "wk:page":"Dal%C4%B1qaya"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"00c255c7e62b5814b6a551525bdfe82d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293327303,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1293327303,
+    "wof:lastmodified":1537585459,
+    "wof:name":"Daliqaya",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.44653,
+    41.17305,
+    48.44653,
+    41.17305
+],
+  "geometry": {"coordinates":[48.44653,41.17305],"type":"Point"}
+}

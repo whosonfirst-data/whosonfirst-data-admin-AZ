@@ -1,0 +1,70 @@
+{
+  "id": 1343531605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3106,39.31401,48.3106,39.31401",
+    "geom:latitude":39.31401,
+    "geom:longitude":48.3106,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Zarbaly",
+    "gn:country_code":"AZ",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146896,
+    "gn:latitude":39.31401,
+    "gn:longitude":48.3106,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Zarbaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Z\u0259rb\u0259li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146896
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3ad9cf0635ca7094cc691640e8495091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343531605,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1343531605,
+    "wof:lastmodified":1537585125,
+    "wof:name":"Zarbaly",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3106,
+    39.31401,
+    48.3106,
+    39.31401
+],
+  "geometry": {"coordinates":[48.3106,39.31401],"type":"Point"}
+}

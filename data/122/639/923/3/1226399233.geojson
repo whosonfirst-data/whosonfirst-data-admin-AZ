@@ -1,0 +1,76 @@
+{
+  "id": 1226399233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.0624,40.09445,46.0624,40.09445",
+    "geom:latitude":40.09445,
+    "geom:longitude":46.0624,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Saplar",
+    "gn:country_code":"AZ",
+    "gn:dem":1784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585053,
+    "gn:latitude":40.09445,
+    "gn:longitude":46.0624,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"\u015eaplar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043f\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Shaplar",
+        "\u015eaplar",
+        "Ferkhani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585053,
+        "wk:page":"%C5%9Eaplar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"65bed63a55d5a25432ba13131f7471bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226399233,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1226399233,
+    "wof:lastmodified":1537585340,
+    "wof:name":"Saplar",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.0624,
+    40.09445,
+    46.0624,
+    40.09445
+],
+  "geometry": {"coordinates":[46.0624,40.09445],"type":"Point"}
+}

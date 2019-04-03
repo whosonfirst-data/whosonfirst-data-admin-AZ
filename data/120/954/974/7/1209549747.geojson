@@ -1,0 +1,65 @@
+{
+  "id": 1209549747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.65726,40.72733,45.65726,40.72733",
+    "geom:latitude":40.72733,
+    "geom:longitude":45.65726,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Agdere",
+    "gn:country_code":"AZ",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587374,
+    "gn:latitude":40.72733,
+    "gn:longitude":45.65726,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Agdere",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u011fd\u0259r\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587374,
+        "wk:page":"A%C4%9Fd%C9%99r%C9%99%2C_Tovuz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"456f04282c7879844ce3d109dd424126",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209549747
+        }
+    ],
+    "wof:id":1209549747,
+    "wof:lastmodified":1537585500,
+    "wof:name":"Agdere",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.65726,
+    40.72733,
+    45.65726,
+    40.72733
+],
+  "geometry": {"coordinates":[45.65726,40.72733],"type":"Point"}
+}

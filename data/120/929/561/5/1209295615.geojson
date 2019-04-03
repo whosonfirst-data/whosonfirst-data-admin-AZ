@@ -1,0 +1,65 @@
+{
+  "id": 1209295615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.25243,40.30418,47.25243,40.30418",
+    "geom:latitude":40.30418,
+    "geom:longitude":47.25243,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Osmanlar",
+    "gn:country_code":"AZ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585307,
+    "gn:latitude":40.30418,
+    "gn:longitude":47.25243,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Osmanlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Osmanlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585307,
+        "wk:page":"Osmanlar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c9d5bb744257ec7d667b0581551fe1d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209295615
+        }
+    ],
+    "wof:id":1209295615,
+    "wof:lastmodified":1537585356,
+    "wof:name":"Osmanlar",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.25243,
+    40.30418,
+    47.25243,
+    40.30418
+],
+  "geometry": {"coordinates":[47.25243,40.30418],"type":"Point"}
+}

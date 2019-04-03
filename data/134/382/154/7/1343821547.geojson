@@ -1,0 +1,78 @@
+{
+  "id": 1343821547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.77189,41.10356,48.77189,41.10356",
+    "geom:latitude":41.10356,
+    "geom:longitude":48.77189,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nohurlar",
+    "gn:country_code":"AZ",
+    "gn:dem":1283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585355,
+    "gn:latitude":41.10356,
+    "gn:longitude":48.77189,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Nohurlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nohurlar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0445\u0443\u0440\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Nokhurlar",
+        "Nohurlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585355,
+        "wk:page":"Nohurlar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7b5844f0507f0dcb3dff648f222460df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343821547,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1343821547,
+    "wof:lastmodified":1537585359,
+    "wof:name":"Nohurlar",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.77189,
+    41.10356,
+    48.77189,
+    41.10356
+],
+  "geometry": {"coordinates":[48.77189,41.10356],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1260117049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3804,38.66714,48.3804,38.66714",
+    "geom:latitude":38.66714,
+    "geom:longitude":48.3804,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Khiveri",
+    "gn:country_code":"AZ",
+    "gn:dem":1471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147780,
+    "gn:latitude":38.66714,
+    "gn:longitude":48.3804,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Khiveri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hoveri"
+    ],
+    "name:und_x_variant":[
+        "Iveri",
+        "Hiv\u0259ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668403,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147780,
+        "wk:page":"Hiv%C9%99ri"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9dd97bf643dd7d666631835011316386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260117049,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":1260117049,
+    "wof:lastmodified":1537585207,
+    "wof:name":"Khiveri",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3804,
+    38.66714,
+    48.3804,
+    38.66714
+],
+  "geometry": {"coordinates":[48.3804,38.66714],"type":"Point"}
+}

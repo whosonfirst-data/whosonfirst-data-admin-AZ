@@ -1,0 +1,73 @@
+{
+  "id": 1276168493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.95629,39.59065,44.95629,39.59065",
+    "geom:latitude":39.59065,
+    "geom:longitude":44.95629,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147997.0",
+    "gn:asciiname":"Maxta",
+    "gn:country_code":"AZ",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147577,
+    "gn:latitude":39.59065,
+    "gn:longitude":44.95629,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Maxta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makhta",
+        "Maxta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668667,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147577,
+        "wk:page":"Maxta"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5775a36e46954bdb0f62bc390bf3677f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276168493,
+            "macroregion_id":1108808617,
+            "region_id":85668667
+        }
+    ],
+    "wof:id":1276168493,
+    "wof:lastmodified":1537585187,
+    "wof:name":"Maxta",
+    "wof:parent_id":85668667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.95629,
+    39.59065,
+    44.95629,
+    39.59065
+],
+  "geometry": {"coordinates":[44.95629,39.59065],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1259439797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.45801,40.12991,46.45801,40.12991",
+    "geom:latitude":40.12991,
+    "geom:longitude":46.45801,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Qozlukorpu",
+    "gn:country_code":"AZ",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":801236,
+    "gn:latitude":40.12991,
+    "gn:longitude":46.45801,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Qozluk\u00f6rp\u016d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qozlukorpu"
+    ],
+    "name:aze_x_variant":[
+        "Hetavan",
+        "Qozluk\u00f6rp\u016d"
+    ],
+    "name:hye_x_preferred":[
+        "Getavan"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0565\u057f\u0561\u057e\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0442\u0430\u0432\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Burduzh",
+        "Guetavan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":801236,
+        "wk:page":"Getavan%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e6b7149682daebbe06a4df1054033c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259439797,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1259439797,
+    "wof:lastmodified":1537585507,
+    "wof:name":"Qozlukorpu",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.45801,
+    40.12991,
+    46.45801,
+    40.12991
+],
+  "geometry": {"coordinates":[46.45801,40.12991],"type":"Point"}
+}

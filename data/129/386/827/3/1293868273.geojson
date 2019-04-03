@@ -1,0 +1,71 @@
+{
+  "id": 1293868273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.22869,40.44639,50.22869,40.44639",
+    "geom:latitude":40.44639,
+    "geom:longitude":50.22869,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kalazag",
+    "gn:country_code":"AZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":827729,
+    "gn:latitude":40.44639,
+    "gn:longitude":50.22869,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"K\u0259l\u0259za\u011f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "K\u0259l\u0259za\u011f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":827729,
+        "wk:page":"K%C9%99l%C9%99za%C4%9F"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0702000d52552a50abe15cd383aaf352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293868273,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1293868273,
+    "wof:lastmodified":1537585516,
+    "wof:name":"Kalazag",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.22869,
+    40.44639,
+    50.22869,
+    40.44639
+],
+  "geometry": {"coordinates":[50.22869,40.44639],"type":"Point"}
+}

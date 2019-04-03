@@ -1,0 +1,97 @@
+{
+  "id": 890433401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.08564,40.45193,50.08564,40.45193",
+    "geom:latitude":40.45193,
+    "geom:longitude":50.08564,
+    "gn:country":"AZ",
+    "gn:fcode":"PPL",
+    "gn:pop":24596,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Bin\u0259"
+    ],
+    "name:dut_x_preferred":[
+        "Bin\u0259"
+    ],
+    "name:eng_x_preferred":[
+        "Bin\u01dd"
+    ],
+    "name:fre_x_preferred":[
+        "Bin\u0259"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03b9\u03bd\u03ad"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u0646\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Biny Selo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Bina Staraya"
+    ],
+    "qs:name":"Biny Selo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586968,
+        "gp:id":1948164,
+        "qs:id":125858,
+        "wd:id":"Q2339034"
+    },
+    "wof:country":"AZ",
+    "wof:created":1469051979,
+    "wof:geomhash":"c27b06bffa13f8328dea511ae2379888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":890433401,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":890433401,
+    "wof:lastmodified":1513898759,
+    "wof:name":"Biny Selo",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:population":24596,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.08564,
+    40.45193,
+    50.08564,
+    40.45193
+],
+  "geometry": {"coordinates":[50.08564,40.45193],"type":"Point"}
+}

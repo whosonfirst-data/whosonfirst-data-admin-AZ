@@ -1,0 +1,70 @@
+{
+  "id": 1259566707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.71642,39.40482,46.71642,39.40482",
+    "geom:latitude":39.40482,
+    "geom:longitude":46.71642,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mashanly",
+    "gn:country_code":"AZ",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147548,
+    "gn:latitude":39.40482,
+    "gn:longitude":46.71642,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Mashanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mashanly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147548
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1a1562e5d5a528e0fb5a5cefc1fe3961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259566707,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1259566707,
+    "wof:lastmodified":1537585185,
+    "wof:name":"Mashanly",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.71642,
+    39.40482,
+    46.71642,
+    39.40482
+],
+  "geometry": {"coordinates":[46.71642,39.40482],"type":"Point"}
+}

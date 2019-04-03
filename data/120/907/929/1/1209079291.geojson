@@ -1,0 +1,67 @@
+{
+  "id": 1209079291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.25127,39.18013,48.25127,39.18013",
+    "geom:latitude":39.18013,
+    "geom:longitude":48.25127,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Yedysha",
+    "gn:country_code":"AZ",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148128,
+    "gn:latitude":39.18013,
+    "gn:longitude":48.25127,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Yedysha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Edi\u015f\u0259"
+    ],
+    "name:und_x_variant":[
+        "Edisha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148128
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a4025b3cd8470408523905f511ffeb75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209079291
+        }
+    ],
+    "wof:id":1209079291,
+    "wof:lastmodified":1537585242,
+    "wof:name":"Yedysha",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.25127,
+    39.18013,
+    48.25127,
+    39.18013
+],
+  "geometry": {"coordinates":[48.25127,39.18013],"type":"Point"}
+}

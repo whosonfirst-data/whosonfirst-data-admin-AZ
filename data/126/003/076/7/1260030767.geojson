@@ -1,0 +1,87 @@
+{
+  "id": 1260030767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.50278,39.72139,46.50278,39.72139",
+    "geom:latitude":39.72139,
+    "geom:longitude":46.50278,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Bazmatus",
+    "gn:country_code":"AZ",
+    "gn:dem":1336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148293,
+    "gn:latitude":39.72139,
+    "gn:longitude":46.50278,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Bazmatus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "B\u00fcl\u00fcld\u00fcz"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0575\u0578\u0582\u056c\u0575\u0578\u0582\u056c\u0564\u0575\u0578\u0582\u0566"
+    ],
+    "name:hye_x_variant":[
+        "Byululvank\u2019",
+        "\u0532\u0575\u0578\u0582\u056c\u0578\u0582\u056c\u057e\u0561\u0576\u0584",
+        "Bazmatus",
+        "\u0532\u0561\u0566\u0574\u0561\u057f\u0578\u0582\u057d",
+        "Byululuz"
+    ],
+    "name:rus_x_preferred":[
+        "Byulyul\u2019dyuz"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u044e\u043b\u044e\u043b\u044c\u0434\u044e\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148293,
+        "wk:page":"B%C3%BCl%C3%BCld%C3%BCz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b6ba9879f304d58d6845e1dc95ff1b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260030767,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1260030767,
+    "wof:lastmodified":1537585259,
+    "wof:name":"Bazmatus",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.50278,
+    39.72139,
+    46.50278,
+    39.72139
+],
+  "geometry": {"coordinates":[46.50278,39.72139],"type":"Point"}
+}

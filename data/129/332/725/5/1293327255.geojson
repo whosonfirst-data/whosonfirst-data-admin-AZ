@@ -1,0 +1,73 @@
+{
+  "id": 1293327255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.59241,41.40657,48.59241,41.40657",
+    "geom:latitude":41.40657,
+    "geom:longitude":48.59241,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Petropavlovka",
+    "gn:country_code":"AZ",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585275,
+    "gn:latitude":41.40657,
+    "gn:longitude":48.59241,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Petropavlovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u0259ll\u0259kli"
+    ],
+    "name:aze_x_variant":[
+        "Petropavlovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585275
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dd5be9390d963c704ad069860a1dbb70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293327255,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1293327255,
+    "wof:lastmodified":1537585354,
+    "wof:name":"Petropavlovka",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.59241,
+    41.40657,
+    48.59241,
+    41.40657
+],
+  "geometry": {"coordinates":[48.59241,41.40657],"type":"Point"}
+}

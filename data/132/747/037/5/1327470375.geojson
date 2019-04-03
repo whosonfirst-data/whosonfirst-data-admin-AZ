@@ -1,0 +1,78 @@
+{
+  "id": 1327470375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.36861,41.1836,48.36861,41.1836",
+    "geom:latitude":41.1836,
+    "geom:longitude":48.36861,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Buduq",
+    "gn:country_code":"AZ",
+    "gn:dem":1760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586941,
+    "gn:latitude":41.1836,
+    "gn:longitude":48.36861,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Buduq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buduq"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u0443\u0433"
+    ],
+    "name:und_x_variant":[
+        "Budug",
+        "Buduq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586941,
+        "wk:page":"Buduq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9055679e91f8c335bc0f8754efff28b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327470375,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1327470375,
+    "wof:lastmodified":1537585470,
+    "wof:name":"Buduq",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.36861,
+    41.1836,
+    48.36861,
+    41.1836
+],
+  "geometry": {"coordinates":[48.36861,41.1836],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209451267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.42219,39.2218,45.42219,39.2218",
+    "geom:latitude":39.2218,
+    "geom:longitude":45.42219,
+    "gn:admin1_code":"75",
+    "gn:asciiname":"Aliabad",
+    "gn:country_code":"AZ",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":147118,
+    "gn:latitude":39.2218,
+    "gn:longitude":45.42219,
+    "gn:modification_date":"2013-08-03",
+    "gn:name":"Aliabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_colloquial":[
+        "\u018fliabad"
+    ],
+    "name:aze_x_historical":[
+        "\u018fliabad"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fliabad"
+    ],
+    "name:eng_x_preferred":[
+        "Aliabad"
+    ],
+    "name:und_x_variant":[
+        "Sovetabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147118
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"66c8b7fb435b7ef3a73c39a53b4e098d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209451267
+        }
+    ],
+    "wof:id":1209451267,
+    "wof:lastmodified":1537585145,
+    "wof:name":"Aliabad",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.42219,
+    39.2218,
+    45.42219,
+    39.2218
+],
+  "geometry": {"coordinates":[45.42219,39.2218],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209645789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.74004,40.46539,48.74004,40.46539",
+    "geom:latitude":40.46539,
+    "geom:longitude":48.74004,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Askar",
+    "gn:country_code":"AZ",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560481,
+    "gn:latitude":40.46539,
+    "gn:longitude":48.74004,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"A\u015fkar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fkar"
+    ],
+    "name:und_x_variant":[
+        "Ashkar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560481,
+        "wk:page":"A%C5%9Fkar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"36cacb63bb0fab78bc822e26bc80fee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209645789
+        }
+    ],
+    "wof:id":1209645789,
+    "wof:lastmodified":1537585532,
+    "wof:name":"Askar",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.74004,
+    40.46539,
+    48.74004,
+    40.46539
+],
+  "geometry": {"coordinates":[48.74004,40.46539],"type":"Point"}
+}

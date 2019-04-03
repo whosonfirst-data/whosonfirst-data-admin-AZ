@@ -1,0 +1,75 @@
+{
+  "id": 1193088581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.77465,40.79308,47.77465,40.79308",
+    "geom:latitude":40.79308,
+    "geom:longitude":47.77465,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Bayramkoxali",
+    "gn:country_code":"AZ",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584686,
+    "gn:latitude":40.79308,
+    "gn:longitude":47.77465,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Bayramkoxal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bayramkoxal\u0131"
+    ],
+    "name:und_x_variant":[
+        "Yeleyen",
+        "Bayramkokhaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584686,
+        "wk:page":"Yeleyen"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ee98800ac5438d55423359ed16a8d638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193088581,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1193088581,
+    "wof:lastmodified":1537585315,
+    "wof:name":"Bayramkoxali",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.77465,
+    40.79308,
+    47.77465,
+    40.79308
+],
+  "geometry": {"coordinates":[47.77465,40.79308],"type":"Point"}
+}

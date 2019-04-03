@@ -1,0 +1,76 @@
+{
+  "id": 1326915971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.63014,38.56803,48.63014,38.56803",
+    "geom:latitude":38.56803,
+    "geom:longitude":48.63014,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Balbau",
+    "gn:country_code":"AZ",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148386,
+    "gn:latitude":38.56803,
+    "gn:longitude":48.63014,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Balbau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "B\u0259lbay"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019bay",
+        "Bal\u2019bo",
+        "Balbau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148386,
+        "wk:page":"Balbau"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"39ebd081ae133d0cf8b46ab6f0c1efa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326915971,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1326915971,
+    "wof:lastmodified":1537585267,
+    "wof:name":"Balbau",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.63014,
+    38.56803,
+    48.63014,
+    38.56803
+],
+  "geometry": {"coordinates":[48.63014,38.56803],"type":"Point"}
+}

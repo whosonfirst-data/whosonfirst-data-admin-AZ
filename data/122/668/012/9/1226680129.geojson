@@ -1,0 +1,77 @@
+{
+  "id": 1226680129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.27173,40.68845,46.27173,40.68845",
+    "geom:latitude":40.68845,
+    "geom:longitude":46.27173,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Bolcali",
+    "gn:country_code":"AZ",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824040,
+    "gn:latitude":40.68845,
+    "gn:longitude":46.27173,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Bol\u00e7al\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bol\u00e7al\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u0447\u0430\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Bol\u00e7al\u0131",
+        "Bolchaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824040
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8940d7452e9593bcaa821006123ccef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226680129,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1226680129,
+    "wof:lastmodified":1537585509,
+    "wof:name":"Bolcali",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.27173,
+    40.68845,
+    46.27173,
+    40.68845
+],
+  "geometry": {"coordinates":[46.27173,40.68845],"type":"Point"}
+}

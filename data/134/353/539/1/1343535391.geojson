@@ -1,0 +1,72 @@
+{
+  "id": 1343535391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.73079,40.70008,46.73079,40.70008",
+    "geom:latitude":40.70008,
+    "geom:longitude":46.73079,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Gyulmamedly",
+    "gn:country_code":"AZ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586392,
+    "gn:latitude":40.70008,
+    "gn:longitude":46.73079,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Gyulmamedly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyul\u2019mamedli",
+        "G\u00fclm\u0259mm\u0259dli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586392,
+        "wk:page":"G%C3%BClm%C9%99mm%C9%99dli%2C_Goranboy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8094f0a7511deca85689e8939db07133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343535391,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1343535391,
+    "wof:lastmodified":1537585431,
+    "wof:name":"Gyulmamedly",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.73079,
+    40.70008,
+    46.73079,
+    40.70008
+],
+  "geometry": {"coordinates":[46.73079,40.70008],"type":"Point"}
+}

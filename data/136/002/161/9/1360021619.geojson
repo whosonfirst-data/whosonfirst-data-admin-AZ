@@ -1,0 +1,78 @@
+{
+  "id": 1360021619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.6347,39.46856,46.6347,39.46856",
+    "geom:latitude":39.46856,
+    "geom:longitude":46.6347,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Akerly",
+    "gn:country_code":"AZ",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":148602,
+    "gn:latitude":39.46856,
+    "gn:longitude":46.6347,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Akerly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_preferred":[
+        "H\u0259k\u0259ri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0432\u0430\u043b\u0438\u043d\u044b \u0410\u043a\u0435\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Akeri",
+        "Akerly",
+        "Razvaliny Akeri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148602
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"17833503106bd279d3e1a5a91d995378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360021619,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1360021619,
+    "wof:lastmodified":1537585284,
+    "wof:name":"Akerly",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.6347,
+    39.46856,
+    46.6347,
+    39.46856
+],
+  "geometry": {"coordinates":[46.6347,39.46856],"type":"Point"}
+}

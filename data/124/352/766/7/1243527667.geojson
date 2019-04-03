@@ -1,0 +1,75 @@
+{
+  "id": 1243527667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.60685,39.21844,48.60685,39.21844",
+    "geom:latitude":39.21844,
+    "geom:longitude":48.60685,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Novogolovka",
+    "gn:country_code":"AZ",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147401,
+    "gn:latitude":39.21844,
+    "gn:longitude":48.60685,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Novogolovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Novoqorlovka"
+    ],
+    "name:und_x_variant":[
+        "Novogol\u2019sk",
+        "Uzunt\u0259p\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147401,
+        "wk:page":"Uzunt%C9%99p%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"05e4edc4181857519eead334369d5942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243527667,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1243527667,
+    "wof:lastmodified":1537585170,
+    "wof:name":"Novogolovka",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.60685,
+    39.21844,
+    48.60685,
+    39.21844
+],
+  "geometry": {"coordinates":[48.60685,39.21844],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1242611693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.67345,39.75108,46.67345,39.75108",
+    "geom:latitude":39.75108,
+    "geom:longitude":46.67345,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Zamanpeyasi",
+    "gn:country_code":"AZ",
+    "gn:dem":1397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146903,
+    "gn:latitude":39.75108,
+    "gn:longitude":46.67345,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Zamanpeyasi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zamanp\u0259y\u0259si"
+    ],
+    "name:hye_x_preferred":[
+        "Zamanp\u2019eyasy"
+    ],
+    "name:hye_x_variant":[
+        "\u0536\u0561\u0574\u0561\u0576\u0583\u0565\u0575\u0561\u057d\u0568"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043c\u0430\u043d\u043f\u0435\u044f\u0441\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zaman-Payasy",
+        "\u0417\u0430\u043c\u0430\u043d\u043f\u0435\u044f\u0441\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668643,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146903,
+        "wk:page":"Zamanp%C9%99y%C9%99si"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"eb4a6692d32c665db873f901521fe4ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242611693,
+            "macroregion_id":1108808615,
+            "region_id":85668643
+        }
+    ],
+    "wof:id":1242611693,
+    "wof:lastmodified":1537585125,
+    "wof:name":"Zamanpeyasi",
+    "wof:parent_id":85668643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.67345,
+    39.75108,
+    46.67345,
+    39.75108
+],
+  "geometry": {"coordinates":[46.67345,39.75108],"type":"Point"}
+}

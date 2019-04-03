@@ -1,0 +1,73 @@
+{
+  "id": 1310538043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.78078,40.47265,47.78078,40.47265",
+    "geom:latitude":40.47265,
+    "geom:longitude":47.78078,
+    "gn:admin1_code":"59",
+    "gn:asciiname":"Tyurkachi",
+    "gn:country_code":"AZ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584797,
+    "gn:latitude":40.47265,
+    "gn:longitude":47.78078,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Tyurkachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tyuri-Gadzhi",
+        "Tyurkachi",
+        "T\u00fcrk\u0259\u00e7i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668475,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584797,
+        "wk:page":"T%C3%BCrk%C9%99%C3%A7i"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9ec02be7cf35b680a8bd3f3406fe1523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310538043,
+            "macroregion_id":1108808627,
+            "region_id":85668475
+        }
+    ],
+    "wof:id":1310538043,
+    "wof:lastmodified":1537585322,
+    "wof:name":"Tyurkachi",
+    "wof:parent_id":85668475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.78078,
+    40.47265,
+    47.78078,
+    40.47265
+],
+  "geometry": {"coordinates":[47.78078,40.47265],"type":"Point"}
+}

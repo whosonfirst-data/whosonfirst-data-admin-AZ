@@ -1,0 +1,82 @@
+{
+  "id": 1360049081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.00653,41.33525,49.00653,41.33525",
+    "geom:latitude":41.33525,
+    "geom:longitude":49.00653,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nizhniye Kushchi",
+    "gn:country_code":"AZ",
+    "gn:dem":-14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586859,
+    "gn:latitude":41.33525,
+    "gn:longitude":49.00653,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Nizhniye Kushchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7\u00f6l Qu\u015f\u00e7u"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c7\u00f6l Qu\u015f\u00e7u"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043b\u044c \u041a\u0443\u0448\u0447\u0443"
+    ],
+    "name:und_x_variant":[
+        "Cholkushchi",
+        "Cholkushchu",
+        "Ch\u00ebl\u2019 Kushchu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586859,
+        "wk:page":"%C3%87%C3%B6lqu%C5%9F%C3%A7u"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8283ed49aade39272cf0868330e1b28a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360049081,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1360049081,
+    "wof:lastmodified":1537585464,
+    "wof:name":"Nizhniye Kushchi",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.00653,
+    41.33525,
+    49.00653,
+    41.33525
+],
+  "geometry": {"coordinates":[49.00653,41.33525],"type":"Point"}
+}

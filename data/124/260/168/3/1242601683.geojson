@@ -1,0 +1,73 @@
+{
+  "id": 1242601683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.55844,40.67846,47.55844,40.67846",
+    "geom:latitude":40.67846,
+    "geom:longitude":47.55844,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gyushyun",
+    "gn:country_code":"AZ",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586372,
+    "gn:latitude":40.67846,
+    "gn:longitude":47.55844,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Gyushyun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyushun",
+        "Gyushyun",
+        "H\u00fc\u015f\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668259,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586372,
+        "wk:page":"H%C3%BC%C5%9F%C3%BCn"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d3c6188ad16fc976b310509d3b6cd70d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242601683,
+            "macroregion_id":1108808627,
+            "region_id":85668259
+        }
+    ],
+    "wof:id":1242601683,
+    "wof:lastmodified":1537585429,
+    "wof:name":"Gyushyun",
+    "wof:parent_id":85668259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.55844,
+    40.67846,
+    47.55844,
+    40.67846
+],
+  "geometry": {"coordinates":[47.55844,40.67846],"type":"Point"}
+}

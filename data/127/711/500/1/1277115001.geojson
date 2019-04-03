@@ -1,0 +1,72 @@
+{
+  "id": 1277115001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.35945,41.08012,45.35945,41.08012",
+    "geom:latitude":41.08012,
+    "geom:longitude":45.35945,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Qarapapaq",
+    "gn:country_code":"AZ",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586155,
+    "gn:latitude":41.08012,
+    "gn:longitude":45.35945,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Qarapapaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karapapakh",
+        "Qarapapaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668229,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586155,
+        "wk:page":"Qarapapaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0c8f42d961bb89612338849bfad9c829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277115001,
+            "macroregion_id":1108808609,
+            "region_id":85668229
+        }
+    ],
+    "wof:id":1277115001,
+    "wof:lastmodified":1537585413,
+    "wof:name":"Qarapapaq",
+    "wof:parent_id":85668229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.35945,
+    41.08012,
+    45.35945,
+    41.08012
+],
+  "geometry": {"coordinates":[45.35945,41.08012],"type":"Point"}
+}

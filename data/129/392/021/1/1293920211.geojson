@@ -1,0 +1,71 @@
+{
+  "id": 1293920211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.42346,41.51527,48.42346,41.51527",
+    "geom:latitude":41.51527,
+    "geom:longitude":48.42346,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Bedishkala",
+    "gn:country_code":"AZ",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587016,
+    "gn:latitude":41.51527,
+    "gn:longitude":48.42346,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Bedishkala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0259di\u015fqala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587016,
+        "wk:page":"B%C9%99di%C5%9Fqala"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d812ce02085ff14dc15946a1ecba9f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293920211,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1293920211,
+    "wof:lastmodified":1537585475,
+    "wof:name":"Bedishkala",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.42346,
+    41.51527,
+    48.42346,
+    41.51527
+],
+  "geometry": {"coordinates":[48.42346,41.51527],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1225905685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.349,39.67334,46.349,39.67334",
+    "geom:latitude":39.67334,
+    "geom:longitude":46.349,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Quscu",
+    "gn:country_code":"AZ",
+    "gn:dem":1512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147684,
+    "gn:latitude":39.67334,
+    "gn:longitude":46.349,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Qu\u015f\u00e7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qu\u015f\u00e7u"
+    ],
+    "name:hye_x_preferred":[
+        "Ghushchu"
+    ],
+    "name:hye_x_variant":[
+        "\u0542\u0578\u0582\u0577\u0579\u0578\u0582",
+        "Khandzaberd",
+        "\u053d\u0561\u0576\u0571\u0561\u0562\u0565\u0580\u0564"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0448\u0447\u0443"
+    ],
+    "name:und_x_variant":[
+        "Kushchu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147684
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3e50e014fd7e462543b0215d106c69a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225905685,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1225905685,
+    "wof:lastmodified":1537585198,
+    "wof:name":"Quscu",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.349,
+    39.67334,
+    46.349,
+    39.67334
+],
+  "geometry": {"coordinates":[46.349,39.67334],"type":"Point"}
+}

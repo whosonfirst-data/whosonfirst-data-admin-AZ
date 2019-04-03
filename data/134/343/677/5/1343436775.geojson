@@ -1,0 +1,84 @@
+{
+  "id": 1343436775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.20538,39.56277,47.20538,39.56277",
+    "geom:latitude":39.56277,
+    "geom:longitude":47.20538,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Yukhary Abdurakhmanly",
+    "gn:country_code":"AZ",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146944,
+    "gn:latitude":39.56277,
+    "gn:longitude":47.20538,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yukhary Abdurakhmanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 \u018fbd\u00fcrr\u0259hmanl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Abdurakhmanly"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0562\u0564\u0578\u0582\u0580\u0561\u056d\u0574\u0561\u0576\u056c\u0568"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0445\u0430\u0440\u044b \u0410\u0431\u0434\u0443\u0440\u0430\u0445\u043c\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Yukhari Abdurakhmanly",
+        "\u042e\u0445\u0430\u0440\u044b \u0410\u0431\u0434\u0443\u0440\u0430\u0445\u043c\u0430\u043d\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668351,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146944,
+        "wk:page":"Yuxar%C4%B1_%C6%8Fbd%C3%BCrr%C9%99hmanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"be6d4eca782411a2cc4751f566da39bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343436775,
+            "macroregion_id":1108808615,
+            "region_id":85668351
+        }
+    ],
+    "wof:id":1343436775,
+    "wof:lastmodified":1537585130,
+    "wof:name":"Yukhary Abdurakhmanly",
+    "wof:parent_id":85668351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.20538,
+    39.56277,
+    47.20538,
+    39.56277
+],
+  "geometry": {"coordinates":[47.20538,39.56277],"type":"Point"}
+}

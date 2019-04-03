@@ -1,0 +1,71 @@
+{
+  "id": 1310654967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.32978,40.10818,48.32978,40.10818",
+    "geom:latitude":40.10818,
+    "geom:longitude":48.32978,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Oylyakulu",
+    "gn:country_code":"AZ",
+    "gn:dem":-14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585299,
+    "gn:latitude":40.10818,
+    "gn:longitude":48.32978,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Oylyakulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d6yl\u0259qulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668383,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585299,
+        "wk:page":"%C3%96yl%C9%99qulu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"95e28fbc221d488347311ab72011a00b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310654967,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":1310654967,
+    "wof:lastmodified":1537585355,
+    "wof:name":"Oylyakulu",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.32978,
+    40.10818,
+    48.32978,
+    40.10818
+],
+  "geometry": {"coordinates":[48.32978,40.10818],"type":"Point"}
+}

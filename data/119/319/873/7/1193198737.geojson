@@ -1,0 +1,82 @@
+{
+  "id": 1193198737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.59512,41.11693,47.59512,41.11693",
+    "geom:latitude":41.11693,
+    "geom:longitude":47.59512,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Filfili",
+    "gn:country_code":"AZ",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586578,
+    "gn:latitude":41.11693,
+    "gn:longitude":47.59512,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Filfili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Filfili"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u043b\u044c\u0444\u0438\u043b\u0438"
+    ],
+    "name:rus_x_variant":[
+        "Fil\u2019fili"
+    ],
+    "name:und_x_variant":[
+        "Bash-Fil\u2019filli",
+        "Filifli",
+        "Filfili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668549,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586578,
+        "wk:page":"Filfili"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6cba85a26039cb8f3efa74dbca96156e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193198737,
+            "macroregion_id":1108808619,
+            "region_id":85668549
+        }
+    ],
+    "wof:id":1193198737,
+    "wof:lastmodified":1537585444,
+    "wof:name":"Filfili",
+    "wof:parent_id":85668549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.59512,
+    41.11693,
+    47.59512,
+    41.11693
+],
+  "geometry": {"coordinates":[47.59512,41.11693],"type":"Point"}
+}

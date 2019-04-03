@@ -1,0 +1,71 @@
+{
+  "id": 1209140679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.28017,40.95062,49.28017,40.95062",
+    "geom:latitude":40.95062,
+    "geom:longitude":49.28017,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Zarat",
+    "gn:country_code":"AZ",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584590,
+    "gn:latitude":40.95062,
+    "gn:longitude":49.28017,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Zarat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zarat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u0430\u0442"
+    ],
+    "name:und_x_variant":[
+        "Zabrat",
+        "Zarat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584590
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"852de0db53665cffd9ba288e49a4bf1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209140679
+        }
+    ],
+    "wof:id":1209140679,
+    "wof:lastmodified":1537585308,
+    "wof:name":"Zarat",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.28017,
+    40.95062,
+    49.28017,
+    40.95062
+],
+  "geometry": {"coordinates":[49.28017,40.95062],"type":"Point"}
+}

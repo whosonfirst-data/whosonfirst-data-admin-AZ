@@ -1,0 +1,71 @@
+{
+  "id": 1343698491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.91422,40.94504,48.91422,40.94504",
+    "geom:latitude":40.94504,
+    "geom:longitude":48.91422,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Erzikyush",
+    "gn:country_code":"AZ",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586604,
+    "gn:latitude":40.94504,
+    "gn:longitude":48.91422,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Erzikyush",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u018frzik\u00fc\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668425,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586604,
+        "wk:page":"%C6%8Frzik%C3%BC%C5%9F"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"97a55e9b647db9e0be5e1f2184bfbe0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343698491,
+            "macroregion_id":1108808623,
+            "region_id":85668425
+        }
+    ],
+    "wof:id":1343698491,
+    "wof:lastmodified":1537585446,
+    "wof:name":"Erzikyush",
+    "wof:parent_id":85668425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.91422,
+    40.94504000000001,
+    48.91422,
+    40.94504000000001
+],
+  "geometry": {"coordinates":[48.91422,40.94504000000001],"type":"Point"}
+}

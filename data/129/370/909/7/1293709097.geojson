@@ -1,0 +1,71 @@
+{
+  "id": 1293709097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.77762,38.59384,48.77762,38.59384",
+    "geom:latitude":38.59384,
+    "geom:longitude":48.77762,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kilyasha",
+    "gn:country_code":"AZ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8474193,
+    "gn:latitude":38.59384,
+    "gn:longitude":48.77762,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Kilyasha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Gil\u0259\u015f\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8474193,
+        "wk:page":"Gil%C9%99%C5%9F%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"24cd9d8ea774759887989d5b8ce434ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293709097,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1293709097,
+    "wof:lastmodified":1537585526,
+    "wof:name":"Kilyasha",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.77762,
+    38.59384,
+    48.77762,
+    38.59384
+],
+  "geometry": {"coordinates":[48.77762,38.59384],"type":"Point"}
+}

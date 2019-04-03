@@ -1,0 +1,68 @@
+{
+  "id": 1209046731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.07663,39.41504,49.07663,39.41504",
+    "geom:latitude":39.41504,
+    "geom:longitude":49.07663,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Ballicali",
+    "gn:country_code":"AZ",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148381,
+    "gn:latitude":39.41504,
+    "gn:longitude":49.07663,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Ball\u0131cal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ball\u0131cal\u0131"
+    ],
+    "name:und_x_variant":[
+        "Baladzhali",
+        "Ballydzhaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148381
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d3e630081ced9cc2b2d824e230f26901",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209046731
+        }
+    ],
+    "wof:id":1209046731,
+    "wof:lastmodified":1537585266,
+    "wof:name":"Ballicali",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.07663,
+    39.41504000000001,
+    49.07663,
+    39.41504000000001
+],
+  "geometry": {"coordinates":[49.07663,39.41504000000001],"type":"Point"}
+}

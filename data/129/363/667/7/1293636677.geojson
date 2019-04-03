@@ -1,0 +1,91 @@
+{
+  "id": 1293636677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.26715,39.85952,46.26715,39.85952",
+    "geom:latitude":39.85952,
+    "geom:longitude":46.26715,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Hacixanli",
+    "gn:country_code":"AZ",
+    "gn:dem":1619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146871,
+    "gn:latitude":39.85952,
+    "gn:longitude":46.26715,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Hac\u0131xanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zorke\u015fi\u015f"
+    ],
+    "name:aze_x_variant":[
+        "Hac\u0131xanl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Zork\u2019eshish"
+    ],
+    "name:hye_x_variant":[
+        "\u0536\u0578\u0580\u0584\u0565\u0577\u056b\u0577",
+        "Zorats\u2019ik\u2019",
+        "\u0536\u0578\u0580\u0561\u0581\u056b\u0584"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u0440\u043a\u0435\u0448\u0438\u0448"
+    ],
+    "name:und_x_variant":[
+        "Zorkishiga",
+        "Zorkeshysh",
+        "Zorkeshish",
+        "\u0417\u043e\u0440\u043a\u0435\u0448\u0438\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146871,
+        "wk:page":"Zorkeshish"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"adfaac93050c49fef097501237fc084c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293636677,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1293636677,
+    "wof:lastmodified":1537585123,
+    "wof:name":"Hacixanli",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.26715,
+    39.85952,
+    46.26715,
+    39.85952
+],
+  "geometry": {"coordinates":[46.26715,39.85952],"type":"Point"}
+}

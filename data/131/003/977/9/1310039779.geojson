@@ -1,0 +1,84 @@
+{
+  "id": 1310039779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.98059,39.77082,46.98059,39.77082",
+    "geom:latitude":39.77082,
+    "geom:longitude":46.98059,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Muskapat",
+    "gn:country_code":"AZ",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147449,
+    "gn:latitude":39.77082,
+    "gn:longitude":46.98059,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"M\u00fc\u015fkapat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u00fc\u015fkapat"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0582\u0577\u056f\u0561\u057a\u0561\u057f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0448\u043a\u0430\u043f\u0430\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0448\u043a\u0430\u043f\u0430\u0442"
+    ],
+    "name:und_x_variant":[
+        "Moushkapat",
+        "Mushkapat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147449,
+        "wk:page":"M%C3%BC%C5%9Fkapat"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fc0fd43d6ab22e6f631c5414b08e7d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310039779,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1310039779,
+    "wof:lastmodified":1537585174,
+    "wof:name":"Muskapat",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.98059,
+    39.77082,
+    46.98059,
+    39.77082
+],
+  "geometry": {"coordinates":[46.98059,39.77082],"type":"Point"}
+}

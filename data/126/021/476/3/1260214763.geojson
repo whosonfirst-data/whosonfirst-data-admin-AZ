@@ -1,0 +1,79 @@
+{
+  "id": 1260214763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.03665,40.88245,46.03665,40.88245",
+    "geom:latitude":40.88245,
+    "geom:longitude":46.03665,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Dollyar-Dzhagir",
+    "gn:country_code":"AZ",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586795,
+    "gn:latitude":40.88245,
+    "gn:longitude":46.03665,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Dollyar-Dzhagir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u0259ll\u0259r C\u0259yir"
+    ],
+    "name:und_x_variant":[
+        "Dallyar",
+        "Dollyar-Dzhagir",
+        "Dallyar-Dzheir",
+        "Dallardzhagir",
+        "D\u00e4lil\u00e4r",
+        "Dallyar-Dzhagir",
+        "D\u0259lil\u0259r C\u0259yir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586795
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"075c128d9b1b98507f4fc83903df4dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260214763,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1260214763,
+    "wof:lastmodified":1537585459,
+    "wof:name":"Dollyar-Dzhagir",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.03665,
+    40.88245,
+    46.03665,
+    40.88245
+],
+  "geometry": {"coordinates":[46.03665,40.88245],"type":"Point"}
+}

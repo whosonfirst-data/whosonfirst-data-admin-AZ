@@ -1,0 +1,73 @@
+{
+  "id": 1293157285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.813,40.62655,47.813,40.62655",
+    "geom:latitude":40.62655,
+    "geom:longitude":47.813,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Gadzhalykend",
+    "gn:country_code":"AZ",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586572,
+    "gn:latitude":40.62655,
+    "gn:longitude":47.813,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Gadzhalykend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gadzhalikend",
+        "Gadzhali",
+        "Hacal\u0131k\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668357,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586572,
+        "wk:page":"Hacal%C4%B1k%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"eeb8f55b9ee9eb4266e45b5125113980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293157285,
+            "macroregion_id":1108808627,
+            "region_id":85668357
+        }
+    ],
+    "wof:id":1293157285,
+    "wof:lastmodified":1537585443,
+    "wof:name":"Gadzhalykend",
+    "wof:parent_id":85668357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.813,
+    40.62655,
+    47.813,
+    40.62655
+],
+  "geometry": {"coordinates":[47.813,40.62655],"type":"Point"}
+}

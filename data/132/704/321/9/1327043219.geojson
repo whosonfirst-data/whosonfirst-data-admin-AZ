@@ -1,0 +1,72 @@
+{
+  "id": 1327043219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.47164,40.06442,47.47164,40.06442",
+    "geom:latitude":40.06442,
+    "geom:longitude":47.47164,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Khalfaraddin",
+    "gn:country_code":"AZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585992,
+    "gn:latitude":40.06442,
+    "gn:longitude":47.47164,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Khalfaraddin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khalfaradinlu",
+        "Khalfaraddin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668519,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585992,
+        "wk:page":"Khalfaraddin"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ba187861e939c6bb33af43b9f89567de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327043219,
+            "macroregion_id":1108808627,
+            "region_id":85668519
+        }
+    ],
+    "wof:id":1327043219,
+    "wof:lastmodified":1537585401,
+    "wof:name":"Khalfaraddin",
+    "wof:parent_id":85668519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.47164,
+    40.06442,
+    47.47164,
+    40.06442
+],
+  "geometry": {"coordinates":[47.47164,40.06442],"type":"Point"}
+}

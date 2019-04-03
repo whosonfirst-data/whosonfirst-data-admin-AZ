@@ -1,0 +1,73 @@
+{
+  "id": 1193137895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.44498,40.71623,47.44498,40.71623",
+    "geom:latitude":40.71623,
+    "geom:longitude":47.44498,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Qosaqovaq",
+    "gn:country_code":"AZ",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585810,
+    "gn:latitude":40.71623,
+    "gn:longitude":47.44498,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Qo\u015faqovaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kosha-Kovakh",
+        "Koshakovag",
+        "Qo\u015faqovaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668259,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585810,
+        "wk:page":"Qo%C5%9Faqovaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"61612ded202ec666d12fc34cc256d573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193137895,
+            "macroregion_id":1108808627,
+            "region_id":85668259
+        }
+    ],
+    "wof:id":1193137895,
+    "wof:lastmodified":1537585390,
+    "wof:name":"Qosaqovaq",
+    "wof:parent_id":85668259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.44498,
+    40.71623,
+    47.44498,
+    40.71623
+],
+  "geometry": {"coordinates":[47.44498,40.71623],"type":"Point"}
+}

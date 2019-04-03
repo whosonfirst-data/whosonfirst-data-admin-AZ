@@ -1,0 +1,73 @@
+{
+  "id": 1193096053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.6068,40.75485,46.6068,40.75485",
+    "geom:latitude":40.75485,
+    "geom:longitude":46.6068,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Yegarchikazakhlar",
+    "gn:country_code":"AZ",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584694,
+    "gn:latitude":40.75485,
+    "gn:longitude":46.6068,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Yegarchikazakhlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyrmyzy-Kazakhlar",
+        "Yegarchikazakhlar",
+        "Yagarchi-Kazakhlar",
+        "Y\u0259h\u0259r\u00e7i Qazaxlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584694
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"68f58955970a5826c54db5634c3287be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193096053,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1193096053,
+    "wof:lastmodified":1537585315,
+    "wof:name":"Yegarchikazakhlar",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.6068,
+    40.75485,
+    46.6068,
+    40.75485
+],
+  "geometry": {"coordinates":[46.6068,40.75485],"type":"Point"}
+}

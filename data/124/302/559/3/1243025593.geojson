@@ -1,0 +1,72 @@
+{
+  "id": 1243025593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.28439,40.75614,48.28439,40.75614",
+    "geom:latitude":40.75614,
+    "geom:longitude":48.28439,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Birinci Yeniyol",
+    "gn:country_code":"AZ",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584658,
+    "gn:latitude":40.75614,
+    "gn:longitude":48.28439,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Birinci Yeniyol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yeniy\u00ebl Pervoye",
+        "Birinci Yeniyol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584658,
+        "wk:page":"Birinci_Yeniyol"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5b753fad9dadcb2f1febe0c06e4c18d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243025593,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1243025593,
+    "wof:lastmodified":1537585313,
+    "wof:name":"Birinci Yeniyol",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.28439,
+    40.75614,
+    48.28439,
+    40.75614
+],
+  "geometry": {"coordinates":[48.28439,40.75614],"type":"Point"}
+}

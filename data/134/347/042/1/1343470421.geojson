@@ -1,0 +1,84 @@
+{
+  "id": 1343470421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91517,39.96994,46.91517,39.96994",
+    "geom:latitude":39.96994,
+    "geom:longitude":46.91517,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Poladli",
+    "gn:country_code":"AZ",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147321,
+    "gn:latitude":39.96994,
+    "gn:longitude":46.91517,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Poladl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Poladl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "\u0553\u0578\u056c\u0561\u0564\u056c\u0568"
+    ],
+    "name:hye_x_variant":[
+        "P\u2019uladly"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0430\u0434\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Polatlu",
+        "Poladly",
+        "\u041f\u043e\u043b\u0430\u0434\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147321
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9ab40ad74e5c3e713c476d00e988ad3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343470421,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1343470421,
+    "wof:lastmodified":1537585164,
+    "wof:name":"Poladli",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91517,
+    39.96994,
+    46.91517,
+    39.96994
+],
+  "geometry": {"coordinates":[46.91517,39.96994],"type":"Point"}
+}

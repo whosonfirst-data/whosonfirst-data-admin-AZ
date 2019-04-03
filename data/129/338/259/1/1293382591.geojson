@@ -1,0 +1,74 @@
+{
+  "id": 1293382591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.2022,40.60648,48.2022,40.60648",
+    "geom:latitude":40.60648,
+    "geom:longitude":48.2022,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kyulyulyu",
+    "gn:country_code":"AZ",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585775,
+    "gn:latitude":40.60648,
+    "gn:longitude":48.2022,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Kyulyulyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00fcl\u00fcll\u00fc"
+    ],
+    "name:und_x_variant":[
+        "Kululu",
+        "Kyulyulyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585775
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0b2398126aad135026aa47eafe9bf604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293382591,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1293382591,
+    "wof:lastmodified":1537585387,
+    "wof:name":"Kyulyulyu",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.2022,
+    40.60648,
+    48.2022,
+    40.60648
+],
+  "geometry": {"coordinates":[48.2022,40.60648],"type":"Point"}
+}

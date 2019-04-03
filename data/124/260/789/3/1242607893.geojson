@@ -1,0 +1,77 @@
+{
+  "id": 1242607893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.73916,40.83671,48.73916,40.83671",
+    "geom:latitude":40.83671,
+    "geom:longitude":48.73916,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Pirbeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":801034,
+    "gn:latitude":40.83671,
+    "gn:longitude":48.73916,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pirbeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pirb\u01ddyli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0440\u0431\u0435\u0439\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pirb\u0259yli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":801034,
+        "wk:page":"Pirb%C9%99yli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f557cf5dd973fb5fa0d5b7b63b0257c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242607893,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1242607893,
+    "wof:lastmodified":1537585506,
+    "wof:name":"Pirbeyli",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.73916,
+    40.83671,
+    48.73916,
+    40.83671
+],
+  "geometry": {"coordinates":[48.73916,40.83671],"type":"Point"}
+}

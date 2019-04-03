@@ -1,0 +1,80 @@
+{
+  "id": 1226338197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.57596,40.22389,49.57596,40.22389",
+    "geom:latitude":40.22389,
+    "geom:longitude":49.57596,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sahil",
+    "gn:country_code":"AZ",
+    "gn:dem":-20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585239,
+    "gn:latitude":40.22389,
+    "gn:longitude":49.57596,
+    "gn:modification_date":"2013-10-31",
+    "gn:name":"Sahil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sahil"
+    ],
+    "name:eng_x_preferred":[
+        "D\u01ddnizk\u01ddnar\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a"
+    ],
+    "name:und_x_variant":[
+        "Primorsk",
+        "D\u0259nizk\u0259nar\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585239
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f7fd74c6d00284ba37540650ce8b8350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226338197,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1226338197,
+    "wof:lastmodified":1537585351,
+    "wof:name":"Sahil",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.57596,
+    40.22389,
+    49.57596,
+    40.22389
+],
+  "geometry": {"coordinates":[49.57596,40.22389],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310039881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.21667,40.86667,49.21667,40.86667",
+    "geom:latitude":40.86667,
+    "geom:longitude":49.21667,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Shykhlar",
+    "gn:country_code":"AZ",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584977,
+    "gn:latitude":40.86667,
+    "gn:longitude":49.21667,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Shykhlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shikhlyar",
+        "\u015e\u0131xlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668485,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584977
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"570f851b8f823e297cd62e1c23868274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310039881,
+            "macroregion_id":1108808621,
+            "region_id":85668485
+        }
+    ],
+    "wof:id":1310039881,
+    "wof:lastmodified":1537585334,
+    "wof:name":"Shykhlar",
+    "wof:parent_id":85668485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.21667,
+    40.86667,
+    49.21667,
+    40.86667
+],
+  "geometry": {"coordinates":[49.21667,40.86667],"type":"Point"}
+}

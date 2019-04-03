@@ -1,0 +1,82 @@
+{
+  "id": 1293572607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.8725,39.2618,46.8725,39.2618",
+    "geom:latitude":39.2618,
+    "geom:longitude":46.8725,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Qovsutlu",
+    "gn:country_code":"AZ",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8431482,
+    "gn:latitude":39.2618,
+    "gn:longitude":46.8725,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Qov\u015futlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qov\u015futlu"
+    ],
+    "name:hye_x_preferred":[
+        "Nerkin Kavchut"
+    ],
+    "name:hye_x_variant":[
+        "\u0546\u0565\u0580\u056f\u056b\u0576 \u053f\u0561\u057e\u0571\u0578\u0582\u057f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0432\u0448\u0443\u0434\u043b\u0443"
+    ],
+    "name:und_x_variant":[
+        "Govshudlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8431482
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8311101796c664d3c0acf6148435c948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293572607,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1293572607,
+    "wof:lastmodified":1537585518,
+    "wof:name":"Qovsutlu",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.8725,
+    39.2618,
+    46.8725,
+    39.2618
+],
+  "geometry": {"coordinates":[46.8725,39.2618],"type":"Point"}
+}

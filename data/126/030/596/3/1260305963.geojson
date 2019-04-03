@@ -1,0 +1,73 @@
+{
+  "id": 1260305963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.77261,38.51512,48.77261,38.51512",
+    "geom:latitude":38.51512,
+    "geom:longitude":48.77261,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Deqadi",
+    "gn:country_code":"AZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148201,
+    "gn:latitude":38.51512,
+    "gn:longitude":48.77261,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Deqadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Degady",
+        "Digadi",
+        "Deqadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148201,
+        "wk:page":"Deqadi"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"644ce08515a86d795fd24b0d4f493de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260305963,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1260305963,
+    "wof:lastmodified":1537585248,
+    "wof:name":"Deqadi",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.77261,
+    38.51512,
+    48.77261,
+    38.51512
+],
+  "geometry": {"coordinates":[48.77261,38.51512],"type":"Point"}
+}

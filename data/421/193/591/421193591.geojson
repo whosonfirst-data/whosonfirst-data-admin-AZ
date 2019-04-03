@@ -1,0 +1,121 @@
+{
+  "id": 421193591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.94806,40.4425,49.94806,40.4425",
+    "geom:latitude":40.4425,
+    "geom:longitude":49.94806,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u0562\u0578\u0582\u0576\u0579\u056b"
+    ],
+    "name:aze_x_preferred":[
+        "Sabun\u00e7u"
+    ],
+    "name:ceb_x_preferred":[
+        "Sabun\u00e7u"
+    ],
+    "name:dut_x_preferred":[
+        "Sabun\u00e7u"
+    ],
+    "name:eng_x_preferred":[
+        "Sabun\u00e7u"
+    ],
+    "name:fra_x_preferred":[
+        "Sabun\u00e7u"
+    ],
+    "name:fre_x_preferred":[
+        "Sabun\u00e7u"
+    ],
+    "name:hun_x_preferred":[
+        "Sabun\u00e7u"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30d6\u30f3\u30c1\u30e5"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0431\u0443\u043d\u0447\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Sabun\u00e7u"
+    ],
+    "name:unk_x_variant":[
+        "Sabunchi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u0627\u0646\u06a9\u0648\u060c \u0628\u0627\u06a9\u0648"
+    ],
+    "qs:gn_country":"AZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":585184,
+    "qs:gn_pop":20996,
+    "qs:name":"Sabun\u00e7u",
+    "qs:name_adm0":"Azerbaijan",
+    "qs:name_adm1":"Baki",
+    "qs:photos":47,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":47,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1353501,
+    "qs:woe_adm0":23424741,
+    "qs:woe_id":1950809,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":172,
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585184,
+        "gp:id":1950809,
+        "qs:id":1353501,
+        "wd:id":"Q260503",
+        "wk:page":"Sabun\u00e7u, Baku"
+    },
+    "wof:country":"AZ",
+    "wof:created":1459009776,
+    "wof:geomhash":"2b25ba8f711ad1aa7310ace9c7e48c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":421193591,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":421193591,
+    "wof:lastmodified":1527716147,
+    "wof:name":"Sabun\u00e7u",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:population":20996,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.94806,
+    40.4425,
+    49.94806,
+    40.4425
+],
+  "geometry": {"coordinates":[49.94806,40.4425],"type":"Point"}
+}

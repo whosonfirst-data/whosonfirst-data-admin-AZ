@@ -1,0 +1,77 @@
+{
+  "id": 1242601675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.42806,40.5324,47.42806,40.5324",
+    "geom:latitude":40.5324,
+    "geom:longitude":47.42806,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Yukhary Lyaki",
+    "gn:country_code":"AZ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584630,
+    "gn:latitude":40.5324,
+    "gn:longitude":47.42806,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Yukhary Lyaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yuxar\u0131 L\u01ddki"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0445\u0430\u0440\u044b-\u041b\u044f\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Yuxar\u0131 L\u0259ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668259,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584630,
+        "wk:page":"Yuxar%C4%B1_L%C9%99ki"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d1b94b33a85c356e2d33f1cbc727a4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242601675,
+            "macroregion_id":1108808627,
+            "region_id":85668259
+        }
+    ],
+    "wof:id":1242601675,
+    "wof:lastmodified":1537585311,
+    "wof:name":"Yukhary Lyaki",
+    "wof:parent_id":85668259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.42806,
+    40.5324,
+    47.42806,
+    40.5324
+],
+  "geometry": {"coordinates":[47.42806,40.5324],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293070639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.10885,40.40479,46.10885,40.40479",
+    "geom:latitude":40.40479,
+    "geom:longitude":46.10885,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Shakhkerem",
+    "gn:country_code":"AZ",
+    "gn:dem":1651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585077,
+    "gn:latitude":40.40479,
+    "gn:longitude":46.10885,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Shakhkerem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eahk\u0259r\u0259m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585077,
+        "wk:page":"%C5%9Eahk%C9%99r%C9%99m"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8883798c5d4f049b5b5efde8ae6cd221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293070639,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1293070639,
+    "wof:lastmodified":1537585341,
+    "wof:name":"Shakhkerem",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.10885,
+    40.40479000000001,
+    46.10885,
+    40.40479000000001
+],
+  "geometry": {"coordinates":[46.10885,40.40479000000001],"type":"Point"}
+}

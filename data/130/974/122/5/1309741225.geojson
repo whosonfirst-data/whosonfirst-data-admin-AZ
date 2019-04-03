@@ -1,0 +1,76 @@
+{
+  "id": 1309741225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.79567,40.13243,47.79567,40.13243",
+    "geom:latitude":40.13243,
+    "geom:longitude":47.79567,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Shykhbagy",
+    "gn:country_code":"AZ",
+    "gn:dem":-5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584981,
+    "gn:latitude":40.13243,
+    "gn:longitude":47.79567,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Shykhbagy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015e\u0131xba\u011f\u0131"
+    ],
+    "name:und_x_variant":[
+        "Shikhbagi",
+        "\u015e\u0131xba\u011f",
+        "\u015e\u0131hba\u011f\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668509,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584981,
+        "wk:page":"%C5%9E%C4%B1xba%C4%9F%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"020342df47bb46b1d44a26b3e27f8f12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309741225,
+            "macroregion_id":1108808627,
+            "region_id":85668509
+        }
+    ],
+    "wof:id":1309741225,
+    "wof:lastmodified":1537585335,
+    "wof:name":"Shykhbagy",
+    "wof:parent_id":85668509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.79567,
+    40.13243,
+    47.79567,
+    40.13243
+],
+  "geometry": {"coordinates":[47.79567,40.13243],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209899075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.57976,39.37404,48.57976,39.37404",
+    "geom:latitude":39.37404,
+    "geom:longitude":48.57976,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Novaya Teklya",
+    "gn:country_code":"AZ",
+    "gn:dem":-6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147404,
+    "gn:latitude":39.37404,
+    "gn:longitude":48.57976,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Novaya Teklya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u011fal\u0131k\u0259nd"
+    ],
+    "name:und_x_variant":[
+        "Seri-abad",
+        "Saryabad",
+        "Agalykend",
+        "Ser-Abad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668317,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147404,
+        "wk:page":"Novaya_Teklya"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8734cceaa2946fb2b1245ee0dc54ed50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209899075,
+            "macroregion_id":1108808627,
+            "region_id":85668317
+        }
+    ],
+    "wof:id":1209899075,
+    "wof:lastmodified":1537585170,
+    "wof:name":"Novaya Teklya",
+    "wof:parent_id":85668317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.57976,
+    39.37404,
+    48.57976,
+    39.37404
+],
+  "geometry": {"coordinates":[48.57976,39.37404],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293623627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.75273,41.37936,48.75273,41.37936",
+    "geom:latitude":41.37936,
+    "geom:longitude":48.75273,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Qaraciq Zeyd",
+    "gn:country_code":"AZ",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586189,
+    "gn:latitude":41.37936,
+    "gn:longitude":48.75273,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Qarac\u0131q Zeyd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qarac\u0131k Zeyd"
+    ],
+    "name:und_x_variant":[
+        "Karachik Zeid",
+        "Karagidzhit-End",
+        "Qarac\u0131q Zeyd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586189
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3745d1a6fa26301d1951fa10d48d8166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293623627,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1293623627,
+    "wof:lastmodified":1537585415,
+    "wof:name":"Qaraciq Zeyd",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.75273,
+    41.37936,
+    48.75273,
+    41.37936
+],
+  "geometry": {"coordinates":[48.75273,41.37936],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242812941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.66771,41.54147,46.66771,41.54147",
+    "geom:latitude":41.54147,
+    "geom:longitude":46.66771,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Bazar",
+    "gn:country_code":"AZ",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587018,
+    "gn:latitude":41.54147,
+    "gn:longitude":46.66771,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Bazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bazar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668601,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587018
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2149e6e48c3adfe6bacac9ce726a87e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242812941,
+            "macroregion_id":1108808619,
+            "region_id":85668601
+        }
+    ],
+    "wof:id":1242812941,
+    "wof:lastmodified":1537585475,
+    "wof:name":"Bazar",
+    "wof:parent_id":85668601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.66771,
+    41.54147,
+    46.66771,
+    41.54147
+],
+  "geometry": {"coordinates":[46.66771,41.54147],"type":"Point"}
+}

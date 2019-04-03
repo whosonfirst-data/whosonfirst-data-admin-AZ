@@ -1,0 +1,72 @@
+{
+  "id": 1293726907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.82528,40.8225,47.82528,40.8225",
+    "geom:latitude":40.8225,
+    "geom:longitude":47.82528,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Topbag",
+    "gn:country_code":"AZ",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584826,
+    "gn:latitude":40.8225,
+    "gn:longitude":47.82528,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Topba\u011f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Topba\u011f",
+        "Topbag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584826,
+        "wk:page":"Topba%C4%9F"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0c33429ad40989b11d35e6904fdd392c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293726907,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1293726907,
+    "wof:lastmodified":1537585324,
+    "wof:name":"Topbag",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.82528,
+    40.8225,
+    47.82528,
+    40.8225
+],
+  "geometry": {"coordinates":[47.82528,40.8225],"type":"Point"}
+}

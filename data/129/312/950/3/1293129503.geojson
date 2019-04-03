@@ -1,0 +1,73 @@
+{
+  "id": 1293129503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.53025,41.08936,48.53025,41.08936",
+    "geom:latitude":41.08936,
+    "geom:longitude":48.53025,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Nokhurdyuzyu",
+    "gn:country_code":"AZ",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585356,
+    "gn:latitude":41.08936,
+    "gn:longitude":48.53025,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Nokhurdyuzyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nokhurdyuzi",
+        "Nokhurdyuzyu",
+        "Nohurd\u00fcz\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585356,
+        "wk:page":"Nohurd%C3%BCz%C3%BC"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"85cf9faf74e0e783eeb9b2c0891bd964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293129503,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1293129503,
+    "wof:lastmodified":1537585359,
+    "wof:name":"Nokhurdyuzyu",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.53025,
+    41.08936,
+    48.53025,
+    41.08936
+],
+  "geometry": {"coordinates":[48.53025,41.08936],"type":"Point"}
+}

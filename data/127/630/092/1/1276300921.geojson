@@ -1,0 +1,77 @@
+{
+  "id": 1276300921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.93269,40.47493,47.93269,40.47493",
+    "geom:latitude":40.47493,
+    "geom:longitude":47.93269,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Alpout",
+    "gn:country_code":"AZ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587277,
+    "gn:latitude":40.47493,
+    "gn:longitude":47.93269,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Alpout",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Alpout"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u043f\u043e\u0443\u0442"
+    ],
+    "name:und_x_variant":[
+        "Alpaut",
+        "Alpout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668357,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587277
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b053ae7a8a42ca5170c4d2679067ca80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276300921,
+            "macroregion_id":1108808627,
+            "region_id":85668357
+        }
+    ],
+    "wof:id":1276300921,
+    "wof:lastmodified":1537585494,
+    "wof:name":"Alpout",
+    "wof:parent_id":85668357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.93269,
+    40.47493,
+    47.93269,
+    40.47493
+],
+  "geometry": {"coordinates":[47.93269,40.47493],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310371907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.15,40.23333,48.15,40.23333",
+    "geom:latitude":40.23333,
+    "geom:longitude":48.15,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Bala-Muradkhan",
+    "gn:country_code":"AZ",
+    "gn:dem":-13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587067,
+    "gn:latitude":40.23333,
+    "gn:longitude":48.15,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Bala-Muradkhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668383,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587067,
+        "wk:page":"Bala-Muradkhan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"488d5a50321d1efe01524891d48c7f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310371907,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":1310371907,
+    "wof:lastmodified":1537486663,
+    "wof:name":"Bala-Muradkhan",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.15,
+    40.23333,
+    48.15,
+    40.23333
+],
+  "geometry": {"coordinates":[48.15,40.23333],"type":"Point"}
+}

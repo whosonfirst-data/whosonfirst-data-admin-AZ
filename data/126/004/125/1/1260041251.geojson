@@ -1,0 +1,73 @@
+{
+  "id": 1260041251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.46281,39.84754,46.46281,39.84754",
+    "geom:latitude":39.84754,
+    "geom:longitude":46.46281,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Kegna-Chorman",
+    "gn:country_code":"AZ",
+    "gn:dem":1488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8457372,
+    "gn:latitude":39.84754,
+    "gn:longitude":46.46281,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Kegna-Chorman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00f6hn\u0259 \u00c7orman"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0433\u043d\u0430-\u0427\u043e\u0440\u043c\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8457372
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e180a35cdb09ad5f685d758fcf978bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260041251,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1260041251,
+    "wof:lastmodified":1537585522,
+    "wof:name":"Kegna-Chorman",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.46281,
+    39.84754,
+    46.46281,
+    39.84754
+],
+  "geometry": {"coordinates":[46.46281,39.84754],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310166717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.71611,38.86708,48.71611,38.86708",
+    "geom:latitude":38.86708,
+    "geom:longitude":48.71611,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Separadi",
+    "gn:country_code":"AZ",
+    "gn:dem":-8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147228,
+    "gn:latitude":38.86708,
+    "gn:longitude":48.71611,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Separadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siperady",
+        "Separadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147228,
+        "wk:page":"Separadi%2C_Lankaran"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3b131f9626b2b142d2bb9c91a8690979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310166717,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1310166717,
+    "wof:lastmodified":1537585156,
+    "wof:name":"Separadi",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.71611,
+    38.86708,
+    48.71611,
+    38.86708
+],
+  "geometry": {"coordinates":[48.71611,38.86708],"type":"Point"}
+}

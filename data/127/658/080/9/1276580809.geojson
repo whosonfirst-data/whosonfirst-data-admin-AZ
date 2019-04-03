@@ -1,0 +1,88 @@
+{
+  "id": 1276580809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.98704,40.24793,46.98704,40.24793",
+    "geom:latitude":40.24793,
+    "geom:longitude":46.98704,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Seysulan",
+    "gn:country_code":"AZ",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585098,
+    "gn:latitude":40.24793,
+    "gn:longitude":46.98704,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Seysulan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Seysulan"
+    ],
+    "name:eng_x_preferred":[
+        "Seysulan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u056e\u057e\u0561\u0577\u0565\u0576"
+    ],
+    "name:hye_x_variant":[
+        "Artsvashen",
+        "\u054d\u0565\u0575\u057d\u0578\u0582\u056c\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0439\u0441\u0443\u043b\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Artsvashen",
+        "Seisoulan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585098,
+        "wk:page":"Seysulan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"510c07a77c6bbcab49554eeee9aa4949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276580809,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1276580809,
+    "wof:lastmodified":1537585343,
+    "wof:name":"Seysulan",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.98704,
+    40.24793,
+    46.98704,
+    40.24793
+],
+  "geometry": {"coordinates":[46.98704,40.24793],"type":"Point"}
+}

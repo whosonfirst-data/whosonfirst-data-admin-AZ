@@ -1,0 +1,71 @@
+{
+  "id": 1209957339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9806,39.53101,44.9806,39.53101",
+    "geom:latitude":39.53101,
+    "geom:longitude":44.9806,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147997.0",
+    "gn:asciiname":"Charchibogan",
+    "gn:country_code":"AZ",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148279,
+    "gn:latitude":39.53101,
+    "gn:longitude":44.9806,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Charchibogan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7\u0259r\u00e7ibo\u011fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668667,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148279
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"517653c2517d0f7ab6d5d6de90d860f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209957339,
+            "macroregion_id":1108808617,
+            "region_id":85668667
+        }
+    ],
+    "wof:id":1209957339,
+    "wof:lastmodified":1537585258,
+    "wof:name":"Charchibogan",
+    "wof:parent_id":85668667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9806,
+    39.53101,
+    44.9806,
+    39.53101
+],
+  "geometry": {"coordinates":[44.9806,39.53101],"type":"Point"}
+}

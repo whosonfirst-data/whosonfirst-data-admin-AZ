@@ -1,0 +1,78 @@
+{
+  "id": 1260307979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.13412,40.48495,48.13412,40.48495",
+    "geom:latitude":40.48495,
+    "geom:longitude":48.13412,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mustafali",
+    "gn:country_code":"AZ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":825066,
+    "gn:latitude":40.48495,
+    "gn:longitude":48.13412,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Mustafal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mustafal\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0441\u0442\u0430\u0444\u0430\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Mustafal\u0131",
+        "Mustafaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":825066,
+        "wk:page":"Mustafal%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"78a1dce408f5d2bb63705c419d0b8dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260307979,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1260307979,
+    "wof:lastmodified":1537585516,
+    "wof:name":"Mustafali",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.13412,
+    40.48495,
+    48.13412,
+    40.48495
+],
+  "geometry": {"coordinates":[48.13412,40.48495],"type":"Point"}
+}

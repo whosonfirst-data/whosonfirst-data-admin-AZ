@@ -1,0 +1,71 @@
+{
+  "id": 1327365169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.9468,40.67311,45.9468,40.67311",
+    "geom:latitude":40.67311,
+    "geom:longitude":45.9468,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Saler",
+    "gn:country_code":"AZ",
+    "gn:dem":1458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585162,
+    "gn:latitude":40.67311,
+    "gn:longitude":45.9468,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Saler",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yeni G\u00f6y\u00e7\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585162,
+        "wk:page":"Saler"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9ddb489fab6aa387c74bc406f300261e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327365169,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1327365169,
+    "wof:lastmodified":1537585346,
+    "wof:name":"Saler",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.9468,
+    40.67311,
+    45.9468,
+    40.67311
+],
+  "geometry": {"coordinates":[45.9468,40.67311],"type":"Point"}
+}

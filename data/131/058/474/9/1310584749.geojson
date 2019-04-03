@@ -1,0 +1,81 @@
+{
+  "id": 1310584749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.04754,39.2594,47.04754,39.2594",
+    "geom:latitude":39.2594,
+    "geom:longitude":47.04754,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Soltanli",
+    "gn:country_code":"AZ",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147124,
+    "gn:latitude":39.2594,
+    "gn:longitude":47.04754,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Soltanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Soltanl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Lusavan"
+    ],
+    "name:hye_x_variant":[
+        "\u053c\u0578\u0582\u057d\u0561\u057e\u0561\u0576"
+    ],
+    "name:und_x_variant":[
+        "Soltanly",
+        "Sultanly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147124,
+        "wk:page":"Soltanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"55443d1d4b9b98acf2966c9c9259846e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310584749,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1310584749,
+    "wof:lastmodified":1537585145,
+    "wof:name":"Soltanli",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.04754000000001,
+    39.2594,
+    47.04754000000001,
+    39.2594
+],
+  "geometry": {"coordinates":[47.04754000000001,39.2594],"type":"Point"}
+}

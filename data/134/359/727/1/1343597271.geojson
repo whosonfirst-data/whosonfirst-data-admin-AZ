@@ -1,0 +1,74 @@
+{
+  "id": 1343597271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1256,40.85073,46.1256,40.85073",
+    "geom:latitude":40.85073,
+    "geom:longitude":46.1256,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Kecili",
+    "gn:country_code":"AZ",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8638875,
+    "gn:latitude":40.85073,
+    "gn:longitude":46.1256,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"Ke\u00e7ili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xuluf"
+    ],
+    "name:aze_x_variant":[
+        "Ke\u00e7ili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8638875,
+        "wk:page":"Xuluf"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d6e19d3fab480d5aac8ec477c35e672b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343597271,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1343597271,
+    "wof:lastmodified":1537585538,
+    "wof:name":"Kecili",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1256,
+    40.85073,
+    46.1256,
+    40.85073
+],
+  "geometry": {"coordinates":[46.1256,40.85073],"type":"Point"}
+}

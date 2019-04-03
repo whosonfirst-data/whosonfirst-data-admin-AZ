@@ -1,0 +1,78 @@
+{
+  "id": 1326566107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.87468,40.10776,47.87468,40.10776",
+    "geom:latitude":40.10776,
+    "geom:longitude":47.87468,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Alvand",
+    "gn:country_code":"AZ",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587270,
+    "gn:latitude":40.10776,
+    "gn:longitude":47.87468,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"\u018flv\u0259nd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u018flv\u01ddnd"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0432\u0435\u043d\u0434"
+    ],
+    "name:und_x_variant":[
+        "Al\u2019vend",
+        "\u018flv\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668365,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587270,
+        "wk:page":"%C6%8Flv%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"58223e2583552d5d8c4065c308261181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326566107,
+            "macroregion_id":1108808627,
+            "region_id":85668365
+        }
+    ],
+    "wof:id":1326566107,
+    "wof:lastmodified":1537585494,
+    "wof:name":"Alvand",
+    "wof:parent_id":85668365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.87468,
+    40.10776,
+    47.87468,
+    40.10776
+],
+  "geometry": {"coordinates":[47.87468,40.10776],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1293499095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.91298,40.10624,46.91298,40.10624",
+    "geom:latitude":40.10624,
+    "geom:longitude":46.91298,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Talislar",
+    "gn:country_code":"AZ",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8527978,
+    "gn:latitude":40.10624,
+    "gn:longitude":46.91298,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Tal\u0131\u015flar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Tal\u0131\u015flar"
+    ],
+    "name:hye_x_preferred":[
+        "T\u2019alish"
+    ],
+    "name:hye_x_variant":[
+        "\u0539\u0561\u056c\u056b\u0577"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u044b\u0448\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Talyshlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8527978
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3c4d86e2c288a63455e4c74adc70afd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293499095,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1293499095,
+    "wof:lastmodified":1537585529,
+    "wof:name":"Talislar",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.91298,
+    40.10624,
+    46.91298,
+    40.10624
+],
+  "geometry": {"coordinates":[46.91298,40.10624],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243407691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.60123,39.09242,45.60123,39.09242",
+    "geom:latitude":39.09242,
+    "geom:longitude":45.60123,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"148132.0",
+    "gn:asciiname":"Camaldin",
+    "gn:country_code":"AZ",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148153,
+    "gn:latitude":39.09242,
+    "gn:longitude":45.60123,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Camald\u0131n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Camald\u0131n"
+    ],
+    "name:und_x_variant":[
+        "Dzhamaldin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668677,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148153,
+        "wk:page":"Camald%C4%B1n"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5a4b9a1fd370e4aab7e17ad007a1cb03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243407691,
+            "macroregion_id":1108808617,
+            "region_id":85668677
+        }
+    ],
+    "wof:id":1243407691,
+    "wof:lastmodified":1537585244,
+    "wof:name":"Camaldin",
+    "wof:parent_id":85668677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.60123,
+    39.09242,
+    45.60123,
+    39.09242
+],
+  "geometry": {"coordinates":[45.60123,39.09242],"type":"Point"}
+}

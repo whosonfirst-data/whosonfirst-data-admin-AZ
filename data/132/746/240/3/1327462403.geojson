@@ -1,0 +1,83 @@
+{
+  "id": 1327462403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.69373,40.29954,46.69373,40.29954",
+    "geom:latitude":40.29954,
+    "geom:longitude":46.69373,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Tonashen",
+    "gn:country_code":"AZ",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584829,
+    "gn:latitude":40.29954,
+    "gn:longitude":46.69373,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Tonashen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Tona\u015fen"
+    ],
+    "name:aze_x_variant":[
+        "T\u0259p\u0259k\u0259nd"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u0576\u0561\u0577\u0565\u0576"
+    ],
+    "name:hye_x_variant":[
+        "Tonashen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043d\u0430\u0448\u0435\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584829,
+        "wk:page":"Tona%C5%9Fen"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"97e0e6d16141e74680bf041a1d6982b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327462403,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1327462403,
+    "wof:lastmodified":1537585324,
+    "wof:name":"Tonashen",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.69373,
+    40.29954,
+    46.69373,
+    40.29954
+],
+  "geometry": {"coordinates":[46.69373,40.29954],"type":"Point"}
+}

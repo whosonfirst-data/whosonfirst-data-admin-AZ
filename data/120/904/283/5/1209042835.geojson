@@ -1,0 +1,75 @@
+{
+  "id": 1209042835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.6,39.65833,46.6,39.65833",
+    "geom:latitude":39.65833,
+    "geom:longitude":46.6,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Berdadzor",
+    "gn:cc2":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443114,
+    "gn:latitude":39.65833,
+    "gn:longitude":46.6,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Berdadzor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Berdadzor"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0580\u0564\u0561\u0573\u0578\u0580"
+    ],
+    "name:hye_x_variant":[
+        "Bertadzor"
+    ],
+    "name:und_x_variant":[
+        "Bertadzor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443114,
+        "wk:page":"Berdadzor"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cf8e9af716bf03585cc14a4e3cf71790",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209042835
+        }
+    ],
+    "wof:id":1209042835,
+    "wof:lastmodified":1537585303,
+    "wof:name":"Berdadzor",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.6,
+    39.65833,
+    46.6,
+    39.65833
+],
+  "geometry": {"coordinates":[46.6,39.65833],"type":"Point"}
+}

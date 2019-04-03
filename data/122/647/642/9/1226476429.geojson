@@ -1,0 +1,72 @@
+{
+  "id": 1226476429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.94784,39.82899,48.94784,39.82899",
+    "geom:latitude":39.82899,
+    "geom:longitude":48.94784,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Satrovka",
+    "gn:country_code":"AZ",
+    "gn:dem":-17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147196,
+    "gn:latitude":39.82899,
+    "gn:longitude":48.94784,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"\u015eatrovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shatrovka",
+        "\u015eatrovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668449,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147196,
+        "wk:page":"%C5%9Eatrovka"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2aa31205742a0e4cb63955969a6f5527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226476429,
+            "macroregion_id":1108808627,
+            "region_id":85668449
+        }
+    ],
+    "wof:id":1226476429,
+    "wof:lastmodified":1537585153,
+    "wof:name":"Satrovka",
+    "wof:parent_id":85668449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.94784,
+    39.82899000000001,
+    48.94784,
+    39.82899000000001
+],
+  "geometry": {"coordinates":[48.94784,39.82899000000001],"type":"Point"}
+}

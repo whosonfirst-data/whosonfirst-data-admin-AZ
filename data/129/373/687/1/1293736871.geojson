@@ -1,0 +1,73 @@
+{
+  "id": 1293736871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.115,39.43096,49.115,39.43096",
+    "geom:latitude":39.43096,
+    "geom:longitude":49.115,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Tatarmagla",
+    "gn:country_code":"AZ",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147076,
+    "gn:latitude":39.43096,
+    "gn:longitude":49.115,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Tatarmagla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tataramagla",
+        "Tatarm\u0259hl\u0259",
+        "Tatarmakhla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668409,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147076,
+        "wk:page":"Tatarm%C9%99hl%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"173392a4c3c08f6e05deed54dcd7963f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293736871,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1293736871,
+    "wof:lastmodified":1537585142,
+    "wof:name":"Tatarmagla",
+    "wof:parent_id":85668409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.115,
+    39.43096,
+    49.115,
+    39.43096
+],
+  "geometry": {"coordinates":[49.115,39.43096],"type":"Point"}
+}

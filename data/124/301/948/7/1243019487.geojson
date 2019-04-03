@@ -1,0 +1,79 @@
+{
+  "id": 1243019487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.26685,41.24347,45.26685,41.24347",
+    "geom:latitude":41.24347,
+    "geom:longitude":45.26685,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Yuxari Salahli",
+    "gn:country_code":"AZ",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584626,
+    "gn:latitude":41.24347,
+    "gn:longitude":45.26685,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Yuxar\u0131 Salahl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yuxar\u0131 Salahl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0445\u0430\u0440\u044b-\u0421\u0430\u043b\u0430\u0445\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Yukhary-Salakhly",
+        "Yokhary-Salakhly",
+        "Yuxar\u0131 Salahl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668229,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584626,
+        "wk:page":"Yuxar%C4%B1_Salahl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3447eb70b21450af83dda181883244e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243019487,
+            "macroregion_id":1108808609,
+            "region_id":85668229
+        }
+    ],
+    "wof:id":1243019487,
+    "wof:lastmodified":1537585310,
+    "wof:name":"Yuxari Salahli",
+    "wof:parent_id":85668229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.26685,
+    41.24347,
+    45.26685,
+    41.24347
+],
+  "geometry": {"coordinates":[45.26685,41.24347],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226579861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.83831,41.48094,48.83831,41.48094",
+    "geom:latitude":41.48094,
+    "geom:longitude":48.83831,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Haciqurbanoba",
+    "gn:country_code":"AZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586546,
+    "gn:latitude":41.48094,
+    "gn:longitude":48.83831,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Hac\u0131qurbanoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gadzhykurbanoba",
+        "Gadzhikurbanoba",
+        "Hac\u0131qurbanoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586546,
+        "wk:page":"Hac%C4%B1qurbanoba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e3d4532daa5b479fc08345c487c86107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226579861,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1226579861,
+    "wof:lastmodified":1537585441,
+    "wof:name":"Haciqurbanoba",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.83831,
+    41.48094,
+    48.83831,
+    41.48094
+],
+  "geometry": {"coordinates":[48.83831,41.48094],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310228935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.44971,40.57429,47.44971,40.57429",
+    "geom:latitude":40.57429,
+    "geom:longitude":47.44971,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nekhrakhalil",
+    "gn:country_code":"AZ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585367,
+    "gn:latitude":40.57429,
+    "gn:longitude":47.44971,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Nekhrakhalil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nehr\u0259x\u0259lil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668259,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585367,
+        "wk:page":"Nehr%C9%99x%C9%99lil"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7c72097be8ce9457915ca579e9cf6fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310228935,
+            "macroregion_id":1108808627,
+            "region_id":85668259
+        }
+    ],
+    "wof:id":1310228935,
+    "wof:lastmodified":1537585360,
+    "wof:name":"Nekhrakhalil",
+    "wof:parent_id":85668259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.44971,
+    40.57429000000001,
+    47.44971,
+    40.57429000000001
+],
+  "geometry": {"coordinates":[47.44971,40.57429000000001],"type":"Point"}
+}

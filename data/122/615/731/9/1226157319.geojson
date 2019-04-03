@@ -1,0 +1,82 @@
+{
+  "id": 1226157319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.78188,40.52914,49.78188,40.52914",
+    "geom:latitude":40.52914,
+    "geom:longitude":49.78188,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Novxani",
+    "gn:country_code":"AZ",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585351,
+    "gn:latitude":40.52914,
+    "gn:longitude":49.78188,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Novxan\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Novxan\u0131"
+    ],
+    "name:eng_x_preferred":[
+        "Novxan\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0445\u0430\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novkhany",
+        "Novkhana",
+        "Nobkhana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668251,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585351,
+        "wk:page":"Novxan%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"02a4b1a380503a8ac5d5f24eb7078916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226157319,
+            "macroregion_id":1108808621,
+            "region_id":85668251
+        }
+    ],
+    "wof:id":1226157319,
+    "wof:lastmodified":1537585359,
+    "wof:name":"Novxani",
+    "wof:parent_id":85668251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.78188,
+    40.52914000000001,
+    49.78188,
+    40.52914000000001
+],
+  "geometry": {"coordinates":[49.78188,40.52914000000001],"type":"Point"}
+}

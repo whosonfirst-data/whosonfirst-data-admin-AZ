@@ -1,0 +1,78 @@
+{
+  "id": 1242708775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.62552,40.18657,47.62552,40.18657",
+    "geom:latitude":40.18657,
+    "geom:longitude":47.62552,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Lyalyaagadzhy",
+    "gn:country_code":"AZ",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585623,
+    "gn:latitude":40.18657,
+    "gn:longitude":47.62552,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Lyalyaagadzhy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "L\u01ddl\u01dda\u011fac\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044f\u043b\u044f\u0430\u0433\u0430\u0434\u0436\u0438"
+    ],
+    "name:und_x_variant":[
+        "Leleagadzhy",
+        "L\u0259l\u0259a\u011fac\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668509,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585623,
+        "wk:page":"L%C9%99l%C9%99a%C4%9Fac%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6cfac272aec3dd4fb006e27f05086a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242708775,
+            "macroregion_id":1108808627,
+            "region_id":85668509
+        }
+    ],
+    "wof:id":1242708775,
+    "wof:lastmodified":1537585378,
+    "wof:name":"Lyalyaagadzhy",
+    "wof:parent_id":85668509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.62552,
+    40.18657,
+    47.62552,
+    40.18657
+],
+  "geometry": {"coordinates":[47.62552,40.18657],"type":"Point"}
+}

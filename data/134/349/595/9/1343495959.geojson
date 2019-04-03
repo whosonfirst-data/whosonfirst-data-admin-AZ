@@ -1,0 +1,68 @@
+{
+  "id": 1343495959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.88839,39.7342,46.88839,39.7342",
+    "geom:latitude":39.7342,
+    "geom:longitude":46.88839,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Perimkend",
+    "gn:country_code":"AZ",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388685,
+    "gn:latitude":39.7342,
+    "gn:longitude":46.88839,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Perimkend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388685,
+        "wk:page":"Perimkend"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3d4060fff44e804349d291f16f131861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343495959,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1343495959,
+    "wof:lastmodified":1537486571,
+    "wof:name":"Perimkend",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.88839,
+    39.7342,
+    46.88839,
+    39.7342
+],
+  "geometry": {"coordinates":[46.88839,39.7342],"type":"Point"}
+}

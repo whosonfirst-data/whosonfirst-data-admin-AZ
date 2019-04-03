@@ -1,0 +1,76 @@
+{
+  "id": 1209322141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.06535,40.01755,47.06535,40.01755",
+    "geom:latitude":40.01755,
+    "geom:longitude":47.06535,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Evoglu",
+    "gn:country_code":"AZ",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586599,
+    "gn:latitude":40.01755,
+    "gn:longitude":47.06535,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Evo\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Evo\u011flu"
+    ],
+    "name:eng_x_preferred":[
+        "Evo\u011flu"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0432\u043e\u0433\u043b\u0443"
+    ],
+    "name:und_x_variant":[
+        "Efetli",
+        "Evogly",
+        "Evoglu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586599,
+        "wk:page":"Evo%C4%9Flu%2C_Agdam"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e191f28d591eecfae1833921af2959fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209322141
+        }
+    ],
+    "wof:id":1209322141,
+    "wof:lastmodified":1537585445,
+    "wof:name":"Evoglu",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.06535,
+    40.01755,
+    47.06535,
+    40.01755
+],
+  "geometry": {"coordinates":[47.06535,40.01755],"type":"Point"}
+}

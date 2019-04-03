@@ -1,0 +1,84 @@
+{
+  "id": 1225879197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.5655,39.3893,46.5655,39.3893",
+    "geom:latitude":39.3893,
+    "geom:longitude":46.5655,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Qayali",
+    "gn:country_code":"AZ",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147868,
+    "gn:latitude":39.3893,
+    "gn:longitude":46.5655,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Qayal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qayal\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "K\u2019ayaly"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0561\u0575\u0561\u056c\u0568"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u044f\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kayaly",
+        "\u041a\u0430\u044f\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147868,
+        "wk:page":"Qayal%C4%B1%2C_Qubadli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b1114792b840bb620663b6340d918a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225879197,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1225879197,
+    "wof:lastmodified":1537585216,
+    "wof:name":"Qayali",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.5655,
+    39.3893,
+    46.5655,
+    39.3893
+],
+  "geometry": {"coordinates":[46.5655,39.3893],"type":"Point"}
+}

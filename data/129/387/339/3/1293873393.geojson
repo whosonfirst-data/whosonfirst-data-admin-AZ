@@ -1,0 +1,78 @@
+{
+  "id": 1293873393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.45689,40.29622,49.45689,40.29622",
+    "geom:latitude":40.29622,
+    "geom:longitude":49.45689,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sahqaya",
+    "gn:country_code":"AZ",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585078,
+    "gn:latitude":40.29622,
+    "gn:longitude":49.45689,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Sahqaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sahqaya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0445\u043a\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Shakh-Kaya",
+        "Sahqaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585078,
+        "wk:page":"%C5%9Eahqaya"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c5e6b012244ade2b24286966bf6fff87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293873393,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1293873393,
+    "wof:lastmodified":1537585341,
+    "wof:name":"Sahqaya",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.45689,
+    40.29622,
+    49.45689,
+    40.29622
+],
+  "geometry": {"coordinates":[49.45689,40.29622],"type":"Point"}
+}

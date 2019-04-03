@@ -1,0 +1,66 @@
+{
+  "id": 1209159305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.27259,39.21658,45.27259,39.21658",
+    "geom:latitude":39.21658,
+    "geom:longitude":45.27259,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"7669114.0",
+    "gn:asciiname":"Bashbashy",
+    "gn:country_code":"AZ",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9485465,
+    "gn:latitude":39.21658,
+    "gn:longitude":45.27259,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Bashbashy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ba\u015fba\u015f\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9485465,
+        "wk:page":"Ba%C5%9Fba%C5%9F%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"832ee14242ee30ba338f5e29189784b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209159305
+        }
+    ],
+    "wof:id":1209159305,
+    "wof:lastmodified":1537585541,
+    "wof:name":"Bashbashy",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.27259,
+    39.21658,
+    45.27259,
+    39.21658
+],
+  "geometry": {"coordinates":[45.27259,39.21658],"type":"Point"}
+}

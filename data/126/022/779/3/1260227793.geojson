@@ -1,0 +1,71 @@
+{
+  "id": 1260227793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.78363,38.71163,48.78363,38.71163",
+    "geom:latitude":38.71163,
+    "geom:longitude":48.78363,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ballabur",
+    "gn:country_code":"AZ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8542654,
+    "gn:latitude":38.71163,
+    "gn:longitude":48.78363,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ballabur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ballabur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8542654,
+        "wk:page":"Ballabur"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"46247a8d0ced7f38dcc4fcc43dcb6da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260227793,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1260227793,
+    "wof:lastmodified":1537585530,
+    "wof:name":"Ballabur",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.78363,
+    38.71163,
+    48.78363,
+    38.71163
+],
+  "geometry": {"coordinates":[48.78363,38.71163],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260321221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.77421,41.41525,46.77421,41.41525",
+    "geom:latitude":41.41525,
+    "geom:longitude":46.77421,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Turacli",
+    "gn:country_code":"AZ",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":823986,
+    "gn:latitude":41.41525,
+    "gn:longitude":46.77421,
+    "gn:modification_date":"2014-01-14",
+    "gn:name":"Turacl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turacl\u0131",
+        "Turachly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668557,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":823986,
+        "wk:page":"Turacl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"63eab311abb1b3f3c1e28edd72216509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260321221,
+            "macroregion_id":1108808619,
+            "region_id":85668557
+        }
+    ],
+    "wof:id":1260321221,
+    "wof:lastmodified":1537585508,
+    "wof:name":"Turacli",
+    "wof:parent_id":85668557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.77421,
+    41.41525,
+    46.77421,
+    41.41525
+],
+  "geometry": {"coordinates":[46.77421,41.41525],"type":"Point"}
+}

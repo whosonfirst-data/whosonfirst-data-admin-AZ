@@ -1,0 +1,78 @@
+{
+  "id": 1343418447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.196,40.79674,48.196,40.79674",
+    "geom:latitude":40.79674,
+    "geom:longitude":48.196,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Talistan",
+    "gn:country_code":"AZ",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584879,
+    "gn:latitude":40.79674,
+    "gn:longitude":48.196,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Tal\u0131stan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tal\u0131stan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u044b\u0441\u0442\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Talystan",
+        "Tal\u0131stan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584879,
+        "wk:page":"Tal%C4%B1stan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9cfde3a4095c2e07aa9e53bad84c0918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343418447,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1343418447,
+    "wof:lastmodified":1537585328,
+    "wof:name":"Talistan",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.19600000000001,
+    40.79674,
+    48.19600000000001,
+    40.79674
+],
+  "geometry": {"coordinates":[48.19600000000001,40.79674],"type":"Point"}
+}

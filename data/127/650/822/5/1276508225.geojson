@@ -1,0 +1,84 @@
+{
+  "id": 1276508225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.51951,39.68797,46.51951,39.68797",
+    "geom:latitude":39.68797,
+    "geom:longitude":46.51951,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ikinci Tigiq",
+    "gn:country_code":"AZ",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147054,
+    "gn:latitude":39.68797,
+    "gn:longitude":46.51951,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"\u0130kinci T\u0131\u011f\u0131q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130kinci T\u0131\u011f\u0131q"
+    ],
+    "name:hye_x_preferred":[
+        "Tighik-II"
+    ],
+    "name:hye_x_variant":[
+        "\u0539\u056b\u0572\u056b\u056f-II"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0433\u0438\u043a \u0412\u0442\u043e\u0440\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Nizhniy Tygik",
+        "Tigik Vtoroye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147054,
+        "wk:page":"%C4%B0kinci_T%C4%B1%C4%9F%C4%B1k"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"594e3d3667cc135e3e30a2eb314b33c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276508225,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1276508225,
+    "wof:lastmodified":1537585140,
+    "wof:name":"Ikinci Tigiq",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.51951,
+    39.68797,
+    46.51951,
+    39.68797
+],
+  "geometry": {"coordinates":[46.51951,39.68797],"type":"Point"}
+}

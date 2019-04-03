@@ -1,0 +1,73 @@
+{
+  "id": 1209846067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.35773,39.05239,48.35773,39.05239",
+    "geom:latitude":39.05239,
+    "geom:longitude":48.35773,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Gendara",
+    "gn:country_code":"AZ",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148062,
+    "gn:latitude":39.05239,
+    "gn:longitude":48.35773,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Gendara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Gend\u0259r\u0259"
+    ],
+    "name:und_x_variant":[
+        "G\u00ebndere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668497,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148062
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"648626856903f178b806840106b0daf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209846067,
+            "macroregion_id":1108808625,
+            "region_id":85668497
+        }
+    ],
+    "wof:id":1209846067,
+    "wof:lastmodified":1537585235,
+    "wof:name":"Gendara",
+    "wof:parent_id":85668497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.35773,
+    39.05239,
+    48.35773,
+    39.05239
+],
+  "geometry": {"coordinates":[48.35773,39.05239],"type":"Point"}
+}

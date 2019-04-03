@@ -1,0 +1,76 @@
+{
+  "id": 1209041161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1029,39.53259,47.1029,39.53259",
+    "geom:latitude":39.53259,
+    "geom:longitude":47.1029,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Arysh",
+    "gn:country_code":"AZ",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148495,
+    "gn:latitude":39.53259,
+    "gn:longitude":47.1029,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Arysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ar\u0131\u015f"
+    ],
+    "name:hye_x_preferred":[
+        "Aresh"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0580\u0565\u0577"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u044b\u0448"
+    ],
+    "name:und_x_variant":[
+        "\u0410\u0440\u044b\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148495
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3f4072154ecae7fb709625d280a47dd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209041161
+        }
+    ],
+    "wof:id":1209041161,
+    "wof:lastmodified":1537585276,
+    "wof:name":"Arysh",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1029,
+    39.53259,
+    47.1029,
+    39.53259
+],
+  "geometry": {"coordinates":[47.1029,39.53259],"type":"Point"}
+}

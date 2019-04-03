@@ -1,0 +1,72 @@
+{
+  "id": 1192971333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.81822,39.30868,48.81822,39.30868",
+    "geom:latitude":39.30868,
+    "geom:longitude":48.81822,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Xol Qarabucaq",
+    "gn:country_code":"AZ",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147772,
+    "gn:latitude":39.30868,
+    "gn:longitude":48.81822,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Xol Qarabucaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kholkarabudzhak",
+        "Xol Qarabucaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668409,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147772,
+        "wk:page":"Xol_Qarabucaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a8ac0f80eccbec2ef15407829f85efda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1192971333,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1192971333,
+    "wof:lastmodified":1537585206,
+    "wof:name":"Xol Qarabucaq",
+    "wof:parent_id":85668409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.81822,
+    39.30868,
+    48.81822,
+    39.30868
+],
+  "geometry": {"coordinates":[48.81822,39.30868],"type":"Point"}
+}

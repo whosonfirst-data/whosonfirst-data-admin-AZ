@@ -1,0 +1,68 @@
+{
+  "id": 1327137277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.39793,39.87748,47.39793,39.87748",
+    "geom:latitude":39.87748,
+    "geom:longitude":47.39793,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yatag",
+    "gn:country_code":"AZ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388597,
+    "gn:latitude":39.87748,
+    "gn:longitude":47.39793,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Yatag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668519,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388597,
+        "wk:page":"Yatag"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"812db71415b30e5c9eb353f487256156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327137277,
+            "macroregion_id":1108808627,
+            "region_id":85668519
+        }
+    ],
+    "wof:id":1327137277,
+    "wof:lastmodified":1537486570,
+    "wof:name":"Yatag",
+    "wof:parent_id":85668519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.39793,
+    39.87748,
+    47.39793,
+    39.87748
+],
+  "geometry": {"coordinates":[47.39793,39.87748],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259837971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.85247,40.56909,47.85247,40.56909",
+    "geom:latitude":40.56909,
+    "geom:longitude":47.85247,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Mirti",
+    "gn:country_code":"AZ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585423,
+    "gn:latitude":40.56909,
+    "gn:longitude":47.85247,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"M\u0131rt\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myrty",
+        "M\u0131rt\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668357,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585423
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"659e6d5e8a69514c8821d1e6f7881a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259837971,
+            "macroregion_id":1108808627,
+            "region_id":85668357
+        }
+    ],
+    "wof:id":1259837971,
+    "wof:lastmodified":1537585364,
+    "wof:name":"Mirti",
+    "wof:parent_id":85668357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.85247,
+    40.56909,
+    47.85247,
+    40.56909
+],
+  "geometry": {"coordinates":[47.85247,40.56909],"type":"Point"}
+}

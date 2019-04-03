@@ -1,0 +1,71 @@
+{
+  "id": 1293619621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3897,41.19515,48.3897,41.19515",
+    "geom:latitude":41.19515,
+    "geom:longitude":48.3897,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Dagustu",
+    "gn:country_code":"AZ",
+    "gn:dem":2072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824927,
+    "gn:latitude":41.19515,
+    "gn:longitude":48.3897,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Da\u011f\u00fcst\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Da\u011f\u00fcst\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824927,
+        "wk:page":"Da%C4%9F%C3%BCst%C3%BC"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a33cbae25b24b5713906d68c32371e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293619621,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1293619621,
+    "wof:lastmodified":1537585514,
+    "wof:name":"Dagustu",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3897,
+    41.19515,
+    48.3897,
+    41.19515
+],
+  "geometry": {"coordinates":[48.3897,41.19515],"type":"Point"}
+}

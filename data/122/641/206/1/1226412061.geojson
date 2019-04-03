@@ -1,0 +1,79 @@
+{
+  "id": 1226412061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.12818,40.37918,46.12818,40.37918",
+    "geom:latitude":40.37918,
+    "geom:longitude":46.12818,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Zivlan",
+    "gn:country_code":"AZ",
+    "gn:dem":1627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584561,
+    "gn:latitude":40.37918,
+    "gn:longitude":46.12818,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Zivlan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zivlan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u0432\u043b\u044f\u043d"
+    ],
+    "name:und_x_variant":[
+        "Ziblan",
+        "Zivlyan",
+        "Zivlan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584561,
+        "wk:page":"Zivlan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6d95ee477d7c6c4aad6c9e19e60f8fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226412061,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1226412061,
+    "wof:lastmodified":1537585306,
+    "wof:name":"Zivlan",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.12818,
+    40.37918,
+    46.12818,
+    40.37918
+],
+  "geometry": {"coordinates":[46.12818,40.37918],"type":"Point"}
+}

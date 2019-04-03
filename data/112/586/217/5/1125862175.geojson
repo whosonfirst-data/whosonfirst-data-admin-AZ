@@ -1,0 +1,103 @@
+{
+  "id": 1125862175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.03493,40.86278,46.03493,40.86278",
+    "geom:latitude":40.86278,
+    "geom:longitude":46.03493,
+    "gn:gn_country":"AZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4399,
+    "gn:population":4399,
+    "iso:country":"AZ",
+    "lbl:latitude":40.86278,
+    "lbl:longitude":46.03493,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "D\u0259ll\u0259r"
+    ],
+    "name:dut_x_preferred":[
+        "D\u0259ll\u0259r"
+    ],
+    "name:eng_x_preferred":[
+        "D\u01ddlil\u01ddr"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30c3\u30e9\u30fc"
+    ],
+    "name:may_x_preferred":[
+        "D\u0259ll\u0259r"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043b\u043b\u044f\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Dolyar"
+    ],
+    "name:unk_x_variant":[
+        "Dallyar"
+    ],
+    "qs_pg:aaroncc":"AZ",
+    "qs_pg:gn_country":"AZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":586792,
+    "qs_pg:gn_pop":4399,
+    "qs_pg:name":"Dolyar",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":125856,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586792,
+        "qs_pg:id":125856,
+        "wd:id":"Q4154188"
+    },
+    "wof:country":"AZ",
+    "wof:created":1497293868,
+    "wof:geomhash":"3f45c3682f1e19d4402d6aa75ab81ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1125862175,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1125862175,
+    "wof:lastmodified":1513898760,
+    "wof:name":"Dolyar",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:population":4399,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.03493,
+    40.86278,
+    46.03493,
+    40.86278
+],
+  "geometry": {"coordinates":[46.03493,40.86278],"type":"Point"}
+}

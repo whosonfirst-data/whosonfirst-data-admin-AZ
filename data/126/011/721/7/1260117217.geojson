@@ -1,0 +1,72 @@
+{
+  "id": 1260117217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.20995,40.7057,47.20995,40.7057",
+    "geom:latitude":40.7057,
+    "geom:longitude":47.20995,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Asagi Salamabad",
+    "gn:country_code":"AZ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587163,
+    "gn:latitude":40.7057,
+    "gn:longitude":47.20995,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"A\u015fa\u011f\u0131 Salamabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ashagy Salamabad",
+        "A\u015fa\u011f\u0131 Salamabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668243,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587163,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_Salamabad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3d71a97620a18336acef3fd19d1d91d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260117217,
+            "macroregion_id":1108808627,
+            "region_id":85668243
+        }
+    ],
+    "wof:id":1260117217,
+    "wof:lastmodified":1537585485,
+    "wof:name":"Asagi Salamabad",
+    "wof:parent_id":85668243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.20995,
+    40.7057,
+    47.20995,
+    40.7057
+],
+  "geometry": {"coordinates":[47.20995,40.7057],"type":"Point"}
+}

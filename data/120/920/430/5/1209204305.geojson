@@ -1,0 +1,76 @@
+{
+  "id": 1209204305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.03598,40.43026,50.03598,40.43026",
+    "geom:latitude":40.43026,
+    "geom:longitude":50.03598,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Yeni Suraxani",
+    "gn:country_code":"AZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586340,
+    "gn:latitude":40.43026,
+    "gn:longitude":50.03598,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Yeni Suraxan\u0131",
+    "gn:population":16127,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yeni Suraxan\u0131"
+    ],
+    "name:und_x_variant":[
+        "Kirov Ad\u0131na",
+        "R\u0259sulzad\u0259",
+        "Imeni Kirova",
+        "Yeni-Surakhany",
+        "Kirova",
+        "Pos\u00eblok Imeni Kirova"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586340,
+        "wk:page":"Yeni_Suraxan%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ec3eb9ffc1923a1f91cae6991b3b5a7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209204305
+        }
+    ],
+    "wof:id":1209204305,
+    "wof:lastmodified":1537585426,
+    "wof:name":"Yeni Suraxani",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:population":16127,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.03598,
+    40.43026,
+    50.03598,
+    40.43026
+],
+  "geometry": {"coordinates":[50.03598,40.43026],"type":"Point"}
+}

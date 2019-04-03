@@ -1,0 +1,88 @@
+{
+  "id": 1243203045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.69787,39.95626,46.69787,39.95626",
+    "geom:latitude":39.95626,
+    "geom:longitude":46.69787,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Ilis",
+    "gn:country_code":"AZ",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147996,
+    "gn:latitude":39.95626,
+    "gn:longitude":46.69787,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Ilis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hilis"
+    ],
+    "name:aze_x_variant":[
+        "\u0130lis",
+        "Qarak\u00f6t\u00fck"
+    ],
+    "name:hye_x_preferred":[
+        "K\u2019ilis"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u056b\u056c\u056b\u057d",
+        "\u0540\u056b\u056c\u056b\u057d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "\u0418\u043b\u0438\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147996,
+        "wk:page":"Hilis"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f4c02c80f707ee37c9cf5b9f998f7ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243203045,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1243203045,
+    "wof:lastmodified":1537585229,
+    "wof:name":"Ilis",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.69787,
+    39.95626,
+    46.69787,
+    39.95626
+],
+  "geometry": {"coordinates":[46.69787,39.95626],"type":"Point"}
+}

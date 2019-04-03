@@ -1,0 +1,73 @@
+{
+  "id": 1310238517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.27985,40.6559,46.27985,40.6559",
+    "geom:latitude":40.6559,
+    "geom:longitude":46.27985,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Bohrambag",
+    "gn:country_code":"AZ",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8638883,
+    "gn:latitude":40.6559,
+    "gn:longitude":46.27985,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"Bohramba\u011f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bohramba\u011f"
+    ],
+    "name:und_x_variant":[
+        "Bakhrambek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8638883
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f9d31b365306b87b69adeefc664d2b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310238517,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1310238517,
+    "wof:lastmodified":1537585538,
+    "wof:name":"Bohrambag",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.27985,
+    40.6559,
+    46.27985,
+    40.6559
+],
+  "geometry": {"coordinates":[46.27985,40.6559],"type":"Point"}
+}

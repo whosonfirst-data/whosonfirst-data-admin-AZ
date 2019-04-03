@@ -1,0 +1,73 @@
+{
+  "id": 1293232207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.37033,38.75955,48.37033,38.75955",
+    "geom:latitude":38.75955,
+    "geom:longitude":48.37033,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Shinabant",
+    "gn:country_code":"AZ",
+    "gn:dem":1526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147181,
+    "gn:latitude":38.75955,
+    "gn:longitude":48.37033,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Shinabant",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shinaband",
+        "Shinabant",
+        "\u015ein\u0259b\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668403,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147181,
+        "wk:page":"%C5%9Ein%C9%99b%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"56914b89ab487c5efbe1970ab31def8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293232207,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":1293232207,
+    "wof:lastmodified":1537585151,
+    "wof:name":"Shinabant",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.37033,
+    38.75955,
+    48.37033,
+    38.75955
+],
+  "geometry": {"coordinates":[48.37033,38.75955],"type":"Point"}
+}

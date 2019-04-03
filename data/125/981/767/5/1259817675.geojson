@@ -1,0 +1,73 @@
+{
+  "id": 1259817675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.74711,40.89661,45.74711,40.89661",
+    "geom:latitude":40.89661,
+    "geom:longitude":45.74711,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Ibrahimhacili",
+    "gn:country_code":"AZ",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586360,
+    "gn:latitude":40.89661,
+    "gn:longitude":45.74711,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"\u0130brahimhac\u0131l\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibrogim-Gadzhyly",
+        "\u0130brahimhac\u0131l\u0131",
+        "Ibragim Gadzhyly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586360,
+        "wk:page":"%C4%B0brahimhac%C4%B1l%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"66f3262011629daa6fa059d621cbafaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259817675,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1259817675,
+    "wof:lastmodified":1537585428,
+    "wof:name":"Ibrahimhacili",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.74711,
+    40.89661,
+    45.74711,
+    40.89661
+],
+  "geometry": {"coordinates":[45.74711,40.89661],"type":"Point"}
+}

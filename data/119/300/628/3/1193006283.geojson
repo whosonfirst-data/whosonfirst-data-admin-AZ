@@ -1,0 +1,77 @@
+{
+  "id": 1193006283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.0355,40.40786,47.0355,40.40786",
+    "geom:latitude":40.40786,
+    "geom:longitude":47.0355,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kurdboragi",
+    "gn:country_code":"AZ",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585683,
+    "gn:latitude":40.40786,
+    "gn:longitude":47.0355,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"K\u00fcrdboragi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00fcrdboragi"
+    ],
+    "name:aze_x_variant":[
+        "K\u00fcrdborak\u0131"
+    ],
+    "name:und_x_variant":[
+        "Kyurtboragy",
+        "Kyurdboragi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585683
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5e7a2481287abf014e5d1f344122162a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193006283,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1193006283,
+    "wof:lastmodified":1537585381,
+    "wof:name":"Kurdboragi",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.0355,
+    40.40786,
+    47.0355,
+    40.40786
+],
+  "geometry": {"coordinates":[47.0355,40.40786],"type":"Point"}
+}

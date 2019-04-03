@@ -1,0 +1,83 @@
+{
+  "id": 1226759239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.98079,39.93831,46.98079,39.93831",
+    "geom:latitude":39.93831,
+    "geom:longitude":46.98079,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bagbanlar",
+    "gn:country_code":"AZ",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148404,
+    "gn:latitude":39.93831,
+    "gn:longitude":46.98079,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Ba\u011fbanlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ba\u011fbanlar"
+    ],
+    "name:hye_x_preferred":[
+        "Baghbanlar"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0561\u0572\u0562\u0561\u0576\u056c\u0561\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0433\u0431\u0430\u043d\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Bagmanlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148404,
+        "wk:page":"Ba%C4%9Fbanlar%2C_Agdam"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5bb8b4230027c59e04febbce5d27d717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226759239,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1226759239,
+    "wof:lastmodified":1537585268,
+    "wof:name":"Bagbanlar",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.98079,
+    39.93831,
+    46.98079,
+    39.93831
+],
+  "geometry": {"coordinates":[46.98079,39.93831],"type":"Point"}
+}

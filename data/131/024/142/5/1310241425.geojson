@@ -1,0 +1,72 @@
+{
+  "id": 1310241425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.77892,41.33687,48.77892,41.33687",
+    "geom:latitude":41.33687,
+    "geom:longitude":48.77892,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Valvala",
+    "gn:country_code":"AZ",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824035,
+    "gn:latitude":41.33687,
+    "gn:longitude":48.77892,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"V\u0259lv\u0259l\u0259",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vel\u2019veli",
+        "V\u0259lv\u0259l\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824035,
+        "wk:page":"V%C9%99lv%C9%99l%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"37a15819b649bd8e25efac5ad04abde4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310241425,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1310241425,
+    "wof:lastmodified":1537585509,
+    "wof:name":"Valvala",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.77892,
+    41.33687000000001,
+    48.77892,
+    41.33687000000001
+],
+  "geometry": {"coordinates":[48.77892,41.33687000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293423681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.63605,40.52828,48.63605,40.52828",
+    "geom:latitude":40.52828,
+    "geom:longitude":48.63605,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Nuydi",
+    "gn:country_code":"AZ",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585338,
+    "gn:latitude":40.52828,
+    "gn:longitude":48.63605,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"N\u00fcydi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyuydi",
+        "Nyugdy",
+        "Nyugdi",
+        "N\u00fcydi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585338,
+        "wk:page":"N%C3%BCydi"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cc1ae0c512eb708efa64829fe65ca909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293423681,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1293423681,
+    "wof:lastmodified":1537585358,
+    "wof:name":"Nuydi",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.63605,
+    40.52828,
+    48.63605,
+    40.52828
+],
+  "geometry": {"coordinates":[48.63605,40.52828],"type":"Point"}
+}

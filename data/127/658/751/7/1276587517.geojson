@@ -1,0 +1,79 @@
+{
+  "id": 1276587517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.51352,40.65191,48.51352,40.65191",
+    "geom:latitude":40.65191,
+    "geom:longitude":48.51352,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Sirvan",
+    "gn:country_code":"AZ",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585017,
+    "gn:latitude":40.65191,
+    "gn:longitude":48.51352,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"\u015eirvan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015eirvanzad\u0259"
+    ],
+    "name:aze_x_variant":[
+        "\u015eirvan"
+    ],
+    "name:und_x_variant":[
+        "\u015eirvanzad\u00e4",
+        "Zarkhu",
+        "Shirvanzade",
+        "Xoylu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585017
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b4ddad5759a6fa09a33c7845d282f9b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276587517,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1276587517,
+    "wof:lastmodified":1537585337,
+    "wof:name":"Sirvan",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.51352,
+    40.65191,
+    48.51352,
+    40.65191
+],
+  "geometry": {"coordinates":[48.51352,40.65191],"type":"Point"}
+}

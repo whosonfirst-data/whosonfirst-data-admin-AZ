@@ -1,0 +1,77 @@
+{
+  "id": 1226309627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.00548,40.13717,48.00548,40.13717",
+    "geom:latitude":40.13717,
+    "geom:longitude":48.00548,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Shushun",
+    "gn:country_code":"AZ",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584985,
+    "gn:latitude":40.13717,
+    "gn:longitude":48.00548,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Shushun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u015e\u00fc\u015f\u00fcn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u0448\u0443\u043d"
+    ],
+    "name:und_x_variant":[
+        "\u015e\u00fc\u015f\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668383,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584985,
+        "wk:page":"%C5%9E%C3%BC%C5%9F%C3%BCn"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"81b15c7a60f8fc97e99374587c2dac3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226309627,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":1226309627,
+    "wof:lastmodified":1537585335,
+    "wof:name":"Shushun",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.00548,
+    40.13717000000001,
+    48.00548,
+    40.13717000000001
+],
+  "geometry": {"coordinates":[48.00548,40.13717000000001],"type":"Point"}
+}

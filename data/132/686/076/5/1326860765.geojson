@@ -1,0 +1,73 @@
+{
+  "id": 1326860765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.54671,38.90763,46.54671,38.90763",
+    "geom:latitude":38.90763,
+    "geom:longitude":46.54671,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Ts'rtun",
+    "gn:country_code":"AZ",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622659,
+    "gn:latitude":38.90763,
+    "gn:longitude":46.54671,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ts\u2019rtun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Ts\u2019rtun"
+    ],
+    "name:hye_x_variant":[
+        "\u0551\u0580\u057f\u0578\u0582\u0576"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622659
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"656a4ac70f1f90436aaf0c11c93fd4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326860765,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1326860765,
+    "wof:lastmodified":1537585536,
+    "wof:name":"Ts'rtun",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.54671,
+    38.90763,
+    46.54671,
+    38.90763
+],
+  "geometry": {"coordinates":[46.54671,38.90763],"type":"Point"}
+}

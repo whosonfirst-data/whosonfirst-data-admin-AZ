@@ -1,0 +1,75 @@
+{
+  "id": 1276365669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.85506,41.4656,48.85506,41.4656",
+    "geom:latitude":41.4656,
+    "geom:longitude":48.85506,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Gulalan",
+    "gn:country_code":"AZ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586401,
+    "gn:latitude":41.4656,
+    "gn:longitude":48.85506,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"G\u00fclalan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u00fclalan"
+    ],
+    "name:und_x_variant":[
+        "Gyulalan",
+        "Gyuladan",
+        "G\u00fcl\u0259lan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586401
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"844c392fad200912dd890f55ef931f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276365669,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1276365669,
+    "wof:lastmodified":1537585432,
+    "wof:name":"Gulalan",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.85506,
+    41.4656,
+    48.85506,
+    41.4656
+],
+  "geometry": {"coordinates":[48.85506,41.4656],"type":"Point"}
+}

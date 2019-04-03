@@ -1,0 +1,106 @@
+{
+  "id": 421205257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.16812,40.44182,50.16812,40.44182",
+    "geom:latitude":40.44182,
+    "geom:longitude":50.16812,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Qala"
+    ],
+    "name:ceb_x_preferred":[
+        "Qala"
+    ],
+    "name:dut_x_preferred":[
+        "Qala"
+    ],
+    "name:eng_x_preferred":[
+        "Qala"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Qala"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Kala"
+    ],
+    "qs:gn_country":"AZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":586289,
+    "qs:gn_pop":2709,
+    "qs:name":"Qala",
+    "qs:name_adm0":"Azerbaijan",
+    "qs:name_adm1":"Baki",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":260066,
+    "qs:woe_adm0":23424741,
+    "qs:woe_id":1950638,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586289,
+        "gp:id":1950638,
+        "qs:id":260066,
+        "wd:id":"Q4026864",
+        "wk:page":"Qala, Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:created":1459010217,
+    "wof:geomhash":"3c5ba3cb8e19703e8e1d054767ac9e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":421205257,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":421205257,
+    "wof:lastmodified":1527716216,
+    "wof:name":"Qala",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:population":2709,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.16812,
+    40.44182,
+    50.16812,
+    40.44182
+],
+  "geometry": {"coordinates":[50.16812,40.44182],"type":"Point"}
+}

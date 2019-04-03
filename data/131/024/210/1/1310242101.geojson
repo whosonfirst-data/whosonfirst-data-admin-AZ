@@ -1,0 +1,70 @@
+{
+  "id": 1310242101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.62788,41.5303,48.62788,41.5303",
+    "geom:latitude":41.5303,
+    "geom:longitude":48.62788,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Gabibkend",
+    "gn:country_code":"AZ",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":562284,
+    "gn:latitude":41.5303,
+    "gn:longitude":48.62788,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Gabibkend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "H\u0259bibk\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":562284
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a530b63cfd56e7635b219d988e592af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310242101,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1310242101,
+    "wof:lastmodified":1537585304,
+    "wof:name":"Gabibkend",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.62788,
+    41.5303,
+    48.62788,
+    41.5303
+],
+  "geometry": {"coordinates":[48.62788,41.5303],"type":"Point"}
+}

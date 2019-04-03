@@ -1,0 +1,67 @@
+{
+  "id": 1226176235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.28139,40.70111,46.28139,40.70111",
+    "geom:latitude":40.70111,
+    "geom:longitude":46.28139,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Qiriqli",
+    "gn:country_code":"AZ",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824496,
+    "gn:latitude":40.70111,
+    "gn:longitude":46.28139,
+    "gn:modification_date":"1998-04-20",
+    "gn:name":"Q\u0131r\u0131ql\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824496
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"053ab24d380010801a5f8dc0ed3545bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226176235,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1226176235,
+    "wof:lastmodified":1537032364,
+    "wof:name":"Qiriqli",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.28139,
+    40.70111,
+    46.28139,
+    40.70111
+],
+  "geometry": {"coordinates":[46.28139,40.70111],"type":"Point"}
+}

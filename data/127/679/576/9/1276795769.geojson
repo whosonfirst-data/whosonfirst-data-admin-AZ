@@ -1,0 +1,83 @@
+{
+  "id": 1276795769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.70711,39.21916,46.70711,39.21916",
+    "geom:latitude":39.21916,
+    "geom:longitude":46.70711,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kumayri",
+    "gn:country_code":"AZ",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148642,
+    "gn:latitude":39.21916,
+    "gn:longitude":46.70711,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kumayri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fb\u0131lc\u0259"
+    ],
+    "name:hye_x_preferred":[
+        "Kumayri"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0578\u0582\u0574\u0561\u0575\u0580\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "Abil\u2019dzha"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0431\u0438\u043b\u044c\u0434\u0436\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148642,
+        "wk:page":"%C6%8Fb%C4%B1lc%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"190b288870181211205018426d2cca74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276795769,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1276795769,
+    "wof:lastmodified":1537585288,
+    "wof:name":"Kumayri",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.70711,
+    39.21916,
+    46.70711,
+    39.21916
+],
+  "geometry": {"coordinates":[46.70711,39.21916],"type":"Point"}
+}

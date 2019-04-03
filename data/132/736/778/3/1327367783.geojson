@@ -1,0 +1,73 @@
+{
+  "id": 1327367783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.81614,41.57149,48.81614,41.57149",
+    "geom:latitude":41.57149,
+    "geom:longitude":48.81614,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Uzunoba",
+    "gn:country_code":"AZ",
+    "gn:dem":-5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584756,
+    "gn:latitude":41.57149,
+    "gn:longitude":48.81614,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Uzunoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Uzunoba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0437\u0443\u043d\u043e\u0431\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584756
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9a1f3bde12a132fd60fd3402c91f6de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327367783,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1327367783,
+    "wof:lastmodified":1537585320,
+    "wof:name":"Uzunoba",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.81614,
+    41.57149,
+    48.81614,
+    41.57149
+],
+  "geometry": {"coordinates":[48.81614,41.57149],"type":"Point"}
+}

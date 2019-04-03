@@ -1,0 +1,71 @@
+{
+  "id": 1310436883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.26486,40.66281,46.26486,40.66281",
+    "geom:latitude":40.66281,
+    "geom:longitude":46.26486,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Kyrykly",
+    "gn:country_code":"AZ",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585709,
+    "gn:latitude":40.66281,
+    "gn:longitude":46.26486,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kyrykly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyrykhly",
+        "Q\u0131r\u0131ql\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585709
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cdb78fcc6a2dc283c1410b8db8b30825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310436883,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1310436883,
+    "wof:lastmodified":1537585382,
+    "wof:name":"Kyrykly",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.26486,
+    40.66281,
+    46.26486,
+    40.66281
+],
+  "geometry": {"coordinates":[46.26486,40.66281],"type":"Point"}
+}

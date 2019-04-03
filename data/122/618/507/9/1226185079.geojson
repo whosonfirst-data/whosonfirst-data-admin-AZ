@@ -1,0 +1,73 @@
+{
+  "id": 1226185079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.694,40.84051,47.694,40.84051",
+    "geom:latitude":40.84051,
+    "geom:longitude":47.694,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Shafily",
+    "gn:country_code":"AZ",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585091,
+    "gn:latitude":40.84051,
+    "gn:longitude":47.694,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Shafily",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shafili",
+        "Shafily",
+        "\u015e\u0259fili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585091,
+        "wk:page":"%C5%9E%C9%99fili"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"790321bc10de9f56cab80c44d1d9449a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226185079,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1226185079,
+    "wof:lastmodified":1537585342,
+    "wof:name":"Shafily",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.694,
+    40.84051,
+    47.694,
+    40.84051
+],
+  "geometry": {"coordinates":[47.694,40.84051],"type":"Point"}
+}

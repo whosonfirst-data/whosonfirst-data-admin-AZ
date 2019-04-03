@@ -1,0 +1,70 @@
+{
+  "id": 1310582423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.071,40.45984,47.071,40.45984",
+    "geom:latitude":40.45984,
+    "geom:longitude":47.071,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mirasafly",
+    "gn:country_code":"AZ",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8548997,
+    "gn:latitude":40.45984,
+    "gn:longitude":47.071,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Mirasafly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Miras\u0259fli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8548997
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7793777eddfc436cb337e6f98ae99771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310582423,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1310582423,
+    "wof:lastmodified":1537585531,
+    "wof:name":"Mirasafly",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.07100000000001,
+    40.45984,
+    47.07100000000001,
+    40.45984
+],
+  "geometry": {"coordinates":[47.07100000000001,40.45984],"type":"Point"}
+}

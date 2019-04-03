@@ -1,0 +1,75 @@
+{
+  "id": 1243050857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.47465,39.18727,48.47465,39.18727",
+    "geom:latitude":39.18727,
+    "geom:longitude":48.47465,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Hasilli",
+    "gn:country_code":"AZ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389041,
+    "gn:latitude":39.18727,
+    "gn:longitude":48.47465,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Has\u0131ll\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Has\u0131ll\u0131"
+    ],
+    "name:und_x_variant":[
+        "Assuly",
+        "Gasylly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389041,
+        "wk:page":"Assuly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"840ea132066591d93105c7d6f2f83af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243050857,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1243050857,
+    "wof:lastmodified":1537585292,
+    "wof:name":"Hasilli",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.47465,
+    39.18727,
+    48.47465,
+    39.18727
+],
+  "geometry": {"coordinates":[48.47465,39.18727],"type":"Point"}
+}

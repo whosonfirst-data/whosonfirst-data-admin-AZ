@@ -1,0 +1,73 @@
+{
+  "id": 1226677193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.96976,41.08299,48.96976,41.08299",
+    "geom:latitude":41.08299,
+    "geom:longitude":48.96976,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Orta Calgan",
+    "gn:country_code":"AZ",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585319,
+    "gn:latitude":41.08299,
+    "gn:longitude":48.96976,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Orta \u00c7al\u011fan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Orta Dzhalgan",
+        "Orta \u00c7al\u011fan",
+        "Ashaga Dzhalgan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585319,
+        "wk:page":"Orta_%C3%87al%C4%9Fan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4caaab356acf9e62dc45222336df6ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226677193,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1226677193,
+    "wof:lastmodified":1537585357,
+    "wof:name":"Orta Calgan",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.96976,
+    41.08299,
+    48.96976,
+    41.08299
+],
+  "geometry": {"coordinates":[48.96976,41.08299],"type":"Point"}
+}

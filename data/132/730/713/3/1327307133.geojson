@@ -1,0 +1,68 @@
+{
+  "id": 1327307133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.48022,39.31289,48.48022,39.31289",
+    "geom:latitude":39.31289,
+    "geom:longitude":48.48022,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Zubanly",
+    "gn:country_code":"AZ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146868,
+    "gn:latitude":39.31289,
+    "gn:longitude":48.48022,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Zubanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146868,
+        "wk:page":"Zubanly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c29decb8a1246415c249a076ed43fe92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327307133,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1327307133,
+    "wof:lastmodified":1537486502,
+    "wof:name":"Zubanly",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.48022,
+    39.31289,
+    48.48022,
+    39.31289
+],
+  "geometry": {"coordinates":[48.48022,39.31289],"type":"Point"}
+}

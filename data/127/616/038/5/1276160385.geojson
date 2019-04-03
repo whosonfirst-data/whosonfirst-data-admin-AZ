@@ -1,0 +1,74 @@
+{
+  "id": 1276160385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.40759,40.63157,46.40759,40.63157",
+    "geom:latitude":40.63157,
+    "geom:longitude":46.40759,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Azizbekov",
+    "gn:country_code":"AZ",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587114,
+    "gn:latitude":40.63157,
+    "gn:longitude":46.40759,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Azizbekov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hacim\u0259lik"
+    ],
+    "name:und_x_variant":[
+        "\u018fzizb\u0259yov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587114,
+        "wk:page":"Hac%C4%B1m%C9%99lik"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0eed2359fd1e4d0499756391ffad8fba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276160385,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1276160385,
+    "wof:lastmodified":1537585482,
+    "wof:name":"Azizbekov",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.40759,
+    40.63157,
+    46.40759,
+    40.63157
+],
+  "geometry": {"coordinates":[46.40759,40.63157],"type":"Point"}
+}

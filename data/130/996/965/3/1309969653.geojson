@@ -1,0 +1,68 @@
+{
+  "id": 1309969653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.03333,41.36667,49.03333,41.36667",
+    "geom:latitude":41.36667,
+    "geom:longitude":49.03333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Mamedoba",
+    "gn:country_code":"AZ",
+    "gn:dem":-20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585587,
+    "gn:latitude":41.36667,
+    "gn:longitude":49.03333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Mamedoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585587,
+        "wk:page":"Mamedoba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5c49e215a30e71e43efe170c8b3523ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309969653,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1309969653,
+    "wof:lastmodified":1537486615,
+    "wof:name":"Mamedoba",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.03333,
+    41.36667,
+    49.03333,
+    41.36667
+],
+  "geometry": {"coordinates":[49.03333,41.36667],"type":"Point"}
+}

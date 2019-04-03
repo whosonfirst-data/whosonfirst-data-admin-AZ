@@ -1,0 +1,78 @@
+{
+  "id": 1293391857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.98503,40.00456,46.98503,40.00456",
+    "geom:latitude":40.00456,
+    "geom:longitude":46.98503,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Saricali",
+    "gn:country_code":"AZ",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147978,
+    "gn:latitude":40.00456,
+    "gn:longitude":46.98503,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Sar\u0131cal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sar\u0131cal\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0434\u0436\u0430\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Sarydzhaly",
+        "Indzhilli Sarydzhaly",
+        "\u0421\u0430\u0440\u044b\u0434\u0436\u0430\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147978
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dc5096f5a47d361f6371187516bd25ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293391857,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1293391857,
+    "wof:lastmodified":1537585228,
+    "wof:name":"Saricali",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.98503,
+    40.00456,
+    46.98503,
+    40.00456
+],
+  "geometry": {"coordinates":[46.98503,40.00456],"type":"Point"}
+}

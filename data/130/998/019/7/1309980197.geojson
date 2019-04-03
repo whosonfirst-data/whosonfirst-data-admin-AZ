@@ -1,0 +1,71 @@
+{
+  "id": 1309980197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.65045,40.68227,46.65045,40.68227",
+    "geom:latitude":40.68227,
+    "geom:longitude":46.65045,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Samedabad",
+    "gn:country_code":"AZ",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585154,
+    "gn:latitude":40.68227,
+    "gn:longitude":46.65045,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Samedabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0259m\u0259dabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585154,
+        "wk:page":"S%C9%99m%C9%99dabad%2C_Goranboy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5a83d4e98344ffd63c2c3c7fab8487e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309980197,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1309980197,
+    "wof:lastmodified":1537585346,
+    "wof:name":"Samedabad",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.65045,
+    40.68227,
+    46.65045,
+    40.68227
+],
+  "geometry": {"coordinates":[46.65045,40.68227],"type":"Point"}
+}

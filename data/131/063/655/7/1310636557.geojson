@@ -1,0 +1,79 @@
+{
+  "id": 1310636557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.07434,41.52292,47.07434,41.52292",
+    "geom:latitude":41.52292,
+    "geom:longitude":47.07434,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Saribas",
+    "gn:country_code":"AZ",
+    "gn:dem":1602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585134,
+    "gn:latitude":41.52292,
+    "gn:longitude":47.07434,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Sar\u0131ba\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sar\u0131ba\u015f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0431\u0430\u0448"
+    ],
+    "name:und_x_variant":[
+        "Sarybash",
+        "Sari-Bash",
+        "Sar\u0131ba\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668557,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585134,
+        "wk:page":"Sar%C4%B1ba%C5%9F"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ef3f45207eeeb8d7fb4cb49ca1b722b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310636557,
+            "macroregion_id":1108808619,
+            "region_id":85668557
+        }
+    ],
+    "wof:id":1310636557,
+    "wof:lastmodified":1537585345,
+    "wof:name":"Saribas",
+    "wof:parent_id":85668557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.07434,
+    41.52292,
+    47.07434,
+    41.52292
+],
+  "geometry": {"coordinates":[47.07434,41.52292],"type":"Point"}
+}

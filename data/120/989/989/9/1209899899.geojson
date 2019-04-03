@@ -1,0 +1,72 @@
+{
+  "id": 1209899899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.41492,41.65496,46.41492,41.65496",
+    "geom:latitude":41.65496,
+    "geom:longitude":46.41492,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ayritala",
+    "gn:country_code":"AZ",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587122,
+    "gn:latitude":41.65496,
+    "gn:longitude":46.41492,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Ayritala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u018fyritala",
+        "Ayritala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587122,
+        "wk:page":"%C6%8Fyritala"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ab086c5385a751b9614f93e254251919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209899899,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1209899899,
+    "wof:lastmodified":1537585482,
+    "wof:name":"Ayritala",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.41492,
+    41.65496,
+    46.41492,
+    41.65496
+],
+  "geometry": {"coordinates":[46.41492,41.65496],"type":"Point"}
+}

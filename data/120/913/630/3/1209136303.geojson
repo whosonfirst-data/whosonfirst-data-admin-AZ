@@ -1,0 +1,69 @@
+{
+  "id": 1209136303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.90964,40.45293,47.90964,40.45293",
+    "geom:latitude":40.45293,
+    "geom:longitude":47.90964,
+    "gn:admin1_code":"59",
+    "gn:asciiname":"Myusyuslyu",
+    "gn:country_code":"AZ",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585428,
+    "gn:latitude":40.45293,
+    "gn:longitude":47.90964,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Myusyuslyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myusyusly",
+        "Myusyusli",
+        "Myusyuslyu",
+        "Myusyush",
+        "M\u00fcs\u00fcsl\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585428,
+        "wk:page":"M%C3%BCs%C3%BCsl%C3%BC"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"aafb13d3dc25642928980919304034e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209136303
+        }
+    ],
+    "wof:id":1209136303,
+    "wof:lastmodified":1537585364,
+    "wof:name":"Myusyuslyu",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.90964,
+    40.45293,
+    47.90964,
+    40.45293
+],
+  "geometry": {"coordinates":[47.90964,40.45293],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209035519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.79503,41.35819,48.79503,41.35819",
+    "geom:latitude":41.35819,
+    "geom:longitude":48.79503,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Bargov",
+    "gn:country_code":"AZ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622024,
+    "gn:latitude":41.35819,
+    "gn:longitude":48.79503,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Bargov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "B\u0259r\u011fov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622024
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a2af01b4c8a484c6f62e8a086c08f42c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209035519
+        }
+    ],
+    "wof:id":1209035519,
+    "wof:lastmodified":1537585536,
+    "wof:name":"Bargov",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.79503,
+    41.35819,
+    48.79503,
+    41.35819
+],
+  "geometry": {"coordinates":[48.79503,41.35819],"type":"Point"}
+}

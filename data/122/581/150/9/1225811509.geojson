@@ -1,0 +1,81 @@
+{
+  "id": 1225811509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.16277,39.58312,47.16277,39.58312",
+    "geom:latitude":39.58312,
+    "geom:longitude":47.16277,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Dadaly",
+    "gn:country_code":"AZ",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148250,
+    "gn:latitude":39.58312,
+    "gn:longitude":47.16277,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dadaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u0259d\u0259li"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u0564\u0565\u056c\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0434\u0435\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dedeli",
+        "Dadaly",
+        "\u0414\u0435\u0434\u0435\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668351,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148250
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7be9198ccf5a330f44c915fde8e6657a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225811509,
+            "macroregion_id":1108808615,
+            "region_id":85668351
+        }
+    ],
+    "wof:id":1225811509,
+    "wof:lastmodified":1537585254,
+    "wof:name":"Dadaly",
+    "wof:parent_id":85668351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.16277,
+    39.58312,
+    47.16277,
+    39.58312
+],
+  "geometry": {"coordinates":[47.16277,39.58312],"type":"Point"}
+}

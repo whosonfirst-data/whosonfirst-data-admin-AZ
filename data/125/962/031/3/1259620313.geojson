@@ -1,0 +1,87 @@
+{
+  "id": 1259620313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.98141,39.41203,46.98141,39.41203",
+    "geom:latitude":39.41203,
+    "geom:longitude":46.98141,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Bunyadli",
+    "gn:country_code":"AZ",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148309,
+    "gn:latitude":39.41203,
+    "gn:longitude":46.98141,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"B\u00fcnyadl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "B\u00fcnyadl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Bunyat\u2019ly"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0578\u0582\u0576\u0575\u0561\u0584\u056c\u0568",
+        "Karmrrak\u2019ar",
+        "\u053f\u0561\u0580\u0574\u057c\u0561\u0584\u0561\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043d\u044f\u0434\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Bunyadly",
+        "Biniatlou",
+        "Binyatlu",
+        "\u0411\u0443\u043d\u044f\u0434\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148309
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a3ee139e6960ceac4da7254aacdd980f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259620313,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1259620313,
+    "wof:lastmodified":1537585261,
+    "wof:name":"Bunyadli",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.98141,
+    39.41203,
+    46.98141,
+    39.41203
+],
+  "geometry": {"coordinates":[46.98141,39.41203],"type":"Point"}
+}

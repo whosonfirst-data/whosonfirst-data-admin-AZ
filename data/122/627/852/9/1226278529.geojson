@@ -1,0 +1,74 @@
+{
+  "id": 1226278529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.38781,39.00972,48.38781,39.00972",
+    "geom:latitude":39.00972,
+    "geom:longitude":48.38781,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Golyeri",
+    "gn:country_code":"AZ",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400311,
+    "gn:latitude":39.00972,
+    "gn:longitude":48.38781,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"G\u00f6lyeri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Gyol\u2019eri"
+    ],
+    "name:und_x_variant":[
+        "G\u00f6lyeri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668497,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400311,
+        "wk:page":"G%C3%B6lyeri"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d2e81542cd4cae0f8b4bc55e9df750f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226278529,
+            "macroregion_id":1108808625,
+            "region_id":85668497
+        }
+    ],
+    "wof:id":1226278529,
+    "wof:lastmodified":1537585302,
+    "wof:name":"Golyeri",
+    "wof:parent_id":85668497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.38781,
+    39.00972,
+    48.38781,
+    39.00972
+],
+  "geometry": {"coordinates":[48.38781,39.00972],"type":"Point"}
+}

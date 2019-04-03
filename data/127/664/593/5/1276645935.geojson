@@ -1,0 +1,82 @@
+{
+  "id": 1276645935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.18396,40.48427,50.18396,40.48427",
+    "geom:latitude":40.48427,
+    "geom:longitude":50.18396,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Shuvelyany",
+    "gn:country_code":"AZ",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584984,
+    "gn:latitude":40.48427,
+    "gn:longitude":50.18396,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Shuvelyany",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015e\u00fcv\u0259lan"
+    ],
+    "name:eng_x_preferred":[
+        "\u015e\u00fcv\u01ddl\u01ddn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u0432\u0435\u043b\u044f\u043d"
+    ],
+    "name:und_x_variant":[
+        "Shuvelyan",
+        "Shuvelyany",
+        "\u015e\u00fcv\u0259l\u0259n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584984,
+        "wk:page":"Shuvalan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8d48102897b23b16acc2b2e79c56ccea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276645935,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1276645935,
+    "wof:lastmodified":1537585335,
+    "wof:name":"Shuvelyany",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.18396,
+    40.48427,
+    50.18396,
+    40.48427
+],
+  "geometry": {"coordinates":[50.18396,40.48427],"type":"Point"}
+}

@@ -1,0 +1,123 @@
+{
+  "id": 890435607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6035,39.5591,47.6035,39.5591",
+    "geom:latitude":39.5591,
+    "geom:longitude":47.6035,
+    "gn:country":"AZ",
+    "gn:fcode":"PPL",
+    "gn:pop":229,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Araz Dila\u011farda"
+    ],
+    "name:cos_x_preferred":[
+        "Araz Dila\u011farda"
+    ],
+    "name:dut_x_preferred":[
+        "Araz Dila\u011farda"
+    ],
+    "name:eng_x_preferred":[
+        "Araz Dila\u011farda"
+    ],
+    "name:hau_x_preferred":[
+        "Araz Dila\u011farda"
+    ],
+    "name:ita_x_preferred":[
+        "Araz Dila\u011farda"
+    ],
+    "name:kal_x_preferred":[
+        "Araz Dila\u011farda"
+    ],
+    "name:kik_x_preferred":[
+        "Araz Dila\u011farda"
+    ],
+    "name:kin_x_preferred":[
+        "Araz Dila\u011farda"
+    ],
+    "name:kon_x_preferred":[
+        "Araz Dila\u011farda"
+    ],
+    "name:may_x_preferred":[
+        "Araz Dila\u011farda"
+    ],
+    "name:nya_x_preferred":[
+        "Araz Dila\u011farda"
+    ],
+    "name:roh_x_preferred":[
+        "Araz Dila\u011farda"
+    ],
+    "name:sdc_x_preferred":[
+        "Araz Dila\u011farda"
+    ],
+    "name:smo_x_preferred":[
+        "Araz Dila\u011farda"
+    ],
+    "name:srd_x_preferred":[
+        "Araz Dila\u011farda"
+    ],
+    "name:swe_x_preferred":[
+        "Araz Dila\u011farda"
+    ],
+    "name:unk_x_variant":[
+        "Delagardy"
+    ],
+    "qs:name":"Araz Dila\u011farda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668351,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148515,
+        "gp:id":1947729,
+        "qs:id":516391,
+        "wd:id":"Q4590640",
+        "wk:page":"Araz Dila\u011farda"
+    },
+    "wof:country":"AZ",
+    "wof:created":1469052074,
+    "wof:geomhash":"73af1819cdf6b99f53f2a30eafb283f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":890435607,
+            "macroregion_id":1108808615,
+            "region_id":85668351
+        }
+    ],
+    "wof:id":890435607,
+    "wof:lastmodified":1527793052,
+    "wof:name":"Araz Dila\u011farda",
+    "wof:parent_id":85668351,
+    "wof:placetype":"locality",
+    "wof:population":229,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6035,
+    39.5591,
+    47.6035,
+    39.5591
+],
+  "geometry": {"coordinates":[47.6035,39.5591],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260037849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.21925,39.78678,48.21925,39.78678",
+    "geom:latitude":39.78678,
+    "geom:longitude":48.21925,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Khalfali",
+    "gn:country_code":"AZ",
+    "gn:dem":-5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147823,
+    "gn:latitude":39.78678,
+    "gn:longitude":48.21925,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Khalfali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Gyul\u2019mirza"
+    ],
+    "name:und_x_variant":[
+        "X\u0259lf\u0259li",
+        "Kyurabazly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668365,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147823
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"88a6bfdd405705566f45da5fa3ef8d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260037849,
+            "macroregion_id":1108808627,
+            "region_id":85668365
+        }
+    ],
+    "wof:id":1260037849,
+    "wof:lastmodified":1537585212,
+    "wof:name":"Khalfali",
+    "wof:parent_id":85668365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.21925,
+    39.78678,
+    48.21925,
+    39.78678
+],
+  "geometry": {"coordinates":[48.21925,39.78678],"type":"Point"}
+}

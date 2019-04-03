@@ -1,0 +1,73 @@
+{
+  "id": 1209040403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.14517,41.10649,49.14517,41.10649",
+    "geom:latitude":41.10649,
+    "geom:longitude":49.14517,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Boyuk Hamya",
+    "gn:country_code":"AZ",
+    "gn:dem":-16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586992,
+    "gn:latitude":41.10649,
+    "gn:longitude":49.14517,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"B\u00f6y\u00fck H\u0259my\u0259",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "B\u00f6y\u00fck H\u01ddmy\u01dd"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u044e\u043a \u0413\u0430\u043c\u044c\u044f"
+    ],
+    "name:und_x_variant":[
+        "B\u00ebyuk Gam\u2019ya",
+        "Arab Gam\u2019ya",
+        "B\u00f6y\u00fck H\u0259my\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586992,
+        "wk:page":"B%C3%B6y%C3%BCk_H%C9%99my%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0f94a3652d58017a61a59e19f0db7af6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209040403
+        }
+    ],
+    "wof:id":1209040403,
+    "wof:lastmodified":1537585474,
+    "wof:name":"Boyuk Hamya",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.14517,
+    41.10649,
+    49.14517,
+    41.10649
+],
+  "geometry": {"coordinates":[49.14517,41.10649],"type":"Point"}
+}

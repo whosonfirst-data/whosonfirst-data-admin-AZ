@@ -1,0 +1,83 @@
+{
+  "id": 1276982357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.89111,40.00987,46.89111,40.00987",
+    "geom:latitude":40.00987,
+    "geom:longitude":46.89111,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Khydyrly",
+    "gn:country_code":"AZ",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585922,
+    "gn:latitude":40.00987,
+    "gn:longitude":46.89111,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Khydyrly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "X\u0131d\u0131rl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Khdrly"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0564\u0580\u056c\u0568"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u044b\u0434\u044b\u0440\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Khidirly",
+        "Khydyrly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585922
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9ff69d8858a8ad5c47bcdbaf5deb3042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276982357,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1276982357,
+    "wof:lastmodified":1537585396,
+    "wof:name":"Khydyrly",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.89111,
+    40.00987,
+    46.89111,
+    40.00987
+],
+  "geometry": {"coordinates":[46.89111,40.00987],"type":"Point"}
+}

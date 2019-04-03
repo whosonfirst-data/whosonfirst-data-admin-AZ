@@ -1,0 +1,77 @@
+{
+  "id": 1226694235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.15,39.43333,49.15,39.43333",
+    "geom:latitude":39.43333,
+    "geom:longitude":49.15,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Promysel Narimanova",
+    "gn:country_code":"AZ",
+    "gn:dem":-26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":147312,
+    "gn:latitude":39.43333,
+    "gn:longitude":49.15,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Promysel Narimanova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Bankovski-Promysl",
+        "Imeni Narimanova",
+        "Bank",
+        "Promysel imeni Narimanova",
+        "Bozhiy Promysel",
+        "Bozhly Promysel",
+        "Promysel Narimanova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668409,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147312,
+        "wk:page":"Promysel_Narimanova"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8a529baf323fef31d0bf726638cdc234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226694235,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1226694235,
+    "wof:lastmodified":1537585163,
+    "wof:name":"Promysel Narimanova",
+    "wof:parent_id":85668409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.15,
+    39.43333,
+    49.15,
+    39.43333
+],
+  "geometry": {"coordinates":[49.15,39.43333],"type":"Point"}
+}

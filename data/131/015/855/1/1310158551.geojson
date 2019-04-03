@@ -1,0 +1,75 @@
+{
+  "id": 1310158551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.20716,39.31376,49.20716,39.31376",
+    "geom:latitude":39.31376,
+    "geom:longitude":49.20716,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Iyirmi Alti Baki Komissari",
+    "gn:country_code":"AZ",
+    "gn:dem":-27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147989,
+    "gn:latitude":39.31376,
+    "gn:longitude":49.20716,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"\u0130yirmi Alt\u0131 Bak\u0131 Komissar\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "26 Baky Komissary",
+        "Imeni Bakinskikh Komissarov",
+        "Imeni Dvadtsati Shesti Bakinskikh Komissarov",
+        "Nefte-Chala",
+        "\u0130yirmi Alt\u0131 Bak\u0131 Komissar\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668409,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147989,
+        "wk:page":"%C4%B0yirmi_Alt%C4%B1_Bak%C4%B1_Komissar%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"446ced949235024dac8147517b426d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310158551,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1310158551,
+    "wof:lastmodified":1537585228,
+    "wof:name":"Iyirmi Alti Baki Komissari",
+    "wof:parent_id":85668409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.20716,
+    39.31376,
+    49.20716,
+    39.31376
+],
+  "geometry": {"coordinates":[49.20716,39.31376],"type":"Point"}
+}

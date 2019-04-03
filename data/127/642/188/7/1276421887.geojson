@@ -1,0 +1,68 @@
+{
+  "id": 1276421887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.17943,40.3388,47.17943,40.3388",
+    "geom:latitude":40.3388,
+    "geom:longitude":47.17943,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Ismikhanly",
+    "gn:country_code":"AZ",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800862,
+    "gn:latitude":40.3388,
+    "gn:longitude":47.17943,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ismikhanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800862,
+        "wk:page":"Ismikhanly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ece7e625d5e6158baac2a4de60806f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276421887,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1276421887,
+    "wof:lastmodified":1537486680,
+    "wof:name":"Ismikhanly",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.17943,
+    40.3388,
+    47.17943,
+    40.3388
+],
+  "geometry": {"coordinates":[47.17943,40.3388],"type":"Point"}
+}

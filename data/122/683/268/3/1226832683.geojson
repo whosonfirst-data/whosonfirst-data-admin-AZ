@@ -1,0 +1,80 @@
+{
+  "id": 1226832683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.19485,39.33287,47.19485,39.33287",
+    "geom:latitude":39.33287,
+    "geom:longitude":47.19485,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yuxari Maralyan",
+    "gn:country_code":"AZ",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146925,
+    "gn:latitude":39.33287,
+    "gn:longitude":47.19485,
+    "gn:modification_date":"2016-05-20",
+    "gn:name":"Yuxar\u0131 Maralyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 Maralyan"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0445\u0430\u0440\u0438-\u041c\u0430\u0440\u0430\u043b\u044c\u044f\u043d"
+    ],
+    "name:rus_x_variant":[
+        "Yukhary-Maral\u2019yan"
+    ],
+    "name:und_x_variant":[
+        "Yukhary Maralyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146925,
+        "wk:page":"Yuxar%C4%B1_Maralyan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a2a7e10d3c9ca5510950ed2c244cf0ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226832683,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1226832683,
+    "wof:lastmodified":1537585128,
+    "wof:name":"Yuxari Maralyan",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.19485,
+    39.33287,
+    47.19485,
+    39.33287
+],
+  "geometry": {"coordinates":[47.19485,39.33287],"type":"Point"}
+}

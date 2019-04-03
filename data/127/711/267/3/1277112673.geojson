@@ -1,0 +1,77 @@
+{
+  "id": 1277112673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.59469,39.19738,46.59469,39.19738",
+    "geom:latitude":39.19738,
+    "geom:longitude":46.59469,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Orta-Yemezli",
+    "gn:country_code":"AZ",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147363,
+    "gn:latitude":39.19738,
+    "gn:longitude":46.59469,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Orta-Yemezli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Orta Yem\u0259zli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0442\u0430-\u0415\u043c\u0435\u0437\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Orta Yemazlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147363,
+        "wk:page":"Orta_Yem%C9%99zli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7bb79cec9b10217e2e13397d69fa6520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277112673,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1277112673,
+    "wof:lastmodified":1537585167,
+    "wof:name":"Orta-Yemezli",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.59469,
+    39.19738,
+    46.59469,
+    39.19738
+],
+  "geometry": {"coordinates":[46.59469,39.19738],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343341783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.75153,39.64068,47.75153,39.64068",
+    "geom:latitude":39.64068,
+    "geom:longitude":47.75153,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Shakhsevan Pervoye",
+    "gn:country_code":"AZ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147209,
+    "gn:latitude":39.64068,
+    "gn:longitude":47.75153,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Shakhsevan Pervoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Birinci \u015eahsev\u0259n"
+    ],
+    "name:aze_x_variant":[
+        "\u0130kinci \u015eahsev\u0259n"
+    ],
+    "name:und_x_variant":[
+        "Shakhsevan Pervyy",
+        "Shakhsevan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668313,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147209,
+        "wk:page":"Birinci_%C5%9Eahsev%C9%99n"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"895051cc01f315af4f577a7a55215656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343341783,
+            "macroregion_id":1108808627,
+            "region_id":85668313
+        }
+    ],
+    "wof:id":1343341783,
+    "wof:lastmodified":1537585154,
+    "wof:name":"Shakhsevan Pervoye",
+    "wof:parent_id":85668313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.75153,
+    39.64068,
+    47.75153,
+    39.64068
+],
+  "geometry": {"coordinates":[47.75153,39.64068],"type":"Point"}
+}

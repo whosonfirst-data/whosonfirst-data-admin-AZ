@@ -1,0 +1,75 @@
+{
+  "id": 1259719509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.26299,39.86668,48.26299,39.86668",
+    "geom:latitude":39.86668,
+    "geom:longitude":48.26299,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Qaralar",
+    "gn:country_code":"AZ",
+    "gn:dem":-8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147895,
+    "gn:latitude":39.86668,
+    "gn:longitude":48.26299,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Qaralar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaralar"
+    ],
+    "name:und_x_variant":[
+        "Karalar",
+        "Karaliar",
+        "Qaracalar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668433,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147895
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d2a65e5970f15a5f789a55bd5cf68513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259719509,
+            "macroregion_id":1108808627,
+            "region_id":85668433
+        }
+    ],
+    "wof:id":1259719509,
+    "wof:lastmodified":1537585219,
+    "wof:name":"Qaralar",
+    "wof:parent_id":85668433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.26299,
+    39.86668,
+    48.26299,
+    39.86668
+],
+  "geometry": {"coordinates":[48.26299,39.86668],"type":"Point"}
+}

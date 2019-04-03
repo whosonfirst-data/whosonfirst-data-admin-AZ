@@ -1,0 +1,72 @@
+{
+  "id": 1277111397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.11279,40.64276,47.11279,40.64276",
+    "geom:latitude":40.64276,
+    "geom:longitude":47.11279,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Cirdaxan",
+    "gn:country_code":"AZ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586622,
+    "gn:latitude":40.64276,
+    "gn:longitude":47.11279,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"C\u0131rdaxan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhyrdakhan",
+        "Dzhirdakhan",
+        "C\u0131rdaxan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668243,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586622
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ff16f6bccfda16a8c960040c4ee229b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277111397,
+            "macroregion_id":1108808627,
+            "region_id":85668243
+        }
+    ],
+    "wof:id":1277111397,
+    "wof:lastmodified":1537585447,
+    "wof:name":"Cirdaxan",
+    "wof:parent_id":85668243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.11279,
+    40.64276,
+    47.11279,
+    40.64276
+],
+  "geometry": {"coordinates":[47.11279,40.64276],"type":"Point"}
+}

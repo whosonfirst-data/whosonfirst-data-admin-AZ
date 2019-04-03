@@ -1,0 +1,80 @@
+{
+  "id": 1276156941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.35112,40.48731,46.35112,40.48731",
+    "geom:latitude":40.48731,
+    "geom:longitude":46.35112,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Kamo",
+    "gn:country_code":"AZ",
+    "gn:dem":1200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586258,
+    "gn:latitude":40.48731,
+    "gn:longitude":46.35112,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kamo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kamo"
+    ],
+    "name:aze_x_variant":[
+        "Haci\u015fen"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0574\u0578"
+    ],
+    "name:und_x_variant":[
+        "Adzhished"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586258,
+        "wk:page":"Kamo%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"efe96092326c1504776cab0b49054581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276156941,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1276156941,
+    "wof:lastmodified":1537585421,
+    "wof:name":"Kamo",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.35112,
+    40.48731,
+    46.35112,
+    40.48731
+],
+  "geometry": {"coordinates":[46.35112,40.48731],"type":"Point"}
+}

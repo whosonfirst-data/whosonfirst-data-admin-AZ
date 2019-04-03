@@ -1,0 +1,72 @@
+{
+  "id": 1243485727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.92141,39.51955,48.92141,39.51955",
+    "geom:latitude":39.51955,
+    "geom:longitude":48.92141,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Alcali",
+    "gn:country_code":"AZ",
+    "gn:dem":-23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148574,
+    "gn:latitude":39.51955,
+    "gn:longitude":48.92141,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Al\u00e7al\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alchaly",
+        "Al\u00e7al\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668449,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148574,
+        "wk:page":"Al%C3%A7al%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4ae8942ef119fca8bc4c82c110b5ed50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243485727,
+            "macroregion_id":1108808627,
+            "region_id":85668449
+        }
+    ],
+    "wof:id":1243485727,
+    "wof:lastmodified":1537585282,
+    "wof:name":"Alcali",
+    "wof:parent_id":85668449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.92141,
+    39.51955,
+    48.92141,
+    39.51955
+],
+  "geometry": {"coordinates":[48.92141,39.51955],"type":"Point"}
+}

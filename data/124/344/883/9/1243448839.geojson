@@ -1,0 +1,75 @@
+{
+  "id": 1243448839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.26212,40.42489,50.26212,40.42489",
+    "geom:latitude":40.42489,
+    "geom:longitude":50.26212,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Qosaqislaq",
+    "gn:country_code":"AZ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585809,
+    "gn:latitude":40.42489,
+    "gn:longitude":50.26212,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Qo\u015faq\u0131\u015flaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koshakyshlak",
+        "Khardashan",
+        "Koshakishlag",
+        "Kishlak Khardashan",
+        "Qo\u015faq\u0131\u015flaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585809,
+        "wk:page":"Qo%C5%9Faq%C4%B1%C5%9Flaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6927bf7ec1b162a0686088443b28b6e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243448839,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1243448839,
+    "wof:lastmodified":1537585390,
+    "wof:name":"Qosaqislaq",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.26212,
+    40.42489000000001,
+    50.26212,
+    40.42489000000001
+],
+  "geometry": {"coordinates":[50.26212,40.42489000000001],"type":"Point"}
+}

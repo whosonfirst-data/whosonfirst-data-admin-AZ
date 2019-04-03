@@ -1,0 +1,80 @@
+{
+  "id": 1226816303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.94751,39.96795,45.94751,39.96795",
+    "geom:latitude":39.96795,
+    "geom:longitude":45.94751,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Mohammad Shafi",
+    "gn:country_code":"AZ",
+    "gn:dem":2098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147561,
+    "gn:latitude":39.96795,
+    "gn:longitude":45.94751,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Mohammad Shafi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259mm\u0259ds\u0259fi"
+    ],
+    "name:aze_x_variant":[
+        "M\u0259mm\u0259d\u015f\u0259fi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043c\u0435\u0434\u0441\u0430\u0444\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mamedsafi",
+        "Mamedsefi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147561
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"122129eddc7bbf04d56db841d044a03d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226816303,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1226816303,
+    "wof:lastmodified":1537585185,
+    "wof:name":"Mohammad Shafi",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.94751,
+    39.96795,
+    45.94751,
+    39.96795
+],
+  "geometry": {"coordinates":[45.94751,39.96795],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193173581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.49839,40.00875,48.49839,40.00875",
+    "geom:latitude":40.00875,
+    "geom:longitude":48.49839,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Suqovsan",
+    "gn:country_code":"AZ",
+    "gn:dem":-15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584933,
+    "gn:latitude":40.00875,
+    "gn:longitude":48.49839,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Suqov\u015fan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Suqov\u015fan"
+    ],
+    "name:und_x_variant":[
+        "Sugovsh\u0259n",
+        "Sukovushan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584933
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ea5102f7dc7417db22cc91c005539e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193173581,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1193173581,
+    "wof:lastmodified":1537585331,
+    "wof:name":"Suqovsan",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.49839,
+    40.00875,
+    48.49839,
+    40.00875
+],
+  "geometry": {"coordinates":[48.49839,40.00875],"type":"Point"}
+}

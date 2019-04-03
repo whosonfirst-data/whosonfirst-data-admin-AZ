@@ -1,0 +1,84 @@
+{
+  "id": 1310674621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.08858,39.35501,47.08858,39.35501",
+    "geom:latitude":39.35501,
+    "geom:longitude":47.08858,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Fuqanli",
+    "gn:country_code":"AZ",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394911,
+    "gn:latitude":39.35501,
+    "gn:longitude":47.08858,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fuqanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Fuqanl\u0131"
+    ],
+    "name:aze_x_variant":[
+        "Fu\u011fanl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0578\u0582\u0563\u0561\u0576\u056c\u0568"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0443\u0433\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Fuganly",
+        "\u0424\u0443\u0433\u0430\u043d\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394911,
+        "wk:page":"Fuqanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b49d8bd892d465d2674e69669f2029e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310674621,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1310674621,
+    "wof:lastmodified":1537585298,
+    "wof:name":"Fuqanli",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.08858,
+    39.35501,
+    47.08858,
+    39.35501
+],
+  "geometry": {"coordinates":[47.08858,39.35501],"type":"Point"}
+}

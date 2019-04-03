@@ -1,0 +1,70 @@
+{
+  "id": 1226472969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.44408,39.95511,48.44408,39.95511",
+    "geom:latitude":39.95511,
+    "geom:longitude":48.44408,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Balakend",
+    "gn:country_code":"AZ",
+    "gn:dem":-12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148392,
+    "gn:latitude":39.95511,
+    "gn:longitude":48.44408,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Balakend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Balak\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668433,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148392
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"67614cd860325e44610601ddff893f07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226472969,
+            "macroregion_id":1108808627,
+            "region_id":85668433
+        }
+    ],
+    "wof:id":1226472969,
+    "wof:lastmodified":1537585267,
+    "wof:name":"Balakend",
+    "wof:parent_id":85668433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.44408,
+    39.95511,
+    48.44408,
+    39.95511
+],
+  "geometry": {"coordinates":[48.44408,39.95511],"type":"Point"}
+}

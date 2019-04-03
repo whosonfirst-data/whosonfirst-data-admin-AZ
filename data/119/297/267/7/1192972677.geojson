@@ -1,0 +1,70 @@
+{
+  "id": 1192972677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9825,40.13444,47.9825,40.13444",
+    "geom:latitude":40.13444,
+    "geom:longitude":47.9825,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Kohunlu",
+    "gn:country_code":"AZ",
+    "gn:dem":-10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824087,
+    "gn:latitude":40.13444,
+    "gn:longitude":47.9825,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"K\u00f6h\u00fcnl\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f6h\u00fcnl\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668383,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824087
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0a1d7d6c5ca289938da858eeb7621532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1192972677,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":1192972677,
+    "wof:lastmodified":1537585510,
+    "wof:name":"Kohunlu",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9825,
+    40.13444000000001,
+    47.9825,
+    40.13444000000001
+],
+  "geometry": {"coordinates":[47.9825,40.13444000000001],"type":"Point"}
+}

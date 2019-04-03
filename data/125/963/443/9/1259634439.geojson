@@ -1,0 +1,84 @@
+{
+  "id": 1259634439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.54337,39.76415,46.54337,39.76415",
+    "geom:latitude":39.76415,
+    "geom:longitude":46.54337,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Fingya",
+    "gn:country_code":"AZ",
+    "gn:dem":1761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395540,
+    "gn:latitude":39.76415,
+    "gn:longitude":46.54337,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Fingya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Fing\u0259"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u056b\u0576\u0563\u0575\u0561"
+    ],
+    "name:hye_x_variant":[
+        "P\u2019anagah",
+        "\u0553\u0561\u0576\u0561\u0563\u0561\u0570"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u043d\u0433\u044f"
+    ],
+    "name:und_x_variant":[
+        "\u0424\u0438\u043d\u0433\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395540,
+        "wk:page":"Fing%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"53262075cfea10a627db39920e8ca8cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259634439,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1259634439,
+    "wof:lastmodified":1537585299,
+    "wof:name":"Fingya",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.54337,
+    39.76415,
+    46.54337,
+    39.76415
+],
+  "geometry": {"coordinates":[46.54337,39.76415],"type":"Point"}
+}

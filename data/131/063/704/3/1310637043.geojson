@@ -1,0 +1,88 @@
+{
+  "id": 1310637043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.80022,39.72284,46.80022,39.72284",
+    "geom:latitude":39.72284,
+    "geom:longitude":46.80022,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Signaq",
+    "gn:country_code":"AZ",
+    "gn:dem":1302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147144,
+    "gn:latitude":39.72284,
+    "gn:longitude":46.80022,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"S\u0131\u011fnaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Si\u011fnax"
+    ],
+    "name:aze_x_variant":[
+        "S\u0131\u011fnaq"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0572\u0576\u0561\u056d"
+    ],
+    "name:hye_x_variant":[
+        "Sghnakh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0433\u043d\u0430\u0445"
+    ],
+    "name:und_x_variant":[
+        "Sghnakh",
+        "Sygnakh",
+        "Signakh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147144,
+        "wk:page":"S%C4%B1%C4%9Fnax"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7390dc8c93480b542005257845d9c797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310637043,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1310637043,
+    "wof:lastmodified":1537585148,
+    "wof:name":"Signaq",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.80022,
+    39.72284000000001,
+    46.80022,
+    39.72284000000001
+],
+  "geometry": {"coordinates":[46.80022,39.72284000000001],"type":"Point"}
+}

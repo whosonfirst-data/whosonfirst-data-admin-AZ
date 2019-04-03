@@ -1,0 +1,81 @@
+{
+  "id": 1343512621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.29642,41.06574,45.29642,41.06574",
+    "geom:latitude":41.06574,
+    "geom:longitude":45.29642,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Xanliqlar",
+    "gn:country_code":"AZ",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585434,
+    "gn:latitude":41.06574,
+    "gn:longitude":45.29642,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Xanl\u0131qlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xanl\u0131qlar"
+    ],
+    "name:eng_x_preferred":[
+        "Musak\u00f6y"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0441\u0430\u043a\u0435\u0439"
+    ],
+    "name:und_x_variant":[
+        "Musakey",
+        "Musak\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668229,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585434,
+        "wk:page":"Musak%C3%B6y"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"27794ccdc87c1cde7242d260180995ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343512621,
+            "macroregion_id":1108808609,
+            "region_id":85668229
+        }
+    ],
+    "wof:id":1343512621,
+    "wof:lastmodified":1537585365,
+    "wof:name":"Xanliqlar",
+    "wof:parent_id":85668229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.29642,
+    41.06574000000001,
+    45.29642,
+    41.06574000000001
+],
+  "geometry": {"coordinates":[45.29642,41.06574000000001],"type":"Point"}
+}

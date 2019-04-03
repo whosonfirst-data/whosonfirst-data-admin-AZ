@@ -1,0 +1,72 @@
+{
+  "id": 1226316067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.39612,39.20458,48.39612,39.20458",
+    "geom:latitude":39.20458,
+    "geom:longitude":48.39612,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Dovlyatalybeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148181,
+    "gn:latitude":39.20458,
+    "gn:longitude":48.39612,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dovlyatalybeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Devlyat-Ali-Beyli",
+        "Dovlyatalybeyli",
+        "D\u00f6vl\u0259t\u0259lib\u0259yli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148181
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"41913b16fc36f6fca7265cc584d4663f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226316067,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1226316067,
+    "wof:lastmodified":1537585247,
+    "wof:name":"Dovlyatalybeyli",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.39612,
+    39.20458,
+    48.39612,
+    39.20458
+],
+  "geometry": {"coordinates":[48.39612,39.20458],"type":"Point"}
+}

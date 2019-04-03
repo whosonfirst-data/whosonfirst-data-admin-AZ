@@ -1,0 +1,74 @@
+{
+  "id": 1226572451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.68264,41.37931,48.68264,41.37931",
+    "geom:latitude":41.37931,
+    "geom:longitude":48.68264,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Amsarqislaq",
+    "gn:country_code":"AZ",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622019,
+    "gn:latitude":41.37931,
+    "gn:longitude":48.68264,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Amsarq\u0131\u015flaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Amsarq\u0131\u015flaq"
+    ],
+    "name:und_x_variant":[
+        "Amsarkyshlak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622019,
+        "wk:page":"Amsarq%C4%B1%C5%9Flaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d713a1d873d7b4782f4a50da96c45a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226572451,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1226572451,
+    "wof:lastmodified":1537585536,
+    "wof:name":"Amsarqislaq",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.68264,
+    41.37931,
+    48.68264,
+    41.37931
+],
+  "geometry": {"coordinates":[48.68264,41.37931],"type":"Point"}
+}

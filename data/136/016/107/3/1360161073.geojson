@@ -1,0 +1,75 @@
+{
+  "id": 1360161073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.50272,39.43399,48.50272,39.43399",
+    "geom:latitude":39.43399,
+    "geom:longitude":48.50272,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Asagy-Dzhurali",
+    "gn:country_code":"AZ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389056,
+    "gn:latitude":39.43399,
+    "gn:longitude":48.50272,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Asagy-Dzhurali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 C\u00fcr\u0259li"
+    ],
+    "name:und_x_variant":[
+        "Murov\u2019yevko",
+        "Asagy-Dzhurali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668317,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389056,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_C%C3%BCr%C9%99li"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"499640fcacfc58e6a15c6acc64da1a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360161073,
+            "macroregion_id":1108808627,
+            "region_id":85668317
+        }
+    ],
+    "wof:id":1360161073,
+    "wof:lastmodified":1537585293,
+    "wof:name":"Asagy-Dzhurali",
+    "wof:parent_id":85668317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.50272,
+    39.43399,
+    48.50272,
+    39.43399
+],
+  "geometry": {"coordinates":[48.50272,39.43399],"type":"Point"}
+}

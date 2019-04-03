@@ -1,0 +1,76 @@
+{
+  "id": 1343466249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.01361,39.978,47.01361,39.978",
+    "geom:latitude":39.978,
+    "geom:longitude":47.01361,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Acarli",
+    "gn:country_code":"AZ",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8505614,
+    "gn:latitude":39.978,
+    "gn:longitude":47.01361,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Acarl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Acanl\u0131"
+    ],
+    "name:aze_x_variant":[
+        "Acarl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Adzharly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8505614
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c3d1f04b5a5694d8d4eabb8d941b4c36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343466249,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1343466249,
+    "wof:lastmodified":1537585527,
+    "wof:name":"Acarli",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.01361,
+    39.978,
+    47.01361,
+    39.978
+],
+  "geometry": {"coordinates":[47.01361,39.978],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277017693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.48211,40.02615,48.48211,40.02615",
+    "geom:latitude":40.02615,
+    "geom:longitude":48.48211,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Kyurkendi",
+    "gn:country_code":"AZ",
+    "gn:dem":-14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585676,
+    "gn:latitude":40.02615,
+    "gn:longitude":48.48211,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Kyurkendi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00fcrk\u0259ndi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585676,
+        "wk:page":"K%C3%BCrk%C9%99ndi"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0760fd533e6f900a256cced75e193c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277017693,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1277017693,
+    "wof:lastmodified":1537585380,
+    "wof:name":"Kyurkendi",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.48211,
+    40.02615,
+    48.48211,
+    40.02615
+],
+  "geometry": {"coordinates":[48.48211,40.02615],"type":"Point"}
+}

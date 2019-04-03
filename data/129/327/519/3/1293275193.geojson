@@ -1,0 +1,70 @@
+{
+  "id": 1293275193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.46792,39.24209,48.46792,39.24209",
+    "geom:latitude":39.24209,
+    "geom:longitude":48.46792,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Meshadibelili",
+    "gn:country_code":"AZ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439762,
+    "gn:latitude":39.24209,
+    "gn:longitude":48.46792,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Meshadibelili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259\u015f\u0259div\u0259lli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439762
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a30d8c041786f174f7065fdc54bdf652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293275193,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1293275193,
+    "wof:lastmodified":1537585520,
+    "wof:name":"Meshadibelili",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.46792,
+    39.24209000000001,
+    48.46792,
+    39.24209000000001
+],
+  "geometry": {"coordinates":[48.46792,39.24209000000001],"type":"Point"}
+}

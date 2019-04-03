@@ -1,0 +1,66 @@
+{
+  "id": 1327450085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.28217,38.66568,48.28217,38.66568",
+    "geom:latitude":38.66568,
+    "geom:longitude":48.28217,
+    "gn:asciiname":"Gilidarya",
+    "gn:country_code":"AZ",
+    "gn:dem":1746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8378750,
+    "gn:latitude":38.66568,
+    "gn:longitude":48.28217,
+    "gn:modification_date":"2012-08-19",
+    "gn:name":"Gilidarya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668403,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8378750
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"426cb941776aefbc342192ea954c0f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327450085,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":1327450085,
+    "wof:lastmodified":1536655231,
+    "wof:name":"Gilidarya",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.28217,
+    38.66568,
+    48.28217,
+    38.66568
+],
+  "geometry": {"coordinates":[48.28217,38.66568],"type":"Point"}
+}

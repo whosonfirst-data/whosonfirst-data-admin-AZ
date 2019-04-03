@@ -1,0 +1,80 @@
+{
+  "id": 1293231337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.33476,40.53578,46.33476,40.53578",
+    "geom:latitude":40.53578,
+    "geom:longitude":46.33476,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Voroshilovka",
+    "gn:country_code":"AZ",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587154,
+    "gn:latitude":40.53578,
+    "gn:longitude":46.33476,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Voroshilovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015f\u0131ql\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Ashaghli"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0577\u0561\u0572\u056c\u056b"
+    ],
+    "name:und_x_variant":[
+        "Ashygly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587154,
+        "wk:page":"A%C5%9F%C4%B1ql%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"60dca31dc393aa06f5be7c30f298d8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293231337,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1293231337,
+    "wof:lastmodified":1537585484,
+    "wof:name":"Voroshilovka",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.33476,
+    40.53578,
+    46.33476,
+    40.53578
+],
+  "geometry": {"coordinates":[46.33476,40.53578],"type":"Point"}
+}

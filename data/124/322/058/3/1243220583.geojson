@@ -1,0 +1,81 @@
+{
+  "id": 1243220583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.26339,40.07908,46.26339,40.07908",
+    "geom:latitude":40.07908,
+    "geom:longitude":46.26339,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Qaraguney",
+    "gn:country_code":"AZ",
+    "gn:dem":1553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":801231,
+    "gn:latitude":40.07908,
+    "gn:longitude":46.26339,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Qarag\u00fcney",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qarakuney"
+    ],
+    "name:aze_x_variant":[
+        "Qarag\u00fcney"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0433\u044e\u043d\u0435\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kakhat-Knel",
+        "Karagyuney"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":801231,
+        "wk:page":"Kakhat-Knel"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d9e561b0c916266ccccd1d1c20d3e801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243220583,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1243220583,
+    "wof:lastmodified":1537585507,
+    "wof:name":"Qaraguney",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.26339,
+    40.07908,
+    46.26339,
+    40.07908
+],
+  "geometry": {"coordinates":[46.26339,40.07908],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360118973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.36612,40.50069,46.36612,40.50069",
+    "geom:latitude":40.50069,
+    "geom:longitude":46.36612,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Dayirmanlar",
+    "gn:country_code":"AZ",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529104,
+    "gn:latitude":40.50069,
+    "gn:longitude":46.36612,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"D\u0259yirmanlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u0259yirmanlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668211,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529104,
+        "wk:page":"D%C9%99yirmanlar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f07aea5c7caff9c8d7c1092cdf493979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360118973,
+            "macroregion_id":1108808609,
+            "region_id":85668211
+        }
+    ],
+    "wof:id":1360118973,
+    "wof:lastmodified":1537585530,
+    "wof:name":"Dayirmanlar",
+    "wof:parent_id":85668211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.36612,
+    40.50069000000001,
+    46.36612,
+    40.50069000000001
+],
+  "geometry": {"coordinates":[46.36612,40.50069000000001],"type":"Point"}
+}

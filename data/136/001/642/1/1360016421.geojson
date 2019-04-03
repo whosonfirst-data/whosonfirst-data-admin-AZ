@@ -1,0 +1,73 @@
+{
+  "id": 1360016421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.64642,41.43268,46.64642,41.43268",
+    "geom:latitude":41.43268,
+    "geom:longitude":46.64642,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Sabuncu",
+    "gn:country_code":"AZ",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8668442,
+    "gn:latitude":41.43268,
+    "gn:longitude":46.64642,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Sabun\u00e7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sabun\u00e7u"
+    ],
+    "name:und_x_variant":[
+        "Taza Saunchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668601,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8668442
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"728af370ded5300fd32cf7073bf34a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360016421,
+            "macroregion_id":1108808619,
+            "region_id":85668601
+        }
+    ],
+    "wof:id":1360016421,
+    "wof:lastmodified":1537585539,
+    "wof:name":"Sabuncu",
+    "wof:parent_id":85668601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.64642,
+    41.43268,
+    46.64642,
+    41.43268
+],
+  "geometry": {"coordinates":[46.64642,41.43268],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360258319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.25171,39.25919,48.25171,39.25919",
+    "geom:latitude":39.25919,
+    "geom:longitude":48.25171,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tomarkhanly",
+    "gn:country_code":"AZ",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147045,
+    "gn:latitude":39.25919,
+    "gn:longitude":48.25171,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Tomarkhanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamirkhanly",
+        "Tomarkhan",
+        "Tomarkhanly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147045,
+        "wk:page":"Tomarkhanly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"789c379aff8017699510c39b192506ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360258319,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1360258319,
+    "wof:lastmodified":1537585139,
+    "wof:name":"Tomarkhanly",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.25171,
+    39.25919,
+    48.25171,
+    39.25919
+],
+  "geometry": {"coordinates":[48.25171,39.25919],"type":"Point"}
+}

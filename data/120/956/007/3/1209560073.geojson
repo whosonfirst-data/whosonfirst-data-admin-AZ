@@ -1,0 +1,101 @@
+{
+  "id": 1209560073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5895,38.9834,45.5895,38.9834",
+    "geom:latitude":38.9834,
+    "geom:longitude":45.5895,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"148132.0",
+    "gn:asciiname":"Gueluestan",
+    "gn:cc2":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148133,
+    "gn:latitude":38.9834,
+    "gn:longitude":45.5895,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"G\u00fcl\u00fcstan",
+    "gn:population":482,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_colloquial":[
+        "G\u00fcl\u00fcstan"
+    ],
+    "name:aze_x_historical":[
+        "G\u00fcl\u00fcstan",
+        "Cu\u011fa"
+    ],
+    "name:aze_x_preferred":[
+        "G\u00fcl\u00fcstan"
+    ],
+    "name:aze_x_variant":[
+        "Cu\u011fa"
+    ],
+    "name:eng_x_colloquial":[
+        "Gulistan"
+    ],
+    "name:eng_x_historical":[
+        "Gulistan"
+    ],
+    "name:eng_x_preferred":[
+        "Gulistan"
+    ],
+    "name:eng_x_variant":[
+        "Chukha"
+    ],
+    "name:fas_x_historical":[
+        "Cu\u011fa"
+    ],
+    "name:fas_x_preferred":[
+        "Cu\u011fa"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c7uha"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148133,
+        "wk:page":"G%C3%BCl%C3%BCstan%2C_Nakhchivan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c0217cd9034b9f954343d449106356fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209560073
+        }
+    ],
+    "wof:id":1209560073,
+    "wof:lastmodified":1537585243,
+    "wof:name":"Gueluestan",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:population":482,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5895,
+    38.9834,
+    45.5895,
+    38.9834
+],
+  "geometry": {"coordinates":[45.5895,38.9834],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327368619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.91481,39.756,48.91481,39.756",
+    "geom:latitude":39.756,
+    "geom:longitude":48.91481,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Khankechan",
+    "gn:country_code":"AZ",
+    "gn:dem":-21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147805,
+    "gn:latitude":39.756,
+    "gn:longitude":48.91481,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Khankechan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xanke\u00e7\u0259n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147805
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9fa55e96d72142578f5eade70dcd3d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327368619,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1327368619,
+    "wof:lastmodified":1537585210,
+    "wof:name":"Khankechan",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.91481,
+    39.756,
+    48.91481,
+    39.756
+],
+  "geometry": {"coordinates":[48.91481,39.756],"type":"Point"}
+}

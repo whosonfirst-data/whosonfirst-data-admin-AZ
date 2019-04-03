@@ -1,0 +1,80 @@
+{
+  "id": 1276373657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.02272,41.28478,47.02272,41.28478",
+    "geom:latitude":41.28478,
+    "geom:longitude":47.02272,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Novo Gyuinuk",
+    "gn:country_code":"AZ",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587183,
+    "gn:latitude":41.28478,
+    "gn:longitude":47.02272,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Novo Gyuinuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "A\u015fa\u011f\u0131 G\u00f6yn\u00fck"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0448\u0430\u0433\u044b \u0413\u0435\u0439\u043d\u044e\u043a"
+    ],
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131 K\u00f6yn\u00fck",
+        "Ashaga-Geynyuk",
+        "Ashagy G\u00ebynyuk",
+        "A\u015fa\u011f\u0131 G\u00f6yn\u00fck"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587183,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_G%C3%B6yn%C3%BCk"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8b3b19fe85e6daa67f060640f634eee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276373657,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1276373657,
+    "wof:lastmodified":1537585487,
+    "wof:name":"Novo Gyuinuk",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.02272,
+    41.28478,
+    47.02272,
+    41.28478
+],
+  "geometry": {"coordinates":[47.02272,41.28478],"type":"Point"}
+}

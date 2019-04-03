@@ -1,0 +1,87 @@
+{
+  "id": 1226783863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.67767,39.71769,46.67767,39.71769",
+    "geom:latitude":39.71769,
+    "geom:longitude":46.67767,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Zarisli",
+    "gn:country_code":"AZ",
+    "gn:dem":1527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146890,
+    "gn:latitude":39.71769,
+    "gn:longitude":46.67767,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Zar\u0131sl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zar\u0131sl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Zarrisly"
+    ],
+    "name:hye_x_variant":[
+        "\u0536\u0561\u057c\u056b\u057d\u056c\u0568",
+        "Tsarris",
+        "\u053e\u0561\u057c\u056b\u057d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u044b\u0441\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Zarysly",
+        "Zarist",
+        "Zarisli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668643,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146890,
+        "wk:page":"Zar%C4%B1sl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"eca4a2c4ca9f6a1d1242c0bb37217b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226783863,
+            "macroregion_id":1108808615,
+            "region_id":85668643
+        }
+    ],
+    "wof:id":1226783863,
+    "wof:lastmodified":1537585124,
+    "wof:name":"Zarisli",
+    "wof:parent_id":85668643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.67767,
+    39.71769000000001,
+    46.67767,
+    39.71769000000001
+],
+  "geometry": {"coordinates":[46.67767,39.71769000000001],"type":"Point"}
+}

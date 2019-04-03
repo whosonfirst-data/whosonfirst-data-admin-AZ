@@ -1,0 +1,92 @@
+{
+  "id": 1209890107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.77052,40.43119,46.77052,40.43119",
+    "geom:latitude":40.43119,
+    "geom:longitude":46.77052,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Tap Qaraqoyunlu",
+    "gn:country_code":"AZ",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584875,
+    "gn:latitude":40.43119,
+    "gn:longitude":46.77052,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Tap Qaraqoyunlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Tap Qaraqoyunlu"
+    ],
+    "name:eng_x_preferred":[
+        "Tap Qaraqoyunlu"
+    ],
+    "name:hye_x_preferred":[
+        "T\u2019ap\u2019gharakoyunlu"
+    ],
+    "name:hye_x_variant":[
+        "\u0539\u0561\u0583\u0572\u0561\u0580\u0561\u056f\u0578\u0575\u0578\u0582\u0576\u056c\u0578\u0582",
+        "T\u2019ap\u2019karakoyunlu",
+        "\u0539\u0561\u0583\u056f\u0561\u0580\u0561\u056f\u0578\u0575\u0578\u0582\u0576\u056c\u0578\u0582"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043f_\u043a\u0430\u0440\u0430\u043a\u043e\u044e\u043d\u043b\u0443"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0430\u043f\u043a\u0430\u0440\u0430\u043a\u043e\u044e\u043d\u043b\u0443"
+    ],
+    "name:und_x_variant":[
+        "Top-Karakoyunlu",
+        "Tapkarakoyunlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584875,
+        "wk:page":"Tap_Qaraqoyunlu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"17461f3621b3f7df4c6cc95bf1056da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209890107,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1209890107,
+    "wof:lastmodified":1537585328,
+    "wof:name":"Tap Qaraqoyunlu",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.77052,
+    40.43119,
+    46.77052,
+    40.43119
+],
+  "geometry": {"coordinates":[46.77052,40.43119],"type":"Point"}
+}

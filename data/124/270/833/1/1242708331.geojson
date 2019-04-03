@@ -1,0 +1,70 @@
+{
+  "id": 1242708331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.23023,38.88382,48.23023,38.88382",
+    "geom:latitude":38.88382,
+    "geom:longitude":48.23023,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Ugash",
+    "gn:country_code":"AZ",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8433089,
+    "gn:latitude":38.88382,
+    "gn:longitude":48.23023,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Ugash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00dcne\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668497,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8433089
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fa787ef25c838baa85ded3ed99421bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242708331,
+            "macroregion_id":1108808625,
+            "region_id":85668497
+        }
+    ],
+    "wof:id":1242708331,
+    "wof:lastmodified":1537585518,
+    "wof:name":"Ugash",
+    "wof:parent_id":85668497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.23023,
+    38.88382,
+    48.23023,
+    38.88382
+],
+  "geometry": {"coordinates":[48.23023,38.88382],"type":"Point"}
+}

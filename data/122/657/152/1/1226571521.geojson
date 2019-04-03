@@ -1,0 +1,73 @@
+{
+  "id": 1226571521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.35776,40.74268,49.35776,40.74268",
+    "geom:latitude":40.74268,
+    "geom:longitude":49.35776,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Shalgyakh",
+    "gn:country_code":"AZ",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585065,
+    "gn:latitude":40.74268,
+    "gn:longitude":49.35776,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Shalgyakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shal\u2019gakh",
+        "Shal\u2019gyakh",
+        "Shalgyakh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668485,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585065,
+        "wk:page":"Shalgyakh"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b64e355ff67b92d202b930a3784049a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226571521,
+            "macroregion_id":1108808621,
+            "region_id":85668485
+        }
+    ],
+    "wof:id":1226571521,
+    "wof:lastmodified":1537585340,
+    "wof:name":"Shalgyakh",
+    "wof:parent_id":85668485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.35776,
+    40.74268,
+    49.35776,
+    40.74268
+],
+  "geometry": {"coordinates":[49.35776,40.74268],"type":"Point"}
+}

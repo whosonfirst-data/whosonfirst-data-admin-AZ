@@ -1,0 +1,71 @@
+{
+  "id": 1243485401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.41685,41.26541,48.41685,41.26541",
+    "geom:latitude":41.26541,
+    "geom:longitude":48.41685,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Yukhary Tyulyakeran",
+    "gn:country_code":"AZ",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584621,
+    "gn:latitude":41.26541,
+    "gn:longitude":48.41685,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yukhary Tyulyakeran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yukhary Tyulekiran",
+        "Yuxar\u0131 T\u00fcl\u0259k\u0259ran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584621
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2e42e196044c42a12a5f4d0587468e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243485401,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1243485401,
+    "wof:lastmodified":1537585310,
+    "wof:name":"Yukhary Tyulyakeran",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.41685,
+    41.26541,
+    48.41685,
+    41.26541
+],
+  "geometry": {"coordinates":[48.41685,41.26541],"type":"Point"}
+}

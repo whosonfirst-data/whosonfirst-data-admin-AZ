@@ -1,0 +1,91 @@
+{
+  "id": 1226476285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.73064,40.27428,46.73064,40.27428",
+    "geom:latitude":40.27428,
+    "geom:longitude":46.73064,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Lyulyasaz",
+    "gn:country_code":"AZ",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585617,
+    "gn:latitude":40.27428,
+    "gn:longitude":46.73064,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Lyulyasaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "L\u00fcl\u0259saz"
+    ],
+    "name:aze_x_variant":[
+        "Akop-Kamari"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u056f\u0578\u0562 \u053f\u0561\u0574\u0561\u0580\u056b"
+    ],
+    "name:hye_x_variant":[
+        "Hakob Kamari",
+        "Varnkat\u2019agh",
+        "\u054e\u0561\u0580\u0576\u056f\u0561\u0569\u0561\u0572"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u043e\u043f-\u041a\u0430\u043c\u0430\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Hakob Kamari",
+        "Lyulyasaz",
+        "Lulasaz",
+        "Lioulasaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585617,
+        "wk:page":"L%C3%BCl%C9%99saz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"358f57918cff7586343ca2b4f80ba86b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226476285,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1226476285,
+    "wof:lastmodified":1537585377,
+    "wof:name":"Lyulyasaz",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.73064,
+    40.27428,
+    46.73064,
+    40.27428
+],
+  "geometry": {"coordinates":[46.73064,40.27428],"type":"Point"}
+}

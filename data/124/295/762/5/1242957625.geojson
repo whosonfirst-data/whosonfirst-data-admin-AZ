@@ -1,0 +1,73 @@
+{
+  "id": 1242957625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.80611,40.30528,49.80611,40.30528",
+    "geom:latitude":40.30528,
+    "geom:longitude":49.80611,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bibi-Eybat",
+    "gn:country_code":"AZ",
+    "gn:dem":-28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800616,
+    "gn:latitude":40.30528,
+    "gn:longitude":49.80611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bibi-Eybat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bibiheyb\u0259t"
+    ],
+    "name:eng_x_preferred":[
+        "Bibiheyb\u01ddt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0431\u0438-\u042d\u0439\u0431\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800616,
+        "wk:page":"Bibiheyb%C9%99t"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0343b88a0c5f73f51e51939198623fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1242957625,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242957625,
+    "wof:lastmodified":1537585504,
+    "wof:name":"Bibi-Eybat",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.80611,
+    40.30528,
+    49.80611,
+    40.30528
+],
+  "geometry": {"coordinates":[49.80611,40.30528],"type":"Point"}
+}

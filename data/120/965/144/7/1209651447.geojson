@@ -1,0 +1,64 @@
+{
+  "id": 1209651447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.08283,41.16285,49.08283,41.16285",
+    "geom:latitude":41.16285,
+    "geom:longitude":49.08283,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Yenikend",
+    "gn:country_code":"AZ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824025,
+    "gn:latitude":41.16285,
+    "gn:longitude":49.08283,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Yenikend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yenik\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824025
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3f0ef6f3b7896845ec29d08598441a39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209651447
+        }
+    ],
+    "wof:id":1209651447,
+    "wof:lastmodified":1537585508,
+    "wof:name":"Yenikend",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.08283,
+    41.16285,
+    49.08283,
+    41.16285
+],
+  "geometry": {"coordinates":[49.08283,41.16285],"type":"Point"}
+}

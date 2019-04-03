@@ -1,0 +1,86 @@
+{
+  "id": 1344087813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.62763,39.43914,46.62763,39.43914",
+    "geom:latitude":39.43914,
+    "geom:longitude":46.62763,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Karakishlag",
+    "gn:country_code":"AZ",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147902,
+    "gn:latitude":39.43914,
+    "gn:longitude":46.62763,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Karakishlag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaraki\u015fil\u0259r"
+    ],
+    "name:hye_x_preferred":[
+        "Gharaghshlar"
+    ],
+    "name:hye_x_variant":[
+        "\u0542\u0561\u0580\u0561\u0572\u0577\u056c\u0561\u0580",
+        "Dzorap\u2019",
+        "\u0541\u0578\u0580\u0561\u0583"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u0438\u0448\u0438\u043b\u044f\u0440"
+    ],
+    "name:und_x_variant":[
+        "Karakishilyar",
+        "\u041a\u0430\u0440\u0430\u043a\u0438\u0448\u0438\u043b\u044f\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147902,
+        "wk:page":"Qaraki%C5%9Fil%C9%99r"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"97284140fd7d62c56a3b033853dacee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344087813,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1344087813,
+    "wof:lastmodified":1537585220,
+    "wof:name":"Karakishlag",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.62763,
+    39.43914,
+    46.62763,
+    39.43914
+],
+  "geometry": {"coordinates":[46.62763,39.43914],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293341707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.725,40.91892,47.725,40.91892",
+    "geom:latitude":40.91892,
+    "geom:longitude":47.725,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Mirzabeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585507,
+    "gn:latitude":40.91892,
+    "gn:longitude":47.725,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Mirzabeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mirz\u01ddb\u01ddyli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u0437\u0430\u0431\u0435\u0439\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mirz\u0259b\u0259yli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585507,
+        "wk:page":"Mirz%C9%99b%C9%99yli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"69af0020d1f2067b92dffff89e59bbd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293341707,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1293341707,
+    "wof:lastmodified":1537585370,
+    "wof:name":"Mirzabeyli",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.725,
+    40.91892,
+    47.725,
+    40.91892
+],
+  "geometry": {"coordinates":[47.725,40.91892],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1344111827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.57652,40.127,46.57652,40.127",
+    "geom:latitude":40.127,
+    "geom:longitude":46.57652,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Yayici",
+    "gn:country_code":"AZ",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585834,
+    "gn:latitude":40.127,
+    "gn:longitude":46.57652,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Yay\u0131c\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yay\u0131c\u0131"
+    ],
+    "name:eng_x_preferred":[
+        "Yay\u0131c\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0579\u0578\u0572\u0578\u057f"
+    ],
+    "name:hye_x_variant":[
+        "Kochoghot",
+        "\u053f\u0578\u0573\u0578\u0572\u0578\u057f",
+        "Koch\u2019oghot"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0447\u043e\u0433\u043e\u0442"
+    ],
+    "name:und_x_variant":[
+        "Kochghut",
+        "Qo\u00e7oqot",
+        "Kochagot",
+        "Kchghot",
+        "Kchogut",
+        "Kchagot",
+        "Kochogot",
+        "Ktchoghout",
+        "Kochoghot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585834,
+        "wk:page":"Yay%C4%B1c%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"87fd5b6e4cafeac0cbbfe60ad5d822c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344111827,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1344111827,
+    "wof:lastmodified":1537585392,
+    "wof:name":"Yayici",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.57652,
+    40.127,
+    46.57652,
+    40.127
+],
+  "geometry": {"coordinates":[46.57652,40.127],"type":"Point"}
+}

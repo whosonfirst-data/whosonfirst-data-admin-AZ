@@ -1,0 +1,76 @@
+{
+  "id": 1344192043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.93976,40.51606,48.93976,40.51606",
+    "geom:latitude":40.51606,
+    "geom:longitude":48.93976,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Narimankend",
+    "gn:country_code":"AZ",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585384,
+    "gn:latitude":40.51606,
+    "gn:longitude":48.93976,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Narimankend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "N\u01ddrimank\u01ddnd"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0440\u0438\u043c\u0430\u043d\u043a\u0435\u043d\u0434"
+    ],
+    "name:und_x_variant":[
+        "N\u0259rimank\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668419,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585384
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b99a866d0695553c6d6948bffc0a1ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344192043,
+            "macroregion_id":1108808611,
+            "region_id":85668419
+        }
+    ],
+    "wof:id":1344192043,
+    "wof:lastmodified":1537585361,
+    "wof:name":"Narimankend",
+    "wof:parent_id":85668419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.93976,
+    40.51606,
+    48.93976,
+    40.51606
+],
+  "geometry": {"coordinates":[48.93976,40.51606],"type":"Point"}
+}

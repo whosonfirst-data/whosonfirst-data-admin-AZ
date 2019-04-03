@@ -1,0 +1,72 @@
+{
+  "id": 1360215715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.49499,40.67396,45.49499,40.67396",
+    "geom:latitude":40.67396,
+    "geom:longitude":45.49499,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Huseynqulular",
+    "gn:country_code":"AZ",
+    "gn:dem":1675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586416,
+    "gn:latitude":40.67396,
+    "gn:longitude":45.49499,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"H\u00fcseynqulular",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guseynkullar",
+        "H\u00fcseynqulular"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586416,
+        "wk:page":"H%C3%BCseynqulular%2C_Tovuz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b6469f6436b0428494087b873c8d98d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360215715,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1360215715,
+    "wof:lastmodified":1537585433,
+    "wof:name":"Huseynqulular",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.49499,
+    40.67396,
+    45.49499,
+    40.67396
+],
+  "geometry": {"coordinates":[45.49499,40.67396],"type":"Point"}
+}

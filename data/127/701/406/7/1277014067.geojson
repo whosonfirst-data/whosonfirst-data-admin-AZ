@@ -1,0 +1,92 @@
+{
+  "id": 1277014067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.71764,40.24705,46.71764,40.24705",
+    "geom:latitude":40.24705,
+    "geom:longitude":46.71764,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Cardaqli",
+    "gn:country_code":"AZ",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585608,
+    "gn:latitude":40.24705,
+    "gn:longitude":46.71764,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"\u00c7ardaql\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7ardaql\u0131"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c7ardaql\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Maghavus"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0561\u0572\u0561\u057e\u0578\u0582\u057d",
+        "\u0544\u0561\u0572\u0561\u057e\u0578\u0582\u0566"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0433\u0430\u0432\u0443\u0437"
+    ],
+    "name:und_x_variant":[
+        "Maguvuz",
+        "Maghavuz",
+        "Maghavouz",
+        "Mghoz",
+        "Ma\u011favuz",
+        "Magavuz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585608,
+        "wk:page":"%C3%87ardaql%C4%B1%2C_Tartar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3536dbb6f9cac7e7dfb7019479861d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277014067,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1277014067,
+    "wof:lastmodified":1537585376,
+    "wof:name":"Cardaqli",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.71764,
+    40.24705,
+    46.71764,
+    40.24705
+],
+  "geometry": {"coordinates":[46.71764,40.24705],"type":"Point"}
+}

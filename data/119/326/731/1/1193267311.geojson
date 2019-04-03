@@ -1,0 +1,74 @@
+{
+  "id": 1193267311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.41329,41.66253,46.41329,41.66253",
+    "geom:latitude":41.66253,
+    "geom:longitude":46.41329,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Murguztala",
+    "gn:country_code":"AZ",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585442,
+    "gn:latitude":41.66253,
+    "gn:longitude":46.41329,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Mur\u011fuztala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mur\u011fuztala"
+    ],
+    "name:und_x_variant":[
+        "Murquztala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585442,
+        "wk:page":"Murquztala"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7a3c4e607e56d48aec8753a3802f8c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193267311,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1193267311,
+    "wof:lastmodified":1537585365,
+    "wof:name":"Murguztala",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.41329,
+    41.66253,
+    46.41329,
+    41.66253
+],
+  "geometry": {"coordinates":[46.41329,41.66253],"type":"Point"}
+}

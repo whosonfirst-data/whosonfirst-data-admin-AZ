@@ -1,0 +1,87 @@
+{
+  "id": 1226595013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.4241,39.64069,46.4241,39.64069",
+    "geom:latitude":39.64069,
+    "geom:longitude":46.4241,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Gyusyulyu",
+    "gn:country_code":"AZ",
+    "gn:dem":1241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148005,
+    "gn:latitude":39.64069,
+    "gn:longitude":46.4241,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Gyusyulyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "H\u00fcs\u00fcl\u00fc"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0575\u0578\u0582\u057d\u0575\u0578\u0582\u056c\u0575\u0578\u0582"
+    ],
+    "name:hye_x_variant":[
+        "Tsitserrnavank\u2019",
+        "\u053e\u056b\u056e\u0565\u057c\u0576\u0561\u057e\u0561\u0576\u0584"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u044e\u0441\u044e\u043b\u044e"
+    ],
+    "name:und_x_variant":[
+        "Gyusyulu",
+        "Gyusyulyu",
+        "\u0413\u044e\u0441\u044e\u043b\u044e",
+        "Tsitsernavank"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148005,
+        "wk:page":"A%C4%9Fo%C4%9Flan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"76cf5cecb8a7534653dd9652b45be71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226595013,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1226595013,
+    "wof:lastmodified":1537585230,
+    "wof:name":"Gyusyulyu",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.4241,
+    39.64069,
+    46.4241,
+    39.64069
+],
+  "geometry": {"coordinates":[46.4241,39.64069],"type":"Point"}
+}

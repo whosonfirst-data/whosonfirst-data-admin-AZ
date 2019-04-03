@@ -1,0 +1,76 @@
+{
+  "id": 1259536989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.92614,39.53649,44.92614,39.53649",
+    "geom:latitude":39.53649,
+    "geom:longitude":44.92614,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147997.0",
+    "gn:asciiname":"Alisar",
+    "gn:country_code":"AZ",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148538,
+    "gn:latitude":39.53649,
+    "gn:longitude":44.92614,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Al\u0131\u015far",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Al\u0131\u015far"
+    ],
+    "name:und_x_variant":[
+        "Alishar",
+        "Alisher",
+        "Alyshar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668667,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148538
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7564f6e0eb1c2f9488df27cd74d5e65d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259536989,
+            "macroregion_id":1108808617,
+            "region_id":85668667
+        }
+    ],
+    "wof:id":1259536989,
+    "wof:lastmodified":1537585279,
+    "wof:name":"Alisar",
+    "wof:parent_id":85668667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.92614,
+    39.53649,
+    44.92614,
+    39.53649
+],
+  "geometry": {"coordinates":[44.92614,39.53649],"type":"Point"}
+}

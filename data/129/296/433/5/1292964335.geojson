@@ -1,0 +1,68 @@
+{
+  "id": 1292964335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.91667,41.3,48.91667,41.3",
+    "geom:latitude":41.3,
+    "geom:longitude":48.91667,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kakhal",
+    "gn:country_code":"AZ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586297,
+    "gn:latitude":41.3,
+    "gn:longitude":48.91667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Kakhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586297,
+        "wk:page":"Kakhal"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6a1d77904a93b64b53a8e17418989f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1292964335,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1292964335,
+    "wof:lastmodified":1537486637,
+    "wof:name":"Kakhal",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.91667,
+    41.3,
+    48.91667,
+    41.3
+],
+  "geometry": {"coordinates":[48.91667,41.3],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276316879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.29669,41.69392,46.29669,41.69392",
+    "geom:latitude":41.69392,
+    "geom:longitude":46.29669,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kilisabugov",
+    "gn:country_code":"AZ",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585896,
+    "gn:latitude":41.69392,
+    "gn:longitude":46.29669,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Kilisabugov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kils\u0259buqov"
+    ],
+    "name:und_x_variant":[
+        "Kil\u2019syabugov",
+        "Kilisabugov",
+        "Kils\u0259bugov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585896,
+        "wk:page":"Kils%C9%99buqov"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7dfc27cb0a6f48c603508aa6930fb2d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276316879,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1276316879,
+    "wof:lastmodified":1537585394,
+    "wof:name":"Kilisabugov",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.29669000000001,
+    41.69392,
+    46.29669000000001,
+    41.69392
+],
+  "geometry": {"coordinates":[46.29669000000001,41.69392],"type":"Point"}
+}

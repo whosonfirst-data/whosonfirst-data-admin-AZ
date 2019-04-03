@@ -1,0 +1,74 @@
+{
+  "id": 1293670227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.41675,40.28182,47.41675,40.28182",
+    "geom:latitude":40.28182,
+    "geom:longitude":47.41675,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kylyshly",
+    "gn:country_code":"AZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585721,
+    "gn:latitude":40.28182,
+    "gn:longitude":47.41675,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Kylyshly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259mm\u0259dli"
+    ],
+    "name:und_x_variant":[
+        "Mamedli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585721,
+        "wk:page":"Kylyshly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c1ec41b431cf4a1098332cfafae7eab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293670227,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1293670227,
+    "wof:lastmodified":1537585383,
+    "wof:name":"Kylyshly",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.41675,
+    40.28182,
+    47.41675,
+    40.28182
+],
+  "geometry": {"coordinates":[47.41675,40.28182],"type":"Point"}
+}

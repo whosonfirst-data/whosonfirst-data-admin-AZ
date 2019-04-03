@@ -1,0 +1,68 @@
+{
+  "id": 1310174947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.15472,40.40694,46.15472,40.40694",
+    "geom:latitude":40.40694,
+    "geom:longitude":46.15472,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kedalish",
+    "gn:country_code":"AZ",
+    "gn:dem":1367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":801164,
+    "gn:latitude":40.40694,
+    "gn:longitude":46.15472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kedalish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":801164,
+        "wk:page":"Kedalish"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d1d0a22b8b4fa28513a6c149eb7cd6e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310174947,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1310174947,
+    "wof:lastmodified":1537486682,
+    "wof:name":"Kedalish",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.15472000000001,
+    40.40694000000001,
+    46.15472000000001,
+    40.40694000000001
+],
+  "geometry": {"coordinates":[46.15472000000001,40.40694000000001],"type":"Point"}
+}

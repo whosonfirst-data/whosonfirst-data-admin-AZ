@@ -1,0 +1,75 @@
+{
+  "id": 1193107379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.28285,39.21545,48.28285,39.21545",
+    "geom:latitude":39.21545,
+    "geom:longitude":48.28285,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Yarli",
+    "gn:country_code":"AZ",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146960,
+    "gn:latitude":39.21545,
+    "gn:longitude":48.28285,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Yarl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yarl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Yaryly",
+        "Yarly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146960,
+        "wk:page":"Yarly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"db848f0ef90ab8408ecd9c6fc401d99e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193107379,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1193107379,
+    "wof:lastmodified":1537585132,
+    "wof:name":"Yarli",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.28285,
+    39.21545,
+    48.28285,
+    39.21545
+],
+  "geometry": {"coordinates":[48.28285,39.21545],"type":"Point"}
+}

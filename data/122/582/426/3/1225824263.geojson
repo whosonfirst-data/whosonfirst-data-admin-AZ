@@ -1,0 +1,80 @@
+{
+  "id": 1225824263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.27528,39.38083,47.27528,39.38083",
+    "geom:latitude":39.38083,
+    "geom:longitude":47.27528,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mehdili",
+    "gn:country_code":"AZ",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147533,
+    "gn:latitude":39.38083,
+    "gn:longitude":47.27528,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Mehdili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mehdili"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u056d\u0564\u056b\u056c\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0445\u0434\u0438\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mekhdili",
+        "Mekhtili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147533
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0df91d2d32110e91087e7ed4ea87fabe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225824263,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1225824263,
+    "wof:lastmodified":1537585184,
+    "wof:name":"Mehdili",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.27528,
+    39.38083,
+    47.27528,
+    39.38083
+],
+  "geometry": {"coordinates":[47.27528,39.38083],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209250855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.36656,41.35588,48.36656,41.35588",
+    "geom:latitude":41.35588,
+    "geom:longitude":48.36656,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Uzunmesha",
+    "gn:country_code":"AZ",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584758,
+    "gn:latitude":41.35588,
+    "gn:longitude":48.36656,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Uzunmesha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uzummesha",
+        "Uzunme\u015f\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584758,
+        "wk:page":"Uzunme%C5%9F%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d73fd06374419c639b9853e0f613f2dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209250855
+        }
+    ],
+    "wof:id":1209250855,
+    "wof:lastmodified":1537585320,
+    "wof:name":"Uzunmesha",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.36656,
+    41.35588,
+    48.36656,
+    41.35588
+],
+  "geometry": {"coordinates":[48.36656,41.35588],"type":"Point"}
+}

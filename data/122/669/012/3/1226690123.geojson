@@ -1,0 +1,74 @@
+{
+  "id": 1226690123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.4017,39.30219,49.4017,39.30219",
+    "geom:latitude":39.30219,
+    "geom:longitude":49.4017,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Syubkh",
+    "gn:country_code":"AZ",
+    "gn:dem":-28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147009,
+    "gn:latitude":39.30219,
+    "gn:longitude":49.4017,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Syubkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u00fcbh"
+    ],
+    "name:rus_x_preferred":[
+        "Ust\u2019ye Kury"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668409,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147009,
+        "wk:page":"S%C3%BCbh"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"27650438b2d9538bdb8043c0d78f6ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226690123,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1226690123,
+    "wof:lastmodified":1537585136,
+    "wof:name":"Syubkh",
+    "wof:parent_id":85668409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.4017,
+    39.30219,
+    49.4017,
+    39.30219
+],
+  "geometry": {"coordinates":[49.4017,39.30219],"type":"Point"}
+}

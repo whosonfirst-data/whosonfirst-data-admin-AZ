@@ -1,0 +1,74 @@
+{
+  "id": 1344093827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.86986,39.69014,46.86986,39.69014",
+    "geom:latitude":39.69014,
+    "geom:longitude":46.86986,
+    "gn:admin1_code":"61",
+    "gn:asciiname":"Tukhnakal",
+    "gn:country_code":"AZ",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147038,
+    "gn:latitude":39.69014,
+    "gn:longitude":46.86986,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Tukhnakal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Tukhnakal"
+    ],
+    "name:und_x_variant":[
+        "Tukhnakaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147038,
+        "wk:page":"Tukhnakal"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"896793b7df84ef2b48ff3cc3fa830a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1344093827,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1344093827,
+    "wof:lastmodified":1537585138,
+    "wof:name":"Tukhnakal",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.86986,
+    39.69014,
+    46.86986,
+    39.69014
+],
+  "geometry": {"coordinates":[46.86986,39.69014],"type":"Point"}
+}

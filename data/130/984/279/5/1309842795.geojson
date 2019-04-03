@@ -1,0 +1,71 @@
+{
+  "id": 1309842795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.39869,38.9791,48.39869,38.9791",
+    "geom:latitude":38.9791,
+    "geom:longitude":48.39869,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Porsova",
+    "gn:country_code":"AZ",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147318,
+    "gn:latitude":38.9791,
+    "gn:longitude":48.39869,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Porsova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Porsovin",
+        "Porsova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668497,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147318
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"eda3d655e92e21c1af2a98195e6a4556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309842795,
+            "macroregion_id":1108808625,
+            "region_id":85668497
+        }
+    ],
+    "wof:id":1309842795,
+    "wof:lastmodified":1537585163,
+    "wof:name":"Porsova",
+    "wof:parent_id":85668497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.39869,
+    38.9791,
+    48.39869,
+    38.9791
+],
+  "geometry": {"coordinates":[48.39869,38.9791],"type":"Point"}
+}

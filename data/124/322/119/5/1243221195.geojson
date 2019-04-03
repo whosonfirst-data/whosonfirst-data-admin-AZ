@@ -1,0 +1,70 @@
+{
+  "id": 1243221195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.96544,40.70114,47.96544,40.70114",
+    "geom:latitude":40.70114,
+    "geom:longitude":47.96544,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Soltankend",
+    "gn:country_code":"AZ",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584948,
+    "gn:latitude":40.70114,
+    "gn:longitude":47.96544,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Soltankend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soltank\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584948
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"19deb9ee50ee284fbd7529365f48300b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243221195,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1243221195,
+    "wof:lastmodified":1537585332,
+    "wof:name":"Soltankend",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.96544,
+    40.70114,
+    47.96544,
+    40.70114
+],
+  "geometry": {"coordinates":[47.96544,40.70114],"type":"Point"}
+}

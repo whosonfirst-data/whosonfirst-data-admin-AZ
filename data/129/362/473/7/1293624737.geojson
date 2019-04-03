@@ -1,0 +1,77 @@
+{
+  "id": 1293624737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.67746,39.2207,46.67746,39.2207",
+    "geom:latitude":39.2207,
+    "geom:longitude":46.67746,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Qiyasly",
+    "gn:country_code":"AZ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388767,
+    "gn:latitude":39.2207,
+    "gn:longitude":46.67746,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Qiyasly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qiyasly"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u044f\u0441\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Giyasly",
+        "Kiyasly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388767
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"22c3f95e6cc9826ea8d6851a6ff01edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293624737,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1293624737,
+    "wof:lastmodified":1537585292,
+    "wof:name":"Qiyasly",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.67746,
+    39.2207,
+    46.67746,
+    39.2207
+],
+  "geometry": {"coordinates":[46.67746,39.2207],"type":"Point"}
+}

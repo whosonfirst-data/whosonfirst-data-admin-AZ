@@ -1,0 +1,70 @@
+{
+  "id": 1293726261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.54627,40.75679,48.54627,40.75679",
+    "geom:latitude":40.75679,
+    "geom:longitude":48.54627,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Kaladarasy",
+    "gn:country_code":"AZ",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9887827,
+    "gn:latitude":40.75679,
+    "gn:longitude":48.54627,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Kaladarasy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qalad\u0259r\u0259si"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9887827
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a518192c49c89799d3fb1c8a9f1c2b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293726261,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1293726261,
+    "wof:lastmodified":1537585543,
+    "wof:name":"Kaladarasy",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.54627,
+    40.75679,
+    48.54627,
+    40.75679
+],
+  "geometry": {"coordinates":[48.54627,40.75679],"type":"Point"}
+}

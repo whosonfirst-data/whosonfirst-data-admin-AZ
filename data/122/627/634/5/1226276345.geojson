@@ -1,0 +1,80 @@
+{
+  "id": 1226276345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.61646,41.05487,45.61646,41.05487",
+    "geom:latitude":41.05487,
+    "geom:longitude":45.61646,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Alagel-Myulkyulyu",
+    "gn:country_code":"AZ",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587168,
+    "gn:latitude":41.05487,
+    "gn:longitude":45.61646,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Alagel-Myulkyulyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 M\u00fclk\u00fcl\u00fc"
+    ],
+    "name:rus_x_preferred":[
+        "Ashagy Myul\u2019kyulyu"
+    ],
+    "name:und_x_variant":[
+        "M\u00fclk\u00fcl\u00fc",
+        "Myulkyulyu",
+        "Ashaga-Myul\u2019kyuli",
+        "Alagel-Myulkyulyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587168,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_M%C3%BClk%C3%BCl%C3%BC"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c9d688e133c5fde2490d525d50abef44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226276345,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1226276345,
+    "wof:lastmodified":1537585486,
+    "wof:name":"Alagel-Myulkyulyu",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.61646,
+    41.05487,
+    45.61646,
+    41.05487
+],
+  "geometry": {"coordinates":[45.61646,41.05487],"type":"Point"}
+}

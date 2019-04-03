@@ -1,0 +1,78 @@
+{
+  "id": 1277069253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.44232,40.40488,48.44232,40.40488",
+    "geom:latitude":40.40488,
+    "geom:longitude":48.44232,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kyandoba",
+    "gn:country_code":"AZ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586037,
+    "gn:latitude":40.40488,
+    "gn:longitude":48.44232,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Kyandoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "K\u01ddndoba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0434\u043e\u0431\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kendoba",
+        "K\u0259ndoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586037,
+        "wk:page":"K%C9%99ndoba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"53a2646408cf56e73a300505a4299934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277069253,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1277069253,
+    "wof:lastmodified":1537585405,
+    "wof:name":"Kyandoba",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.44232,
+    40.40488,
+    48.44232,
+    40.40488
+],
+  "geometry": {"coordinates":[48.44232,40.40488],"type":"Point"}
+}

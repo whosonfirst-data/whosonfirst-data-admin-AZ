@@ -1,0 +1,76 @@
+{
+  "id": 1309678663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.19735,40.3666,48.19735,40.3666",
+    "geom:latitude":40.3666,
+    "geom:longitude":48.19735,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Shakhsevan",
+    "gn:country_code":"AZ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585069,
+    "gn:latitude":40.3666,
+    "gn:longitude":48.19735,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Shakhsevan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u015eahsev\u01ddn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0445\u0441\u0435\u0432\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "\u015eahsev\u0259n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668383,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585069
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8afa76893b3aec5820384910ce9da138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309678663,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":1309678663,
+    "wof:lastmodified":1537585341,
+    "wof:name":"Shakhsevan",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.19735,
+    40.3666,
+    48.19735,
+    40.3666
+],
+  "geometry": {"coordinates":[48.19735,40.3666],"type":"Point"}
+}

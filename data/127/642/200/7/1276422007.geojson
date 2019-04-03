@@ -1,0 +1,77 @@
+{
+  "id": 1276422007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.03445,40.46926,47.03445,40.46926",
+    "geom:latitude":40.46926,
+    "geom:longitude":47.03445,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Seyid Yusifli",
+    "gn:country_code":"AZ",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586669,
+    "gn:latitude":40.46926,
+    "gn:longitude":47.03445,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Seyid Yusifli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Canavarl\u0131"
+    ],
+    "name:aze_x_variant":[
+        "Seyid Yusifli"
+    ],
+    "name:und_x_variant":[
+        "Dzhanavarly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586669,
+        "wk:page":"Canavarl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a120d7fae67e931166fb499121fde345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276422007,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1276422007,
+    "wof:lastmodified":1537585450,
+    "wof:name":"Seyid Yusifli",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.03445,
+    40.46926,
+    47.03445,
+    40.46926
+],
+  "geometry": {"coordinates":[47.03445,40.46926],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226515495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.28736,39.22756,48.28736,39.22756",
+    "geom:latitude":39.22756,
+    "geom:longitude":48.28736,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Pornayim",
+    "gn:country_code":"AZ",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147342,
+    "gn:latitude":39.22756,
+    "gn:longitude":48.28736,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Pornay\u0131m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Pornay\u0131m"
+    ],
+    "name:und_x_variant":[
+        "Pornaim",
+        "Parnaim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147342,
+        "wk:page":"Parnaim"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"edebdc1c751c345840fffbfe0d29eb55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226515495,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1226515495,
+    "wof:lastmodified":1537585166,
+    "wof:name":"Pornayim",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.28736,
+    39.22756,
+    48.28736,
+    39.22756
+],
+  "geometry": {"coordinates":[48.28736,39.22756],"type":"Point"}
+}

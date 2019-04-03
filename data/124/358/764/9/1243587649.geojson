@@ -1,0 +1,70 @@
+{
+  "id": 1243587649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.85353,40.48968,48.85353,40.48968",
+    "geom:latitude":40.48968,
+    "geom:longitude":48.85353,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Sadafli",
+    "gn:country_code":"AZ",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560472,
+    "gn:latitude":40.48968,
+    "gn:longitude":48.85353,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Sadafli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u0259d\u0259fli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668419,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560472
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"690d7090baa6808662717b8ca71dfbf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243587649,
+            "macroregion_id":1108808611,
+            "region_id":85668419
+        }
+    ],
+    "wof:id":1243587649,
+    "wof:lastmodified":1537585532,
+    "wof:name":"Sadafli",
+    "wof:parent_id":85668419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.85353,
+    40.48968,
+    48.85353,
+    40.48968
+],
+  "geometry": {"coordinates":[48.85353,40.48968],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1327367749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.66724,39.35355,46.66724,39.35355",
+    "geom:latitude":39.35355,
+    "geom:longitude":46.66724,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Mollaburhan",
+    "gn:country_code":"AZ",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147482,
+    "gn:latitude":39.35355,
+    "gn:longitude":46.66724,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Mollab\u00fcrhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mollab\u00fcrhan"
+    ],
+    "name:hye_x_preferred":[
+        "Molaburkhan"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0578\u056c\u0561\u0562\u0578\u0582\u0580\u056d\u0561\u0576",
+        "Morajur",
+        "\u0544\u0578\u0580\u0561\u057b\u0578\u0582\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u043b\u0430\u0431\u0443\u0440\u0445\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Mollaburkhan",
+        "Molla-buran",
+        "\u041c\u043e\u043b\u043b\u0430\u0431\u0443\u0440\u0445\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668629,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147482,
+        "wk:page":"Mollab%C3%BCrhan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"80f152ecb20e55bca7c75eb199aff1bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327367749,
+            "macroregion_id":1108808607,
+            "region_id":85668629
+        }
+    ],
+    "wof:id":1327367749,
+    "wof:lastmodified":1537585178,
+    "wof:name":"Mollaburhan",
+    "wof:parent_id":85668629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.66724,
+    39.35355,
+    46.66724,
+    39.35355
+],
+  "geometry": {"coordinates":[46.66724,39.35355],"type":"Point"}
+}

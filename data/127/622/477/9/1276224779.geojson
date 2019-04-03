@@ -1,0 +1,72 @@
+{
+  "id": 1276224779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.4401,40.68881,48.4401,40.68881",
+    "geom:latitude":40.68881,
+    "geom:longitude":48.4401,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sanqalan",
+    "gn:country_code":"AZ",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585640,
+    "gn:latitude":40.68881,
+    "gn:longitude":48.4401,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Sanqalan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leninabad",
+        "Sanqalan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585640,
+        "wk:page":"Sanqalan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b20b9b52abb4ac472b42c52afdfd371b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276224779,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1276224779,
+    "wof:lastmodified":1537585378,
+    "wof:name":"Sanqalan",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.4401,
+    40.68881,
+    48.4401,
+    40.68881
+],
+  "geometry": {"coordinates":[48.4401,40.68881],"type":"Point"}
+}

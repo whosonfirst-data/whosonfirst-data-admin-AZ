@@ -1,0 +1,102 @@
+{
+  "id": 421172193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.46874,40.81924,49.46874,40.81924",
+    "geom:latitude":40.81924,
+    "geom:longitude":49.46874,
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "\u015euraabad"
+    ],
+    "name:dut_x_preferred":[
+        "\u015euraabad"
+    ],
+    "name:eng_x_preferred":[
+        "\u015euraabad"
+    ],
+    "name:may_x_preferred":[
+        "\u015euraabad"
+    ],
+    "name:msa_x_preferred":[
+        "\u015euraabad"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u0440\u0430\u0430\u0431\u0430\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Soviet Abad"
+    ],
+    "qs:gn_country":"AZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":584991,
+    "qs:gn_pop":1945,
+    "qs:name":"\u015euraabad",
+    "qs:name_adm0":"Azerbaijan",
+    "qs:name_adm1":"Xizi",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1301191,
+    "qs:woe_adm0":23424741,
+    "qs:woe_id":1951205,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":103,
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668485,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584991,
+        "gp:id":1951205,
+        "qs:id":1301191,
+        "wd:id":"Q12712942"
+    },
+    "wof:country":"AZ",
+    "wof:created":1459008926,
+    "wof:geomhash":"96c18c68751294acef67fcf65461d016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":421172193,
+            "macroregion_id":1108808621,
+            "region_id":85668485
+        }
+    ],
+    "wof:id":421172193,
+    "wof:lastmodified":1527716300,
+    "wof:name":"\u015euraabad",
+    "wof:parent_id":85668485,
+    "wof:placetype":"locality",
+    "wof:population":1945,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.46874,
+    40.81924,
+    49.46874,
+    40.81924
+],
+  "geometry": {"coordinates":[49.46874,40.81924],"type":"Point"}
+}

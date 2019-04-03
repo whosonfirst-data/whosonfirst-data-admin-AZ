@@ -1,0 +1,68 @@
+{
+  "id": 1327170635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.48139,39.68861,46.48139,39.68861",
+    "geom:latitude":39.68861,
+    "geom:longitude":46.48139,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Kizilov",
+    "gn:country_code":"AZ",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":389329,
+    "gn:latitude":39.68861,
+    "gn:longitude":46.48139,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"Kizilov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389329,
+        "wk:page":"Kizilov"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"44ff53db647d5e91869240af3facb203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327170635,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1327170635,
+    "wof:lastmodified":1537486575,
+    "wof:name":"Kizilov",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.48139000000001,
+    39.68861,
+    46.48139000000001,
+    39.68861
+],
+  "geometry": {"coordinates":[46.48139000000001,39.68861],"type":"Point"}
+}

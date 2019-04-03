@@ -1,0 +1,68 @@
+{
+  "id": 1310684005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.30398,39.19664,48.30398,39.19664",
+    "geom:latitude":39.19664,
+    "geom:longitude":48.30398,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Lallar",
+    "gn:country_code":"AZ",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147624,
+    "gn:latitude":39.19664,
+    "gn:longitude":48.30398,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Lallar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147624,
+        "wk:page":"Lallar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f290c66b8d236e05b92d11b41a1b4b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310684005,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1310684005,
+    "wof:lastmodified":1537486532,
+    "wof:name":"Lallar",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.30398,
+    39.19664,
+    48.30398,
+    39.19664
+],
+  "geometry": {"coordinates":[48.30398,39.19664],"type":"Point"}
+}

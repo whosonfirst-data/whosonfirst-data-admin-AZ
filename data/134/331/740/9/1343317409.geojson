@@ -1,0 +1,74 @@
+{
+  "id": 1343317409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.34882,40.69472,48.34882,40.69472",
+    "geom:latitude":40.69472,
+    "geom:longitude":48.34882,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Pirabulqasim",
+    "gn:country_code":"AZ",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585273,
+    "gn:latitude":40.69472,
+    "gn:longitude":48.34882,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Pir\u0259b\u00fclqas\u0131m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pirabul\u2019kasym",
+        "Pirabil\u2019kasum",
+        "Pirabul\u2019kasim",
+        "Pir\u0259b\u00fclqas\u0131m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585273,
+        "wk:page":"Pir%C9%99b%C3%BClqas%C4%B1m"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d3653bd44cf20ca3580eecff414eb1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343317409,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1343317409,
+    "wof:lastmodified":1537585354,
+    "wof:name":"Pirabulqasim",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.34882,
+    40.69472,
+    48.34882,
+    40.69472
+],
+  "geometry": {"coordinates":[48.34882,40.69472],"type":"Point"}
+}

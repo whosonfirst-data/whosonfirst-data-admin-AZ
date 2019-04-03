@@ -1,0 +1,71 @@
+{
+  "id": 1310275243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.53346,39.26087,48.53346,39.26087",
+    "geom:latitude":39.26087,
+    "geom:longitude":48.53346,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sabirabad",
+    "gn:country_code":"AZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147285,
+    "gn:latitude":39.26087,
+    "gn:longitude":48.53346,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Sabirabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sabirabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147285,
+        "wk:page":"Sabirabad%2C_Jalilabad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"06043cd3403b0b7394e2629bf9554fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310275243,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1310275243,
+    "wof:lastmodified":1537585161,
+    "wof:name":"Sabirabad",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.53346,
+    39.26087,
+    48.53346,
+    39.26087
+],
+  "geometry": {"coordinates":[48.53346,39.26087],"type":"Point"}
+}

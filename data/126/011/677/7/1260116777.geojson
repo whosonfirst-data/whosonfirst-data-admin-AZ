@@ -1,0 +1,76 @@
+{
+  "id": 1260116777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.17291,38.85093,48.17291,38.85093",
+    "geom:latitude":38.85093,
+    "geom:longitude":48.17291,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Peshtasar",
+    "gn:country_code":"AZ",
+    "gn:dem":1367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147337,
+    "gn:latitude":38.85093,
+    "gn:longitude":48.17291,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Peshtasar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Pe\u015ft\u0259s\u0259r"
+    ],
+    "name:aze_x_variant":[
+        "Pe\u015ftasar"
+    ],
+    "name:und_x_variant":[
+        "Pe\u015ft\u0259sar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668497,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147337
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d710b3bd209c60553b186b4bb1ae85d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260116777,
+            "macroregion_id":1108808625,
+            "region_id":85668497
+        }
+    ],
+    "wof:id":1260116777,
+    "wof:lastmodified":1537585165,
+    "wof:name":"Peshtasar",
+    "wof:parent_id":85668497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.17291,
+    38.85093,
+    48.17291,
+    38.85093
+],
+  "geometry": {"coordinates":[48.17291,38.85093],"type":"Point"}
+}

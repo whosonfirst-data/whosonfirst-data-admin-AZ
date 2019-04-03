@@ -1,0 +1,73 @@
+{
+  "id": 1327276501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.26544,41.08865,45.26544,41.08865",
+    "geom:latitude":41.08865,
+    "geom:longitude":45.26544,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Demirchilyar",
+    "gn:country_code":"AZ",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586748,
+    "gn:latitude":41.08865,
+    "gn:longitude":45.26544,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Demirchilyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Demirchilar",
+        "Damirchilyar",
+        "Damirchilar",
+        "D\u0259mir\u00e7il\u0259r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668229,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586748
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"93f8bc496a60739c5fbd258a330c6020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327276501,
+            "macroregion_id":1108808609,
+            "region_id":85668229
+        }
+    ],
+    "wof:id":1327276501,
+    "wof:lastmodified":1537585455,
+    "wof:name":"Demirchilyar",
+    "wof:parent_id":85668229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.26544000000001,
+    41.08865,
+    45.26544000000001,
+    41.08865
+],
+  "geometry": {"coordinates":[45.26544000000001,41.08865],"type":"Point"}
+}

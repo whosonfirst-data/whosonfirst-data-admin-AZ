@@ -1,0 +1,74 @@
+{
+  "id": 1243032411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.75475,40.70773,46.75475,40.70773",
+    "geom:latitude":40.70773,
+    "geom:longitude":46.75475,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kyrykly",
+    "gn:country_code":"AZ",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585708,
+    "gn:latitude":40.70773,
+    "gn:longitude":46.75475,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Kyrykly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyrykhly",
+        "Kyrykly",
+        "Q\u0131r\u0131ql\u0131",
+        "Khyrykly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585708,
+        "wk:page":"Q%C4%B1r%C4%B1ql%C4%B1%2C_Goranboy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3d06d98974dcd7bc488007d047948069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243032411,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1243032411,
+    "wof:lastmodified":1537585382,
+    "wof:name":"Kyrykly",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.75475,
+    40.70773,
+    46.75475,
+    40.70773
+],
+  "geometry": {"coordinates":[46.75475,40.70773],"type":"Point"}
+}

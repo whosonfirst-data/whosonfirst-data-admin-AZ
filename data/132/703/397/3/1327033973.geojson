@@ -1,0 +1,68 @@
+{
+  "id": 1327033973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.21028,40.28556,49.21028,40.28556",
+    "geom:latitude":40.28556,
+    "geom:longitude":49.21028,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ramazan",
+    "gn:country_code":"AZ",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800544,
+    "gn:latitude":40.28556,
+    "gn:longitude":49.21028,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ramazan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668251,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800544,
+        "wk:page":"Ramazan%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d44b89832e86f196f786cc48fe65f87d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327033973,
+            "macroregion_id":1108808621,
+            "region_id":85668251
+        }
+    ],
+    "wof:id":1327033973,
+    "wof:lastmodified":1537486678,
+    "wof:name":"Ramazan",
+    "wof:parent_id":85668251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.21028,
+    40.28556,
+    49.21028,
+    40.28556
+],
+  "geometry": {"coordinates":[49.21028,40.28556],"type":"Point"}
+}

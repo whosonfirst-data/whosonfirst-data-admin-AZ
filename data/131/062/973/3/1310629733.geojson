@@ -1,0 +1,71 @@
+{
+  "id": 1310629733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.66394,40.77442,45.66394,40.77442",
+    "geom:latitude":40.77442,
+    "geom:longitude":45.66394,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Akhmedabad",
+    "gn:country_code":"AZ",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587350,
+    "gn:latitude":40.77442,
+    "gn:longitude":45.66394,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Akhmedabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u018fhm\u0259dabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587350,
+        "wk:page":"%C6%8Fhm%C9%99dabad%2C_Tovuz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5f79083085efee43837beb442c610d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310629733,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1310629733,
+    "wof:lastmodified":1537585499,
+    "wof:name":"Akhmedabad",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.66394,
+    40.77442,
+    45.66394,
+    40.77442
+],
+  "geometry": {"coordinates":[45.66394,40.77442],"type":"Point"}
+}

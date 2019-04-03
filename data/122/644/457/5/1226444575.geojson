@@ -1,0 +1,75 @@
+{
+  "id": 1226444575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.11566,40.12518,47.11566,40.12518",
+    "geom:latitude":40.12518,
+    "geom:longitude":47.11566,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dadasli",
+    "gn:country_code":"AZ",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800917,
+    "gn:latitude":40.12518,
+    "gn:longitude":47.11566,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Dada\u015fl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Dada\u015fl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Imeni Revolyutsii",
+        "Dadashly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800917,
+        "wk:page":"Dada%C5%9Fl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d5418a5e5669837035213220cf55e463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226444575,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1226444575,
+    "wof:lastmodified":1537585506,
+    "wof:name":"Dadasli",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.11566,
+    40.12518,
+    47.11566,
+    40.12518
+],
+  "geometry": {"coordinates":[47.11566,40.12518],"type":"Point"}
+}

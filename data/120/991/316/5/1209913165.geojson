@@ -1,0 +1,71 @@
+{
+  "id": 1209913165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.45209,41.1237,45.45209,41.1237",
+    "geom:latitude":41.1237,
+    "geom:longitude":45.45209,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Qacaq Karam",
+    "gn:country_code":"AZ",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8610672,
+    "gn:latitude":41.1237,
+    "gn:longitude":45.45209,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Qa\u00e7aq K\u0259r\u0259m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qa\u00e7aq K\u0259r\u0259m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668195,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8610672,
+        "wk:page":"Qa%C3%A7aq_K%C9%99r%C9%99m"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"94a723a361f5bd45e5ff3355127c593e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209913165,
+            "macroregion_id":1108808609,
+            "region_id":85668195
+        }
+    ],
+    "wof:id":1209913165,
+    "wof:lastmodified":1537585534,
+    "wof:name":"Qacaq Karam",
+    "wof:parent_id":85668195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.45209000000001,
+    41.1237,
+    45.45209000000001,
+    41.1237
+],
+  "geometry": {"coordinates":[45.45209000000001,41.1237],"type":"Point"}
+}

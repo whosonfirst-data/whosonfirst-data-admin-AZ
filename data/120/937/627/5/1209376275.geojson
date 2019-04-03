@@ -1,0 +1,79 @@
+{
+  "id": 1209376275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.29041,39.85464,46.29041,39.85464",
+    "geom:latitude":39.85464,
+    "geom:longitude":46.29041,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Imanlar",
+    "gn:country_code":"AZ",
+    "gn:dem":1721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147992,
+    "gn:latitude":39.85464,
+    "gn:longitude":46.29041,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"\u0130manlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130manlar"
+    ],
+    "name:hye_x_preferred":[
+        "Imanlar"
+    ],
+    "name:hye_x_variant":[
+        "\u053b\u0574\u0561\u0576\u056c\u0561\u0580",
+        "Himnashen",
+        "\u0540\u056b\u0574\u0576\u0561\u0577\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0430\u043d\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Imanushaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147992,
+        "wk:page":"%C4%B0manlar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8fca98bfc804d2622871af0e41eeb304",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209376275
+        }
+    ],
+    "wof:id":1209376275,
+    "wof:lastmodified":1537585229,
+    "wof:name":"Imanlar",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.29041,
+    39.85464,
+    46.29041,
+    39.85464
+],
+  "geometry": {"coordinates":[46.29041,39.85464],"type":"Point"}
+}

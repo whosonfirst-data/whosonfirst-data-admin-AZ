@@ -1,0 +1,89 @@
+{
+  "id": 1226572511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.93138,39.47384,46.93138,39.47384",
+    "geom:latitude":39.47384,
+    "geom:longitude":46.93138,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Mioulkoudara",
+    "gn:country_code":"AZ",
+    "gn:dem":1227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147444,
+    "gn:latitude":39.47384,
+    "gn:longitude":46.93138,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Mioulkoudara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u00fclk\u00fcd\u0259r\u0259"
+    ],
+    "name:hye_x_preferred":[
+        "Mulk\u2019idara"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0578\u0582\u056c\u0584\u056b\u0564\u0561\u0580\u0561",
+        "Jraberd",
+        "\u054b\u0580\u0561\u0562\u0565\u0580\u0564"
+    ],
+    "name:rus_x_preferred":[
+        "Myul\u2019kyudere"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u044e\u043b\u044c\u043a\u044e\u0434\u0435\u0440\u0435"
+    ],
+    "name:und_x_variant":[
+        "Myul\u2019kudara",
+        "Hayrenater"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147444,
+        "wk:page":"M%C3%BClk%C3%BCd%C9%99r%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a7190cfade9b88a96d8595ad0f15d420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226572511,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1226572511,
+    "wof:lastmodified":1537585173,
+    "wof:name":"Mioulkoudara",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.93138,
+    39.47384,
+    46.93138,
+    39.47384
+],
+  "geometry": {"coordinates":[46.93138,39.47384],"type":"Point"}
+}

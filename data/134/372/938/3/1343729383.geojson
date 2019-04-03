@@ -1,0 +1,70 @@
+{
+  "id": 1343729383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.79044,40.18112,46.79044,40.18112",
+    "geom:latitude":40.18112,
+    "geom:longitude":46.79044,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Ortakand",
+    "gn:country_code":"AZ",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470544,
+    "gn:latitude":40.18112,
+    "gn:longitude":46.79044,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Ortak\u0259nd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ortak\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470544
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2d81be1f6153223d1c4fdf0b2b69b5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343729383,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1343729383,
+    "wof:lastmodified":1537585525,
+    "wof:name":"Ortakand",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.79044,
+    40.18112,
+    46.79044,
+    40.18112
+],
+  "geometry": {"coordinates":[46.79044,40.18112],"type":"Point"}
+}

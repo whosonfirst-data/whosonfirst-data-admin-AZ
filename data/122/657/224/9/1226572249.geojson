@@ -1,0 +1,73 @@
+{
+  "id": 1226572249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.43643,39.18541,46.43643,39.18541",
+    "geom:latitude":39.18541,
+    "geom:longitude":46.43643,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Qazanci",
+    "gn:country_code":"AZ",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147865,
+    "gn:latitude":39.18541,
+    "gn:longitude":46.43643,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Qazan\u00e7\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qazan\u00e7\u0131"
+    ],
+    "name:und_x_variant":[
+        "Kazanchy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147865
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"826b51f52b4477a6107561f876df4bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226572249,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1226572249,
+    "wof:lastmodified":1537585216,
+    "wof:name":"Qazanci",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.43643,
+    39.18541,
+    46.43643,
+    39.18541
+],
+  "geometry": {"coordinates":[46.43643,39.18541],"type":"Point"}
+}

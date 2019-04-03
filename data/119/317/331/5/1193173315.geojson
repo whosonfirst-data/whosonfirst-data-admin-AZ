@@ -1,0 +1,93 @@
+{
+  "id": 1193173315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.84377,40.323,46.84377,40.323",
+    "geom:latitude":40.323,
+    "geom:longitude":46.84377,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Margushevan",
+    "gn:country_code":"AZ",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586364,
+    "gn:latitude":40.323,
+    "gn:longitude":46.84377,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Margushevan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "H\u0259s\u0259nqaya"
+    ],
+    "name:eng_x_preferred":[
+        "H\u01dds\u01ddnqaya"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0575\u056f\u0561\u057b\u0578\u0582\u0580"
+    ],
+    "name:hye_x_variant":[
+        "Haykajur",
+        "Nor Haykajur",
+        "\u0546\u0578\u0580 \u0540\u0561\u0575\u056f\u0561\u057b\u0578\u0582\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u0430\u0432\u0430\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0430\u0441\u0430\u043d\u043a\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Gasankaya",
+        "Leninavan",
+        "Haykajur",
+        "Margushevan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586364
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c83fa99ba326e3b2b14504d1ec1e2010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193173315,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1193173315,
+    "wof:lastmodified":1537585428,
+    "wof:name":"Margushevan",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.84377,
+    40.323,
+    46.84377,
+    40.323
+],
+  "geometry": {"coordinates":[46.84377,40.323],"type":"Point"}
+}

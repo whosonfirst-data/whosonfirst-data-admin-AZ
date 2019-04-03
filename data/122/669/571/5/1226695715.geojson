@@ -1,0 +1,73 @@
+{
+  "id": 1226695715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.6846,38.95242,48.6846,38.95242",
+    "geom:latitude":38.95242,
+    "geom:longitude":48.6846,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Bedelan",
+    "gn:country_code":"AZ",
+    "gn:dem":-12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148363,
+    "gn:latitude":38.95242,
+    "gn:longitude":48.6846,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Bedelan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bedalan",
+        "Bedelan",
+        "B\u0259d\u0259lan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668397,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148363,
+        "wk:page":"B%C9%99d%C9%99lan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"aafbdf1fed4550d24423c166725f6e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226695715,
+            "macroregion_id":1108808625,
+            "region_id":85668397
+        }
+    ],
+    "wof:id":1226695715,
+    "wof:lastmodified":1537585265,
+    "wof:name":"Bedelan",
+    "wof:parent_id":85668397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.6846,
+    38.95242,
+    48.6846,
+    38.95242
+],
+  "geometry": {"coordinates":[48.6846,38.95242],"type":"Point"}
+}

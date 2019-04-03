@@ -1,0 +1,70 @@
+{
+  "id": 1310176849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.937,41.23763,48.937,41.23763",
+    "geom:latitude":41.23763,
+    "geom:longitude":48.937,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tazakand",
+    "gn:country_code":"AZ",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9887867,
+    "gn:latitude":41.23763,
+    "gn:longitude":48.937,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"T\u0259z\u0259k\u0259nd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "T\u0259z\u0259k\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9887867
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c3739072ef4cfe2e6205985108095c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310176849,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1310176849,
+    "wof:lastmodified":1537585543,
+    "wof:name":"Tazakand",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.937,
+    41.23763,
+    48.937,
+    41.23763
+],
+  "geometry": {"coordinates":[48.937,41.23763],"type":"Point"}
+}

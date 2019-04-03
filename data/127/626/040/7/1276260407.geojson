@@ -1,0 +1,73 @@
+{
+  "id": 1276260407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.58974,38.64826,48.58974,38.64826",
+    "geom:latitude":38.64826,
+    "geom:longitude":48.58974,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Asagi Bradi",
+    "gn:country_code":"AZ",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148481,
+    "gn:latitude":38.64826,
+    "gn:longitude":48.58974,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"A\u015fa\u011f\u0131 Bradi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ashagy-Burady",
+        "Borady",
+        "A\u015fa\u011f\u0131 Bradi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668403,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148481,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1_Bradi"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2a9a689776078946857fc970e3dc3226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276260407,
+            "macroregion_id":1108808625,
+            "region_id":85668403
+        }
+    ],
+    "wof:id":1276260407,
+    "wof:lastmodified":1537585275,
+    "wof:name":"Asagi Bradi",
+    "wof:parent_id":85668403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.58974,
+    38.64826,
+    48.58974,
+    38.64826
+],
+  "geometry": {"coordinates":[48.58974,38.64826],"type":"Point"}
+}

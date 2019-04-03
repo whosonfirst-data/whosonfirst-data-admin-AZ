@@ -1,0 +1,71 @@
+{
+  "id": 1276421941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.13572,40.31244,47.13572,40.31244",
+    "geom:latitude":40.31244,
+    "geom:longitude":47.13572,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Daymadagyldy",
+    "gn:country_code":"AZ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586758,
+    "gn:latitude":40.31244,
+    "gn:longitude":47.13572,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Daymadagyldy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u0259ym\u0259da\u011f\u0131ld\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586758,
+        "wk:page":"D%C9%99ym%C9%99da%C4%9F%C4%B1ld%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bde574fc57686ab5e8c81119d91df198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276421941,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1276421941,
+    "wof:lastmodified":1537585456,
+    "wof:name":"Daymadagyldy",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.13572,
+    40.31244,
+    47.13572,
+    40.31244
+],
+  "geometry": {"coordinates":[47.13572,40.31244],"type":"Point"}
+}

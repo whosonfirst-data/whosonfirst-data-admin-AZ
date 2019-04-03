@@ -1,0 +1,79 @@
+{
+  "id": 1327065809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.36892,39.93214,48.36892,39.93214",
+    "geom:latitude":39.93214,
+    "geom:longitude":48.36892,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Saatli",
+    "gn:country_code":"AZ",
+    "gn:dem":-7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":147288,
+    "gn:latitude":39.93214,
+    "gn:longitude":48.36892,
+    "gn:modification_date":"2013-08-02",
+    "gn:name":"Saatl\u0131",
+    "gn:population":87000,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0430\u0442\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Saatly",
+        "Saotly",
+        "Saatl\u0131"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668433,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147288,
+        "wk:page":"Saatly_District"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ee04adce05b0213864fd06bae7ca9a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327065809,
+            "macroregion_id":1108808627,
+            "region_id":85668433
+        }
+    ],
+    "wof:id":1327065809,
+    "wof:lastmodified":1537585161,
+    "wof:name":"Saatli",
+    "wof:parent_id":85668433,
+    "wof:placetype":"locality",
+    "wof:population":87000,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.36892,
+    39.93214,
+    48.36892,
+    39.93214
+],
+  "geometry": {"coordinates":[48.36892,39.93214],"type":"Point"}
+}

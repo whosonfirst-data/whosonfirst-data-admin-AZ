@@ -1,0 +1,86 @@
+{
+  "id": 1259617907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.94827,40.43458,46.94827,40.43458",
+    "geom:latitude":40.43458,
+    "geom:longitude":46.94827,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Qaradagli",
+    "gn:country_code":"AZ",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586215,
+    "gn:latitude":40.43458,
+    "gn:longitude":46.94827,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Qarada\u011fl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qarada\u011fl\u0131"
+    ],
+    "name:eng_x_preferred":[
+        "Qarada\u011fl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Gharadaghly"
+    ],
+    "name:hye_x_variant":[
+        "\u0542\u0561\u0580\u0561\u0564\u0561\u0572\u056c\u0568"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0434\u0430\u0433\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Karadagly",
+        "Gharadaghli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586215
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d53c0b4deb2d412e014b4f2c5e11ad46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259617907,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1259617907,
+    "wof:lastmodified":1537585418,
+    "wof:name":"Qaradagli",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.94827,
+    40.43458,
+    46.94827,
+    40.43458
+],
+  "geometry": {"coordinates":[46.94827,40.43458],"type":"Point"}
+}

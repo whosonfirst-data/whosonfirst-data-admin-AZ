@@ -1,0 +1,86 @@
+{
+  "id": 1293079953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.89869,39.41812,46.89869,39.41812",
+    "geom:latitude":39.41812,
+    "geom:longitude":46.89869,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Asagi Sirik",
+    "gn:country_code":"AZ",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147138,
+    "gn:latitude":39.41812,
+    "gn:longitude":46.89869,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"A\u015fa\u011f\u0131 Sirik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sirik"
+    ],
+    "name:aze_x_variant":[
+        "A\u015fa\u011f\u0131 Sirik",
+        "\u018fsg\u0259rxanl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0580\u056b\u056f"
+    ],
+    "name:hye_x_variant":[
+        "Sring",
+        "\u054d\u0580\u056b\u0576\u0563",
+        "Haykavan",
+        "\u0540\u0561\u0575\u056f\u0561\u057e\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0440\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147138
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b43461f17b6783b5a7b66d48bec5e884",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293079953,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1293079953,
+    "wof:lastmodified":1537585147,
+    "wof:name":"Asagi Sirik",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.89869,
+    39.41812,
+    46.89869,
+    39.41812
+],
+  "geometry": {"coordinates":[46.89869,39.41812],"type":"Point"}
+}

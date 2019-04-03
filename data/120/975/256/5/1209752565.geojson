@@ -1,0 +1,79 @@
+{
+  "id": 1209752565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.59782,41.8377,48.59782,41.8377",
+    "geom:latitude":41.8377,
+    "geom:longitude":48.59782,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Samurcay",
+    "gn:country_code":"AZ",
+    "gn:dem":-11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584711,
+    "gn:latitude":41.8377,
+    "gn:longitude":48.59782,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Samur\u00e7ay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Samur\u00e7ay"
+    ],
+    "name:und_x_variant":[
+        "Yalama Vtoraya",
+        "Ikindzhi-Yalama",
+        "Yalama Nomer Vtoroy",
+        "Rybnyy Promysel Yalama Nomer Vtoroy",
+        "\u0130kinci Yalama",
+        "Samurchay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584711,
+        "wk:page":"%C4%B0kinci_Yalama"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c36266183a7bcaa1f7963c1cc087ce38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209752565,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1209752565,
+    "wof:lastmodified":1537585316,
+    "wof:name":"Samurcay",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.59782,
+    41.8377,
+    48.59782,
+    41.8377
+],
+  "geometry": {"coordinates":[48.59782,41.8377],"type":"Point"}
+}

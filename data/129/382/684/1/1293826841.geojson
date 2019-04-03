@@ -1,0 +1,80 @@
+{
+  "id": 1293826841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.80458,40.93205,47.80458,40.93205",
+    "geom:latitude":40.93205,
+    "geom:longitude":47.80458,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Zaragan",
+    "gn:country_code":"AZ",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584594,
+    "gn:latitude":40.93205,
+    "gn:longitude":47.80458,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Zara\u011fan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zara\u011fan"
+    ],
+    "name:eng_x_preferred":[
+        "Zaraqan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u0430\u0433\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Zaraqan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584594,
+        "wk:page":"Zara%C4%9Fan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e4eb4088c7424052950e96eca5fbaa82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293826841,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1293826841,
+    "wof:lastmodified":1537585308,
+    "wof:name":"Zaragan",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.80458,
+    40.93205,
+    47.80458,
+    40.93205
+],
+  "geometry": {"coordinates":[47.80458,40.93205],"type":"Point"}
+}

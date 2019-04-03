@@ -1,0 +1,72 @@
+{
+  "id": 1225978833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.95805,40.78063,45.95805,40.78063",
+    "geom:latitude":40.78063,
+    "geom:longitude":45.95805,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Qasimalilar",
+    "gn:country_code":"AZ",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824017,
+    "gn:latitude":40.78063,
+    "gn:longitude":45.95805,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Qas\u0131mal\u0131lar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qas\u0131mal\u0131lar",
+        "Kasymalylar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668233,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824017,
+        "wk:page":"Qas%C4%B1mal%C4%B1lar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"26ab107d1f8cfb1fa27d3c05f18b3746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225978833,
+            "macroregion_id":1108808609,
+            "region_id":85668233
+        }
+    ],
+    "wof:id":1225978833,
+    "wof:lastmodified":1537585508,
+    "wof:name":"Qasimalilar",
+    "wof:parent_id":85668233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.95805,
+    40.78063,
+    45.95805,
+    40.78063
+],
+  "geometry": {"coordinates":[45.95805,40.78063],"type":"Point"}
+}

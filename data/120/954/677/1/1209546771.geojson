@@ -1,0 +1,66 @@
+{
+  "id": 1209546771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5097,41.701,48.5097,41.701",
+    "geom:latitude":41.701,
+    "geom:longitude":48.5097,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Salahoba",
+    "gn:country_code":"AZ",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585165,
+    "gn:latitude":41.701,
+    "gn:longitude":48.5097,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Salahoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salakhoba",
+        "Salahoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585165,
+        "wk:page":"Salahoba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"04c8d732ec34def6264b6d3a66e4c241",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209546771
+        }
+    ],
+    "wof:id":1209546771,
+    "wof:lastmodified":1537585346,
+    "wof:name":"Salahoba",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5097,
+    41.701,
+    48.5097,
+    41.701
+],
+  "geometry": {"coordinates":[48.5097,41.701],"type":"Point"}
+}

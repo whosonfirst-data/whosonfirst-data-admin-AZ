@@ -1,0 +1,74 @@
+{
+  "id": 1192972669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.14865,40.37494,48.14865,40.37494",
+    "geom:latitude":40.37494,
+    "geom:longitude":48.14865,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Qaraqocali",
+    "gn:country_code":"AZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586188,
+    "gn:latitude":40.37494,
+    "gn:longitude":48.14865,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Qaraqocal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaraqocal\u0131"
+    ],
+    "name:und_x_variant":[
+        "Karagadzhaly",
+        "Karagodzhaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668383,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586188
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3ab4daaf81a4d44fb67e6bf686707c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1192972669,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":1192972669,
+    "wof:lastmodified":1537585415,
+    "wof:name":"Qaraqocali",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.14865,
+    40.37494,
+    48.14865,
+    40.37494
+],
+  "geometry": {"coordinates":[48.14865,40.37494],"type":"Point"}
+}

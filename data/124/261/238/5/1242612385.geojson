@@ -1,0 +1,74 @@
+{
+  "id": 1242612385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.55612,38.82361,48.55612,38.82361",
+    "geom:latitude":38.82361,
+    "geom:longitude":48.55612,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Turkancil",
+    "gn:country_code":"AZ",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147032,
+    "gn:latitude":38.82361,
+    "gn:longitude":48.55612,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"T\u00fcrk\u0259ncil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "T\u00fcrk\u0259ncil"
+    ],
+    "name:rus_x_preferred":[
+        "Turkyandzhil\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147032,
+        "wk:page":"T%C3%BCrk%C9%99ncil"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0b60b09ea4abebaa4e1190bbc1cfbf91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242612385,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1242612385,
+    "wof:lastmodified":1537585138,
+    "wof:name":"Turkancil",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.55612,
+    38.82361,
+    48.55612,
+    38.82361
+],
+  "geometry": {"coordinates":[48.55612,38.82361],"type":"Point"}
+}

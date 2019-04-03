@@ -1,0 +1,93 @@
+{
+  "id": 1343273587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.68574,40.06268,46.68574,40.06268",
+    "geom:latitude":40.06268,
+    "geom:longitude":46.68574,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Syrkhavend",
+    "gn:country_code":"AZ",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584940,
+    "gn:latitude":40.06268,
+    "gn:longitude":46.68574,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Syrkhavend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u0131rxav\u0259nd"
+    ],
+    "name:aze_x_variant":[
+        "Srxav\u0259nd"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0580\u056d\u0561\u057e\u0565\u0576\u0564"
+    ],
+    "name:hye_x_variant":[
+        "Srkhavend",
+        "Srkhavand",
+        "\u054d\u0580\u056d\u0561\u057e\u0561\u0576\u0564",
+        "Nor Ghazanch\u2019i",
+        "\u0546\u0578\u0580 \u0542\u0561\u0566\u0561\u0576\u0579\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044b\u0440\u0445\u0430\u0432\u0435\u043d\u0434"
+    ],
+    "name:und_x_variant":[
+        "Srkhavend",
+        "Sarkhavend",
+        "Syrkhavend",
+        "Srkhanvend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584940,
+        "wk:page":"S%C4%B1rxav%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bc32de162a3022cca5dadccf92bc4691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343273587,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1343273587,
+    "wof:lastmodified":1537585332,
+    "wof:name":"Syrkhavend",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.68574,
+    40.06268,
+    46.68574,
+    40.06268
+],
+  "geometry": {"coordinates":[46.68574,40.06268],"type":"Point"}
+}

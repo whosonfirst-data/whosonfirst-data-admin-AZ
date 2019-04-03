@@ -1,0 +1,89 @@
+{
+  "id": 1327168751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.14103,39.82895,47.14103,39.82895",
+    "geom:latitude":39.82895,
+    "geom:longitude":47.14103,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Muganli",
+    "gn:country_code":"AZ",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147462,
+    "gn:latitude":39.82895,
+    "gn:longitude":47.14103,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Mu\u011fanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mu\u011fanl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Mughanly"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0578\u0582\u0572\u0561\u0576\u056c\u0568",
+        "Khonashen",
+        "\u053d\u0578\u0576\u0561\u0577\u0565\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0433\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Mughanli",
+        "Mugallu",
+        "Muganly",
+        "Moughanli",
+        "\u041c\u0443\u0433\u0430\u043d\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147462,
+        "wk:page":"Mu%C4%9Fanl%C4%B1%2C_Khojavend"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c399befe90be01c29d2c2bba00f10dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327168751,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1327168751,
+    "wof:lastmodified":1537585176,
+    "wof:name":"Muganli",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.14103,
+    39.82895,
+    47.14103,
+    39.82895
+],
+  "geometry": {"coordinates":[47.14103,39.82895],"type":"Point"}
+}

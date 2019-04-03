@@ -1,0 +1,68 @@
+{
+  "id": 1293397513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.82056,40.10111,46.82056,40.10111",
+    "geom:latitude":40.10111,
+    "geom:longitude":46.82056,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Adigozalbegly",
+    "gn:country_code":"AZ",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":800941,
+    "gn:latitude":40.10111,
+    "gn:longitude":46.82056,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Adigozalbegly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668257,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800941,
+        "wk:page":"Adigozalbegly"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ca9f7e81d7841ae54bc35513325483d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293397513,
+            "macroregion_id":1108808615,
+            "region_id":85668257
+        }
+    ],
+    "wof:id":1293397513,
+    "wof:lastmodified":1537486681,
+    "wof:name":"Adigozalbegly",
+    "wof:parent_id":85668257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.82056,
+    40.10111,
+    46.82056,
+    40.10111
+],
+  "geometry": {"coordinates":[46.82056,40.10111],"type":"Point"}
+}

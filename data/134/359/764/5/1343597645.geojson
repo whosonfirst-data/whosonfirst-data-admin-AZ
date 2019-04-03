@@ -1,0 +1,70 @@
+{
+  "id": 1343597645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.62661,41.47998,48.62661,41.47998",
+    "geom:latitude":41.47998,
+    "geom:longitude":48.62661,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Gyandzhlyar",
+    "gn:country_code":"AZ",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622014,
+    "gn:latitude":41.47998,
+    "gn:longitude":48.62661,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Gyandzhlyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u0259ncl\u0259r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622014
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"523ee97844e5d022ae4b5454be27b16f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343597645,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1343597645,
+    "wof:lastmodified":1537585535,
+    "wof:name":"Gyandzhlyar",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.62661,
+    41.47998,
+    48.62661,
+    41.47998
+],
+  "geometry": {"coordinates":[48.62661,41.47998],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1260236665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.04747,40.9165,48.04747,40.9165",
+    "geom:latitude":40.9165,
+    "geom:longitude":48.04747,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Sumagalli",
+    "gn:country_code":"AZ",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584927,
+    "gn:latitude":40.9165,
+    "gn:longitude":48.04747,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Suma\u011fall\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Suma\u011fall\u0131"
+    ],
+    "name:und_x_variant":[
+        "Sumagally",
+        "Sumakhly",
+        "Sumaqall\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584927,
+        "wk:page":"Suma%C4%9Fall%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"45c9b19351fab2b3aa8ef800494f4486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260236665,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1260236665,
+    "wof:lastmodified":1537585331,
+    "wof:name":"Sumagalli",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.04747,
+    40.9165,
+    48.04747,
+    40.9165
+],
+  "geometry": {"coordinates":[48.04747,40.9165],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209448705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.87721,40.77998,45.87721,40.77998",
+    "geom:latitude":40.77998,
+    "geom:longitude":45.87721,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Hacialilar",
+    "gn:country_code":"AZ",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824448,
+    "gn:latitude":40.77998,
+    "gn:longitude":45.87721,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Hac\u0131al\u0131lar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hac\u0131al\u0131lar"
+    ],
+    "name:und_x_variant":[
+        "Gadzhyalylyar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824448
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7f9e51203ec518c27c0ba8df2dc85fd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209448705
+        }
+    ],
+    "wof:id":1209448705,
+    "wof:lastmodified":1537585513,
+    "wof:name":"Hacialilar",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.87721,
+    40.77998,
+    45.87721,
+    40.77998
+],
+  "geometry": {"coordinates":[45.87721,40.77998],"type":"Point"}
+}

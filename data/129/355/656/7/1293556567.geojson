@@ -1,0 +1,83 @@
+{
+  "id": 1293556567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.19472,40.20639,46.19472,40.20639",
+    "geom:latitude":40.20639,
+    "geom:longitude":46.19472,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Kamyshly",
+    "gn:country_code":"AZ",
+    "gn:dem":1244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586257,
+    "gn:latitude":40.20639,
+    "gn:longitude":46.19472,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kamyshly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qam\u0131\u015fl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "Yeghegnut"
+    ],
+    "name:hye_x_variant":[
+        "\u0535\u0572\u0565\u0563\u0576\u0578\u0582\u057f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u044b\u0448\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Qam\u0131\u015fl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586257,
+        "wk:page":"Qam%C4%B1%C5%9Fl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e0fc729d3c86b2809add1ed1e31c9c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293556567,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1293556567,
+    "wof:lastmodified":1537585421,
+    "wof:name":"Kamyshly",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.19472,
+    40.20639,
+    46.19472,
+    40.20639
+],
+  "geometry": {"coordinates":[46.19472,40.20639],"type":"Point"}
+}

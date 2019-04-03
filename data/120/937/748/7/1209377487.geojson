@@ -1,0 +1,62 @@
+{
+  "id": 1209377487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.90139,40.61139,45.90139,40.61139",
+    "geom:latitude":40.61139,
+    "geom:longitude":45.90139,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Pirbulaq",
+    "gn:country_code":"AZ",
+    "gn:dem":1562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824419,
+    "gn:latitude":40.61139,
+    "gn:longitude":45.90139,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pirbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824419,
+        "wk:page":"Pirbulaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"df796afbd4c414c5feb4dff36d846367",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209377487
+        }
+    ],
+    "wof:id":1209377487,
+    "wof:lastmodified":1537486685,
+    "wof:name":"Pirbulaq",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.90139,
+    40.61139,
+    45.90139,
+    40.61139
+],
+  "geometry": {"coordinates":[45.90139,40.61139],"type":"Point"}
+}

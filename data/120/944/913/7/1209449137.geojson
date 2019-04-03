@@ -1,0 +1,64 @@
+{
+  "id": 1209449137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.58197,41.26174,48.58197,41.26174",
+    "geom:latitude":41.26174,
+    "geom:longitude":48.58197,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Gyuneymakhla",
+    "gn:country_code":"AZ",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9887796,
+    "gn:latitude":41.26174,
+    "gn:longitude":48.58197,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Gyuneymakhla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u00fcneym\u0259hl\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9887796
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"afe5722701bc75d01360097b00f1aef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209449137
+        }
+    ],
+    "wof:id":1209449137,
+    "wof:lastmodified":1537585542,
+    "wof:name":"Gyuneymakhla",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.58197,
+    41.26174,
+    48.58197,
+    41.26174
+],
+  "geometry": {"coordinates":[48.58197,41.26174],"type":"Point"}
+}

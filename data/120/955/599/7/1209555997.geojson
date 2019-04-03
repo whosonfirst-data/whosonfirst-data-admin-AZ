@@ -1,0 +1,69 @@
+{
+  "id": 1209555997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.62035,39.52631,45.62035,39.52631",
+    "geom:latitude":39.52631,
+    "geom:longitude":45.62035,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147212.0",
+    "gn:asciiname":"Kyukyu",
+    "gn:country_code":"AZ",
+    "gn:dem":1810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147658,
+    "gn:latitude":39.52631,
+    "gn:longitude":45.62035,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyukyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00fck\u00fc"
+    ],
+    "name:und_x_variant":[
+        "Kyuki",
+        "Kyukyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147658
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5ad3f34d382a4fb03908ce4072969246",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209555997
+        }
+    ],
+    "wof:id":1209555997,
+    "wof:lastmodified":1537585194,
+    "wof:name":"Kyukyu",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.62035,
+    39.52631,
+    45.62035,
+    39.52631
+],
+  "geometry": {"coordinates":[45.62035,39.52631],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327462487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.56217,41.24801,48.56217,41.24801",
+    "geom:latitude":41.24801,
+    "geom:longitude":48.56217,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Qalagah",
+    "gn:country_code":"AZ",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9887799,
+    "gn:latitude":41.24801,
+    "gn:longitude":48.56217,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Qalagah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qalagah"
+    ],
+    "name:und_x_variant":[
+        "Kalagyakh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9887799
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a3b05d6b240da3404d0ada5ba1dc9a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327462487,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1327462487,
+    "wof:lastmodified":1537585542,
+    "wof:name":"Qalagah",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.56217,
+    41.24801,
+    48.56217,
+    41.24801
+],
+  "geometry": {"coordinates":[48.56217,41.24801],"type":"Point"}
+}

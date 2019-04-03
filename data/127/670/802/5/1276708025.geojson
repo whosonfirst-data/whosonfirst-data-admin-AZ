@@ -1,0 +1,87 @@
+{
+  "id": 1276708025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.50272,39.70683,46.50272,39.70683",
+    "geom:latitude":39.70683,
+    "geom:longitude":46.50272,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Birinci Tigiq",
+    "gn:country_code":"AZ",
+    "gn:dem":1270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147055,
+    "gn:latitude":39.70683,
+    "gn:longitude":46.50272,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Birinc\u0131 T\u0131\u011f\u0131q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Birinc\u0131 T\u0131\u011f\u0131q"
+    ],
+    "name:hye_x_preferred":[
+        "Tighik\u2019-I"
+    ],
+    "name:hye_x_variant":[
+        "\u054f\u056b\u0572\u056b\u0584-I",
+        "Tghki",
+        "\u054f\u0572\u056f\u056b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0433\u0438\u043a \u041f\u0435\u0440\u0432\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Verkhniy Tygik",
+        "Tigik Pervoye",
+        "Birinci T\u0131\u011f\u0131q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147055,
+        "wk:page":"Birinc%C4%B1_T%C4%B1%C4%9F%C4%B1k"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3974eb52e59f6c0b8158af145102566d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276708025,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1276708025,
+    "wof:lastmodified":1537585140,
+    "wof:name":"Birinci Tigiq",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.50272,
+    39.70683,
+    46.50272,
+    39.70683
+],
+  "geometry": {"coordinates":[46.50272,39.70683],"type":"Point"}
+}

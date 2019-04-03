@@ -1,0 +1,73 @@
+{
+  "id": 1276625625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.03229,39.35934,47.03229,39.35934",
+    "geom:latitude":39.35934,
+    "geom:longitude":47.03229,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Arrashamud",
+    "gn:country_code":"AZ",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11145522,
+    "gn:latitude":39.35934,
+    "gn:longitude":47.03229,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Arrashamud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Arrashamud"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u057c\u0561\u0577\u0561\u0574\u0578\u0582\u0564"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668323,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11145522
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d7ad9dc311b35fa70c2151771360be1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276625625,
+            "macroregion_id":1108808615,
+            "region_id":85668323
+        }
+    ],
+    "wof:id":1276625625,
+    "wof:lastmodified":1537585544,
+    "wof:name":"Arrashamud",
+    "wof:parent_id":85668323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.03229,
+    39.35934,
+    47.03229,
+    39.35934
+],
+  "geometry": {"coordinates":[47.03229,39.35934],"type":"Point"}
+}

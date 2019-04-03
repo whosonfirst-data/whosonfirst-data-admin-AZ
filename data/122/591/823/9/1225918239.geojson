@@ -1,0 +1,77 @@
+{
+  "id": 1225918239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.64213,40.73477,46.64213,40.73477",
+    "geom:latitude":40.73477,
+    "geom:longitude":46.64213,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Azyrakhmedli",
+    "gn:country_code":"AZ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587109,
+    "gn:latitude":40.73477,
+    "gn:longitude":46.64213,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Azyrakhmedli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Haz\u0131r\u01ddhm\u01dddli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0437\u044b\u0440\u0430\u0445\u043c\u0435\u0434\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Haz\u0131r\u0259hm\u0259dli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587109,
+        "wk:page":"Haz%C4%B1r%C9%99hm%C9%99dli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d79dd8a19b8e562a8533d1462db4398b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225918239,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1225918239,
+    "wof:lastmodified":1537585481,
+    "wof:name":"Azyrakhmedli",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.64213,
+    40.73477000000001,
+    46.64213,
+    40.73477000000001
+],
+  "geometry": {"coordinates":[46.64213,40.73477000000001],"type":"Point"}
+}

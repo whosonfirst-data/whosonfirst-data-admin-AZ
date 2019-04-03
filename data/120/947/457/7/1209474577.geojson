@@ -1,0 +1,66 @@
+{
+  "id": 1209474577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.78193,39.07295,48.78193,39.07295",
+    "geom:latitude":39.07295,
+    "geom:longitude":48.78193,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Kadyrly",
+    "gn:country_code":"AZ",
+    "gn:dem":-23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147961,
+    "gn:latitude":39.07295,
+    "gn:longitude":48.78193,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Kadyrly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kadirli",
+        "Q\u0259dirli",
+        "Gadzhi-Eynali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147961
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1d76d3276b5f42d128683f8ad42aaa93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209474577
+        }
+    ],
+    "wof:id":1209474577,
+    "wof:lastmodified":1537585226,
+    "wof:name":"Kadyrly",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.78193,
+    39.07295,
+    48.78193,
+    39.07295
+],
+  "geometry": {"coordinates":[48.78193,39.07295],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209788979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.34018,39.07476,48.34018,39.07476",
+    "geom:latitude":39.07476,
+    "geom:longitude":48.34018,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Badamagac",
+    "gn:country_code":"AZ",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148411,
+    "gn:latitude":39.07476,
+    "gn:longitude":48.34018,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Badama\u011fac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Badama\u011fac"
+    ],
+    "name:und_x_variant":[
+        "Badamagach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668331,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148411
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7e441314cd7e45557dea253f648b7c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209788979,
+            "macroregion_id":1108808625,
+            "region_id":85668331
+        }
+    ],
+    "wof:id":1209788979,
+    "wof:lastmodified":1537585269,
+    "wof:name":"Badamagac",
+    "wof:parent_id":85668331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.34018,
+    39.07476,
+    48.34018,
+    39.07476
+],
+  "geometry": {"coordinates":[48.34018,39.07476],"type":"Point"}
+}

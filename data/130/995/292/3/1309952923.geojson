@@ -1,0 +1,71 @@
+{
+  "id": 1309952923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.82237,38.68867,48.82237,38.68867",
+    "geom:latitude":38.68867,
+    "geom:longitude":48.82237,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Tyurkyakeran",
+    "gn:country_code":"AZ",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147021,
+    "gn:latitude":38.68867,
+    "gn:longitude":48.82237,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Tyurkyakeran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00fcrk\u0259k\u0259ran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147021,
+        "wk:page":"T%C3%BCrk%C9%99k%C9%99ran"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"74a057313fd453566ded3b0dce18c20a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309952923,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1309952923,
+    "wof:lastmodified":1537585137,
+    "wof:name":"Tyurkyakeran",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.82237,
+    38.68867,
+    48.82237,
+    38.68867
+],
+  "geometry": {"coordinates":[48.82237,38.68867],"type":"Point"}
+}

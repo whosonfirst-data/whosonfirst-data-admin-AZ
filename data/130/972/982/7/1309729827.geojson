@@ -1,0 +1,78 @@
+{
+  "id": 1309729827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.90586,40.50472,49.90586,40.50472",
+    "geom:latitude":40.50472,
+    "geom:longitude":49.90586,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mamedli",
+    "gn:country_code":"AZ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585588,
+    "gn:latitude":40.50472,
+    "gn:longitude":49.90586,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Mamedli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259mm\u0259dli"
+    ],
+    "name:und_x_variant":[
+        "Falmay-Mahomedly",
+        "Mamedli",
+        "Magomedli",
+        "Magamedly",
+        "Mamedi",
+        "Magomedly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668251,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585588
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4f21e49b7b00238cbcad885fcd0a8fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309729827,
+            "macroregion_id":1108808621,
+            "region_id":85668251
+        }
+    ],
+    "wof:id":1309729827,
+    "wof:lastmodified":1537585375,
+    "wof:name":"Mamedli",
+    "wof:parent_id":85668251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.90586,
+    40.50472,
+    49.90586,
+    40.50472
+],
+  "geometry": {"coordinates":[49.90586,40.50472],"type":"Point"}
+}

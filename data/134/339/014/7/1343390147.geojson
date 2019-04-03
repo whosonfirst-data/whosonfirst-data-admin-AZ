@@ -1,0 +1,83 @@
+{
+  "id": 1343390147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.99249,39.74408,46.99249,39.74408",
+    "geom:latitude":39.74408,
+    "geom:longitude":46.99249,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Kert",
+    "gn:country_code":"AZ",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147839,
+    "gn:latitude":39.74408,
+    "gn:longitude":46.99249,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Kert",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Quzumk\u0259nd"
+    ],
+    "name:hye_x_preferred":[
+        "K\u2019ert\u2019"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0565\u0580\u0569"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0440\u0442"
+    ],
+    "name:und_x_variant":[
+        "\u041a\u0435\u0440\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147839,
+        "wk:page":"Quzumk%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"9a326e264fd963e0ebe0e0a8971b73e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343390147,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1343390147,
+    "wof:lastmodified":1537585213,
+    "wof:name":"Kert",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.99249,
+    39.74408,
+    46.99249,
+    39.74408
+],
+  "geometry": {"coordinates":[46.99249,39.74408],"type":"Point"}
+}

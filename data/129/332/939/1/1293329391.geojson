@@ -1,0 +1,71 @@
+{
+  "id": 1293329391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.1914,41.492,48.1914,41.492",
+    "geom:latitude":41.492,
+    "geom:longitude":48.1914,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Nadzhafkend",
+    "gn:country_code":"AZ",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585403,
+    "gn:latitude":41.492,
+    "gn:longitude":48.1914,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Nadzhafkend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0259c\u0259fk\u0259nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585403,
+        "wk:page":"N%C9%99c%C9%99fk%C9%99nd"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3bf0975bd268a03e0d2fafe46dec1394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293329391,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1293329391,
+    "wof:lastmodified":1537585362,
+    "wof:name":"Nadzhafkend",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.1914,
+    41.492,
+    48.1914,
+    41.492
+],
+  "geometry": {"coordinates":[48.1914,41.492],"type":"Point"}
+}

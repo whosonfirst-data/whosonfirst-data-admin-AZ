@@ -1,0 +1,76 @@
+{
+  "id": 1226478999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.12944,40.64778,46.12944,40.64778",
+    "geom:latitude":40.64778,
+    "geom:longitude":46.12944,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Maraq",
+    "gn:cc2":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585575,
+    "gn:latitude":40.64778,
+    "gn:longitude":46.12944,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Maraq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marak",
+        "Mairik",
+        "Maraq",
+        "Maarif",
+        "Maari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585575,
+        "wk:page":"Maraq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f7737ba041be9b11a2afb92aa82cf119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226478999,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1226478999,
+    "wof:lastmodified":1537585374,
+    "wof:name":"Maraq",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.12944,
+    40.64778,
+    46.12944,
+    40.64778
+],
+  "geometry": {"coordinates":[46.12944,40.64778],"type":"Point"}
+}

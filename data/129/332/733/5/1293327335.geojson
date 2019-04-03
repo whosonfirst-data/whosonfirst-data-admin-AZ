@@ -1,0 +1,78 @@
+{
+  "id": 1293327335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.64004,41.39693,48.64004,41.39693",
+    "geom:latitude":41.39693,
+    "geom:longitude":48.64004,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Zardabi",
+    "gn:country_code":"AZ",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824036,
+    "gn:latitude":41.39693,
+    "gn:longitude":48.64004,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Zardabi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Z\u01ddrdabi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u0434\u0430\u0431\u0438"
+    ],
+    "name:und_x_variant":[
+        "Z\u0259rdabi",
+        "Zardabi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824036,
+        "wk:page":"Z%C9%99rdabi"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"860742905b133fdc9805eb93c05f3d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293327335,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1293327335,
+    "wof:lastmodified":1537585509,
+    "wof:name":"Zardabi",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.64004,
+    41.39693,
+    48.64004,
+    41.39693
+],
+  "geometry": {"coordinates":[48.64004,41.39693],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260114089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.52068,40.2396,47.52068,40.2396",
+    "geom:latitude":40.2396,
+    "geom:longitude":47.52068,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Burunlu",
+    "gn:country_code":"AZ",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586928,
+    "gn:latitude":40.2396,
+    "gn:longitude":47.52068,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Burunlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Burunlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668509,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586928
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c97e08ca0e9efb87168f3870cb284632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260114089,
+            "macroregion_id":1108808627,
+            "region_id":85668509
+        }
+    ],
+    "wof:id":1260114089,
+    "wof:lastmodified":1537585469,
+    "wof:name":"Burunlu",
+    "wof:parent_id":85668509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.52068,
+    40.2396,
+    47.52068,
+    40.2396
+],
+  "geometry": {"coordinates":[47.52068,40.2396],"type":"Point"}
+}

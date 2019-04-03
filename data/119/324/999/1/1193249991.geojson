@@ -1,0 +1,75 @@
+{
+  "id": 1193249991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.76087,41.2052,48.76087,41.2052",
+    "geom:latitude":41.2052,
+    "geom:longitude":48.76087,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kilvar",
+    "gn:country_code":"AZ",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585893,
+    "gn:latitude":41.2052,
+    "gn:longitude":48.76087,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kilvar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kilvar"
+    ],
+    "name:und_x_variant":[
+        "Kil\u2019var",
+        "Gilvar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585893,
+        "wk:page":"Kilvar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"45d857bfae75038e79cb008c5812c1e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1193249991,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1193249991,
+    "wof:lastmodified":1537585393,
+    "wof:name":"Kilvar",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.76087,
+    41.2052,
+    48.76087,
+    41.2052
+],
+  "geometry": {"coordinates":[48.76087,41.2052],"type":"Point"}
+}

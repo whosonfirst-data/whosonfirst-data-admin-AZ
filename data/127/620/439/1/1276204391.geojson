@@ -1,0 +1,74 @@
+{
+  "id": 1276204391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.14823,40.21908,47.14823,40.21908",
+    "geom:latitude":40.21908,
+    "geom:longitude":47.14823,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Emirli",
+    "gn:country_code":"AZ",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586614,
+    "gn:latitude":40.21908,
+    "gn:longitude":47.14823,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Emirli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fmirli"
+    ],
+    "name:und_x_variant":[
+        "Naibly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586614,
+        "wk:page":"%C6%8Fmirli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fc98c773c9cb16d3cfdfa6a1bf51c3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276204391,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1276204391,
+    "wof:lastmodified":1537585446,
+    "wof:name":"Emirli",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.14823,
+    40.21908,
+    47.14823,
+    40.21908
+],
+  "geometry": {"coordinates":[47.14823,40.21908],"type":"Point"}
+}

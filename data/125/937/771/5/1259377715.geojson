@@ -1,0 +1,75 @@
+{
+  "id": 1259377715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.37551,39.77728,49.37551,39.77728",
+    "geom:latitude":39.77728,
+    "geom:longitude":49.37551,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Byandovan",
+    "gn:country_code":"AZ",
+    "gn:dem":-21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":145465,
+    "gn:latitude":39.77728,
+    "gn:longitude":49.37551,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Byandovan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_preferred":[
+        "B\u0259ndovan"
+    ],
+    "name:und_x_variant":[
+        "Bendovan",
+        "Byandovan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145465,
+        "wk:page":"Byandovan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a953261a74c4bfcae56fb91b12d52b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259377715,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1259377715,
+    "wof:lastmodified":1537585122,
+    "wof:name":"Byandovan",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.37551,
+    39.77728,
+    49.37551,
+    39.77728
+],
+  "geometry": {"coordinates":[49.37551,39.77728],"type":"Point"}
+}

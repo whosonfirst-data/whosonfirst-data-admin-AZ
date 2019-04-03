@@ -1,0 +1,81 @@
+{
+  "id": 1360227265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.22564,40.99359,45.22564,40.99359",
+    "geom:latitude":40.99359,
+    "geom:longitude":45.22564,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Barxudarli",
+    "gn:country_code":"AZ",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587051,
+    "gn:latitude":40.99359,
+    "gn:longitude":45.22564,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Barxudarl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barkudarly",
+        "Barkhudarly",
+        "Barxudarl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668229,
+        1108808609,
+        85632773,
+        85668095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587051,
+        "wk:page":"Barxudarl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"71d5901f30ac8c0f9d5e9371290abf05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360227265,
+            "macroregion_id":1108808609,
+            "region_id":85668229
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":1360227265,
+            "region_id":85668095
+        }
+    ],
+    "wof:id":1360227265,
+    "wof:lastmodified":1537585478,
+    "wof:name":"Barxudarli",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.22564000000001,
+    40.99359000000001,
+    45.22564000000001,
+    40.99359000000001
+],
+  "geometry": {"coordinates":[45.22564000000001,40.99359000000001],"type":"Point"}
+}

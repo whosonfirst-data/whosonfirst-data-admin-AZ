@@ -1,0 +1,72 @@
+{
+  "id": 1309901683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.27638,40.43352,50.27638,40.43352",
+    "geom:latitude":40.43352,
+    "geom:longitude":50.27638,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dzhabar",
+    "gn:country_code":"AZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586687,
+    "gn:latitude":40.43352,
+    "gn:longitude":50.27638,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Dzhabar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhaban",
+        "Dzhabar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668249,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586687,
+        "wk:page":"Dzhabar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f655ec13812fc18b5accaa23762bf063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309901683,
+            "macroregion_id":1108808621,
+            "region_id":85668249
+        }
+    ],
+    "wof:id":1309901683,
+    "wof:lastmodified":1537585451,
+    "wof:name":"Dzhabar",
+    "wof:parent_id":85668249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.27638,
+    40.43352,
+    50.27638,
+    40.43352
+],
+  "geometry": {"coordinates":[50.27638,40.43352],"type":"Point"}
+}

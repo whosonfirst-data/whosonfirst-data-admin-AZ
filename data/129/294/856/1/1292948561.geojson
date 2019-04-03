@@ -1,0 +1,79 @@
+{
+  "id": 1292948561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.14613,40.19032,48.14613,40.19032",
+    "geom:latitude":40.19032,
+    "geom:longitude":48.14613,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Muradxan",
+    "gn:country_code":"AZ",
+    "gn:dem":-10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585446,
+    "gn:latitude":40.19032,
+    "gn:longitude":48.14613,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Muradxan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Muradxan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u0430\u0434\u0445\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Muradzhanly",
+        "Muradkhan",
+        "Muradxan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668383,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585446,
+        "wk:page":"Muradxan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"53d47140c8e06eb58e0c17d1e547fb9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1292948561,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":1292948561,
+    "wof:lastmodified":1537585366,
+    "wof:name":"Muradxan",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.14613,
+    40.19032,
+    48.14613,
+    40.19032
+],
+  "geometry": {"coordinates":[48.14613,40.19032],"type":"Point"}
+}

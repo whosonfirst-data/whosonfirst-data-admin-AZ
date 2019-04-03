@@ -1,0 +1,73 @@
+{
+  "id": 1226493421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.53166,39.63675,46.53166,39.63675",
+    "geom:latitude":39.63675,
+    "geom:longitude":46.53166,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Nerk'in Sus",
+    "gn:country_code":"AZ",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8648521,
+    "gn:latitude":39.63675,
+    "gn:longitude":46.53166,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Nerk\u2019in Sus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Nerk\u2019in Sus"
+    ],
+    "name:hye_x_variant":[
+        "\u0546\u0565\u0580\u0584\u056b\u0576 \u054d\u0578\u0582\u057d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8648521
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bc5f25c4cfdbf2f6ca68e3d2f9a03c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226493421,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1226493421,
+    "wof:lastmodified":1537585538,
+    "wof:name":"Nerk'in Sus",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.53166,
+    39.63675,
+    46.53166,
+    39.63675
+],
+  "geometry": {"coordinates":[46.53166,39.63675],"type":"Point"}
+}

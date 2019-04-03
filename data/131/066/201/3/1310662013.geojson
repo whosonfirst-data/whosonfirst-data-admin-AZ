@@ -1,0 +1,75 @@
+{
+  "id": 1310662013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.39093,39.86312,46.39093,39.86312",
+    "geom:latitude":39.86312,
+    "geom:longitude":46.39093,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Arakhish",
+    "gn:country_code":"AZ",
+    "gn:dem":1683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8648520,
+    "gn:latitude":39.86312,
+    "gn:longitude":46.39093,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Arakhish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "Arakhish"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0580\u0561\u056d\u056b\u0577",
+        "Arrak\u2019elots\u2019",
+        "\u0531\u057c\u0561\u0584\u0565\u056c\u0578\u0581"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8648520
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"046e44699b09fcbf4332c69a8756b7cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310662013,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1310662013,
+    "wof:lastmodified":1537585538,
+    "wof:name":"Arakhish",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.39093,
+    39.86312,
+    46.39093,
+    39.86312
+],
+  "geometry": {"coordinates":[46.39093,39.86312],"type":"Point"}
+}

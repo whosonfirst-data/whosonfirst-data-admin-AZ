@@ -1,0 +1,77 @@
+{
+  "id": 1360127389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6237,40.82639,47.6237,40.82639",
+    "geom:latitude":40.82639,
+    "geom:longitude":47.6237,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Quslar",
+    "gn:country_code":"AZ",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585740,
+    "gn:latitude":40.82639,
+    "gn:longitude":47.6237,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Qu\u015flar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qu\u015flar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0448\u043b\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Kushlar",
+        "Qu\u015flar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585740
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"aa8e686e9fa43ebadd56a7a9f0f36350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360127389,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1360127389,
+    "wof:lastmodified":1537585385,
+    "wof:name":"Quslar",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6237,
+    40.82639,
+    47.6237,
+    40.82639
+],
+  "geometry": {"coordinates":[47.6237,40.82639],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343891623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.72371,39.82545,46.72371,39.82545",
+    "geom:latitude":39.82545,
+    "geom:longitude":46.72371,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Fakhlul",
+    "gn:country_code":"AZ",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148116,
+    "gn:latitude":39.82545,
+    "gn:longitude":46.72371,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Fakhlul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Fakhlul"
+    ],
+    "name:und_x_variant":[
+        "Pakhlyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148116,
+        "wk:page":"Fakhlul"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3e1e31558f6922022ab5bc4ab2fadac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343891623,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1343891623,
+    "wof:lastmodified":1537585241,
+    "wof:name":"Fakhlul",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.72371,
+    39.82545,
+    46.72371,
+    39.82545
+],
+  "geometry": {"coordinates":[46.72371,39.82545],"type":"Point"}
+}

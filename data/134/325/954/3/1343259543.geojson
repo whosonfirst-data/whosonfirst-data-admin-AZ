@@ -1,0 +1,73 @@
+{
+  "id": 1343259543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.77564,38.54789,48.77564,38.54789",
+    "geom:latitude":38.54789,
+    "geom:longitude":48.77564,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tulaguvan",
+    "gn:country_code":"AZ",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147037,
+    "gn:latitude":38.54789,
+    "gn:longitude":48.77564,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Tulaguvan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuaguan",
+        "T\u00fcl\u0259k\u00fcvan",
+        "Tulakuvan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147037,
+        "wk:page":"T%C3%BCl%C9%99k%C3%BCvan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"156fecfa3caa2b08bdc4b97011cf5291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343259543,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1343259543,
+    "wof:lastmodified":1537585138,
+    "wof:name":"Tulaguvan",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.77564,
+    38.54789,
+    48.77564,
+    38.54789
+],
+  "geometry": {"coordinates":[48.77564,38.54789],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327172783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.94363,40.94605,47.94363,40.94605",
+    "geom:latitude":40.94605,
+    "geom:longitude":47.94363,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Yandam",
+    "gn:country_code":"AZ",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584750,
+    "gn:latitude":40.94605,
+    "gn:longitude":47.94363,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Yandam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "V\u01ddndam"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043d\u0434\u0430\u043c"
+    ],
+    "name:und_x_variant":[
+        "V\u0259ndam",
+        "Vandam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584750,
+        "wk:page":"V%C9%99ndam"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"816b072785e8dce43bbd2e66cea8d608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327172783,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1327172783,
+    "wof:lastmodified":1537585319,
+    "wof:name":"Yandam",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.94363,
+    40.94605,
+    47.94363,
+    40.94605
+],
+  "geometry": {"coordinates":[47.94363,40.94605],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226765225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.55385,40.51498,49.55385,40.51498",
+    "geom:latitude":40.51498,
+    "geom:longitude":49.55385,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Benagady",
+    "gn:country_code":"AZ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":587100,
+    "gn:latitude":40.51498,
+    "gn:longitude":49.55385,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Benagady",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_preferred":[
+        "B\u0259dirli"
+    ],
+    "name:rus_x_preferred":[
+        "Razvaliny Bedyr\u2019ye"
+    ],
+    "name:und_x_variant":[
+        "Bedirli",
+        "Benagady",
+        "Razvaliny Bedyry",
+        "Badyrly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668251,
+        1108808621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587100
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e3b65f2851d16edab630cb8064d36430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226765225,
+            "macroregion_id":1108808621,
+            "region_id":85668251
+        }
+    ],
+    "wof:id":1226765225,
+    "wof:lastmodified":1537585481,
+    "wof:name":"Benagady",
+    "wof:parent_id":85668251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.55385,
+    40.51498,
+    49.55385,
+    40.51498
+],
+  "geometry": {"coordinates":[49.55385,40.51498],"type":"Point"}
+}

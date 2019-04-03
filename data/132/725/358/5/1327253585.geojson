@@ -1,0 +1,68 @@
+{
+  "id": 1327253585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.64298,38.42115,48.64298,38.42115",
+    "geom:latitude":38.42115,
+    "geom:longitude":48.64298,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Unuz",
+    "gn:country_code":"AZ",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":400446,
+    "gn:latitude":38.42115,
+    "gn:longitude":48.64298,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Unuz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668297,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400446,
+        "wk:page":"Unuz"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"63b077190d05865006351f51c1477948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327253585,
+            "macroregion_id":1108808625,
+            "region_id":85668297
+        }
+    ],
+    "wof:id":1327253585,
+    "wof:lastmodified":1537486579,
+    "wof:name":"Unuz",
+    "wof:parent_id":85668297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.64298,
+    38.42115,
+    48.64298,
+    38.42115
+],
+  "geometry": {"coordinates":[48.64298,38.42115],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1226176655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.04477,39.82223,47.04477,39.82223",
+    "geom:latitude":39.82223,
+    "geom:longitude":47.04477,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Yemiscan",
+    "gn:country_code":"AZ",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146950,
+    "gn:latitude":39.82223,
+    "gn:longitude":47.04477,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Yemi\u015fcan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yemi\u015fcan"
+    ],
+    "name:hye_x_preferred":[
+        "Yemishjan"
+    ],
+    "name:hye_x_variant":[
+        "\u0535\u0574\u056b\u0577\u057b\u0561\u0576",
+        "Yemishch\u2019an",
+        "\u0535\u0574\u056b\u0577\u0573\u0561\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043c\u0438\u0448\u0434\u0436\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Iemish Chan",
+        "Yemishchan",
+        "Yemishdzhan",
+        "\u0415\u043c\u0438\u0448\u0434\u0436\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146950,
+        "wk:page":"Yemi%C5%9Fcan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3be5bdeb17c6483e495954ec03bc29e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226176655,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1226176655,
+    "wof:lastmodified":1537585131,
+    "wof:name":"Yemiscan",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.04477,
+    39.82223,
+    47.04477,
+    39.82223
+],
+  "geometry": {"coordinates":[47.04477,39.82223],"type":"Point"}
+}

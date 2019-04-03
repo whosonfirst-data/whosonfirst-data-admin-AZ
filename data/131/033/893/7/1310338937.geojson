@@ -1,0 +1,71 @@
+{
+  "id": 1310338937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.62428,40.77999,45.62428,40.77999",
+    "geom:latitude":40.77999,
+    "geom:longitude":45.62428,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Sofular",
+    "gn:country_code":"AZ",
+    "gn:dem":1404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8606512,
+    "gn:latitude":40.77999,
+    "gn:longitude":45.62428,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Sofular",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sofular"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8606512,
+        "wk:page":"Sofular"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a860f5525d792b358fdf15b0dcded400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310338937,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1310338937,
+    "wof:lastmodified":1537585533,
+    "wof:name":"Sofular",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.62428,
+    40.77999000000001,
+    45.62428,
+    40.77999000000001
+],
+  "geometry": {"coordinates":[45.62428,40.77999000000001],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1226080047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.74944,39.15544,46.74944,39.15544",
+    "geom:latitude":39.15544,
+    "geom:longitude":46.74944,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Ashaga Alibeyli",
+    "gn:country_code":"AZ",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148540,
+    "gn:latitude":39.15544,
+    "gn:longitude":46.74944,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Ashaga Alibeyli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ikin\u00e7i Alyb\u0259yli"
+    ],
+    "name:aze_x_variant":[
+        "\u0130kinci Al\u0131b\u0259yli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0438\u0431\u0435\u0439\u043b\u0438 \u0412\u0442\u043e\u0440\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Alybeyli Vtoryye",
+        "Alybeyli Vtoroye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668659,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148540,
+        "wk:page":"Alybeyli_Vtoryye"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"27b27e33bd5d42808f1865c37370d9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226080047,
+            "macroregion_id":1108808607,
+            "region_id":85668659
+        }
+    ],
+    "wof:id":1226080047,
+    "wof:lastmodified":1537585279,
+    "wof:name":"Ashaga Alibeyli",
+    "wof:parent_id":85668659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.74944,
+    39.15544000000001,
+    46.74944,
+    39.15544000000001
+],
+  "geometry": {"coordinates":[46.74944,39.15544000000001],"type":"Point"}
+}

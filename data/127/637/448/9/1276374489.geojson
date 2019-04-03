@@ -1,0 +1,72 @@
+{
+  "id": 1276374489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.54326,41.45968,46.54326,41.45968",
+    "geom:latitude":41.45968,
+    "geom:longitude":46.54326,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Kyapyanyakchi",
+    "gn:country_code":"AZ",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585726,
+    "gn:latitude":41.45968,
+    "gn:longitude":46.54326,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Kyapyanyakchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapanachkhi",
+        "K\u0259p\u0259n\u0259k\u00e7i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668601,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585726,
+        "wk:page":"K%C9%99p%C9%99n%C9%99k%C3%A7i%2C_Zaqatala"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5dd17e578613cca395c95b17c6b599c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276374489,
+            "macroregion_id":1108808619,
+            "region_id":85668601
+        }
+    ],
+    "wof:id":1276374489,
+    "wof:lastmodified":1537585384,
+    "wof:name":"Kyapyanyakchi",
+    "wof:parent_id":85668601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.54326,
+    41.45968,
+    46.54326,
+    41.45968
+],
+  "geometry": {"coordinates":[46.54326,41.45968],"type":"Point"}
+}

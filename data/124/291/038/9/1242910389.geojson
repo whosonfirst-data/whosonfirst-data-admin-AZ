@@ -1,0 +1,73 @@
+{
+  "id": 1242910389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.79789,41.31767,46.79789,41.31767",
+    "geom:latitude":41.31767,
+    "geom:longitude":46.79789,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Dzhalair",
+    "gn:country_code":"AZ",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586678,
+    "gn:latitude":41.31767,
+    "gn:longitude":46.79789,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Dzhalair",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "C\u0259layir"
+    ],
+    "name:und_x_variant":[
+        "Calayir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668557,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586678
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0945010aea8bb012bd422ac9ce4bccec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242910389,
+            "macroregion_id":1108808619,
+            "region_id":85668557
+        }
+    ],
+    "wof:id":1242910389,
+    "wof:lastmodified":1537585451,
+    "wof:name":"Dzhalair",
+    "wof:parent_id":85668557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.79789,
+    41.31767,
+    46.79789,
+    41.31767
+],
+  "geometry": {"coordinates":[46.79789,41.31767],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1309784087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1775,40.27444,47.1775,40.27444",
+    "geom:latitude":40.27444,
+    "geom:longitude":47.1775,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Xanagali",
+    "gn:country_code":"AZ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585979,
+    "gn:latitude":40.27444,
+    "gn:longitude":47.1775,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Xana\u011fal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xanagahl\u0131"
+    ],
+    "name:aze_x_variant":[
+        "Xana\u011fahl\u0131",
+        "Xana\u011fal\u0131"
+    ],
+    "name:und_x_variant":[
+        "Khanagaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668303,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585979,
+        "wk:page":"Xana%C4%9Fal%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e8dc98406cae42dbd7eb8d9f7a8820d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309784087,
+            "macroregion_id":1108808627,
+            "region_id":85668303
+        }
+    ],
+    "wof:id":1309784087,
+    "wof:lastmodified":1537585400,
+    "wof:name":"Xanagali",
+    "wof:parent_id":85668303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1775,
+    40.27444000000001,
+    47.1775,
+    40.27444000000001
+],
+  "geometry": {"coordinates":[47.1775,40.27444000000001],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1226594999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.253,39.71154,46.253,39.71154",
+    "geom:latitude":39.71154,
+    "geom:longitude":46.253,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Minkend",
+    "gn:country_code":"AZ",
+    "gn:dem":1725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147503,
+    "gn:latitude":39.71154,
+    "gn:longitude":46.253,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Minkend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mink\u0259nd"
+    ],
+    "name:hye_x_preferred":[
+        "Mink\u2019end"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u056b\u0576\u0584\u0565\u0576\u0564",
+        "Hak",
+        "\u0540\u0561\u056f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043d\u043a\u0435\u043d\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147503,
+        "wk:page":"Minkend"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"35611aff5748f8d1985335bfea0a3e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226594999,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1226594999,
+    "wof:lastmodified":1537585180,
+    "wof:name":"Minkend",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.253,
+    39.71154,
+    46.253,
+    39.71154
+],
+  "geometry": {"coordinates":[46.253,39.71154],"type":"Point"}
+}

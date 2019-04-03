@@ -1,0 +1,74 @@
+{
+  "id": 1276213061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.58198,39.40285,48.58198,39.40285",
+    "geom:latitude":39.40285,
+    "geom:longitude":48.58198,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Dovruslu",
+    "gn:country_code":"AZ",
+    "gn:dem":-7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148179,
+    "gn:latitude":39.40285,
+    "gn:longitude":48.58198,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Dovru\u015flu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Dovru\u015flu"
+    ],
+    "name:und_x_variant":[
+        "Dervishli",
+        "Dovrushlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668317,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148179
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"537fa145048a7c283c8723c6315b599b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276213061,
+            "macroregion_id":1108808627,
+            "region_id":85668317
+        }
+    ],
+    "wof:id":1276213061,
+    "wof:lastmodified":1537585246,
+    "wof:name":"Dovruslu",
+    "wof:parent_id":85668317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.58198,
+    39.40285,
+    48.58198,
+    39.40285
+],
+  "geometry": {"coordinates":[48.58198,39.40285],"type":"Point"}
+}

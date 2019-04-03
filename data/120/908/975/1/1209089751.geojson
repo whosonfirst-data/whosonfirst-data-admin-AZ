@@ -1,0 +1,73 @@
+{
+  "id": 1209089751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.88577,39.29583,46.88577,39.29583",
+    "geom:latitude":39.29583,
+    "geom:longitude":46.88577,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Sirik",
+    "gn:country_code":"AZ",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8623462,
+    "gn:latitude":39.29583,
+    "gn:longitude":46.88577,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"Sirik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 Sirik"
+    ],
+    "name:hye_x_preferred":[
+        "Nerk\u2019in Sring"
+    ],
+    "name:hye_x_variant":[
+        "\u0546\u0565\u0580\u0584\u056b\u0576 \u054d\u0580\u056b\u0576\u0563"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0440\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8623462
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b4beb610ae6b0f5b3a039c026b702fd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209089751
+        }
+    ],
+    "wof:id":1209089751,
+    "wof:lastmodified":1537585537,
+    "wof:name":"Sirik",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.88577,
+    39.29583,
+    46.88577,
+    39.29583
+],
+  "geometry": {"coordinates":[46.88577,39.29583],"type":"Point"}
+}

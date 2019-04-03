@@ -1,0 +1,80 @@
+{
+  "id": 1225987475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.48652,40.97719,47.48652,40.97719",
+    "geom:latitude":40.97719,
+    "geom:longitude":47.48652,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Vardanly",
+    "gn:country_code":"AZ",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584745,
+    "gn:latitude":40.97719,
+    "gn:longitude":47.48652,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Vardanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u0259rimli"
+    ],
+    "name:eng_x_preferred":[
+        "Vardanl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u0434\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Vardanl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668549,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584745,
+        "wk:page":"Vardanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0edb0e15c46b42bbcd79b29d1ef87870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1225987475,
+            "macroregion_id":1108808619,
+            "region_id":85668549
+        }
+    ],
+    "wof:id":1225987475,
+    "wof:lastmodified":1537585319,
+    "wof:name":"Vardanly",
+    "wof:parent_id":85668549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.48652,
+    40.97719,
+    47.48652,
+    40.97719
+],
+  "geometry": {"coordinates":[47.48652,40.97719],"type":"Point"}
+}

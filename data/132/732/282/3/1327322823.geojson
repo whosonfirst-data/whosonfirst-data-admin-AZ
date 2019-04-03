@@ -1,0 +1,76 @@
+{
+  "id": 1327322823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.25625,41.66902,46.25625,41.66902",
+    "geom:latitude":41.66902,
+    "geom:longitude":46.25625,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Isaklygirmya",
+    "gn:country_code":"AZ",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586324,
+    "gn:latitude":41.66902,
+    "gn:longitude":46.25625,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Isaklygirmya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130saxl\u0131girm\u0259"
+    ],
+    "name:und_x_variant":[
+        "Isakhlygirme",
+        "Isaklygirmya",
+        "\u0130saql\u0131girm\u0259"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668531,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586324,
+        "wk:page":"%C4%B0saql%C4%B1girm%C9%99"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f6051bc1350ad0a22d4e9d9603334104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327322823,
+            "macroregion_id":1108808619,
+            "region_id":85668531
+        }
+    ],
+    "wof:id":1327322823,
+    "wof:lastmodified":1537585425,
+    "wof:name":"Isaklygirmya",
+    "wof:parent_id":85668531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.25625,
+    41.66902,
+    46.25625,
+    41.66902
+],
+  "geometry": {"coordinates":[46.25625,41.66902],"type":"Point"}
+}

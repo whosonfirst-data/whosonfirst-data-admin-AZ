@@ -1,0 +1,72 @@
+{
+  "id": 1293850601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.30934,40.18406,48.30934,40.18406",
+    "geom:latitude":40.18406,
+    "geom:longitude":48.30934,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Arshaly",
+    "gn:country_code":"AZ",
+    "gn:dem":-13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":825069,
+    "gn:latitude":40.18406,
+    "gn:longitude":48.30934,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Arshaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u018fr\u015f\u0259li",
+        "Arshaly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668383,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":825069,
+        "wk:page":"%C6%8Fr%C5%9F%C9%99li"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"4dcf1b43b12324bbe23ff6a90e502a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293850601,
+            "macroregion_id":1108808627,
+            "region_id":85668383
+        }
+    ],
+    "wof:id":1293850601,
+    "wof:lastmodified":1537585516,
+    "wof:name":"Arshaly",
+    "wof:parent_id":85668383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.30934,
+    40.18406,
+    48.30934,
+    40.18406
+],
+  "geometry": {"coordinates":[48.30934,40.18406],"type":"Point"}
+}

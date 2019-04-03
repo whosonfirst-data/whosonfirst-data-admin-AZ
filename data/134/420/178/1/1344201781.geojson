@@ -1,0 +1,77 @@
+{
+  "id": 1344201781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.14359,38.98962,49.14359,38.98962",
+    "geom:latitude":38.98962,
+    "geom:longitude":49.14359,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Kurdili",
+    "gn:country_code":"AZ",
+    "gn:dem":-29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147687,
+    "gn:latitude":38.98962,
+    "gn:longitude":49.14359,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"K\u00fcrdili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00fcrdili"
+    ],
+    "name:und_x_variant":[
+        "Kurinskaya Kesa",
+        "Kurinskaya Kosa",
+        "Kurkosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85668409,
+        102191569,
+        85632717,
+        1108808627,
+        1092001695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147687
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"de0531f175bac5dc78e36da1dda36659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "county_id":1092001695,
+            "locality_id":1344201781,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1344201781,
+    "wof:lastmodified":1537585198,
+    "wof:name":"Kurdili",
+    "wof:parent_id":1092001695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.14359,
+    38.98962,
+    49.14359,
+    38.98962
+],
+  "geometry": {"coordinates":[49.14359,38.98962],"type":"Point"}
+}

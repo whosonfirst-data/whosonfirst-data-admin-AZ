@@ -1,0 +1,70 @@
+{
+  "id": 1226473699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.04734,40.67887,47.04734,40.67887",
+    "geom:latitude":40.67887,
+    "geom:longitude":47.04734,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Balchyly",
+    "gn:country_code":"AZ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587065,
+    "gn:latitude":40.67887,
+    "gn:longitude":47.04734,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Balchyly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bal\u00e7\u0131l\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668243,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587065
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0442d80ba2466a4a855edcf5a9cbac86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226473699,
+            "macroregion_id":1108808627,
+            "region_id":85668243
+        }
+    ],
+    "wof:id":1226473699,
+    "wof:lastmodified":1537585479,
+    "wof:name":"Balchyly",
+    "wof:parent_id":85668243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.04734000000001,
+    40.67887,
+    47.04734000000001,
+    40.67887
+],
+  "geometry": {"coordinates":[47.04734000000001,40.67887],"type":"Point"}
+}

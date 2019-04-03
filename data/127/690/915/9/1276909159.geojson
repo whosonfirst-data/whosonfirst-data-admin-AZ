@@ -1,0 +1,70 @@
+{
+  "id": 1276909159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.61939,39.89931,46.61939,39.89931",
+    "geom:latitude":39.89931,
+    "geom:longitude":46.61939,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Lesnoi",
+    "gn:country_code":"AZ",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":395884,
+    "gn:latitude":39.89931,
+    "gn:longitude":46.61939,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"Lesnoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Me\u015f\u0259li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668657,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":395884
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"aa7cf7f3888927018dd428d1df5b93c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276909159,
+            "macroregion_id":1108808615,
+            "region_id":85668657
+        }
+    ],
+    "wof:id":1276909159,
+    "wof:lastmodified":1537585300,
+    "wof:name":"Lesnoi",
+    "wof:parent_id":85668657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.61939,
+    39.89931,
+    46.61939,
+    39.89931
+],
+  "geometry": {"coordinates":[46.61939,39.89931],"type":"Point"}
+}

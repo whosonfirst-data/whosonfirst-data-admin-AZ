@@ -1,0 +1,83 @@
+{
+  "id": 1243101869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.08703,41.35083,47.08703,41.35083",
+    "geom:latitude":41.35083,
+    "geom:longitude":47.08703,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Bas Layisqi",
+    "gn:country_code":"AZ",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587038,
+    "gn:latitude":41.35083,
+    "gn:longitude":47.08703,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Ba\u015f Lay\u0131sq\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ba\u015f Lay\u0131sq\u0131"
+    ],
+    "name:eng_x_preferred":[
+        "Ba\u015f Layski"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0448 \u041b\u0430\u0439\u0441\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bash-Laiski",
+        "Bash-Layisk",
+        "Bash Layski",
+        "Ba\u015f Layski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668565,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587038,
+        "wk:page":"Ba%C5%9F_Lay%C4%B1sq%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"3a13448c43d5824b4599073a5e4f635a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243101869,
+            "macroregion_id":1108808619,
+            "region_id":85668565
+        }
+    ],
+    "wof:id":1243101869,
+    "wof:lastmodified":1537585477,
+    "wof:name":"Bas Layisqi",
+    "wof:parent_id":85668565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.08703,
+    41.35083,
+    47.08703,
+    41.35083
+],
+  "geometry": {"coordinates":[47.08703,41.35083],"type":"Point"}
+}

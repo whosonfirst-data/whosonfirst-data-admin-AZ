@@ -1,0 +1,72 @@
+{
+  "id": 1243393669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.49272,41.68498,48.49272,41.68498",
+    "geom:latitude":41.68498,
+    "geom:longitude":48.49272,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Kalantaroba",
+    "gn:country_code":"AZ",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":586273,
+    "gn:latitude":41.68498,
+    "gn:longitude":48.49272,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Kalantaroba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "K\u0259l\u0259nt\u0259roba",
+        "Kalantaroba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668577,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586273,
+        "wk:page":"K%C9%99l%C9%99nt%C9%99roba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"457a2053c066a6661dec9ce1ce251e92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243393669,
+            "macroregion_id":1108808623,
+            "region_id":85668577
+        }
+    ],
+    "wof:id":1243393669,
+    "wof:lastmodified":1537585422,
+    "wof:name":"Kalantaroba",
+    "wof:parent_id":85668577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.49272,
+    41.68498,
+    48.49272,
+    41.68498
+],
+  "geometry": {"coordinates":[48.49272,41.68498],"type":"Point"}
+}

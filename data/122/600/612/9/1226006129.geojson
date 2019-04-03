@@ -1,0 +1,88 @@
+{
+  "id": 1226006129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.25827,39.77819,46.25827,39.77819",
+    "geom:latitude":39.77819,
+    "geom:longitude":46.25827,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Agbulaq",
+    "gn:country_code":"AZ",
+    "gn:dem":1805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148621,
+    "gn:latitude":39.77819,
+    "gn:longitude":46.25827,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"A\u011fbulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u011fbulaq"
+    ],
+    "name:hye_x_preferred":[
+        "Aghbulagh"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0572\u0562\u0578\u0582\u056c\u0561\u0572",
+        "Spitakjur",
+        "\u054d\u057a\u056b\u057f\u0561\u056f\u057b\u0578\u0582\u0580",
+        "Spitakajur",
+        "\u054d\u057a\u056b\u057f\u0561\u056f\u0561\u057b\u0578\u0582\u0580"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Agbulag",
+        "Agbulak",
+        "\u0410\u0433\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148621
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"e459da0acb52f2e9ece02f0cd500bf69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226006129,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1226006129,
+    "wof:lastmodified":1537585286,
+    "wof:name":"Agbulaq",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.25827,
+    39.77819,
+    46.25827,
+    39.77819
+],
+  "geometry": {"coordinates":[46.25827,39.77819],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293345143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.98542,39.99094,45.98542,39.99094",
+    "geom:latitude":39.99094,
+    "geom:longitude":45.98542,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Orta Surtan",
+    "gn:country_code":"AZ",
+    "gn:dem":1959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8452501,
+    "gn:latitude":39.99094,
+    "gn:longitude":45.98542,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"Orta \u015eurtan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Orta \u015eurtan"
+    ],
+    "name:aze_x_variant":[
+        "\u015eurtan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0442\u0430-\u0428\u0443\u0440\u0442\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Orta-Shurtan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668221,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8452501,
+        "wk:page":"%C5%9Eurtan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"0537c2d770cf55ad8135ce3541c2ceda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293345143,
+            "macroregion_id":1108808607,
+            "region_id":85668221
+        }
+    ],
+    "wof:id":1293345143,
+    "wof:lastmodified":1537585521,
+    "wof:name":"Orta Surtan",
+    "wof:parent_id":85668221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.98542,
+    39.99094,
+    45.98542,
+    39.99094
+],
+  "geometry": {"coordinates":[45.98542,39.99094],"type":"Point"}
+}

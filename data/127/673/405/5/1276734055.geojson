@@ -1,0 +1,70 @@
+{
+  "id": 1276734055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.89599,41.17173,48.89599,41.17173",
+    "geom:latitude":41.17173,
+    "geom:longitude":48.89599,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Khalfalar",
+    "gn:country_code":"AZ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585993,
+    "gn:latitude":41.17173,
+    "gn:longitude":48.89599,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khalfalar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u0259lf\u0259l\u0259r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585993
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"809e7f0b69d3c30f2054eca6bdaf1f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276734055,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1276734055,
+    "wof:lastmodified":1537585401,
+    "wof:name":"Khalfalar",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.89599000000001,
+    41.17173,
+    48.89599000000001,
+    41.17173
+],
+  "geometry": {"coordinates":[48.89599000000001,41.17173],"type":"Point"}
+}

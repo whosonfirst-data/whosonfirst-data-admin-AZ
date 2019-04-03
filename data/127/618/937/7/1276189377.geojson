@@ -1,0 +1,71 @@
+{
+  "id": 1276189377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.52352,40.66285,46.52352,40.66285",
+    "geom:latitude":40.66285,
+    "geom:longitude":46.52352,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Nizami",
+    "gn:country_code":"AZ",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585359,
+    "gn:latitude":40.66285,
+    "gn:longitude":46.52352,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Nizami",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0437\u0430\u043c\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585359,
+        "wk:page":"Nizami%2C_Goranboy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"566ba619de7df0c7a3e4ab7d5b1316cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276189377,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1276189377,
+    "wof:lastmodified":1537585359,
+    "wof:name":"Nizami",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.52352,
+    40.66285,
+    46.52352,
+    40.66285
+],
+  "geometry": {"coordinates":[46.52352,40.66285],"type":"Point"}
+}

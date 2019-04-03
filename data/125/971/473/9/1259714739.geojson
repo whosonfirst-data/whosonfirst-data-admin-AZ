@@ -1,0 +1,74 @@
+{
+  "id": 1259714739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.56343,40.72518,48.56343,40.72518",
+    "geom:latitude":40.72518,
+    "geom:longitude":48.56343,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Birinci Cagan",
+    "gn:country_code":"AZ",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586913,
+    "gn:latitude":40.72518,
+    "gn:longitude":48.56343,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Birinci \u00c7a\u011fan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chagan",
+        "Chagan Pervoye",
+        "Bash-Chagan",
+        "Birinci \u00c7a\u011fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668459,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586913,
+        "wk:page":"Birinci_%C3%87a%C4%9Fan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ca1e58c9b75ab5db9b4830e32068c75c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259714739,
+            "macroregion_id":1108808611,
+            "region_id":85668459
+        }
+    ],
+    "wof:id":1259714739,
+    "wof:lastmodified":1537585468,
+    "wof:name":"Birinci Cagan",
+    "wof:parent_id":85668459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.56343,
+    40.72518,
+    48.56343,
+    40.72518
+],
+  "geometry": {"coordinates":[48.56343,40.72518],"type":"Point"}
+}

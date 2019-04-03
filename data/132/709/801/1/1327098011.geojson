@@ -1,0 +1,77 @@
+{
+  "id": 1327098011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.92584,41.12817,48.92584,41.12817",
+    "geom:latitude":41.12817,
+    "geom:longitude":48.92584,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Bash Emirkhanly",
+    "gn:country_code":"AZ",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587046,
+    "gn:latitude":41.12817,
+    "gn:longitude":48.92584,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bash Emirkhanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ba\u015f \u018fmirxanl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0448 \u042d\u043c\u0438\u0440\u0445\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ba\u015f \u018fmirxanl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587046,
+        "wk:page":"Ba%C5%9F_%C6%8Fmirxanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1e0c7895e189f7e603eae3b1be464389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327098011,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1327098011,
+    "wof:lastmodified":1537585477,
+    "wof:name":"Bash Emirkhanly",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.92584,
+    41.12817,
+    48.92584,
+    41.12817
+],
+  "geometry": {"coordinates":[48.92584,41.12817],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1343692981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.56232,40.41498,48.56232,40.41498",
+    "geom:latitude":40.41498,
+    "geom:longitude":48.56232,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Gadzhykadirli",
+    "gn:country_code":"AZ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586551,
+    "gn:latitude":40.41498,
+    "gn:longitude":48.56232,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Gadzhykadirli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hac\u0131q\u01dddirli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0434\u0436\u044b\u043a\u0430\u0434\u0438\u0440\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Adzhikadiry",
+        "Gadzhi-Kadirli",
+        "Gadzhykadirli",
+        "Hac\u0131q\u0259dirli",
+        "Gadzhikarli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586551
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2350bf19d7ca6a43f817f1f65ae69b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343692981,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1343692981,
+    "wof:lastmodified":1537585442,
+    "wof:name":"Gadzhykadirli",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.56232,
+    40.41498,
+    48.56232,
+    40.41498
+],
+  "geometry": {"coordinates":[48.56232,40.41498],"type":"Point"}
+}

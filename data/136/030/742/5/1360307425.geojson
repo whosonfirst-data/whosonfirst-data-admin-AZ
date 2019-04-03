@@ -1,0 +1,73 @@
+{
+  "id": 1360307425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.17027,40.49402,48.17027,40.49402",
+    "geom:latitude":40.49402,
+    "geom:longitude":48.17027,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Khalilli",
+    "gn:country_code":"AZ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585989,
+    "gn:latitude":40.49402,
+    "gn:longitude":48.17027,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Khalilli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khayli",
+        "Khalli",
+        "Khalilli",
+        "X\u0259lilli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585989
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a5177ab73ed3364a21422ce0c837e6ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360307425,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1360307425,
+    "wof:lastmodified":1537585401,
+    "wof:name":"Khalilli",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.17027,
+    40.49402,
+    48.17027,
+    40.49402
+],
+  "geometry": {"coordinates":[48.17027,40.49402],"type":"Point"}
+}

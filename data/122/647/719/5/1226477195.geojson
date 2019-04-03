@@ -1,0 +1,72 @@
+{
+  "id": 1226477195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.68026,41.06324,48.68026,41.06324",
+    "geom:latitude":41.06324,
+    "geom:longitude":48.68026,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Pucuq",
+    "gn:country_code":"AZ",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585238,
+    "gn:latitude":41.06324,
+    "gn:longitude":48.68026,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pucuq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puchuk",
+        "Pucuq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585238,
+        "wk:page":"Pu%C3%A7uq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dd1742f495f367ca535c8453eae9265c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226477195,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1226477195,
+    "wof:lastmodified":1537585351,
+    "wof:name":"Pucuq",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.68026,
+    41.06324,
+    48.68026,
+    41.06324
+],
+  "geometry": {"coordinates":[48.68026,41.06324],"type":"Point"}
+}

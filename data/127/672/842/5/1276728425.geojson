@@ -1,0 +1,86 @@
+{
+  "id": 1276728425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.06056,39.61409,47.06056,39.61409",
+    "geom:latitude":39.61409,
+    "geom:longitude":47.06056,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Govshatly",
+    "gn:country_code":"AZ",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148030,
+    "gn:latitude":39.61409,
+    "gn:longitude":47.06056,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Govshatly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Gov\u015fatl\u0131"
+    ],
+    "name:aze_x_variant":[
+        "Qov\u015fatl\u0131",
+        "K\u00f6v\u015fatl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u057e\u0577\u0561\u057f\u056c\u0568"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0432\u0448\u0430\u0442\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Qov\u015fatl\u0131",
+        "Govshatlu",
+        "\u0413\u043e\u0432\u0448\u0430\u0442\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668611,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148030,
+        "wk:page":"Gov%C5%9Fatl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"067713ad065660a998b4c20272eef7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276728425,
+            "macroregion_id":1108808615,
+            "region_id":85668611
+        }
+    ],
+    "wof:id":1276728425,
+    "wof:lastmodified":1537585232,
+    "wof:name":"Govshatly",
+    "wof:parent_id":85668611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.06056,
+    39.61409,
+    47.06056,
+    39.61409
+],
+  "geometry": {"coordinates":[47.06056,39.61409],"type":"Point"}
+}

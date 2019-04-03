@@ -1,0 +1,73 @@
+{
+  "id": 1326861489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.63762,40.99476,45.63762,40.99476",
+    "geom:latitude":40.99476,
+    "geom:longitude":45.63762,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Bozalqanli",
+    "gn:country_code":"AZ",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586946,
+    "gn:latitude":40.99476,
+    "gn:longitude":45.63762,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bozalqanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bozalganly",
+        "Bozalkanly",
+        "Bozalqanl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668241,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586946,
+        "wk:page":"Bozalqanl%C4%B1_%28Bozalganly%29"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"2c66f21e9261aa724d4bfc9580a7a224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1326861489,
+            "macroregion_id":1108808609,
+            "region_id":85668241
+        }
+    ],
+    "wof:id":1326861489,
+    "wof:lastmodified":1537585471,
+    "wof:name":"Bozalqanli",
+    "wof:parent_id":85668241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.63762,
+    40.99476,
+    45.63762,
+    40.99476
+],
+  "geometry": {"coordinates":[45.63762,40.99476],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1209489469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.68306,40.45972,46.68306,40.45972",
+    "geom:latitude":40.45972,
+    "geom:longitude":46.68306,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Zeiva",
+    "gn:country_code":"AZ",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584571,
+    "gn:latitude":40.45972,
+    "gn:longitude":46.68306,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Zeiva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zeyv\u0259"
+    ],
+    "name:eng_x_preferred":[
+        "Zeyv\u01dd"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u0565\u0575\u057e\u0561"
+    ],
+    "name:hye_x_variant":[
+        "Zeyva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u0439\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dzeyva",
+        "Zeyva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584571
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"7e524536fbc44dab9bd2b810c83d308e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209489469
+        }
+    ],
+    "wof:id":1209489469,
+    "wof:lastmodified":1537585307,
+    "wof:name":"Zeiva",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.68306,
+    40.45972,
+    46.68306,
+    40.45972
+],
+  "geometry": {"coordinates":[46.68306,40.45972],"type":"Point"}
+}

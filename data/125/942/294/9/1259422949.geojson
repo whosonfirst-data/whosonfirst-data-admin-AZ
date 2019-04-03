@@ -1,0 +1,76 @@
+{
+  "id": 1259422949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.20861,39.36639,49.20861,39.36639",
+    "geom:latitude":39.36639,
+    "geom:longitude":49.20861,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Ismilli",
+    "gn:country_code":"AZ",
+    "gn:dem":-29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":147970,
+    "gn:latitude":39.36639,
+    "gn:longitude":49.20861,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"\u0130smilli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_preferred":[
+        "\u0130smilli"
+    ],
+    "name:und_x_variant":[
+        "Ismailli",
+        "Ismeilli",
+        "Ismilli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668409,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147970,
+        "wk:page":"Ismilli"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1d64c2f8426b3db9084472b9773a0813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259422949,
+            "macroregion_id":1108808627,
+            "region_id":85668409
+        }
+    ],
+    "wof:id":1259422949,
+    "wof:lastmodified":1537585227,
+    "wof:name":"Ismilli",
+    "wof:parent_id":85668409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.20861,
+    39.36639,
+    49.20861,
+    39.36639
+],
+  "geometry": {"coordinates":[49.20861,39.36639],"type":"Point"}
+}

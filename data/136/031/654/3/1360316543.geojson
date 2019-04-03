@@ -1,0 +1,68 @@
+{
+  "id": 1360316543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.69207,41.54065,48.69207,41.54065",
+    "geom:latitude":41.54065,
+    "geom:longitude":48.69207,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Manafoba",
+    "gn:country_code":"AZ",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585581,
+    "gn:latitude":41.54065,
+    "gn:longitude":48.69207,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Manafoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668591,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585581,
+        "wk:page":"Manafoba"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"591ef647af31da0a4e38c9ef1d127801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1360316543,
+            "macroregion_id":1108808623,
+            "region_id":85668591
+        }
+    ],
+    "wof:id":1360316543,
+    "wof:lastmodified":1537486615,
+    "wof:name":"Manafoba",
+    "wof:parent_id":85668591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.69207,
+    41.54065,
+    48.69207,
+    41.54065
+],
+  "geometry": {"coordinates":[48.69207,41.54065],"type":"Point"}
+}

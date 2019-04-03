@@ -1,0 +1,74 @@
+{
+  "id": 1243422879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.87482,40.25967,48.87482,40.25967",
+    "geom:latitude":40.25967,
+    "geom:longitude":48.87482,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Pashaly Tretiy",
+    "gn:country_code":"AZ",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585284,
+    "gn:latitude":40.25967,
+    "gn:longitude":48.87482,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Pashaly Tretiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Pashaly Tret\u2019ye"
+    ],
+    "name:und_x_variant":[
+        "Orta Pashaly",
+        "Pashaly Tret\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668293,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585284
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"073c974fe33ed1fcca9ca8b96595616f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243422879,
+            "macroregion_id":1108808627,
+            "region_id":85668293
+        }
+    ],
+    "wof:id":1243422879,
+    "wof:lastmodified":1537585354,
+    "wof:name":"Pashaly Tretiy",
+    "wof:parent_id":85668293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.87482,
+    40.25967,
+    48.87482,
+    40.25967
+],
+  "geometry": {"coordinates":[48.87482,40.25967],"type":"Point"}
+}

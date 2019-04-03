@@ -1,0 +1,74 @@
+{
+  "id": 1242827787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.01617,39.55515,45.01617,39.55515",
+    "geom:latitude":39.55515,
+    "geom:longitude":45.01617,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147997.0",
+    "gn:asciiname":"Muganciq Muslum",
+    "gn:country_code":"AZ",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147468,
+    "gn:latitude":39.55515,
+    "gn:longitude":45.01617,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Mu\u011fanc\u0131q M\u00fcsl\u00fcm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mugandzhuk-Muslum",
+        "Mugandzhik Myuslyum",
+        "Mu\u011fanc\u0131q M\u00fcsl\u00fcm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668667,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147468,
+        "wk:page":"Mu%C4%9Fanc%C4%B1q_M%C3%BCsl%C3%BCm"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"96caa9f39e24fe218b7efd33f55e15f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1242827787,
+            "macroregion_id":1108808617,
+            "region_id":85668667
+        }
+    ],
+    "wof:id":1242827787,
+    "wof:lastmodified":1537585176,
+    "wof:name":"Muganciq Muslum",
+    "wof:parent_id":85668667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.01617,
+    39.55515,
+    45.01617,
+    39.55515
+],
+  "geometry": {"coordinates":[45.01617,39.55515],"type":"Point"}
+}

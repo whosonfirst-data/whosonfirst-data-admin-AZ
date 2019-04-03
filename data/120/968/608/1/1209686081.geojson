@@ -1,0 +1,62 @@
+{
+  "id": 1209686081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.41761,39.14828,48.41761,39.14828",
+    "geom:latitude":39.14828,
+    "geom:longitude":48.41761,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Albalan",
+    "gn:country_code":"AZ",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148575,
+    "gn:latitude":39.14828,
+    "gn:longitude":48.41761,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Albalan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148575,
+        "wk:page":"Albalan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"eb66d57283b46a3b96f78fff4814a5e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209686081
+        }
+    ],
+    "wof:id":1209686081,
+    "wof:lastmodified":1537486567,
+    "wof:name":"Albalan",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.41761,
+    39.14828,
+    48.41761,
+    39.14828
+],
+  "geometry": {"coordinates":[48.41761,39.14828],"type":"Point"}
+}

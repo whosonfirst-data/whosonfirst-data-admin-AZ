@@ -1,0 +1,73 @@
+{
+  "id": 1276511525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.67434,40.75128,46.67434,40.75128",
+    "geom:latitude":40.75128,
+    "geom:longitude":46.67434,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Qarasucu",
+    "gn:country_code":"AZ",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586148,
+    "gn:latitude":40.75128,
+    "gn:longitude":46.67434,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Qarasu\u00e7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karasuchu",
+        "Karasuchilar",
+        "Qarasu\u00e7u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586148,
+        "wk:page":"Qarasu%C3%A7u"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"008adad336e80c6aa158248f045da901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276511525,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1276511525,
+    "wof:lastmodified":1537585412,
+    "wof:name":"Qarasucu",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.67434,
+    40.75128,
+    46.67434,
+    40.75128
+],
+  "geometry": {"coordinates":[46.67434,40.75128],"type":"Point"}
+}

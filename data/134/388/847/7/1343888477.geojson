@@ -1,0 +1,78 @@
+{
+  "id": 1343888477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.61971,41.15998,48.61971,41.15998",
+    "geom:latitude":41.15998,
+    "geom:longitude":48.61971,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Afurca",
+    "gn:country_code":"AZ",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587411,
+    "gn:latitude":41.15998,
+    "gn:longitude":48.61971,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Afurca",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Afurca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0444\u0443\u0440\u0434\u0436\u0430"
+    ],
+    "name:und_x_variant":[
+        "Afurdzha",
+        "Afurca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668571,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587411,
+        "wk:page":"Afurca"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5908c8b59cb2801655859550d9c0ea7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343888477,
+            "macroregion_id":1108808623,
+            "region_id":85668571
+        }
+    ],
+    "wof:id":1343888477,
+    "wof:lastmodified":1537585502,
+    "wof:name":"Afurca",
+    "wof:parent_id":85668571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.61971,
+    41.15998,
+    48.61971,
+    41.15998
+],
+  "geometry": {"coordinates":[48.61971,41.15998],"type":"Point"}
+}

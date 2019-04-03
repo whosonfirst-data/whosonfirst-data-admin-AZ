@@ -1,0 +1,75 @@
+{
+  "id": 1260130841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.46583,39.74894,46.46583,39.74894",
+    "geom:latitude":39.74894,
+    "geom:longitude":46.46583,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Derekend",
+    "gn:country_code":"AZ",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":148209,
+    "gn:latitude":39.74894,
+    "gn:longitude":46.46583,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Derekend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_preferred":[
+        "D\u0259r\u0259k\u0259nd"
+    ],
+    "name:und_x_variant":[
+        "Darakend",
+        "Derekend",
+        "Razvaliny Derekend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148209
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"1ce9af0a67713acb8c06f8676cc43d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1260130841,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1260130841,
+    "wof:lastmodified":1537585249,
+    "wof:name":"Derekend",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.46583,
+    39.74894000000001,
+    46.46583,
+    39.74894000000001
+],
+  "geometry": {"coordinates":[46.46583,39.74894000000001],"type":"Point"}
+}

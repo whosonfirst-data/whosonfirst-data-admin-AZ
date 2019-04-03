@@ -1,0 +1,85 @@
+{
+  "id": 1327108637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.58405,40.35705,46.58405,40.35705",
+    "geom:latitude":40.35705,
+    "geom:longitude":46.58405,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Gyulyustan",
+    "gn:country_code":"AZ",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586388,
+    "gn:latitude":40.35705,
+    "gn:longitude":46.58405,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Gyulyustan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u00fcl\u00fcstan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0575\u0578\u0582\u056c\u056b\u057d\u057f\u0561\u0576"
+    ],
+    "name:hye_x_variant":[
+        "Gyulistan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u044e\u043b\u044e\u0441\u0442\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Gyulistan",
+        "Gioulistan",
+        "Gyulyustan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586388,
+        "wk:page":"G%C3%BCl%C3%BCstan%2C_Goranboy"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c4c904971924880da61497ee0ba83f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327108637,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1327108637,
+    "wof:lastmodified":1537585430,
+    "wof:name":"Gyulyustan",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.58405,
+    40.35705,
+    46.58405,
+    40.35705
+],
+  "geometry": {"coordinates":[46.58405,40.35705],"type":"Point"}
+}

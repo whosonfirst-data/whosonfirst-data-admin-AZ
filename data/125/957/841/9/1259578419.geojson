@@ -1,0 +1,73 @@
+{
+  "id": 1259578419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.55737,40.49916,48.55737,40.49916",
+    "geom:latitude":40.49916,
+    "geom:longitude":48.55737,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Keshtimez",
+    "gn:country_code":"AZ",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586018,
+    "gn:latitude":40.49916,
+    "gn:longitude":48.55737,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Keshtimez",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keshdimyaz",
+        "Keshtimez",
+        "Ke\u015fdim\u0259z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586018,
+        "wk:page":"Ke%C5%9Fdim%C9%99z"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"bb15da0c518b6ea62187c09c930c6e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259578419,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1259578419,
+    "wof:lastmodified":1537585403,
+    "wof:name":"Keshtimez",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.55737,
+    40.49916,
+    48.55737,
+    40.49916
+],
+  "geometry": {"coordinates":[48.55737,40.49916],"type":"Point"}
+}

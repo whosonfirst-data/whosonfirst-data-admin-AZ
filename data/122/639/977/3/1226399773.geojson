@@ -1,0 +1,76 @@
+{
+  "id": 1226399773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3149,40.81622,48.3149,40.81622",
+    "geom:latitude":40.81622,
+    "geom:longitude":48.3149,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Gyandova",
+    "gn:country_code":"AZ",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586408,
+    "gn:latitude":40.81622,
+    "gn:longitude":48.3149,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Gyandova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u0259ndov"
+    ],
+    "name:und_x_variant":[
+        "Gendob",
+        "Gyandova",
+        "Gyandov",
+        "C\u0259ndov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668373,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586408
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"d659acf4e10794af47a275ea4cff7fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226399773,
+            "macroregion_id":1108808611,
+            "region_id":85668373
+        }
+    ],
+    "wof:id":1226399773,
+    "wof:lastmodified":1537585432,
+    "wof:name":"Gyandova",
+    "wof:parent_id":85668373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3149,
+    40.81622,
+    48.3149,
+    40.81622
+],
+  "geometry": {"coordinates":[48.3149,40.81622],"type":"Point"}
+}

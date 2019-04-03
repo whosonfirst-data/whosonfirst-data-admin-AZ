@@ -1,0 +1,74 @@
+{
+  "id": 1209708233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.38833,40.50113,48.38833,40.50113",
+    "geom:latitude":40.50113,
+    "geom:longitude":48.38833,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Qarabagli",
+    "gn:country_code":"AZ",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586244,
+    "gn:latitude":40.50113,
+    "gn:longitude":48.38833,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Qaraba\u011fl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalabegla",
+        "Kalabegli",
+        "Karabagly",
+        "Qaraba\u011fl\u0131",
+        "Kalabekly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668289,
+        1108808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586244
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b4ff16c2f45c43cec650082c38d9222d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209708233,
+            "macroregion_id":1108808611,
+            "region_id":85668289
+        }
+    ],
+    "wof:id":1209708233,
+    "wof:lastmodified":1537585420,
+    "wof:name":"Qarabagli",
+    "wof:parent_id":85668289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.38833,
+    40.50113,
+    48.38833,
+    40.50113
+],
+  "geometry": {"coordinates":[48.38833,40.50113],"type":"Point"}
+}

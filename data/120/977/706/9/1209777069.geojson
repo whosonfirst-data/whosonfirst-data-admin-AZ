@@ -1,0 +1,78 @@
+{
+  "id": 1209777069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.38432,39.82147,46.38432,39.82147",
+    "geom:latitude":39.82147,
+    "geom:longitude":46.38432,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Muncuqlu",
+    "gn:country_code":"AZ",
+    "gn:dem":1468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147460,
+    "gn:latitude":39.82147,
+    "gn:longitude":46.38432,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Muncuqlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Muncuqlu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043d\u0434\u0436\u0443\u0433\u043b\u0443"
+    ],
+    "name:und_x_variant":[
+        "Mundzhukhlu",
+        "Mundzhuglu",
+        "\u041c\u0443\u043d\u0434\u0436\u0443\u0433\u043b\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668621,
+        1108808607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147460
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"fce0ace3eaeb69c39524ab2f3f63e3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1209777069,
+            "macroregion_id":1108808607,
+            "region_id":85668621
+        }
+    ],
+    "wof:id":1209777069,
+    "wof:lastmodified":1537585175,
+    "wof:name":"Muncuqlu",
+    "wof:parent_id":85668621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.38432,
+    39.82147,
+    46.38432,
+    39.82147
+],
+  "geometry": {"coordinates":[46.38432,39.82147],"type":"Point"}
+}

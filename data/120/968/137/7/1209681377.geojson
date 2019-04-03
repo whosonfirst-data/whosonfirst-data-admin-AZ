@@ -1,0 +1,65 @@
+{
+  "id": 1209681377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.81944,40.63663,45.81944,40.63663",
+    "geom:latitude":40.63663,
+    "geom:longitude":45.81944,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Maarif",
+    "gn:country_code":"AZ",
+    "gn:dem":1540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585615,
+    "gn:latitude":40.63663,
+    "gn:longitude":45.81944,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Maarif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maarifkend",
+        "Maarif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585615
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b1dc05caf16dfb49459b0b4f819f8623",
+    "wof:hierarchy":[
+        {
+            "country_id":85632717,
+            "locality_id":1209681377
+        }
+    ],
+    "wof:id":1209681377,
+    "wof:lastmodified":1537585377,
+    "wof:name":"Maarif",
+    "wof:parent_id":85632717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.81944,
+    40.63663,
+    45.81944,
+    40.63663
+],
+  "geometry": {"coordinates":[45.81944,40.63663],"type":"Point"}
+}

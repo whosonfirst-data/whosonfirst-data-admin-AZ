@@ -1,0 +1,68 @@
+{
+  "id": 1309765065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.90806,40.62528,46.90806,40.62528",
+    "geom:latitude":40.62528,
+    "geom:longitude":46.90806,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Elvazlu",
+    "gn:country_code":"AZ",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":801000,
+    "gn:latitude":40.62528,
+    "gn:longitude":46.90806,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Elvazlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":801000,
+        "wk:page":"Elvazlu"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cd14ee673d8bc7bc7430a363d4b6fe28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1309765065,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1309765065,
+    "wof:lastmodified":1537486681,
+    "wof:name":"Elvazlu",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.90806,
+    40.62528,
+    46.90806,
+    40.62528
+],
+  "geometry": {"coordinates":[46.90806,40.62528],"type":"Point"}
+}

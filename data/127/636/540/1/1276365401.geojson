@@ -1,0 +1,73 @@
+{
+  "id": 1276365401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.04111,39.75,49.04111,39.75",
+    "geom:latitude":39.75,
+    "geom:longitude":49.04111,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Novo-Khaladzh",
+    "gn:country_code":"AZ",
+    "gn:dem":-22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147830,
+    "gn:latitude":39.75,
+    "gn:longitude":49.04111,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Novo-Khaladzh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Israfilbeyli",
+        "Novo-Khaladzh",
+        "Khaladzh",
+        "X\u0259l\u0259c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668449,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147830
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"c79af6e69022bec9973cabf5338ec7cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276365401,
+            "macroregion_id":1108808627,
+            "region_id":85668449
+        }
+    ],
+    "wof:id":1276365401,
+    "wof:lastmodified":1537585213,
+    "wof:name":"Novo-Khaladzh",
+    "wof:parent_id":85668449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.04111,
+    39.75,
+    49.04111,
+    39.75
+],
+  "geometry": {"coordinates":[49.04111,39.75],"type":"Point"}
+}

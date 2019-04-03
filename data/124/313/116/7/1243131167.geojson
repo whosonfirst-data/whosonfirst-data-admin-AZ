@@ -1,0 +1,87 @@
+{
+  "id": 1243131167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.44861,40.44334,46.44861,40.44334",
+    "geom:latitude":40.44334,
+    "geom:longitude":46.44861,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Manashid",
+    "gn:country_code":"AZ",
+    "gn:dem":1341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585580,
+    "gn:latitude":40.44334,
+    "gn:longitude":46.44861,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Manashid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259n\u0259\u015fli"
+    ],
+    "name:aze_x_variant":[
+        "Mana\u015fid"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u0576\u0561\u0577\u0565\u0576"
+    ],
+    "name:hye_x_variant":[
+        "Menashen",
+        "\u0544\u0561\u0576\u0561\u0577\u056b\u0564"
+    ],
+    "name:und_x_variant":[
+        "Menashen",
+        "Manasashen",
+        "Manashen",
+        "Manashid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668215,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585580,
+        "wk:page":"Manashid"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f175b8577f36d8f6ab027f1937eabc59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243131167,
+            "macroregion_id":1108808609,
+            "region_id":85668215
+        }
+    ],
+    "wof:id":1243131167,
+    "wof:lastmodified":1537585375,
+    "wof:name":"Manashid",
+    "wof:parent_id":85668215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.44861,
+    40.44334,
+    46.44861,
+    40.44334
+],
+  "geometry": {"coordinates":[46.44861,40.44334],"type":"Point"}
+}

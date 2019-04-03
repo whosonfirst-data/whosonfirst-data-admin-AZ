@@ -1,0 +1,77 @@
+{
+  "id": 1293041445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.69333,39.5,45.69333,39.5",
+    "geom:latitude":39.5,
+    "geom:longitude":45.69333,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147212.0",
+    "gn:asciiname":"Yuxari Qislaq",
+    "gn:cc2":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":1771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146927,
+    "gn:latitude":39.5,
+    "gn:longitude":45.69333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yuxar\u0131 Q\u0131\u015flaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 Q\u0131\u015flaq"
+    ],
+    "name:und_x_variant":[
+        "Magara-Kishlag",
+        "Yukhary Kyshlak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668683,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146927,
+        "wk:page":"Yuxar%C4%B1_Q%C4%B1%C5%9Flaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"47824dcab8d45d92e94746fa1e673f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1293041445,
+            "macroregion_id":1108808617,
+            "region_id":85668683
+        }
+    ],
+    "wof:id":1293041445,
+    "wof:lastmodified":1537585128,
+    "wof:name":"Yuxari Qislaq",
+    "wof:parent_id":85668683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.69333,
+    39.5,
+    45.69333,
+    39.5
+],
+  "geometry": {"coordinates":[45.69333,39.5],"type":"Point"}
+}

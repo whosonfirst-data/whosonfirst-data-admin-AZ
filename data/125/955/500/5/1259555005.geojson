@@ -1,0 +1,67 @@
+{
+  "id": 1259555005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.0462,41.26247,49.0462,41.26247",
+    "geom:latitude":41.26247,
+    "geom:longitude":49.0462,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Alayer",
+    "gn:country_code":"AZ",
+    "gn:dem":-23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587326,
+    "gn:latitude":41.26247,
+    "gn:longitude":49.0462,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Alayer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668339,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587326
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"12b6ada4e9f201dee689de8b430d2366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1259555005,
+            "macroregion_id":1108808623,
+            "region_id":85668339
+        }
+    ],
+    "wof:id":1259555005,
+    "wof:lastmodified":1536756050,
+    "wof:name":"Alayer",
+    "wof:parent_id":85668339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.0462,
+    41.26247,
+    49.0462,
+    41.26247
+],
+  "geometry": {"coordinates":[49.0462,41.26247],"type":"Point"}
+}

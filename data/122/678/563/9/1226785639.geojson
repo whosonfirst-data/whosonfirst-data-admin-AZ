@@ -1,0 +1,82 @@
+{
+  "id": 1226785639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.99339,40.48135,46.99339,40.48135",
+    "geom:latitude":40.48135,
+    "geom:longitude":46.99339,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Qaramanli",
+    "gn:country_code":"AZ",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586162,
+    "gn:latitude":40.48135,
+    "gn:longitude":46.99339,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Qaramanl\u0131",
+    "gn:population":2230,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaramanl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043c\u0430\u043d\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Karamanli",
+        "Karamanly",
+        "Pederly"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668243,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586162,
+        "wk:page":"Qaramanl%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"6236097191628408c9f2ca8c36de4433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1226785639,
+            "macroregion_id":1108808627,
+            "region_id":85668243
+        }
+    ],
+    "wof:id":1226785639,
+    "wof:lastmodified":1537585414,
+    "wof:name":"Qaramanli",
+    "wof:parent_id":85668243,
+    "wof:placetype":"locality",
+    "wof:population":2230,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.99339000000001,
+    40.48135,
+    46.99339000000001,
+    40.48135
+],
+  "geometry": {"coordinates":[46.99339000000001,40.48135],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327066545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.53023,40.07847,48.53023,40.07847",
+    "geom:latitude":40.07847,
+    "geom:longitude":48.53023,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Surra",
+    "gn:country_code":"AZ",
+    "gn:dem":-17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584918,
+    "gn:latitude":40.07847,
+    "gn:longitude":48.53023,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Surra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668447,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584918,
+        "wk:page":"Surra%2C_Sabirabad"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"55ccc2ef35a495a03b42b703454b2491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327066545,
+            "macroregion_id":1108808627,
+            "region_id":85668447
+        }
+    ],
+    "wof:id":1327066545,
+    "wof:lastmodified":1537486592,
+    "wof:name":"Surra",
+    "wof:parent_id":85668447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.53023,
+    40.07847,
+    48.53023,
+    40.07847
+],
+  "geometry": {"coordinates":[48.53023,40.07847],"type":"Point"}
+}

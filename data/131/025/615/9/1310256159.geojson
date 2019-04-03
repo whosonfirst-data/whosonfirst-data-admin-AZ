@@ -1,0 +1,70 @@
+{
+  "id": 1310256159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.70598,40.98784,47.70598,40.98784",
+    "geom:latitude":40.98784,
+    "geom:longitude":47.70598,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Ketyuklyu",
+    "gn:country_code":"AZ",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8724245,
+    "gn:latitude":40.98784,
+    "gn:longitude":47.70598,
+    "gn:modification_date":"2014-04-07",
+    "gn:name":"Ketyuklyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00f6t\u00fckl\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8724245
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"b34b51654814a7d1989cec9db766982f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310256159,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1310256159,
+    "wof:lastmodified":1537585541,
+    "wof:name":"Ketyuklyu",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.70598,
+    40.98784000000001,
+    47.70598,
+    40.98784000000001
+],
+  "geometry": {"coordinates":[47.70598,40.98784000000001],"type":"Point"}
+}

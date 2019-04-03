@@ -1,0 +1,75 @@
+{
+  "id": 1243505167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.70097,38.81569,48.70097,38.81569",
+    "geom:latitude":38.81569,
+    "geom:longitude":48.70097,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Pombagi",
+    "gn:country_code":"AZ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147350,
+    "gn:latitude":38.81569,
+    "gn:longitude":48.70097,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Pombagi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "P\u0259mb\u0259yi"
+    ],
+    "name:und_x_variant":[
+        "Pambagi",
+        "Pamb\u0259yi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668389,
+        1108808625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147350,
+        "wk:page":"Pamb%C9%99yi"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f0b7a55554010574d94590218d14b053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243505167,
+            "macroregion_id":1108808625,
+            "region_id":85668389
+        }
+    ],
+    "wof:id":1243505167,
+    "wof:lastmodified":1537585166,
+    "wof:name":"Pombagi",
+    "wof:parent_id":85668389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.70097,
+    38.81569,
+    48.70097,
+    38.81569
+],
+  "geometry": {"coordinates":[48.70097,38.81569],"type":"Point"}
+}

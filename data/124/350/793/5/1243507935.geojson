@@ -1,0 +1,77 @@
+{
+  "id": 1243507935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5461,39.39126,45.5461,39.39126",
+    "geom:latitude":39.39126,
+    "geom:longitude":45.5461,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"147212.0",
+    "gn:asciiname":"Kicikoba",
+    "gn:country_code":"AZ",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":394402,
+    "gn:latitude":39.39126,
+    "gn:longitude":45.5461,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Ki\u00e7ikoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yenik\u0259nd"
+    ],
+    "name:aze_x_variant":[
+        "Ki\u00e7ikoba"
+    ],
+    "name:und_x_variant":[
+        "Yenikend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668683,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":394402
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"f0c3b9aa6c3d19967ba6ced459109e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243507935,
+            "macroregion_id":1108808617,
+            "region_id":85668683
+        }
+    ],
+    "wof:id":1243507935,
+    "wof:lastmodified":1537585297,
+    "wof:name":"Kicikoba",
+    "wof:parent_id":85668683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5461,
+    39.39126,
+    45.5461,
+    39.39126
+],
+  "geometry": {"coordinates":[45.5461,39.39126],"type":"Point"}
+}

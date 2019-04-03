@@ -1,0 +1,68 @@
+{
+  "id": 1327416011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.05361,40.52889,46.05361,40.52889",
+    "geom:latitude":40.52889,
+    "geom:longitude":46.05361,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Sharm-Kar",
+    "gn:country_code":"AZ",
+    "gn:dem":1653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":801162,
+    "gn:latitude":40.52889,
+    "gn:longitude":46.05361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sharm-Kar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668199,
+        1108808609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":801162,
+        "wk:page":"Sharm-Kar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cf2ae1fae72d4d7804a07e47a9af5644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327416011,
+            "macroregion_id":1108808609,
+            "region_id":85668199
+        }
+    ],
+    "wof:id":1327416011,
+    "wof:lastmodified":1537486682,
+    "wof:name":"Sharm-Kar",
+    "wof:parent_id":85668199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.05361,
+    40.52889,
+    46.05361,
+    40.52889
+],
+  "geometry": {"coordinates":[46.05361,40.52889],"type":"Point"}
+}

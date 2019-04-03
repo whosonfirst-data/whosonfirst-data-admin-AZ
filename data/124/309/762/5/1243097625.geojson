@@ -1,0 +1,78 @@
+{
+  "id": 1243097625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.74164,41.52176,46.74164,41.52176",
+    "geom:latitude":41.52176,
+    "geom:longitude":46.74164,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Gozbarax",
+    "gn:country_code":"AZ",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584543,
+    "gn:latitude":41.52176,
+    "gn:longitude":46.74164,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"G\u00f6zbarax",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u00f6zbarax"
+    ],
+    "name:aze_x_variant":[
+        "G\u00f6zbaraq"
+    ],
+    "name:und_x_variant":[
+        "G\u00ebzbarakh",
+        "G\u00f6zparaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668601,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584543,
+        "wk:page":"G%C3%B6zbarax"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"dbddc1e429d5e69360b2ec8187d42a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1243097625,
+            "macroregion_id":1108808619,
+            "region_id":85668601
+        }
+    ],
+    "wof:id":1243097625,
+    "wof:lastmodified":1537585305,
+    "wof:name":"Gozbarax",
+    "wof:parent_id":85668601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.74164,
+    41.52176,
+    46.74164,
+    41.52176
+],
+  "geometry": {"coordinates":[46.74164,41.52176],"type":"Point"}
+}

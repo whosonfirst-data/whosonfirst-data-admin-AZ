@@ -1,0 +1,73 @@
+{
+  "id": 1276739077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.91353,40.96647,48.91353,40.96647",
+    "geom:latitude":40.96647,
+    "geom:longitude":48.91353,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kogna-Kushchi",
+    "gn:country_code":"AZ",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586056,
+    "gn:latitude":40.96647,
+    "gn:longitude":48.91353,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kogna-Kushchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00ebgna Kushchu",
+        "Kogna-Kushchi",
+        "Kekhna-Kushchu",
+        "K\u00f6hn\u0259 Qu\u015f\u00e7u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668425,
+        1108808623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586056
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"cf93eb8dba485d7b34f3dd92df4a7d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1276739077,
+            "macroregion_id":1108808623,
+            "region_id":85668425
+        }
+    ],
+    "wof:id":1276739077,
+    "wof:lastmodified":1537585405,
+    "wof:name":"Kogna-Kushchi",
+    "wof:parent_id":85668425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.91353,
+    40.96647,
+    48.91353,
+    40.96647
+],
+  "geometry": {"coordinates":[48.91353,40.96647],"type":"Point"}
+}

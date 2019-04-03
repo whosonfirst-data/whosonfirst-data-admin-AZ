@@ -1,0 +1,76 @@
+{
+  "id": 1192958905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.09965,39.37225,45.09965,39.37225",
+    "geom:latitude":39.37225,
+    "geom:longitude":45.09965,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"8014931.0",
+    "gn:asciiname":"Sahtaxti",
+    "gn:country_code":"AZ",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":147206,
+    "gn:latitude":39.37225,
+    "gn:longitude":45.09965,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u015eahtaxt\u0131",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015eahtaxt\u0131"
+    ],
+    "name:und_x_variant":[
+        "Shakhtakhty",
+        "Shah Takhti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668717,
+        1108808617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":147206,
+        "wk:page":"%C5%9Eahtaxt%C4%B1"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"57eac7f6c66bdc0f613e251717461d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1192958905,
+            "macroregion_id":1108808617,
+            "region_id":85668717
+        }
+    ],
+    "wof:id":1192958905,
+    "wof:lastmodified":1537585154,
+    "wof:name":"Sahtaxti",
+    "wof:parent_id":85668717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.09965,
+    39.37225,
+    45.09965,
+    39.37225
+],
+  "geometry": {"coordinates":[45.09965,39.37225],"type":"Point"}
+}

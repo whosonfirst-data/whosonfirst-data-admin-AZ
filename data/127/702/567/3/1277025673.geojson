@@ -1,0 +1,79 @@
+{
+  "id": 1277025673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.55284,40.78426,47.55284,40.78426",
+    "geom:latitude":40.78426,
+    "geom:longitude":47.55284,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Astraxanovka",
+    "gn:country_code":"AZ",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":587143,
+    "gn:latitude":40.78426,
+    "gn:longitude":47.55284,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Astraxanovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Astraxanovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novaya Astrakhanovka",
+        "Astrakhanovka",
+        "Astraxanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668259,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":587143,
+        "wk:page":"Astraxanovka"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"5776e3c223e44de8a0450f0935c1df27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1277025673,
+            "macroregion_id":1108808627,
+            "region_id":85668259
+        }
+    ],
+    "wof:id":1277025673,
+    "wof:lastmodified":1537585483,
+    "wof:name":"Astraxanovka",
+    "wof:parent_id":85668259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.55284,
+    40.78426,
+    47.55284,
+    40.78426
+],
+  "geometry": {"coordinates":[47.55284,40.78426],"type":"Point"}
+}

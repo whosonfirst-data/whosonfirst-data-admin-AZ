@@ -1,0 +1,68 @@
+{
+  "id": 1327368451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.45361,39.98417,48.45361,39.98417",
+    "geom:latitude":39.98417,
+    "geom:longitude":48.45361,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Mustafa",
+    "gn:country_code":"AZ",
+    "gn:dem":-13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389071,
+    "gn:latitude":39.98417,
+    "gn:longitude":48.45361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mustafa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668433,
+        1108808627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389071,
+        "wk:page":"Mustafa%2C_Azerbaijan"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"a382d93064f918bc6b1a417cf5486932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1327368451,
+            "macroregion_id":1108808627,
+            "region_id":85668433
+        }
+    ],
+    "wof:id":1327368451,
+    "wof:lastmodified":1537486573,
+    "wof:name":"Mustafa",
+    "wof:parent_id":85668433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.45361,
+    39.98417,
+    48.45361,
+    39.98417
+],
+  "geometry": {"coordinates":[48.45361,39.98417],"type":"Point"}
+}

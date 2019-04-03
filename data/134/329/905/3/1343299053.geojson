@@ -1,0 +1,75 @@
+{
+  "id": 1343299053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.79108,40.27944,46.79108,40.27944",
+    "geom:latitude":40.27944,
+    "geom:longitude":46.79108,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Godaksar",
+    "gn:country_code":"AZ",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":586435,
+    "gn:latitude":40.27944,
+    "gn:longitude":46.79108,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Godaksar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:aze_x_preferred":[
+        "Godaksar"
+    ],
+    "name:und_x_variant":[
+        "Aghabekalanj",
+        "Aghabekalinj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668653,
+        1108808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":586435,
+        "wk:page":"Godaksar"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"ef54848b01da74520d3f61fa6a0d129e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1343299053,
+            "macroregion_id":1108808615,
+            "region_id":85668653
+        }
+    ],
+    "wof:id":1343299053,
+    "wof:lastmodified":1537585434,
+    "wof:name":"Godaksar",
+    "wof:parent_id":85668653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.79108,
+    40.27944,
+    46.79108,
+    40.27944
+],
+  "geometry": {"coordinates":[46.79108,40.27944],"type":"Point"}
+}

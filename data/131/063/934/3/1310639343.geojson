@@ -1,0 +1,74 @@
+{
+  "id": 1310639343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.93383,40.91645,47.93383,40.91645",
+    "geom:latitude":40.91645,
+    "geom:longitude":47.93383,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Seyidqislaq",
+    "gn:country_code":"AZ",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":585111,
+    "gn:latitude":40.91645,
+    "gn:longitude":47.93383,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Seyidq\u0131\u015flaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baku",
+    "iso:country":"AZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seidkyshlak",
+        "Seydkyshlak",
+        "Seydkyshlag",
+        "Seyidq\u0131\u015flaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632717,
+        85668541,
+        1108808619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":585111,
+        "wk:page":"Seyidq%C4%B1%C5%9Flaq"
+    },
+    "wof:country":"AZ",
+    "wof:geomhash":"8cec1fe299f76a9bc12e2d09c4cc26cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632717,
+            "locality_id":1310639343,
+            "macroregion_id":1108808619,
+            "region_id":85668541
+        }
+    ],
+    "wof:id":1310639343,
+    "wof:lastmodified":1537585344,
+    "wof:name":"Seyidqislaq",
+    "wof:parent_id":85668541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-az",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.93383,
+    40.91645,
+    47.93383,
+    40.91645
+],
+  "geometry": {"coordinates":[47.93383,40.91645],"type":"Point"}
+}
