@@ -18,9 +18,6 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0627\u0633\u0648\u0641\u0627\u0631"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u056b\u056c\u0575\u0561\u057d\u0578\u0582\u057e\u0561\u0580"
-    ],
     "name:aze_x_preferred":[
         "Pu\u015fkin"
     ],
@@ -30,29 +27,23 @@
     "name:che_x_preferred":[
         "\u0411\u0438\u043b\u044f\u0441\u0443\u0432\u0430\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u62c9\u4e9e\u8607\u74e6\u723e"
-    ],
     "name:dan_x_preferred":[
         "Bil\u0259suvar"
     ],
-    "name:dut_x_preferred":[
-        "Bil\u0259suvar"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03bb\u03b1\u03c3\u03bf\u03c5\u03b2\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Bil\u0259suvar"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0644\u0647\u200c\u0633\u0648\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Bil\u0259suvar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bil\u0259suvar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d8\u10da\u10d8\u10d0\u10e1\u10e3\u10d5\u10d0\u10e0\u10d8"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b9\u03bb\u03b1\u03c3\u03bf\u03c5\u03b2\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0ab2\u0ab8\u0ac1\u0ab5\u0ab0"
@@ -62,6 +53,9 @@
     ],
     "name:hsb_x_preferred":[
         "Bil\u0259suvar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u056c\u0575\u0561\u057d\u0578\u0582\u057e\u0561\u0580"
     ],
     "name:ind_x_preferred":[
         "Bil\u0259suvar"
@@ -75,6 +69,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cbf\u0cb2\u0ccd\u0cb8\u0cc1\u0cb5\u0cb0\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10da\u10d8\u10d0\u10e1\u10e3\u10d5\u10d0\u10e0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ube4c\ub808\uc218\ubc14\ub974"
     ],
@@ -87,17 +84,17 @@
     "name:mar_x_preferred":[
         "\u092c\u093f\u0932\u0938\u0941\u0935\u0930"
     ],
-    "name:may_x_preferred":[
-        "Bil\u0259suvar"
-    ],
     "name:mon_x_preferred":[
         "\u0411\u0438\u043b\u0435\u0441\u0443\u0432\u0430\u0440"
     ],
+    "name:msa_x_preferred":[
+        "Bil\u0259suvar"
+    ],
+    "name:nld_x_preferred":[
+        "Bil\u0259suvar"
+    ],
     "name:nob_x_preferred":[
         "Bilasuvar"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0644\u0647\u200c\u0633\u0648\u0627\u0631"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u06cc\u0644\u0627 \u0633\u0648\u0648\u0631"
@@ -105,7 +102,7 @@
     "name:pol_x_preferred":[
         "Bil\u0259suvar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bilasuvar"
     ],
     "name:rus_x_preferred":[
@@ -144,6 +141,9 @@
     "name:vie_x_preferred":[
         "Bilasuvar"
     ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u62c9\u4e9e\u8607\u74e6\u723e"
+    ],
     "qs:name":"Pushkino",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -177,7 +177,7 @@
         }
     ],
     "wof:id":890443193,
-    "wof:lastmodified":1527787058,
+    "wof:lastmodified":1561830159,
     "wof:name":"Pushkino",
     "wof:parent_id":85668317,
     "wof:placetype":"locality",

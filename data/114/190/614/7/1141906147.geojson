@@ -17,16 +17,16 @@
     "name:aze_x_preferred":[
         "A\u011fdam"
     ],
-    "name:dut_x_preferred":[
-        "A\u011fdam"
-    ],
     "name:eng_x_preferred":[
         "A\u011fdam"
     ],
     "name:ita_x_preferred":[
         "A\u011fdam"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "A\u011fdam"
+    ],
+    "name:nld_x_preferred":[
         "A\u011fdam"
     ],
     "name:rus_x_preferred":[
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":1141906147,
-    "wof:lastmodified":1553816735,
+    "wof:lastmodified":1561830166,
     "wof:name":"Agdam",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

@@ -18,23 +18,23 @@
     "name:aze_x_preferred":[
         "Corat"
     ],
-    "name:dut_x_preferred":[
-        "Corat"
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03c1\u03ac\u03c4"
     ],
     "name:eng_x_preferred":[
         "Corat"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u0631\u0627\u062a"
+    ],
+    "name:fra_x_preferred":[
         "Corat"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10ef\u10dd\u10e0\u10d0\u10d7\u10d8"
     ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03bf\u03c1\u03ac\u03c4"
-    ],
-    "name:per_x_preferred":[
-        "\u062c\u0648\u0631\u0627\u062a"
+    "name:nld_x_preferred":[
+        "Corat"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u043e\u0440\u0430\u0442"
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":890445257,
-    "wof:lastmodified":1553816401,
+    "wof:lastmodified":1561830159,
     "wof:name":"Corat",
     "wof:parent_id":85668465,
     "wof:placetype":"locality",

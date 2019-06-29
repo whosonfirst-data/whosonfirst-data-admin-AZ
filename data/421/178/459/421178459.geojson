@@ -13,19 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0542\u0561\u0566\u0561\u056d"
-    ],
     "name:aze_x_preferred":[
         "Qazax"
     ],
     "name:che_x_preferred":[
         "\u0413\u0430\u0437\u0430\u0445"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u85a9\u514b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Qazax"
     ],
     "name:eng_x_preferred":[
@@ -37,13 +31,7 @@
     "name:fin_x_preferred":[
         "Qazax"
     ],
-    "name:fre_x_preferred":[
-        "Qazax"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e7\u10d0\u10d6\u10d0\u10ee\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Qazax"
     ],
     "name:hsb_x_preferred":[
@@ -52,20 +40,26 @@
     "name:hye_x_preferred":[
         "\u053f\u0578\u0572\u0569"
     ],
+    "name:hye_x_variant":[
+        "\u0542\u0561\u0566\u0561\u056d"
+    ],
     "name:ita_x_preferred":[
         "Qazax"
     ],
     "name:jpn_x_preferred":[
         "\u30ac\u30b6\u30d5"
     ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10d6\u10d0\u10ee\u10d8"
+    ],
     "name:lit_x_preferred":[
         "Kazachas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Qazax"
     ],
-    "name:per_x_preferred":[
-        "\u0642\u0627\u0632\u0627\u062e"
+    "name:nld_x_preferred":[
+        "Qazax"
     ],
     "name:pnb_x_preferred":[
         "\u0642\u0627\u0632\u0627\u062e"
@@ -76,7 +70,7 @@
     "name:por_x_preferred":[
         "Qazax"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Qazax"
     ],
     "name:rus_x_preferred":[
@@ -150,7 +144,7 @@
         }
     ],
     "wof:id":421178459,
-    "wof:lastmodified":1553816368,
+    "wof:lastmodified":1561830158,
     "wof:name":"Kazakh",
     "wof:parent_id":85668229,
     "wof:placetype":"locality",

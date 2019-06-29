@@ -24,7 +24,7 @@
     "name:eng_x_preferred":[
         "\u00c7inarl\u0131"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "\u00c7inarl\u0131"
     ],
     "name:pol_x_preferred":[
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":890454133,
-    "wof:lastmodified":1553816403,
+    "wof:lastmodified":1561830159,
     "wof:name":"\u00c7inarl\u0131",
     "wof:parent_id":85668557,
     "wof:placetype":"locality",

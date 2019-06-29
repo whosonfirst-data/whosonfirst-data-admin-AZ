@@ -13,14 +13,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Shusha"
-    ],
     "name:ara_x_preferred":[
         "\u0634\u0648\u0634\u0629"
-    ],
-    "name:arm_x_preferred":[
-        "\u0547\u0578\u0582\u0577\u056b"
     ],
     "name:azb_x_preferred":[
         "\u0634\u0648\u0634\u0627"
@@ -37,22 +31,19 @@
     "name:cat_x_preferred":[
         "Xuix\u00ed"
     ],
+    "name:ces_x_preferred":[
+        "\u0160u\u0161a"
+    ],
     "name:che_x_preferred":[
         "\u0428\u0443\u0448\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u8212\u6c99"
-    ],
-    "name:cze_x_preferred":[
-        "\u0160u\u0161a"
+    "name:cym_x_preferred":[
+        "Shusha"
     ],
     "name:dan_x_preferred":[
         "\u015eu\u015fa"
     ],
     "name:deu_x_preferred":[
-        "\u015eu\u015fa"
-    ],
-    "name:dut_x_preferred":[
         "\u015eu\u015fa"
     ],
     "name:eng_x_preferred":[
@@ -70,16 +61,10 @@
     "name:fin_x_preferred":[
         "\u015eu\u015fa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chouchi"
     ],
     "name:gag_x_preferred":[
-        "\u015eu\u015fa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10e3\u10e8\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "\u015eu\u015fa"
     ],
     "name:heb_x_preferred":[
@@ -104,20 +89,23 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30e5\u30b7\u30e3"
     ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10e3\u10e8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc288\uc0e4"
     ],
     "name:lit_x_preferred":[
         "\u0160u\u0161a"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Shusha"
+    ],
+    "name:nld_x_preferred":[
+        "\u015eu\u015fa"
     ],
     "name:nob_x_preferred":[
         "Sjusja"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0648\u0634\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0634\u0648\u0634\u0627"
@@ -136,6 +124,9 @@
     ],
     "name:spa_x_preferred":[
         "\u015eu\u015fa"
+    ],
+    "name:sqi_x_preferred":[
+        "Shusha"
     ],
     "name:sun_x_preferred":[
         "Shusha"
@@ -161,8 +152,8 @@
     "name:war_x_preferred":[
         "Shusha"
     ],
-    "name:wel_x_preferred":[
-        "Shusha"
+    "name:zho_x_preferred":[
+        "\u8212\u6c99"
     ],
     "qs:gn_country":"AZ",
     "qs:gn_fcode":"PPLA",
@@ -211,7 +202,7 @@
         }
     ],
     "wof:id":421174129,
-    "wof:lastmodified":1513898795,
+    "wof:lastmodified":1561830157,
     "wof:name":"\u015eu\u015fa",
     "wof:parent_id":85668711,
     "wof:placetype":"locality",

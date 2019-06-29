@@ -22,16 +22,16 @@
     "name:aze_x_preferred":[
         "D\u0259ll\u0259r"
     ],
-    "name:dut_x_preferred":[
-        "D\u0259ll\u0259r"
-    ],
     "name:eng_x_preferred":[
         "D\u01ddlil\u01ddr"
     ],
     "name:jpn_x_preferred":[
         "\u30c0\u30c3\u30e9\u30fc"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "D\u0259ll\u0259r"
+    ],
+    "name:nld_x_preferred":[
         "D\u0259ll\u0259r"
     ],
     "name:rus_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1125862175,
-    "wof:lastmodified":1513898760,
+    "wof:lastmodified":1561830160,
     "wof:name":"Dolyar",
     "wof:parent_id":85668233,
     "wof:placetype":"locality",

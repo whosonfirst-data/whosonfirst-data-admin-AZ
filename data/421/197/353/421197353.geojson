@@ -19,19 +19,16 @@
     "name:ceb_x_preferred":[
         "Qarayeri"
     ],
-    "name:dut_x_preferred":[
-        "Qarayeri"
-    ],
     "name:eng_x_preferred":[
         "Qarayeri"
     ],
     "name:ita_x_preferred":[
         "Qarayeri"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Qarayeri"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Qarayeri"
     ],
     "name:rus_x_preferred":[
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":421197353,
-    "wof:lastmodified":1527716399,
+    "wof:lastmodified":1561830158,
     "wof:name":"Karayeri",
     "wof:parent_id":85668235,
     "wof:placetype":"locality",

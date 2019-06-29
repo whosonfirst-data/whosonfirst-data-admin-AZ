@@ -18,13 +18,13 @@
     "name:aze_x_preferred":[
         "Z\u0259y\u0259m"
     ],
-    "name:dut_x_preferred":[
-        "Z\u0259y\u0259m"
-    ],
     "name:eng_x_preferred":[
         "Z\u01ddy\u01ddm"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Z\u0259y\u0259m"
+    ],
+    "name:nld_x_preferred":[
         "Z\u0259y\u0259m"
     ],
     "name:rus_x_preferred":[
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":890433397,
-    "wof:lastmodified":1513898760,
+    "wof:lastmodified":1561830159,
     "wof:name":"Dzagam",
     "wof:parent_id":85668233,
     "wof:placetype":"locality",

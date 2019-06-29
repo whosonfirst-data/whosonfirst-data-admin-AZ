@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u062e\u0627\u0634\u0645\u0627\u0632"
     ],
-    "name:arm_x_preferred":[
-        "\u053d\u0561\u0579\u0574\u0561\u057d"
-    ],
     "name:arz_x_preferred":[
         "\u062e\u0627\u0634\u0645\u0627\u0632"
     ],
@@ -34,14 +31,14 @@
     "name:che_x_preferred":[
         "\u0425\u0430\u0447\u043c\u0430\u0437"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u5947\u99ac\u65af"
-    ],
     "name:dan_x_preferred":[
         "Khachmaz"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Xa\u00e7maz"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c4\u03c3\u03bc\u03ac\u03b6"
     ],
     "name:eng_x_preferred":[
         "Xa\u00e7maz"
@@ -52,14 +49,8 @@
     "name:fin_x_preferred":[
         "Xa\u00e7maz"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Khachmaz"
-    ],
-    "name:ger_x_preferred":[
-        "Xa\u00e7maz"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c4\u03c3\u03bc\u03ac\u03b6"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0a9a\u0aae\u0abe\u0a9d"
@@ -72,6 +63,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053d\u0561\u0579\u0574\u0561\u0566"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0561\u0579\u0574\u0561\u057d"
     ],
     "name:ind_x_preferred":[
         "Khachmaz"
@@ -100,22 +94,19 @@
     "name:mar_x_preferred":[
         "\u0916\u093e\u0915\u092e\u091d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Khachmaz"
+    ],
+    "name:nld_x_preferred":[
+        "Xa\u00e7maz"
     ],
     "name:nob_x_preferred":[
         "Khachmaz"
-    ],
-    "name:per_x_preferred":[
-        "\u062e\u0627\u0686\u0645\u0627\u0632"
     ],
     "name:pol_x_preferred":[
         "Xa\u00e7maz"
     ],
     "name:ron_x_preferred":[
-        "Hacimaz"
-    ],
-    "name:rum_x_preferred":[
         "Hacimaz"
     ],
     "name:rus_x_preferred":[
@@ -207,7 +198,7 @@
         }
     ],
     "wof:id":421180483,
-    "wof:lastmodified":1553816369,
+    "wof:lastmodified":1561830157,
     "wof:name":"Khachmas",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

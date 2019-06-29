@@ -16,10 +16,10 @@
     "name:aze_x_preferred":[
         "Suraxan\u0131"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Suraxan\u0131"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Suraxan\u0131"
     ],
     "name:rus_x_preferred":[
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":421171249,
-    "wof:lastmodified":1513898789,
+    "wof:lastmodified":1561830158,
     "wof:name":"Suraxan\u1e2f",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

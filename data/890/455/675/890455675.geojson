@@ -21,9 +21,6 @@
     "name:cos_x_preferred":[
         "\u015eollar"
     ],
-    "name:dut_x_preferred":[
-        "\u015eollar"
-    ],
     "name:eng_x_preferred":[
         "\u015eollar"
     ],
@@ -45,7 +42,10 @@
     "name:lez_x_preferred":[
         "\u0428\u043e\u043b\u043b\u0430\u0440"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "\u015eollar"
+    ],
+    "name:nld_x_preferred":[
         "\u015eollar"
     ],
     "name:nya_x_preferred":[
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":890455675,
-    "wof:lastmodified":1527734191,
+    "wof:lastmodified":1561830159,
     "wof:name":"\u015eollar",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

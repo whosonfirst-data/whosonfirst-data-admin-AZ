@@ -22,9 +22,6 @@
     "name:cos_x_preferred":[
         "Qazanbulaq"
     ],
-    "name:dut_x_preferred":[
-        "Qazanbulaq"
-    ],
     "name:eng_x_preferred":[
         "Qazanbulaq"
     ],
@@ -46,10 +43,10 @@
     "name:kon_x_preferred":[
         "Qazanbulaq"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Qazanbulaq"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Qazanbulaq"
     ],
     "name:nya_x_preferred":[
@@ -124,7 +121,7 @@
         }
     ],
     "wof:id":421197839,
-    "wof:lastmodified":1527716407,
+    "wof:lastmodified":1561830158,
     "wof:name":"Kazanbulak",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0634\u0643\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0547\u0561\u0584\u056b"
-    ],
     "name:ava_x_preferred":[
         "\u0428\u0435\u043a\u0438"
     ],
@@ -43,20 +40,20 @@
     "name:cat_x_preferred":[
         "Shaki"
     ],
+    "name:ces_x_preferred":[
+        "\u015e\u0259ki"
+    ],
     "name:che_x_preferred":[
         "\u0428\u0435\u043a\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u820d\u57fa"
-    ],
-    "name:cze_x_preferred":[
-        "\u015e\u0259ki"
     ],
     "name:dan_x_preferred":[
         "Shaki"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u015e\u0259ki"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "\u015e\u01ddki"
@@ -64,23 +61,17 @@
     "name:est_x_preferred":[
         "\u015e\u0259ki"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "\u015e\u0259ki"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Shaki"
     ],
     "name:gag_x_preferred":[
         "\u015e\u00e4ki"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d0\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "\u015e\u0259ki"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03ba\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abe\u0a95\u0ac0"
@@ -94,6 +85,9 @@
     "name:hsb_x_preferred":[
         "\u015e\u0259ki"
     ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0584\u056b"
+    ],
     "name:ind_x_preferred":[
         "Shaki"
     ],
@@ -105,6 +99,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb6\u0c95\u0cc0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10e5\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc100\ud0a4"
@@ -118,17 +115,17 @@
     "name:mar_x_preferred":[
         "\u0936\u0915\u0940"
     ],
-    "name:may_x_preferred":[
-        "Shaki"
-    ],
     "name:mon_x_preferred":[
         "\u0428\u0435\u043a\u0438"
     ],
-    "name:nob_x_preferred":[
+    "name:msa_x_preferred":[
+        "Shaki"
+    ],
+    "name:nld_x_preferred":[
         "\u015e\u0259ki"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u06a9\u06cc"
+    "name:nob_x_preferred":[
+        "\u015e\u0259ki"
     ],
     "name:pol_x_preferred":[
         "\u015e\u0259ki"
@@ -136,7 +133,7 @@
     "name:por_x_preferred":[
         "Shaki"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u0218aki"
     ],
     "name:rus_x_preferred":[
@@ -207,6 +204,9 @@
     ],
     "name:war_x_preferred":[
         "Shaki"
+    ],
+    "name:zho_x_preferred":[
+        "\u820d\u57fa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Azerbaijan",
@@ -333,7 +333,7 @@
         }
     ],
     "wof:id":890440185,
-    "wof:lastmodified":1527727111,
+    "wof:lastmodified":1561830158,
     "wof:name":"Sheki",
     "wof:parent_id":85668707,
     "wof:placetype":"locality",

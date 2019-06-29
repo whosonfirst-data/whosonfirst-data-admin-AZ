@@ -22,14 +22,11 @@
     "name:cos_x_preferred":[
         "Q\u0131z\u0131lhac\u0131l\u0131"
     ],
-    "name:dut_x_preferred":[
-        "Q\u0131z\u0131lhac\u0131l\u0131"
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03b6\u03b9\u03bb\u03c7\u03b1\u03c4\u03c3\u03b9\u03bb\u03af"
     ],
     "name:eng_x_preferred":[
         "Q\u0131z\u0131lhac\u0131l\u0131"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b9\u03b6\u03b9\u03bb\u03c7\u03b1\u03c4\u03c3\u03b9\u03bb\u03af"
     ],
     "name:hau_x_preferred":[
         "Q\u0131z\u0131lhac\u0131l\u0131"
@@ -49,10 +46,10 @@
     "name:kon_x_preferred":[
         "Q\u0131z\u0131lhac\u0131l\u0131"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Q\u0131z\u0131lhac\u0131l\u0131"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Q\u0131z\u0131lhac\u0131l\u0131"
     ],
     "name:nya_x_preferred":[
@@ -129,7 +126,7 @@
         }
     ],
     "wof:id":421178469,
-    "wof:lastmodified":1553816368,
+    "wof:lastmodified":1561830158,
     "wof:name":"Kyzylgadzhyly",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

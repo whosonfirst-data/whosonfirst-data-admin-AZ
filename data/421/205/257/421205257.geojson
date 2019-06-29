@@ -19,10 +19,10 @@
     "name:ceb_x_preferred":[
         "Qala"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Qala"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Qala"
     ],
     "name:rus_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":421205257,
-    "wof:lastmodified":1527716216,
+    "wof:lastmodified":1561830157,
     "wof:name":"Qala",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

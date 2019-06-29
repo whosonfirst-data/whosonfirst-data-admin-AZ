@@ -16,16 +16,13 @@
     "name:aze_x_preferred":[
         "\u015euraabad"
     ],
-    "name:dut_x_preferred":[
-        "\u015euraabad"
-    ],
     "name:eng_x_preferred":[
         "\u015euraabad"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "\u015euraabad"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "\u015euraabad"
     ],
     "name:rus_x_preferred":[
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421172193,
-    "wof:lastmodified":1527716300,
+    "wof:lastmodified":1561830157,
     "wof:name":"\u015euraabad",
     "wof:parent_id":85668485,
     "wof:placetype":"locality",

@@ -22,14 +22,8 @@
     "name:ceb_x_preferred":[
         "Binagadi"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u90a3\u52a0\u8fea\u5340"
-    ],
     "name:deu_x_preferred":[
         "Bin\u0259q\u0259di"
-    ],
-    "name:dut_x_preferred":[
-        "Bin\u0259q\u0259di raion"
     ],
     "name:eng_x_preferred":[
         "Bin\u01ddq\u01dddi"
@@ -37,8 +31,8 @@
     "name:epo_x_preferred":[
         "Binagadi"
     ],
-    "name:ger_x_preferred":[
-        "Bin\u0259q\u0259di"
+    "name:nld_x_preferred":[
+        "Bin\u0259q\u0259di raion"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0438\u043d\u0430\u0433\u0430\u0434\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -54,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Binaghad"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u90a3\u52a0\u8fea\u5340"
     ],
     "qs:gn_country":"AZ",
     "qs:gn_fcode":"PPL",
@@ -102,7 +99,7 @@
         }
     ],
     "wof:id":421178471,
-    "wof:lastmodified":1553816368,
+    "wof:lastmodified":1561830158,
     "wof:name":"Bin\u00e4q\u00e4di",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

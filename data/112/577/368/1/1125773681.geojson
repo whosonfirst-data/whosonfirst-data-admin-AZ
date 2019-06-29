@@ -22,9 +22,6 @@
     "name:arg_x_preferred":[
         "Sadarak"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0576\u0564\u0580\u0578\u0582\u0584"
-    ],
     "name:aze_x_colloquial":[
         "S\u0259d\u0259r\u0259k"
     ],
@@ -34,19 +31,22 @@
     "name:aze_x_preferred":[
         "S\u0259d\u0259r\u0259k"
     ],
-    "name:dut_x_preferred":[
-        "S\u0259d\u0259r\u0259k"
-    ],
     "name:eng_x_preferred":[
         "S\u0259d\u0259r\u0259k"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10d3\u10d0\u10e0\u10d0\u10e5\u10d8"
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u0564\u0580\u0578\u0582\u0584"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30c0\u30e9\u30af"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d3\u10d0\u10e0\u10d0\u10e5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "S\u0259d\u0259r\u0259k"
+    ],
+    "name:nld_x_preferred":[
         "S\u0259d\u0259r\u0259k"
     ],
     "name:rus_x_preferred":[
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1125773681,
-    "wof:lastmodified":1513898785,
+    "wof:lastmodified":1561830161,
     "wof:name":"Sedarak",
     "wof:parent_id":85668663,
     "wof:placetype":"locality",
