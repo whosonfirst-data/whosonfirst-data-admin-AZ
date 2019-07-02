@@ -13,14 +13,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Lankaran"
-    ],
     "name:ara_x_preferred":[
         "\u0644\u0646\u0643\u0631\u0627\u0646"
-    ],
-    "name:arm_x_preferred":[
-        "\u053c\u0565\u0576\u0584\u0578\u0580\u0561\u0576"
     ],
     "name:arz_x_preferred":[
         "\u0644\u0646\u0643\u0631\u0627\u0646"
@@ -46,14 +40,11 @@
     "name:cat_x_preferred":[
         "Lenkoran"
     ],
+    "name:ces_x_preferred":[
+        "Lenkoran"
+    ],
     "name:che_x_preferred":[
         "\u041b\u0435\u043d\u043a\u043e\u0440\u0430\u043d\u044c"
-    ],
-    "name:chi_x_preferred":[
-        "\u9023\u79d1\u862d"
-    ],
-    "name:cze_x_preferred":[
-        "Lenkoran"
     ],
     "name:dan_x_preferred":[
         "Lankaran"
@@ -64,8 +55,8 @@
     "name:diq_x_preferred":[
         "Lenkeran"
     ],
-    "name:dut_x_preferred":[
-        "L\u0259nk\u0259ran"
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03bd\u03ba\u03b1\u03c1\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Lankaran"
@@ -76,26 +67,17 @@
     "name:est_x_preferred":[
         "L\u0259nk\u0259ran"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u06a9\u0631\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "L\u0259nk\u0259ran"
     ],
     "name:fra_x_preferred":[
         "Lankaran"
     ],
-    "name:fre_x_preferred":[
-        "Lankaran"
-    ],
     "name:gag_x_preferred":[
         "L\u00e4nk\u00e4ran"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d4\u10dc\u10e5\u10dd\u10e0\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "L\u0259nk\u0259ran"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1\u03bd\u03ba\u03b1\u03c1\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0a82\u0a95\u0abe\u0ab0\u0aa3"
@@ -108,6 +90,9 @@
     ],
     "name:hsb_x_preferred":[
         "L\u0259nk\u0259ran"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0565\u0576\u0584\u0578\u0580\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Lankaran"
@@ -123,6 +108,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb2\u0c82\u0c95\u0cb0\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10dc\u10e5\u10dd\u10e0\u10d0\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ub80c\ucf00\ub780"
@@ -142,20 +130,20 @@
     "name:mar_x_preferred":[
         "\u0932\u0902\u0915\u0930\u0923"
     ],
-    "name:may_x_preferred":[
-        "Lankaran"
-    ],
     "name:mon_x_preferred":[
         "\u041b\u0430\u043d\u043a\u0435\u0440\u0430\u043d \u0445\u043e\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Lankaran"
+    ],
+    "name:nld_x_preferred":[
+        "L\u0259nk\u0259ran"
     ],
     "name:nob_x_preferred":[
         "L\u0259nk\u0259ran"
     ],
     "name:oss_x_preferred":[
         "\u041b\u0435\u043d\u043a\u043e\u0440\u0430\u043d\u044c"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0646\u06a9\u0631\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0644\u06cc\u0646\u06a9\u06cc\u0631\u0627\u0646 \u0634\u06c1\u0631"
@@ -166,7 +154,7 @@
     "name:por_x_preferred":[
         "Lankaran"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Lankaran"
     ],
     "name:rus_x_colloquial":[
@@ -189,6 +177,9 @@
         "Lankaran"
     ],
     "name:spa_x_preferred":[
+        "Lankaran"
+    ],
+    "name:sqi_x_preferred":[
         "Lankaran"
     ],
     "name:sun_x_preferred":[
@@ -235,6 +226,9 @@
     ],
     "name:war_x_preferred":[
         "Lankaran"
+    ],
+    "name:zho_x_preferred":[
+        "\u9023\u79d1\u862d"
     ],
     "qs:gn_country":"AZ",
     "qs:gn_fcode":"PPL",
@@ -283,7 +277,7 @@
         }
     ],
     "wof:id":421182679,
-    "wof:lastmodified":1513898776,
+    "wof:lastmodified":1561830158,
     "wof:name":"L\u00e4nk\u00e4ran",
     "wof:parent_id":85668697,
     "wof:placetype":"locality",

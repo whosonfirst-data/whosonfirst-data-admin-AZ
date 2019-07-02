@@ -22,17 +22,17 @@
     "name:aze_x_preferred":[
         "Korg\u00f6z"
     ],
-    "name:dut_x_preferred":[
-        "Korg\u00f6z"
-    ],
     "name:eng_x_preferred":[
         "Korg\u00f6z"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u06af\u0648\u0632"
+    ],
+    "name:fra_x_preferred":[
         "Korg\u00f6z"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0631\u06af\u0648\u0632"
+    "name:nld_x_preferred":[
+        "Korg\u00f6z"
     ],
     "name:rus_x_preferred":[
         "K\u00ebrg\u00ebz"
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1126002091,
-    "wof:lastmodified":1513898766,
+    "wof:lastmodified":1561830161,
     "wof:name":"Korg\u00f6z",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

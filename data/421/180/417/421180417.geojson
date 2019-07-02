@@ -16,9 +16,6 @@
     "name:aze_x_preferred":[
         "Ma\u015fta\u011fa"
     ],
-    "name:dut_x_preferred":[
-        "Ma\u015fta\u011fa"
-    ],
     "name:eng_x_preferred":[
         "Ma\u015fta\u011fa"
     ],
@@ -28,14 +25,11 @@
     "name:fra_x_preferred":[
         "Ma\u015fta\u011fa"
     ],
-    "name:fre_x_preferred":[
-        "Ma\u015fta\u011fa"
-    ],
     "name:lit_x_preferred":[
         "Ma\u0161taga"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0634\u062a\u0627\u063a\u0627"
+    "name:nld_x_preferred":[
+        "Ma\u015fta\u011fa"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0448\u0442\u0430\u0433\u0430"
@@ -92,7 +86,7 @@
         }
     ],
     "wof:id":421180417,
-    "wof:lastmodified":1513898776,
+    "wof:lastmodified":1561830157,
     "wof:name":"Mashtaga",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

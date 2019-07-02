@@ -16,23 +16,20 @@
     "name:aze_x_preferred":[
         "Bil\u0259c\u0259ri"
     ],
-    "name:dut_x_preferred":[
-        "Bil\u0259c\u0259ri"
-    ],
     "name:eng_x_preferred":[
         "Bil\u0259c\u0259ri"
     ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u0644\u0647\u200c\u062c\u0631\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0628\u06cc\u0644\u0647 \u062c\u0631\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Bil\u0259c\u0259ri"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Bil\u0259c\u0259ri"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0644\u0647 \u062c\u0631\u06cc"
     ],
     "name:pol_x_preferred":[
         "Bil\u0259c\u0259ri"
@@ -92,7 +89,7 @@
         }
     ],
     "wof:id":421178473,
-    "wof:lastmodified":1513898759,
+    "wof:lastmodified":1561830158,
     "wof:name":"Bil\u00e4c\u00e4ri",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

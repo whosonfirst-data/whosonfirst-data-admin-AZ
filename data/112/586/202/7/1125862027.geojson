@@ -22,19 +22,19 @@
     "name:aze_x_preferred":[
         "Digah"
     ],
-    "name:dut_x_preferred":[
-        "Digah"
-    ],
     "name:eng_x_preferred":[
         "Digah"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d8\u10d2\u10d0\u10f0\u10d8"
     ],
     "name:ita_x_preferred":[
         "Digah"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10d2\u10d0\u10f0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Digah"
+    ],
+    "name:nld_x_preferred":[
         "Digah"
     ],
     "name:pol_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125862027,
-    "wof:lastmodified":1553816580,
+    "wof:lastmodified":1561830160,
     "wof:name":"Digah",
     "wof:parent_id":85668251,
     "wof:placetype":"locality",

@@ -16,13 +16,13 @@
     "name:aze_x_preferred":[
         "Ramana"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ramana"
     ],
     "name:eng_x_preferred":[
         "Ramana"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Ramana"
     ],
     "name:por_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":421175737,
-    "wof:lastmodified":1527716335,
+    "wof:lastmodified":1561830157,
     "wof:name":"Ramana",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

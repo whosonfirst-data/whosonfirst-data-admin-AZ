@@ -22,22 +22,22 @@
     "name:aze_x_preferred":[
         "Ceyranbatan"
     ],
-    "name:dut_x_preferred":[
-        "Ceyranbatan"
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b5\u03ca\u03c1\u03b1\u03bd\u03bc\u03c0\u03b1\u03c4\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Ceyranbatan"
     ],
-    "name:geo_x_preferred":[
-        "\u10ef\u10d4\u10d8\u10e0\u10d0\u10dc\u10d1\u10d0\u10d7\u10d0\u10dc\u10d8"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b5\u03ca\u03c1\u03b1\u03bd\u03bc\u03c0\u03b1\u03c4\u03ac\u03bd"
-    ],
     "name:ita_x_preferred":[
         "Ceyranbatan"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10ef\u10d4\u10d8\u10e0\u10d0\u10dc\u10d1\u10d0\u10d7\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Ceyranbatan"
+    ],
+    "name:nld_x_preferred":[
         "Ceyranbatan"
     ],
     "name:pol_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1125862021,
-    "wof:lastmodified":1513898760,
+    "wof:lastmodified":1561830160,
     "wof:name":"Ceyranbatan",
     "wof:parent_id":85668251,
     "wof:placetype":"locality",

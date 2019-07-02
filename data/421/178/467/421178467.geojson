@@ -13,14 +13,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Mingachevir"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u062c\u0627 \u062a\u0634\u064a\u0641\u064a\u0631"
-    ],
-    "name:arm_x_preferred":[
-        "\u0544\u056b\u0576\u0563\u0565\u0579\u0561\u0578\u0582\u0580"
     ],
     "name:arz_x_preferred":[
         "\u0645\u064a\u0646\u062c\u0647 \u0634\u064a\u06a4\u0631"
@@ -40,14 +34,11 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u043d\u0433\u0435\u0447\u0430\u0443\u0440"
     ],
+    "name:ces_x_preferred":[
+        "Minga\u010devir"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0438\u043d\u0433\u0435\u0447\u0430\u0443\u0440"
-    ],
-    "name:chi_x_preferred":[
-        "\u660e\u76d6\u6070\u4e4c\u5c14"
-    ],
-    "name:cze_x_preferred":[
-        "Minga\u010devir"
     ],
     "name:dan_x_preferred":[
         "Mingachevir"
@@ -55,7 +46,7 @@
     "name:deu_x_preferred":[
         "Ming\u00e4\u00e7evir"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Ming\u0259\u00e7evir"
     ],
     "name:ell_x_preferred":[
@@ -70,23 +61,17 @@
     "name:est_x_preferred":[
         "Ming\u0259\u00e7evir"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0646\u06af\u0647\u200c\u0686\u0648\u06cc\u0631"
+    ],
     "name:fin_x_preferred":[
         "Ming\u0259\u00e7evir"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mingachevir"
     ],
     "name:gag_x_preferred":[
         "Ming\u00e4\u00e7evir"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10dc\u10d2\u10d4\u10e9\u10d0\u10e3\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ming\u0259\u00e7evir"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b9\u03bd\u03b3\u03ba\u03b1\u03c4\u03c3\u03b5\u03b2\u03af\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0a82\u0a97\u0a9a\u0ac7\u0ab5\u0ac0\u0ab0"
@@ -100,6 +85,9 @@
     "name:hsb_x_preferred":[
         "Ming\u0259\u00e7evir"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u0576\u0563\u0565\u0579\u0561\u0578\u0582\u0580"
+    ],
     "name:ind_x_preferred":[
         "Mingachevir"
     ],
@@ -111,6 +99,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbf\u0c82\u0c97\u0c9a\u0cc6\u0cb5\u0cc0\u0cb0\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10dc\u10d2\u10d4\u10e9\u10d0\u10e3\u10e0\u10d8"
     ],
     "name:kir_x_preferred":[
         "\u041c\u0438\u043d\u0433\u0435\u0447\u0443\u0430\u0440"
@@ -127,17 +118,17 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u0902\u0917\u091a\u0947\u0935\u094d\u0939\u0940\u0930"
     ],
-    "name:may_x_preferred":[
-        "Mingachevir"
-    ],
     "name:mon_x_preferred":[
         "\u041c\u0438\u043d\u0433\u0435\u0447\u0435\u0432\u0438\u0440 \u0445\u043e\u0442"
     ],
-    "name:nob_x_preferred":[
+    "name:msa_x_preferred":[
         "Mingachevir"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0646\u06af\u0647\u200c\u0686\u0648\u06cc\u0631"
+    "name:nld_x_preferred":[
+        "Ming\u0259\u00e7evir"
+    ],
+    "name:nob_x_preferred":[
+        "Mingachevir"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u0646\u06af\u06cc\u0686\u06cc\u0648\u06cc\u0631 \u0634\u06c1\u0631"
@@ -148,7 +139,7 @@
     "name:por_x_preferred":[
         "Mingachevir"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mingacevir"
     ],
     "name:rus_x_preferred":[
@@ -162,6 +153,9 @@
     ],
     "name:spa_x_preferred":[
         "Mingacevir"
+    ],
+    "name:sqi_x_preferred":[
+        "Mingachevir"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0438\u043d\u0433\u0435\u0447\u0435\u0432\u0438\u0440"
@@ -204,6 +198,9 @@
     ],
     "name:war_x_preferred":[
         "Mingachevir"
+    ],
+    "name:zho_x_preferred":[
+        "\u660e\u76d6\u6070\u4e4c\u5c14"
     ],
     "qs:gn_country":"AZ",
     "qs:gn_fcode":"PPLA",
@@ -256,7 +253,7 @@
         }
     ],
     "wof:id":421178467,
-    "wof:lastmodified":1527717726,
+    "wof:lastmodified":1561830158,
     "wof:name":"Mingechaur",
     "wof:parent_id":85668225,
     "wof:placetype":"locality",

@@ -28,17 +28,17 @@
     "name:bak_x_preferred":[
         "\u0411\u0438\u0431\u0438\u04bb\u04d9\u0439\u0431\u04d9\u0442"
     ],
-    "name:dut_x_preferred":[
-        "Bibi-Heybat"
+    "name:deu_x_preferred":[
+        "Xanlar"
     ],
     "name:eng_x_preferred":[
         "Bibiheyb\u0259t"
     ],
-    "name:fre_x_preferred":[
-        "Bibiheyb\u0259t"
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u200c\u0628\u06cc\u200c\u0647\u06cc\u0628\u062a"
     ],
-    "name:ger_x_preferred":[
-        "Xanlar"
+    "name:fra_x_preferred":[
+        "Bibiheyb\u0259t"
     ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u0928\u094d\u0932\u093e\u0930"
@@ -49,11 +49,11 @@
     "name:kor_x_preferred":[
         "\ud55c\ub77c\ub974"
     ],
+    "name:nld_x_preferred":[
+        "Bibi-Heybat"
+    ],
     "name:nob_x_preferred":[
         "Xanlar"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u200c\u0628\u06cc\u200c\u0647\u06cc\u0628\u062a"
     ],
     "name:por_x_preferred":[
         "Xanlar"
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":421192441,
-    "wof:lastmodified":1513898792,
+    "wof:lastmodified":1561830156,
     "wof:name":"Xanlar",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

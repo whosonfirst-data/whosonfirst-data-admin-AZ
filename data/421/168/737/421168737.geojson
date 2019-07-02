@@ -17,38 +17,32 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u063a\u0648\u0631\u0627\u0646\u0628\u0648\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u0578\u0580\u0561\u0576\u0562\u0578\u0575"
-    ],
     "name:aze_x_preferred":[
         "Qas\u0131m Ismay\u0131lov"
     ],
     "name:che_x_preferred":[
         "\u0413\u0435\u0440\u0430\u043d\u0431\u043e\u0439"
     ],
-    "name:chi_x_preferred":[
-        "\u6208\u862d\u535a\u4f0a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Goranboy"
     ],
     "name:eng_x_preferred":[
         "Goranboy"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0627\u0646\u200c\u0628\u0648\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Goranboy"
     ],
-    "name:fre_x_preferred":[
-        "Goranboy"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10dd\u10e0\u10d0\u10dc\u10d1\u10dd\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Goranboy"
     ],
     "name:hsb_x_preferred":[
         "Goranboy"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0580\u0561\u0576\u0562\u0578\u0575"
     ],
     "name:ita_x_preferred":[
         "Goranboy"
@@ -56,17 +50,20 @@
     "name:jpn_x_preferred":[
         "\u30b4\u30e9\u30f3\u30dc\u30a4\u770c"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10e0\u10d0\u10dc\u10d1\u10dd\u10d8"
+    ],
     "name:lit_x_preferred":[
         "Goranbojus"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Goranboy"
     ],
     "name:nds_x_preferred":[
         "Goranboy"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0631\u0627\u0646\u200c\u0628\u0648\u06cc"
+    "name:nld_x_preferred":[
+        "Goranboy"
     ],
     "name:pol_x_preferred":[
         "Goranboy"
@@ -74,7 +71,7 @@
     "name:por_x_preferred":[
         "Goranboy"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Goranboy"
     ],
     "name:rus_x_preferred":[
@@ -94,6 +91,9 @@
     ],
     "name:unk_x_variant":[
         "Kasum-Ismailovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u862d\u535a\u4f0a"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Azerbaijan",
@@ -234,7 +234,7 @@
         }
     ],
     "wof:id":421168737,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561830156,
     "wof:name":"Goranboy",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

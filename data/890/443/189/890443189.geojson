@@ -15,19 +15,13 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054b\u0561\u0562\u0580\u0561\u0575\u056b\u056c"
-    ],
     "name:aze_x_preferred":[
         "C\u0259bray\u0131l"
     ],
     "name:che_x_preferred":[
         "\u0414\u0436\u0435\u0431\u0440\u0430\u0438\u043b"
     ],
-    "name:chi_x_preferred":[
-        "\u5091\u5e03\u62c9\u4f0a\u723e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "C\u0259bray\u0131l"
     ],
     "name:eng_x_preferred":[
@@ -36,11 +30,8 @@
     "name:fin_x_preferred":[
         "C\u0259bray\u0131l"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "C\u0259brayil"
-    ],
-    "name:ger_x_preferred":[
-        "C\u0259bray\u0131l"
     ],
     "name:hsb_x_preferred":[
         "C\u0259bray\u0131l"
@@ -53,7 +44,8 @@
         "Jrakan",
         "\u0544\u0565\u056d\u0561\u056f\u0561\u057e\u0561\u0576",
         "\u0541\u0580\u0561\u056f\u0561\u0576",
-        "Jabrail"
+        "Jabrail",
+        "\u054b\u0561\u0562\u0580\u0561\u0575\u056b\u056c"
     ],
     "name:ita_x_preferred":[
         "C\u0259bray\u0131l"
@@ -64,11 +56,14 @@
     "name:lit_x_preferred":[
         "D\u017eebrajilas"
     ],
-    "name:may_x_preferred":[
-        "C\u0259brayil"
-    ],
     "name:min_x_preferred":[
         "C\u0259brayil"
+    ],
+    "name:msa_x_preferred":[
+        "C\u0259brayil"
+    ],
+    "name:nld_x_preferred":[
+        "C\u0259bray\u0131l"
     ],
     "name:pnb_x_preferred":[
         "\u062c\u0628\u0631\u0627\u0626\u06cc\u0644 \u0634\u06c1\u0631"
@@ -76,7 +71,7 @@
     "name:pol_x_preferred":[
         "C\u0259bray\u0131l"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Djabrayil"
     ],
     "name:rus_x_preferred":[
@@ -96,6 +91,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0628\u0631\u0627\u06cc\u06cc\u0644"
+    ],
+    "name:zho_x_preferred":[
+        "\u5091\u5e03\u62c9\u4f0a\u723e"
     ],
     "qs:name":"Jebrail",
     "qs:photos_9r":0,
@@ -128,7 +126,7 @@
         }
     ],
     "wof:id":890443189,
-    "wof:lastmodified":1513898763,
+    "wof:lastmodified":1561830159,
     "wof:name":"Jebrail",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

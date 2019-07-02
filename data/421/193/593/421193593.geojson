@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u0642\u0648\u0628\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0542\u0578\u0582\u0562\u0561"
-    ],
     "name:aze_x_preferred":[
         "Quba"
     ],
@@ -34,13 +31,7 @@
     "name:che_x_preferred":[
         "\u0413\u0443\u0431\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u5df4"
-    ],
     "name:deu_x_preferred":[
-        "Quba"
-    ],
-    "name:dut_x_preferred":[
         "Quba"
     ],
     "name:eng_x_preferred":[
@@ -55,13 +46,7 @@
     "name:fra_x_preferred":[
         "Quba"
     ],
-    "name:fre_x_preferred":[
-        "Quba"
-    ],
     "name:gag_x_preferred":[
-        "Quba"
-    ],
-    "name:ger_x_preferred":[
         "Quba"
     ],
     "name:heb_x_preferred":[
@@ -72,6 +57,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0582\u0562\u0561"
+    ],
+    "name:hye_x_variant":[
+        "\u0542\u0578\u0582\u0562\u0561"
     ],
     "name:ita_x_preferred":[
         "Quba"
@@ -88,9 +76,6 @@
     "name:lit_x_preferred":[
         "Kuba"
     ],
-    "name:may_x_preferred":[
-        "Quba"
-    ],
     "name:msa_x_preferred":[
         "Quba"
     ],
@@ -100,9 +85,6 @@
     "name:nob_x_preferred":[
         "Quba"
     ],
-    "name:per_x_preferred":[
-        "\u0642\u0648\u0628\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0642\u0648\u0628\u0627"
     ],
@@ -110,9 +92,6 @@
         "Quba"
     ],
     "name:ron_x_preferred":[
-        "Quba"
-    ],
-    "name:rum_x_preferred":[
         "Quba"
     ],
     "name:rus_x_preferred":[
@@ -199,7 +178,7 @@
         }
     ],
     "wof:id":421193593,
-    "wof:lastmodified":1553816381,
+    "wof:lastmodified":1561830156,
     "wof:name":"Quba",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

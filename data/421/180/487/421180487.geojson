@@ -22,13 +22,13 @@
     "name:ceb_x_preferred":[
         "Zyrya"
     ],
-    "name:dut_x_preferred":[
-        "Zir\u0259"
-    ],
     "name:eng_x_preferred":[
         "Zir\u01dd"
     ],
     "name:est_x_preferred":[
+        "Zir\u0259"
+    ],
+    "name:nld_x_preferred":[
         "Zir\u0259"
     ],
     "name:rus_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":421180487,
-    "wof:lastmodified":1513898794,
+    "wof:lastmodified":1561830157,
     "wof:name":"Zyrya",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

@@ -18,22 +18,22 @@
     "name:aze_x_preferred":[
         "Saray"
     ],
-    "name:dut_x_preferred":[
-        "Saray"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Saray"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10e0\u10d0\u10d8"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03c1\u03ac\u03b9"
-    ],
     "name:ita_x_preferred":[
         "Saray"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10d0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Saray"
+    ],
+    "name:nld_x_preferred":[
         "Saray"
     ],
     "name:rus_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":890433381,
-    "wof:lastmodified":1553816395,
+    "wof:lastmodified":1561830160,
     "wof:name":"Saray",
     "wof:parent_id":85668251,
     "wof:placetype":"locality",

@@ -14,9 +14,6 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0535\u057e\u056c\u0561\u056d"
-    ],
     "name:aze_x_preferred":[
         "Yevlax"
     ],
@@ -29,19 +26,13 @@
     "name:ces_x_preferred":[
         "Yevlax"
     ],
+    "name:ces_x_variant":[
+        "Jevlach"
+    ],
     "name:che_x_preferred":[
         "\u0415\u0432\u043b\u0430\u0445"
     ],
-    "name:chi_x_preferred":[
-        "\u8449\u592b\u62c9\u8d6b"
-    ],
-    "name:cze_x_preferred":[
-        "Jevlach"
-    ],
     "name:deu_x_preferred":[
-        "Yevlax"
-    ],
-    "name:dut_x_preferred":[
         "Yevlax"
     ],
     "name:eng_x_preferred":[
@@ -50,17 +41,17 @@
     "name:fas_x_preferred":[
         "\u06cc\u0626\u0648\u0644\u0627\u062e"
     ],
+    "name:fas_x_variant":[
+        "\u06cc\u0648\u0644\u0627\u062e"
+    ],
     "name:fin_x_preferred":[
         "Yevlax"
     ],
     "name:fra_x_preferred":[
         "Yevlax"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Ievlakh"
-    ],
-    "name:ger_x_preferred":[
-        "Yevlax"
     ],
     "name:heb_x_preferred":[
         "\u05d9\u05d9\u05d1\u05dc\u05d0\u05d7"
@@ -89,9 +80,6 @@
     "name:lit_x_preferred":[
         "Jevlachas"
     ],
-    "name:may_x_preferred":[
-        "Yevlakh"
-    ],
     "name:mon_x_preferred":[
         "\u0415\u0432\u043b\u0430\u0445"
     ],
@@ -101,9 +89,6 @@
     "name:nld_x_preferred":[
         "Yevlax"
     ],
-    "name:per_x_preferred":[
-        "\u06cc\u0648\u0644\u0627\u062e"
-    ],
     "name:pnb_x_preferred":[
         "\u06cc\u06cc\u0648\u0644\u0627\u062e \u0634\u06c1\u0631"
     ],
@@ -111,9 +96,6 @@
         "Yevlax"
     ],
     "name:ron_x_preferred":[
-        "Ievlah"
-    ],
-    "name:rum_x_preferred":[
         "Ievlah"
     ],
     "name:rus_x_preferred":[
@@ -301,7 +283,7 @@
         }
     ],
     "wof:id":421179963,
-    "wof:lastmodified":1527717702,
+    "wof:lastmodified":1561830158,
     "wof:name":"Yevlax",
     "wof:parent_id":85668715,
     "wof:placetype":"locality",
