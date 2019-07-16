@@ -13,8 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0647\u0628\u0648\u0632"
+    ],
+    "name:azb_x_preferred":[
+        "\u0634\u0627\u0647\u200c\u0628\u0648\u0632"
+    ],
     "name:aze_x_preferred":[
         "\u015eahbuz"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u0430\u0445\u0431\u0443\u0437"
     ],
     "name:ceb_x_preferred":[
         "\u015eahbuz"
@@ -132,7 +141,7 @@
         }
     ],
     "wof:id":421200365,
-    "wof:lastmodified":1561830158,
+    "wof:lastmodified":1563281848,
     "wof:name":"\u015eahbuz",
     "wof:parent_id":85668683,
     "wof:placetype":"locality",

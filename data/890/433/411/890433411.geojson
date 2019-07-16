@@ -15,7 +15,13 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0622\u0644\u062a\u06cc \u0622\u063a\u0627\u062c"
+    ],
     "name:aze_x_preferred":[
+        "Alt\u0131a\u011fac"
+    ],
+    "name:ceb_x_preferred":[
         "Alt\u0131a\u011fac"
     ],
     "name:ell_x_preferred":[
@@ -27,8 +33,17 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u062a\u06cc\u0627\u06af\u0627\u06a9"
     ],
+    "name:ita_x_preferred":[
+        "Alt\u0131a\u011fac"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d7\u10d8\u10d0\u10e6\u10d0\u10ef\u10d8"
+    ],
     "name:msa_x_preferred":[
         "Alt\u0131a\u011fac"
+    ],
+    "name:msa_x_variant":[
+        "Kyadabek"
     ],
     "name:nld_x_preferred":[
         "Alt\u0131a\u011fac"
@@ -82,7 +97,7 @@
         }
     ],
     "wof:id":890433411,
-    "wof:lastmodified":1561830160,
+    "wof:lastmodified":1563281879,
     "wof:name":"Alt\u0131a\u011fac",
     "wof:parent_id":85668485,
     "wof:placetype":"locality",

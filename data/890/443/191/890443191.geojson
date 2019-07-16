@@ -18,14 +18,26 @@
     "name:ara_x_preferred":[
         "\u062c\u0644\u064a\u0644 \u0627\u0628\u0627\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u062c\u0644\u064a\u0644 \u0622\u0628\u0627\u062f"
+    ],
     "name:arz_x_preferred":[
         "\u062c\u0644\u064a\u0644 \u0622\u0628\u0627\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u0644\u06cc\u0644 \u0622\u0628\u0627\u062f"
     ],
     "name:aze_x_preferred":[
         "C\u0259lilabad"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u0436\u0430\u043b\u0456\u043b\u0430\u0431\u0430\u0434"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09b2\u09bf\u09b2\u09be\u09ac\u09be\u09a6"
+    ],
+    "name:ceb_x_preferred":[
+        "Dzhalilabad"
     ],
     "name:che_x_preferred":[
         "\u0414\u0436\u0430\u043b\u0438\u043b\u0430\u0431\u0430\u0434"
@@ -108,6 +120,9 @@
     "name:rus_x_preferred":[
         "\u0414\u0436\u0430\u043b\u0438\u043b\u044c\u0430\u0431\u0430\u0434"
     ],
+    "name:rus_x_variant":[
+        "\u0414\u0436\u0430\u043b\u0438\u043b\u0430\u0431\u0430\u0434"
+    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dbd\u0dd2\u0dbd\u0dcf\u0db6\u0dcf\u0daf\u0dca"
     ],
@@ -119,6 +134,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0bb2\u0bbf\u0bb2\u0bbe\u0baa\u0b9f\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0496\u04d9\u043b\u0438\u043b\u0430\u0431\u0430\u0434"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c32\u0c40\u0c32\u0c3e\u0c2c\u0c3e\u0c26\u0c4d"
@@ -180,7 +198,7 @@
         }
     ],
     "wof:id":890443191,
-    "wof:lastmodified":1561830159,
+    "wof:lastmodified":1563281872,
     "wof:name":"Dzhalilabad",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

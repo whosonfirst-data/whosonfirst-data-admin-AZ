@@ -19,6 +19,9 @@
     "name:arz_x_preferred":[
         "\u0645\u064a\u0646\u062c\u0647 \u0634\u064a\u06a4\u0631"
     ],
+    "name:ast_x_preferred":[
+        "Mingachevir"
+    ],
     "name:ava_x_preferred":[
         "\u041c\u0438\u043d\u0433\u0435\u0447\u0430\u0443\u0440"
     ],
@@ -28,17 +31,26 @@
     "name:aze_x_preferred":[
         "Ming\u0259\u00e7evir"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u043d\u0433\u0435\u0447\u0430\u0443\u0440"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u0999\u09cd\u0997\u09be\u099a\u09c7\u09ad\u09bf\u09b0"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0438\u043d\u0433\u0435\u0447\u0430\u0443\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Mingacevir City"
+    ],
     "name:ces_x_preferred":[
         "Minga\u010devir"
     ],
     "name:che_x_preferred":[
         "\u041c\u0438\u043d\u0433\u0435\u0447\u0430\u0443\u0440"
+    ],
+    "name:crh_x_preferred":[
+        "Minge\u00e7evir"
     ],
     "name:dan_x_preferred":[
         "Mingachevir"
@@ -130,6 +142,9 @@
     "name:nob_x_preferred":[
         "Mingachevir"
     ],
+    "name:oss_x_preferred":[
+        "\u041c\u0438\u043d\u0433\u0435\u0447\u0430\u0443\u0440"
+    ],
     "name:pnb_x_preferred":[
         "\u0645\u0646\u06af\u06cc\u0686\u06cc\u0648\u06cc\u0631 \u0634\u06c1\u0631"
     ],
@@ -145,6 +160,9 @@
     "name:rus_x_preferred":[
         "\u041c\u0438\u043d\u0433\u0435\u0447\u0430\u0443\u0440"
     ],
+    "name:rus_x_variant":[
+        "\u041c\u0438\u043d\u0433\u0435\u0447\u0435\u0432\u0438\u0440"
+    ],
     "name:sco_x_preferred":[
         "Mingachevir"
     ],
@@ -153,6 +171,9 @@
     ],
     "name:spa_x_preferred":[
         "Mingacevir"
+    ],
+    "name:spa_x_variant":[
+        "Mingachevir"
     ],
     "name:sqi_x_preferred":[
         "Mingachevir"
@@ -169,6 +190,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bbf\u0b99\u0bcd\u0b95\u0bbe\u0b9a\u0bc6\u0bb5\u0bbf\u0bb1\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0438\u04a3\u0433\u0435\u0447\u04d9\u0432\u0435\u0440"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3f\u0c02\u0c17\u0c3e\u0c1a\u0c46\u0c35\u0c3f\u0c30\u0c4d"
     ],
@@ -183,6 +207,9 @@
     ],
     "name:tur_x_preferred":[
         "Mingachevir"
+    ],
+    "name:tur_x_variant":[
+        "Minge\u00e7evir"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043d\u0433\u0435\u0447\u0430\u0443\u0440"
@@ -253,7 +280,7 @@
         }
     ],
     "wof:id":421178467,
-    "wof:lastmodified":1561830158,
+    "wof:lastmodified":1563281856,
     "wof:name":"Mingechaur",
     "wof:parent_id":85668225,
     "wof:placetype":"locality",

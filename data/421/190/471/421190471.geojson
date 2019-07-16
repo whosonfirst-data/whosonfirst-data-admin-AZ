@@ -16,14 +16,23 @@
     "name:ava_x_preferred":[
         "\u0410\u043c\u0438\u0440\u0445\u0430\u043d"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u06cc\u0631\u062c\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
         "\u018fmircan"
+    ],
+    "name:ceb_x_preferred":[
+        "Amirdzhan"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03bc\u03b9\u03c1\u03c4\u03c3\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "\u018fmircan"
+    ],
+    "name:eng_x_variant":[
+        "Amirjan"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0645\u06cc\u0631\u062c\u0627\u0646"
@@ -54,6 +63,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043c\u0456\u0440\u0434\u0436\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645\u06cc\u0631\u062c\u0627\u0646"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":421190471,
-    "wof:lastmodified":1561830157,
+    "wof:lastmodified":1563281846,
     "wof:name":"\u00c4mircan",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

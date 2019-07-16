@@ -26,11 +26,167 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0642\u0648\u0628\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0628\u0627 \u0631\u0627\u06cc\u0648\u0646\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Quba"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u09ac\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Quba"
+    ],
+    "name:ceb_x_preferred":[
+        "Quba Rayon"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0443\u0431\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:dan_x_preferred":[
+        "Quba District"
+    ],
+    "name:deu_x_preferred":[
+        "Quba"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03bc\u03c0\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Quba"
     ],
+    "name:eng_x_variant":[
+        "Quba District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0642\u0628\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Quban piirikunta"
+    ],
+    "name:fra_x_preferred":[
+        "Quba"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acd\u0aaf\u0ac1\u0aac\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u092f\u0942\u092c\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Kubinski rajon"
+    ],
+    "name:hun_x_preferred":[
+        "Qubai j\u00e1r\u00e1s"
+    ],
+    "name:ind_x_preferred":[
+        "Quba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30d0\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c96\u0cc1\u0cac\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10e3\u10d1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uad6c\ubc14 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Gubas rajons"
+    ],
+    "name:lez_x_preferred":[
+        "\u041a\u044a\u0443\u0431\u0430 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:lit_x_preferred":[
+        "Kubos apskritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094d\u092f\u0942\u092c\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u0431\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Quba"
+    ],
+    "name:nld_x_preferred":[
+        "Quba"
+    ],
+    "name:nob_x_preferred":[
+        "Quba"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0443\u0431\u0430\u0439\u044b \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0642\u0648\u0628\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Rejon Quba"
+    ],
+    "name:por_x_preferred":[
+        "Quba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd4\u0db6\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Quba"
+    ],
+    "name:sqi_x_preferred":[
+        "Quba"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u0431\u0438\u043d\u0441\u043a\u0438 \u0440\u0435\u0458\u043e\u043d"
+    ],
+    "name:sun_x_preferred":[
+        "Rayon Quba"
+    ],
+    "name:swe_x_preferred":[
+        "Quba Rayonu"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0431\u0430 \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4d\u0c2f\u0c42\u0c2c\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e04\u0e39\u0e1a\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Kuba Rayonu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0431\u0430"
+    ],
     "name:unk_x_variant":[
         "Kubinskiy Rayon"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0648\u0628\u0627 \u0636\u0644\u0639"
+    ],
+    "name:uzb_x_preferred":[
+        "Quba tumani"
+    ],
+    "name:vie_x_preferred":[
+        "Guba"
+    ],
+    "name:war_x_preferred":[
+        "Quba Rayon"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u5df4\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AZE",
@@ -159,7 +315,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550299,
+    "wof:lastmodified":1563281421,
     "wof:name":"Quba",
     "wof:parent_id":1108808623,
     "wof:placetype":"region",

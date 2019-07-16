@@ -16,8 +16,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u062a\u064a\u0648\u0645"
     ],
+    "name:azb_x_preferred":[
+        "\u067e\u06cc\u0631\u0627\u0644\u0644\u0627\u0647\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Pirallah\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0456\u0440\u0430\u043b\u0430\u0445\u0456"
     ],
     "name:deu_x_preferred":[
         "Artjom"
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421178475,
-    "wof:lastmodified":1561830158,
+    "wof:lastmodified":1563281854,
     "wof:name":"Artyom",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

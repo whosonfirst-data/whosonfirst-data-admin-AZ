@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u062e\u06cc\u0644\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "X\u0131ll\u0131"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421196867,
-    "wof:lastmodified":1561830157,
+    "wof:lastmodified":1563281844,
     "wof:name":"Khilly",
     "wof:parent_id":85668409,
     "wof:placetype":"locality",

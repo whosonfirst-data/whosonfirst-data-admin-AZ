@@ -13,17 +13,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u06a9\u06cc\u0698 \u0627\u0648\u0628\u0627"
+    ],
     "name:aze_x_preferred":[
         "Kij\u0259b\u0259"
     ],
     "name:aze_x_variant":[
         "Kij\u0259ba"
     ],
+    "name:ceb_x_preferred":[
+        "Kizhaba"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03c4\u03b6\u03cc\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kijoba"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u062c\u200c\u0622\u0628\u0647"
     ],
     "name:ita_x_preferred":[
         "Kijoba"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":421196865,
-    "wof:lastmodified":1561830157,
+    "wof:lastmodified":1563281846,
     "wof:name":"Kizhaba",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

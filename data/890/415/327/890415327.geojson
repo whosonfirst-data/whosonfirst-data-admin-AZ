@@ -15,8 +15,17 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0628\u0648"
+    ],
     "name:aze_x_preferred":[
         "Qobu"
+    ],
+    "name:ceb_x_preferred":[
+        "Qobu"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0431\u0443"
     ],
     "name:eng_x_preferred":[
         "Qobu"
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":890415327,
-    "wof:lastmodified":1561830159,
+    "wof:lastmodified":1563281865,
     "wof:name":"Qobu",
     "wof:parent_id":85668251,
     "wof:placetype":"locality",

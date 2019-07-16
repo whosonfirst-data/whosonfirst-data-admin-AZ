@@ -15,14 +15,23 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u06cc\u0631\u062c\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
         "\u018fmircan"
+    ],
+    "name:ceb_x_preferred":[
+        "Amirdzhan"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03bc\u03b9\u03c1\u03c4\u03c3\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Amiradzhan"
+    ],
+    "name:eng_x_variant":[
+        "Amirjan"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0645\u06cc\u0631\u062c\u0627\u0646"
@@ -53,6 +62,9 @@
     ],
     "name:unk_x_variant":[
         "Amirabdzhan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645\u06cc\u0631\u062c\u0627\u0646"
     ],
     "qs:name":"Amirdzhan",
     "qs:photos_9r":0,
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":890433409,
-    "wof:lastmodified":1561830159,
+    "wof:lastmodified":1563281876,
     "wof:name":"Amirdzhan",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

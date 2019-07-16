@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0632\u064a\u0631\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0632\u06cc\u0631\u0647"
+    ],
     "name:aze_x_preferred":[
         "Zir\u0259"
     ],
@@ -24,6 +27,9 @@
     ],
     "name:eng_x_preferred":[
         "Zir\u01dd"
+    ],
+    "name:eng_x_variant":[
+        "Zir\u0259"
     ],
     "name:est_x_preferred":[
         "Zir\u0259"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421180487,
-    "wof:lastmodified":1561830157,
+    "wof:lastmodified":1563281840,
     "wof:name":"Zyrya",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

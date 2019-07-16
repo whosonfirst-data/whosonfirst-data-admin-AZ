@@ -19,6 +19,9 @@
     "name:arz_x_preferred":[
         "\u062e\u0627\u0634\u0645\u0627\u0632"
     ],
+    "name:azb_x_preferred":[
+        "\u062e\u0627\u0686\u0645\u0627\u0632"
+    ],
     "name:aze_x_preferred":[
         "Xa\u00e7maz"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0996\u09be\u0995\u09ae\u09c7\u099c"
+    ],
+    "name:ceb_x_preferred":[
+        "Xa\u00e7maz"
     ],
     "name:che_x_preferred":[
         "\u0425\u0430\u0447\u043c\u0430\u0437"
@@ -42,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Xa\u00e7maz"
+    ],
+    "name:eng_x_variant":[
+        "Khachmaz"
     ],
     "name:fas_x_preferred":[
         "\u062e\u0627\u0686\u0645\u0627\u0632"
@@ -79,6 +88,9 @@
     "name:kan_x_preferred":[
         "\u0c96\u0c9a\u0ccd\u0cae\u0cbe\u0c9c\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10e9\u10db\u10d0\u10d6\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud558\uce58\ub9c8\uc2a4"
     ],
@@ -103,6 +115,9 @@
     "name:nob_x_preferred":[
         "Khachmaz"
     ],
+    "name:oss_x_preferred":[
+        "\u0425\u0430\u0447\u043c\u0430\u0437"
+    ],
     "name:pol_x_preferred":[
         "Xa\u00e7maz"
     ],
@@ -126,6 +141,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbe\u0b9a\u0bcd\u0bae\u0bc7"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0430\u0447\u043c\u0430\u0441"
     ],
     "name:tel_x_preferred":[
         "\u0c16\u0c1a\u0c4d\u0c2e\u0c1c\u0c4d"
@@ -198,7 +216,7 @@
         }
     ],
     "wof:id":421180483,
-    "wof:lastmodified":1561830157,
+    "wof:lastmodified":1563281839,
     "wof:name":"Khachmas",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",
