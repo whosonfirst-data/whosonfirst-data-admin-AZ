@@ -16,6 +16,9 @@
     "name:ava_x_preferred":[
         "\u0413I\u0430\u043b\u0438\u0430\u0431\u0430\u0434"
     ],
+    "name:azb_x_preferred":[
+        "\u0639\u0644\u06cc \u0622\u0628\u0627\u062f"
+    ],
     "name:aze_x_preferred":[
         "\u018fliabad"
     ],
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421193103,
-    "wof:lastmodified":1561830156,
+    "wof:lastmodified":1563281826,
     "wof:name":"Aliabad",
     "wof:parent_id":85668601,
     "wof:placetype":"locality",

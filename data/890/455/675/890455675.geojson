@@ -15,7 +15,13 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0634\u0648\u0644\u0644\u0627\u0631"
+    ],
     "name:aze_x_preferred":[
+        "\u015eollar"
+    ],
+    "name:ceb_x_preferred":[
         "\u015eollar"
     ],
     "name:cos_x_preferred":[
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":890455675,
-    "wof:lastmodified":1561830159,
+    "wof:lastmodified":1563281866,
     "wof:name":"\u015eollar",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

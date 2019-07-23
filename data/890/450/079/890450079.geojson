@@ -18,11 +18,17 @@
     "name:aze_x_preferred":[
         "B\u0259yimli"
     ],
+    "name:ceb_x_preferred":[
+        "Begimli"
+    ],
     "name:cos_x_preferred":[
         "B\u0259yimli"
     ],
     "name:eng_x_preferred":[
         "B\u01ddyimli"
+    ],
+    "name:eng_x_variant":[
+        "B\u0259yimli"
     ],
     "name:hau_x_preferred":[
         "B\u0259yimli"
@@ -32,6 +38,9 @@
     ],
     "name:kal_x_preferred":[
         "B\u0259yimli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10d8\u10db\u10da\u10d8"
     ],
     "name:kik_x_preferred":[
         "B\u0259yimli"
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":890450079,
-    "wof:lastmodified":1561830160,
+    "wof:lastmodified":1563281882,
     "wof:name":"Begimli",
     "wof:parent_id":85668509,
     "wof:placetype":"locality",

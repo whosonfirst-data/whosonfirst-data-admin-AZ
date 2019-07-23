@@ -19,11 +19,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062f\u0644\u0644\u0631"
+    ],
     "name:aze_x_preferred":[
         "D\u0259ll\u0259r"
     ],
+    "name:ceb_x_preferred":[
+        "Dolyar"
+    ],
     "name:eng_x_preferred":[
         "D\u01ddlil\u01ddr"
+    ],
+    "name:eng_x_variant":[
+        "D\u0259ll\u0259r"
+    ],
+    "name:ita_x_preferred":[
+        "D\u0259ll\u0259r"
     ],
     "name:jpn_x_preferred":[
         "\u30c0\u30c3\u30e9\u30fc"
@@ -82,7 +94,7 @@
         }
     ],
     "wof:id":1125862175,
-    "wof:lastmodified":1561830160,
+    "wof:lastmodified":1563281887,
     "wof:name":"Dolyar",
     "wof:parent_id":85668233,
     "wof:placetype":"locality",

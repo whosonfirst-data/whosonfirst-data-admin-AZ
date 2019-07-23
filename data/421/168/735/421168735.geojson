@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0645\u0642\u0627\u064a\u064a\u062a"
     ],
+    "name:ast_x_preferred":[
+        "Sumqayit"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0648\u0645\u0642\u0627\u06cc\u06cc\u062a"
     ],
@@ -44,11 +47,17 @@
     "name:cat_x_preferred":[
         "Sumqayit"
     ],
+    "name:ceb_x_preferred":[
+        "Sumqay\u0131t"
+    ],
     "name:ces_x_preferred":[
         "Sumqay\u0131t"
     ],
     "name:che_x_preferred":[
         "\u0421\u0443\u043c\u0433\u0430\u0438\u0442"
+    ],
+    "name:crh_x_preferred":[
+        "Sumgay\u0131t"
     ],
     "name:cym_x_preferred":[
         "Sumqay\u0131t"
@@ -79,6 +88,9 @@
     ],
     "name:fin_x_preferred":[
         "Sumqayit"
+    ],
+    "name:fin_x_variant":[
+        "Sumqay\u0131t"
     ],
     "name:fra_x_preferred":[
         "Sumqay\u0131t"
@@ -122,6 +134,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cc1\u0cae\u0ccd\u0cae\u0cbe\u0caf\u0ca4\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10db\u10d2\u10d0\u10d8\u10d7\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc228\uac00\uc774\ud2b8"
     ],
@@ -136,6 +151,9 @@
     ],
     "name:mhr_x_preferred":[
         "\u0421\u0443\u043c\u0433\u0430\u0438\u0442"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0443\u043c\u0433\u0430\u0458\u0438\u0442"
     ],
     "name:mon_x_preferred":[
         "\u0421\u0443\u043c\u0433\u0430\u0438\u0442"
@@ -196,6 +214,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bb8\u0bc1\u0bae\u0bcd\u0baa\u0bcd\u0b95\u0baf\u0bbf\u0b9f\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0443\u043c\u043a\u0430\u0435\u0442"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c02\u0c16\u0c3e\u0c2f\u0c24\u0c4d"
@@ -383,7 +404,7 @@
         }
     ],
     "wof:id":421168735,
-    "wof:lastmodified":1561830156,
+    "wof:lastmodified":1563281824,
     "wof:name":"Sumgait",
     "wof:parent_id":85668465,
     "wof:placetype":"locality",

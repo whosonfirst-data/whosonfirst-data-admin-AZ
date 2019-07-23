@@ -26,14 +26,188 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0622\u0642\u062f\u0627\u0645"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u063a\u062f\u0627\u0645 \u0631\u0627\u06cc\u0648\u0646\u0648"
+    ],
     "name:aze_x_preferred":[
         "A\u011fdam Rayonu"
+    ],
+    "name:aze_x_variant":[
+        "A\u011fdam"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u0997\u09a1\u09be\u09ae \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "A\u011fdam"
+    ],
+    "name:ceb_x_preferred":[
+        "Aghdam Rayon"
+    ],
+    "name:ces_x_preferred":[
+        "Agdam"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0433\u0434\u0430\u043c\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:dan_x_preferred":[
+        "Agdam District"
+    ],
+    "name:deu_x_preferred":[
+        "A\u011fdam"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03ba\u03bd\u03c4\u03ac\u03bc"
     ],
     "name:eng_x_preferred":[
         "Agdam"
     ],
+    "name:eng_x_variant":[
+        "Agdam District"
+    ],
+    "name:epo_x_preferred":[
+        "Agdamo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0622\u0642\u200c\u062f\u0627\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "A\u011fdamin piirikunta"
+    ],
+    "name:fra_x_preferred":[
+        "Agdam"
+    ],
+    "name:gag_x_preferred":[
+        "A\u011fdam"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0a97\u0abe\u0aae \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0917\u0921\u0947\u092e \u091c\u093f\u0932\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Agdamski rajon"
+    ],
+    "name:hun_x_preferred":[
+        "A\u011fdami j\u00e1r\u00e1s"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0572\u0564\u0561\u0574\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Agdam"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b0\u30c0\u30e0\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0c97\u0cae\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e6\u10d3\u10d0\u10db\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uadf8\ub2f4 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Agdamas rajons"
+    ],
+    "name:lez_x_preferred":[
+        "\u0410\u0433\u044a\u0434\u0430\u043c \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:lit_x_preferred":[
+        "Agdamo provincija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0906\u0917\u0921\u092e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:min_x_preferred":[
+        "Distrik Agdam"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0433\u0434\u0430\u043c"
+    ],
+    "name:mon_x_preferred":[
+        "\u0410\u0433\u0434\u0430\u043c \u0430\u0439\u043c\u0430\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Agdam"
+    ],
+    "name:nld_x_preferred":[
+        "A\u011fdam"
+    ],
+    "name:nob_x_preferred":[
+        "A\u011fdam"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0627\u063a\u062f\u0627\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Rejon A\u011fdam"
+    ],
+    "name:por_x_preferred":[
+        "Agdam"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0434\u0430\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Agdam Rayon"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0d9c\u0dca\u0da9\u0db8\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "A\u011fdam"
+    ],
+    "name:sqi_x_preferred":[
+        "Agdam"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0433\u0434\u0430\u043c\u0441\u043a\u0438 \u0440\u0435\u0458\u043e\u043d"
+    ],
+    "name:sun_x_preferred":[
+        "Rayon Agdam"
+    ],
+    "name:swe_x_preferred":[
+        "A\u011fdam"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0b95\u0bcd\u0ba4\u0bbe\u0bae\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c06\u0c17\u0c4d\u0c21\u0c2e\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e27\u0e32\u0e19 \u0e2d\u0e31\u0e04\u0e14\u0e31\u0e21"
+    ],
+    "name:tur_x_preferred":[
+        "A\u011fdam Rayonu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0433\u0434\u0430\u043c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:unk_x_variant":[
         "Agdamskiy Rayon"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u063a\u062f\u0627\u0645 \u0636\u0644\u0639"
+    ],
+    "name:uzb_x_preferred":[
+        "Ag\u02bbdam tumani"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Agdam"
+    ],
+    "name:war_x_preferred":[
+        "Agdam Rayon"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u683c\u9054\u59c6\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AZE",
@@ -162,7 +336,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550297,
+    "wof:lastmodified":1563281403,
     "wof:name":"A\u011fdam",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

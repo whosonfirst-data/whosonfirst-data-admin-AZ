@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Askaran"
     ],
+    "name:ceb_x_preferred":[
+        "Askyaran"
+    ],
     "name:che_x_preferred":[
         "\u0410\u0441\u043a\u0435\u0440\u0430\u043d"
     ],
@@ -56,6 +59,9 @@
         "Askeran"
     ],
     "name:hrv_x_preferred":[
+        "Askeran"
+    ],
+    "name:hsb_x_preferred":[
         "Askeran"
     ],
     "name:hye_x_preferred":[
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":1125939829,
-    "wof:lastmodified":1561830160,
+    "wof:lastmodified":1563281884,
     "wof:name":"Askyaran",
     "wof:parent_id":85668657,
     "wof:placetype":"locality",

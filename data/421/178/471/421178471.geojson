@@ -28,8 +28,14 @@
     "name:eng_x_preferred":[
         "Bin\u01ddq\u01dddi"
     ],
+    "name:eng_x_variant":[
+        "Bin\u0259q\u0259di raion"
+    ],
     "name:epo_x_preferred":[
         "Binagadi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u06cc\u0646\u0647\u200c\u0642\u062f"
     ],
     "name:nld_x_preferred":[
         "Bin\u0259q\u0259di raion"
@@ -48,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Binaghad"
+    ],
+    "name:uzb_x_preferred":[
+        "Binaqadi tumani"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u90a3\u52a0\u8fea\u5340"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":421178471,
-    "wof:lastmodified":1561830158,
+    "wof:lastmodified":1563281851,
     "wof:name":"Bin\u00e4q\u00e4di",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

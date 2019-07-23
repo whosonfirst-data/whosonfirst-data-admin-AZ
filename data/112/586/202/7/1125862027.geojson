@@ -19,11 +19,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062f\u06cc\u06af\u0627\u0647"
+    ],
     "name:aze_x_preferred":[
         "Digah"
     ],
+    "name:ceb_x_preferred":[
+        "Digah"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0438\u0433\u044f\u0445"
+    ],
     "name:eng_x_preferred":[
         "Digah"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u06af\u0627\u0647"
     ],
     "name:ita_x_preferred":[
         "Digah"
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":1125862027,
-    "wof:lastmodified":1561830160,
+    "wof:lastmodified":1563281887,
     "wof:name":"Digah",
     "wof:parent_id":85668251,
     "wof:placetype":"locality",

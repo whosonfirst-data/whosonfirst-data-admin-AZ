@@ -26,6 +26,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:afr_x_preferred":[
+        "Nachitsjewan"
+    ],
     "name:ara_x_preferred":[
         "\u0646\u0627\u062e\u064a\u062a\u0634\u064a\u0641\u0627\u0646"
     ],
@@ -38,6 +41,9 @@
     "name:aze_x_preferred":[
         "Nax\u00e7\u0131van Muxtar Respublikas\u0131"
     ],
+    "name:bos_x_preferred":[
+        "Nahi\u010devan"
+    ],
     "name:cat_x_preferred":[
         "Nakhtxivan"
     ],
@@ -47,8 +53,17 @@
     "name:chv_x_preferred":[
         "\u041d\u0430\u0447\u0438\u0445\u0435\u0432\u0430\u043d\u044c \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043b\u0103 \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438"
     ],
+    "name:dan_x_preferred":[
+        "Nakhitjevan"
+    ],
     "name:deu_x_preferred":[
         "Autonome Republik Nachitschewan"
+    ],
+    "name:diq_x_preferred":[
+        "Nax\u00e7\u0131wan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03c7\u03b9\u03c4\u03c3\u03b5\u03b2\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Naxcivan"
@@ -57,17 +72,35 @@
         "Nakhichevan",
         "Nakhchivan"
     ],
+    "name:epo_x_preferred":[
+        "Na\u0125i\u0109evano"
+    ],
     "name:est_x_preferred":[
         "Nahhit\u0161evan"
+    ],
+    "name:eus_x_preferred":[
+        "Nakhitxevan"
     ],
     "name:fas_x_preferred":[
         "\u0646\u062e\u062c\u0648\u0627\u0646"
     ],
+    "name:fin_x_preferred":[
+        "Nahit\u0161evan"
+    ],
     "name:fra_x_preferred":[
         "Nakhitchevan"
     ],
+    "name:gag_x_preferred":[
+        "Nah\u00e7\u0131van"
+    ],
     "name:glg_x_preferred":[
         "Nakhichevan - Nax\u00e7\u0131van"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d7\u05e6'\u05d9\u05d1\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Nahicsev\u00e1n"
     ],
     "name:hye_x_preferred":[
         "\u0546\u0561\u056d\u056b\u057b\u0565\u057e\u0561\u0576"
@@ -84,8 +117,23 @@
     "name:kat_x_preferred":[
         "\u10dc\u10d0\u10ee\u10ed\u10d4\u10d5\u10d0\u10dc\u10d8"
     ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0430\u0445\u0448\u044b\u0432\u0430\u043d"
+    ],
     "name:kor_x_preferred":[
         "\ub098\ud788\uccb4\ubc18"
+    ],
+    "name:kur_x_preferred":[
+        "Nax\u00e7ivan"
+    ],
+    "name:lad_x_preferred":[
+        "Nahichevan"
+    ],
+    "name:mon_x_preferred":[
+        "\u041d\u0430\u0445\u0447\u044b\u0432\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Nakhichevan"
     ],
     "name:nld_x_preferred":[
         "Nachitsjevan"
@@ -93,8 +141,14 @@
     "name:nno_x_preferred":[
         "Nax\u00e7ivan"
     ],
+    "name:nno_x_variant":[
+        "Nakhitsjevan"
+    ],
     "name:nob_x_preferred":[
         "Nax\u00e7ivan"
+    ],
+    "name:nob_x_variant":[
+        "Nakhitsjevan"
     ],
     "name:nor_x_preferred":[
         "Nakhitsjevan"
@@ -102,11 +156,17 @@
     "name:oci_x_preferred":[
         "Nax\u00e7\u0131van"
     ],
+    "name:pnb_x_preferred":[
+        "\u0646\u062e\u0686\u06cc\u0648\u0627\u0646"
+    ],
     "name:pol_x_preferred":[
         "Nachiczewan"
     ],
     "name:por_x_preferred":[
         "Nakichevan"
+    ],
+    "name:ron_x_preferred":[
+        "Naxcivan"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0445\u0438\u0447\u0435\u0432\u0430\u043d\u0441\u043a\u0430\u044f \u0410\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
@@ -114,17 +174,29 @@
     "name:rus_x_variant":[
         "\u041d\u0430\u0445\u0438\u0447\u0435\u0432\u0430\u043d\u044c"
     ],
+    "name:sco_x_preferred":[
+        "Nakhchivan"
+    ],
+    "name:slv_x_preferred":[
+        "Nahi\u010devan"
+    ],
     "name:spa_x_preferred":[
         "Rep\u00fablica aut\u00f3noma de Najichev\u00e1n"
     ],
     "name:srp_x_preferred":[
         "\u041d\u0430\u0445\u0447\u0438\u0432\u0430\u043d"
     ],
+    "name:sun_x_preferred":[
+        "Nakhichevan"
+    ],
     "name:swe_x_preferred":[
         "Nachitjevan"
     ],
     "name:tat_x_preferred":[
         "Nax\u00e7\u0131van"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e32\u0e04\u0e35\u0e0a\u0e35\u0e27\u0e31\u0e19"
     ],
     "name:tur_x_colloquial":[
         "Nah\u00e7\u0131van \u00d6zerk Cumhuriyeti"
@@ -143,6 +215,15 @@
     ],
     "name:unk_x_variant":[
         "Nakhchyvan MSSR"
+    ],
+    "name:uzb_x_preferred":[
+        "Naxichevan"
+    ],
+    "name:vep_x_preferred":[
+        "Nahi\u010devan"
+    ],
+    "name:vie_x_preferred":[
+        "Nakhchivan"
     ],
     "name:zho_x_preferred":[
         "\u7eb3\u5e0c\u5207\u4e07\u81ea\u6cbb\u5171\u548c\u56fd"
@@ -272,7 +353,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550306,
+    "wof:lastmodified":1563281391,
     "wof:name":"Nax\u00e7\u0131van",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

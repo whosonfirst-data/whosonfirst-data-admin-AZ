@@ -17,14 +17,26 @@
     "name:ara_x_preferred":[
         "\u063a\u0627\u0628\u0627\u0644\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0642\u0627\u0628\u0627\u0644\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0628\u0647\u200c\u0644\u0647"
+    ],
     "name:aze_x_preferred":[
         "Q\u0259b\u0259l\u0259"
     ],
     "name:bak_x_preferred":[
         "\u0492\u0430\u0431\u0430\u043b\u0430"
     ],
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0431\u0435\u043b\u044f"
+    ],
     "name:cat_x_preferred":[
         "Kabala"
+    ],
+    "name:ceb_x_preferred":[
+        "Qutqashen"
     ],
     "name:che_x_preferred":[
         "\u0413\u0430\u0431\u0430\u043b\u0430"
@@ -65,6 +77,9 @@
     "name:kor_x_preferred":[
         "\uac8c\ubca8\ub808"
     ],
+    "name:lav_x_preferred":[
+        "Gabala"
+    ],
     "name:lez_x_preferred":[
         "\u041a\u044c\u0432\u0435\u043f\u0435\u043b\u0435"
     ],
@@ -104,8 +119,14 @@
     "name:swe_x_preferred":[
         "Qutqashen"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0431\u04d9\u043b\u04d9"
+    ],
     "name:tur_x_preferred":[
         "Kebele"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0431\u0430\u043b\u0430"
     ],
     "name:urd_x_preferred":[
         "\u0642\u0627\u0628\u0627\u0644\u0627"
@@ -232,7 +253,7 @@
         }
     ],
     "wof:id":1141906151,
-    "wof:lastmodified":1561830166,
+    "wof:lastmodified":1563282092,
     "wof:name":"Qabala",
     "wof:parent_id":85668541,
     "wof:placetype":"locality",

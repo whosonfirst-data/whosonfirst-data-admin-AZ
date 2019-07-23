@@ -18,8 +18,14 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u0645\u0627\u062e\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0634\u0645\u0627\u062e\u0649"
+    ],
     "name:arz_x_preferred":[
         "\u0634\u0645\u0627\u062e\u0649"
+    ],
+    "name:azb_x_preferred":[
+        "\u0634\u0645\u0627\u062e\u06cc"
     ],
     "name:aze_x_preferred":[
         "\u015eamax\u0131"
@@ -33,14 +39,23 @@
     "name:cat_x_preferred":[
         "\u015eamax\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "Shamakhi"
+    ],
     "name:che_x_preferred":[
         "\u0428\u0435\u043c\u0430\u0445\u0430"
+    ],
+    "name:dan_x_preferred":[
+        "\u015eamax\u0131"
     ],
     "name:deu_x_preferred":[
         "\u015eamax\u0131"
     ],
     "name:eng_x_preferred":[
         "\u015eamax\u0131"
+    ],
+    "name:eng_x_variant":[
+        "Shamakhi"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0627\u0645\u0627\u062e\u06cc"
@@ -75,6 +90,9 @@
     "name:lit_x_preferred":[
         "\u0160emacha"
     ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0435\u043c\u0430\u0445\u0438"
+    ],
     "name:msa_x_preferred":[
         "\u015eamax\u0131"
     ],
@@ -98,6 +116,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0428\u0430\u043c\u0430\u0445\u044b"
+    ],
+    "name:tat_x_variant":[
+        "\u0428\u04d9\u043c\u0430\u0445\u044b"
     ],
     "name:tgk_x_preferred":[
         "\u0428\u0430\u043c\u0430\u0445\u0430"
@@ -159,7 +180,7 @@
         }
     ],
     "wof:id":890433385,
-    "wof:lastmodified":1561830160,
+    "wof:lastmodified":1563281878,
     "wof:name":"Shamakhi",
     "wof:parent_id":85668459,
     "wof:placetype":"locality",

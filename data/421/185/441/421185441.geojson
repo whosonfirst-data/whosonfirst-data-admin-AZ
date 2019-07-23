@@ -16,6 +16,9 @@
     "name:aze_x_preferred":[
         "Suraxan\u0131"
     ],
+    "name:aze_x_variant":[
+        "Yeni Suraxan\u0131"
+    ],
     "name:eng_x_preferred":[
         "Suraxan\u0131"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421185441,
-    "wof:lastmodified":1561830158,
+    "wof:lastmodified":1563281862,
     "wof:name":"Surakhany",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

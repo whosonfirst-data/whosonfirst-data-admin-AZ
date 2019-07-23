@@ -13,14 +13,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u062e"
+    ],
     "name:ava_x_preferred":[
         "\u041a\u0430\u0445\u0406\u0438\u0431"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u062e"
     ],
     "name:aze_x_preferred":[
         "Qax"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0445\u0456"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0430\u0445"
+    ],
+    "name:ceb_x_preferred":[
+        "Qax"
     ],
     "name:che_x_preferred":[
         "\u0413\u0430\u0445"
@@ -30,6 +42,9 @@
     ],
     "name:eng_x_preferred":[
         "Qax"
+    ],
+    "name:eng_x_variant":[
+        "Qakh"
     ],
     "name:fas_x_preferred":[
         "\u0642\u0627\u062e"
@@ -76,8 +91,17 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0445\u0438"
     ],
+    "name:rus_x_variant":[
+        "\u0413\u0430\u0445"
+    ],
     "name:spa_x_preferred":[
         "Qax"
+    ],
+    "name:swe_x_preferred":[
+        "Qax"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0445"
     ],
     "name:tur_x_preferred":[
         "Kah"
@@ -141,7 +165,7 @@
         }
     ],
     "wof:id":421203333,
-    "wof:lastmodified":1561830156,
+    "wof:lastmodified":1563281832,
     "wof:name":"Qax",
     "wof:parent_id":85668557,
     "wof:placetype":"locality",

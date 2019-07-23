@@ -13,7 +13,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0632\u0627\u062e"
+    ],
     "name:aze_x_preferred":[
+        "Qazax"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0445"
+    ],
+    "name:ceb_x_preferred":[
         "Qazax"
     ],
     "name:che_x_preferred":[
@@ -24,6 +33,9 @@
     ],
     "name:eng_x_preferred":[
         "Qazax"
+    ],
+    "name:eng_x_variant":[
+        "Gazakh"
     ],
     "name:fas_x_preferred":[
         "\u0642\u0627\u0632\u0627\u062e"
@@ -85,6 +97,9 @@
     "name:swe_x_preferred":[
         "Qazax"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0445"
+    ],
     "name:tur_x_preferred":[
         "Kazah"
     ],
@@ -144,7 +159,7 @@
         }
     ],
     "wof:id":421178459,
-    "wof:lastmodified":1561830158,
+    "wof:lastmodified":1563281858,
     "wof:name":"Kazakh",
     "wof:parent_id":85668229,
     "wof:placetype":"locality",

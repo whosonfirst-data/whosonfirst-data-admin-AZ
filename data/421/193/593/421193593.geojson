@@ -16,11 +16,17 @@
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u0642\u0648\u0628\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0628\u0627"
+    ],
     "name:aze_x_preferred":[
         "Quba"
     ],
     "name:bak_x_preferred":[
         "\u0413\u0443\u0431\u0430"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0443\u0431\u0430"
     ],
     "name:cat_x_preferred":[
         "Quba"
@@ -30,6 +36,9 @@
     ],
     "name:che_x_preferred":[
         "\u0413\u0443\u0431\u0430"
+    ],
+    "name:che_x_variant":[
+        "\u041a\u0443\u0431\u0430"
     ],
     "name:deu_x_preferred":[
         "Quba"
@@ -66,6 +75,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30d0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10e3\u10d1\u10d0"
     ],
     "name:lbe_x_preferred":[
         "\u041a\u044a\u0443\u0432\u0430\u043b"
@@ -109,11 +121,17 @@
     "name:swe_x_preferred":[
         "Quba"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0443\u0431\u0430"
+    ],
     "name:tur_x_preferred":[
         "Kuba"
     ],
     "name:ukr_x_preferred":[
         "\u0490\u0443\u0431\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0443\u0431\u0430"
     ],
     "name:unk_x_variant":[
         "Kuba"
@@ -178,7 +196,7 @@
         }
     ],
     "wof:id":421193593,
-    "wof:lastmodified":1561830156,
+    "wof:lastmodified":1563281826,
     "wof:name":"Quba",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":48610728.324142,
+    "geom:area_square_m":0.0,
     "geom:bbox":"49.859729,40.381382,49.859729,40.381382",
     "geom:latitude":40.381382,
     "geom:longitude":49.859729,
@@ -26,6 +26,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0643\u064a\u0633\u0646\u0648\u0641"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u06a9\u06cc \u062e\u0627\u0646\u0648\u0648"
+    ],
     "name:aze_x_preferred":[
         "Bak\u0131xanov"
     ],
@@ -35,11 +41,38 @@
     "name:ces_x_preferred":[
         "Bak\u0131xanov"
     ],
+    "name:ces_x_variant":[
+        "Bakichanov"
+    ],
+    "name:deu_x_preferred":[
+        "Bak\u0131xanov"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03ba\u03b9\u03c7\u03ac\u03bd\u03bf\u03c6"
+    ],
+    "name:eng_x_preferred":[
+        "Bak\u0131xanov"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u06a9\u06cc\u062e\u0627\u0646\u0648\u0641"
     ],
     "name:fra_x_preferred":[
         "Bakixanov"
+    ],
+    "name:fra_x_variant":[
+        "Bak\u0131xanov"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ad\u30cf\u30ce\u30f4"
+    ],
+    "name:mlg_x_preferred":[
+        "Bak\u0131xanov"
+    ],
+    "name:nld_x_preferred":[
+        "Bak\u0131xanov"
+    ],
+    "name:nob_x_preferred":[
+        "Bak\u0131xanov"
     ],
     "name:pol_x_preferred":[
         "Bak\u0131xanov"
@@ -57,6 +90,9 @@
         "\u0411\u0430\u043a\u0438\u0445\u0430\u043d\u043e\u0432\u0430"
     ],
     "name:sco_x_preferred":[
+        "Bak\u0131xanov"
+    ],
+    "name:swe_x_preferred":[
         "Bak\u0131xanov"
     ],
     "name:und_x_colloquial":[
@@ -99,10 +135,10 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
-        85668249,
         102191569,
         85632717,
-        1108808621
+        1108808621,
+        85668249
     ],
     "wof:breaches":[
         85903041
@@ -130,7 +166,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531935995,
+    "wof:lastmodified":1563281386,
     "wof:name":"Bak\u1e2fxanov",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

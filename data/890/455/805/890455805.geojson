@@ -15,6 +15,36 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062f\u0627\u0645\u062f\u0627\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u062f\u0627\u0645\u062f\u0627\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Badamdar"
+    ],
+    "name:ceb_x_preferred":[
+        "Badamdar"
+    ],
+    "name:eng_x_preferred":[
+        "Badamdar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f\u0627\u0645\u200c\u062f\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Badamdar"
+    ],
+    "name:nld_x_preferred":[
+        "Badamdar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434\u0430\u043c\u0434\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Badamdar"
+    ],
     "qs:name":"Badamdar",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":890455805,
-    "wof:lastmodified":1527734193,
+    "wof:lastmodified":1563281867,
     "wof:name":"Badamdar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

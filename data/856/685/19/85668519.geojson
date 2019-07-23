@@ -26,8 +26,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0622\u0642\u062c\u0628\u062f\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u063a\u062c\u0627\u0628\u0647\u200c\u062f\u06cc"
+    ],
     "name:aze_x_preferred":[
         "A\u011fcab\u0259di"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0433\u0434\u0436\u0430\u0431\u0435\u0434\u044b"
     ],
     "name:bxr_x_preferred":[
         "\u0410\u0433\u0434\u0436\u0430\u0431\u0435\u0434\u0438"
@@ -38,11 +47,20 @@
     "name:che_x_preferred":[
         "\u0410\u0433\u0434\u0436\u0430\u0431\u0435\u0434\u0438"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03ba\u03c4\u03b6\u03b1\u03bc\u03c0\u03ac\u03bd\u03c4\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Agcabadi"
     ],
+    "name:eng_x_variant":[
+        "A\u011fcab\u0259di"
+    ],
     "name:est_x_preferred":[
         "A\u011fcab\u0259di"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u063a\u0627\u062c\u0628\u0627\u062f\u06cc"
     ],
     "name:fin_x_preferred":[
         "A\u011fcab\u0259di"
@@ -50,17 +68,71 @@
     "name:fra_x_preferred":[
         "A\u011fcab\u0259di"
     ],
+    "name:hsb_x_preferred":[
+        "A\u011fcab\u0259di"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u0572\u0561\u0574\u0565\u057b"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0572\u057b\u0561\u0562\u0565\u0564"
+    ],
+    "name:ita_x_preferred":[
+        "A\u011fcabadi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b0\u30b8\u30e3\u30d0\u30c7\u30a3"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10e6\u10ef\u10d0\u10d1\u10d4\u10d3\u10d8"
     ],
+    "name:lit_x_preferred":[
+        "Agd\u017eabedis"
+    ],
+    "name:mon_x_preferred":[
+        "\u0410\u0433\u0436\u0430\u0431\u0435\u0434\u0438 \u0445\u043e\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "A\u011fcab\u0259di"
+    ],
+    "name:nld_x_preferred":[
+        "A\u011fcab\u0259di"
+    ],
+    "name:nob_x_preferred":[
+        "A\u011fcab\u0259di"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u063a\u062c\u0627\u0628\u0627\u062f\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "A\u011fcab\u0259di"
+    ],
+    "name:ron_x_preferred":[
+        "A\u011fcab\u0259di"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0434\u0436\u0430\u0431\u0435\u0434\u0438"
+    ],
     "name:spa_x_preferred":[
         "A\u011fcab\u0259di"
     ],
+    "name:swe_x_preferred":[
+        "Agdzhabedy"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043a\u0447\u0430\u0431\u04d9\u0434\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "A\u011fcabedi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0433\u0434\u0436\u0430\u0431\u0435\u0434\u0456"
+    ],
     "name:unk_x_variant":[
         "Agdzhabedinskiy Rayon"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u683c\u8cc8\u8c9d\u8fea"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AZE",
@@ -190,7 +262,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550303,
+    "wof:lastmodified":1563281417,
     "wof:name":"A\u011fcab\u0259di",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

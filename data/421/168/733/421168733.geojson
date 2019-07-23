@@ -14,8 +14,20 @@
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0641\u0648\u0632"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u0648\u0632"
+    ],
     "name:aze_x_preferred":[
         "Tovuz"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u0443\u0437"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09cb\u09ad\u09cb\u099c"
     ],
     "name:ceb_x_preferred":[
         "Tovuz"
@@ -23,8 +35,14 @@
     "name:che_x_preferred":[
         "\u0422\u043e\u0432\u0443\u0437"
     ],
+    "name:dan_x_preferred":[
+        "Tovuz"
+    ],
     "name:deu_x_preferred":[
         "Tovuz"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03b2\u03bf\u03cd\u03b6"
     ],
     "name:eng_x_preferred":[
         "Tovuz"
@@ -38,17 +56,47 @@
     "name:fin_x_preferred":[
         "Tovuz"
     ],
+    "name:fra_x_preferred":[
+        "Tovuz"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa4\u0acb\u0ab5\u0ac1\u0a9d"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u0942\u0935\u0942\u091c\u093c"
+    ],
     "name:hrv_x_preferred":[
+        "Tovuz"
+    ],
+    "name:hsb_x_preferred":[
         "Tovuz"
     ],
     "name:hye_x_preferred":[
         "\u054f\u0561\u057e\u0578\u0582\u0577"
     ],
+    "name:ind_x_preferred":[
+        "Tovuz"
+    ],
     "name:ita_x_preferred":[
         "Tovuz"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30f4\u30ba"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0ccb\u0cb5\u0c9d\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud1a0\ubd80\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Tovuza"
+    ],
     "name:lit_x_preferred":[
         "Tovuzas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0924\u094b\u0935\u094d\u0939\u0941\u091d"
     ],
     "name:msa_x_preferred":[
         "Tovuz"
@@ -56,7 +104,13 @@
     "name:nld_x_preferred":[
         "Tovuz"
     ],
+    "name:nob_x_preferred":[
+        "Tovuz"
+    ],
     "name:pol_x_preferred":[
+        "Tovuz"
+    ],
+    "name:por_x_preferred":[
         "Tovuz"
     ],
     "name:ron_x_preferred":[
@@ -68,20 +122,41 @@
     "name:rus_x_variant":[
         "\u0422\u0430\u0443\u0437"
     ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0ddc\u0dc0\u0dd4\u0dc3\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Tovuz"
     ],
     "name:swe_x_preferred":[
         "Tovuz"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bcb\u0bb5\u0bc1\u0bb8\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0432\u044b\u0437"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c42\u0c09\u0c1c\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e15\u0e27\u0e38\u0e0b"
+    ],
     "name:tur_x_preferred":[
         "Tovuz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0432\u0443\u0437"
     ],
     "name:unk_x_variant":[
         "Tavus"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u0648\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Tovuz"
     ],
     "name:zho_x_preferred":[
         "\u5854\u70cf\u8332"
@@ -229,7 +304,7 @@
         }
     ],
     "wof:id":421168733,
-    "wof:lastmodified":1527716095,
+    "wof:lastmodified":1563281823,
     "wof:name":"Tauz",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",
