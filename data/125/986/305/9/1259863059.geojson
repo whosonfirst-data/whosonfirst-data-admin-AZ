@@ -25,6 +25,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0633\u062d\u0627\u0642\u200c\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "\u0130saql\u0131"
     ],
@@ -35,6 +38,12 @@
         "\u053b\u057d\u0561\u0584\u056c\u0568",
         "Sahakashen",
         "\u054d\u0561\u0570\u0561\u056f\u0561\u0577\u0565\u0576"
+    ],
+    "name:min_x_preferred":[
+        "Isaql\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Isaql\u0131"
     ],
     "name:rus_x_preferred":[
         "\u0418\u0441\u0430\u043a\u043b\u044b"
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":1259863059,
-    "wof:lastmodified":1537585228,
+    "wof:lastmodified":1564126575,
     "wof:name":"Isaqli",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

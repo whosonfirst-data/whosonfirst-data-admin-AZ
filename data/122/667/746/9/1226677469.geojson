@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0642\u0642\u0627\u0644"
+    ],
+    "name:aze_x_preferred":[
+        "Baqqal"
+    ],
+    "name:ceb_x_preferred":[
+        "Baqqal"
+    ],
+    "name:ita_x_preferred":[
+        "Baqqal"
+    ],
+    "name:msa_x_preferred":[
+        "Baqqal"
+    ],
+    "name:swe_x_preferred":[
+        "Baqqal"
+    ],
     "name:und_x_variant":[
         "Bakkal",
         "Baqqal"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1226677469,
-    "wof:lastmodified":1537585503,
+    "wof:lastmodified":1564126600,
     "wof:name":"Baqqal",
     "wof:parent_id":85668565,
     "wof:placetype":"locality",

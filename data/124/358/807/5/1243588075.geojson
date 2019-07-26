@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Osn\u0259k\u0259ran"
+    ],
+    "name:ceb_x_preferred":[
+        "Osnakeran"
+    ],
+    "name:ita_x_preferred":[
+        "Osnak\u0259ran"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e1\u10dc\u10d0\u10e5\u10d4\u10e0\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Osnak\u0259ran"
+    ],
+    "name:swe_x_preferred":[
+        "Osnakeran"
+    ],
+    "name:tur_x_preferred":[
+        "Osnekeran"
+    ],
     "name:und_x_variant":[
         "Osnagaran\u2019",
         "Osnakeran",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1243588075,
-    "wof:lastmodified":1537585167,
+    "wof:lastmodified":1564126485,
     "wof:name":"Osnakeran",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

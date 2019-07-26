@@ -28,6 +28,27 @@
     "name:aze_x_preferred":[
         "Ta\u011f\u0131lar"
     ],
+    "name:ceb_x_preferred":[
+        "Ta\u011f\u0131lar"
+    ],
+    "name:epo_x_preferred":[
+        "Ta\u011f\u0131lar"
+    ],
+    "name:ita_x_preferred":[
+        "Ta\u011f\u0131lar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d0\u10e6\u10d8\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Ta\u011f\u0131lar"
+    ],
+    "name:sco_x_preferred":[
+        "Ta\u011f\u0131lar"
+    ],
+    "name:swe_x_preferred":[
+        "Ta\u011f\u0131lar"
+    ],
     "name:und_x_variant":[
         "Tagylar",
         "Tagilar"
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1360073333,
-    "wof:lastmodified":1537585329,
+    "wof:lastmodified":1564126382,
     "wof:name":"Tagilar",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

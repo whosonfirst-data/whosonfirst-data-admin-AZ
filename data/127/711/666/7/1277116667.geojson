@@ -25,6 +25,12 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Birinci Qaral\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Birinci Qaral\u0131"
+    ],
     "name:und_x_variant":[
         "Karaly Pervyye",
         "Karally Pervyye",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1277116667,
-    "wof:lastmodified":1537585219,
+    "wof:lastmodified":1564126131,
     "wof:name":"Birinci Qarali",
     "wof:parent_id":85668409,
     "wof:placetype":"locality",

@@ -31,12 +31,27 @@
     "name:aze_x_variant":[
         "Mana\u015fid"
     ],
+    "name:ceb_x_preferred":[
+        "Manashid"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u0576\u0561\u0577\u0565\u0576"
     ],
     "name:hye_x_variant":[
         "Menashen",
         "\u0544\u0561\u0576\u0561\u0577\u056b\u0564"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0259n\u0259\u015fli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10dc\u10d0\u10e8\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "M\u0259n\u0259\u015fli"
+    ],
+    "name:swe_x_preferred":[
+        "Manashid"
     ],
     "name:und_x_variant":[
         "Menashen",
@@ -68,7 +83,7 @@
         }
     ],
     "wof:id":1243131167,
-    "wof:lastmodified":1537585375,
+    "wof:lastmodified":1564126476,
     "wof:name":"Manashid",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

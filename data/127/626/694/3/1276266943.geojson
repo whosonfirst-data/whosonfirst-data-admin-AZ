@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Hac\u0131a\u011falar"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c4\u03c3\u03b9\u03b1\u03b3\u03ba\u03b1\u03bb\u03ac\u03c1"
+    ],
+    "name:ita_x_preferred":[
+        "Hac\u0131a\u011falar"
+    ],
+    "name:msa_x_preferred":[
+        "Hac\u0131a\u011falar"
+    ],
     "name:und_x_variant":[
         "Gadzhyagalar"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1276266943,
-    "wof:lastmodified":1537585543,
+    "wof:lastmodified":1564126053,
     "wof:name":"Haciagalar",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

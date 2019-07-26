@@ -25,14 +25,98 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0644\u0642\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0626\u06cc\u0644\u0642\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
         "Beyl\u0259qan"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0439\u043b\u0430\u0433\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Baylakan"
+    ],
+    "name:ceb_x_preferred":[
+        "Beylagan"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0439\u043b\u0430\u0433\u0430\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Beyl\u0259qan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0644\u0642\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Beyl\u0259qan"
+    ],
+    "name:hsb_x_preferred":[
+        "Beyl\u0259qan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0553\u0561\u0575\u057f\u0561\u056f\u0561\u0580\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Beyl\u0259qan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10d8\u10da\u10d0\u10d2\u10d0\u10dc\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Beilaganas"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u0435\u0439\u043b\u0435\u0433\u0430\u043d \u0445\u043e\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Beylagan"
+    ],
+    "name:nld_x_preferred":[
+        "Beyl\u0259qan"
+    ],
+    "name:pol_x_preferred":[
+        "Beyl\u0259qan"
+    ],
+    "name:ron_x_preferred":[
+        "Beylagan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0439\u043b\u0430\u0433\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Beyl\u0259qan"
+    ],
+    "name:swe_x_preferred":[
+        "Beylagan"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u04d9\u0439\u043b\u04d9\u043a\u0430\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Beylegan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0439\u043b\u0430\u0491\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Jdanov",
         "Beylagan",
         "Zhdanov",
         "Zhdanovsk"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0644\u0642\u0627\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Baylaqon"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u62c9\u7518"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -59,7 +143,7 @@
         }
     ],
     "wof:id":1344144055,
-    "wof:lastmodified":1537585264,
+    "wof:lastmodified":1564125854,
     "wof:name":"Beylagan",
     "wof:parent_id":85668313,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0645\u06cc\u0631\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "D\u0259mirli"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:hye_x_variant":[
         "\u053e\u0561\u0572\u056f\u0561\u0577\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "D\u0259mirli"
+    ],
+    "name:msa_x_preferred":[
+        "D\u0259mirli"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u043c\u0438\u0440\u043b\u0438"
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1259814559,
-    "wof:lastmodified":1537585458,
+    "wof:lastmodified":1564126570,
     "wof:name":"Damirlu",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Namazlar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10db\u10d0\u10d6\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Namazlar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632717
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":1209547163,
-    "wof:lastmodified":1537486609,
+    "wof:lastmodified":1564126140,
     "wof:name":"Namazlar",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03ac\u03c3\u03bc\u03b1 \u03a4\u03c1\u03b5\u03c4\u03af\u03b9"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0634\u0645\u06c1 \u0679\u0631\u06cc\u062a\u06cc\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1293037529,
-    "wof:lastmodified":1537486688,
+    "wof:lastmodified":1564125996,
     "wof:name":"Yashma Tretiy",
     "wof:parent_id":85668251,
     "wof:placetype":"locality",

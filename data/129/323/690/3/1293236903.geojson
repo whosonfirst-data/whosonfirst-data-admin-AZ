@@ -25,11 +25,26 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u00f6h\u00fcc"
+    ],
+    "name:ceb_x_preferred":[
+        "Myugyudzh"
+    ],
     "name:eng_x_preferred":[
+        "M\u00f6h\u00fcc"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00f6h\u00fcc"
+    ],
+    "name:msa_x_preferred":[
         "M\u00f6h\u00fcc"
     ],
     "name:rus_x_preferred":[
         "\u041c\u044e\u0433\u044e\u0434\u0436"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00f6h\u00fcc"
     ],
     "name:und_x_variant":[
         "Megyudzh",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1293236903,
-    "wof:lastmodified":1537585363,
+    "wof:lastmodified":1564125975,
     "wof:name":"Myugyudzh",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

@@ -29,6 +29,27 @@
     "name:aze_x_preferred":[
         "Asa\u011f\u0131 Buzqov"
     ],
+    "name:aze_x_variant":[
+        "A\u015fa\u011f\u0131 Buzqov"
+    ],
+    "name:ceb_x_preferred":[
+        "Asa\u011f\u0131 Buzqov"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0565\u0580\u0584\u056b\u0576 \u0532\u0578\u0582\u0566\u0563\u0578\u057e"
+    ],
+    "name:ita_x_preferred":[
+        "A\u015fa\u011f\u0131 Buzqov"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10d0\u10e6\u10d8-\u10d1\u10e3\u10d6\u10d2\u10dd\u10d5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fa\u011f\u0131 Buzqov"
+    ],
+    "name:swe_x_preferred":[
+        "Asa\u011f\u0131 Buzqov"
+    ],
     "name:und_x_variant":[
         "Ashaga-Buzgov",
         "Ashagy-Byzgov",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1259628105,
-    "wof:lastmodified":1537585275,
+    "wof:lastmodified":1564126528,
     "wof:name":"Asagi Buzqov",
     "wof:parent_id":85668673,
     "wof:placetype":"locality",

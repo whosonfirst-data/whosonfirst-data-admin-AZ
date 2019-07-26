@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u0131mada"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u0131mada"
+    ],
+    "name:ita_x_preferred":[
+        "S\u0131mada"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10db\u10d0\u10d3\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "S\u0131mada"
+    ],
+    "name:swe_x_preferred":[
+        "S\u0131mada"
+    ],
     "name:und_x_variant":[
         "S\u0131mada",
         "Symada"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1326664579,
-    "wof:lastmodified":1537585295,
+    "wof:lastmodified":1564125777,
     "wof:name":"Simada",
     "wof:parent_id":85668433,
     "wof:placetype":"locality",

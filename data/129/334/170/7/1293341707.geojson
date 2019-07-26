@@ -25,11 +25,35 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u0631\u0632 \u0628\u06cc\u200c\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Mirz\u0259b\u0259yli"
+    ],
+    "name:ceb_x_preferred":[
+        "Mirzabeyli"
+    ],
     "name:eng_x_preferred":[
         "Mirz\u01ddb\u01ddyli"
     ],
+    "name:ita_x_preferred":[
+        "Mirz\u0259b\u0259yli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e0\u10d6\u10d0\u10d1\u10d4\u10d8\u10da\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u041c\u0438\u0440\u0437\u0435\u0431\u0435\u0433\u043b\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Mirz\u0259b\u0259yli"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0440\u0437\u0430\u0431\u0435\u0439\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Mirzabeyli"
     ],
     "name:und_x_variant":[
         "Mirz\u0259b\u0259yli"
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1293341707,
-    "wof:lastmodified":1537585370,
+    "wof:lastmodified":1564126012,
     "wof:name":"Mirzabeyli",
     "wof:parent_id":85668541,
     "wof:placetype":"locality",

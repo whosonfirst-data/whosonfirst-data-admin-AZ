@@ -26,8 +26,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06af\u0648\u0632\u0646\u0648\u062a"
+    ],
     "name:aze_x_preferred":[
         "G\u00fczn\u00fct"
+    ],
+    "name:ceb_x_preferred":[
+        "Kyuznut"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0632\u0646\u0648\u062a"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0566\u0576\u0578\u0582\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "G\u00fczn\u00fct"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10e3\u10d6\u10dc\u10d8\u10e3\u10d7\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00fczn\u00fct"
+    ],
+    "name:swe_x_preferred":[
+        "Kyuznut"
     ],
     "name:tur_x_historical":[
         "Kuznut"
@@ -62,7 +86,7 @@
         }
     ],
     "wof:id":1226584409,
-    "wof:lastmodified":1537585192,
+    "wof:lastmodified":1564126599,
     "wof:name":"Kyuznut",
     "wof:parent_id":85668673,
     "wof:placetype":"locality",

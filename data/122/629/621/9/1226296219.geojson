@@ -30,8 +30,29 @@
     "name:aze_x_preferred":[
         "Axura"
     ],
+    "name:ceb_x_preferred":[
+        "Axura"
+    ],
     "name:eng_x_preferred":[
         "Akhura"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056d\u0578\u0582\u0580\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Axura"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10ee\u10e3\u10e0\u10d0"
+    ],
+    "name:min_x_preferred":[
+        "Axura"
+    ],
+    "name:msa_x_preferred":[
+        "Axura"
+    ],
+    "name:swe_x_preferred":[
+        "Axura"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1226296219,
-    "wof:lastmodified":1537585283,
+    "wof:lastmodified":1564126593,
     "wof:name":"Axura",
     "wof:parent_id":85668667,
     "wof:placetype":"locality",

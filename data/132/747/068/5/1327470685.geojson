@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Barzavu"
+    ],
+    "name:ceb_x_preferred":[
+        "Barzavu"
+    ],
+    "name:ind_x_preferred":[
+        "Barzavu"
+    ],
+    "name:ita_x_preferred":[
+        "Barzavu"
+    ],
+    "name:msa_x_preferred":[
+        "Barzavu"
+    ],
+    "name:swe_x_preferred":[
+        "Barzavu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1327470685,
-    "wof:lastmodified":1537486559,
+    "wof:lastmodified":1564125787,
     "wof:name":"Barzavu",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

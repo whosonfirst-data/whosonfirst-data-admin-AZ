@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "\u0130lanl\u0131"
     ],
+    "name:ell_x_preferred":[
+        "\u0399\u03bb\u03ac\u03bd\u03bb\u03b9"
+    ],
+    "name:ita_x_preferred":[
+        "Ilanl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10da\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Ilanl\u0131"
+    ],
     "name:und_x_variant":[
         "Ilanlu",
         "Ilanly",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1326767525,
-    "wof:lastmodified":1537585428,
+    "wof:lastmodified":1564125796,
     "wof:name":"Ilanli",
     "wof:parent_id":85668419,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Kollu"
     ],
+    "name:ita_x_preferred":[
+        "Kollu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10dd\u10da\u10e3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276845495,
-    "wof:lastmodified":1537585532,
+    "wof:lastmodified":1564126109,
     "wof:name":"Kollu",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ava_x_preferred":[
+        "\u0410\u043c\u0431\u0430\u0440\u0447I\u0438"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fmb\u0259r\u00e7ay"
+    ],
+    "name:ceb_x_preferred":[
+        "Emberchay"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fmb\u0259r\u00e7ay"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10db\u10d1\u10d4\u10e0\u10e9\u10d0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fmb\u0259r\u00e7ay"
+    ],
+    "name:swe_x_preferred":[
+        "Emberchay"
+    ],
     "name:und_x_variant":[
         "\u018fmb\u0259r\u00e7ay"
     ],
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1209345801,
-    "wof:lastmodified":1537585446,
+    "wof:lastmodified":1564126206,
     "wof:name":"Emberchay",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

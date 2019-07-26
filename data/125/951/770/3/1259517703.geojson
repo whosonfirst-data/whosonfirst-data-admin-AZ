@@ -29,7 +29,17 @@
         "M\u0259siml\u0259r"
     ],
     "name:aze_x_variant":[
-        "M\u0259sm\u0259l\u0259r"
+        "M\u0259sm\u0259l\u0259r",
+        "M\u0259smallar"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0259siml\u0259r"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e1\u10db\u10d0\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "M\u0259siml\u0259r"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1259517703,
-    "wof:lastmodified":1537585371,
+    "wof:lastmodified":1564126560,
     "wof:name":"Mesmalar",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

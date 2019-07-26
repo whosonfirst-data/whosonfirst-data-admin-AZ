@@ -25,7 +25,28 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u0648\u0648\u0648\u062a"
+    ],
     "name:aze_x_preferred":[
+        "\u015eovut"
+    ],
+    "name:ceb_x_preferred":[
+        "\u015eovut"
+    ],
+    "name:ita_x_preferred":[
+        "\u015eovut"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10dd\u10d5\u10e3\u10d7\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u015eovut"
+    ],
+    "name:swe_x_preferred":[
+        "\u015eovut"
+    ],
+    "name:tur_x_preferred":[
         "\u015eovut"
     ],
     "name:und_x_variant":[
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1259412207,
-    "wof:lastmodified":1537585150,
+    "wof:lastmodified":1564126540,
     "wof:name":"Sovut",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

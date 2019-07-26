@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062d\u0627\u062c\u06cc \u0627\u0648\u0634\u0627\u063a\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Hac\u0131u\u015fa\u011f\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Gadzhyushagy"
+    ],
+    "name:ita_x_preferred":[
+        "Hac\u0131u\u015fa\u011f\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10ef\u10d8\u10e3\u10e8\u10d0\u10e6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Hac\u0131u\u015fa\u011f\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Gadzhyushagy"
+    ],
     "name:und_x_variant":[
         "Gadzhi-Ushagy",
         "Gadzhyushagy",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1293284803,
-    "wof:lastmodified":1537585440,
+    "wof:lastmodified":1564126029,
     "wof:name":"Gadzhyushagy",
     "wof:parent_id":85668289,
     "wof:placetype":"locality",

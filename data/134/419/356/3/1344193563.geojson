@@ -25,11 +25,23 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0644\u0647\u200c\u06a9\u0644\u0648\u0644\u0627\u0631"
+    ],
     "name:aze_x_preferred":[
         "Allahqulular"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0644\u0647\u200c\u06a9\u0644\u0648\u0644\u0627\u0631"
+    ],
     "name:hye_x_preferred":[
         "Allahk\u2019uchular"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d8\u10d0\u10e5\u10e3\u10da\u10e3\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Allahqulular"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u043b\u0430\u0445\u043a\u0443\u043b\u0443\u043b\u0430\u0440"
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1344193563,
-    "wof:lastmodified":1537585303,
+    "wof:lastmodified":1564125897,
     "wof:name":"Allahqulular",
     "wof:parent_id":85668643,
     "wof:placetype":"locality",

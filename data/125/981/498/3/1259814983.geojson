@@ -25,11 +25,35 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0622\u0644\u067e\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Alpan"
+    ],
+    "name:ceb_x_preferred":[
+        "Alpan"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03c0\u03ac\u03bd"
+    ],
     "name:eng_x_preferred":[
+        "Alpan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u067e\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Alpan"
+    ],
+    "name:msa_x_preferred":[
         "Alpan"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u043f\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Alpan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1259814983,
-    "wof:lastmodified":1537585494,
+    "wof:lastmodified":1564126571,
     "wof:name":"Alpan",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

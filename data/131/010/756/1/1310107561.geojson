@@ -31,6 +31,15 @@
     "name:hye_x_preferred":[
         "\u054d\u0561\u0575\u0562\u0561\u056c\u0568"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d8\u10d1\u10d0\u10da\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Saybal\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Saybal\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0439\u0431\u0430\u043b\u044b"
     ],
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1310107561,
-    "wof:lastmodified":1537585158,
+    "wof:lastmodified":1564126348,
     "wof:name":"Saybali",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

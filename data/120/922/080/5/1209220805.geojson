@@ -26,6 +26,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Agzibir"
+    ],
     "name:und_x_variant":[
         "Agzybir",
         "A\u011fz\u0131bir"
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1209220805,
-    "wof:lastmodified":1537585499,
+    "wof:lastmodified":1564126173,
     "wof:name":"Agzibir",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

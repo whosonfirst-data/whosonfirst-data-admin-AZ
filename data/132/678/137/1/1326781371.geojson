@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0644\u0647 \u0633\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Bil\u0259s\u0259r"
+    ],
+    "name:ceb_x_preferred":[
+        "Bilyasar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0644\u0647\u200c\u0633\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "Bil\u0259s\u0259r"
+    ],
+    "name:msa_x_preferred":[
+        "Bil\u0259s\u0259r"
+    ],
+    "name:swe_x_preferred":[
+        "Bilyasar"
+    ],
     "name:und_x_variant":[
         "Bil\u0259s\u0259r"
     ],
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1326781371,
-    "wof:lastmodified":1537585263,
+    "wof:lastmodified":1564125803,
     "wof:name":"Bilyasar",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

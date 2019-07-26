@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7e\u015fm\u0259li"
+    ],
+    "name:ceb_x_preferred":[
+        "Chirkinli"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7e\u015fm\u0259li"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d4\u10e8\u10db\u10d0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7e\u015fm\u0259li"
+    ],
+    "name:swe_x_preferred":[
+        "Chirkinli"
+    ],
     "name:und_x_variant":[
         "\u00c7e\u015fm\u0259l\u0131",
         "Cheshmali",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1293326323,
-    "wof:lastmodified":1537585463,
+    "wof:lastmodified":1564126003,
     "wof:name":"Chirkinli",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Dada\u015fl\u0131"
     ],
+    "name:aze_x_variant":[
+        "Dada\u015flar"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03bd\u03c4\u03b1\u03c3\u03bb\u03af"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10d3\u10d0\u10e8\u10da\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Dada\u015fl\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Dada\u015fl\u0131"
+    ],
     "name:und_x_variant":[
         "Imeni Revolyutsii",
         "Dadashly"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1226444575,
-    "wof:lastmodified":1537585506,
+    "wof:lastmodified":1564126579,
     "wof:name":"Dadasli",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

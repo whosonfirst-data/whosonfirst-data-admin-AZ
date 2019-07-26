@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "G\u00ebzlyubulak"
     ],
+    "name:aze_x_variant":[
+        "G\u00f6zl\u00fcbulaq"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00ebzlyubulak"
+    ],
     "name:und_x_variant":[
         "Gezlubulak",
         "Molochno-Tovarnaya Ferma Gyuzlyubulak"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1343428093,
-    "wof:lastmodified":1537585435,
+    "wof:lastmodified":1564125914,
     "wof:name":"Gezlyubulak",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

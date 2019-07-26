@@ -25,11 +25,35 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ava_x_preferred":[
+        "\u041e\u0446\u0438\u044f\u0437\u0443\u043b\u0442\u0430\u043b\u0430"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u062a\u06cc\u062a\u0627\u0644\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "\u0130titala"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0130titala"
+    ],
     "name:eng_x_preferred":[
+        "\u0130titala"
+    ],
+    "name:ita_x_preferred":[
+        "\u0130titala"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d7\u10d8\u10d7\u10d0\u10da\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "\u0130titala"
     ],
     "name:rus_x_preferred":[
         "\u0418\u0442\u0438\u0442\u0430\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u0130titala"
     ],
     "name:und_x_variant":[
         "Iti-Talaoba",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1209198265,
-    "wof:lastmodified":1537585424,
+    "wof:lastmodified":1564126220,
     "wof:name":"Ititala",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

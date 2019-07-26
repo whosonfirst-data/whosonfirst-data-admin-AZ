@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Musak\u00f6y"
     ],
+    "name:msa_x_preferred":[
+        "Musak\u00f6y"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u0441\u0430\u043a\u0435\u0439"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1343512621,
-    "wof:lastmodified":1537585365,
+    "wof:lastmodified":1564125892,
     "wof:name":"Xanliqlar",
     "wof:parent_id":85668229,
     "wof:placetype":"locality",

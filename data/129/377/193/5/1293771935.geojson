@@ -25,11 +25,26 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0646\u0638\u06cc\u0631\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Nazirli"
     ],
+    "name:aze_x_variant":[
+        "Naz\u0131rl\u0131"
+    ],
     "name:eng_x_preferred":[
         "N\u01ddzirli"
+    ],
+    "name:ita_x_preferred":[
+        "Naz\u0131rl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10d6\u10d8\u10e0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Naz\u0131rl\u0131"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0437\u0438\u0440\u043b\u0438"
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1293771935,
-    "wof:lastmodified":1537585360,
+    "wof:lastmodified":1564125969,
     "wof:name":"Nazirli",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

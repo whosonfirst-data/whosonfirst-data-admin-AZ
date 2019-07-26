@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u0646\u06af\u0647\u200c\u0628\u06cc\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "T\u0259ng\u0259bin"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bd\u03b3\u03ba\u03b5\u03bc\u03c0\u03af\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u06af\u0647\u200c\u0628\u06cc\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "T\u0259ng\u0259bin"
+    ],
+    "name:msa_x_preferred":[
+        "T\u0259ng\u0259bin"
+    ],
     "name:und_x_variant":[
         "Tangebin",
         "T\u0259ng\u0259bin"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1310339227,
-    "wof:lastmodified":1537585142,
+    "wof:lastmodified":1564126365,
     "wof:name":"Tangyabin",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

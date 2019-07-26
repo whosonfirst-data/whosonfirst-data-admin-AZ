@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qu\u015fqara"
+    ],
+    "name:ceb_x_preferred":[
+        "Qu\u015fqara"
+    ],
+    "name:ita_x_preferred":[
+        "Qu\u015fqara"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10e3\u10e8\u10d2\u10d0\u10e0\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Qu\u015fqara"
+    ],
+    "name:swe_x_preferred":[
+        "Qu\u015fqara"
+    ],
     "name:und_x_variant":[
         "Qu\u015fqara",
         "Kushkara"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1242613921,
-    "wof:lastmodified":1537585509,
+    "wof:lastmodified":1564126459,
     "wof:name":"Qusqara",
     "wof:parent_id":85668211,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Kubin"
     ],
+    "name:ceb_x_preferred":[
+        "Kubin"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03bc\u03c0\u03af\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "Kubin"
+    ],
+    "name:msa_x_preferred":[
+        "Kubin"
+    ],
     "name:und_x_variant":[
         "Yusublyukend"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1327079969,
-    "wof:lastmodified":1537585290,
+    "wof:lastmodified":1564125751,
     "wof:name":"Kubin",
     "wof:parent_id":85668397,
     "wof:placetype":"locality",

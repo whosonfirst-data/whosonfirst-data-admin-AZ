@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "N\u0259rimank\u0259nd"
     ],
+    "name:ita_x_preferred":[
+        "Novodonetskoye"
+    ],
+    "name:msa_x_preferred":[
+        "Novodonetskoye"
+    ],
     "name:und_x_variant":[
         "Novo-Donepskoe",
         "Novodonetskoye"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1243292383,
-    "wof:lastmodified":1537585170,
+    "wof:lastmodified":1564126515,
     "wof:name":"Novodonetskoye",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Na\u011f\u0131lar"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03b3\u03ba\u03b9\u03bb\u03ac\u03c1"
+    ],
+    "name:ita_x_preferred":[
+        "Na\u011f\u0131lar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10e6\u10d8\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Na\u011f\u0131lar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0433\u0438\u043b\u0430\u0440"
+    ],
     "name:und_x_variant":[
         "Nagylar"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1326592429,
-    "wof:lastmodified":1537585362,
+    "wof:lastmodified":1564125772,
     "wof:name":"Nagilar",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

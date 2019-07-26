@@ -25,6 +25,12 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Armenatkyshlak"
+    ],
+    "name:msa_x_preferred":[
+        "Armenatkyshlak"
+    ],
     "name:und_x_variant":[
         "Ermenet-Kishlakh",
         "Armenatkyshlak"
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1209147937,
-    "wof:lastmodified":1537585490,
+    "wof:lastmodified":1564126179,
     "wof:name":"Armenatkyshlak",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

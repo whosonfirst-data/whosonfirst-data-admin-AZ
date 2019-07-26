@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Sofular"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c6\u03bf\u03c5\u03bb\u03ac\u03c1"
+    ],
+    "name:ita_x_preferred":[
+        "Sofular"
+    ],
+    "name:msa_x_preferred":[
+        "Sofular"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1310338937,
-    "wof:lastmodified":1537585533,
+    "wof:lastmodified":1564126364,
     "wof:name":"Sofular",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

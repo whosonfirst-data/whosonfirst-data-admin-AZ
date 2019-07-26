@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "\u00c7orman"
     ],
+    "name:cat_x_preferred":[
+        "Corman"
+    ],
+    "name:deu_x_preferred":[
+        "Corman"
+    ],
+    "name:fra_x_preferred":[
+        "Corman"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05de\u05df"
+    ],
     "name:hye_x_preferred":[
         "\u0549\u0578\u0580\u0574\u0561\u0576"
     ],
@@ -35,6 +47,12 @@
         "Chorman",
         "Hovvashen",
         "\u0540\u0578\u057e\u057e\u0561\u0577\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Corman"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30fc\u30de\u30f3"
     ],
     "name:rus_x_preferred":[
         "\u0427\u043e\u0440\u043c\u0430\u043d"
@@ -65,7 +83,7 @@
         }
     ],
     "wof:id":1326797683,
-    "wof:lastmodified":1537585461,
+    "wof:lastmodified":1564125807,
     "wof:name":"Corman",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

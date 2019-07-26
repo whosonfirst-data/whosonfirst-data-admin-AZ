@@ -31,6 +31,18 @@
     "name:aze_x_variant":[
         "Qob\u00fcst\u00fc"
     ],
+    "name:ita_x_preferred":[
+        "Qobu\u00fcst\u00fc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10d1\u10e3\u10d8\u10e3\u10e1\u10d7\u10d8\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "Qobu\u00fcst\u00fc"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0431\u0443\u0443\u0441\u0442\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1242897873,
-    "wof:lastmodified":1537585541,
+    "wof:lastmodified":1564126451,
     "wof:name":"Kobuusti",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

@@ -31,9 +31,27 @@
     "name:aze_x_variant":[
         "\u015eahverdili"
     ],
+    "name:ceb_x_preferred":[
+        "Shakh-Verdylyar"
+    ],
+    "name:ita_x_preferred":[
+        "\u015eahverdili"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10f0\u10d5\u10d4\u10e0\u10d3\u10d8\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u015eahverdili"
+    ],
+    "name:swe_x_preferred":[
+        "Shakh-Verdylyar"
+    ],
     "name:und_x_variant":[
         "Shakh-Verdylyar",
         "Shakhverdili"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06c1\u0648\u0631\u062f\u0644\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1293169075,
-    "wof:lastmodified":1537585154,
+    "wof:lastmodified":1564126020,
     "wof:name":"Sahverdili",
     "wof:parent_id":85668365,
     "wof:placetype":"locality",

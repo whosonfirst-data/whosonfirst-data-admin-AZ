@@ -25,11 +25,26 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u00fcz Bilici"
+    ],
+    "name:ceb_x_preferred":[
+        "D\u00fcz Bilici"
+    ],
     "name:eng_x_preferred":[
+        "D\u00fcz Bilici"
+    ],
+    "name:ita_x_preferred":[
+        "D\u00fcz Bilici"
+    ],
+    "name:msa_x_preferred":[
         "D\u00fcz Bilici"
     ],
     "name:rus_x_preferred":[
         "\u0414\u044e\u0437 \u0411\u0438\u043b\u0438\u0434\u0436\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "D\u00fcz Bilici"
     ],
     "name:und_x_variant":[
         "Dyuz Bilidzhi",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1293847545,
-    "wof:lastmodified":1537585453,
+    "wof:lastmodified":1564125971,
     "wof:name":"Duz Bilici",
     "wof:parent_id":85668339,
     "wof:placetype":"locality",

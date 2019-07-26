@@ -28,6 +28,24 @@
     "name:aze_x_preferred":[
         "V\u0259liu\u015fa\u011f\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "Veliushakhly"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b5\u03bb\u03b9\u03bf\u03c5\u03c3\u03ac\u03b3\u03ba\u03b9"
+    ],
+    "name:ita_x_preferred":[
+        "V\u0259liu\u015fa\u011f\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10da\u10d8\u10e3\u10e8\u10d0\u10e6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "V\u0259liu\u015fa\u011f\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Veliushakhly"
+    ],
     "name:und_x_variant":[
         "Veliushagy",
         "Veliushakhly"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1293761877,
-    "wof:lastmodified":1537585318,
+    "wof:lastmodified":1564125981,
     "wof:name":"Veliushakhly",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

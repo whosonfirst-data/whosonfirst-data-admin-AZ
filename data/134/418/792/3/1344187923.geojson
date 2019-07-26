@@ -25,10 +25,22 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0641\u0627\u062f\u06cc\u0644\u06cc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d0\u10d3\u10d8\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Fad\u0131l\u0131"
+    ],
     "name:und_x_variant":[
         "Fadily",
         "Fadyly",
         "Fad\u0131l\u0131"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0688\u06cc\u0644\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1344187923,
-    "wof:lastmodified":1537585444,
+    "wof:lastmodified":1564125906,
     "wof:name":"Fadili",
     "wof:parent_id":85668211,
     "wof:placetype":"locality",

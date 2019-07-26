@@ -25,11 +25,41 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u0628\u0631\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Nabran"
+    ],
+    "name:ceb_x_preferred":[
+        "Nabran"
+    ],
     "name:eng_x_preferred":[
+        "Nabran"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0628\u0631\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Nabran"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10d1\u10e0\u10d0\u10dc\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u041d\u0430\u0431\u0440\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Nabran"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0431\u0440\u0430\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u0430\u0431\u0440\u0430\u043d\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Nabran"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +85,7 @@
         }
     ],
     "wof:id":1259714329,
-    "wof:lastmodified":1537585363,
+    "wof:lastmodified":1564126546,
     "wof:name":"Nabran",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

@@ -25,8 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0639\u0644\u06cc\u200c\u0646\u0638\u0631\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "\u018flin\u0259z\u0259rli"
+    ],
+    "name:ceb_x_preferred":[
+        "Alinazarli"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0644\u06cc\u200c\u0646\u0638\u0631\u0644\u06cc"
+    ],
+    "name:ita_x_preferred":[
+        "\u018flin\u0259z\u0259rli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d8\u10dc\u10d0\u10d6\u10d0\u10e0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018flin\u0259z\u0259rli"
+    ],
+    "name:swe_x_preferred":[
+        "Alinazarli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1243240661,
-    "wof:lastmodified":1537585281,
+    "wof:lastmodified":1564126472,
     "wof:name":"Alinazarli",
     "wof:parent_id":85668313,
     "wof:placetype":"locality",

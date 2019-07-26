@@ -28,7 +28,19 @@
     "name:aze_x_preferred":[
         "Evo\u011flu"
     ],
+    "name:ell_x_preferred":[
+        "\u0388\u03b2\u03bf\u03b3\u03bb\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
+        "Evo\u011flu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10d5\u10dd\u10e6\u10da\u10e3"
+    ],
+    "name:min_x_preferred":[
+        "Evo\u011flu"
+    ],
+    "name:msa_x_preferred":[
         "Evo\u011flu"
     ],
     "name:rus_x_preferred":[
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1209322141,
-    "wof:lastmodified":1537585445,
+    "wof:lastmodified":1564126190,
     "wof:name":"Evoglu",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

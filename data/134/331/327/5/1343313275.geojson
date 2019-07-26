@@ -25,6 +25,33 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u06c6\u0631\u06a9 \u0645\u0632\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "\u00dcrkm\u0259zli"
+    ],
+    "name:ceb_x_preferred":[
+        "Urkmezli"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03c1\u03ba\u03bc\u03ad\u03b6\u03bb\u03b9"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0580\u0584\u0574\u0561\u0566\u056c\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "\u00dcrkm\u0259zli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e3\u10e0\u10e5\u10db\u10d0\u10d6\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u00dcrkm\u0259zli"
+    ],
+    "name:swe_x_preferred":[
+        "Urkmezli"
+    ],
     "name:und_x_variant":[
         "Urkmagly",
         "\u00dcrkm\u0259zli",
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1343313275,
-    "wof:lastmodified":1537585320,
+    "wof:lastmodified":1564125836,
     "wof:name":"Urkmezli",
     "wof:parent_id":85668229,
     "wof:placetype":"locality",

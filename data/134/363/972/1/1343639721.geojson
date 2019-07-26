@@ -25,14 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0631\u06cc\u062c\u0647"
+    ],
     "name:aze_x_preferred":[
         "\u018fyric\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c7umalar"
     ],
     "name:eng_x_preferred":[
         "\u018fyric\u01dd"
     ],
+    "name:ita_x_preferred":[
+        "\u018fyric\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d8\u10e0\u10d8\u10ef\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fyric\u0259"
+    ],
     "name:rus_x_preferred":[
         "\u0415\u043d\u0438\u0430\u0439\u0440\u0438\u0434\u0436\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c7umalar"
     ],
     "name:und_x_variant":[
         "Ayridzha",
@@ -62,7 +80,7 @@
         }
     ],
     "wof:id":1343639721,
-    "wof:lastmodified":1537585482,
+    "wof:lastmodified":1564125849,
     "wof:name":"Eyridzha",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

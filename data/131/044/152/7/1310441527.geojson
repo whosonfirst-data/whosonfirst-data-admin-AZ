@@ -31,6 +31,15 @@
     "name:aze_x_variant":[
         "Novodmitriyevka"
     ],
+    "name:ita_x_preferred":[
+        "Dimitrovka"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10db\u10d8\u10e2\u10e0\u10dd\u10d5\u10d9\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Dimitrovka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1310441527,
-    "wof:lastmodified":1537585454,
+    "wof:lastmodified":1564126343,
     "wof:name":"Dimitrovka",
     "wof:parent_id":85668459,
     "wof:placetype":"locality",

@@ -31,6 +31,12 @@
     "name:aze_x_variant":[
         "Vayvay"
     ],
+    "name:ita_x_preferred":[
+        "Q\u0131rxbulaq"
+    ],
+    "name:msa_x_preferred":[
+        "Q\u0131rxbulaq"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1293031747,
-    "wof:lastmodified":1537585540,
+    "wof:lastmodified":1564125998,
     "wof:name":"Qirxbulaq",
     "wof:parent_id":85668565,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "K\u0259l\u0259nov"
     ],
+    "name:aze_x_variant":[
+        "Gilyanov"
+    ],
+    "name:ita_x_preferred":[
+        "Gilyanov"
+    ],
+    "name:msa_x_preferred":[
+        "Gilyanov"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1242814271,
-    "wof:lastmodified":1537585434,
+    "wof:lastmodified":1564126455,
     "wof:name":"Gilyanov",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

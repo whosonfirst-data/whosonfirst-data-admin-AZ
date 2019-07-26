@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Bili"
     ],
+    "name:bre_x_preferred":[
+        "Bili"
+    ],
+    "name:ceb_x_preferred":[
+        "Bili"
+    ],
+    "name:fra_x_preferred":[
+        "Bili"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10da\u10d8"
+    ],
+    "name:swe_x_preferred":[
+        "Bili"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1310620931,
-    "wof:lastmodified":1537585526,
+    "wof:lastmodified":1564126318,
     "wof:name":"Bili",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

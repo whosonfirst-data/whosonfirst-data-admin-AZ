@@ -28,6 +28,27 @@
     "name:aze_x_preferred":[
         "Eymur"
     ],
+    "name:ceb_x_preferred":[
+        "Eymur"
+    ],
+    "name:ita_x_preferred":[
+        "Eymur"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10d8\u10db\u10e3\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Eymur"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0439\u043c\u0443\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Eymur"
+    ],
+    "name:tur_x_preferred":[
+        "Eymur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1276658193,
-    "wof:lastmodified":1537585445,
+    "wof:lastmodified":1564126123,
     "wof:name":"Eymur",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

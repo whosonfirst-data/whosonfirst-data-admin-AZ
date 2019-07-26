@@ -28,11 +28,26 @@
     "name:aze_x_preferred":[
         "Buzluq"
     ],
+    "name:ceb_x_preferred":[
+        "Buzluq"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u0582\u0566\u056c\u0578\u0582\u056d"
     ],
     "name:hye_x_variant":[
         "Buzlukh"
+    ],
+    "name:ita_x_preferred":[
+        "Buzluq"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10d6\u10da\u10e3\u10ee\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Buzluq"
+    ],
+    "name:swe_x_preferred":[
+        "Buzluq"
     ],
     "name:und_x_variant":[
         "Bouzloukh",
@@ -64,7 +79,7 @@
         }
     ],
     "wof:id":1226724043,
-    "wof:lastmodified":1537585469,
+    "wof:lastmodified":1564126577,
     "wof:name":"Buzluq",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

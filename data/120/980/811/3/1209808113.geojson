@@ -25,11 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u00f6yd\u0259ll\u0259kli"
+    ],
+    "name:ceb_x_preferred":[
+        "Gey-Dellekli"
+    ],
     "name:eng_x_preferred":[
         "G\u00f6yd\u01ddll\u01ddkli"
     ],
+    "name:ita_x_preferred":[
+        "G\u00f6yd\u0259ll\u0259kli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10dd\u10d3\u10d4\u10da\u10d4\u10e5\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00f6yd\u0259ll\u0259kli"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u0439\u0434\u0435\u043b\u043b\u044f\u043a\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Gey-Dellekli"
     ],
     "name:und_x_variant":[
         "G\u00ebydellyakli",
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1209808113,
-    "wof:lastmodified":1537585436,
+    "wof:lastmodified":1564126215,
     "wof:name":"Gey-Dellekli",
     "wof:parent_id":85668289,
     "wof:placetype":"locality",

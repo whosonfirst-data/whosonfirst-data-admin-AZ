@@ -28,12 +28,21 @@
     "name:aze_x_preferred":[
         "H\u00fcs\u00fcl\u00fc"
     ],
+    "name:aze_x_variant":[
+        "A\u011fo\u011flan"
+    ],
     "name:hye_x_preferred":[
         "\u0533\u0575\u0578\u0582\u057d\u0575\u0578\u0582\u056c\u0575\u0578\u0582"
     ],
     "name:hye_x_variant":[
         "Tsitserrnavank\u2019",
         "\u053e\u056b\u056e\u0565\u057c\u0576\u0561\u057e\u0561\u0576\u0584"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e6\u10dd\u10e6\u10da\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u011fo\u011flan"
     ],
     "name:rus_x_preferred":[
         "\u0413\u044e\u0441\u044e\u043b\u044e"
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":1226595013,
-    "wof:lastmodified":1537585230,
+    "wof:lastmodified":1564126603,
     "wof:name":"Gyusyulyu",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

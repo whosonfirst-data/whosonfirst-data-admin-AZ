@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "\u00dcz\u00fcm\u00e7\u00fc"
     ],
+    "name:ita_x_preferred":[
+        "\u00dcz\u00fcm\u00e7\u00fc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e3\u10d6\u10d8\u10e3\u10db\u10e9\u10d8\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "\u00dcz\u00fcm\u00e7\u00fc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1310538039,
-    "wof:lastmodified":1537585532,
+    "wof:lastmodified":1564126321,
     "wof:name":"Uzumcu",
     "wof:parent_id":85668419,
     "wof:placetype":"locality",

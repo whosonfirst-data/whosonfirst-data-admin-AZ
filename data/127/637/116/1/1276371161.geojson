@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Ba\u011f\u00e7al\u0131"
     ],
+    "name:aze_x_variant":[
+        "Ba\u011f\u00e7a\u0259li"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03b3\u03ba\u03c4\u03c3\u03ac\u03bb\u03b9"
+    ],
+    "name:ita_x_preferred":[
+        "Ba\u011f\u00e7al\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Ba\u011f\u00e7al\u0131"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1276371161,
-    "wof:lastmodified":1537585542,
+    "wof:lastmodified":1564126118,
     "wof:name":"Bakhchaly",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

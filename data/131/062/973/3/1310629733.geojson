@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fhm\u0259dabad"
+    ],
+    "name:ceb_x_preferred":[
+        "Akhmedabad"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fhm\u0259dabad"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10f0\u10db\u10d0\u10d3\u10d0\u10d1\u10d0\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fhm\u0259dabad"
+    ],
     "name:und_x_variant":[
         "\u018fhm\u0259dabad"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1310629733,
-    "wof:lastmodified":1537585499,
+    "wof:lastmodified":1564126318,
     "wof:name":"Akhmedabad",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

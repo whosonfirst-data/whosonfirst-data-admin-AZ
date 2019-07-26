@@ -25,11 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0646\u062c\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Sincan"
+    ],
+    "name:ceb_x_preferred":[
+        "Sincan"
+    ],
     "name:eng_x_preferred":[
+        "Sincan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062c\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Sincan"
+    ],
+    "name:msa_x_preferred":[
         "Sincan"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u043d\u0434\u0436\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Sincan"
     ],
     "name:und_x_variant":[
         "Sindzhan",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1293922533,
-    "wof:lastmodified":1537585333,
+    "wof:lastmodified":1564125993,
     "wof:name":"Sincan",
     "wof:parent_id":85668549,
     "wof:placetype":"locality",

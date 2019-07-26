@@ -25,11 +25,35 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u06cc\u0631\u062c\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Tircan"
+    ],
+    "name:ceb_x_preferred":[
+        "Tircan"
+    ],
     "name:eng_x_preferred":[
+        "Tircan"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0631\u062c\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Tircan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d8\u10e0\u10ef\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Tircan"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0438\u0440\u0434\u0436\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Tircan"
     ],
     "name:und_x_variant":[
         "Tirdzhan",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1225802553,
-    "wof:lastmodified":1537585325,
+    "wof:lastmodified":1564126619,
     "wof:name":"Tircan",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

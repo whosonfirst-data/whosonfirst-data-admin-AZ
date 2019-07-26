@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "H\u00fcseynqulular"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03c3\u03b5\u03ca\u03bd\u03ba\u03bf\u03c5\u03bb\u03bf\u03c5\u03bb\u03ac\u03c1"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00fcseynqulular"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10e3\u10e1\u10d4\u10d8\u10dc\u10d2\u10e3\u10da\u10e3\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "H\u00fcseynqulular"
+    ],
     "name:und_x_variant":[
         "Guseynkullar",
         "H\u00fcseynqulular"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1360215715,
-    "wof:lastmodified":1537585433,
+    "wof:lastmodified":1564126394,
     "wof:name":"Huseynqulular",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Allahver\u0259nli"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03bb\u03b1\u03c7\u03b2\u03b5\u03c1\u03b5\u03bd\u03bb\u03af"
+    ],
+    "name:ita_x_preferred":[
+        "Allahver\u0259nli"
+    ],
+    "name:msa_x_preferred":[
+        "Allahver\u0259nli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1226831977,
-    "wof:lastmodified":1537585520,
+    "wof:lastmodified":1564126649,
     "wof:name":"Allakhveranli",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

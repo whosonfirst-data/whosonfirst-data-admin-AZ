@@ -25,7 +25,16 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qarasaqqal"
+    ],
     "name:eng_x_preferred":[
+        "Qarasaqqal"
+    ],
+    "name:ita_x_preferred":[
+        "Qarasaqqal"
+    ],
+    "name:msa_x_preferred":[
         "Qarasaqqal"
     ],
     "name:rus_x_preferred":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1259550151,
-    "wof:lastmodified":1537585413,
+    "wof:lastmodified":1564126533,
     "wof:name":"Qarasaqqal",
     "wof:parent_id":85668383,
     "wof:placetype":"locality",

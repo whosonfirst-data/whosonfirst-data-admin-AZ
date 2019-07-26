@@ -25,8 +25,23 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u063a\u0627\u0633\u0631"
+    ],
     "name:aze_x_preferred":[
         "Ta\u011faser"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u0445\u0430\u0441\u0435\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Ta\u011faser"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u063a\u0627\u0633\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Taghaser"
     ],
     "name:hye_x_preferred":[
         "\u0539\u0561\u0572\u0561\u057d\u0565\u0580"
@@ -36,8 +51,20 @@
         "T\u2019aghaserr",
         "\u0539\u0561\u0572\u0561\u057d\u0565\u057c"
     ],
+    "name:ita_x_preferred":[
+        "Taghaser"
+    ],
+    "name:msa_x_preferred":[
+        "Ta\u011faser"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0433\u0430\u0441\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Ta\u011faser"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0445\u0430\u0441\u0435\u0440"
     ],
     "name:und_x_variant":[
         "Tagasir",
@@ -67,7 +94,7 @@
         }
     ],
     "wof:id":1243292251,
-    "wof:lastmodified":1537585143,
+    "wof:lastmodified":1564126515,
     "wof:name":"Tagaser",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

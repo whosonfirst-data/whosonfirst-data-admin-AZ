@@ -25,11 +25,35 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0634\u0646\u062c\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Qu\u015fenc\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "Kush-Yengidzha"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c3\u03ad\u03bd\u03c4\u03c3\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Qu\u015f\u01ddnc\u01dd"
     ],
+    "name:ita_x_preferred":[
+        "Qu\u015f\u0259nc\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10e3\u10e8\u10d4\u10dc\u10ef\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Qu\u015f\u0259nc\u0259"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0448\u0435\u043d\u0434\u0436\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kush-Yengidzha"
     ],
     "name:und_x_variant":[
         "Kushendzhe",
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1259651415,
-    "wof:lastmodified":1537585385,
+    "wof:lastmodified":1564126525,
     "wof:name":"Kush-Yengidzha",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

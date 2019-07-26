@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Qaleybu\u011furd"
     ],
+    "name:aze_x_variant":[
+        "Q\u0259leybu\u011furd"
+    ],
+    "name:ita_x_preferred":[
+        "Qaleybu\u011furd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10da\u10d4\u10d8\u10d1\u10e3\u10e6\u10e3\u10e0\u10d3\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Qaleybu\u011furd"
+    ],
+    "name:msa_x_preferred":[
+        "Qaleybu\u011furd"
+    ],
     "name:und_x_variant":[
         "Kalaybugurt",
         "Keleybugurt",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1259719771,
-    "wof:lastmodified":1537585422,
+    "wof:lastmodified":1564126544,
     "wof:name":"Qaleybugurd",
     "wof:parent_id":85668459,
     "wof:placetype":"locality",

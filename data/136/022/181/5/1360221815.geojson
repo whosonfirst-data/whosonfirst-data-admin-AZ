@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ava_x_preferred":[
+        "\u0422I\u0438\u043d\u0430\u0431 \u0425\u0430\u043b\u0430\u043aI\u0443\u043c\u0443\u0440"
+    ],
+    "name:aze_x_preferred":[
+        "Ki\u00e7ik Alat\u0259mir"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03c4\u03c3\u03af\u03ba \u0391\u03bb\u03b1\u03c4\u03b5\u03bc\u03af\u03c1"
+    ],
+    "name:ita_x_preferred":[
+        "Ki\u00e7ik Alat\u0259mir"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d8\u10e9\u10d8\u10e5-\u10d0\u10da\u10d0\u10d7\u10d4\u10db\u10d8\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Ki\u00e7ik Alat\u0259mir"
+    ],
     "name:und_x_variant":[
         "Alatemur-Bala",
         "Kichik Alatemir",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1360221815,
-    "wof:lastmodified":1537585395,
+    "wof:lastmodified":1564126380,
     "wof:name":"Kichik Alatemir",
     "wof:parent_id":85668557,
     "wof:placetype":"locality",

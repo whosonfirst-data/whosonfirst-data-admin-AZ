@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0641\u0631\u062d\u200c\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "F\u0259r\u0259hli"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0561\u0580\u0561\u0570\u056c\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "F\u0259r\u0259hli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d0\u10e0\u10d0\u10f0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "F\u0259r\u0259hli"
+    ],
     "name:und_x_variant":[
         "Farakhly",
         "Fakhraly",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1327085565,
-    "wof:lastmodified":1537585444,
+    "wof:lastmodified":1564125742,
     "wof:name":"Farakhli",
     "wof:parent_id":85668229,
     "wof:placetype":"locality",

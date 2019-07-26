@@ -28,8 +28,17 @@
     "name:aze_x_preferred":[
         "Nuzg\u0259r"
     ],
+    "name:aze_x_variant":[
+        "N\u00fczgar"
+    ],
     "name:hye_x_preferred":[
         "\u0546\u0578\u0582\u0566\u0563\u0565\u0580"
+    ],
+    "name:min_x_preferred":[
+        "Nuzg\u0259r"
+    ],
+    "name:msa_x_preferred":[
+        "Nuzg\u0259r"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0443\u0437\u0433\u0435\u0440"
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1327013237,
-    "wof:lastmodified":1537585169,
+    "wof:lastmodified":1564125734,
     "wof:name":"Nuzgyar",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

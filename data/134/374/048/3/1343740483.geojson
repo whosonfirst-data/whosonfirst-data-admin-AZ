@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Bozakhlar"
     ],
+    "name:ita_x_preferred":[
+        "Bozakhlar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10d6\u10d0\u10ee\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Bozakhlar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343740483,
-    "wof:lastmodified":1537585471,
+    "wof:lastmodified":1564125919,
     "wof:name":"Bozakhlar",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

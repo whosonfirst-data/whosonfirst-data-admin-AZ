@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Nisli"
+    ],
+    "name:ceb_x_preferred":[
+        "Nisli"
+    ],
+    "name:ita_x_preferred":[
+        "Nisli"
+    ],
+    "name:msa_x_preferred":[
+        "Nisli"
+    ],
+    "name:swe_x_preferred":[
+        "Nisli"
+    ],
     "name:und_x_variant":[
         "Nesli",
         "Nisli"
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1209036121,
-    "wof:lastmodified":1537585171,
+    "wof:lastmodified":1564126194,
     "wof:name":"Nisli",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

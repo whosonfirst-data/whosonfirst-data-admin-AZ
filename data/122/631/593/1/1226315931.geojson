@@ -31,6 +31,9 @@
     "name:aze_x_variant":[
         "B\u00f6yuk Bozayran"
     ],
+    "name:msa_x_preferred":[
+        "B\u00ebyuk Bozayran"
+    ],
     "name:und_x_variant":[
         "B\u00ebyuk Bozayran",
         "Bozayran"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1226315931,
-    "wof:lastmodified":1537585264,
+    "wof:lastmodified":1564126669,
     "wof:name":"Bazayran",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

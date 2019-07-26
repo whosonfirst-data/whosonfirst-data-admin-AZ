@@ -25,6 +25,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062c\u0645\u06cc\u0644\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "C\u0259milli"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:hye_x_variant":[
         "\u054b\u0561\u0574\u056b\u056c\u056c\u056b"
+    ],
+    "name:msa_x_preferred":[
+        "C\u0259milli"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0430\u043c\u0438\u043b\u043b\u0438"
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1310036881,
-    "wof:lastmodified":1537585244,
+    "wof:lastmodified":1564126352,
     "wof:name":"Dzhamillu",
     "wof:parent_id":85668657,
     "wof:placetype":"locality",

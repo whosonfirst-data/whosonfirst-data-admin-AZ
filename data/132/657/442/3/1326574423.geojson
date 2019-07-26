@@ -32,6 +32,15 @@
     "name:aze_x_variant":[
         "Dis\u0259r"
     ],
+    "name:ceb_x_preferred":[
+        "D\u012bsar"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0633\u0631"
+    ],
+    "name:swe_x_preferred":[
+        "D\u012bsar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1326574423,
-    "wof:lastmodified":1537585248,
+    "wof:lastmodified":1564125781,
     "wof:name":"Disar",
     "wof:parent_id":85668665,
     "wof:placetype":"locality",

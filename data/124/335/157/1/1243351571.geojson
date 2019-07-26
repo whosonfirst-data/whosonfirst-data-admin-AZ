@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Mehdixanl\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "Mehdixanl\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "Mehdixanl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10f0\u10d3\u10d8\u10ee\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Mehdixanl\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Mehdixanl\u0131"
+    ],
     "name:und_x_variant":[
         "Mekhdikhanly",
         "Mekhtikhanly"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1243351571,
-    "wof:lastmodified":1537585372,
+    "wof:lastmodified":1564126482,
     "wof:name":"Mehdixanli",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

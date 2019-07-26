@@ -25,11 +25,38 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Laza"
+    ],
+    "name:ceb_x_preferred":[
+        "Laza"
+    ],
     "name:eng_x_preferred":[
+        "Laza"
+    ],
+    "name:glg_x_preferred":[
+        "Laza"
+    ],
+    "name:ita_x_preferred":[
+        "Laza"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0\u10d6\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Laza"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u0437\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Laza"
+    ],
+    "name:spa_x_preferred":[
+        "Laza"
+    ],
+    "name:swe_x_preferred":[
+        "Laza"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1243011031,
-    "wof:lastmodified":1537585379,
+    "wof:lastmodified":1564126443,
     "wof:name":"Laza",
     "wof:parent_id":85668541,
     "wof:placetype":"locality",

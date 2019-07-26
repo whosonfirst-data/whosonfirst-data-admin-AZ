@@ -25,10 +25,76 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u062f\u0627\u0645\u064a\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0631\u062f\u0647 \u0645\u06cc\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "K\u00fcrd\u0259mir"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u044e\u0440\u0434\u0430\u043c\u0456\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Kyurdarmir"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u044e\u0440\u0434\u0430\u043c\u0438\u0440"
+    ],
     "name:eng_x_preferred":[
         "K\u00fcrd\u01ddmir"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u062f\u0627\u0645\u06cc\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "K\u00fcrd\u0259mir"
+    ],
+    "name:hsb_x_preferred":[
+        "K\u00fcrd\u0259mir"
+    ],
+    "name:hye_x_preferred":[
+        "\u0554\u0575\u0578\u0582\u0580\u0564\u0561\u0574\u056b\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "K\u00fcrd\u0259mir"
+    ],
+    "name:lit_x_preferred":[
+        "Kiurdamiras"
+    ],
+    "name:msa_x_preferred":[
+        "K\u00fcrd\u0259mir"
+    ],
+    "name:nld_x_preferred":[
+        "K\u00fcrd\u0259mir"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0631\u062f\u06cc\u0645\u06cc\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "K\u00fcrd\u0259mir"
+    ],
+    "name:ron_x_preferred":[
+        "Kurdamir"
+    ],
     "name:rus_x_preferred":[
+        "\u041a\u044e\u0440\u0434\u0430\u043c\u0438\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "K\u00fcrd\u0259mir"
+    ],
+    "name:swe_x_preferred":[
+        "Kyurdarmir"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u04e9\u0440\u0434\u04d9\u043c\u0438\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "K\u00fcrdemir"
+    ],
+    "name:ukr_x_preferred":[
         "\u041a\u044e\u0440\u0434\u0430\u043c\u0438\u0440"
     ],
     "name:und_x_variant":[
@@ -36,6 +102,12 @@
         "Kjurdamir",
         "Kiordamir",
         "K\u00fcrd\u0259mir"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0631\u062f\u0627\u0645\u06cc\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e18\u723e\u9054\u7c73\u723e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -62,7 +134,7 @@
         }
     ],
     "wof:id":1326784691,
-    "wof:lastmodified":1537585386,
+    "wof:lastmodified":1564125803,
     "wof:name":"Kyurdarmir",
     "wof:parent_id":85668383,
     "wof:placetype":"locality",

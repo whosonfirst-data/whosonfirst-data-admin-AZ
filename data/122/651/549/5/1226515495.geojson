@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Pornay\u0131m"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c1\u03bd\u03b1\u0390\u03bc"
+    ],
+    "name:ita_x_preferred":[
+        "Parnaim"
+    ],
+    "name:msa_x_preferred":[
+        "Parnaim"
+    ],
     "name:und_x_variant":[
         "Pornaim",
         "Parnaim"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1226515495,
-    "wof:lastmodified":1537585166,
+    "wof:lastmodified":1564126596,
     "wof:name":"Pornayim",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

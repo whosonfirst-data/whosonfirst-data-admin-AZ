@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "\u00c7arah"
     ],
+    "name:ita_x_preferred":[
+        "\u00c7irax"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7irax"
+    ],
     "name:und_x_variant":[
         "Charakh",
         "\u00c7irax"
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1209277981,
-    "wof:lastmodified":1537585467,
+    "wof:lastmodified":1564126211,
     "wof:name":"Carah",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

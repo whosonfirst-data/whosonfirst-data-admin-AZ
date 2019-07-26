@@ -25,7 +25,28 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u06cc\u0646\u0627\u0642"
+    ],
     "name:aze_x_preferred":[
+        "Taynaq"
+    ],
+    "name:ceb_x_preferred":[
+        "Taynaq"
+    ],
+    "name:ita_x_preferred":[
+        "Taynaq"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d0\u10d8\u10dc\u10d0\u10e5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Taynaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0439\u043d\u0430\u0433"
+    ],
+    "name:swe_x_preferred":[
         "Taynaq"
     ],
     "name:und_x_variant":[
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1226255809,
-    "wof:lastmodified":1537585326,
+    "wof:lastmodified":1564126632,
     "wof:name":"Taynaq",
     "wof:parent_id":85668519,
     "wof:placetype":"locality",

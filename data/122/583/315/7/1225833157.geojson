@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "G\u00fclg\u0259zli"
     ],
+    "name:ceb_x_preferred":[
+        "G\u00fclg\u0259zli"
+    ],
+    "name:ita_x_preferred":[
+        "G\u00fclg\u0259zli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10e3\u10da\u10d2\u10d4\u10d6\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00fclg\u0259zli"
+    ],
+    "name:swe_x_preferred":[
+        "G\u00fclg\u0259zli"
+    ],
     "name:und_x_variant":[
         "Gyul\u2019gezli"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1225833157,
-    "wof:lastmodified":1537585431,
+    "wof:lastmodified":1564126673,
     "wof:name":"Gulgazli",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

@@ -25,14 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u063a\u0644\u0627\u0641\u0686\u0647"
+    ],
     "name:aze_x_preferred":[
         "X\u0259laf\u015f\u0259"
+    ],
+    "name:aze_x_variant":[
+        "X\u0259l\u0259f\u015f\u0259"
+    ],
+    "name:fas_x_preferred":[
+        "\u063a\u0644\u0627\u0641\u0686\u0647"
     ],
     "name:hye_x_preferred":[
         "Halafsha"
     ],
     "name:hye_x_variant":[
         "\u0540\u0561\u056c\u0561\u0586\u0577\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "X\u0259laf\u015f\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10da\u10d0\u10e4\u10e8\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "X\u0259laf\u015f\u0259"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043b\u0430\u0444\u0448\u0430"
@@ -64,7 +82,7 @@
         }
     ],
     "wof:id":1276832647,
-    "wof:lastmodified":1537585212,
+    "wof:lastmodified":1564126109,
     "wof:name":"Khalafsha",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

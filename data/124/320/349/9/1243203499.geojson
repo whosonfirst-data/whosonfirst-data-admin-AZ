@@ -28,6 +28,24 @@
     "name:aze_x_preferred":[
         "Odurak\u0259ran"
     ],
+    "name:ceb_x_preferred":[
+        "Odurakeran"
+    ],
+    "name:ita_x_preferred":[
+        "Odurakeran"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10d3\u10e3\u10e0\u10d0\u10e5\u10d4\u10e0\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Odurakeran"
+    ],
+    "name:swe_x_preferred":[
+        "Odurakeran"
+    ],
+    "name:tur_x_preferred":[
+        "Odurakeran"
+    ],
     "name:und_x_variant":[
         "Oduragaran\u2019",
         "Odurakeran"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1243203499,
-    "wof:lastmodified":1537585168,
+    "wof:lastmodified":1564126509,
     "wof:name":"Odurakeran",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

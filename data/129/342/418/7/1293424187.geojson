@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fzgilli"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03b6\u03b3\u03ba\u03b9\u03bb\u03af"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fzgilli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d6\u10d2\u10d8\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fzgilli"
+    ],
     "name:und_x_variant":[
         "Azgilo",
         "Ezgilli",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1293424187,
-    "wof:lastmodified":1537585444,
+    "wof:lastmodified":1564126023,
     "wof:name":"Ezgilly",
     "wof:parent_id":85668601,
     "wof:placetype":"locality",

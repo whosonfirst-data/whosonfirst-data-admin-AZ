@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Qaraqaya"
     ],
+    "name:ita_x_preferred":[
+        "Qaraqaya"
+    ],
     "name:und_x_variant":[
         "Karakaya",
         "Qaragaya"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276157157,
-    "wof:lastmodified":1537585221,
+    "wof:lastmodified":1564126103,
     "wof:name":"Qaraqaya",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

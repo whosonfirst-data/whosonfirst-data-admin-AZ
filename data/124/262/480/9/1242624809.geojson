@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Sonasar"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043d\u0430\u0441\u0430\u0440"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0646\u0647\u200c\u0633\u0631"
+    ],
     "name:hye_x_preferred":[
         "Sanasar"
     ],
@@ -35,7 +41,16 @@
         "\u054d\u0561\u0576\u0561\u057d\u0561\u0580",
         "\u054d\u0578\u0576\u0561\u057d\u0561\u0580"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10dc\u10d0\u10e1\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Sonasar"
+    ],
     "name:rus_x_preferred":[
+        "\u0421\u043e\u043d\u0430\u0441\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
         "\u0421\u043e\u043d\u0430\u0441\u0430\u0440"
     ],
     "name:und_x_variant":[
@@ -65,7 +80,7 @@
         }
     ],
     "wof:id":1242624809,
-    "wof:lastmodified":1537585145,
+    "wof:lastmodified":1564126499,
     "wof:name":"Sonasar",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

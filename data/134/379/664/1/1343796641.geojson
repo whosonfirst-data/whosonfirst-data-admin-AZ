@@ -25,11 +25,26 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Da\u015f\u00fcz"
+    ],
+    "name:ceb_x_preferred":[
+        "Da\u015f\u00fcz"
+    ],
     "name:eng_x_preferred":[
+        "Da\u015f\u00fcz"
+    ],
+    "name:ita_x_preferred":[
+        "Da\u015f\u00fcz"
+    ],
+    "name:msa_x_preferred":[
         "Da\u015f\u00fcz"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u0448\u044e\u0437"
+    ],
+    "name:swe_x_preferred":[
+        "Da\u015f\u00fcz"
     ],
     "name:und_x_variant":[
         "Da\u015f\u00fcz"
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1343796641,
-    "wof:lastmodified":1537585508,
+    "wof:lastmodified":1564125865,
     "wof:name":"Dasuz",
     "wof:parent_id":85668565,
     "wof:placetype":"locality",

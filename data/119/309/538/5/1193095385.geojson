@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "\u018fl\u0259tli"
     ],
+    "name:ita_x_preferred":[
+        "Khila Mirzali"
+    ],
+    "name:msa_x_preferred":[
+        "Khila Mirzali"
+    ],
     "name:und_x_variant":[
         "Alyatli"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1193095385,
-    "wof:lastmodified":1537585398,
+    "wof:lastmodified":1564126237,
     "wof:name":"Khila Mirzali",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

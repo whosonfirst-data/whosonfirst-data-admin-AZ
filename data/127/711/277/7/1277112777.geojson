@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Bideyiz"
     ],
+    "name:ceb_x_preferred":[
+        "Bideyiz"
+    ],
+    "name:ita_x_preferred":[
+        "Bideyiz"
+    ],
+    "name:msa_x_preferred":[
+        "Bideyiz"
+    ],
+    "name:swe_x_preferred":[
+        "Bideyiz"
+    ],
     "name:und_x_variant":[
         "Bideiz",
         "Bidey\u0131z"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1277112777,
-    "wof:lastmodified":1537585473,
+    "wof:lastmodified":1564126132,
     "wof:name":"Bideyiz",
     "wof:parent_id":85668565,
     "wof:placetype":"locality",

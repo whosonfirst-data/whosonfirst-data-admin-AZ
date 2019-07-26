@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "\u00c7im\u0259n"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03bc\u03ad\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0645\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7im\u0259n"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d8\u10db\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7im\u0259n"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0438\u043c\u0430\u043d"
     ],
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1293759601,
-    "wof:lastmodified":1537585257,
+    "wof:lastmodified":1564126033,
     "wof:name":"Chemen",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

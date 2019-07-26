@@ -28,11 +28,44 @@
     "name:aze_x_preferred":[
         "G\u00fcn\u0259sli"
     ],
+    "name:aze_x_variant":[
+        "Martuni"
+    ],
+    "name:ceb_x_preferred":[
+        "Martuni"
+    ],
+    "name:deu_x_preferred":[
+        "Martuni"
+    ],
     "name:eng_x_preferred":[
         "Martuni"
     ],
+    "name:fra_x_preferred":[
+        "Martouni"
+    ],
+    "name:hsb_x_preferred":[
+        "Martuni"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580\u057f\u0578\u0582\u0576\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Martuni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10e2\u10e3\u10dc\u10d8"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0443\u043d\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0443\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Martuni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0443\u043d\u0456"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +84,7 @@
         }
     ],
     "wof:id":1209446191,
-    "wof:lastmodified":1537585373,
+    "wof:lastmodified":1564126223,
     "wof:name":"Martuni",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

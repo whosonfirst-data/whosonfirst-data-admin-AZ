@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u0259b\u0259tl\u0259r"
+    ],
+    "name:ceb_x_preferred":[
+        "Sebetlyar"
+    ],
+    "name:ita_x_preferred":[
+        "S\u0259b\u0259tl\u0259r"
+    ],
+    "name:msa_x_preferred":[
+        "S\u0259b\u0259tl\u0259r"
+    ],
+    "name:swe_x_preferred":[
+        "Sebetlyar"
+    ],
     "name:und_x_variant":[
         "S\u0259b\u0259tl\u0259r",
         "Sabatlar"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1276366281,
-    "wof:lastmodified":1537585348,
+    "wof:lastmodified":1564126126,
     "wof:name":"Sebetlyar",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

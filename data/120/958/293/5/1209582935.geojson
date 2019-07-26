@@ -28,8 +28,20 @@
     "name:aze_x_preferred":[
         "Ghazarahogh"
     ],
+    "name:aze_x_variant":[
+        "Gazarahox"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0437\u0430\u0440\u0430\u043e\u0445"
+    ],
     "name:hye_x_preferred":[
         "\u0542\u0561\u0566\u0561\u0580\u0561\u0570\u0578\u0572"
+    ],
+    "name:msa_x_preferred":[
+        "Ghazarahogh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0437\u0430\u0440\u0430\u043e\u0445"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1209582935,
-    "wof:lastmodified":1537585517,
+    "wof:lastmodified":1564126199,
     "wof:name":"Ghazarahogh",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

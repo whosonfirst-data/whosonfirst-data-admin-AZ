@@ -25,8 +25,14 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u06a9\u06cc\u0646\u062c\u06cc \u0642\u0627\u0644\u0627"
+    ],
     "name:eng_x_preferred":[
         "\u0130kinci Qala"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u06a9\u06cc\u0646\u062c\u06cc \u0642\u0627\u0644\u0627"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u0430"
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1310491241,
-    "wof:lastmodified":1537585508,
+    "wof:lastmodified":1564126315,
     "wof:name":"Ikinci Qala",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

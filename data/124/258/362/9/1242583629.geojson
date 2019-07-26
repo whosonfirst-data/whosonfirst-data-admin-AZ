@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Agali"
+    ],
+    "name:deu_x_preferred":[
+        "Agali"
+    ],
+    "name:swe_x_preferred":[
+        "Agali"
+    ],
     "name:und_x_variant":[
         "Agaly",
         "A\u011fal\u0131"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1242583629,
-    "wof:lastmodified":1537585501,
+    "wof:lastmodified":1564126466,
     "wof:name":"Agali",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

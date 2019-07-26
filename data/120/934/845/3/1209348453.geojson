@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Barl\u0131"
     ],
+    "name:ita_x_preferred":[
+        "Barl\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Barl\u0131"
+    ],
     "name:und_x_variant":[
         "Barly"
     ],
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1209348453,
-    "wof:lastmodified":1537585536,
+    "wof:lastmodified":1564126204,
     "wof:name":"Barli",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

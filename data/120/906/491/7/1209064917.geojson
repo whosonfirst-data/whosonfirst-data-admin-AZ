@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Qubadl\u0131 \u015e\u0131xl\u0131"
     ],
+    "name:ita_x_preferred":[
+        "Qubadl\u0131 \u015e\u0131xl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10d1\u10d0\u10d3\u10da\u10d8-\u10e8\u10d8\u10ee\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qubadl\u0131 \u015e\u0131xl\u0131"
+    ],
     "name:und_x_variant":[
         "Kubadlyshikhly"
     ],
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209064917,
-    "wof:lastmodified":1537585530,
+    "wof:lastmodified":1564126147,
     "wof:name":"Qubadli Sixli",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

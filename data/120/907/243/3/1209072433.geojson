@@ -34,6 +34,12 @@
     "name:hye_x_variant":[
         "\u0542\u0561\u0566\u0561\u056d\u056c\u0561\u0580"
     ],
+    "name:ita_x_preferred":[
+        "Qazaxlar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10d6\u10d0\u10ee\u10da\u10d0\u10e0\u10d8"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0437\u0430\u0445\u043b\u0430\u0440"
     ],
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1209072433,
-    "wof:lastmodified":1537585216,
+    "wof:lastmodified":1564126138,
     "wof:name":"Qazaxlar",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

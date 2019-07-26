@@ -25,6 +25,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u0645\u0627\u0631\u062a\u0627"
+    ],
     "name:aze_x_preferred":[
         "Xumarta"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:hye_x_variant":[
         "\u0542\u0578\u0582\u0574\u0561\u0580\u057f\u0561"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10e3\u10db\u10d0\u10e0\u10d7\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Xumarta"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0443\u043c\u0430\u0440\u0442\u0430"
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1343412263,
-    "wof:lastmodified":1537585204,
+    "wof:lastmodified":1564125866,
     "wof:name":"Xumarta",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

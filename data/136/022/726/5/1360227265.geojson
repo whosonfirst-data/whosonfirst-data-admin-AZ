@@ -25,10 +25,64 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0631\u062e\u0648\u062f\u0627\u0631\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Barxudarl\u0131"
+    ],
+    "name:deu_x_preferred":[
+        "Barxudarl\u0131"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u062e\u0648\u0631\u062f\u0627\u0631\u0644\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Barxudarl\u0131"
+    ],
+    "name:fra_x_preferred":[
+        "Barkhudarli"
+    ],
+    "name:hun_x_preferred":[
+        "Barxudarl\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0580\u056d\u0578\u0582\u0564\u0561\u0580\u056c\u0578\u0582"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10ee\u10e3\u10d3\u10d0\u10e0\u10da\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Barchudarli"
+    ],
+    "name:msa_x_preferred":[
+        "Barxudarl\u0131"
+    ],
+    "name:nld_x_preferred":[
+        "Barxudarl\u0131"
+    ],
+    "name:pol_x_preferred":[
+        "Barxudarl\u0131"
+    ],
+    "name:por_x_preferred":[
+        "Barxudarl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0445\u0443\u0434\u0430\u0440\u043b\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Barjudarli"
+    ],
+    "name:tur_x_preferred":[
+        "Berhudarl\u0131"
+    ],
     "name:und_x_variant":[
         "Barkudarly",
         "Barkhudarly",
         "Barxudarl\u0131"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5eab\u9054\u5229"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +116,7 @@
         }
     ],
     "wof:id":1360227265,
-    "wof:lastmodified":1537585478,
+    "wof:lastmodified":1564126381,
     "wof:name":"Barxudarli",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

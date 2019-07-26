@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0648\u0628\u200c\u0644\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fyyublu"
+    ],
+    "name:ceb_x_preferred":[
+        "Ashagy-Ayyply"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fyyublu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d8\u10d8\u10e3\u10d1\u10da\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fyyublu"
+    ],
+    "name:swe_x_preferred":[
+        "Ashagy-Ayyply"
+    ],
     "name:und_x_variant":[
         "Ashagy-Ayipli",
         "Ashaga-Ayply",
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1277016541,
-    "wof:lastmodified":1537585488,
+    "wof:lastmodified":1564126045,
     "wof:name":"Ashagy-Ayyply",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

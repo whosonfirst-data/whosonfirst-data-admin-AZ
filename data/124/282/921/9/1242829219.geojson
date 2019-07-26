@@ -29,7 +29,11 @@
         "N\u0259c\u0259fal\u0131lar"
     ],
     "name:aze_x_variant":[
-        "N\u0259c\u0259fal\u0131"
+        "N\u0259c\u0259fal\u0131",
+        "N\u0259cafal\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "N\u0259cafal\u0131"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0434\u0436\u0430\u0444\u0430\u043b\u044b\u043b\u0430\u0440"
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1242829219,
-    "wof:lastmodified":1537585363,
+    "wof:lastmodified":1564126496,
     "wof:name":"Nadzhafalylar",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

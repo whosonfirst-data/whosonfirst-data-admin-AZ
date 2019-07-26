@@ -25,10 +25,61 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062c\u06a9"
+    ],
+    "name:aze_x_preferred":[
+        "Cek"
+    ],
+    "name:eus_x_preferred":[
+        "Cek"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u06a9"
+    ],
+    "name:ind_x_preferred":[
+        "Cek"
+    ],
+    "name:ita_x_preferred":[
+        "Cek"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d4\u10d9\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Cek"
+    ],
+    "name:oss_x_preferred":[
+        "\u0414\u0436\u0435\u043a"
+    ],
+    "name:pih_x_preferred":[
+        "Dzhek"
+    ],
+    "name:pol_x_preferred":[
+        "Cek"
+    ],
+    "name:por_x_preferred":[
+        "Cek"
+    ],
+    "name:ron_x_preferred":[
+        "Cek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Cek"
+    ],
+    "name:tur_x_preferred":[
+        "Cek"
+    ],
     "name:und_x_variant":[
         "Dzheg",
         "Dzhek",
         "Cek"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06cc\u06a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +105,7 @@
         }
     ],
     "wof:id":1243203753,
-    "wof:lastmodified":1537585449,
+    "wof:lastmodified":1564126512,
     "wof:name":"Cek",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

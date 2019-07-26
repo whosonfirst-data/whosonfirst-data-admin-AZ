@@ -25,11 +25,38 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ava_x_preferred":[
+        "\u041c\u0443\u0445\u044a\u0430\u0445\u044a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u062e\u0627\u062e"
+    ],
+    "name:aze_x_preferred":[
+        "Muxax"
+    ],
+    "name:ceb_x_preferred":[
+        "Muxax"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03be\u03ac\u03be"
+    ],
     "name:eng_x_preferred":[
+        "Muxax"
+    ],
+    "name:ita_x_preferred":[
+        "Muxax"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10ee\u10d0\u10ee\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Muxax"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u0445\u0430\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Muxax"
     ],
     "name:und_x_variant":[
         "Mukhakh",
@@ -60,7 +87,7 @@
         }
     ],
     "wof:id":1210052827,
-    "wof:lastmodified":1537585366,
+    "wof:lastmodified":1564126234,
     "wof:name":"Muxax",
     "wof:parent_id":85668601,
     "wof:placetype":"locality",

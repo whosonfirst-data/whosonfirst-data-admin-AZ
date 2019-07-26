@@ -25,11 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Burovdal"
+    ],
+    "name:ceb_x_preferred":[
+        "Burovdal"
+    ],
     "name:eng_x_preferred":[
+        "Burovdal"
+    ],
+    "name:ita_x_preferred":[
+        "Burovdal"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10e0\u10dd\u10d5\u10d3\u10d0\u10da\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u0411\u0443\u0440\u043e\u0432\u0434\u0430\u043b"
+    ],
+    "name:msa_x_preferred":[
         "Burovdal"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0440\u043e\u0432\u0434\u0430\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Burovdal"
     ],
     "name:und_x_variant":[
         "Bruydal",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1360240205,
-    "wof:lastmodified":1537585470,
+    "wof:lastmodified":1564126372,
     "wof:name":"Burovdal",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

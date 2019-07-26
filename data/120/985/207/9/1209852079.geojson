@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Qarabulaq"
     ],
+    "name:ceb_x_preferred":[
+        "Qarabulaq"
+    ],
+    "name:ita_x_preferred":[
+        "Qarabulaq"
+    ],
+    "name:swe_x_preferred":[
+        "Qarabulaq"
+    ],
     "name:und_x_variant":[
         "Karabulak"
     ],
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1209852079,
-    "wof:lastmodified":1537585515,
+    "wof:lastmodified":1564126170,
     "wof:name":"Qarabulaq",
     "wof:parent_id":85668419,
     "wof:placetype":"locality",

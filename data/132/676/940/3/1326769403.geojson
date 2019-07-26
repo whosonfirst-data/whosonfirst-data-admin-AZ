@@ -25,11 +25,26 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "B\u00f6y\u00fck S\u00f6y\u00fcdl\u00fc"
+    ],
+    "name:ceb_x_preferred":[
+        "Beyuk-Sogyutlyu"
+    ],
     "name:eng_x_preferred":[
+        "B\u00f6y\u00fck S\u00f6y\u00fcdl\u00fc"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00f6y\u00fck S\u00f6y\u00fcdl\u00fc"
+    ],
+    "name:msa_x_preferred":[
         "B\u00f6y\u00fck S\u00f6y\u00fcdl\u00fc"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u044e\u043a \u0421\u0435\u044e\u0434\u043b\u044e"
+    ],
+    "name:swe_x_preferred":[
+        "Beyuk-Sogyutlyu"
     ],
     "name:und_x_variant":[
         "Beyuk-Segutly",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1326769403,
-    "wof:lastmodified":1537585473,
+    "wof:lastmodified":1564125797,
     "wof:name":"Beyuk-Sogyutlyu",
     "wof:parent_id":85668549,
     "wof:placetype":"locality",

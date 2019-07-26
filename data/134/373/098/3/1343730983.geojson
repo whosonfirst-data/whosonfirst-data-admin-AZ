@@ -25,9 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hac\u0131a\u011fab\u0259yli"
+    ],
+    "name:ita_x_preferred":[
+        "Hac\u0131a\u011fab\u0259yli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10ef\u10d8\u10d0\u10e6\u10d0\u10d1\u10d4\u10d8\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Hac\u0131a\u011fab\u0259yli"
+    ],
     "name:und_x_variant":[
         "Gadzhiagabeyli",
         "Hac\u0131a\u011fab\u0259yli"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0627\u06a9\u0644\u0627\u06af\u0627\u0628\u06cc\u0644\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1343730983,
-    "wof:lastmodified":1537585442,
+    "wof:lastmodified":1564125918,
     "wof:name":"Gadzhyagabeyli",
     "wof:parent_id":85668357,
     "wof:placetype":"locality",

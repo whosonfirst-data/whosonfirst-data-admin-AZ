@@ -25,8 +25,26 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Boluslu"
+    ],
+    "name:ceb_x_preferred":[
+        "Cinli Boluslu"
+    ],
+    "name:ita_x_preferred":[
+        "Cinli Boluslu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10da\u10e3\u10e1\u10da\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "Cinli Boluslu"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0438\u043d\u043b\u0438-\u0411\u043e\u043b\u0443\u0441\u043b\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Cinli Boluslu"
     ],
     "name:und_x_variant":[
         "Dzhinly-Boluslu",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1309780015,
-    "wof:lastmodified":1537585448,
+    "wof:lastmodified":1564126411,
     "wof:name":"Cinli Boluslu",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

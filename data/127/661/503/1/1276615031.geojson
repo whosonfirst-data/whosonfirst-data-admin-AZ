@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0644\u0627 \u0634\u0648\u0631\u0648\u06a9"
+    ],
+    "name:aze_x_preferred":[
+        "Bala \u015e\u00fcr\u00fck"
+    ],
+    "name:ceb_x_preferred":[
+        "Malyy Shuryuk"
+    ],
+    "name:ita_x_preferred":[
+        "Bala \u015e\u00fcr\u00fck"
+    ],
+    "name:msa_x_preferred":[
+        "Bala \u015e\u00fcr\u00fck"
+    ],
+    "name:swe_x_preferred":[
+        "Malyy Shuryuk"
+    ],
     "name:und_x_variant":[
         "Bala Shuryuk",
         "Bala \u015e\u00fcr\u00fck"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1276615031,
-    "wof:lastmodified":1537585267,
+    "wof:lastmodified":1564126081,
     "wof:name":"Malyy Shuryuk",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

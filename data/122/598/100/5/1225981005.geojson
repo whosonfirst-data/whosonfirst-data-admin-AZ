@@ -28,14 +28,26 @@
     "name:aze_x_preferred":[
         "Hal"
     ],
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u043b\u0435"
+    ],
     "name:hye_x_preferred":[
         "Hale"
     ],
     "name:hye_x_variant":[
         "\u0540\u0561\u056c\u0565"
     ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10da\u10d4"
+    ],
+    "name:msa_x_preferred":[
+        "Hal"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043b\u0435"
     ],
     "name:und_x_variant":[
         "Gal"
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":1225981005,
-    "wof:lastmodified":1537585238,
+    "wof:lastmodified":1564126630,
     "wof:name":"Hal",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

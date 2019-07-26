@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018frm\u0259ki"
+    ],
+    "name:ceb_x_preferred":[
+        "Ermyaki"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c1\u03bc\u03ad\u03ba\u03b9"
+    ],
+    "name:ita_x_preferred":[
+        "\u018frm\u0259ki"
+    ],
+    "name:msa_x_preferred":[
+        "\u018frm\u0259ki"
+    ],
+    "name:swe_x_preferred":[
+        "Ermyaki"
+    ],
     "name:und_x_variant":[
         "Ermeki",
         "\u018frm\u0259ki"
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1209141645,
-    "wof:lastmodified":1537585446,
+    "wof:lastmodified":1564126179,
     "wof:name":"Ermyaki",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

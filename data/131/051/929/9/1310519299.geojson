@@ -28,8 +28,26 @@
     "name:aze_x_preferred":[
         "Goradil"
     ],
+    "name:aze_x_variant":[
+        "G\u00f6r\u0259dil"
+    ],
+    "name:ceb_x_preferred":[
+        "Goradil"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434\u0438\u043b"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10e0\u10d0\u10d3\u10d8\u10da\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Goradil"
+    ],
     "name:rus_x_preferred":[
         "Goradil\u2019"
+    ],
+    "name:swe_x_preferred":[
+        "Goradil"
     ],
     "name:und_x_variant":[
         "Gerodil\u2019",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1310519299,
-    "wof:lastmodified":1537585433,
+    "wof:lastmodified":1564126369,
     "wof:name":"Goradil",
     "wof:parent_id":85668251,
     "wof:placetype":"locality",

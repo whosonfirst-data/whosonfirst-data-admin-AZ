@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Orta \u00c7al\u011fan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03c4\u03ac \u03a4\u03c3\u03b1\u03bb\u03b3\u03ba\u03ac\u03bd"
+    ],
+    "name:msa_x_preferred":[
+        "Orta \u00c7al\u011fan"
+    ],
     "name:und_x_variant":[
         "Orta Dzhalgan",
         "Orta \u00c7al\u011fan",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226677193,
-    "wof:lastmodified":1537585357,
+    "wof:lastmodified":1564126601,
     "wof:name":"Orta Calgan",
     "wof:parent_id":85668339,
     "wof:placetype":"locality",

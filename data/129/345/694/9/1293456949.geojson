@@ -29,7 +29,11 @@
         "Otakhlar"
     ],
     "name:aze_x_variant":[
-        "Otaql\u0131"
+        "Otaql\u0131",
+        "Otaxlar"
+    ],
+    "name:msa_x_preferred":[
+        "Otakhlar"
     ],
     "name:rus_x_preferred":[
         "\u041e\u0442\u0430\u0445\u043b\u0430\u0440"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293456949,
-    "wof:lastmodified":1537585356,
+    "wof:lastmodified":1564126025,
     "wof:name":"Otakhlar",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

@@ -25,14 +25,35 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u0631\u0632\u0627\u062c\u0639\u0641\u0631\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Mirz\u0259c\u0259f\u0259rli"
+    ],
+    "name:ceb_x_preferred":[
+        "Mirzadzhafarli"
     ],
     "name:eng_x_preferred":[
         "Mirz\u01ddc\u01ddf\u01ddrli"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0631\u0632\u0627\u062c\u0639\u0641\u0631\u0644\u06cc"
+    ],
+    "name:ita_x_preferred":[
+        "Mirz\u0259c\u0259f\u0259rli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e0\u10d6\u10d0\u10ef\u10d0\u10e4\u10d0\u10e0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Mirz\u0259c\u0259f\u0259rli"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0440\u0437\u0430\u0434\u0436\u0430\u0444\u0430\u0440\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Mirzadzhafarli"
     ],
     "name:und_x_variant":[
         "Mirdazhafarli",
@@ -62,7 +83,7 @@
         }
     ],
     "wof:id":1344135001,
-    "wof:lastmodified":1537585370,
+    "wof:lastmodified":1564125853,
     "wof:name":"Mirzadzhafarli",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

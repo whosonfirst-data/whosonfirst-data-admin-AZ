@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u062d\u06cc\u062f\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Vahidli"
+    ],
+    "name:ceb_x_preferred":[
+        "Vahidli"
+    ],
+    "name:ita_x_preferred":[
+        "Vahidli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10f0\u10d8\u10d3\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Vahidli"
+    ],
+    "name:swe_x_preferred":[
+        "Vahidli"
+    ],
     "name:und_x_variant":[
         "Vayytly",
         "Vaitly",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1310042447,
-    "wof:lastmodified":1537585318,
+    "wof:lastmodified":1564126355,
     "wof:name":"Vahidli",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

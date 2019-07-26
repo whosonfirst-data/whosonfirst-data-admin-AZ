@@ -28,8 +28,14 @@
     "name:aze_x_preferred":[
         "Xanal\u0131"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bd\u03b1\u03bb\u03af"
+    ],
     "name:hye_x_preferred":[
         "\u053d\u0561\u0576\u0561\u056c\u056b"
+    ],
+    "name:msa_x_preferred":[
+        "Xanal\u0131"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043d\u0430\u043b\u044b"
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1209750341,
-    "wof:lastmodified":1537585304,
+    "wof:lastmodified":1564126228,
     "wof:name":"Xanali",
     "wof:parent_id":85668643,
     "wof:placetype":"locality",

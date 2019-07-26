@@ -33,6 +33,48 @@
         "Gal",
         "Hal"
     ],
+    "name:cat_x_preferred":[
+        "Gal"
+    ],
+    "name:ceb_x_preferred":[
+        "Gal"
+    ],
+    "name:eus_x_preferred":[
+        "Gal"
+    ],
+    "name:fin_x_preferred":[
+        "Gal"
+    ],
+    "name:nds_x_preferred":[
+        "Gal"
+    ],
+    "name:nld_x_preferred":[
+        "Gal"
+    ],
+    "name:oci_x_preferred":[
+        "Gal"
+    ],
+    "name:pol_x_preferred":[
+        "Gal"
+    ],
+    "name:por_x_preferred":[
+        "Gal"
+    ],
+    "name:rus_x_preferred":[
+        "Gal"
+    ],
+    "name:slk_x_preferred":[
+        "Gal"
+    ],
+    "name:spa_x_preferred":[
+        "Gal"
+    ],
+    "name:srp_x_preferred":[
+        "Gal"
+    ],
+    "name:swe_x_preferred":[
+        "Gal"
+    ],
     "name:und_x_variant":[
         "Gyal"
     ],
@@ -59,7 +101,7 @@
         }
     ],
     "wof:id":1225998151,
-    "wof:lastmodified":1537585232,
+    "wof:lastmodified":1564126622,
     "wof:name":"Gal",
     "wof:parent_id":85668677,
     "wof:placetype":"locality",

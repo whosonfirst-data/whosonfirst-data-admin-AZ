@@ -34,6 +34,9 @@
     "name:hye_x_variant":[
         "\u053b\u0577\u056d\u0561\u0576\u056b\u056f"
     ],
+    "name:msa_x_preferred":[
+        "Xallanl\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043b\u043b\u0430\u043d\u043b\u044b"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1260036787,
-    "wof:lastmodified":1537585210,
+    "wof:lastmodified":1564126290,
     "wof:name":"Xallanli",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

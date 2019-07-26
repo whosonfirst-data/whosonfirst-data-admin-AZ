@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "T\u00fck\u0259vil\u0259"
     ],
+    "name:aze_x_variant":[
+        "T\u00fckl\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "Tyukevilya"
+    ],
+    "name:ita_x_preferred":[
+        "T\u00fckl\u0259"
+    ],
+    "name:msa_x_preferred":[
+        "T\u00fckl\u0259"
+    ],
+    "name:swe_x_preferred":[
+        "Tyukevilya"
+    ],
     "name:und_x_variant":[
         "Tyukavilya",
         "T\u00fck\u00e4vil\u00e4",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1209976359,
-    "wof:lastmodified":1537585137,
+    "wof:lastmodified":1564126150,
     "wof:name":"Tyukevilya",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

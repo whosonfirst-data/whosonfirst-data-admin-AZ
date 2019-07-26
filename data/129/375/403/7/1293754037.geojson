@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Abdullu"
     ],
+    "name:ita_x_preferred":[
+        "Abdullu"
+    ],
+    "name:msa_x_preferred":[
+        "Abdullu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293754037,
-    "wof:lastmodified":1537585520,
+    "wof:lastmodified":1564126033,
     "wof:name":"Abdullu",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

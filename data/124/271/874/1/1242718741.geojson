@@ -29,6 +29,21 @@
     "name:aze_x_preferred":[
         "Xalxal"
     ],
+    "name:bre_x_preferred":[
+        "Xalxal"
+    ],
+    "name:cym_x_preferred":[
+        "Xalxal"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0561\u056c\u056d\u0561\u056c"
+    ],
+    "name:ita_x_preferred":[
+        "Xalxal"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10da\u10ee\u10d0\u10da\u10d8"
+    ],
     "name:und_x_variant":[
         "Kalkhai",
         "Khalkhal"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1242718741,
-    "wof:lastmodified":1537585211,
+    "wof:lastmodified":1564126497,
     "wof:name":"Xalxal",
     "wof:parent_id":85668673,
     "wof:placetype":"locality",

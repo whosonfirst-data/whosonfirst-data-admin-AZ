@@ -28,11 +28,29 @@
     "name:aze_x_preferred":[
         "A\u015f\u0131ql\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "Voroshilovka"
+    ],
     "name:hye_x_preferred":[
         "Ashaghli"
     ],
     "name:hye_x_variant":[
         "\u0531\u0577\u0561\u0572\u056c\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "A\u015f\u0131ql\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10d8\u10d2\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015f\u0131ql\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0448\u044b\u0433\u043b\u044b"
+    ],
+    "name:swe_x_preferred":[
+        "Voroshilovka"
     ],
     "name:und_x_variant":[
         "Ashygly"
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1293231337,
-    "wof:lastmodified":1537585484,
+    "wof:lastmodified":1564125973,
     "wof:name":"Voroshilovka",
     "wof:parent_id":85668211,
     "wof:placetype":"locality",

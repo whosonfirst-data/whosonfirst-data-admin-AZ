@@ -25,7 +25,22 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u063a\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
+        "Mu\u011fan"
+    ],
+    "name:ceb_x_preferred":[
+        "Mu\u011fan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u063a\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Mu\u011fan"
+    ],
+    "name:msa_x_preferred":[
         "Mu\u011fan"
     ],
     "name:und_x_variant":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1327307147,
-    "wof:lastmodified":1537585143,
+    "wof:lastmodified":1564125741,
     "wof:name":"Mugan",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

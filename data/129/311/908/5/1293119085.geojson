@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ava_x_preferred":[
+        "\u041d\u0443\u0446I\u0438\u0431"
+    ],
+    "name:aze_x_preferred":[
+        "Qam\u0131\u015ftala"
+    ],
+    "name:ita_x_preferred":[
+        "Qam\u0131\u015ftala"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10db\u10d8\u10e8\u10d7\u10d0\u10da\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Qam\u0131\u015ftala"
+    ],
     "name:und_x_variant":[
         "Kamyshtala",
         "Qam\u0131\u015ftala"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1293119085,
-    "wof:lastmodified":1537585421,
+    "wof:lastmodified":1564126019,
     "wof:name":"Qamistala",
     "wof:parent_id":85668531,
     "wof:placetype":"locality",

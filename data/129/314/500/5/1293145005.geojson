@@ -25,6 +25,18 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0130kinci N\u00f6mr\u00e4li Mayak"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03ba\u03b9\u03bd\u03c4\u03c3\u03af \u039c\u03b1\u03b3\u03b9\u03ac\u03ba"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130kinci Mayak"
+    ],
+    "name:swe_x_preferred":[
+        "\u0130kinci N\u00f6mr\u00e4li Mayak"
+    ],
     "name:und_x_variant":[
         "Vtoroy Mayak",
         "\u0130kinci N\u00f6mr\u00e4li Mayak",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1293145005,
-    "wof:lastmodified":1537585302,
+    "wof:lastmodified":1564125988,
     "wof:name":"Ikinci Nomrali Mayak",
     "wof:parent_id":85668409,
     "wof:placetype":"locality",

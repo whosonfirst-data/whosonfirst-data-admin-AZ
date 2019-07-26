@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "B\u00f6y\u00fck Muruq"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u00f6y\u00fck Muruq"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03b3\u03b9\u03bf\u03cd\u03ba \u039c\u03bf\u03c5\u03c1\u03bf\u03cd\u03ba"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00f6y\u00fck Muruq"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10dd\u10d8\u10d8\u10e3\u10e5\u10d8-\u10db\u10e3\u10e0\u10e3\u10d2\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u0427I\u0435\u0445\u0438 \u041c\u0443\u0440\u0443\u0433\u044a"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00f6y\u00fck Muruq"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00f6y\u00fck Muruq"
+    ],
     "name:und_x_variant":[
         "B\u00ebyuk Murug",
         "Beyuk-Murukh",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1326561249,
-    "wof:lastmodified":1537585473,
+    "wof:lastmodified":1564125768,
     "wof:name":"Boyuk Muruq",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

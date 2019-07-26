@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Qalaalt\u0131"
     ],
+    "name:msa_x_preferred":[
+        "Qalaalt\u0131"
+    ],
     "name:und_x_variant":[
         "Kalaalty"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1277105745,
-    "wof:lastmodified":1537585534,
+    "wof:lastmodified":1564126128,
     "wof:name":"Qalaalti",
     "wof:parent_id":85668339,
     "wof:placetype":"locality",

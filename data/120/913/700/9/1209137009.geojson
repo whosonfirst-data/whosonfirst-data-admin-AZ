@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Vezirly"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10d6\u10d8\u10e0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Vezirly"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632717
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":1209137009,
-    "wof:lastmodified":1537486678,
+    "wof:lastmodified":1564126175,
     "wof:name":"Vezirly",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

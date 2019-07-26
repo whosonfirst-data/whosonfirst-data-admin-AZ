@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "So\u011fanverdil\u0259r"
     ],
+    "name:ceb_x_preferred":[
+        "Soganverdilar"
+    ],
+    "name:ita_x_preferred":[
+        "So\u011fanverdil\u0259r"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10e6\u10d0\u10dc\u10d5\u10d4\u10e0\u10d3\u10d8\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "So\u011fanverdil\u0259r"
+    ],
+    "name:swe_x_preferred":[
+        "Soganverdilar"
+    ],
     "name:und_x_variant":[
         "Subkhanverdilar",
         "Soganverdilar"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1259471001,
-    "wof:lastmodified":1537585332,
+    "wof:lastmodified":1564126543,
     "wof:name":"Soganverdilar",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

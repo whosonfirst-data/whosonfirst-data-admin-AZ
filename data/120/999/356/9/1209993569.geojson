@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "A\u015fa\u011f\u0131 \u00c7\u0259m\u0259nli"
     ],
+    "name:ceb_x_preferred":[
+        "Novoye Chemenly"
+    ],
+    "name:ita_x_preferred":[
+        "A\u015fa\u011f\u0131 \u00c7\u0259m\u0259nli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10d0\u10e6\u10d8-\u10e9\u10d0\u10db\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fa\u011f\u0131 \u00c7\u0259m\u0259nli"
+    ],
+    "name:swe_x_preferred":[
+        "Novoye Chemenly"
+    ],
     "name:und_x_variant":[
         "Ashagy-Chemenli"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1209993569,
-    "wof:lastmodified":1537585274,
+    "wof:lastmodified":1564126155,
     "wof:name":"Novoye Chemenly",
     "wof:parent_id":85668313,
     "wof:placetype":"locality",

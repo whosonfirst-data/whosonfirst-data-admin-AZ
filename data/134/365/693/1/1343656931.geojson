@@ -25,11 +25,38 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0644\u0646\u06af\u0647\u200c\u0628\u06cc\u0632"
+    ],
+    "name:aze_x_preferred":[
+        "L\u0259ng\u0259biz"
+    ],
+    "name:ceb_x_preferred":[
+        "Lyangyabiz"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03bd\u03b3\u03ba\u03b5\u03bc\u03c0\u03af\u03b6"
+    ],
     "name:eng_x_preferred":[
         "L\u01ddng\u01ddbiz"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u06af\u0647\u200c\u0628\u06cc\u0632"
+    ],
+    "name:ita_x_preferred":[
+        "L\u0259ng\u0259biz"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10dc\u10d2\u10d4\u10d1\u10d8\u10d6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "L\u0259ng\u0259biz"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u044f\u043d\u0433\u044f\u0431\u0438\u0437"
+    ],
+    "name:swe_x_preferred":[
+        "Lyangyabiz"
     ],
     "name:und_x_variant":[
         "Lengebiz",
@@ -60,7 +87,7 @@
         }
     ],
     "wof:id":1343656931,
-    "wof:lastmodified":1537585377,
+    "wof:lastmodified":1564125837,
     "wof:name":"Lyangyabiz",
     "wof:parent_id":85668289,
     "wof:placetype":"locality",

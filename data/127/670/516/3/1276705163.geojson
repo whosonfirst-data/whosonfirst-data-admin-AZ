@@ -26,6 +26,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u0259rvi\u015fl\u0259r"
+    ],
+    "name:ceb_x_preferred":[
+        "Dervishlyar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u0580\u057e\u056b\u0577\u056c\u0561\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "D\u0259rvi\u015fl\u0259r"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e0\u10d5\u10d8\u10e8\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "D\u0259rvi\u015fl\u0259r"
+    ],
+    "name:msa_x_preferred":[
+        "D\u0259rvi\u015fl\u0259r"
+    ],
+    "name:swe_x_preferred":[
+        "Dervishlyar"
+    ],
     "name:und_x_variant":[
         "Darvishlyar",
         "Dervishlyar",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1276705163,
-    "wof:lastmodified":1537585249,
+    "wof:lastmodified":1564126107,
     "wof:name":"Dervishlyar",
     "wof:parent_id":85668667,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0639\u0631\u0628\u200c\u0633\u0627\u0631\u0628\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fr\u0259bsarvan"
+    ],
+    "name:ceb_x_preferred":[
+        "Arabsarvan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0631\u0628\u200c\u0633\u0627\u0631\u0628\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fr\u0259bsarvan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d0\u10d1\u10e1\u10d0\u10e0\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fr\u0259bsarvan"
+    ],
+    "name:swe_x_preferred":[
+        "Arabsarvan"
+    ],
     "name:und_x_variant":[
         "\u018fr\u0259bsarvan",
         "Arabsarvan"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1242599807,
-    "wof:lastmodified":1537585491,
+    "wof:lastmodified":1564126457,
     "wof:name":"Arabsarvan",
     "wof:parent_id":85668289,
     "wof:placetype":"locality",

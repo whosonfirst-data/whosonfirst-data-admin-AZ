@@ -25,8 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u063a\u0686\u0627\u06a9\u0648\u0631\u062f"
+    ],
     "name:aze_x_preferred":[
         "Ba\u011f\u00e7ak\u00fcrd"
+    ],
+    "name:ceb_x_preferred":[
+        "Bakhchakyurd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u063a\u0686\u0647\u200c\u06a9\u0631\u062f"
+    ],
+    "name:ita_x_preferred":[
+        "Ba\u011f\u00e7ak\u00fcrd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e6\u10e9\u10d0\u10e5\u10d8\u10e3\u10e0\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Ba\u011f\u00e7ak\u00fcrd"
+    ],
+    "name:swe_x_preferred":[
+        "Bakhchakyurd"
     ],
     "name:und_x_variant":[
         "Bag\u00e7ak\u00fcrd"
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1276629005,
-    "wof:lastmodified":1537585480,
+    "wof:lastmodified":1564126120,
     "wof:name":"Bakhchakyurd",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

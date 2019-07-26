@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Dar\u0131l\u0131q"
     ],
+    "name:ceb_x_preferred":[
+        "Dar\u0131l\u0131q"
+    ],
+    "name:ita_x_preferred":[
+        "Dar\u0131l\u0131q"
+    ],
+    "name:msa_x_preferred":[
+        "Dar\u0131l\u0131q"
+    ],
+    "name:swe_x_preferred":[
+        "Dar\u0131l\u0131q"
+    ],
     "name:und_x_variant":[
         "Darylykh",
         "Darylyk"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1343840779,
-    "wof:lastmodified":1537585253,
+    "wof:lastmodified":1564125869,
     "wof:name":"Dariliq",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

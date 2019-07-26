@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Kekonu"
     ],
+    "name:ita_x_preferred":[
+        "Kekonu"
+    ],
+    "name:msa_x_preferred":[
+        "Kekonu"
+    ],
     "name:und_x_variant":[
         "Namekyash",
         "Kekoni"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1360116123,
-    "wof:lastmodified":1537585291,
+    "wof:lastmodified":1564126389,
     "wof:name":"Kekonu",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

@@ -28,12 +28,21 @@
     "name:aze_x_preferred":[
         "Nari\u015flar"
     ],
+    "name:aze_x_variant":[
+        "Nar\u0131\u015flar"
+    ],
     "name:hye_x_preferred":[
         "\u0546\u0561\u0580\u0568\u0577\u056c\u0561\u0580"
     ],
     "name:hye_x_variant":[
         "Sis",
         "\u054d\u056b\u057d"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10e0\u10d8\u10e8\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Nari\u015flar"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0440\u044b\u0448\u043b\u0430\u0440"
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1259830541,
-    "wof:lastmodified":1537585299,
+    "wof:lastmodified":1564126536,
     "wof:name":"Narislar",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

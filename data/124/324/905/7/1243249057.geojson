@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Kl\u0131nbi"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bb\u03af\u03bd\u03bc\u03c0\u03b9"
+    ],
+    "name:ita_x_preferred":[
+        "Klinbi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10da\u10d8\u10dc\u10d1\u10d8"
+    ],
+    "name:kur_x_preferred":[
+        "Klinb\u00ee"
+    ],
+    "name:msa_x_preferred":[
+        "Klinbi"
+    ],
     "name:und_x_variant":[
         "Klynbi"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1243249057,
-    "wof:lastmodified":1537585520,
+    "wof:lastmodified":1564126471,
     "wof:name":"Klinbi",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

@@ -25,7 +25,28 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0624\u06cc\u0648\u06a9 \u0628\u0647\u0645\u0646\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
+        "B\u00f6y\u00fck B\u0259hm\u0259nli"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u00f6y\u00fck B\u0259hm\u0259nli"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03b3\u03b9\u03bf\u03cd\u03ba \u039c\u03c0\u03b5\u03c7\u03bc\u03b5\u03bd\u03bb\u03af"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0575\u0578\u0582\u0584 \u0532\u0561\u0570\u0574\u0561\u0576\u056c\u0578\u0582"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00f6y\u00fck B\u0259hm\u0259nli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10dd\u10d8\u10e3\u10e5-\u10d1\u10d0\u10f0\u10db\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "B\u00f6y\u00fck B\u0259hm\u0259nli"
     ],
     "name:rus_x_preferred":[
@@ -33,6 +54,9 @@
     ],
     "name:rus_x_variant":[
         "\u0411\u0451\u044e\u043a-\u0411\u0435\u0445\u043c\u0430\u043d\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00f6y\u00fck B\u0259hm\u0259nli"
     ],
     "name:und_x_variant":[
         "B\u00ebyuk-Bekhmenli"
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1310381221,
-    "wof:lastmodified":1537585264,
+    "wof:lastmodified":1564126325,
     "wof:name":"Boyuk Bahmanli",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

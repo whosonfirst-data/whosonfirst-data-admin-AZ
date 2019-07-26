@@ -25,11 +25,26 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0686\u06cc\u0644\u062f\u06cc\u0631\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
         "\u00c7\u0131ld\u0131ran"
     ],
     "name:aze_x_variant":[
         "\u00c7ldran"
+    ],
+    "name:bel_x_preferred":[
+        "\u0427\u043b\u0434\u0440\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c7\u0131ld\u0131ran"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0644\u062f\u0631\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Chldran"
     ],
     "name:hye_x_preferred":[
         "Ch\u2019ldran"
@@ -37,8 +52,20 @@
     "name:hye_x_variant":[
         "\u0549\u056c\u0564\u0580\u0561\u0576"
     ],
+    "name:ita_x_preferred":[
+        "Chldran"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7\u0131ld\u0131ran"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u044b\u043b\u0434\u044b\u0440\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c7\u0131ld\u0131ran"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043b\u0434\u0440\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Childyran",
@@ -69,7 +96,7 @@
         }
     ],
     "wof:id":1327089145,
-    "wof:lastmodified":1537585462,
+    "wof:lastmodified":1564125743,
     "wof:name":"Cildiran",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

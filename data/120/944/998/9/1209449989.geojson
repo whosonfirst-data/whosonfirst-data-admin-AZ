@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Yast\u0131qobu"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc\u03bc\u03c0\u03bf\u03c5"
+    ],
+    "name:ita_x_preferred":[
+        "Yast\u0131qobu"
+    ],
+    "name:msa_x_preferred":[
+        "Yast\u0131qobu"
+    ],
     "name:und_x_variant":[
         "Yasti Kobu"
     ],
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209449989,
-    "wof:lastmodified":1537585528,
+    "wof:lastmodified":1564126222,
     "wof:name":"Yastiqobu",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

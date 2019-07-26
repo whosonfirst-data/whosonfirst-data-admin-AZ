@@ -28,11 +28,29 @@
     "name:aze_x_preferred":[
         "Qoyunbin\u0259si"
     ],
+    "name:ceb_x_preferred":[
+        "Koyunbinasi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03b3\u03b9\u03bf\u03c5\u03bd\u03bc\u03c0\u03b9\u03bd\u03ad\u03c3\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Qoyunbin\u01ddsi"
     ],
+    "name:ita_x_preferred":[
+        "Qoyunbin\u0259si"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10dd\u10d8\u10e3\u10dc\u10d1\u10d8\u10dc\u10d0\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qoyunbin\u0259si"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u044e\u043d\u0431\u0438\u043d\u0430\u0441\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Koyunbinasi"
     ],
     "name:und_x_variant":[
         "Dzhafarly"
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1327064541,
-    "wof:lastmodified":1537585389,
+    "wof:lastmodified":1564125737,
     "wof:name":"Koyunbinasi",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

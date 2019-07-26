@@ -34,6 +34,12 @@
     "name:hye_x_variant":[
         "\u0531\u0566\u0563\u056b\u056c\u056b"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d6\u10d2\u10d8\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fzgilli"
+    ],
     "name:und_x_variant":[
         "Azgilli"
     ],
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1343696617,
-    "wof:lastmodified":1537585482,
+    "wof:lastmodified":1564125888,
     "wof:name":"Ezgilly",
     "wof:parent_id":85668211,
     "wof:placetype":"locality",

@@ -34,6 +34,12 @@
     "name:hye_x_preferred":[
         "\u0548\u0552\u056c\u0578\u0582\u0564\u0575\u0578\u0582\u0566"
     ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10da\u10e3\u10d3\u10d8\u10e3\u10d6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Uludyuz"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u043b\u0443\u0434\u044e\u0437"
     ],
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1276175109,
-    "wof:lastmodified":1537585137,
+    "wof:lastmodified":1564126051,
     "wof:name":"Uluduz",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

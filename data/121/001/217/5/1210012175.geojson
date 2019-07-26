@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "R\u0131vad\u0131la"
     ],
+    "name:aze_x_variant":[
+        "R\u0131vadila"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b9\u03b2\u03b1\u03bd\u03c4\u03af\u03bb\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Rivadila"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d8\u10d5\u10d0\u10d3\u10d8\u10da\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Rivadila"
+    ],
     "name:und_x_variant":[
         "Ryvadyla"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1210012175,
-    "wof:lastmodified":1537585520,
+    "wof:lastmodified":1564126230,
     "wof:name":"Rivadila",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

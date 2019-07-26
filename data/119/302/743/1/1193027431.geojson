@@ -34,6 +34,15 @@
     "name:hye_x_variant":[
         "\u0533\u0575\u0578\u0575\u0569\u0565\u0583\u0565"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10dd\u10d7\u10d0\u10e4\u10d4"
+    ],
+    "name:min_x_preferred":[
+        "G\u00f6yt\u0259p\u0259"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00f6yt\u0259p\u0259"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0451\u0439\u0442\u0435\u043f\u0435"
     ],
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1193027431,
-    "wof:lastmodified":1537585435,
+    "wof:lastmodified":1564126250,
     "wof:name":"Karamanlu",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

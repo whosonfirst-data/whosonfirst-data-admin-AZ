@@ -28,8 +28,20 @@
     "name:aze_x_preferred":[
         "A\u015fa\u011f\u0131 A\u011fcak\u0259nd"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u0448\u0430\u0433\u044b \u0410\u0433\u0434\u0436\u0430\u043a\u0435\u043d\u0434"
+    ],
+    "name:ceb_x_preferred":[
+        "Shaumyanovsk"
+    ],
     "name:eng_x_preferred":[
         "A\u015fa\u011f\u0131 A\u011fcak\u01ddnd"
+    ],
+    "name:fin_x_preferred":[
+        "A\u015fa\u011f\u0131 A\u011fcak\u0259nd"
+    ],
+    "name:fra_x_preferred":[
+        "Chahoumian"
     ],
     "name:hye_x_preferred":[
         "\u0547\u0561\u0570\u0578\u0582\u0574\u0575\u0561\u0576"
@@ -39,11 +51,29 @@
         "Nerk\u2019inshen",
         "\u0546\u0565\u0580\u0584\u056b\u0576\u0577\u0565\u0576"
     ],
+    "name:ita_x_preferred":[
+        "A\u015fa\u011f\u0131 A\u011fcak\u0259nd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10d0\u10e6\u10d8-\u10d0\u10ef\u10d0\u10e5\u10d4\u10dc\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fa\u011f\u0131 A\u011fcak\u0259nd"
+    ],
+    "name:nld_x_preferred":[
+        "A\u015fa\u011f\u0131 A\u011fcak\u0259nd"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0448\u0430\u0433\u044b-\u0410\u0433\u0434\u0436\u0430\u043a\u0435\u043d\u0434"
     ],
     "name:rus_x_variant":[
         "\u0428\u0430\u0443\u043c\u044f\u043d\u043e\u0432\u0441\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Shaumyanovsk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0448\u0430\u0433\u0438-\u0410\u0433\u0434\u0436\u0430\u043a\u0435\u043d\u0434"
     ],
     "name:und_x_variant":[
         "Shahumyan",
@@ -54,6 +84,9 @@
         "Shaumyan",
         "Nizhniy Agdzhakend",
         "Shaumyanovsk"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0634\u0627\u063a\u06cc \u0622\u063a\u062c\u0627\u0642\u0646\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +112,7 @@
         }
     ],
     "wof:id":1293251315,
-    "wof:lastmodified":1537585489,
+    "wof:lastmodified":1564125990,
     "wof:name":"Shaumyanovsk",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

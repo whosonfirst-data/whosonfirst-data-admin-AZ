@@ -25,7 +25,28 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u06cc\u062e\u200c\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
+        "Krasn\u0131 Xutor"
+    ],
+    "name:aze_x_variant":[
+        "\u015e\u0131xl\u0131"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03ac\u03c3\u03bd\u03b9 \u03a7\u03bf\u03cd\u03c4\u03bf\u03c1"
+    ],
+    "name:ita_x_preferred":[
+        "Krasn\u0131 Xutor"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e0\u10d0\u10e1\u10dc\u10d8-\u10ee\u10e3\u10e2\u10dd\u10e0\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u0425\u0443\u0442\u043e\u0440"
+    ],
+    "name:msa_x_preferred":[
         "Krasn\u0131 Xutor"
     ],
     "name:und_x_variant":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1276803879,
-    "wof:lastmodified":1537585516,
+    "wof:lastmodified":1564126059,
     "wof:name":"Krasni Xutor",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

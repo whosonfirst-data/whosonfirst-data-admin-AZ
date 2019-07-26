@@ -29,6 +29,21 @@
     "name:aze_x_preferred":[
         "Kosacan"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u057d\u0561\u0577\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Kosacan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10dd\u10e1\u10d0\u10ef\u10d0\u10dc\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Kosacan"
+    ],
+    "name:msa_x_preferred":[
+        "Kosacan"
+    ],
     "name:und_x_variant":[
         "Kasadzhan",
         "Kosadzhan"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1242618091,
-    "wof:lastmodified":1537585199,
+    "wof:lastmodified":1564126460,
     "wof:name":"Kosacan",
     "wof:parent_id":85668667,
     "wof:placetype":"locality",

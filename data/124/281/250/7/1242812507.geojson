@@ -28,6 +28,33 @@
     "name:aze_x_preferred":[
         "F\u00fczuli"
     ],
+    "name:ceb_x_preferred":[
+        "F\u00fczuli"
+    ],
+    "name:ces_x_preferred":[
+        "F\u00fczuli"
+    ],
+    "name:deu_x_preferred":[
+        "F\u00fczuli"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u056b\u0566\u0578\u0582\u056c\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Fuzuli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10e3\u10d6\u10e3\u10da\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "F\u00fczuli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u0437\u0443\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "F\u00fczuli"
+    ],
     "name:und_x_variant":[
         "Fizuli"
     ],
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1242812507,
-    "wof:lastmodified":1537585509,
+    "wof:lastmodified":1564126454,
     "wof:name":"Fuzuli",
     "wof:parent_id":85668235,
     "wof:placetype":"locality",

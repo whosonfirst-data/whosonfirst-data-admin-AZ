@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "H\u00fcseynxanl\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "H\u00fcseynxanl\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00fcseynxanl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d8\u10e3\u10e1\u10d4\u10d8\u10dc\u10ee\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "H\u00fcseynxanl\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00fcseynxanl\u0131"
+    ],
     "name:und_x_variant":[
         "Guseynkhanly"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1293525269,
-    "wof:lastmodified":1537585433,
+    "wof:lastmodified":1564125956,
     "wof:name":"Huseynxanli",
     "wof:parent_id":85668509,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
         "Arp\u2019ak\u2019etik",
         "\u0531\u0580\u0583\u0561\u0563\u0565\u057f\u056b\u056f"
     ],
+    "name:msa_x_preferred":[
+        "Arpag\u0259dik"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u043f\u0430\u0433\u044f\u0434\u0438\u043a"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1276801567,
-    "wof:lastmodified":1537585276,
+    "wof:lastmodified":1564126057,
     "wof:name":"Arpagyadyuk",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Qara\u00e7ay"
     ],
+    "name:ita_x_preferred":[
+        "Qara\u00e7ay"
+    ],
+    "name:msa_x_preferred":[
+        "Qara\u00e7ay"
+    ],
     "name:und_x_variant":[
         "Karachay"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1343395355,
-    "wof:lastmodified":1537585536,
+    "wof:lastmodified":1564125841,
     "wof:name":"Qaracay",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

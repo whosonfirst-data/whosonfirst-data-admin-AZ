@@ -25,11 +25,17 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0631\u0627\u0686\u0627\u0646\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Qara\u00e7anl\u0131"
     ],
     "name:aze_x_variant":[
         "Mozqara\u00e7anl\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Qara\u00e7anl\u0131"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0434\u0436\u0430\u043d\u043b\u044b"
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1327488353,
-    "wof:lastmodified":1537585416,
+    "wof:lastmodified":1564125788,
     "wof:name":"Mozqaracanli",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

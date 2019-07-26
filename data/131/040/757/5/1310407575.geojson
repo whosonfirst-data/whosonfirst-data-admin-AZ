@@ -31,6 +31,9 @@
     "name:aze_x_variant":[
         "Salahl\u0131 Cavahirli"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bb\u03b1\u03c7\u03bb\u03af \u039a\u03b5\u03bd\u03b3\u03ba\u03b5\u03c1\u03bb\u03af"
+    ],
     "name:hye_x_preferred":[
         "Salakly K\u2019engerli"
     ],
@@ -38,6 +41,15 @@
         "\u054d\u0561\u056c\u0561\u056d\u056c\u056b \u0554\u0565\u0576\u0563\u0565\u0580\u056c\u056b",
         "Kangark\u2019",
         "\u053f\u0561\u0576\u0563\u0561\u0580\u0584"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10da\u10d0\u10da\u10d8-\u10e5\u10d4\u10dc\u10d2\u10d4\u10e0\u10da\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Salahl\u0131 K\u0259ng\u0259rli"
+    ],
+    "name:msa_x_preferred":[
+        "Salahl\u0131 K\u0259ng\u0259rli"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043b\u0430\u0445\u043b\u044b-\u041a\u0435\u043d\u0433\u0435\u0440\u043b\u0438"
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":1310407575,
-    "wof:lastmodified":1537585512,
+    "wof:lastmodified":1564126316,
     "wof:name":"Salakhly-Kengerli",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

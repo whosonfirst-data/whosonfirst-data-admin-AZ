@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "D\u0259yirmanl\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "D\u0259yirmanl\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "D\u0259yirmanl\u0131"
+    ],
     "name:und_x_variant":[
         "Dagirmanly",
         "D\u0259yirmanl\u0131"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1260127529,
-    "wof:lastmodified":1537585460,
+    "wof:lastmodified":1564126267,
     "wof:name":"Dayrmanly",
     "wof:parent_id":85668383,
     "wof:placetype":"locality",

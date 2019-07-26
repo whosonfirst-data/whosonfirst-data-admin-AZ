@@ -25,11 +25,20 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06cc\u0626\u0646\u06cc \u0642\u06cc\u0632\u0645\u06cc\u062f\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
         "Yeni Q\u0131zmeydan"
     ],
     "name:eng_x_preferred":[
         "Novoastraxanka"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d4\u10dc\u10d8-\u10e7\u10d8\u10d6\u10db\u10d4\u10d8\u10d3\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Yeni Q\u0131zmeydan"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u043a\u0430"
@@ -38,6 +47,9 @@
         "Novo-Astrakhanovka",
         "Novoastrakhanka",
         "Novoastraxanka"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0646\u06cc \u0642\u06cc\u0632\u0645\u06d2 \u062f\u0627\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1326959277,
-    "wof:lastmodified":1537585359,
+    "wof:lastmodified":1564125779,
     "wof:name":"Yeni Qizmeydan",
     "wof:parent_id":85668459,
     "wof:placetype":"locality",

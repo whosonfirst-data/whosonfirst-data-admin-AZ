@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Bolsulu"
     ],
+    "name:ceb_x_preferred":[
+        "Bolsulu"
+    ],
+    "name:ita_x_preferred":[
+        "Bolsulu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10da\u10e1\u10e3\u10da\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "Bolsulu"
+    ],
+    "name:swe_x_preferred":[
+        "Bolsulu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1343548343,
-    "wof:lastmodified":1537585300,
+    "wof:lastmodified":1564125838,
     "wof:name":"Bolsulu",
     "wof:parent_id":85668313,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "\u018fmirmahmud"
     ],
+    "name:ita_x_preferred":[
+        "\u018fmirm\u0259hmud"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10db\u10d8\u10e0\u10db\u10d0\u10f0\u10db\u10e3\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fmirm\u0259hmud"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043c\u0438\u0440\u043c\u0430\u0445\u043c\u0443\u0434"
+    ],
     "name:und_x_variant":[
         "\u018fmirm\u0259hmud"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1243554995,
-    "wof:lastmodified":1537585446,
+    "wof:lastmodified":1564126449,
     "wof:name":"Emirmakhmud",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "A\u015fa\u011f\u0131 Nem\u0259tabad"
     ],
+    "name:ita_x_preferred":[
+        "A\u015fa\u011f\u0131 Nem\u0259tabad"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10d0\u10e6\u10d8-\u10dc\u10d4\u10db\u10d0\u10d7\u10d0\u10d1\u10d0\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fa\u011f\u0131 Nem\u0259tabad"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0448\u0430\u0433\u044b-\u041d\u0435\u0439\u043c\u0435\u0442\u0430\u0431\u0430\u0434"
+    ],
     "name:und_x_variant":[
         "Ashagy-Neymatabad",
         "Ashaga Neymetabad",
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1209739441,
-    "wof:lastmodified":1537585486,
+    "wof:lastmodified":1564126213,
     "wof:name":"Ashagy Neymetabad",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

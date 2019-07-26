@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Tuado"
+    ],
+    "name:ceb_x_preferred":[
+        "Tuado"
+    ],
+    "name:ita_x_preferred":[
+        "Tuado"
+    ],
+    "name:msa_x_preferred":[
+        "Tuado"
+    ],
+    "name:swe_x_preferred":[
+        "Tuado"
+    ],
     "name:und_x_variant":[
         "Tyuado"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293930649,
-    "wof:lastmodified":1537585302,
+    "wof:lastmodified":1564126010,
     "wof:name":"Tuado",
     "wof:parent_id":85668397,
     "wof:placetype":"locality",

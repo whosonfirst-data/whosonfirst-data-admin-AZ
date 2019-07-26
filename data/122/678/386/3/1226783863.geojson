@@ -36,6 +36,9 @@
         "Tsarris",
         "\u053e\u0561\u057c\u056b\u057d"
     ],
+    "name:msa_x_preferred":[
+        "Zar\u0131sl\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u0440\u044b\u0441\u043b\u044b"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1226783863,
-    "wof:lastmodified":1537585124,
+    "wof:lastmodified":1564126645,
     "wof:name":"Zarisli",
     "wof:parent_id":85668643,
     "wof:placetype":"locality",

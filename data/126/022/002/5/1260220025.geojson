@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zuxuloba"
+    ],
+    "name:ita_x_preferred":[
+        "Zuxuloba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10e3\u10ee\u10e3\u10da\u10dd\u10d1\u10d0"
+    ],
     "name:und_x_variant":[
         "Zukhuloba",
         "Zuxuloba"
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1260220025,
-    "wof:lastmodified":1537585305,
+    "wof:lastmodified":1564126269,
     "wof:name":"Zuxuloba",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

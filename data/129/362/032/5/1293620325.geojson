@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "\u0130smay\u0131labad"
     ],
+    "name:ita_x_preferred":[
+        "\u0130smay\u0131labad"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e1\u10db\u10d0\u10d8\u10d8\u10da\u10d0\u10d1\u10d0\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130smay\u0131labad"
+    ],
     "name:und_x_variant":[
         "Ismailabad"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293620325,
-    "wof:lastmodified":1537585425,
+    "wof:lastmodified":1564125949,
     "wof:name":"Ismayilabad",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

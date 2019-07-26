@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "\u018fzizli"
     ],
+    "name:ita_x_preferred":[
+        "Aronovka"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10dd\u10dc\u10dd\u10d5\u10d9\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Aronovka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1327066187,
-    "wof:lastmodified":1537585490,
+    "wof:lastmodified":1564125736,
     "wof:name":"Aronovka",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

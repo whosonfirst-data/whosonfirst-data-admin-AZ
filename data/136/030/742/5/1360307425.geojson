@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "X\u0259lilli"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0561\u056c\u056b\u056c\u056c\u0578\u0582"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10da\u10d8\u10da\u10d8"
+    ],
     "name:und_x_variant":[
         "Khayli",
         "Khalli",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1360307425,
-    "wof:lastmodified":1537585401,
+    "wof:lastmodified":1564126384,
     "wof:name":"Khalilli",
     "wof:parent_id":85668289,
     "wof:placetype":"locality",

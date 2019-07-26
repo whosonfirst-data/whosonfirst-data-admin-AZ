@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Orta Q\u0131\u015flaq"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03c4\u03ac \u039a\u03b9\u03c3\u03bb\u03ac\u03ba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e0\u10d7\u10d0-\u10e7\u10d8\u10e8\u10da\u10d0\u10ee\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Orta Q\u0131\u015flaq"
+    ],
+    "name:msa_x_preferred":[
+        "Orta Q\u0131\u015flaq"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0442\u0430 \u041a\u044b\u0448\u043b\u0430\u043a"
+    ],
     "name:und_x_variant":[
         "Orta-Kyshlak"
     ],
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1209622639,
-    "wof:lastmodified":1537585531,
+    "wof:lastmodified":1564126146,
     "wof:name":"Orta Qislaq",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

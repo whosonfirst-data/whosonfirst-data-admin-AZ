@@ -31,6 +31,12 @@
     "name:aze_x_variant":[
         "N\u0259rimanovka"
     ],
+    "name:ita_x_preferred":[
+        "Narimanovka"
+    ],
+    "name:msa_x_preferred":[
+        "Narimanovka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1226622543,
-    "wof:lastmodified":1537585292,
+    "wof:lastmodified":1564126665,
     "wof:name":"Narimanovka",
     "wof:parent_id":85668317,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Bala \u015eaml\u0131q"
     ],
+    "name:ita_x_preferred":[
+        "Bala \u015eaml\u0131q"
+    ],
+    "name:msa_x_preferred":[
+        "Bala \u015eaml\u0131q"
+    ],
     "name:und_x_variant":[
         "Bala-Shamlyk"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1259416613,
-    "wof:lastmodified":1537585533,
+    "wof:lastmodified":1564126540,
     "wof:name":"Bala Samliq",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

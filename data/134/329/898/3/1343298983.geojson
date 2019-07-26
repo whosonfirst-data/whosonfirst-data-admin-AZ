@@ -25,6 +25,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0644\u0627\u0686\u06cc\u0646\u0644\u0627\u0631"
+    ],
     "name:aze_x_preferred":[
         "La\u00e7\u0131nlar"
     ],
@@ -34,11 +37,17 @@
     "name:hye_x_variant":[
         "\u053c\u0561\u0579\u056b\u0576\u056c\u0561\u0580"
     ],
+    "name:msa_x_preferred":[
+        "La\u00e7\u0131nlar"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u0447\u0438\u043d\u043b\u0430\u0440"
     ],
     "name:und_x_variant":[
         "Lachinlar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0686\u06cc\u0646\u0644\u0627\u0631"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1343298983,
-    "wof:lastmodified":1537585191,
+    "wof:lastmodified":1564125912,
     "wof:name":"Lacinlar",
     "wof:parent_id":85668643,
     "wof:placetype":"locality",

@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "D\u0259d\u0259 Qorqud"
     ],
+    "name:ceb_x_preferred":[
+        "Bayramovka"
+    ],
+    "name:ita_x_preferred":[
+        "D\u0259d\u0259 Qorqud"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10d3\u10d0-\u10e5\u10dd\u10e0\u10e5\u10e3\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "D\u0259d\u0259 Qorqud"
+    ],
+    "name:swe_x_preferred":[
+        "Bayramovka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1310339159,
-    "wof:lastmodified":1537585265,
+    "wof:lastmodified":1564126365,
     "wof:name":"Bayramovka",
     "wof:parent_id":85668433,
     "wof:placetype":"locality",

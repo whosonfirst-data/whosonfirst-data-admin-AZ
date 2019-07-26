@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00fcp\u00e7al"
+    ],
+    "name:ceb_x_preferred":[
+        "Kyupchal"
+    ],
+    "name:ita_x_preferred":[
+        "K\u00fcp\u00e7al"
+    ],
+    "name:msa_x_preferred":[
+        "K\u00fcp\u00e7al"
+    ],
+    "name:swe_x_preferred":[
+        "Kyupchal"
+    ],
     "name:und_x_variant":[
         "K\u00fcp\u00e7al"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1209851975,
-    "wof:lastmodified":1537585382,
+    "wof:lastmodified":1564126170,
     "wof:name":"Kyupchal",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

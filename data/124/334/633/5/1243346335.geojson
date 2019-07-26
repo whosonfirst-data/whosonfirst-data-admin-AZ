@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "L\u0259kin"
+    ],
+    "name:ceb_x_preferred":[
+        "Lyakin"
+    ],
+    "name:ita_x_preferred":[
+        "L\u0259kin"
+    ],
+    "name:msa_x_preferred":[
+        "L\u0259kin"
+    ],
+    "name:swe_x_preferred":[
+        "Lyakin"
+    ],
     "name:und_x_variant":[
         "L\u0259kin"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1243346335,
-    "wof:lastmodified":1537585190,
+    "wof:lastmodified":1564126487,
     "wof:name":"Lyakin",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

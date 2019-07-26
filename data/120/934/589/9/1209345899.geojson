@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "B\u00fcrs\u00fcl\u00fcm"
+    ],
+    "name:ceb_x_preferred":[
+        "Byursyulyum"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00fcrs\u00fcl\u00fcm"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00fcrs\u00fcl\u00fcm"
+    ],
+    "name:swe_x_preferred":[
+        "Byursyulyum"
+    ],
     "name:und_x_variant":[
         "Barsalym",
         "B\u00fcrs\u00fcl\u00fcm",
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1209345899,
-    "wof:lastmodified":1537585259,
+    "wof:lastmodified":1564126205,
     "wof:name":"Byursyulyum",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

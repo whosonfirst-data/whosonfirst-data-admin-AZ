@@ -25,8 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u0646\u06af\u0647\u200c\u0631\u0648\u062f"
+    ],
     "name:aze_x_preferred":[
         "T\u0259ng\u0259r\u00fcd"
+    ],
+    "name:ceb_x_preferred":[
+        "Tangyarud"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u06af\u0647\u200c\u0631\u0648\u062f"
+    ],
+    "name:ita_x_preferred":[
+        "T\u0259ng\u0259rud"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d0\u10dc\u10d2\u10d4\u10e0\u10e3\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "T\u0259ng\u0259rud"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043d\u0433\u0435\u0440\u044e\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Tangyarud"
     ],
     "name:und_x_variant":[
         "Tangerud",
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1209535761,
-    "wof:lastmodified":1537585142,
+    "wof:lastmodified":1564126141,
     "wof:name":"Tangyarud",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

@@ -26,8 +26,38 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0648\u0631\u0645\u0632\u06cc\u0627\u0631"
+    ],
     "name:aze_x_preferred":[
         "Varz\u0259mlyar"
+    ],
+    "name:aze_x_variant":[
+        "V\u0259rm\u0259ziyar"
+    ],
+    "name:ceb_x_preferred":[
+        "Vermaziyar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0645\u0632\u06cc\u0627\u0631"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u0580\u0574\u0561\u0566\u056b\u0561\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "V\u0259rm\u0259ziyar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10e0\u10db\u10d0\u10d6\u10d8\u10d8\u10d0\u10e0\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "V\u0259rm\u0259ziyar"
+    ],
+    "name:msa_x_preferred":[
+        "V\u0259rm\u0259ziyar"
+    ],
+    "name:swe_x_preferred":[
+        "Vermaziyar"
     ],
     "name:und_x_variant":[
         "V\u0259rm\u0259ziyar",
@@ -51,7 +81,7 @@
         }
     ],
     "wof:id":1209560065,
-    "wof:lastmodified":1537585133,
+    "wof:lastmodified":1564126202,
     "wof:name":"Vermaziyar",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

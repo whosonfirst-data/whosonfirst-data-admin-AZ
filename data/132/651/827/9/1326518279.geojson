@@ -32,6 +32,15 @@
         "Nazirli",
         "\u0130kinci Naz\u0131rl\u0131"
     ],
+    "name:ita_x_preferred":[
+        "N\u0259zirli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10d6\u10d8\u10e0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "N\u0259zirli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1326518279,
-    "wof:lastmodified":1537585360,
+    "wof:lastmodified":1564125763,
     "wof:name":"Ikinci Nazirli",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

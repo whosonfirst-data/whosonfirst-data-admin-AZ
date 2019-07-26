@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u06cc\u062e\u0627\u0646\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Boyxanl\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Boyxanl\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "Boyxanl\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Boyxanl\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Boyxanl\u0131"
+    ],
     "name:und_x_variant":[
         "Boykhanly",
         "Bayankhanly",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1226125237,
-    "wof:lastmodified":1537585262,
+    "wof:lastmodified":1564126646,
     "wof:name":"Boyxanli",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

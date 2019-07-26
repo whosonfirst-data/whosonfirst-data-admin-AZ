@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Hac\u0131\u015f\u0259k\u0259r"
     ],
+    "name:ita_x_preferred":[
+        "Hac\u0131\u015f\u0259k\u0259r"
+    ],
+    "name:msa_x_preferred":[
+        "Hac\u0131\u015f\u0259k\u0259r"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1344087057,
-    "wof:lastmodified":1537585543,
+    "wof:lastmodified":1564125858,
     "wof:name":"Hacisakar",
     "wof:parent_id":85668425,
     "wof:placetype":"locality",

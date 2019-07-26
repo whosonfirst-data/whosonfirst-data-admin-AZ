@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "B\u00f6y\u00fck Gil\u0259ta\u011f"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10dd\u10d8\u10d8\u10e3\u10e5\u10d8-\u10d2\u10d8\u10da\u10d0\u10d7\u10d0\u10e6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00f6y\u00fck Gil\u0259ta\u011f"
+    ],
     "name:rus_x_preferred":[
         "B\u00ebyuk-Gilyatag"
     ],
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1310039843,
-    "wof:lastmodified":1537585264,
+    "wof:lastmodified":1564126353,
     "wof:name":"Gilatakh",
     "wof:parent_id":85668659,
     "wof:placetype":"locality",

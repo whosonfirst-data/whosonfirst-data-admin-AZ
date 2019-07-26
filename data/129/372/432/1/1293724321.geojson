@@ -25,8 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0631\u0627\u0686\u0627\u06cc\u062c\u06a9"
+    ],
     "name:aze_x_preferred":[
         "Qara\u00e7ayc\u0259k"
+    ],
+    "name:aze_x_variant":[
+        "Qara\u00e7aycek"
+    ],
+    "name:ceb_x_preferred":[
+        "Qara\u00e7aycek"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b1\u03c4\u03c3\u03b1\u03ca\u03c4\u03c3\u03ad\u03ba"
+    ],
+    "name:ita_x_preferred":[
+        "Qara\u00e7aycek"
+    ],
+    "name:lez_x_preferred":[
+        "\u041a\u044a\u0430\u0440\u0430\u0447\u0430\u0439\u0436\u0435\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Qara\u00e7aycek"
+    ],
+    "name:swe_x_preferred":[
+        "Qara\u00e7aycek"
     ],
     "name:und_x_variant":[
         "Qara\u00e7aycek"
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1293724321,
-    "wof:lastmodified":1537585419,
+    "wof:lastmodified":1564126041,
     "wof:name":"Karachaydzhek",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

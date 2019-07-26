@@ -25,10 +25,25 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0686\u0648"
+    ],
     "name:aze_x_preferred":[
         "Mucu"
     ],
+    "name:aze_x_variant":[
+        "Mu\u00e7u"
+    ],
+    "name:ceb_x_preferred":[
+        "Mucu"
+    ],
     "name:eng_x_preferred":[
+        "Mu\u00e7u"
+    ],
+    "name:ita_x_preferred":[
+        "Mu\u00e7u"
+    ],
+    "name:msa_x_preferred":[
         "Mu\u00e7u"
     ],
     "name:rus_x_preferred":[
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1327060535,
-    "wof:lastmodified":1537585367,
+    "wof:lastmodified":1564125736,
     "wof:name":"Mucu",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

@@ -25,8 +25,26 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xalxal"
+    ],
+    "name:bre_x_preferred":[
+        "Xalxal"
+    ],
+    "name:cym_x_preferred":[
+        "Xalxal"
+    ],
     "name:eng_x_preferred":[
         "Xalxal"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0561\u056c\u056d\u0561\u056c"
+    ],
+    "name:ita_x_preferred":[
+        "Xalxal"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10da\u10ee\u10d0\u10da\u10d8"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043b\u0445\u0430\u043b"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1276703295,
-    "wof:lastmodified":1537585400,
+    "wof:lastmodified":1564126108,
     "wof:name":"Xalxal",
     "wof:parent_id":85668549,
     "wof:placetype":"locality",

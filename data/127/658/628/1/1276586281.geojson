@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0631\u0627\u0646\u06cc \u06a9\u0646\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Boran\u0131k\u0259nd"
+    ],
+    "name:ceb_x_preferred":[
+        "Boranykend"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0627\u0646\u06cc\u200c\u06a9\u0646\u062f"
+    ],
+    "name:ita_x_preferred":[
+        "Boran\u0131k\u0259nd"
+    ],
+    "name:msa_x_preferred":[
+        "Boran\u0131k\u0259nd"
+    ],
+    "name:swe_x_preferred":[
+        "Boranykend"
+    ],
     "name:und_x_variant":[
         "Boran\u0131k\u0259nd"
     ],
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1276586281,
-    "wof:lastmodified":1537585262,
+    "wof:lastmodified":1564126073,
     "wof:name":"Boranykend",
     "wof:parent_id":85668449,
     "wof:placetype":"locality",

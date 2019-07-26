@@ -25,11 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u00fcdri"
+    ],
+    "name:ceb_x_preferred":[
+        "M\u00fcdri"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03cd\u03bd\u03c4\u03c1\u03b9"
+    ],
     "name:eng_x_preferred":[
+        "M\u00fcdri"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00fcdri"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e3\u10d3\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "M\u00fcdri"
     ],
     "name:rus_x_preferred":[
         "\u041c\u044e\u0434\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00fcdri"
     ],
     "name:und_x_variant":[
         "Myudri",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1226804567,
-    "wof:lastmodified":1537585364,
+    "wof:lastmodified":1564126588,
     "wof:name":"Mudri",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

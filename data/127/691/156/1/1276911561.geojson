@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Suduroba"
     ],
+    "name:ita_x_preferred":[
+        "Suduroba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10d3\u10e3\u10e0\u10dd\u10d1\u10d0"
+    ],
+    "name:lez_x_preferred":[
+        "\u0421\u0442I\u0443\u0440\u0443\u0431\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Suduroba"
+    ],
     "name:und_x_variant":[
         "Sadur-Kazmalyar"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1276911561,
-    "wof:lastmodified":1537585536,
+    "wof:lastmodified":1564126121,
     "wof:name":"Suduroba",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

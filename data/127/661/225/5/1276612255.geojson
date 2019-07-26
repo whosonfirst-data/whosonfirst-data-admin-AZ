@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "A\u015fa\u011f\u0131 Qaram\u0259ry\u0259m"
     ],
+    "name:ita_x_preferred":[
+        "A\u015fa\u011f\u0131 Qaram\u0259ryam"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10d0\u10e6\u10d8-\u10e7\u10d0\u10e0\u10d0\u10db\u10d0\u10e0\u10d8\u10d0\u10db\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fa\u011f\u0131 Qaram\u0259ryam"
+    ],
     "name:und_x_variant":[
         "Ashagy Karamar\u2019yam",
         "Karamar\u2019yam",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1276612255,
-    "wof:lastmodified":1537585487,
+    "wof:lastmodified":1564126081,
     "wof:name":"Asagi Qaramaryam",
     "wof:parent_id":85668357,
     "wof:placetype":"locality",

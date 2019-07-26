@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Davudoba"
     ],
+    "name:ita_x_preferred":[
+        "Davudoba"
+    ],
+    "name:msa_x_preferred":[
+        "Davudoba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1243397021,
-    "wof:lastmodified":1537585535,
+    "wof:lastmodified":1564126445,
     "wof:name":"Davudoba",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

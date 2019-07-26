@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "D\u0131zdipok"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b9\u03b6\u03bd\u03c4\u03b9\u03c0\u03cc\u03ba"
+    ],
+    "name:ita_x_preferred":[
+        "D\u0131zdipok"
+    ],
+    "name:msa_x_preferred":[
+        "D\u0131zdipok"
+    ],
     "name:und_x_variant":[
         "Dyzdipok"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293036771,
-    "wof:lastmodified":1537585520,
+    "wof:lastmodified":1564125999,
     "wof:name":"Dizdipok",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

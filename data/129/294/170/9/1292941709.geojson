@@ -37,6 +37,12 @@
         "\u0532\u0561\u056d\u057f\u056b\u0561\u0580\u056c\u0578\u0582",
         "\u0532\u0561\u0580\u0563\u0578\u0582\u0577\u0561\u057f"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10ee\u10d7\u10d8\u10d8\u10d0\u10e0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "B\u0259xtiyarl\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0445\u0442\u0438\u044f\u0440\u043b\u044b"
     ],
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1292941709,
-    "wof:lastmodified":1537585268,
+    "wof:lastmodified":1564125964,
     "wof:name":"Bakhtiyarly",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Qr\u0131zd\u0259hn\u0259"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03c1\u03b9\u03b6\u03bd\u03c4\u03b5\u03c7\u03bd\u03ad"
+    ],
+    "name:ita_x_preferred":[
+        "Q\u0131r\u0131zd\u0259hn\u0259"
+    ],
+    "name:msa_x_preferred":[
+        "Q\u0131r\u0131zd\u0259hn\u0259"
+    ],
     "name:und_x_variant":[
         "Q\u0131r\u0131zd\u0259hn\u0259",
         "Kyryzdakhna"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1310535853,
-    "wof:lastmodified":1537585514,
+    "wof:lastmodified":1564126323,
     "wof:name":"Kyryzdakhna",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

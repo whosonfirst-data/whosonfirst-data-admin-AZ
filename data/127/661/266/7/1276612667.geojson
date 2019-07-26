@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Qu\u015f\u00e7ular"
     ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10e3\u10e8\u10e9\u10d8-\u10d2\u10d0\u10e1\u10d0\u10dc\u10da\u10d8"
+    ],
     "name:und_x_variant":[
         "Kushchi-Gasanly",
         "Kushchular"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1276612667,
-    "wof:lastmodified":1537585506,
+    "wof:lastmodified":1564126081,
     "wof:name":"Quscular",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ava_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u0432\u0438\u0430\u043d\u0438"
+    ],
     "name:aze_x_preferred":[
         "B\u0259hm\u0259tli"
     ],
@@ -32,6 +35,15 @@
         "Verxiyan"
     ],
     "name:eng_x_preferred":[
+        "Verxijan"
+    ],
+    "name:ita_x_preferred":[
+        "Verxijan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10e0\u10ee\u10d8\u10df\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Verxijan"
     ],
     "name:rus_x_preferred":[
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":1259814863,
-    "wof:lastmodified":1537585317,
+    "wof:lastmodified":1564126571,
     "wof:name":"Verkhiyan",
     "wof:parent_id":85668601,
     "wof:placetype":"locality",

@@ -25,8 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u0631\u06cc\u0645\u0628\u0644"
+    ],
+    "name:aze_x_preferred":[
+        "Perimbel"
+    ],
+    "name:ceb_x_preferred":[
+        "Pirembel"
+    ],
+    "name:ita_x_preferred":[
+        "Pirembel"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d4\u10e0\u10d8\u10db\u10d1\u10d4\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Pirembel"
+    ],
     "name:rus_x_preferred":[
         "Pirembel\u2019"
+    ],
+    "name:swe_x_preferred":[
+        "Pirembel"
+    ],
+    "name:tur_x_preferred":[
+        "Perimbel"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1243394259,
-    "wof:lastmodified":1537585295,
+    "wof:lastmodified":1564126445,
     "wof:name":"Pirembel",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

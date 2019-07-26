@@ -29,6 +29,24 @@
     "name:aze_x_preferred":[
         "Bil\u0259v"
     ],
+    "name:ceb_x_preferred":[
+        "Bilyav"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0572\u0587"
+    ],
+    "name:ita_x_preferred":[
+        "Bil\u0259v"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10da\u10d0\u10d5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Bil\u0259v"
+    ],
+    "name:swe_x_preferred":[
+        "Bilyav"
+    ],
     "name:und_x_variant":[
         "Bilav"
     ],
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1310455365,
-    "wof:lastmodified":1537585263,
+    "wof:lastmodified":1564126338,
     "wof:name":"Bilyav",
     "wof:parent_id":85668665,
     "wof:placetype":"locality",

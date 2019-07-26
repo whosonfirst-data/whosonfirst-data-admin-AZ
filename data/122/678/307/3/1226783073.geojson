@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Da\u015fk\u0259nd"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u0430\u0448\u0443\u0448\u044d\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Dashushen"
+    ],
+    "name:fra_x_preferred":[
+        "Dashushen"
+    ],
     "name:hye_x_preferred":[
         "K\u2019arashen"
     ],
@@ -35,7 +44,19 @@
         "\u0554\u0561\u0580\u0561\u0577\u0565\u0576",
         "\u0534\u0561\u0577\u0578\u0582\u0577\u0565\u0576"
     ],
+    "name:ita_x_preferred":[
+        "Karashen"
+    ],
+    "name:msa_x_preferred":[
+        "Da\u015fk\u0259nd"
+    ],
     "name:rus_x_preferred":[
+        "\u0414\u0430\u0448\u0443\u0448\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Dashushen"
+    ],
+    "name:ukr_x_preferred":[
         "\u0414\u0430\u0448\u0443\u0448\u0435\u043d"
     ],
     "name:und_x_variant":[
@@ -67,7 +88,7 @@
         }
     ],
     "wof:id":1226783073,
-    "wof:lastmodified":1537585251,
+    "wof:lastmodified":1564126641,
     "wof:name":"Dashushen",
     "wof:parent_id":85668657,
     "wof:placetype":"locality",

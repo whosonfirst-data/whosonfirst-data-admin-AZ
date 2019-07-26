@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Qarayarka"
     ],
+    "name:ita_x_preferred":[
+        "Karayarka"
+    ],
+    "name:msa_x_preferred":[
+        "Karayarka"
+    ],
     "name:und_x_variant":[
         "Koroyarka",
         "Karayarka"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1326900745,
-    "wof:lastmodified":1537585218,
+    "wof:lastmodified":1564125812,
     "wof:name":"Qarayarka",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

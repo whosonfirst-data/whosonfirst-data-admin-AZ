@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Tahirli"
     ],
+    "name:ita_x_preferred":[
+        "Tahirli"
+    ],
     "name:und_x_variant":[
         "Tairli"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276373599,
-    "wof:lastmodified":1537585143,
+    "wof:lastmodified":1564126118,
     "wof:name":"Tahirli",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

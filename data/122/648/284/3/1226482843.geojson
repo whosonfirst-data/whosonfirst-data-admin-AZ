@@ -29,6 +29,24 @@
     "name:aze_x_preferred":[
         "N\u00fcrg\u00fct"
     ],
+    "name:ceb_x_preferred":[
+        "Nyurgyut"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0580\u0561\u056f\u0565\u0580\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "N\u00fcrg\u00fct"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d8\u10e3\u10e0\u10d2\u10d8\u10e3\u10d7\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "N\u00fcrg\u00fct"
+    ],
+    "name:swe_x_preferred":[
+        "Nyurgyut"
+    ],
     "name:und_x_variant":[
         "N\u00fcrk\u00fct"
     ],
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1226482843,
-    "wof:lastmodified":1537585168,
+    "wof:lastmodified":1564126651,
     "wof:name":"Nyurgyut",
     "wof:parent_id":85668665,
     "wof:placetype":"locality",

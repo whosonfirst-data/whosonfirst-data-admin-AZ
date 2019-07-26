@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "V\u0259l\u0259sli"
     ],
+    "name:ita_x_preferred":[
+        "Belisli"
+    ],
+    "name:msa_x_preferred":[
+        "Belisli"
+    ],
     "name:und_x_variant":[
         "Velisli"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1243526079,
-    "wof:lastmodified":1537585516,
+    "wof:lastmodified":1564126448,
     "wof:name":"Belisli",
     "wof:parent_id":85668339,
     "wof:placetype":"locality",

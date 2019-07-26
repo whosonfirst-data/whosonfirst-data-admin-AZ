@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Nord-Ost Qultuq"
     ],
+    "name:aze_x_variant":[
+        "Z\u00fcd-Ost Qoltuq"
+    ],
+    "name:msa_x_preferred":[
+        "Nord-Ost-Kultuk"
+    ],
     "name:und_x_variant":[
         "Kul\u2019tuk",
         "Nordostovyy Kultuk",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1309950147,
-    "wof:lastmodified":1537585170,
+    "wof:lastmodified":1564126414,
     "wof:name":"Nord-Ost Qultuq",
     "wof:parent_id":85668409,
     "wof:placetype":"locality",

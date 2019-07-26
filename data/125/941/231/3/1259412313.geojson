@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7obans\u0131\u011fnaq"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c7obans\u0131\u011fnaq"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7obans\u0131\u011fnaq"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10dd\u10d1\u10d0\u10dc\u10e1\u10d8\u10e6\u10dc\u10d0\u10ee\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7obans\u0131\u011fnaq"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c7obans\u0131\u011fnaq"
+    ],
     "name:und_x_variant":[
         "Chobansygnakh",
         "\u00c7obans\u0131\u011fnaq"
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1259412313,
-    "wof:lastmodified":1537585462,
+    "wof:lastmodified":1564126541,
     "wof:name":"Cobansignaq",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

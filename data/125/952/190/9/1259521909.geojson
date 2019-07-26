@@ -31,8 +31,26 @@
     "name:eng_x_preferred":[
         "\u018fli Bayraml\u0131"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u057d\u056c\u0561\u0576\u0562\u0565\u0575\u056c\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Aslanb\u0259yli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e1\u10da\u10d0\u10dc\u10d1\u10d4\u10d8\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Aslanb\u0259yli"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0438-\u0411\u0430\u0439\u0440\u0430\u043c\u043b\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0441\u043b\u0430\u043d\u0431\u0435\u0439\u043b\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Aslanbeyli"
     ],
     "name:und_x_variant":[
         "\u00c4li Bayramly",
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1259521909,
-    "wof:lastmodified":1537585497,
+    "wof:lastmodified":1564126532,
     "wof:name":"Ali-Bayramly",
     "wof:parent_id":85668229,
     "wof:placetype":"locality",

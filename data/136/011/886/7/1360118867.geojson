@@ -25,14 +25,35 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0627\u062f\u0647\u0646"
+    ],
     "name:aze_x_preferred":[
         "S\u0259\u2019d\u0259n"
+    ],
+    "name:aze_x_variant":[
+        "S\u0259dan"
+    ],
+    "name:ceb_x_preferred":[
+        "Siadan"
     ],
     "name:eng_x_preferred":[
         "S\u01dddan"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0627\u062f\u0647\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "S\u0259dan"
+    ],
+    "name:msa_x_preferred":[
+        "S\u0259dan"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0430\u0434\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Siadan"
     ],
     "name:und_x_variant":[
         "Saadan",
@@ -62,7 +83,7 @@
         }
     ],
     "wof:id":1360118867,
-    "wof:lastmodified":1537585348,
+    "wof:lastmodified":1564126388,
     "wof:name":"Siadan",
     "wof:parent_id":85668425,
     "wof:placetype":"locality",

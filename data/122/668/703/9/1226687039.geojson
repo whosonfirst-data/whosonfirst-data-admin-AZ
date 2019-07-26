@@ -29,6 +29,12 @@
     "name:aze_x_preferred":[
         "Salam\u0259lik"
     ],
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u043c\u0430\u043b\u0438\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Salomalik"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226687039,
-    "wof:lastmodified":1537585543,
+    "wof:lastmodified":1564126607,
     "wof:name":"Salamalik",
     "wof:parent_id":85668665,
     "wof:placetype":"locality",

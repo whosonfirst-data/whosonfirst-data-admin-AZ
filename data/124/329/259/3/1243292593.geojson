@@ -28,14 +28,35 @@
     "name:aze_x_preferred":[
         "Ball\u0131qaya"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0456\u0447\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Ball\u0131qaya"
+    ],
+    "name:fra_x_preferred":[
+        "Kichan"
+    ],
     "name:hye_x_preferred":[
         "Kich\u2019an"
     ],
     "name:hye_x_variant":[
         "\u053f\u056b\u0579\u0561\u0576"
     ],
+    "name:ita_x_preferred":[
+        "Kichan"
+    ],
+    "name:msa_x_preferred":[
+        "Ki\u00e7an"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0447\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Ball\u0131qaya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0447\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Ki\u00e7an",
@@ -65,7 +86,7 @@
         }
     ],
     "wof:id":1243292593,
-    "wof:lastmodified":1537585395,
+    "wof:lastmodified":1564126513,
     "wof:name":"Balliqaya",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

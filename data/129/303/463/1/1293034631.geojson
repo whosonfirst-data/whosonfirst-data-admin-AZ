@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062c\u0646\u06af\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "C\u0259ngan"
+    ],
+    "name:ceb_x_preferred":[
+        "Dzhangyan"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0646\u06af\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "C\u0259ngan"
+    ],
+    "name:msa_x_preferred":[
+        "C\u0259ngan"
+    ],
+    "name:swe_x_preferred":[
+        "C\u0259ngan"
+    ],
     "name:und_x_variant":[
         "Mugan\u2019-Dzhangen",
         "Dzhangyan",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1293034631,
-    "wof:lastmodified":1537585244,
+    "wof:lastmodified":1564125997,
     "wof:name":"Dzhangyan",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

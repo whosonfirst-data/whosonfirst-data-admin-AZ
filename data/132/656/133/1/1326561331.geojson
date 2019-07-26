@@ -31,6 +31,15 @@
     "name:aze_x_variant":[
         "\u018flilamb\u0259yli"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03c7\u03b1\u03ca\u03bb\u03cc\u03b2\u03c3\u03ba\u03bf\u03b3\u03b9\u03b5"
+    ],
+    "name:ita_x_preferred":[
+        "Mikhaylovskoye"
+    ],
+    "name:msa_x_preferred":[
+        "Mikhaylovskoye"
+    ],
     "name:und_x_variant":[
         "Alyam-Beyly",
         "Alilambeyli"
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1326561331,
-    "wof:lastmodified":1537585181,
+    "wof:lastmodified":1564125764,
     "wof:name":"Mikhaylovskoye",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

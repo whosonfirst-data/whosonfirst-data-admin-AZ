@@ -31,6 +31,15 @@
     "name:aze_x_variant":[
         "Moruqlu"
     ],
+    "name:ita_x_preferred":[
+        "Moruxlu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10e0\u10e3\u10ee\u10da\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "Moruxlu"
+    ],
     "name:und_x_variant":[
         "Morukhlu"
     ],
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1260042427,
-    "wof:lastmodified":1537585367,
+    "wof:lastmodified":1564126291,
     "wof:name":"Moruxlu",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

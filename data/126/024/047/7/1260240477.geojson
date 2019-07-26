@@ -25,11 +25,38 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0631\u0633\u0648\u0646\u200c\u0644\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Borsunlu"
+    ],
+    "name:ceb_x_preferred":[
+        "Borsunlu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c1\u03c3\u03bf\u03c5\u03bd\u03bb\u03bf\u03cd"
+    ],
     "name:eng_x_preferred":[
+        "Borsunlu"
+    ],
+    "name:fra_x_preferred":[
+        "Borsunlu"
+    ],
+    "name:ita_x_preferred":[
+        "Borsunlu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10e0\u10e1\u10e3\u10dc\u10da\u10e3"
+    ],
+    "name:msa_x_preferred":[
         "Borsunlu"
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u0441\u0443\u043d\u043b\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Borsunlu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1260240477,
-    "wof:lastmodified":1537585471,
+    "wof:lastmodified":1564126263,
     "wof:name":"Borsunlu",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

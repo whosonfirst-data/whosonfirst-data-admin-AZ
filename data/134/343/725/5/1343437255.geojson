@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u06cc\u0631\u0645\u0633\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Pir\u0259ms\u0259n"
+    ],
+    "name:ceb_x_preferred":[
+        "Piramsin"
+    ],
+    "name:ita_x_preferred":[
+        "Pir\u0259ms\u0259n"
+    ],
+    "name:msa_x_preferred":[
+        "Pir\u0259ms\u0259n"
+    ],
+    "name:swe_x_preferred":[
+        "Piramsin"
+    ],
     "name:und_x_variant":[
         "Pir\u0259ms\u0259n",
         "Piramsan"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1343437255,
-    "wof:lastmodified":1537585353,
+    "wof:lastmodified":1564125922,
     "wof:name":"Piramsin",
     "wof:parent_id":85668339,
     "wof:placetype":"locality",

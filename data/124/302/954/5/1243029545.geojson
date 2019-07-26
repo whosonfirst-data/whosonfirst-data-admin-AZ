@@ -39,6 +39,12 @@
         "Martiros",
         "\u0544\u0561\u0580\u057f\u056b\u0580\u0578\u057d"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d3\u10d8\u10ef\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Ard\u0131cl\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0434\u0443\u0448\u043b\u0443"
     ],
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1243029545,
-    "wof:lastmodified":1537585277,
+    "wof:lastmodified":1564126490,
     "wof:name":"Arduslu",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

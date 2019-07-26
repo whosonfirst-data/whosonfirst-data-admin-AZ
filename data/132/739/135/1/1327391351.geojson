@@ -28,8 +28,14 @@
     "name:eng_x_preferred":[
         "Top\u00e7u"
     ],
+    "name:nld_x_preferred":[
+        "Top\u00e7u"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u043f\u0447\u0443"
+    ],
+    "name:tur_x_preferred":[
+        "Top\u00e7u"
     ],
     "name:und_x_variant":[
         "Topchi",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1327391351,
-    "wof:lastmodified":1537585324,
+    "wof:lastmodified":1564125734,
     "wof:name":"Topcu",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u0131rt Yengic\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "Syrt-Yenidzhe"
+    ],
+    "name:ita_x_preferred":[
+        "S\u0131rt Yenigic\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10e0\u10d7-\u10d8\u10d4\u10dc\u10d8\u10d2\u10d8\u10ef\u10d0"
+    ],
+    "name:lez_x_preferred":[
+        "\u0421\u044b\u0440\u0442-\u0415\u043d\u0433\u0438\u0436\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "S\u0131rt Yenigic\u0259"
+    ],
+    "name:swe_x_preferred":[
+        "Syrt-Yenidzhe"
+    ],
     "name:und_x_variant":[
         "Syrt Yengidzha",
         "Syrt-Yenidzhe",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1293528049,
-    "wof:lastmodified":1537585330,
+    "wof:lastmodified":1564125956,
     "wof:name":"Syrt-Yenidzhe",
     "wof:parent_id":85668541,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Peyk"
     ],
+    "name:ceb_x_preferred":[
+        "Peyk"
+    ],
+    "name:swe_x_preferred":[
+        "Peyk"
+    ],
     "name:und_x_variant":[
         "Sovkhoz Kara-Chala"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1226571841,
-    "wof:lastmodified":1537585293,
+    "wof:lastmodified":1564126612,
     "wof:name":"Peyk",
     "wof:parent_id":85668449,
     "wof:placetype":"locality",

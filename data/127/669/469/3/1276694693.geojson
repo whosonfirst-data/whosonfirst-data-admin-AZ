@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Cadar\u0131"
     ],
+    "name:aze_x_variant":[
+        "\u00c7\u0259d\u0259ri"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03bd\u03c4\u03ac\u03c1\u03b9"
+    ],
+    "name:ita_x_preferred":[
+        "Cadar\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Cadar\u0131"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1276694693,
-    "wof:lastmodified":1537585543,
+    "wof:lastmodified":1564126071,
     "wof:name":"Cadari",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

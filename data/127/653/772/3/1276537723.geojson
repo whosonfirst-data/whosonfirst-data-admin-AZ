@@ -25,11 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0632\u0645\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Qazma"
+    ],
+    "name:ceb_x_preferred":[
+        "Qazma"
+    ],
     "name:eng_x_preferred":[
+        "Qazma"
+    ],
+    "name:ita_x_preferred":[
+        "Qazma"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10d6\u10db\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Qazma"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0437\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Qazma"
     ],
     "name:und_x_variant":[
         "Kazma",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1276537723,
-    "wof:lastmodified":1537585408,
+    "wof:lastmodified":1564126124,
     "wof:name":"Qazma",
     "wof:parent_id":85668531,
     "wof:placetype":"locality",

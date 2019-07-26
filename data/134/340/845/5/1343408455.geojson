@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "\u015eilim"
     ],
+    "name:msa_x_preferred":[
+        "\u015eilim"
+    ],
     "name:und_x_variant":[
         "Shilim"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1343408455,
-    "wof:lastmodified":1537585526,
+    "wof:lastmodified":1564125878,
     "wof:name":"Silim",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

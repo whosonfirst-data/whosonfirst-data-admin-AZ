@@ -25,6 +25,12 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tazakend"
+    ],
+    "name:swe_x_preferred":[
+        "Tazakend"
+    ],
     "name:und_x_variant":[
         "T\u0259z\u0259k\u0259nd"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1225975055,
-    "wof:lastmodified":1537585326,
+    "wof:lastmodified":1564126624,
     "wof:name":"Tazakend",
     "wof:parent_id":85668485,
     "wof:placetype":"locality",

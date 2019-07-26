@@ -26,7 +26,25 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u062e\u06cc\u0634 \u0646\u0631\u06af\u06cc\u0632"
+    ],
     "name:aze_x_preferred":[
+        "Nax\u0131\u015fn\u0259rgiz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0642\u0634 \u0646\u0631\u06af\u0633"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u056d\u0568\u0577\u0576\u0561\u0580\u0563\u056b\u0566"
+    ],
+    "name:ita_x_preferred":[
+        "Nax\u0131\u015fn\u0259rgiz"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10ee\u10d8\u10e8\u10dc\u10d0\u10e0\u10d2\u10d8\u10d6\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Nax\u0131\u015fn\u0259rgiz"
     ],
     "src:geom":"geonames",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1193212875,
-    "wof:lastmodified":1537585541,
+    "wof:lastmodified":1564126262,
     "wof:name":"Naxisnargiz",
     "wof:parent_id":85668673,
     "wof:placetype":"locality",

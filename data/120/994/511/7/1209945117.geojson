@@ -25,11 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06cc\u0648\u0644\u0686\u0648 \u0628\u06cc\u200c\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Yol\u00e7ub\u0259yli"
+    ],
+    "name:ceb_x_preferred":[
+        "Yenibeyli"
+    ],
     "name:eng_x_preferred":[
         "Yol\u00e7ub\u01ddyli"
     ],
+    "name:ita_x_preferred":[
+        "Yol\u00e7ub\u0259yli"
+    ],
+    "name:msa_x_preferred":[
+        "Yol\u00e7ub\u0259yli"
+    ],
     "name:rus_x_preferred":[
         "\u0415\u043b\u0447\u0443\u0431\u0435\u0439\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Yenibeyli"
     ],
     "name:und_x_variant":[
         "Yelshbekly",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1209945117,
-    "wof:lastmodified":1537585315,
+    "wof:lastmodified":1564126200,
     "wof:name":"Yenibeyli",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

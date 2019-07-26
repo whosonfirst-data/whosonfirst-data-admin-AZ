@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Qaral\u0131"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03ac\u03bb\u03b9"
+    ],
+    "name:ita_x_preferred":[
+        "Qaral\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Qaral\u0131"
+    ],
     "name:und_x_variant":[
         "Karaly"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1360021247,
-    "wof:lastmodified":1537585531,
+    "wof:lastmodified":1564126401,
     "wof:name":"Qarali",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

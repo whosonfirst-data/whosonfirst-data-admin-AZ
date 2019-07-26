@@ -25,11 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaraqoyunlu"
+    ],
+    "name:ceb_x_preferred":[
+        "Qaraqoyunlu"
+    ],
     "name:eng_x_preferred":[
         "Qaraqoynlu"
     ],
+    "name:ita_x_preferred":[
+        "Qaraqoyunlu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10e0\u10d0\u10e7\u10dd\u10d8\u10e3\u10dc\u10da\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "Qaraqoyunlu"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043a\u043e\u044e"
+    ],
+    "name:swe_x_preferred":[
+        "Qaraqoyunlu"
     ],
     "name:und_x_variant":[
         "Karakoyunly",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1260179817,
-    "wof:lastmodified":1537585415,
+    "wof:lastmodified":1564126284,
     "wof:name":"Qaraqoyunlu",
     "wof:parent_id":85668289,
     "wof:placetype":"locality",

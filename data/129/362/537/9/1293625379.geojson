@@ -37,6 +37,12 @@
     "name:hye_x_variant":[
         "\u0533\u0561\u0575\u0561\u0580\u0561\u0562\u0561\u057d"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10dd\u10d8\u10d0\u10e0\u10d0\u10d1\u10d0\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00f6y\u0259r Abbas"
+    ],
     "name:rus_x_preferred":[
         "G\u00ebyarabas"
     ],
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1293625379,
-    "wof:lastmodified":1537585234,
+    "wof:lastmodified":1564125947,
     "wof:name":"Geyarbas",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

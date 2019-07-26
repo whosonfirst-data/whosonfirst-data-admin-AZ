@@ -25,7 +25,16 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Nohurlar"
+    ],
     "name:eng_x_preferred":[
+        "Nohurlar"
+    ],
+    "name:ita_x_preferred":[
+        "Nohurlar"
+    ],
+    "name:msa_x_preferred":[
         "Nohurlar"
     ],
     "name:rus_x_preferred":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1343821547,
-    "wof:lastmodified":1537585359,
+    "wof:lastmodified":1564125873,
     "wof:name":"Nohurlar",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

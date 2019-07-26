@@ -25,8 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u06cc\u0644\u0645\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Dilman"
+    ],
+    "name:ceb_x_preferred":[
+        "Dilman"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0644\u0645\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Dilman"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10da\u10db\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Dilman"
+    ],
     "name:rus_x_preferred":[
         "Dil\u2019man"
+    ],
+    "name:swe_x_preferred":[
+        "Dilman"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1193270551,
-    "wof:lastmodified":1537585454,
+    "wof:lastmodified":1564126254,
     "wof:name":"Dilman",
     "wof:parent_id":85668289,
     "wof:placetype":"locality",

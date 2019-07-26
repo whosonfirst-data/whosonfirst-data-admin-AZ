@@ -25,11 +25,35 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u0628\u0648\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Nabur"
+    ],
+    "name:ceb_x_preferred":[
+        "Nabur"
+    ],
     "name:eng_x_preferred":[
+        "Nabur"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0628\u0648\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "Nabur"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10d1\u10e3\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Nabur"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0431\u0443\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Nabur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1343994051,
-    "wof:lastmodified":1537585363,
+    "wof:lastmodified":1564125845,
     "wof:name":"Nabur",
     "wof:parent_id":85668419,
     "wof:placetype":"locality",

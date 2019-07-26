@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130kinci Meyniman"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0130kinci Meyniman"
+    ],
+    "name:ita_x_preferred":[
+        "\u0130kinci Meyniman"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130kinci Meyniman"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0439\u043d\u0438\u043c\u0430\u043d \u0412\u0442\u043e\u0440\u043e\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u0130kinci Meyniman"
+    ],
     "name:und_x_variant":[
         "Meyniman",
         "Meyniman Vtoroye",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1260048529,
-    "wof:lastmodified":1537585370,
+    "wof:lastmodified":1564126291,
     "wof:name":"Ikinci Meyniman",
     "wof:parent_id":85668293,
     "wof:placetype":"locality",

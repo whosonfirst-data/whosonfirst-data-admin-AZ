@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "A\u015fralar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10e6\u10d0\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fralar"
+    ],
     "name:und_x_variant":[
         "Ashralar",
         "A\u015fralar",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1259520281,
-    "wof:lastmodified":1537585485,
+    "wof:lastmodified":1564126532,
     "wof:name":"Asralar",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

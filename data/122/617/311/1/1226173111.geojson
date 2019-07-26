@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "M\u0259\u015f\u0259di H\u0259s\u0259n"
     ],
+    "name:ita_x_preferred":[
+        "M\u0259\u015f\u0259di H\u0259s\u0259n"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e8\u10d0\u10d3\u10d8-\u10f0\u10d0\u10e1\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "M\u0259\u015f\u0259di H\u0259s\u0259n"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1226173111,
-    "wof:lastmodified":1537585534,
+    "wof:lastmodified":1564126582,
     "wof:name":"Masadi Hasan",
     "wof:parent_id":85668485,
     "wof:placetype":"locality",

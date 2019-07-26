@@ -34,6 +34,12 @@
     "name:hye_x_variant":[
         "\u0533\u0565\u0572\u0561\u0580\u057b\u056b\u0576"
     ],
+    "name:min_x_preferred":[
+        "G\u00f6y\u0259r\u00e7in Veys\u0259lli"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00f6y\u0259r\u00e7in Veys\u0259lli"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u0433\u0435\u0440\u0447\u0438\u043d-\u0412\u0435\u0439\u0441\u0430\u043b\u043b\u0438"
     ],
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1226728715,
-    "wof:lastmodified":1537585236,
+    "wof:lastmodified":1564126577,
     "wof:name":"Vaysalli",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

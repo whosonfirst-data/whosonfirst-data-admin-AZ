@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0686\u0627\u067e\u0627\u063a\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "\u00c7apa\u011fan"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c7apa\u011fan"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7apa\u011fan"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7apa\u011fan"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c7apa\u011fan"
+    ],
     "name:und_x_variant":[
         "Chapagan",
         "\u00c7apa\u011fan"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1309834897,
-    "wof:lastmodified":1537585467,
+    "wof:lastmodified":1564126409,
     "wof:name":"Capagan",
     "wof:parent_id":85668565,
     "wof:placetype":"locality",

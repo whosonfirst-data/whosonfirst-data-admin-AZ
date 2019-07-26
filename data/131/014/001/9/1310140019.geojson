@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u06cc\u0627 \u06a9\u0646\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Qayak\u0259nd"
+    ],
+    "name:ceb_x_preferred":[
+        "Kayakend"
+    ],
+    "name:ita_x_preferred":[
+        "Qayak\u0259nd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10d8\u10d0\u10e5\u10d4\u10dc\u10d3\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u041a\u044a\u0430\u044f\u0445\u0443\u044c\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Qayak\u0259nd"
+    ],
+    "name:swe_x_preferred":[
+        "Kayakend"
+    ],
     "name:und_x_variant":[
         "Qayak\u0259nd"
     ],
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1310140019,
-    "wof:lastmodified":1537585409,
+    "wof:lastmodified":1564126313,
     "wof:name":"Kayakend",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

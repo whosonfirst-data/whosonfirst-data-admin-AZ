@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u06cc\u0646\u0648\u0632"
+    ],
+    "name:aze_x_preferred":[
+        "Buynuz"
+    ],
+    "name:ceb_x_preferred":[
+        "Buynuz"
+    ],
+    "name:ita_x_preferred":[
+        "Buynuz"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10d8\u10dc\u10e3\u10d6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Buynuz"
+    ],
+    "name:swe_x_preferred":[
+        "Buynuz"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1260238917,
-    "wof:lastmodified":1537486687,
+    "wof:lastmodified":1564126265,
     "wof:name":"Buynuz",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u06cc\u0631\u06a9\u0624\u062c\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Pir\u0259k\u00f6c\u0259"
+    ],
+    "name:ita_x_preferred":[
+        "Pir\u0259k\u00f6c\u0259"
+    ],
+    "name:msa_x_preferred":[
+        "Pir\u0259k\u00f6c\u0259"
+    ],
     "name:und_x_variant":[
         "Perekedzha",
         "Pirak\u00ebcha",
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209168615,
-    "wof:lastmodified":1537585353,
+    "wof:lastmodified":1564126208,
     "wof:name":"Pirekyudzha",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

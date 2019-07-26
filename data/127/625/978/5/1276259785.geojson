@@ -31,6 +31,12 @@
     "name:hye_x_preferred":[
         "\u0546\u0578\u057e\u056c\u0578\u0582"
     ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10dd\u10d5\u10da\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "Novlu"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043b\u0443"
     ],
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1276259785,
-    "wof:lastmodified":1537585170,
+    "wof:lastmodified":1564126091,
     "wof:name":"Novlu",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "D\u00f6vranl\u0131"
     ],
+    "name:ell_x_preferred":[
+        "\u0399\u03ba\u03b9\u03bd\u03c4\u03c3\u03af \u0391\u03bb\u03c7\u03b1\u03c3\u03b1\u03b2\u03ac"
+    ],
+    "name:ita_x_preferred":[
+        "\u0130kinci Alxasava"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e5\u10d8\u10dc\u10ef\u10d8-\u10d0\u10da\u10ee\u10d0\u10e1\u10d0\u10d5\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130kinci Alxasava"
+    ],
     "name:und_x_variant":[
         "Ikindzhi-Alkhasova",
         "Alkhasava Vtoroye",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1327090825,
-    "wof:lastmodified":1537585495,
+    "wof:lastmodified":1564125745,
     "wof:name":"Ikinci Alxasava",
     "wof:parent_id":85668357,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
         "K\u0259m\u0259rli",
         "K\u0259r\u0259mli"
     ],
+    "name:ell_x_preferred":[
+        "\u0399\u03bc\u03b1\u03c1\u03ad\u03c4 \u039a\u03b5\u03c1\u03b2\u03ad\u03bd\u03c4"
+    ],
     "name:hye_x_preferred":[
         "Imeret\u2019-Herevend"
     ],
@@ -40,8 +43,14 @@
         "K\u2019arvand",
         "\u0554\u0561\u0580\u057e\u0561\u0576\u0564"
     ],
+    "name:msa_x_preferred":[
+        "\u0130mar\u0259t Q\u0259rv\u0259nd"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u043c\u0435\u0440\u0435\u0442-\u0413\u0435\u0440\u0435\u0432\u0435\u043d\u0434"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u043c\u0430\u0440\u0435\u0442-\u041a\u0430\u0440\u0432\u0435\u043d\u0434"
     ],
     "name:und_x_variant":[
         "Imarat-Karvend",
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1360042297,
-    "wof:lastmodified":1537585426,
+    "wof:lastmodified":1564126395,
     "wof:name":"Imeret-Gerevend",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

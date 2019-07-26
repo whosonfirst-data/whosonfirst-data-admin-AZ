@@ -25,6 +25,33 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0627\u0647\u200c\u06a9\u0648\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Siyaku"
+    ],
+    "name:ceb_x_preferred":[
+        "Siyaku"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0627\u0647\u200c\u06a9\u0648\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "Siyaku"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10d0\u10e5\u10e3"
+    ],
+    "name:kur_x_preferred":[
+        "Siyak\u00fb"
+    ],
+    "name:msa_x_preferred":[
+        "Siyaku"
+    ],
+    "name:swe_x_preferred":[
+        "Siyaku"
+    ],
     "name:und_x_variant":[
         "Siaku",
         "Siyaku"
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1344076825,
-    "wof:lastmodified":1537585146,
+    "wof:lastmodified":1564125861,
     "wof:name":"Siyaku",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

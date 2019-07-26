@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "U\u015ftalq\u0131\u015flaq"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03c3\u03c4\u03b1\u03bb\u03ba\u03b9\u03c3\u03bb\u03ac\u03ba"
+    ],
+    "name:ita_x_preferred":[
+        "U\u015ftalq\u0131\u015flaq"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10e8\u10d7\u10d0\u10da\u10e5\u10d8\u10e8\u10da\u10d0\u10e7\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u0423\u0448\u0442\u0430\u043b\u0445\u044a\u0438\u0448\u043b\u0430\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "U\u015ftalq\u0131\u015flaq"
+    ],
     "name:und_x_variant":[
         "Ushtal"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1226600097,
-    "wof:lastmodified":1537585532,
+    "wof:lastmodified":1564126598,
     "wof:name":"Ustalqislaq",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

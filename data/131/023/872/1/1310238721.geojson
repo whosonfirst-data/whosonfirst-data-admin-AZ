@@ -34,6 +34,9 @@
     "name:hye_x_variant":[
         "\u053f\u0561\u057a\u0561\u0576"
     ],
+    "name:msa_x_preferred":[
+        "Kapanly"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043f\u0430\u043d\u043b\u044b"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1310238721,
-    "wof:lastmodified":1537585420,
+    "wof:lastmodified":1564126304,
     "wof:name":"Qapanli",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

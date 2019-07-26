@@ -25,11 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Atab\u0259y"
+    ],
+    "name:ceb_x_preferred":[
+        "Atabey"
+    ],
     "name:eng_x_preferred":[
         "Atab\u01ddy"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u0569\u0561\u0562\u0565\u0575"
+    ],
+    "name:ita_x_preferred":[
+        "Atab\u0259y"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d7\u10d0\u10d1\u10d4\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Atab\u0259y"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0442\u0430\u0431\u0435\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Atabey"
     ],
     "name:und_x_variant":[
         "Atabek",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1293817737,
-    "wof:lastmodified":1537585483,
+    "wof:lastmodified":1564126037,
     "wof:name":"Atabey",
     "wof:parent_id":85668233,
     "wof:placetype":"locality",

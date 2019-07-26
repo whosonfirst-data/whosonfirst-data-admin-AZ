@@ -31,6 +31,12 @@
     "name:aze_x_variant":[
         "Mehrili"
     ],
+    "name:ita_x_preferred":[
+        "Mehrili"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10f0\u10e0\u10d8\u10da\u10d8"
+    ],
     "name:und_x_variant":[
         "Mekhraly"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1326863801,
-    "wof:lastmodified":1537585513,
+    "wof:lastmodified":1564125755,
     "wof:name":"Mehrili",
     "wof:parent_id":85668233,
     "wof:placetype":"locality",

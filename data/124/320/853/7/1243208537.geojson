@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "H\u00fcbi"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00fcbi"
+    ],
+    "name:msa_x_preferred":[
+        "H\u00fcbi"
+    ],
     "name:rus_x_preferred":[
         "Kochev\u2019ye Gubi"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1243208537,
-    "wof:lastmodified":1537585232,
+    "wof:lastmodified":1564126510,
     "wof:name":"Gubi",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

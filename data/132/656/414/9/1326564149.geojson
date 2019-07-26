@@ -28,8 +28,20 @@
     "name:aze_x_preferred":[
         "V\u0131jaker"
     ],
+    "name:ceb_x_preferred":[
+        "Vyzhaker"
+    ],
+    "name:ita_x_preferred":[
+        "V\u0131jaker"
+    ],
+    "name:msa_x_preferred":[
+        "V\u0131jaker"
+    ],
     "name:rus_x_preferred":[
         "Kochev\u2019ye Vyzhaker"
+    ],
+    "name:swe_x_preferred":[
+        "Vyzhaker"
     ],
     "name:und_x_variant":[
         "Vyzhaker",
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1326564149,
-    "wof:lastmodified":1537585133,
+    "wof:lastmodified":1564125765,
     "wof:name":"Vijaker",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

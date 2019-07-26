@@ -29,14 +29,35 @@
     "name:aze_x_preferred":[
         "Tu\u011f"
     ],
+    "name:bel_x_preferred":[
+        "\u0422\u043e\u0445"
+    ],
+    "name:ceb_x_preferred":[
+        "Tu\u011f"
+    ],
+    "name:fra_x_preferred":[
+        "Togh"
+    ],
     "name:hye_x_preferred":[
         "Togh"
     ],
     "name:hye_x_variant":[
         "\u054f\u0578\u0572"
     ],
+    "name:ita_x_preferred":[
+        "Togh"
+    ],
+    "name:msa_x_preferred":[
+        "Tu\u011f"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Tu\u011f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0445"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +83,7 @@
         }
     ],
     "wof:id":1226277205,
-    "wof:lastmodified":1537585139,
+    "wof:lastmodified":1564126591,
     "wof:name":"Tug",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

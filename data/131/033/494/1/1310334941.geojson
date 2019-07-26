@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Zeyid"
     ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b5\u03b3\u03af\u03bd\u03c4"
+    ],
+    "name:ita_x_preferred":[
+        "Zeyid"
+    ],
+    "name:msa_x_preferred":[
+        "Zeyid"
+    ],
     "name:und_x_variant":[
         "Zeid",
         "Zeyd"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1310334941,
-    "wof:lastmodified":1537585307,
+    "wof:lastmodified":1564126366,
     "wof:name":"Zeyid",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

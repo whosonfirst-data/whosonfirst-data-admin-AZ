@@ -26,6 +26,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0580\u0579\u056b"
+    ],
     "name:und_x_variant":[
         "Parchi",
         "Parchy"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1259628125,
-    "wof:lastmodified":1537585166,
+    "wof:lastmodified":1564126529,
     "wof:name":"Parchy",
     "wof:parent_id":85668667,
     "wof:placetype":"locality",

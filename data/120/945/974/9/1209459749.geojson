@@ -29,6 +29,24 @@
     "name:aze_x_preferred":[
         "Dark\u0259nd"
     ],
+    "name:ceb_x_preferred":[
+        "Der"
+    ],
+    "name:deu_x_preferred":[
+        "Der"
+    ],
+    "name:jpn_x_preferred":[
+        "Der"
+    ],
+    "name:nld_x_preferred":[
+        "Der"
+    ],
+    "name:pol_x_preferred":[
+        "Der"
+    ],
+    "name:swe_x_preferred":[
+        "Der"
+    ],
     "name:und_x_variant":[
         "Dar"
     ],
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1209459749,
-    "wof:lastmodified":1537585253,
+    "wof:lastmodified":1564126219,
     "wof:name":"Der",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

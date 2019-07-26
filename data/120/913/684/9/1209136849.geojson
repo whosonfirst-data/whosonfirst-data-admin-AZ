@@ -31,6 +31,15 @@
     "name:aze_x_variant":[
         "Geskon"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c3\u03ba\u03cc\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "Keskon"
+    ],
+    "name:msa_x_preferred":[
+        "Keskon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632717
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209136849,
-    "wof:lastmodified":1537585518,
+    "wof:lastmodified":1564126176,
     "wof:name":"Keskon",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Q\u0259hr\u0259manl\u0131"
     ],
+    "name:ita_x_preferred":[
+        "Moshkara"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10e8\u10e5\u10d0\u10e0\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Moshkara"
+    ],
     "name:und_x_variant":[
         "Kagramanli",
         "Kagramanly"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1259369931,
-    "wof:lastmodified":1537585289,
+    "wof:lastmodified":1564126522,
     "wof:name":"Moshkara",
     "wof:parent_id":85668313,
     "wof:placetype":"locality",

@@ -25,6 +25,33 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7uxur Q\u0259b\u0259l\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "Chukhur-Kebele"
+    ],
+    "name:fra_x_preferred":[
+        "Chukhurkabala"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7uxur Q\u0259b\u0259l\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e3\u10ee\u10e3\u10e0-\u10d2\u10d0\u10d1\u10d0\u10da\u10d0"
+    ],
+    "name:lez_x_preferred":[
+        "\u0427\u0443\u0445\u0443\u0440 \u041a\u044c\u0432\u0435\u043f\u0435\u043b\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7uxur Q\u0259b\u0259l\u0259"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u0445\u0443\u0440-\u0413\u0430\u0431\u0430\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Chukhur-Kebele"
+    ],
     "name:und_x_variant":[
         "Chukhur Kabala",
         "\u00c7uxur Q\u0259b\u0259l\u0259"
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1343612999,
-    "wof:lastmodified":1537585461,
+    "wof:lastmodified":1564125881,
     "wof:name":"Chukhur-Kebele",
     "wof:parent_id":85668541,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Tikanl\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Tikanl\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "Tikanl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d8\u10e5\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u0422\u0438\u043a\u0430\u043d\u043b\u044b"
+    ],
+    "name:msa_x_preferred":[
+        "Tikanl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043a\u044f\u043d\u043b\u044b"
+    ],
+    "name:swe_x_preferred":[
+        "Tikanl\u0131"
+    ],
     "name:und_x_variant":[
         "Tikanly",
         "Tikyanly",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1260330353,
-    "wof:lastmodified":1537585325,
+    "wof:lastmodified":1564126298,
     "wof:name":"Tikanli",
     "wof:parent_id":85668541,
     "wof:placetype":"locality",

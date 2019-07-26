@@ -31,11 +31,26 @@
     "name:aze_x_variant":[
         "\u00c7elaberti"
     ],
+    "name:ceb_x_preferred":[
+        "Veyisli"
+    ],
     "name:eng_x_preferred":[
         "\u00c7alaberti"
     ],
+    "name:ita_x_preferred":[
+        "Veyisli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10d8\u10d8\u10e1\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Veyisli"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u043b\u0430\u0431\u0435\u0440\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Veyisli"
     ],
     "name:und_x_variant":[
         "Chelaberti",
@@ -65,7 +80,7 @@
         }
     ],
     "wof:id":1360259215,
-    "wof:lastmodified":1537585464,
+    "wof:lastmodified":1564126382,
     "wof:name":"Veyisli",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

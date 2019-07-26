@@ -25,6 +25,33 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u06cc\u0631\u0647 \u06cc\u06cc\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Pir\u0259yir"
+    ],
+    "name:ceb_x_preferred":[
+        "Piragir"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631\u06af\u06cc\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "Pir\u0259yir"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d8\u10e0\u10d0\u10d8\u10d8\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Pir\u0259yir"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0440\u0430\u0433\u0438\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Piragir"
+    ],
     "name:und_x_variant":[
         "Pir\u0259yir"
     ],
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1293134061,
-    "wof:lastmodified":1537585353,
+    "wof:lastmodified":1564125985,
     "wof:name":"Piragir",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

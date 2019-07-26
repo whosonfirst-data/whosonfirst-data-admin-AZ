@@ -31,13 +31,25 @@
     "name:aze_x_variant":[
         "T\u0259p\u0259k\u0259nd"
     ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u043d\u0430\u0448\u044d\u043d"
+    ],
     "name:hye_x_preferred":[
         "\u054f\u0578\u0576\u0561\u0577\u0565\u0576"
     ],
     "name:hye_x_variant":[
         "Tonashen"
     ],
+    "name:ita_x_preferred":[
+        "Tona\u015fen"
+    ],
+    "name:msa_x_preferred":[
+        "Tona\u015fen"
+    ],
     "name:rus_x_preferred":[
+        "\u0422\u043e\u043d\u0430\u0448\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
         "\u0422\u043e\u043d\u0430\u0448\u0435\u043d"
     ],
     "src:geom":"geonames",
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":1327462403,
-    "wof:lastmodified":1537585324,
+    "wof:lastmodified":1564125790,
     "wof:name":"Tonashen",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

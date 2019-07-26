@@ -25,7 +25,25 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0644\u0627 \u06af\u0624\u06cc\u0648\u0634\u200c\u0644\u0648"
+    ],
     "name:aze_x_preferred":[
+        "Bala G\u00f6y\u00fc\u015fl\u00fc"
+    ],
+    "name:ceb_x_preferred":[
+        "Bala G\u00f6y\u00fc\u015fl\u00fc"
+    ],
+    "name:ita_x_preferred":[
+        "Bala G\u00f6y\u00fc\u015fl\u00fc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d0-\u10d2\u10d8\u10dd\u10d8\u10d8\u10e3\u10e8\u10da\u10d8\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "Bala G\u00f6y\u00fc\u015fl\u00fc"
+    ],
+    "name:swe_x_preferred":[
         "Bala G\u00f6y\u00fc\u015fl\u00fc"
     ],
     "name:und_x_variant":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1343542343,
-    "wof:lastmodified":1537585479,
+    "wof:lastmodified":1564125838,
     "wof:name":"Bala Goyuslu",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Lobir"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03bc\u03c0\u03af\u03c1"
+    ],
+    "name:ita_x_preferred":[
+        "Lobir"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10d1\u10d8\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Lobir"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1276217551,
-    "wof:lastmodified":1537585526,
+    "wof:lastmodified":1564126051,
     "wof:name":"Lobir",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

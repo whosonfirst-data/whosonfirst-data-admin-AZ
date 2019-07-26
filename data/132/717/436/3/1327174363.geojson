@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "S\u00fclh"
     ],
+    "name:deu_x_preferred":[
+        "Sulh"
+    ],
+    "name:fra_x_preferred":[
+        "Sulh"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05dc\u05d7\u05d4"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043b\u044c\u0445\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1327174363,
-    "wof:lastmodified":1537585528,
+    "wof:lastmodified":1564125822,
     "wof:name":"Sulh",
     "wof:parent_id":85668409,
     "wof:placetype":"locality",

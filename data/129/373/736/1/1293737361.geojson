@@ -29,6 +29,27 @@
     "name:aze_x_preferred":[
         "A\u015fa\u011f\u0131 Da\u015farx"
     ],
+    "name:ceb_x_preferred":[
+        "A\u015fa\u011f\u0131 Da\u015farx"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0565\u0580\u0584\u056b\u0576 \u0534\u0561\u0577\u0561\u0580\u056d"
+    ],
+    "name:ita_x_preferred":[
+        "A\u015fa\u011f\u0131 Da\u015farx"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10d0\u10e6\u10d8-\u10d3\u10d0\u10e8\u10d0\u10e0\u10ee\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "A\u015fa\u011f\u0131 Da\u015farx"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fa\u011f\u0131 Da\u015farx"
+    ],
+    "name:swe_x_preferred":[
+        "A\u015fa\u011f\u0131 Da\u015farx"
+    ],
     "name:und_x_variant":[
         "Ashaga Dasharkh",
         "Ashagy Dasharkh"
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1293737361,
-    "wof:lastmodified":1537585274,
+    "wof:lastmodified":1564126026,
     "wof:name":"Asagi Dasarx",
     "wof:parent_id":85668667,
     "wof:placetype":"locality",

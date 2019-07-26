@@ -25,6 +25,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0437\u0432\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Razvayn",
         "Rezvan"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1225806235,
-    "wof:lastmodified":1537585162,
+    "wof:lastmodified":1564126619,
     "wof:name":"Rezvan",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

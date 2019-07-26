@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "\u015e\u0259lv\u0259"
     ],
+    "name:ces_x_preferred":[
+        "\u0160alva"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05dc\u05d5\u05d5\u05d4"
+    ],
     "name:hye_x_preferred":[
         "\u0547\u0561\u056c\u057e\u0561"
     ],
@@ -37,6 +43,12 @@
         "\u0547\u0578\u0572\u0561\u057e\u0561\u0576\u0584",
         "Shalua",
         "\u0547\u0561\u056c\u0578\u0582\u0561"
+    ],
+    "name:nno_x_preferred":[
+        "Shalva"
+    ],
+    "name:pol_x_preferred":[
+        "Szalwa"
     ],
     "name:rus_x_preferred":[
         "Shal\u2019va"
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":1259927439,
-    "wof:lastmodified":1537585154,
+    "wof:lastmodified":1564126554,
     "wof:name":"Shalva",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

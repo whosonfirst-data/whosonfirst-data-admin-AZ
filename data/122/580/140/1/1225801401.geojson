@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "\u015eorba\u00e7\u0131"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c1\u03bc\u03c0\u03ac\u03c4\u03c3\u03b9 \u0392\u03c4\u03cc\u03c1\u03b9\u03b3\u03b9\u03b5"
+    ],
+    "name:ita_x_preferred":[
+        "Shorbachy Vtoryye"
+    ],
+    "name:msa_x_preferred":[
+        "Shorbachy Vtoryye"
+    ],
     "name:und_x_variant":[
         "Shorbachy Vtoryye",
         "Shorbachy Pervyye",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1225801401,
-    "wof:lastmodified":1537585337,
+    "wof:lastmodified":1564126619,
     "wof:name":"Shorbanchi",
     "wof:parent_id":85668293,
     "wof:placetype":"locality",

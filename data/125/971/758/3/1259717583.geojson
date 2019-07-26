@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fski \u0130qriq"
+    ],
+    "name:ceb_x_preferred":[
+        "Aski Igrykh"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c3\u03ba\u03af \u0399\u03ba\u03c1\u03af\u03b3\u03ba"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fski \u0130qr\u0131\u011f"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fski \u0130qr\u0131\u011f"
+    ],
+    "name:swe_x_preferred":[
+        "Aski Igrykh"
+    ],
     "name:und_x_variant":[
         "Kevna-Igrykh\u2019",
         "Ezki-Igrik",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1259717583,
-    "wof:lastmodified":1537585484,
+    "wof:lastmodified":1564126545,
     "wof:name":"Aski Igrykh",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

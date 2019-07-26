@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "A\u011f\u00e7ay"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ad\u03b2\u03ba\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0633\u06cc\u0644\u06cc\u0648\u06a9\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Vasilyevka"
+    ],
+    "name:lez_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Vasilyevka"
+    ],
     "name:rus_x_preferred":[
         "Vasil\u2019yevka"
     ],
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1327262853,
-    "wof:lastmodified":1537585318,
+    "wof:lastmodified":1564125819,
     "wof:name":"Agcay",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

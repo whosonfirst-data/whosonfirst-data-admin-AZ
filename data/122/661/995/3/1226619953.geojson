@@ -28,12 +28,24 @@
     "name:aze_x_preferred":[
         "\u015eahv\u0259lili"
     ],
+    "name:aze_x_variant":[
+        "\u015eahv\u0259lli"
+    ],
+    "name:min_x_preferred":[
+        "\u015eahv\u0259lili"
+    ],
+    "name:msa_x_preferred":[
+        "\u015eahv\u0259lili"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0430\u0445\u0432\u0435\u043b\u043b\u0438"
     ],
     "name:und_x_variant":[
         "Shakhvelili",
         "Shakhvelli"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06c1\u0648\u06cc\u0644\u06cc\u0644\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1226619953,
-    "wof:lastmodified":1537585154,
+    "wof:lastmodified":1564126605,
     "wof:name":"Shakhvelli",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

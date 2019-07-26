@@ -34,6 +34,15 @@
     "name:hye_x_variant":[
         "\u0542\u0561\u0580\u0561\u0584\u0575\u0578\u056c\u056c\u0578\u0582"
     ],
+    "name:ita_x_preferred":[
+        "Qarakollu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10e0\u10d0\u10e5\u10dd\u10da\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "Qarakollu"
+    ],
     "name:rus_x_preferred":[
         "Karak\u00ebllu"
     ],
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":1277152923,
-    "wof:lastmodified":1537585221,
+    "wof:lastmodified":1564126085,
     "wof:name":"Qarakollu",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

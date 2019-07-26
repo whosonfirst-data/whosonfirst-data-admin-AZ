@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0646\u0638\u0631 \u0627\u0648\u0628\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "N\u0259z\u0259roba"
+    ],
+    "name:ceb_x_preferred":[
+        "Nazaruba"
+    ],
+    "name:ita_x_preferred":[
+        "N\u0259z\u0259roba"
+    ],
+    "name:msa_x_preferred":[
+        "N\u0259z\u0259roba"
+    ],
+    "name:swe_x_preferred":[
+        "Nazaruba"
+    ],
     "name:und_x_variant":[
         "N\u0259z\u0259roba",
         "Nazaroba"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1226808821,
-    "wof:lastmodified":1537585172,
+    "wof:lastmodified":1564126587,
     "wof:name":"Nazaruba",
     "wof:parent_id":85668397,
     "wof:placetype":"locality",

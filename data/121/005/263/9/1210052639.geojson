@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "B\u00f6y\u00fck D\u0259kk\u0259"
     ],
+    "name:ita_x_preferred":[
+        "B\u00f6y\u00fck D\u0259kk\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10dd\u10d8\u10e3\u10e5\u10d8-\u10d3\u10d4\u10e5\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00f6y\u00fck D\u0259kk\u0259"
+    ],
     "name:rus_x_preferred":[
         "B\u00ebyuk Dekkya"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1210052639,
-    "wof:lastmodified":1537585474,
+    "wof:lastmodified":1564126235,
     "wof:name":"Boyuk Dakka",
     "wof:parent_id":85668509,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "K\u00f6\u00e7\u0259rli"
     ],
+    "name:ceb_x_preferred":[
+        "Kyucharli"
+    ],
+    "name:ita_x_preferred":[
+        "K\u00f6\u00e7\u0259rli"
+    ],
+    "name:msa_x_preferred":[
+        "K\u00f6\u00e7\u0259rli"
+    ],
+    "name:swe_x_preferred":[
+        "Kyucharli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1226079859,
-    "wof:lastmodified":1537585382,
+    "wof:lastmodified":1564126667,
     "wof:name":"Kyucharli",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

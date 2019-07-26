@@ -34,6 +34,9 @@
     "name:hye_x_variant":[
         "\u053f\u0578\u0580\u0572\u0561\u0576"
     ],
+    "name:ita_x_preferred":[
+        "Qorqan"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0440\u0433\u0430\u043d"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1276943595,
-    "wof:lastmodified":1537585200,
+    "wof:lastmodified":1564126072,
     "wof:name":"Qorqan",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

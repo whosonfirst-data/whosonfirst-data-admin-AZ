@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "\u0130kinci Varl\u0131"
     ],
+    "name:ell_x_preferred":[
+        "\u0399\u03ba\u03b9\u03bd\u03c4\u03c3\u03af \u0392\u03b1\u03c1\u03bb\u03af"
+    ],
+    "name:ita_x_preferred":[
+        "\u0130kinci Varl\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130kinci Varl\u0131"
+    ],
     "name:und_x_variant":[
         "Sovkhoz Kara-Chala",
         "Varly"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1259714909,
-    "wof:lastmodified":1537585293,
+    "wof:lastmodified":1564126544,
     "wof:name":"Ikinci Varli",
     "wof:parent_id":85668449,
     "wof:placetype":"locality",

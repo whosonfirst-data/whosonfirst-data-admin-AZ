@@ -31,6 +31,12 @@
     "name:aze_x_variant":[
         "Taxtalar"
     ],
+    "name:ita_x_preferred":[
+        "Taxtalar"
+    ],
+    "name:msa_x_preferred":[
+        "Taxtalar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1309675557,
-    "wof:lastmodified":1537585517,
+    "wof:lastmodified":1564126417,
     "wof:name":"Taxtalar",
     "wof:parent_id":85668339,
     "wof:placetype":"locality",

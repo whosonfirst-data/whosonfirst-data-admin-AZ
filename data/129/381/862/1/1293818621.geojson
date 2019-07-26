@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Ca\u011fac\u0131q"
     ],
+    "name:aze_x_variant":[
+        "Ca\u011facuq"
+    ],
+    "name:ita_x_preferred":[
+        "Ca\u011fac\u0131q"
+    ],
+    "name:msa_x_preferred":[
+        "Ca\u011fac\u0131q"
+    ],
     "name:und_x_variant":[
         "Dzhagadzhug"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293818621,
-    "wof:lastmodified":1537585536,
+    "wof:lastmodified":1564126036,
     "wof:name":"Cagaciq",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

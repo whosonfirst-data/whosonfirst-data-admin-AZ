@@ -25,17 +25,44 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0647\u0627\u062c\u06cc\u0647\u062a\u0645\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Hac\u0131h\u0259t\u0259mli"
+    ],
+    "name:ceb_x_preferred":[
+        "Gadzhygatamli"
+    ],
     "name:eng_x_preferred":[
         "Hac\u0131h\u01ddt\u01ddmli"
     ],
+    "name:ita_x_preferred":[
+        "Hac\u0131h\u0259t\u0259mli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10ef\u10d8\u10f0\u10d0\u10d7\u10d0\u10db\u10da\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u0413\u044c\u0430\u0436\u0438\u0433\u044c\u0430\u0442\u0435\u043c\u043b\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Hac\u0131h\u0259t\u0259mli"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u0434\u0436\u044b\u0433\u0430\u0442\u0430\u043c\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Gadzhygatamli"
     ],
     "name:und_x_variant":[
         "Gadzhi-Atamli",
         "Gadzhigatamli",
         "Gadzhygatamli",
         "Hac\u0131h\u0259t\u0259mli"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0627\u06a9\u0644 \u06c1\u062a\u0645\u0644\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +88,7 @@
         }
     ],
     "wof:id":1326497887,
-    "wof:lastmodified":1537585442,
+    "wof:lastmodified":1564125800,
     "wof:name":"Gadzhygatamli",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

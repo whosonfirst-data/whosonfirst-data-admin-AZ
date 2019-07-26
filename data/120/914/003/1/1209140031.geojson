@@ -29,6 +29,12 @@
     "name:aze_x_preferred":[
         "Tsaxkadzor"
     ],
+    "name:msa_x_preferred":[
+        "Tsaxkadzor"
+    ],
+    "name:spa_x_preferred":[
+        "Tsajkadzor"
+    ],
     "name:und_x_variant":[
         "Tsaghkadzor"
     ],
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1209140031,
-    "wof:lastmodified":1537585303,
+    "wof:lastmodified":1564126180,
     "wof:name":"Tsaxkadzor",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

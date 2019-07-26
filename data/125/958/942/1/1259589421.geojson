@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u06cc\u0631\u0627\u0631\u062e"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fmirarx"
+    ],
+    "name:ceb_x_preferred":[
+        "Emirarkh"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fmirarx"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10db\u10d8\u10e0\u10d0\u10e0\u10ee\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fmirarx"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0438\u0440\u0430\u0440\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Emirarkh"
+    ],
     "name:und_x_variant":[
         "Amirarkh",
         "\u018fmirarx"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1259589421,
-    "wof:lastmodified":1537585493,
+    "wof:lastmodified":1564126557,
     "wof:name":"Emirarkh",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Qo\u00e7aqqazma"
     ],
+    "name:ita_x_preferred":[
+        "Qo\u00e7aqqazma"
+    ],
+    "name:lez_x_preferred":[
+        "\u041a\u044a\u043e\u0447\u0430\u0445\u043a\u044a\u0430\u0437\u043c\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Qo\u00e7aqqazma"
+    ],
     "name:und_x_variant":[
         "Kochakkazma"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1343793081,
-    "wof:lastmodified":1537585535,
+    "wof:lastmodified":1564125863,
     "wof:name":"Qocaqqazma",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

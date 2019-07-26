@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u06cc\u0646\u0647\u200c\u0628\u0646\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "Shinabant"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0646\u0647\u200c\u0628\u0646\u062f"
+    ],
+    "name:ita_x_preferred":[
+        "\u015ein\u0259b\u0259nd"
+    ],
+    "name:msa_x_preferred":[
+        "\u015ein\u0259b\u0259nd"
+    ],
+    "name:swe_x_preferred":[
+        "Shinabant"
+    ],
     "name:und_x_variant":[
         "Shinaband",
         "Shinabant",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1293232207,
-    "wof:lastmodified":1537585151,
+    "wof:lastmodified":1564125974,
     "wof:name":"Shinabant",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

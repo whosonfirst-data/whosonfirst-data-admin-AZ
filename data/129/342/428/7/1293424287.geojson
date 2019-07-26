@@ -31,6 +31,24 @@
     "name:aze_x_variant":[
         "Da\u011f \u00dcz\u00fc"
     ],
+    "name:ceb_x_preferred":[
+        "Daguzi"
+    ],
+    "name:ita_x_preferred":[
+        "Da\u011f \u00dcz\u00fc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e6-\u10d8\u10e3\u10d6\u10d8\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "Da\u011f \u00dcz\u00fc"
+    ],
+    "name:swe_x_preferred":[
+        "Daguzi"
+    ],
+    "name:tur_x_preferred":[
+        "Da\u011f \u00dcz\u00fc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1293424287,
-    "wof:lastmodified":1537585253,
+    "wof:lastmodified":1564126023,
     "wof:name":"Daguzi",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

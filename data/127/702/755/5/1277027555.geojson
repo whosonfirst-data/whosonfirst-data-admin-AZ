@@ -26,6 +26,12 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0631\u0627\u0645\u0644\u06cc\u06a9"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u0580\u0574\u0561\u056c\u056b\u056f"
+    ],
     "name:und_x_variant":[
         "Suramalik",
         "Suramelik",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1277027555,
-    "wof:lastmodified":1537585144,
+    "wof:lastmodified":1564126088,
     "wof:name":"Razvaliny Suramelik",
     "wof:parent_id":85668673,
     "wof:placetype":"locality",

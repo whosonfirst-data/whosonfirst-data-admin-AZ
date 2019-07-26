@@ -29,17 +29,37 @@
         "B\u00f6y\u00fck Galad\u0259r\u0259si"
     ],
     "name:aze_x_variant":[
-        "Berdadzor"
+        "Berdadzor",
+        "B\u00f6y\u00fck Qalad\u0259r\u0259si"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0435\u0446 \u0448\u044d\u043d"
+    ],
+    "name:fra_x_preferred":[
+        "Mets Shen"
     ],
     "name:hye_x_preferred":[
         "Bertadzor"
     ],
     "name:hye_x_variant":[
         "\u0532\u0565\u0580\u0564\u0561\u0573\u0578\u0580",
-        "\u0544\u0565\u056e \u0547\u0565\u0576"
+        "\u0544\u0565\u056e \u0547\u0565\u0576",
+        "\u0544\u0565\u056e\u0577\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Mets Shen"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00f6y\u00fck Galad\u0259r\u0259si"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0446\u043a\u0430\u043b\u0430\u0434\u0435\u0440\u0435\u0441\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u041a\u0430\u043b\u0430\u0434\u0430\u0440\u0430\u0441\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0446 \u0448\u0435\u043d"
     ],
     "name:und_x_variant":[
         "B\u00f6y\u00fck Qalad\u0259r\u0259si",
@@ -70,7 +90,7 @@
         }
     ],
     "wof:id":1259720295,
-    "wof:lastmodified":1537585181,
+    "wof:lastmodified":1564126574,
     "wof:name":"Mets Shen",
     "wof:parent_id":85668643,
     "wof:placetype":"locality",

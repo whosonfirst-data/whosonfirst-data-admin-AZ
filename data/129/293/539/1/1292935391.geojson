@@ -28,11 +28,17 @@
     "name:aze_x_preferred":[
         "X\u0259lf\u0259li"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b5\u03bb\u03c6\u03b5\u03bb\u03af"
+    ],
     "name:hye_x_preferred":[
         "Khalfaly"
     ],
     "name:hye_x_variant":[
         "\u053d\u0561\u056c\u0586\u0561\u056c\u0568"
+    ],
+    "name:ita_x_preferred":[
+        "X\u0259lf\u0259li"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043b\u0444\u0430\u043b\u0438"
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1292935391,
-    "wof:lastmodified":1537585212,
+    "wof:lastmodified":1564125967,
     "wof:name":"Khalfalikyshlak",
     "wof:parent_id":85668643,
     "wof:placetype":"locality",

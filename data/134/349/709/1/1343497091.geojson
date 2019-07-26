@@ -31,6 +31,12 @@
     "name:eng_x_preferred":[
         "Ambizlyar"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10db\u10d1\u10d8\u10d6\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fmbizl\u0259r"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043c\u0431\u0438\u0437\u043b\u044f\u0440"
     ],
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1343497091,
-    "wof:lastmodified":1537585493,
+    "wof:lastmodified":1564125874,
     "wof:name":"Ambizlyar",
     "wof:parent_id":85668485,
     "wof:placetype":"locality",

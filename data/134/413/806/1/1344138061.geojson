@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Umudal\u0131lar"
     ],
+    "name:aze_x_variant":[
+        "Umudallar"
+    ],
+    "name:ita_x_preferred":[
+        "Umudal\u0131lar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10db\u10e3\u10d3\u10d0\u10da\u10d8\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Umudal\u0131lar"
+    ],
     "name:und_x_variant":[
         "Umudalylar"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1344138061,
-    "wof:lastmodified":1537585321,
+    "wof:lastmodified":1564125853,
     "wof:name":"Umudalilar",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

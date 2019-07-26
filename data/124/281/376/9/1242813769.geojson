@@ -34,6 +34,12 @@
     "name:hye_x_variant":[
         "Metsshen"
     ],
+    "name:ita_x_preferred":[
+        "Ulu Qarab\u0259y"
+    ],
+    "name:msa_x_preferred":[
+        "Ulu Qarab\u0259y"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0446\u0448\u0435\u043d"
     ],
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1242813769,
-    "wof:lastmodified":1537585371,
+    "wof:lastmodified":1564126454,
     "wof:name":"Metsshen",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

@@ -25,14 +25,35 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062e\u0627\u0646 \u0639\u0631\u0628"
+    ],
     "name:aze_x_preferred":[
         "Xan\u0259r\u0259b"
+    ],
+    "name:ceb_x_preferred":[
+        "Khanarab"
     ],
     "name:eng_x_preferred":[
         "Xan\u01ddr\u01ddb"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0646\u200c\u0639\u0631\u0628"
+    ],
+    "name:ita_x_preferred":[
+        "Xan\u0259r\u0259b"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10dc\u10d0\u10e0\u10d0\u10d1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Xan\u0259r\u0259b"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043d\u0430\u0440\u0430\u0431"
+    ],
+    "name:swe_x_preferred":[
+        "Khanarab"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1310489851,
-    "wof:lastmodified":1537585400,
+    "wof:lastmodified":1564126309,
     "wof:name":"Khanarab",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

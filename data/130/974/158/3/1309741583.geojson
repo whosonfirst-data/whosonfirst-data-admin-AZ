@@ -31,6 +31,15 @@
     "name:aze_x_variant":[
         "Voytala"
     ],
+    "name:ita_x_preferred":[
+        "Voytala"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10dd\u10f0\u10d7\u10d0\u10da\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Voytala"
+    ],
     "name:und_x_variant":[
         "Votala",
         "Voitala"
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1309741583,
-    "wof:lastmodified":1537585317,
+    "wof:lastmodified":1564126422,
     "wof:name":"Vohtala",
     "wof:parent_id":85668601,
     "wof:placetype":"locality",

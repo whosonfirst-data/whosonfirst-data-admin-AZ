@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062e\u0627\u0631\u062e\u0627\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Xarxar"
+    ],
+    "name:ceb_x_preferred":[
+        "Xarxar"
+    ],
+    "name:ita_x_preferred":[
+        "Xarxar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10e0\u10ee\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Xarxar"
+    ],
+    "name:swe_x_preferred":[
+        "Xarxar"
+    ],
     "name:und_x_variant":[
         "Kharkhar",
         "Xarxar"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1260351571,
-    "wof:lastmodified":1537585399,
+    "wof:lastmodified":1564126296,
     "wof:name":"Xarxar",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

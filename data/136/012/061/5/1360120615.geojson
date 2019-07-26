@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u0627\u0644\u0686\u06cc\u0642 \u0627\u0648\u0628\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Pal\u00e7\u0131qoba"
+    ],
+    "name:ceb_x_preferred":[
+        "Pal\u00e7\u0131qoba"
+    ],
+    "name:ita_x_preferred":[
+        "Pal\u00e7\u0131qoba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d0\u10da\u10e9\u10d8\u10e5\u10dd\u10d1\u10d0"
+    ],
+    "name:lez_x_preferred":[
+        "\u041f\u0430\u043b\u0447\u0443\u0445\u0443\u0431\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Pal\u00e7\u0131qoba"
+    ],
+    "name:swe_x_preferred":[
+        "Pal\u00e7\u0131qoba"
+    ],
     "name:und_x_variant":[
         "Palchykhoba",
         "Pal\u00e7\u0131qoba"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1360120615,
-    "wof:lastmodified":1537585355,
+    "wof:lastmodified":1564126375,
     "wof:name":"Palciqoba",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

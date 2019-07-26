@@ -31,6 +31,21 @@
     "name:aze_x_variant":[
         "Bo\u015f\u00e7allar"
     ],
+    "name:ceb_x_preferred":[
+        "Bo\u015f\u00e7al\u0131lar"
+    ],
+    "name:ita_x_preferred":[
+        "Bo\u015f\u00e7al\u0131lar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10e8\u10e9\u10d0\u10da\u10d8\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Bo\u015f\u00e7al\u0131lar"
+    ],
+    "name:swe_x_preferred":[
+        "Bo\u015f\u00e7al\u0131lar"
+    ],
     "name:und_x_variant":[
         "Boshchallar",
         "Boshalar",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1209671255,
-    "wof:lastmodified":1537585262,
+    "wof:lastmodified":1564126199,
     "wof:name":"Boscalilar",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

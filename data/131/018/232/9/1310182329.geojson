@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Orta \u018flin\u0259z\u0259rli"
     ],
+    "name:ita_x_preferred":[
+        "Orta \u018flin\u0259z\u0259rli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e0\u10d7\u10d0-\u10d0\u10da\u10d8\u10dc\u10d0\u10d6\u10d0\u10e0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Orta \u018flin\u0259z\u0259rli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1310182329,
-    "wof:lastmodified":1537585527,
+    "wof:lastmodified":1564126340,
     "wof:name":"Orta-Alinazarli",
     "wof:parent_id":85668313,
     "wof:placetype":"locality",

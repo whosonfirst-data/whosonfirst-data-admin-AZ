@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0632\u0648\u0646\u0648\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Zunud"
+    ],
+    "name:ceb_x_preferred":[
+        "Zunud"
+    ],
+    "name:ita_x_preferred":[
+        "Zunud"
+    ],
+    "name:msa_x_preferred":[
+        "Zunud"
+    ],
+    "name:pol_x_preferred":[
+        "Zunud"
+    ],
+    "name:swe_x_preferred":[
+        "Zunud"
+    ],
     "name:und_x_variant":[
         "Zunut",
         "Zunut-Dag-Dibi",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1226785999,
-    "wof:lastmodified":1537585305,
+    "wof:lastmodified":1564126643,
     "wof:name":"Zunud",
     "wof:parent_id":85668565,
     "wof:placetype":"locality",

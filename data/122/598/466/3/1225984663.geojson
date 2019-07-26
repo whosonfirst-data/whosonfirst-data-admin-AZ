@@ -32,6 +32,9 @@
         "Jarski",
         "K\u00fcrdili"
     ],
+    "name:msa_x_preferred":[
+        "Zharskiy"
+    ],
     "name:und_x_variant":[
         "Zharovskiye",
         "Zharskiy"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1225984663,
-    "wof:lastmodified":1537585123,
+    "wof:lastmodified":1564126630,
     "wof:name":"Kurdili",
     "wof:parent_id":1092001695,
     "wof:placetype":"locality",

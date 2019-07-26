@@ -34,6 +34,12 @@
     "name:hye_x_variant":[
         "\u0549\u0578\u0582\u056c\u0567\u0578\u0582"
     ],
+    "name:min_x_preferred":[
+        "Chullu"
+    ],
+    "name:msa_x_preferred":[
+        "Chullu"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0443\u043b\u043b\u0443"
     ],
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1243155603,
-    "wof:lastmodified":1537585304,
+    "wof:lastmodified":1564126473,
     "wof:name":"Chullu",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

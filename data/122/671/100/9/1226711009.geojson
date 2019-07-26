@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Telman"
     ],
+    "name:msa_x_preferred":[
+        "Dezdamesha"
+    ],
     "name:rus_x_preferred":[
         "Tel\u2019man"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1226711009,
-    "wof:lastmodified":1537585292,
+    "wof:lastmodified":1564126636,
     "wof:name":"Telman",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

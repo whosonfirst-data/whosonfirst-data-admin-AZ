@@ -28,8 +28,17 @@
     "name:aze_x_preferred":[
         "Dov\u015fanl\u0131"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u0440\u0430\u0434\u0436\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Dov\u015fanl\u0131"
+    ],
     "name:eng_x_preferred":[
         "Arajadzor"
+    ],
+    "name:fra_x_preferred":[
+        "Aradjadzor"
     ],
     "name:hye_x_preferred":[
         "\u0531\u057c\u0561\u057b\u0561\u0571\u0578\u0580"
@@ -37,8 +46,20 @@
     "name:hye_x_variant":[
         "Arrajadzor"
     ],
+    "name:ita_x_preferred":[
+        "Aradjadzor"
+    ],
+    "name:msa_x_preferred":[
+        "Dov\u015fanl\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0430\u0447\u0430\u0434\u0437\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Dov\u015fanl\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0430\u0434\u0436\u0430\u0434\u0437\u043e\u0440"
     ],
     "name:und_x_variant":[
         "Arrajadzor",
@@ -72,7 +93,7 @@
         }
     ],
     "wof:id":1243320465,
-    "wof:lastmodified":1537585491,
+    "wof:lastmodified":1564126481,
     "wof:name":"Dovsanli",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

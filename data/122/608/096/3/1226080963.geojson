@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Sor"
     ],
+    "name:ceb_x_preferred":[
+        "Sor"
+    ],
+    "name:deu_x_preferred":[
+        "Sor"
+    ],
+    "name:fra_x_preferred":[
+        "Sor"
+    ],
+    "name:glg_x_preferred":[
+        "Sor"
+    ],
     "name:hye_x_preferred":[
         "Ts\u2019or"
     ],
@@ -36,8 +48,26 @@
         "Ts\u2019orr",
         "\u0551\u0578\u0580"
     ],
+    "name:por_x_preferred":[
+        "Sor"
+    ],
     "name:rus_x_preferred":[
         "\u0426\u0443\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u043e\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Sor"
+    ],
+    "name:swe_x_preferred":[
+        "Sor"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043e\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u0440"
     ],
     "name:und_x_variant":[
         "Tsur",
@@ -66,7 +96,7 @@
         }
     ],
     "wof:id":1226080963,
-    "wof:lastmodified":1537585139,
+    "wof:lastmodified":1564126659,
     "wof:name":"Sor",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

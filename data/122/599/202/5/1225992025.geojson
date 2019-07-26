@@ -25,7 +25,16 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7\u00f6hranl\u0131"
+    ],
     "name:eng_x_preferred":[
+        "\u00c7\u00f6hranl\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7\u00f6hranl\u0131"
+    ],
+    "name:msa_x_preferred":[
         "\u00c7\u00f6hranl\u0131"
     ],
     "name:rus_x_preferred":[
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1225992025,
-    "wof:lastmodified":1537585461,
+    "wof:lastmodified":1564126622,
     "wof:name":"Chovranly",
     "wof:parent_id":85668383,
     "wof:placetype":"locality",

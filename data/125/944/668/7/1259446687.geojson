@@ -29,7 +29,23 @@
         "Ha\u00e7\u0131qaraqa\u015fl\u0131"
     ],
     "name:aze_x_variant":[
-        "Hac\u0131 Qaraqa\u015fl\u0131"
+        "Hac\u0131 Qaraqa\u015fl\u0131",
+        "Hac\u0131qaraqa\u015fl\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Ha\u00e7\u0131qaraqa\u015fl\u0131"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c4\u03c3\u03af \u039a\u03b1\u03c1\u03b1\u03ba\u03b1\u03c3\u03bb\u03af"
+    ],
+    "name:ita_x_preferred":[
+        "Ha\u00e7\u0131 Qaraqa\u015fl\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Ha\u00e7\u0131 Qaraqa\u015fl\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Ha\u00e7\u0131qaraqa\u015fl\u0131"
     ],
     "name:und_x_variant":[
         "Adakar",
@@ -62,7 +78,7 @@
         }
     ],
     "wof:id":1259446687,
-    "wof:lastmodified":1537585442,
+    "wof:lastmodified":1564126569,
     "wof:name":"Haci Qaraqasli",
     "wof:parent_id":85668339,
     "wof:placetype":"locality",

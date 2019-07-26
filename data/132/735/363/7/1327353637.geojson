@@ -25,6 +25,33 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u062c\u0627\u06a9\u0631\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Ojak\u0259ran"
+    ],
+    "name:ceb_x_preferred":[
+        "Ozhakeran"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c4\u03b6\u03b1\u03ba\u03b5\u03c1\u03ac\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062c\u0627\u06a9\u0631\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Ojak\u0259ran"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10df\u10d0\u10e5\u10d0\u10e0\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Ojak\u0259ran"
+    ],
+    "name:swe_x_preferred":[
+        "Ozhakeran"
+    ],
     "name:und_x_variant":[
         "Odzhakachan",
         "Ozhakeran",
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1327353637,
-    "wof:lastmodified":1537585167,
+    "wof:lastmodified":1564125795,
     "wof:name":"Ozhakeran",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

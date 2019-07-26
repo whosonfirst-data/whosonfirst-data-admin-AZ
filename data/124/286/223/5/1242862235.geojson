@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Alpout"
     ],
+    "name:ceb_x_preferred":[
+        "Alpout"
+    ],
+    "name:ita_x_preferred":[
+        "Alpout"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10e4\u10dd\u10e3\u10d7\u10d8"
+    ],
+    "name:swe_x_preferred":[
+        "Alpout"
+    ],
     "name:und_x_variant":[
         "Alpaut"
     ],
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1242862235,
-    "wof:lastmodified":1537585494,
+    "wof:lastmodified":1564126452,
     "wof:name":"Alpout",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

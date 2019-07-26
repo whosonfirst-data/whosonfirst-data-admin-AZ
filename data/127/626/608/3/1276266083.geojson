@@ -31,6 +31,21 @@
     "name:aze_x_variant":[
         "\u0130si"
     ],
+    "name:ceb_x_preferred":[
+        "Isi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c3\u03af"
+    ],
+    "name:ita_x_preferred":[
+        "\u0130si"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130si"
+    ],
+    "name:swe_x_preferred":[
+        "Isi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1276266083,
-    "wof:lastmodified":1537585518,
+    "wof:lastmodified":1564126054,
     "wof:name":"Isi",
     "wof:parent_id":85668397,
     "wof:placetype":"locality",

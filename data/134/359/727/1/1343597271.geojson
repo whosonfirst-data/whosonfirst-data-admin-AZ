@@ -31,6 +31,15 @@
     "name:aze_x_variant":[
         "Ke\u00e7ili"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03bb\u03bf\u03cd\u03c6"
+    ],
+    "name:ita_x_preferred":[
+        "Xuluf"
+    ],
+    "name:msa_x_preferred":[
+        "Xuluf"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1343597271,
-    "wof:lastmodified":1537585538,
+    "wof:lastmodified":1564125885,
     "wof:name":"Kecili",
     "wof:parent_id":85668233,
     "wof:placetype":"locality",

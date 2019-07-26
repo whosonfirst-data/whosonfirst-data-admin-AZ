@@ -36,6 +36,12 @@
         "Zirik",
         "\u0536\u056b\u0580\u056b\u056f"
     ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d4\u10d8\u10e0\u10d8\u10e5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Ziyrik"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u0438\u0439\u0440\u0438\u043a"
     ],
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1259534561,
-    "wof:lastmodified":1537585123,
+    "wof:lastmodified":1564126524,
     "wof:name":"Ziyrik",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

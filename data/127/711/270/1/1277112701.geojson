@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Uzuntala"
     ],
+    "name:ceb_x_preferred":[
+        "Uzuntala"
+    ],
+    "name:ita_x_preferred":[
+        "Uzuntala"
+    ],
+    "name:swe_x_preferred":[
+        "Uzuntala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1277112701,
-    "wof:lastmodified":1537585320,
+    "wof:lastmodified":1564126132,
     "wof:name":"Uzuntala",
     "wof:parent_id":85668557,
     "wof:placetype":"locality",

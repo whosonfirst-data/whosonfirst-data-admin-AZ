@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0632\u0648\u067e\u0648\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Zopun"
+    ],
+    "name:ceb_x_preferred":[
+        "Zupun"
+    ],
+    "name:ita_x_preferred":[
+        "Zopun"
+    ],
+    "name:msa_x_preferred":[
+        "Zopun"
+    ],
+    "name:swe_x_preferred":[
+        "Zupun"
+    ],
     "name:und_x_variant":[
         "Zopun",
         "Zupun"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1209886469,
-    "wof:lastmodified":1537585122,
+    "wof:lastmodified":1564126225,
     "wof:name":"Zupun",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

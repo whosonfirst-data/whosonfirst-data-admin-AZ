@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Xeyr\u0131ml\u0131"
     ],
+    "name:aze_x_variant":[
+        "Xeyrimli"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0565\u0575\u0580\u056b\u0574\u056c\u056b"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d4\u10d8\u10e0\u10d8\u10db\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Xeyrimli"
+    ],
     "name:und_x_variant":[
         "Kheyrimli",
         "Xeyrimli"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1343900677,
-    "wof:lastmodified":1537585398,
+    "wof:lastmodified":1564125850,
     "wof:name":"Xeyrimli",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

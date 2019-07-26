@@ -25,17 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062d\u0633\u06cc\u0646\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "H\u00fcseynli"
     ],
     "name:aze_x_variant":[
         "H\u00fcs\u0259nli"
     ],
+    "name:ceb_x_preferred":[
+        "H\u00fcseynli"
+    ],
     "name:eng_x_preferred":[
+        "H\u00fcseynli"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00fcseynli"
+    ],
+    "name:msa_x_preferred":[
         "H\u00fcseynli"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0443\u0441\u0435\u0439\u043d\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00fcseynli"
     ],
     "name:und_x_variant":[
         "Gusanly",
@@ -65,7 +80,7 @@
         }
     ],
     "wof:id":1360021839,
-    "wof:lastmodified":1537585433,
+    "wof:lastmodified":1564126401,
     "wof:name":"Guseynli",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

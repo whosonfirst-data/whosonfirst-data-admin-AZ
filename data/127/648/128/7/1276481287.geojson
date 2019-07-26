@@ -25,7 +25,22 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0632\u0627\u0644\u0642\u0627\u0631\u0627 \u0622\u063a\u0627\u062c"
+    ],
     "name:aze_x_preferred":[
+        "Zalqaraa\u011fac"
+    ],
+    "name:ceb_x_preferred":[
+        "Zalqaraa\u011fac"
+    ],
+    "name:ita_x_preferred":[
+        "Zalqaraa\u011fac"
+    ],
+    "name:msa_x_preferred":[
+        "Zalqaraa\u011fac"
+    ],
+    "name:swe_x_preferred":[
         "Zalqaraa\u011fac"
     ],
     "name:und_x_variant":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1276481287,
-    "wof:lastmodified":1537585125,
+    "wof:lastmodified":1564126111,
     "wof:name":"Zalqaraagac",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

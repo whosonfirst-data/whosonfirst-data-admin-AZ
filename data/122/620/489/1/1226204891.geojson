@@ -31,6 +31,15 @@
     "name:aze_x_variant":[
         "Ay\u0131qala"
     ],
+    "name:ita_x_preferred":[
+        "Ay\u0131tala"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d8\u10d8\u10d7\u10d0\u10da\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Ay\u0131tala"
+    ],
     "name:und_x_variant":[
         "Ayytala"
     ],
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1226204891,
-    "wof:lastmodified":1537585528,
+    "wof:lastmodified":1564126592,
     "wof:name":"Ayitala",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

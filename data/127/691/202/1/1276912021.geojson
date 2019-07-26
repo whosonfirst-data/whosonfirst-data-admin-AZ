@@ -31,6 +31,12 @@
     "name:hye_x_preferred":[
         "\u0537\u0575\u056b\u0576"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10d8\u10d8\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fyin"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u0439\u0438\u043d"
     ],
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1276912021,
-    "wof:lastmodified":1537585241,
+    "wof:lastmodified":1564126122,
     "wof:name":"Eyin",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

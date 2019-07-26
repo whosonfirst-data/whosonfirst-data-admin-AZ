@@ -25,11 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ya\u015fma"
+    ],
+    "name:ceb_x_preferred":[
+        "Ya\u015fma"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d0\u10e8\u10db\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Ya\u015fma"
+    ],
+    "name:swe_x_preferred":[
+        "Ya\u015fma"
+    ],
     "name:und_x_variant":[
         "Jaschma",
         "Yashma",
         "Iachma",
         "Ya\u015fma"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0627\u0633\u0645"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1343497263,
-    "wof:lastmodified":1537585315,
+    "wof:lastmodified":1564125877,
     "wof:name":"Yasma",
     "wof:parent_id":85668485,
     "wof:placetype":"locality",

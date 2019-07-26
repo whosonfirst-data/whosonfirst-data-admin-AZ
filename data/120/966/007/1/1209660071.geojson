@@ -26,7 +26,31 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u06a9"
+    ],
     "name:aze_x_preferred":[
+        "Xok"
+    ],
+    "name:ceb_x_preferred":[
+        "Xok"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u06a9"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0578\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Xok"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10dd\u10d9\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Xok"
+    ],
+    "name:swe_x_preferred":[
         "Xok"
     ],
     "name:und_x_variant":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1209660071,
-    "wof:lastmodified":1537585133,
+    "wof:lastmodified":1564126188,
     "wof:name":"Xok",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

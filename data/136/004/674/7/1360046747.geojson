@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Qar\u0131kaha"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u044d\u0433\u0430\u0445"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u06cc\u06af\u0627\u0647"
+    ],
     "name:hye_x_preferred":[
         "Gharykakha"
     ],
@@ -36,8 +42,17 @@
         "K\u2019aregah",
         "\u0554\u0561\u0580\u0565\u0563\u0561\u0570"
     ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10e0\u10d8\u10e5\u10d0\u10f0\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Qar\u0131kaha"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u044b\u043a\u0430\u0445\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0435\u0491\u0430\u0445"
     ],
     "name:und_x_variant":[
         "Karykyakha",
@@ -69,7 +84,7 @@
         }
     ],
     "wof:id":1360046747,
-    "wof:lastmodified":1537585217,
+    "wof:lastmodified":1564126396,
     "wof:name":"Qarikaha",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

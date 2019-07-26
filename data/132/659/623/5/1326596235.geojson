@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "\u0130kinci Mahmudlu"
     ],
+    "name:ell_x_preferred":[
+        "\u0399\u03ba\u03b9\u03bd\u03c4\u03c3\u03af \u039c\u03b1\u03c7\u03bc\u03bf\u03c5\u03bd\u03c4\u03bb\u03bf\u03cd"
+    ],
+    "name:ita_x_preferred":[
+        "\u0130kinci Mahmudlu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e5\u10d8\u10dc\u10ef\u10d8-\u10db\u10d0\u10f0\u10db\u10e3\u10d3\u10da\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130kinci Mahmudlu"
+    ],
     "name:und_x_variant":[
         "Makhmudlu Vtoroye",
         "Makhmudly Vtoroy"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1326596235,
-    "wof:lastmodified":1537585188,
+    "wof:lastmodified":1564125772,
     "wof:name":"Ikinci Mahmudlu",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

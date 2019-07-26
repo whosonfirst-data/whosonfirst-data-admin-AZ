@@ -31,6 +31,15 @@
     "name:aze_x_variant":[
         "Soxulcan"
     ],
+    "name:ita_x_preferred":[
+        "Sokhuldzhan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10ee\u10e3\u10da\u10ef\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Sokhuldzhan"
+    ],
     "name:und_x_variant":[
         "Sokhuldzhan",
         "Archabulak"
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1276157145,
-    "wof:lastmodified":1537585146,
+    "wof:lastmodified":1564126103,
     "wof:name":"Alcabulaq",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

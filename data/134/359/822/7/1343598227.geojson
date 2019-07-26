@@ -25,7 +25,22 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u06cc\u0645 \u0633\u0627\u0631\u0648\u0648"
+    ],
     "name:aze_x_preferred":[
+        "B\u0259yimsarov"
+    ],
+    "name:ceb_x_preferred":[
+        "Sarov"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03b3\u03b9\u03bc\u03c3\u03ac\u03c1\u03bf\u03c6"
+    ],
+    "name:ita_x_preferred":[
+        "B\u0259yimsarov"
+    ],
+    "name:msa_x_preferred":[
         "B\u0259yimsarov"
     ],
     "name:rus_x_preferred":[
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1343598227,
-    "wof:lastmodified":1537585474,
+    "wof:lastmodified":1564125884,
     "wof:name":"Sarov",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

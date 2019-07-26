@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Atuc"
+    ],
+    "name:ita_x_preferred":[
+        "Atuc"
+    ],
+    "name:msa_x_preferred":[
+        "Atuc"
+    ],
     "name:und_x_variant":[
         "Atuch",
         "Atuc"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1209953123,
-    "wof:lastmodified":1537585483,
+    "wof:lastmodified":1564126186,
     "wof:name":"Atuc",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Burunlu"
     ],
+    "name:ita_x_preferred":[
+        "Burunlu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10e0\u10e3\u10dc\u10da\u10e3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1260114089,
-    "wof:lastmodified":1537585469,
+    "wof:lastmodified":1564126281,
     "wof:name":"Burunlu",
     "wof:parent_id":85668509,
     "wof:placetype":"locality",

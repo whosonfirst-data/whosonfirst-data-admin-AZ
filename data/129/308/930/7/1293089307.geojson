@@ -29,7 +29,17 @@
         "\u00c7umalar"
     ],
     "name:aze_x_variant":[
-        "Cumular"
+        "Cumular",
+        "Cumalar"
+    ],
+    "name:ita_x_preferred":[
+        "Cumalar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10e3\u10db\u10d0\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Cumalar"
     ],
     "name:und_x_variant":[
         "Aryadzha",
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1293089307,
-    "wof:lastmodified":1537585505,
+    "wof:lastmodified":1564125953,
     "wof:name":"Cumular",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

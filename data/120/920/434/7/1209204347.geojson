@@ -28,11 +28,17 @@
     "name:aze_x_preferred":[
         "\u00c7ilov"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03af\u03bb\u03bf\u03c6"
+    ],
     "name:eng_x_preferred":[
         "Jiloy"
     ],
     "name:rus_x_preferred":[
         "\u0416\u0438\u043b\u043e\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u043b\u043e\u0432"
     ],
     "name:und_x_variant":[
         "Zhiloy",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1209204347,
-    "wof:lastmodified":1537585306,
+    "wof:lastmodified":1564126211,
     "wof:name":"Cilov",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

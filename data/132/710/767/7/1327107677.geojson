@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u062d\u0645\u062f\u0631\u0636\u0627\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "M\u0259mm\u0259drzal\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Mamedrzaly"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0259mm\u0259drzal\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "M\u0259mm\u0259drzal\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Mamedrzaly"
+    ],
     "name:und_x_variant":[
         "Mamed-Rzali",
         "M\u0259mm\u0259drzal\u0131"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1327107677,
-    "wof:lastmodified":1537585186,
+    "wof:lastmodified":1564125826,
     "wof:name":"Mamedrzaly",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

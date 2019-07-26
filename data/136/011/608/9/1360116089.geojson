@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Sandlyar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10d3\u10da\u10d8\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Sandlyar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1360116089,
-    "wof:lastmodified":1537486677,
+    "wof:lastmodified":1564126389,
     "wof:name":"Sandlyar",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

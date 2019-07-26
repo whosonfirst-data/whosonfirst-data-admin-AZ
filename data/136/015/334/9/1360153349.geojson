@@ -34,6 +34,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u0438\u043d\u043e\u0432\u043a\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u041c\u0435\u0439\u043d\u0438\u043c\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Kalinovka"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1360153349,
-    "wof:lastmodified":1537585421,
+    "wof:lastmodified":1564126373,
     "wof:name":"Meyniman",
     "wof:parent_id":85668293,
     "wof:placetype":"locality",

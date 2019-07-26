@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Mollag\u00fcll\u0259r"
     ],
+    "name:ceb_x_preferred":[
+        "Mollagyullar"
+    ],
+    "name:ita_x_preferred":[
+        "Mollag\u00fcll\u0259r"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10da\u10d0\u10d2\u10d8\u10e3\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Mollag\u00fcll\u0259r"
+    ],
+    "name:swe_x_preferred":[
+        "Mollagyullar"
+    ],
     "name:und_x_variant":[
         "Mollagyuler",
         "Mollagyullar"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1209894339,
-    "wof:lastmodified":1537585368,
+    "wof:lastmodified":1564126216,
     "wof:name":"Mollagyullar",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

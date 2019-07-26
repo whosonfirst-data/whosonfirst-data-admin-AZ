@@ -25,7 +25,22 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zivlan"
+    ],
     "name:eng_x_preferred":[
+        "Zivlan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u056b\u057e\u056c\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Zivlan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d8\u10d5\u10da\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Zivlan"
     ],
     "name:rus_x_preferred":[
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1226412061,
-    "wof:lastmodified":1537585306,
+    "wof:lastmodified":1564126648,
     "wof:name":"Zivlan",
     "wof:parent_id":85668199,
     "wof:placetype":"locality",

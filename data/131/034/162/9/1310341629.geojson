@@ -25,14 +25,38 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0686\u0647\u0627\u0631\u062e\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
+        "\u00c7arhan"
+    ],
+    "name:ceb_x_preferred":[
         "\u00c7arhan"
     ],
     "name:eng_x_preferred":[
         "\u00c7arxan"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0647\u0627\u0631\u062e\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7arxan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10e0\u10ee\u10d0\u10dc\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "\u00c7arxan"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7arxan"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u0440\u0433\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c7arhan"
     ],
     "name:und_x_variant":[
         "Charkhan",
@@ -63,7 +87,7 @@
         }
     ],
     "wof:id":1310341629,
-    "wof:lastmodified":1537585466,
+    "wof:lastmodified":1564126363,
     "wof:name":"Carhan",
     "wof:parent_id":85668459,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Osyod\u0259r\u0259"
+    ],
+    "name:ita_x_preferred":[
+        "Osyed\u0259r\u0259"
+    ],
+    "name:msa_x_preferred":[
+        "Osyed\u0259r\u0259"
+    ],
     "name:und_x_variant":[
         "Os\u2019yadarya",
         "Os\u2019yedara",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1309839539,
-    "wof:lastmodified":1537585167,
+    "wof:lastmodified":1564126408,
     "wof:name":"Osyedara",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

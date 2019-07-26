@@ -25,8 +25,26 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u06cc\u0644\u0647\u200c\u0648\u0631"
+    ],
     "name:aze_x_preferred":[
         "\u015eil\u0259var"
+    ],
+    "name:ceb_x_preferred":[
+        "Shilyavar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0644\u0647\u200c\u0648\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "\u015eilavar"
+    ],
+    "name:msa_x_preferred":[
+        "\u015eilavar"
+    ],
+    "name:swe_x_preferred":[
+        "Shilyavar"
     ],
     "name:und_x_variant":[
         "Shilavar",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1293337345,
-    "wof:lastmodified":1537585152,
+    "wof:lastmodified":1564126013,
     "wof:name":"Shilyavar",
     "wof:parent_id":85668697,
     "wof:placetype":"locality",

@@ -22,8 +22,17 @@
     "name:aze_x_preferred":[
         "\u0130yirmi Alt\u0131 Bak\u0131 Komissar\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "Sovetabad"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u057e\u0565\u057f\u0561\u057a\u0561\u057f"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u0441\u0430\u043d\u0430\u0431\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Sovetabad"
     ],
     "name:unk_x_variant":[
         "H\u0259s\u0259nabad"
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1125819257,
-    "wof:lastmodified":1509393989,
+    "wof:lastmodified":1564126433,
     "wof:name":"Sovetabad",
     "wof:parent_id":85668409,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Rus Borisi"
     ],
+    "name:bel_x_preferred":[
+        "\u0420\u0443\u0441 \u0411\u0430\u0440\u044b\u0441\u044b"
+    ],
     "name:hye_x_preferred":[
         "Rrusakan Borisner"
     ],
@@ -35,7 +38,17 @@
         "\u054c\u0578\u0582\u057d\u0561\u056f\u0561\u0576 \u0532\u0578\u0580\u056b\u057d\u0576\u0565\u0580",
         "Rrusakan Borisi",
         "Rrus Paris",
-        "\u054c\u0578\u0582\u057d \u054a\u0561\u0580\u056b\u057d"
+        "\u054c\u0578\u0582\u057d \u054a\u0561\u0580\u056b\u057d",
+        "\u054c\u0578\u0582\u057d \u0532\u0578\u0580\u056b\u057d\u0576\u0565\u0580 \u0563\u0575\u0578\u0582\u0572"
+    ],
+    "name:ita_x_preferred":[
+        "Rus Borisi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10e3\u10e1-\u10d1\u10dd\u10e0\u10d8\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Rus Borisi"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u0441\u0441\u043a\u0438\u0435 \u0411\u043e\u0440\u0438\u0441\u044b"
@@ -71,7 +84,7 @@
         }
     ],
     "wof:id":1310064717,
-    "wof:lastmodified":1537585349,
+    "wof:lastmodified":1564126336,
     "wof:name":"Rus Borisi",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

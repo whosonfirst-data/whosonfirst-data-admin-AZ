@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Gil\u0259\u015f\u0259"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b9\u03bb\u03b5\u03c3\u03ad"
+    ],
+    "name:ita_x_preferred":[
+        "Gil\u0259\u015f\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10da\u10d4\u10e8\u10d4"
+    ],
+    "name:kur_x_preferred":[
+        "G\u00eele\u015fe"
+    ],
+    "name:msa_x_preferred":[
+        "Gil\u0259\u015f\u0259"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293709097,
-    "wof:lastmodified":1537585526,
+    "wof:lastmodified":1564125970,
     "wof:name":"Kilyasha",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

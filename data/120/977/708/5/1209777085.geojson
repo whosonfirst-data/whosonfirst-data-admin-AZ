@@ -31,6 +31,12 @@
     "name:hye_x_preferred":[
         "\u0536\u0565\u0575\u057e\u0561"
     ],
+    "name:ita_x_preferred":[
+        "Zeyva"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d4\u10d8\u10d5\u10d0"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u0435\u0439\u0432\u0430"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1209777085,
-    "wof:lastmodified":1537585123,
+    "wof:lastmodified":1564126158,
     "wof:name":"Zeyva",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

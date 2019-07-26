@@ -29,8 +29,29 @@
     "name:aze_x_preferred":[
         "A\u015fa\u011f\u0131 Reme\u015fin"
     ],
+    "name:aze_x_variant":[
+        "Q\u0131z\u0131l Q\u0131\u015flaq"
+    ],
+    "name:ceb_x_preferred":[
+        "Q\u0131z\u0131l Q\u0131\u015flaq"
+    ],
     "name:eng_x_preferred":[
         "Kizil Kishlak"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0568\u0566\u0568\u056c \u053f\u0568\u0577\u056c\u0561\u0572"
+    ],
+    "name:ita_x_preferred":[
+        "Q\u0131z\u0131l Q\u0131\u015flaq"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d8\u10d6\u10d8\u10da-\u10e5\u10d8\u10e8\u10da\u10d0\u10d2\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Q\u0131z\u0131l Q\u0131\u015flaq"
+    ],
+    "name:swe_x_preferred":[
+        "Q\u0131z\u0131l Q\u0131\u015flaq"
     ],
     "name:und_x_variant":[
         "Ashagy Remeshin",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1276593127,
-    "wof:lastmodified":1537585272,
+    "wof:lastmodified":1564126079,
     "wof:name":"Qizil Qislaq",
     "wof:parent_id":85668683,
     "wof:placetype":"locality",

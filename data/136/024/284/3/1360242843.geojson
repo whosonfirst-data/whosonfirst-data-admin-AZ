@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Aranl\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "Poltavka"
+    ],
     "name:und_x_variant":[
         "Poltavka"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1360242843,
-    "wof:lastmodified":1537585163,
+    "wof:lastmodified":1564126372,
     "wof:name":"Aranli",
     "wof:parent_id":85668365,
     "wof:placetype":"locality",

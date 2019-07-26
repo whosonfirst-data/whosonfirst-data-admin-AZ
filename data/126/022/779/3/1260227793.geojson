@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Ballabur"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bb\u03bb\u03b1\u03bc\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:msa_x_preferred":[
+        "Ballabur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1260227793,
-    "wof:lastmodified":1537585530,
+    "wof:lastmodified":1564126269,
     "wof:name":"Ballabur",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

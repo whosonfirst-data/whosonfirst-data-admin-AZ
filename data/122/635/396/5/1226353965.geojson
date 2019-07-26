@@ -28,8 +28,41 @@
     "name:aze_x_preferred":[
         "Suma"
     ],
+    "name:ceb_x_preferred":[
+        "Suma"
+    ],
+    "name:ces_x_preferred":[
+        "Suma"
+    ],
+    "name:deu_x_preferred":[
+        "Suma"
+    ],
+    "name:fra_x_preferred":[
+        "Suma"
+    ],
+    "name:ita_x_preferred":[
+        "Suma"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10db\u10d0"
+    ],
+    "name:pol_x_preferred":[
+        "Suma"
+    ],
+    "name:por_x_preferred":[
+        "Suma"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Suma"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Suma"
     ],
     "name:und_x_variant":[
         "Suma-Molla-Mamedly"
@@ -57,7 +90,7 @@
         }
     ],
     "wof:id":1226353965,
-    "wof:lastmodified":1537585331,
+    "wof:lastmodified":1564126602,
     "wof:name":"Suma",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

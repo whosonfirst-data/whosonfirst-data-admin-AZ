@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Xara\u015fa"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03ac\u03b3\u03ba\u03b9 \u03a7\u03b1\u03c1\u03ac\u03c3\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Ashagy Kharasha"
+    ],
+    "name:msa_x_preferred":[
+        "Ashagy Kharasha"
+    ],
     "name:und_x_variant":[
         "Ashagy Kharasha",
         "Kharasha"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1293129643,
-    "wof:lastmodified":1537585487,
+    "wof:lastmodified":1564125978,
     "wof:name":"Xarasa",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

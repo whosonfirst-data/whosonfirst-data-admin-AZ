@@ -32,6 +32,15 @@
         "S\u0259rdakhar",
         "S\u0259rdaxar"
     ],
+    "name:ita_x_preferred":[
+        "S\u0259rdahar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10d3\u10d0\u10f0\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "S\u0259rdahar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1327189533,
-    "wof:lastmodified":1537585346,
+    "wof:lastmodified":1564125833,
     "wof:name":"Sardakhar",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Qullar"
     ],
+    "name:ita_x_preferred":[
+        "Qullar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10e3\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u043b\u0430\u0440"
+    ],
     "name:und_x_variant":[
         "Kullar"
     ],
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1243432475,
-    "wof:lastmodified":1537585387,
+    "wof:lastmodified":1564126522,
     "wof:name":"Qullar",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

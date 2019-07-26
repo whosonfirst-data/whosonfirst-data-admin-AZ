@@ -25,11 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0639\u0644\u06cc \u0642\u0648\u0644\u0648\u0644\u0627\u0631"
+    ],
     "name:aze_x_preferred":[
         "\u018fliqulular"
     ],
     "name:aze_x_variant":[
         "Aliqulular"
+    ],
+    "name:ceb_x_preferred":[
+        "Alikulular"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fliqulular"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d8\u10e7\u10e3\u10da\u10e3\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fliqulular"
+    ],
+    "name:swe_x_preferred":[
+        "Alikulular"
     ],
     "name:und_x_variant":[
         "Alikular",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1293557597,
-    "wof:lastmodified":1537585281,
+    "wof:lastmodified":1564125958,
     "wof:name":"Alikulular",
     "wof:parent_id":85668365,
     "wof:placetype":"locality",

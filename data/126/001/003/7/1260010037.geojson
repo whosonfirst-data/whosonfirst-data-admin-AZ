@@ -41,8 +41,14 @@
         "Ghaybalishen",
         "\u0542\u0561\u0575\u0562\u0561\u056c\u056b\u0577\u0565\u0576"
     ],
+    "name:msa_x_preferred":[
+        "Qeybal\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u0439\u0431\u0430\u043b\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0435\u0439\u0431\u0430\u043b\u044b"
     ],
     "name:und_x_variant":[
         "Ghaibalou",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1260010037,
-    "wof:lastmodified":1537585300,
+    "wof:lastmodified":1564126277,
     "wof:name":"Qaybali",
     "wof:parent_id":85668643,
     "wof:placetype":"locality",

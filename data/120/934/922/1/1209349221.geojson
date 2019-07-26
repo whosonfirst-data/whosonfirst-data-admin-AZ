@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "\u00c7ubuqlu"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03c5\u03bc\u03c0\u03bf\u03c5\u03ba\u03bb\u03bf\u03cd"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7ubuqlu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e3\u10d1\u10e3\u10e5\u10da\u10e3"
+    ],
+    "name:lez_x_preferred":[
+        "\u0427\u0443\u0431\u0443\u043a\u044a\u043b\u0443"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7ubuqlu"
+    ],
     "name:und_x_variant":[
         "Chubukhly"
     ],
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1209349221,
-    "wof:lastmodified":1537585536,
+    "wof:lastmodified":1564126205,
     "wof:name":"Cubuqlu",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

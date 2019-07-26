@@ -25,6 +25,18 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Be\u015fd\u0259li"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10e8\u10d3\u10d0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Be\u015fd\u0259li"
+    ],
+    "name:nld_x_preferred":[
+        "Besdali"
+    ],
     "name:und_x_variant":[
         "Beshdali",
         "Beshdelli",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1193138301,
-    "wof:lastmodified":1537585475,
+    "wof:lastmodified":1564126242,
     "wof:name":"Beshdelli",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

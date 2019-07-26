@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Ordahal"
     ],
+    "name:ceb_x_preferred":[
+        "Ordahal"
+    ],
+    "name:ita_x_preferred":[
+        "Ordahal"
+    ],
+    "name:msa_x_preferred":[
+        "Ordahal"
+    ],
+    "name:swe_x_preferred":[
+        "Ordahal"
+    ],
     "name:und_x_variant":[
         "Ordagalya",
         "Ordakhal"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1243098485,
-    "wof:lastmodified":1537585167,
+    "wof:lastmodified":1564126440,
     "wof:name":"Ordahal",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

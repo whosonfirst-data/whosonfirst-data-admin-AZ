@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qarame\u015f\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "Karamesha"
+    ],
+    "name:ita_x_preferred":[
+        "Qarame\u015f\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10e0\u10d0\u10db\u10d4\u10e8\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Qarame\u015f\u0259"
+    ],
+    "name:swe_x_preferred":[
+        "Karamesha"
+    ],
     "name:und_x_variant":[
         "Qarame\u015f\u0259"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1343893967,
-    "wof:lastmodified":1537585413,
+    "wof:lastmodified":1564125914,
     "wof:name":"Karamesha",
     "wof:parent_id":85668557,
     "wof:placetype":"locality",

@@ -31,6 +31,15 @@
     "name:eng_x_preferred":[
         "Mall\u0131"
     ],
+    "name:ita_x_preferred":[
+        "Mall\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Mall\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043b\u043b\u044b\u0448\u044b\u0445\u043b\u044b"
     ],
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1226498891,
-    "wof:lastmodified":1537585375,
+    "wof:lastmodified":1564126634,
     "wof:name":"Malli Sixli",
     "wof:parent_id":85668357,
     "wof:placetype":"locality",

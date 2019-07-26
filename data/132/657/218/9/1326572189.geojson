@@ -29,7 +29,20 @@
         "Bo\u011fanis Ayr\u0131m"
     ],
     "name:aze_x_variant":[
-        "Ba\u011fan\u0131s Ayr\u0131m"
+        "Ba\u011fan\u0131s Ayr\u0131m",
+        "Ba\u011fanis Ayr\u0131m"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0572\u0561\u0576\u056b\u057d \u0531\u0575\u0580\u0578\u0582\u0574"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e6\u10d0\u10dc\u10d8\u10e1-\u10d0\u10d8\u10e0\u10e3\u10db\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Ba\u011fanis Ayrum"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0433\u0430\u043d\u0438\u0441-\u0410\u0439\u0440\u0443\u043c"
     ],
     "name:und_x_variant":[
         "Baganis Ayrum",
@@ -59,7 +72,7 @@
         }
     ],
     "wof:id":1326572189,
-    "wof:lastmodified":1537585481,
+    "wof:lastmodified":1564125780,
     "wof:name":"Baganis Ayrim",
     "wof:parent_id":85668229,
     "wof:placetype":"locality",

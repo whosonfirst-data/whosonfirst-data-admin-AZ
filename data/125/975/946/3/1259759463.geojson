@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "A\u011fba\u015f"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e6\u10d1\u10d0\u10e8\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u011fbash"
+    ],
     "name:und_x_variant":[
         "A\u011fbash",
         "Agbash"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1259759463,
-    "wof:lastmodified":1537585516,
+    "wof:lastmodified":1564126573,
     "wof:name":"Agbas",
     "wof:parent_id":85668425,
     "wof:placetype":"locality",

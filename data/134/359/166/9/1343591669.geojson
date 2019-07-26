@@ -25,6 +25,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0641\u0631\u0631\u0648\u062e"
+    ],
     "name:aze_x_preferred":[
         "F\u0259rux"
     ],
@@ -32,14 +35,32 @@
         "Farux",
         "F\u0259rrux"
     ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u0440\u0443\u0445"
+    ],
     "name:eng_x_preferred":[
         "Farux"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u062e"
+    ],
+    "name:fra_x_preferred":[
+        "Parukh"
     ],
     "name:hye_x_preferred":[
         "\u0556\u0561\u0580\u0578\u0582\u056d"
     ],
+    "name:ita_x_preferred":[
+        "Parukh"
+    ],
+    "name:msa_x_preferred":[
+        "Farux"
+    ],
     "name:rus_x_preferred":[
         "\u0424\u0430\u0440\u0443\u0445"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0443\u0445"
     ],
     "name:und_x_variant":[
         "Paroukh",
@@ -71,7 +92,7 @@
         }
     ],
     "wof:id":1343591669,
-    "wof:lastmodified":1537585511,
+    "wof:lastmodified":1564125881,
     "wof:name":"Farukh",
     "wof:parent_id":85668657,
     "wof:placetype":"locality",

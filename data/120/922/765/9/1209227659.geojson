@@ -28,6 +28,24 @@
     "name:aze_x_preferred":[
         "Mehrabl\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "Mehrabl\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "Mehrabl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10f0\u10e0\u10d0\u10d1\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Mehrabl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0445\u0440\u0430\u0431\u043b\u044b"
+    ],
+    "name:swe_x_preferred":[
+        "Mehrabl\u0131"
+    ],
     "name:und_x_variant":[
         "Mekhrably"
     ],
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1209227659,
-    "wof:lastmodified":1537585300,
+    "wof:lastmodified":1564126173,
     "wof:name":"Mehrabli",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

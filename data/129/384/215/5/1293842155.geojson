@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130kinci Udullu"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0130kinci Udullu"
+    ],
+    "name:ita_x_preferred":[
+        "\u0130kinci Udullu"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130kinci Udullu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0434\u0443\u043b\u043b\u0443 \u0412\u0442\u043e\u0440\u043e\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u0130kinci Udullu"
+    ],
     "name:und_x_variant":[
         "Dzhangyan-Udulu",
         "Udullu Vtoroye",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1293842155,
-    "wof:lastmodified":1537585322,
+    "wof:lastmodified":1564125972,
     "wof:name":"Ikinci Udullu",
     "wof:parent_id":85668293,
     "wof:placetype":"locality",

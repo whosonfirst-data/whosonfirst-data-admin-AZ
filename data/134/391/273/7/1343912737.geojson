@@ -25,6 +25,12 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u00fcneyp\u0259y\u0259"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00fcneyp\u0259y\u0259"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u044e\u043d\u0435\u0439\u043f\u0435\u044f"
     ],
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1343912737,
-    "wof:lastmodified":1537585430,
+    "wof:lastmodified":1564125836,
     "wof:name":"Gyuneypeya",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

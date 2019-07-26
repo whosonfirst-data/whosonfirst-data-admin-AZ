@@ -31,6 +31,15 @@
     "name:aze_x_variant":[
         "A\u011falarb\u0259yli"
     ],
+    "name:ita_x_preferred":[
+        "Agalarbeyli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d2\u10d0\u10da\u10d0\u10e0\u10d1\u10d4\u10d8\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Agalarbeyli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1260195879,
-    "wof:lastmodified":1537585501,
+    "wof:lastmodified":1564126285,
     "wof:name":"Agalarbeyli",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

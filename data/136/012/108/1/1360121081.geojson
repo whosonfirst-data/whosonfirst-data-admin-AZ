@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062c\u0646\u06af\u0647 \u0645\u06cc\u0631\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "C\u0259ng\u0259miran"
+    ],
+    "name:ceb_x_preferred":[
+        "Dzhango-Miran"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0646\u06af\u0647\u200c\u0645\u06cc\u0631\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "C\u0259ng\u0259miran"
+    ],
+    "name:msa_x_preferred":[
+        "C\u0259ng\u0259miran"
+    ],
+    "name:swe_x_preferred":[
+        "Dzhango-Miran"
+    ],
     "name:und_x_variant":[
         "Dzhangemiran",
         "Dzhango-Miran",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1360121081,
-    "wof:lastmodified":1537585244,
+    "wof:lastmodified":1564126374,
     "wof:name":"Dzhango-Miran",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

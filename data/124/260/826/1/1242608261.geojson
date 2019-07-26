@@ -25,13 +25,43 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062e\u0627\u0631\u062e\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
         "X\u0259rxan"
+    ],
+    "name:aze_x_variant":[
+        "Xarxan"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0435\u0440\u0445\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Kherkhan"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u062e\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Kherkhan"
     ],
     "name:hye_x_preferred":[
         "\u053d\u0565\u0580\u056d\u0561\u0576"
     ],
+    "name:ita_x_preferred":[
+        "Kherkhan"
+    ],
+    "name:msa_x_preferred":[
+        "X\u0259rxan"
+    ],
     "name:rus_x_preferred":[
+        "\u0425\u0435\u0440\u0445\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Kherkhan"
+    ],
+    "name:ukr_x_preferred":[
         "\u0425\u0435\u0440\u0445\u0430\u043d"
     ],
     "src:geom":"geonames",
@@ -58,7 +88,7 @@
         }
     ],
     "wof:id":1242608261,
-    "wof:lastmodified":1537585207,
+    "wof:lastmodified":1564126462,
     "wof:name":"Kherkhan",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

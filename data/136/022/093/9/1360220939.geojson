@@ -25,6 +25,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06a9\u06cc\u0631\u0648\u0648"
+    ],
     "name:aze_x_preferred":[
         "Kirov"
     ],
@@ -32,11 +35,35 @@
         "Qalad\u0259r\u0259si",
         "Ki\u00e7ik Qalad\u0259r\u0259si"
     ],
+    "name:bel_x_preferred":[
+        "\u0425\u0456\u043d\u0448\u044d\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Koynashen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0646\u0634\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Hinshen"
+    ],
     "name:hye_x_preferred":[
         "\u0540\u056b\u0576\u0577\u0565\u0576"
     ],
+    "name:ita_x_preferred":[
+        "Hinshen"
+    ],
+    "name:msa_x_preferred":[
+        "Kirov"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Koynashen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0456\u043d\u0448\u0435\u043d"
     ],
     "name:und_x_variant":[
         "Hinshen",
@@ -66,7 +93,7 @@
         }
     ],
     "wof:id":1360220939,
-    "wof:lastmodified":1537585202,
+    "wof:lastmodified":1564126381,
     "wof:name":"Koynashen",
     "wof:parent_id":85668643,
     "wof:placetype":"locality",

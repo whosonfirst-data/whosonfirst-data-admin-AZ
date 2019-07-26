@@ -28,6 +28,24 @@
     "name:aze_x_preferred":[
         "Ikinci S\u0259m\u0259dxanl\u0131"
     ],
+    "name:aze_x_variant":[
+        "\u0130kinci S\u0259m\u0259dxanl\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Samedkhanly Vtoroye"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03ba\u03b9\u03bd\u03c4\u03c3\u03af \u03a3\u03b5\u03bc\u03b5\u03bd\u03c4\u03c7\u03b1\u03bd\u03bb\u03af"
+    ],
+    "name:ita_x_preferred":[
+        "\u0130kinci S\u0259m\u0259dxanl\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130kinci S\u0259m\u0259dxanl\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Samedkhanly Vtoroye"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1343903727,
-    "wof:lastmodified":1537585525,
+    "wof:lastmodified":1564125850,
     "wof:name":"Samedkhanly Vtoroye",
     "wof:parent_id":85668397,
     "wof:placetype":"locality",

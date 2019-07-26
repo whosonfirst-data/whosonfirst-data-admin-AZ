@@ -31,6 +31,12 @@
     "name:hye_x_preferred":[
         "\u0532\u0561\u056c\u0575\u0561\u0576\u0564"
     ],
+    "name:min_x_preferred":[
+        "Balyand"
+    ],
+    "name:msa_x_preferred":[
+        "Balyand"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u044f\u043d\u0434"
     ],
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1276414067,
-    "wof:lastmodified":1537585266,
+    "wof:lastmodified":1564126105,
     "wof:name":"Balyand",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

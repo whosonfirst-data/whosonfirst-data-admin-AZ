@@ -34,6 +34,15 @@
     "name:hye_x_variant":[
         "\u0533\u0565\u057b\u0561\u0584\u0575\u0578\u0566\u056c\u0578\u0582"
     ],
+    "name:ita_x_preferred":[
+        "Gec\u0259g\u00f6zl\u00fc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d4\u10ef\u10d0\u10d2\u10d8\u10dd\u10d6\u10da\u10d8\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "Gec\u0259g\u00f6zl\u00fc"
+    ],
     "name:rus_x_preferred":[
         "Gedzhag\u00ebzlyu"
     ],
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1276846373,
-    "wof:lastmodified":1537585236,
+    "wof:lastmodified":1564126108,
     "wof:name":"Gedzhagozlu",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015ein"
+    ],
+    "name:ceb_x_preferred":[
+        "\u015ein"
+    ],
+    "name:ita_x_preferred":[
+        "\u015ein"
+    ],
+    "name:msa_x_preferred":[
+        "\u015ein"
+    ],
+    "name:swe_x_preferred":[
+        "\u015ein"
+    ],
+    "name:tur_x_preferred":[
+        "\u015ein"
+    ],
     "name:und_x_variant":[
         "Shin",
         "\u015ein"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1310537283,
-    "wof:lastmodified":1537585338,
+    "wof:lastmodified":1564126323,
     "wof:name":"Sin",
     "wof:parent_id":85668565,
     "wof:placetype":"locality",

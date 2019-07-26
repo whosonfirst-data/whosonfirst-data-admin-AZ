@@ -25,6 +25,12 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Gomu\u015f\u00e7u"
+    ],
+    "name:msa_x_preferred":[
+        "Gomu\u015f\u00e7u"
+    ],
     "name:und_x_variant":[
         "Tomushi",
         "Gomushchu",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1210053471,
-    "wof:lastmodified":1537585433,
+    "wof:lastmodified":1564126233,
     "wof:name":"Gomuscu",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

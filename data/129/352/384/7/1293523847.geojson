@@ -31,6 +31,12 @@
     "name:aze_x_variant":[
         "Bollyd\u0259r\u0259"
     ],
+    "name:ita_x_preferred":[
+        "Bollud\u0259r\u0259"
+    ],
+    "name:msa_x_preferred":[
+        "Bollud\u0259r\u0259"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1293523847,
-    "wof:lastmodified":1537585514,
+    "wof:lastmodified":1564125957,
     "wof:name":"Bolludere",
     "wof:parent_id":85668565,
     "wof:placetype":"locality",

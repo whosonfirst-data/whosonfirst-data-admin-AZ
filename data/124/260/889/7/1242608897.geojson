@@ -25,11 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0622\u0634\u0627\u063a\u06cc \u0642\u0648\u0634\u0686\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 Qu\u015f\u00e7u"
+    ],
+    "name:ceb_x_preferred":[
+        "Ash-Kushchu"
+    ],
     "name:eng_x_preferred":[
+        "A\u015fa\u011f\u0131 Qu\u015f\u00e7u"
+    ],
+    "name:ita_x_preferred":[
+        "A\u015fa\u011f\u0131 Qu\u015f\u00e7u"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10d0\u10e6\u10d8-\u10e5\u10e3\u10e8\u10e9\u10e3"
+    ],
+    "name:msa_x_preferred":[
         "A\u015fa\u011f\u0131 Qu\u015f\u00e7u"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0448\u0430\u0433\u044b \u041a\u0443\u0448\u0447\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Ash-Kushchu"
     ],
     "name:und_x_variant":[
         "Ashagy-Kushchu-Kyrykly",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1242608897,
-    "wof:lastmodified":1537585486,
+    "wof:lastmodified":1564126462,
     "wof:name":"Ash-Kushchu",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062c\u0646\u06af\u0646\u0648\u0648\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "C\u0259ng\u0259n\u0259vud"
+    ],
+    "name:ceb_x_preferred":[
+        "Dzhangonavut"
+    ],
+    "name:ita_x_preferred":[
+        "C\u0259ng\u0259n\u0259vud"
+    ],
+    "name:msa_x_preferred":[
+        "C\u0259ng\u0259n\u0259vud"
+    ],
+    "name:swe_x_preferred":[
+        "Dzhangonavut"
+    ],
     "name:und_x_variant":[
         "Dzhanganavud",
         "Dzhangonavut",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1276159117,
-    "wof:lastmodified":1537585244,
+    "wof:lastmodified":1564126104,
     "wof:name":"Dzhangonavut",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

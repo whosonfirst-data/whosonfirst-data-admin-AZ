@@ -28,14 +28,26 @@
     "name:aze_x_preferred":[
         "Buruc"
     ],
+    "name:ceb_x_preferred":[
+        "Buruc"
+    ],
     "name:hye_x_preferred":[
         "Buruj"
     ],
     "name:hye_x_variant":[
         "\u0532\u0578\u0582\u0580\u0578\u0582\u057b"
     ],
+    "name:ita_x_preferred":[
+        "Buruc"
+    ],
+    "name:msa_x_preferred":[
+        "Buruc"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0440\u0443\u0434\u0436"
+    ],
+    "name:swe_x_preferred":[
+        "Buruc"
     ],
     "name:und_x_variant":[
         "Burudzh"
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":1327462485,
-    "wof:lastmodified":1537585470,
+    "wof:lastmodified":1564125790,
     "wof:name":"Buruc",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

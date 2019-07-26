@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015eaml\u0131q"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bc\u03bb\u03af\u03ba"
+    ],
+    "name:ita_x_preferred":[
+        "\u015eaml\u0131q"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10db\u10da\u10d8\u10ee\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u015eaml\u0131q"
+    ],
     "name:und_x_variant":[
         "Shamlykh",
         "\u015eaml\u0131q"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1259619969,
-    "wof:lastmodified":1537585340,
+    "wof:lastmodified":1564126550,
     "wof:name":"Samliq",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

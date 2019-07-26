@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "\u0130manl\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "\u0130manl\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "\u0130manl\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130manl\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "\u0130manl\u0131"
+    ],
     "name:und_x_variant":[
         "Imanly"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1344003643,
-    "wof:lastmodified":1537585228,
+    "wof:lastmodified":1564125862,
     "wof:name":"Imanli",
     "wof:parent_id":85668397,
     "wof:placetype":"locality",

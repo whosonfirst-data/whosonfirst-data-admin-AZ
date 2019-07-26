@@ -25,8 +25,14 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0647\u0645\u0632\u0647\u200c\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "H\u0259mz\u0259li"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0435\u0442\u0430\u043c\u0435\u0434\u0436"
     ],
     "name:hye_x_preferred":[
         "Getamej"
@@ -34,8 +40,17 @@
     "name:hye_x_variant":[
         "\u0533\u0565\u057f\u0561\u0574\u0565\u057b"
     ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10db\u10d6\u10d0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "H\u0259mz\u0259li"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u043c\u0437\u0430\u043b\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0435\u0442\u0430\u043c\u0435\u0434\u0436"
     ],
     "name:und_x_variant":[
         "Gamzali",
@@ -65,7 +80,7 @@
         }
     ],
     "wof:id":1259614209,
-    "wof:lastmodified":1537585238,
+    "wof:lastmodified":1564126552,
     "wof:name":"Gamzaly",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

@@ -32,6 +32,18 @@
         "Mucuq",
         "Mucu\u011foba"
     ],
+    "name:ita_x_preferred":[
+        "Mucuqoba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10ef\u10e3\u10d2\u10dd\u10d1\u10d0"
+    ],
+    "name:lez_x_preferred":[
+        "\u041c\u0443\u0447\u0443\u0433\u044a\u0443\u0431\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Mucuqoba"
+    ],
     "name:und_x_variant":[
         "Mudzhuk"
     ],
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1259517729,
-    "wof:lastmodified":1537585514,
+    "wof:lastmodified":1564126562,
     "wof:name":"Mucugoba",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

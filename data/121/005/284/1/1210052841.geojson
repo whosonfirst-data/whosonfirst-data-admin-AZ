@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "A\u011fq\u0131\u015flaq"
     ],
+    "name:ceb_x_preferred":[
+        "A\u011fq\u0131\u015flaq"
+    ],
+    "name:ita_x_preferred":[
+        "A\u011fq\u0131\u015flaq"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e6\u10e5\u10d8\u10e8\u10da\u10d0\u10e5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u011fq\u0131\u015flaq"
+    ],
+    "name:swe_x_preferred":[
+        "A\u011fq\u0131\u015flaq"
+    ],
     "name:und_x_variant":[
         "Ag-Kishlag",
         "Agkyshlak"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1210052841,
-    "wof:lastmodified":1537585285,
+    "wof:lastmodified":1564126233,
     "wof:name":"Agqislaq",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

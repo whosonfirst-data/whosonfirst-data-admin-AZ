@@ -31,6 +31,21 @@
     "name:aze_x_variant":[
         "\u0130manverdili"
     ],
+    "name:ceb_x_preferred":[
+        "\u0130manverdili"
+    ],
+    "name:ita_x_preferred":[
+        "\u0130mamverdili"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10db\u10d0\u10db\u10d5\u10d4\u10e0\u10d3\u10d8\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130mamverdili"
+    ],
+    "name:swe_x_preferred":[
+        "\u0130manverdili"
+    ],
     "name:und_x_variant":[
         "Birinci \u0130mamverdili",
         "Imash-Verdylyar",
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1343239241,
-    "wof:lastmodified":1537585229,
+    "wof:lastmodified":1564125870,
     "wof:name":"Imamverdili",
     "wof:parent_id":85668313,
     "wof:placetype":"locality",

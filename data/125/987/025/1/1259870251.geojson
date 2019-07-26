@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Qanqala\u015f"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bd\u03ba\u03b1\u03bb\u03ac\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Qanqala\u015f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10dc\u10d2\u10d0\u10da\u10d0\u10e8\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qanqala\u015f"
+    ],
     "name:und_x_variant":[
         "Gangalash"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1259870251,
-    "wof:lastmodified":1537585527,
+    "wof:lastmodified":1564126563,
     "wof:name":"Qanqalas",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

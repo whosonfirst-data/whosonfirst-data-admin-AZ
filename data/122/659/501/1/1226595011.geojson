@@ -28,16 +28,32 @@
     "name:aze_x_preferred":[
         "\u018frikli"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u0440\u0430\u0445\u0456\u0448"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0627\u062e\u06cc\u0634"
+    ],
     "name:hye_x_preferred":[
         "Arik\u2019li"
     ],
     "name:hye_x_variant":[
         "\u0531\u0580\u056b\u0584\u056c\u056b",
         "Zorakhach\u2019",
-        "\u0536\u0578\u0580\u0561\u056d\u0561\u0579"
+        "\u0536\u0578\u0580\u0561\u056d\u0561\u0579",
+        "\u0531\u0580\u0561\u056d\u056b\u0577"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d8\u10e5\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018frikli"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0438\u043a\u043b\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0430\u0445\u0456\u0448"
     ],
     "name:und_x_variant":[
         "Arikli"
@@ -66,7 +82,7 @@
         }
     ],
     "wof:id":1226595011,
-    "wof:lastmodified":1537585277,
+    "wof:lastmodified":1564126603,
     "wof:name":"Erikli",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

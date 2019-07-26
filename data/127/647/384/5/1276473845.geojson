@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Toxmar"
     ],
+    "name:aze_x_variant":[
+        "T\u0259hm\u0259r"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c7\u03bc\u03ac\u03c1"
+    ],
+    "name:ita_x_preferred":[
+        "Toxmar"
+    ],
+    "name:msa_x_preferred":[
+        "Toxmar"
+    ],
     "name:und_x_variant":[
         "Tokhmar"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1276473845,
-    "wof:lastmodified":1537585542,
+    "wof:lastmodified":1564126097,
     "wof:name":"Toxmar",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

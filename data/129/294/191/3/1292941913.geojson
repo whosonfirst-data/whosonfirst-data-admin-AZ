@@ -25,11 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 Qarxun"
+    ],
+    "name:ceb_x_preferred":[
+        "A\u015fa\u011f\u0131 Qarxun"
+    ],
     "name:eng_x_preferred":[
+        "A\u015fa\u011f\u0131 Qarxun"
+    ],
+    "name:ita_x_preferred":[
+        "A\u015fa\u011f\u0131 Qarxun"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10d0\u10e6\u10d8-\u10e7\u10d0\u10e0\u10ee\u10e3\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "A\u015fa\u011f\u0131 Qarxun"
     ],
     "name:rus_x_preferred":[
         "\u042e\u0445\u0430\u0440\u044b-\u041a\u0430\u0440\u0445\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "A\u015fa\u011f\u0131 Qarxun"
     ],
     "name:und_x_variant":[
         "Ashagy Karakhun",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1292941913,
-    "wof:lastmodified":1537585487,
+    "wof:lastmodified":1564125963,
     "wof:name":"Asagi Qarxun",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

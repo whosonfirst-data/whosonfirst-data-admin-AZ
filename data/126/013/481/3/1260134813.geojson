@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "A\u011fda\u015f"
     ],
+    "name:aze_x_variant":[
+        "Xa\u00e7k\u0259nd"
+    ],
+    "name:msa_x_preferred":[
+        "Khachkend"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0433\u0434\u0430\u0448"
     ],
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1260134813,
-    "wof:lastmodified":1537585402,
+    "wof:lastmodified":1564126267,
     "wof:name":"Agdas",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

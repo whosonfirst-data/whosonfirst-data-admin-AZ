@@ -35,11 +35,26 @@
     "name:aze_x_preferred":[
         "\u018flinc\u0259"
     ],
+    "name:hye_x_preferred":[
+        "\u0535\u0580\u0576\u057b\u0561\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "\u018flinc\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da\u10d8\u10dc\u10ef\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Alinja"
+    ],
     "name:tur_x_historical":[
         "Elince"
     ],
     "name:tur_x_preferred":[
         "Elince"
+    ],
+    "name:tur_x_variant":[
+        "\u018flinc\u0259"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +79,7 @@
         }
     ],
     "wof:id":1310150569,
-    "wof:lastmodified":1537585527,
+    "wof:lastmodified":1564126307,
     "wof:name":"Alinja",
     "wof:parent_id":85668677,
     "wof:placetype":"locality",

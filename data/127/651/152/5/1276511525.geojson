@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qarasu\u00e7u"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b1\u03c3\u03bf\u03c5\u03c4\u03c3\u03bf\u03cd"
+    ],
+    "name:ita_x_preferred":[
+        "Qarasu\u00e7u"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10e0\u10d0\u10e1\u10e3\u10e9\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "Qarasu\u00e7u"
+    ],
     "name:und_x_variant":[
         "Karasuchu",
         "Karasuchilar",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1276511525,
-    "wof:lastmodified":1537585412,
+    "wof:lastmodified":1564126068,
     "wof:name":"Qarasucu",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

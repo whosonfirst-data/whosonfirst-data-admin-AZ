@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Qardili"
     ],
+    "name:ita_x_preferred":[
+        "Qardili"
+    ],
+    "name:msa_x_preferred":[
+        "Qardili"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276905469,
-    "wof:lastmodified":1537585528,
+    "wof:lastmodified":1564126114,
     "wof:name":"Qardili",
     "wof:parent_id":85668449,
     "wof:placetype":"locality",

@@ -31,6 +31,12 @@
     "name:hye_x_preferred":[
         "\u054a\u0561\u057a\u0568"
     ],
+    "name:min_x_preferred":[
+        "Pap\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Pap\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043f\u044b"
     ],
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1277059805,
-    "wof:lastmodified":1537585166,
+    "wof:lastmodified":1564126087,
     "wof:name":"Papi",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

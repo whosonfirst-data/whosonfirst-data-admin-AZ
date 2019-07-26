@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 Malax"
+    ],
+    "name:ceb_x_preferred":[
+        "A\u015fa\u011f\u0131 Malax"
+    ],
+    "name:ita_x_preferred":[
+        "A\u015fa\u011f\u0131 Malax"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10d0\u10e6\u10d8-\u10db\u10d0\u10da\u10d0\u10ee\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fa\u011f\u0131 Malax"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0448\u0430\u0433\u044b-\u041c\u0430\u043b\u0430\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "A\u015fa\u011f\u0131 Malax"
+    ],
     "name:und_x_variant":[
         "Ashaga Malakh",
         "A\u015fa\u011f\u0131 Malax",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1242613519,
-    "wof:lastmodified":1537585489,
+    "wof:lastmodified":1564126459,
     "wof:name":"Asagi Malax",
     "wof:parent_id":85668557,
     "wof:placetype":"locality",

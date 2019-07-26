@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06a9\u0686\u0644 \u06a9\u0631\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Ke\u00e7\u0259l\u0259k\u0259ran"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0686\u0644\u200c\u06a9\u0631\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Ke\u00e7\u0259l\u0259k\u0259ran"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d4\u10e9\u10d0\u10da\u10d0\u10e5\u10d4\u10e0\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Ke\u00e7\u0259l\u0259k\u0259ran"
+    ],
+    "name:tur_x_preferred":[
+        "Ke\u00e7elekeran"
+    ],
     "name:und_x_variant":[
         "Ke\u00e7\u0259l\u0259k\u0259ran",
         "Kechalyakeran"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1260014021,
-    "wof:lastmodified":1537585303,
+    "wof:lastmodified":1564126278,
     "wof:name":"Kechalyakeran",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
         "Yeghjerunik",
         "\u0535\u0572\u057b\u0565\u0580\u0578\u0582\u0576\u056b\u056f"
     ],
+    "name:msa_x_preferred":[
+        "Ke\u00e7iliqaya"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u0447\u0438\u043b\u0438\u043a\u0430\u044f"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1225899255,
-    "wof:lastmodified":1537585406,
+    "wof:lastmodified":1564126617,
     "wof:name":"Keciliqaya",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

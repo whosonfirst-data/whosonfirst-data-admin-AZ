@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Molla Ayr\u0131m"
     ],
+    "name:ceb_x_preferred":[
+        "Mollaayr\u0131m"
+    ],
+    "name:ita_x_preferred":[
+        "Mollaayr\u0131m"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10da\u10d0-\u10d0\u10d8\u10e0\u10d8\u10db\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Mollaayr\u0131m"
+    ],
+    "name:swe_x_preferred":[
+        "Mollaayr\u0131m"
+    ],
     "name:und_x_variant":[
         "Mollaayrum",
         "Mollaayr\u0131m"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1343296039,
-    "wof:lastmodified":1537585368,
+    "wof:lastmodified":1564125910,
     "wof:name":"Mollaayrim",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

@@ -30,6 +30,24 @@
     "name:aze_x_preferred":[
         "Yuxar\u0131 Q\u0131\u015flaq"
     ],
+    "name:ceb_x_preferred":[
+        "Yuxar\u0131 Q\u0131\u015flaq"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0584\u0578\u0575\u0584\u0561\u0575"
+    ],
+    "name:ita_x_preferred":[
+        "Yuxar\u0131 Q\u0131\u015flaq"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e3\u10ee\u10d0\u10e0\u10d8-\u10e5\u10d8\u10e8\u10da\u10d0\u10d2\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Yuxar\u0131 Q\u0131\u015flaq"
+    ],
+    "name:swe_x_preferred":[
+        "Yuxar\u0131 Q\u0131\u015flaq"
+    ],
     "name:und_x_variant":[
         "Magara-Kishlag",
         "Yukhary Kyshlak"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1293041445,
-    "wof:lastmodified":1537585128,
+    "wof:lastmodified":1564126000,
     "wof:name":"Yuxari Qislaq",
     "wof:parent_id":85668683,
     "wof:placetype":"locality",

@@ -29,6 +29,21 @@
     "name:aze_x_preferred":[
         "Tumbul"
     ],
+    "name:ceb_x_preferred":[
+        "Tumbul"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u0574\u0562\u0561\u057f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10e3\u10db\u10d1\u10e3\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Tumbul"
+    ],
+    "name:swe_x_preferred":[
+        "Tumbul"
+    ],
     "name:und_x_variant":[
         "Tombul"
     ],
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1193081671,
-    "wof:lastmodified":1537585138,
+    "wof:lastmodified":1564126237,
     "wof:name":"Tumbul",
     "wof:parent_id":85668673,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mirz\u0259m\u0259mm\u0259dk\u0259nd"
+    ],
+    "name:ceb_x_preferred":[
+        "Mirzamamedkend"
+    ],
+    "name:ita_x_preferred":[
+        "Mirz\u0259m\u0259mm\u0259dk\u0259nd"
+    ],
+    "name:msa_x_preferred":[
+        "Mirz\u0259m\u0259mm\u0259dk\u0259nd"
+    ],
+    "name:swe_x_preferred":[
+        "Mirzamamedkend"
+    ],
     "name:und_x_variant":[
         "Mirz\u0259m\u0259mm\u0259dk\u0259nd"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1226476279,
-    "wof:lastmodified":1537585369,
+    "wof:lastmodified":1564126638,
     "wof:name":"Mirzamamedkend",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

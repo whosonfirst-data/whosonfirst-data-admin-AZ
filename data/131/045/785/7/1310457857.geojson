@@ -25,8 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062d\u0627\u062c\u06cc\u200c\u0631\u0633\u062a\u0645\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Hac\u0131r\u00fcst\u0259mli"
+    ],
+    "name:ceb_x_preferred":[
+        "Suvorovka"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u062c\u06cc\u200c\u0631\u0633\u062a\u0645\u200c\u0644\u06cc"
+    ],
+    "name:ita_x_preferred":[
+        "Hac\u0131r\u00fcst\u0259mli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10ef\u10d8\u10e0\u10d8\u10e3\u10e1\u10d7\u10d0\u10db\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Hac\u0131r\u00fcst\u0259mli"
+    ],
+    "name:swe_x_preferred":[
+        "Suvorovka"
     ],
     "name:und_x_variant":[
         "Frunze",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1310457857,
-    "wof:lastmodified":1537585144,
+    "wof:lastmodified":1564126338,
     "wof:name":"Suvorovka",
     "wof:parent_id":85668365,
     "wof:placetype":"locality",

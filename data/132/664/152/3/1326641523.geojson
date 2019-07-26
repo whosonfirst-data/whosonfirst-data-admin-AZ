@@ -31,6 +31,15 @@
     "name:hye_x_preferred":[
         "\u0531\u056d\u057a\u0565\u0580\u056f\u0561\u0576"
     ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10e0\u10d8\u10e5\u10d0\u10e5\u10d0\u10da\u10d4\u10e0\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Vrikakaler"
+    ],
+    "name:msa_x_preferred":[
+        "Vrikakaler"
+    ],
     "name:und_x_variant":[
         "Vrikakaler",
         "Akhperkan"
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1326641523,
-    "wof:lastmodified":1537585507,
+    "wof:lastmodified":1564125811,
     "wof:name":"Axperkan",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

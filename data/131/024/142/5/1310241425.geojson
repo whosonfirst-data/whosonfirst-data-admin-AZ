@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "V\u0259lv\u0259l\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "V\u0259lv\u0259l\u0259"
+    ],
+    "name:ita_x_preferred":[
+        "V\u0259lv\u0259l\u0259"
+    ],
+    "name:msa_x_preferred":[
+        "V\u0259lv\u0259l\u0259"
+    ],
+    "name:swe_x_preferred":[
+        "V\u0259lv\u0259l\u0259"
+    ],
     "name:und_x_variant":[
         "Vel\u2019veli",
         "V\u0259lv\u0259l\u0259"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1310241425,
-    "wof:lastmodified":1537585509,
+    "wof:lastmodified":1564126303,
     "wof:name":"Valvala",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

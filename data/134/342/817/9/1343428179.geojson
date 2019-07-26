@@ -25,11 +25,38 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kils\u0259k\u0259nd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0627\u0634\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Srashen"
+    ],
     "name:hye_x_preferred":[
         "Srashen"
     ],
     "name:hye_x_variant":[
         "\u054d\u0580\u0561\u0577\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Srashen"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e0\u10d0\u10e8\u10d4\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Srashen"
+    ],
+    "name:sco_x_preferred":[
+        "Srashen"
+    ],
+    "name:spa_x_preferred":[
+        "Srashen"
+    ],
+    "name:vie_x_preferred":[
+        "Srashen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1343428179,
-    "wof:lastmodified":1537585538,
+    "wof:lastmodified":1564125913,
     "wof:name":"Srashen",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

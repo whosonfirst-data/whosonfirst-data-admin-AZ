@@ -25,8 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0635\u063a\u0631\u0627\u0628\u0627\u062f"
+    ],
     "name:aze_x_preferred":[
         "\u018fskarabad"
+    ],
+    "name:aze_x_variant":[
+        "\u018fsg\u0259rabad"
+    ],
+    "name:ceb_x_preferred":[
+        "Askerabad"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0635\u063a\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fsg\u0259rabad"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e1\u10d2\u10d0\u10e0\u10d0\u10d1\u10d0\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fsg\u0259rabad"
+    ],
+    "name:swe_x_preferred":[
+        "Askerabad"
     ],
     "name:und_x_variant":[
         "\u00c4sk\u00e4rabad",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1327413061,
-    "wof:lastmodified":1537585271,
+    "wof:lastmodified":1564125792,
     "wof:name":"Askerabad",
     "wof:parent_id":85668317,
     "wof:placetype":"locality",

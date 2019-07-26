@@ -25,11 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0645\u0627\u0645 \u0628\u0627\u063a\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Imambagi"
     ],
     "name:aze_x_variant":[
-        "Imamba\u011f\u0131"
+        "Imamba\u011f\u0131",
+        "\u0130mamba\u011f\u0131"
+    ],
+    "name:min_x_preferred":[
+        "\u0130mamba\u011f\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130mamba\u011f\u0131"
     ],
     "name:rus_x_preferred":[
         "\u0418\u043c\u0430\u043c\u0431\u0430\u0433\u0438"
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":1277046425,
-    "wof:lastmodified":1537585229,
+    "wof:lastmodified":1564126089,
     "wof:name":"Imambagi",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

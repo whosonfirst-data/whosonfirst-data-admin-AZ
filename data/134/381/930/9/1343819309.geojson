@@ -25,8 +25,14 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u0644\u06cc \u0628\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Mal\u0131b\u0259y"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0435\u043b\u0456\u043a\u0430\u0448\u044d\u043d"
     ],
     "name:hye_x_preferred":[
         "Malhalaf"
@@ -36,8 +42,17 @@
         "Melik\u2019ashen",
         "\u0544\u0565\u056c\u056b\u0584\u0561\u0577\u0565\u0576"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10da\u10d8\u10d1\u10d4\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Mal\u0131b\u0259y"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043b\u044b\u0431\u0435\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043b\u0456\u043a\u0430\u0448\u0435\u043d"
     ],
     "name:und_x_variant":[
         "\u041c\u0430\u043b\u044b\u0431\u0435\u0439"
@@ -66,7 +81,7 @@
         }
     ],
     "wof:id":1343819309,
-    "wof:lastmodified":1537585187,
+    "wof:lastmodified":1564125920,
     "wof:name":"Malybey",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

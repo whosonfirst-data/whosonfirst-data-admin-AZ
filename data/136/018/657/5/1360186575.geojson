@@ -25,6 +25,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u0644\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "\u015eelli"
     ],
@@ -35,6 +38,15 @@
         "\u0548\u0582\u056d\u057f\u0561\u057d\u0561\u0580",
         "Ughtasar",
         "\u0548\u0582\u0572\u057f\u0561\u057d\u0561\u0580"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d4\u10da\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "\u015eelli"
+    ],
+    "name:msa_x_preferred":[
+        "\u015eelli"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0435\u043b\u043b\u0438"
@@ -68,7 +80,7 @@
         }
     ],
     "wof:id":1360186575,
-    "wof:lastmodified":1537585152,
+    "wof:lastmodified":1564126387,
     "wof:name":"Selli",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

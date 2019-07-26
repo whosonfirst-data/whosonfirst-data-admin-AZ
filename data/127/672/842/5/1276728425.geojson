@@ -35,6 +35,15 @@
     "name:hye_x_preferred":[
         "\u0533\u0578\u057e\u0577\u0561\u057f\u056c\u0568"
     ],
+    "name:ita_x_preferred":[
+        "Gov\u015fatl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10d5\u10e8\u10d0\u10e2\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Gov\u015fatl\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u0432\u0448\u0430\u0442\u043b\u044b"
     ],
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":1276728425,
-    "wof:lastmodified":1537585232,
+    "wof:lastmodified":1564126048,
     "wof:name":"Govshatly",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

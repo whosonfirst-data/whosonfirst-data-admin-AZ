@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "\u015e\u0259ki"
     ],
+    "name:bel_x_preferred":[
+        "\u0428\u044d\u043a\u0456"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u043a\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eeki"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1310041999,
-    "wof:lastmodified":1537585540,
+    "wof:lastmodified":1564126356,
     "wof:name":"Sheki",
     "wof:parent_id":85668565,
     "wof:placetype":"locality",

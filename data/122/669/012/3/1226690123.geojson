@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "S\u00fcbh"
     ],
+    "name:msa_x_preferred":[
+        "S\u00fcbh"
+    ],
     "name:rus_x_preferred":[
         "Ust\u2019ye Kury"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226690123,
-    "wof:lastmodified":1537585136,
+    "wof:lastmodified":1564126597,
     "wof:name":"Syubkh",
     "wof:parent_id":85668409,
     "wof:placetype":"locality",

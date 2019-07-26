@@ -28,6 +28,24 @@
     "name:aze_x_preferred":[
         "Ballar"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0430\u0440"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Ballar"
+    ],
+    "name:msa_x_preferred":[
+        "Ballar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0430\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "Ballar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1344264575,
-    "wof:lastmodified":1537585479,
+    "wof:lastmodified":1564125899,
     "wof:name":"Ballar",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

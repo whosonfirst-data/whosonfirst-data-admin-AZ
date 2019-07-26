@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Ki\u00e7ikli"
     ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d8\u10e9\u10d8\u10e5\u10da\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Ki\u00e7ikli"
+    ],
+    "name:msa_x_preferred":[
+        "Ki\u00e7ikli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0447\u0438\u043a\u043b\u0438"
+    ],
     "name:und_x_variant":[
         "Kichikli"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1259691441,
-    "wof:lastmodified":1537585531,
+    "wof:lastmodified":1564126559,
     "wof:name":"Kicikli",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

@@ -31,6 +31,12 @@
     "name:aze_x_variant":[
         "Fioletovka"
     ],
+    "name:ceb_x_preferred":[
+        "Cayli"
+    ],
+    "name:swe_x_preferred":[
+        "Cayli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1226418937,
-    "wof:lastmodified":1537585240,
+    "wof:lastmodified":1564126647,
     "wof:name":"Cayli",
     "wof:parent_id":85668317,
     "wof:placetype":"locality",

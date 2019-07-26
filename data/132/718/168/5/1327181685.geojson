@@ -34,6 +34,12 @@
     "name:hye_x_variant":[
         "\u053f\u0561\u0580\u0574\u0580\u0561\u0577\u0565\u0576"
     ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10dd\u10d5\u10e3\u10e8\u10e3\u10ee\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qovu\u015fuq"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0432\u0443\u0448\u0443\u043a"
     ],
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1327181685,
-    "wof:lastmodified":1537585199,
+    "wof:lastmodified":1564125833,
     "wof:name":"Qovusuq",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

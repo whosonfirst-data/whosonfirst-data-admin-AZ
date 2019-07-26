@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "H\u0259m\u0259nli"
     ],
+    "name:aze_x_variant":[
+        "Qarandi"
+    ],
+    "name:ita_x_preferred":[
+        "Garandy"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10e0\u10d0\u10dc\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Garandy"
+    ],
     "name:und_x_variant":[
         "Gamanly"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1326804477,
-    "wof:lastmodified":1537585506,
+    "wof:lastmodified":1564125761,
     "wof:name":"Garandy",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

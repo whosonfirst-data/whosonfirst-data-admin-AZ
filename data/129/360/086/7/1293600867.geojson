@@ -37,6 +37,12 @@
     "name:hye_x_variant":[
         "\u0554\u0578\u057d\u0561\u056c\u0561\u0580"
     ],
+    "name:ita_x_preferred":[
+        "Kosalar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10dd\u10e1\u10d0\u10da\u10d0\u10e0\u10d8"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0441\u0430\u043b\u0430\u0440"
     ],
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1293600867,
-    "wof:lastmodified":1537585390,
+    "wof:lastmodified":1564126011,
     "wof:name":"Kosalar",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

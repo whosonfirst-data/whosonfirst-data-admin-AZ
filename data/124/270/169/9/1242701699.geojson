@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Qara\u011fan Saatl\u0131"
     ],
+    "name:ita_x_preferred":[
+        "Qaraqan Saatl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10e0\u10d0\u10e6\u10d0\u10dc-\u10e1\u10d0\u10d0\u10d7\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qaraqan Saatl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0433\u0430\u043d \u0421\u0430\u0430\u0442\u043b\u044b"
+    ],
     "name:und_x_variant":[
         "Karagan Saatly",
         "Karagansaat",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1242701699,
-    "wof:lastmodified":1537585416,
+    "wof:lastmodified":1564126491,
     "wof:name":"Qaraqan Saatli",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

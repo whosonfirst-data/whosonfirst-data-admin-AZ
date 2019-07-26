@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Seidli"
     ],
+    "name:aze_x_variant":[
+        "Seyidli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10d8\u10d3\u10da\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Seyidli"
+    ],
+    "name:msa_x_preferred":[
+        "Seyidli"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0438\u0434\u043b\u0438"
     ],
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1209426443,
-    "wof:lastmodified":1537585343,
+    "wof:lastmodified":1564126217,
     "wof:name":"Seidli",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

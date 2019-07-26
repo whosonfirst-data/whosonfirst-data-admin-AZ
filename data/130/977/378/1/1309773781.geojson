@@ -25,6 +25,18 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Mulux"
+    ],
+    "name:ita_x_preferred":[
+        "Mulux"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10da\u10e3\u10ee\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Mulux"
+    ],
     "name:und_x_variant":[
         "Mulukh",
         "Mulux"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1309773781,
-    "wof:lastmodified":1537585366,
+    "wof:lastmodified":1564126407,
     "wof:name":"Mulux",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

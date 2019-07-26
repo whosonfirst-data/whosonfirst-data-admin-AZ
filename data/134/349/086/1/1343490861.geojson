@@ -25,11 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0632\u0646\u06af\u0646\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Z\u0259ng\u0259n\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "Zangyana"
+    ],
     "name:eng_x_preferred":[
         "Z\u01ddng\u01ddn\u01dd"
     ],
+    "name:ita_x_preferred":[
+        "Z\u0259ng\u0259n\u0259"
+    ],
+    "name:msa_x_preferred":[
+        "Z\u0259ng\u0259n\u0259"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u043d\u0433\u044f\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Zangyana"
     ],
     "name:und_x_variant":[
         "Zangene",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1343490861,
-    "wof:lastmodified":1537585308,
+    "wof:lastmodified":1564125877,
     "wof:name":"Zangyana",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "name:hye_x_variant":[
         "\u0554\u0561\u0580\u0561\u056d\u0561\u0579"
     ],
+    "name:msa_x_preferred":[
+        "Mollabayraml\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0438-\u0411\u0430\u0439\u0440\u0430\u043c\u043b\u044b"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1193233163,
-    "wof:lastmodified":1537585282,
+    "wof:lastmodified":1564126241,
     "wof:name":"Mollabayramli",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

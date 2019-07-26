@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "C\u00fcv\u0259"
     ],
+    "name:ita_x_preferred":[
+        "C\u00fcv\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10e3\u10d5\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "C\u00fcv\u0259"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0443\u0432\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "C\u00fcve"
+    ],
     "name:und_x_variant":[
         "Cuv\u0259"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1310129971,
-    "wof:lastmodified":1537585447,
+    "wof:lastmodified":1564126307,
     "wof:name":"Dzhuva",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

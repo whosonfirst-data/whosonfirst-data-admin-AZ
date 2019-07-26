@@ -29,6 +29,24 @@
     "name:aze_x_preferred":[
         "K\u00fcl\u00fcs"
     ],
+    "name:ceb_x_preferred":[
+        "Kyulyus"
+    ],
+    "name:hye_x_preferred":[
+        "\u0554\u0575\u0578\u056c\u0584"
+    ],
+    "name:ita_x_preferred":[
+        "K\u00fcl\u00fcs"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10e3\u10da\u10d8\u10e3\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "K\u00fcl\u00fcs"
+    ],
+    "name:swe_x_preferred":[
+        "Kyulyus"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1243407695,
-    "wof:lastmodified":1537585194,
+    "wof:lastmodified":1564126475,
     "wof:name":"Kyulyus",
     "wof:parent_id":85668683,
     "wof:placetype":"locality",

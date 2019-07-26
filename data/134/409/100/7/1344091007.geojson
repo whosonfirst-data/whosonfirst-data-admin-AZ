@@ -34,8 +34,17 @@
     "name:hye_x_variant":[
         "\u054b\u0568\u056c\u0586\u0568\u0580"
     ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d8\u10da\u10e4\u10d8\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "C\u0131lf\u0131r"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u044b\u043b\u0444\u044b\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "C\u0131lf\u0131r"
     ],
     "name:und_x_variant":[
         "Dzhylfyr",
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1344091007,
-    "wof:lastmodified":1537585242,
+    "wof:lastmodified":1564125860,
     "wof:name":"Cilfir",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

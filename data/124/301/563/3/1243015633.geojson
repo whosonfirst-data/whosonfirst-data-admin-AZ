@@ -37,6 +37,9 @@
         "Artashat",
         "\u0531\u0580\u057f\u0561\u0577\u0561\u057f"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10d6\u10d2\u10d8\u10e3\u10dc\u10d4\u10d8"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0437\u0433\u044e\u043d\u0435\u0439"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1243015633,
-    "wof:lastmodified":1537585261,
+    "wof:lastmodified":1564126444,
     "wof:name":"Bozguney",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

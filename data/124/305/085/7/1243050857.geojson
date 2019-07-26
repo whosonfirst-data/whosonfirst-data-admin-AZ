@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Has\u0131ll\u0131"
     ],
+    "name:ita_x_preferred":[
+        "Assuly"
+    ],
+    "name:msa_x_preferred":[
+        "Assuly"
+    ],
     "name:und_x_variant":[
         "Assuly",
         "Gasylly"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1243050857,
-    "wof:lastmodified":1537585292,
+    "wof:lastmodified":1564126489,
     "wof:name":"Hasilli",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

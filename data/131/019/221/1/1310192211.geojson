@@ -25,11 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0622\u0634\u06cc\u0642\u0627\u0644\u06cc\u0644\u0627\u0631"
+    ],
     "name:aze_x_preferred":[
         "A\u015f\u0131qal\u0131lar"
     ],
     "name:aze_x_variant":[
         "A\u015fqalar"
+    ],
+    "name:ceb_x_preferred":[
+        "A\u015f\u0131qal\u0131lar"
+    ],
+    "name:ita_x_preferred":[
+        "A\u015f\u0131qal\u0131lar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10d8\u10d2\u10d0\u10da\u10d8\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015f\u0131qal\u0131lar"
+    ],
+    "name:swe_x_preferred":[
+        "A\u015f\u0131qal\u0131lar"
     ],
     "name:und_x_variant":[
         "Yeddybugukskiy",
@@ -62,7 +80,7 @@
         }
     ],
     "wof:id":1310192211,
-    "wof:lastmodified":1537585132,
+    "wof:lastmodified":1564126350,
     "wof:name":"Asiqalilar",
     "wof:parent_id":85668365,
     "wof:placetype":"locality",

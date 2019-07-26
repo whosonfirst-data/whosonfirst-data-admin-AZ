@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Rvo"
+    ],
+    "name:ceb_x_preferred":[
+        "Rvo"
+    ],
+    "name:ita_x_preferred":[
+        "Rvo"
+    ],
+    "name:msa_x_preferred":[
+        "Rvo"
+    ],
+    "name:swe_x_preferred":[
+        "Rvo"
+    ],
     "name:und_x_variant":[
         "Rivo",
         "Rvo"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1293731117,
-    "wof:lastmodified":1537585161,
+    "wof:lastmodified":1564126027,
     "wof:name":"Rvo",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

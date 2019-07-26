@@ -32,10 +32,34 @@
         "\u00c7apar",
         "\u00c7\u0259r\u0259kdar"
     ],
+    "name:bel_x_preferred":[
+        "\u0427\u0430\u043f\u0430\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c7apar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u067e\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Chapar"
+    ],
     "name:hye_x_preferred":[
         "\u0549\u0561\u0583\u0561\u0580"
     ],
+    "name:ita_x_preferred":[
+        "Chapar"
+    ],
+    "name:msa_x_preferred":[
+        "Chapar"
+    ],
     "name:rus_x_preferred":[
+        "\u0427\u0430\u043f\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c7apar"
+    ],
+    "name:ukr_x_preferred":[
         "\u0427\u0430\u043f\u0430\u0440"
     ],
     "src:geom":"geonames",
@@ -62,7 +86,7 @@
         }
     ],
     "wof:id":1226497345,
-    "wof:lastmodified":1537585467,
+    "wof:lastmodified":1564126635,
     "wof:name":"Chapar",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

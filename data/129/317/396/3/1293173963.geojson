@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Qazaxb\u0259r\u0259si"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03b6\u03b1\u03c7\u03bc\u03c0\u03b1\u03c1\u03b1\u03c3\u03af"
+    ],
+    "name:ita_x_preferred":[
+        "Kazakhbarasi"
+    ],
+    "name:msa_x_preferred":[
+        "Kazakhbarasi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1293173963,
-    "wof:lastmodified":1537585216,
+    "wof:lastmodified":1564126029,
     "wof:name":"Kazakhbarasi",
     "wof:parent_id":85668409,
     "wof:placetype":"locality",

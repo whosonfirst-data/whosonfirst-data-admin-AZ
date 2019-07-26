@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fniqoba"
+    ],
+    "name:ceb_x_preferred":[
+        "Anykhoba Pervaya"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fniqoba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10d8\u10ee\u10dd\u10d1\u10d0"
+    ],
+    "name:lez_x_preferred":[
+        "\u0423\u044c\u043d\u0443\u044c\u0433\u044a\u0443\u0431\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fniqoba"
+    ],
+    "name:swe_x_preferred":[
+        "Anykhoba Pervaya"
+    ],
     "name:und_x_variant":[
         "Anykhoba",
         "\u018fniqoba"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1309741523,
-    "wof:lastmodified":1537585493,
+    "wof:lastmodified":1564126424,
     "wof:name":"Anykhoba Pervaya",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

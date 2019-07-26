@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Gilar"
     ],
+    "name:ita_x_preferred":[
+        "Gilar"
+    ],
+    "name:msa_x_preferred":[
+        "Gilar"
+    ],
+    "name:tur_x_preferred":[
+        "Gilar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632717
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1209552167,
-    "wof:lastmodified":1537585520,
+    "wof:lastmodified":1564126155,
     "wof:name":"Gilar",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

@@ -25,11 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hac\u0131selli"
+    ],
+    "name:ceb_x_preferred":[
+        "Hac\u0131selli"
+    ],
     "name:eng_x_preferred":[
+        "Hac\u0131selli"
+    ],
+    "name:ita_x_preferred":[
+        "Hac\u0131selli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10ef\u10d8\u10e1\u10d4\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Hac\u0131selli"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u0434\u0436\u044b\u0441\u0435\u043b\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Hac\u0131selli"
     ],
     "name:und_x_variant":[
         "Gadzhyselli",
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1360316977,
-    "wof:lastmodified":1537585440,
+    "wof:lastmodified":1564126383,
     "wof:name":"Haciselli",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

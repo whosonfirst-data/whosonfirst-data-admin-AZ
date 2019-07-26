@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "G\u00f6d\u0259kd\u0259r\u0259"
     ],
+    "name:ita_x_preferred":[
+        "G\u00f6d\u0259kd\u0259r\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10dd\u10d3\u10d0\u10e5\u10d3\u10d0\u10e0\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00f6d\u0259kd\u0259r\u0259"
+    ],
     "name:rus_x_preferred":[
         "G\u00ebdakdere"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1260247557,
-    "wof:lastmodified":1537585438,
+    "wof:lastmodified":1564126263,
     "wof:name":"Godakdara",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

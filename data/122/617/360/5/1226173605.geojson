@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bil\u0259v\u0259r"
+    ],
+    "name:ceb_x_preferred":[
+        "Bilyavar"
+    ],
+    "name:ita_x_preferred":[
+        "Bilav\u0259r"
+    ],
+    "name:msa_x_preferred":[
+        "Bilav\u0259r"
+    ],
+    "name:swe_x_preferred":[
+        "Bilyavar"
+    ],
     "name:und_x_variant":[
         "Billidyul\u2019",
         "Bilyavar",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1226173605,
-    "wof:lastmodified":1537585263,
+    "wof:lastmodified":1564126581,
     "wof:name":"Bilyavar",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

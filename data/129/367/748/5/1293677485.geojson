@@ -25,7 +25,28 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0627\u0631\u063a\u0627\u0644\u0627\u0631"
+    ],
     "name:aze_x_preferred":[
+        "Dar\u011falar"
+    ],
+    "name:ceb_x_preferred":[
+        "Dar\u011falar"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06af\u0627\u0647\u200c\u0644\u0627\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "Dar\u011falar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e0\u10e6\u10d0\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Dar\u011falar"
+    ],
+    "name:swe_x_preferred":[
         "Dar\u011falar"
     ],
     "src:geom":"geonames",
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1293677485,
-    "wof:lastmodified":1537585458,
+    "wof:lastmodified":1564126009,
     "wof:name":"Dargalar",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

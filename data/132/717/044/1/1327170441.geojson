@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Faz\u0131l"
+    ],
+    "name:ceb_x_preferred":[
+        "Fazil"
+    ],
+    "name:ita_x_preferred":[
+        "Faz\u0131l"
+    ],
+    "name:msa_x_preferred":[
+        "Faz\u0131l"
+    ],
+    "name:swe_x_preferred":[
+        "Fazil"
+    ],
     "name:und_x_variant":[
         "Fazyl",
         "Fazil"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1327170441,
-    "wof:lastmodified":1537585444,
+    "wof:lastmodified":1564125823,
     "wof:name":"Fazil",
     "wof:parent_id":85668565,
     "wof:placetype":"locality",

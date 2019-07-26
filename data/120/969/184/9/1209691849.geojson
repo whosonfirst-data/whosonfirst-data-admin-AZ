@@ -28,8 +28,26 @@
     "name:aze_x_preferred":[
         "Arayatl\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "Arayatl\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "Arayatl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d0\u10d8\u10d0\u10d7\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Arayatl\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0430\u044f\u0442\u043b\u044b"
+    ],
+    "name:swe_x_preferred":[
+        "Arayatl\u0131"
+    ],
+    "name:tur_x_preferred":[
+        "Arayatl\u0131"
     ],
     "name:und_x_variant":[
         "Arayatly"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1209691849,
-    "wof:lastmodified":1537585278,
+    "wof:lastmodified":1564126203,
     "wof:name":"Arayatli",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

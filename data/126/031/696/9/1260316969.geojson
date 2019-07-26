@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Azafl\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Azapl\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "Azafl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d6\u10d0\u10e4\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Azafl\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Azapl\u0131"
+    ],
     "name:und_x_variant":[
         "Azaply",
         "Azapl\u0131"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1260316969,
-    "wof:lastmodified":1537585482,
+    "wof:lastmodified":1564126272,
     "wof:name":"Azapli",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Ortak\u0259nd"
     ],
+    "name:ceb_x_preferred":[
+        "Owrt\u0101gand"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u062a\u06a9\u0646\u062f"
+    ],
+    "name:swe_x_preferred":[
+        "Owrt\u0101gand"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1343729383,
-    "wof:lastmodified":1537585525,
+    "wof:lastmodified":1564125921,
     "wof:name":"Ortakand",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

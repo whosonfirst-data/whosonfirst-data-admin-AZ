@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Pircana"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03c1\u03c4\u03c3\u03ac\u03bd\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Pircana"
+    ],
+    "name:msa_x_preferred":[
+        "Pircana"
+    ],
     "name:und_x_variant":[
         "Pirdzhana"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1327193621,
-    "wof:lastmodified":1537585526,
+    "wof:lastmodified":1564125820,
     "wof:name":"Pircana",
     "wof:parent_id":85668397,
     "wof:placetype":"locality",

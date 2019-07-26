@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Pir\u0259b\u0259dil"
+    ],
+    "name:ceb_x_preferred":[
+        "Pir\u0259b\u0259dil"
+    ],
+    "name:ita_x_preferred":[
+        "Pir\u0259b\u0259dil"
+    ],
+    "name:msa_x_preferred":[
+        "Pir\u0259b\u0259dil"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0440\u0435\u0431\u0435\u0434\u0438\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Pir\u0259b\u0259dil"
+    ],
     "name:und_x_variant":[
         "Pirebedil\u2019",
         "Pir\u0259b\u0259dil"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1242837943,
-    "wof:lastmodified":1537585353,
+    "wof:lastmodified":1564126493,
     "wof:name":"Pirabadil",
     "wof:parent_id":85668339,
     "wof:placetype":"locality",

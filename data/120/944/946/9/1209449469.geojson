@@ -25,6 +25,18 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259\u015f\u0259div\u0259ll\u0259r"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0259\u015f\u0259div\u0259lil\u0259r"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e8\u10d4\u10d3\u10d8\u10d5\u10d4\u10da\u10d8\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "M\u0259\u015f\u0259div\u0259lil\u0259r"
+    ],
     "name:und_x_variant":[
         "Meshadivelilar",
         "Meshedi-Veliler",
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209449469,
-    "wof:lastmodified":1537585371,
+    "wof:lastmodified":1564126224,
     "wof:name":"Meshedi-Veliler",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

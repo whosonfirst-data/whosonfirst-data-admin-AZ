@@ -28,11 +28,23 @@
     "name:aze_x_preferred":[
         "Al\u0131can"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03b9\u03c4\u03c3\u03ac\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0644\u06cc\u200c\u062c\u0627\u0646"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u056c\u0568\u057b\u0561\u0576"
     ],
     "name:hye_x_variant":[
         "Alyjan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d8\u10ef\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Al\u0131can"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u044b\u0434\u0436\u0430\u043d"
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":1226403825,
-    "wof:lastmodified":1537585299,
+    "wof:lastmodified":1564126645,
     "wof:name":"Alican",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

@@ -34,6 +34,12 @@
     "name:hye_x_preferred":[
         "\u053f\u0561\u0574\u0578"
     ],
+    "name:msa_x_preferred":[
+        "Kamo"
+    ],
+    "name:nld_x_preferred":[
+        "Adzhished"
+    ],
     "name:und_x_variant":[
         "Adzhished"
     ],
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1276156941,
-    "wof:lastmodified":1537585421,
+    "wof:lastmodified":1564126103,
     "wof:name":"Kamo",
     "wof:parent_id":85668211,
     "wof:placetype":"locality",

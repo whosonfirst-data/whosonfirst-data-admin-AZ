@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Atl\u0131xan"
     ],
+    "name:ita_x_preferred":[
+        "Atl\u0131xan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d7\u10da\u10d8\u10ee\u10d0\u10dc\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u0410\u0442\u043b\u0443\u0445\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Atl\u0131xan"
+    ],
     "name:und_x_variant":[
         "Atlykhan"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1260320915,
-    "wof:lastmodified":1537585536,
+    "wof:lastmodified":1564126293,
     "wof:name":"Atlixan",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

@@ -29,6 +29,27 @@
     "name:aze_x_preferred":[
         "Siyaqut"
     ],
+    "name:ceb_x_preferred":[
+        "Siyaqut"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0575\u0561\u0563\u0578\u0582\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Siyaqut"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10d8\u10d0\u10d2\u10e3\u10d7\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Siyaqut"
+    ],
+    "name:msa_x_preferred":[
+        "Siyaqut"
+    ],
+    "name:swe_x_preferred":[
+        "Siyaqut"
+    ],
     "name:und_x_variant":[
         "Siyakut",
         "Siyagut"
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1327387549,
-    "wof:lastmodified":1537585147,
+    "wof:lastmodified":1564125750,
     "wof:name":"Siyaqut",
     "wof:parent_id":85668667,
     "wof:placetype":"locality",

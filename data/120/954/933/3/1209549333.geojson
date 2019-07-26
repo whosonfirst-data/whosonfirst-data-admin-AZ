@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Dico"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03af\u03c4\u03c3\u03bf"
+    ],
+    "name:ita_x_preferred":[
+        "Dico"
+    ],
+    "name:msa_x_preferred":[
+        "Dico"
+    ],
     "name:und_x_variant":[
         "Didzho"
     ],
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209549333,
-    "wof:lastmodified":1537585519,
+    "wof:lastmodified":1564126139,
     "wof:name":"Dico",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

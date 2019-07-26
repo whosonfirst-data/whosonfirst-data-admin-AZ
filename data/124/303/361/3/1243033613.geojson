@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "R\u0259m\u0259"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b5\u03bc\u03ad"
+    ],
+    "name:ita_x_preferred":[
+        "R\u0259m\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10db\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "R\u0259m\u0259"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1243033613,
-    "wof:lastmodified":1537585534,
+    "wof:lastmodified":1564126481,
     "wof:name":"Rama",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

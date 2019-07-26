@@ -29,6 +29,12 @@
     "name:aze_x_preferred":[
         "T\u0259z\u0259k\u0259nd"
     ],
+    "name:ceb_x_preferred":[
+        "Tazakend"
+    ],
+    "name:swe_x_preferred":[
+        "Tazakend"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293924227,
-    "wof:lastmodified":1537585141,
+    "wof:lastmodified":1564125992,
     "wof:name":"Tazakend",
     "wof:parent_id":85668667,
     "wof:placetype":"locality",

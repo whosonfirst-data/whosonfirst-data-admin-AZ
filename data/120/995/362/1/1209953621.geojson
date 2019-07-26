@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Jindi"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03af\u03bd\u03c4\u03b9"
+    ],
+    "name:ita_x_preferred":[
+        "Jindi"
+    ],
+    "name:msa_x_preferred":[
+        "Jindi"
+    ],
     "name:und_x_variant":[
         "Zhindi"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1209953621,
-    "wof:lastmodified":1537585519,
+    "wof:lastmodified":1564126184,
     "wof:name":"Jindi",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

@@ -25,7 +25,28 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062e\u0627\u0686\u06cc\u0646 \u0622\u0628\u0627\u062f"
+    ],
     "name:aze_x_preferred":[
+        "Xa\u00e7\u0131nabad"
+    ],
+    "name:ceb_x_preferred":[
+        "Xa\u00e7\u0131nabad"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0686\u06cc\u0646\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:ita_x_preferred":[
+        "Xa\u00e7\u0131nabad"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10e9\u10d8\u10dc\u10d0\u10d1\u10d0\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Xa\u00e7\u0131nabad"
+    ],
+    "name:swe_x_preferred":[
         "Xa\u00e7\u0131nabad"
     ],
     "name:und_x_variant":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1327210999,
-    "wof:lastmodified":1537585300,
+    "wof:lastmodified":1564125821,
     "wof:name":"Xacinabad",
     "wof:parent_id":85668313,
     "wof:placetype":"locality",

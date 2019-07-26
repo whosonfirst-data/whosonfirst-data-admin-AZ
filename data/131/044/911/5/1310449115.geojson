@@ -25,8 +25,14 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u0627\u0645\u200c\u06a9\u0646\u062f"
+    ],
     "name:aze_x_preferred":[
         "\u015eamk\u0259nd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0645\u200c\u06a9\u0646\u062f"
     ],
     "name:hye_x_preferred":[
         "\u0547\u0561\u0574\u0584\u0565\u0576\u0564"
@@ -34,6 +40,12 @@
     "name:hye_x_variant":[
         "Shamk\u2019",
         "\u0547\u0561\u0574\u0584"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10db\u10e5\u10d4\u10dc\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u015eamk\u0259nd"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0430\u043c\u043a\u0435\u043d\u0434"
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1310449115,
-    "wof:lastmodified":1537585153,
+    "wof:lastmodified":1564126344,
     "wof:name":"Shamkend",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

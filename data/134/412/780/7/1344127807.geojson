@@ -34,6 +34,15 @@
     "name:hye_x_variant":[
         "\u0531\u0572\u057f\u0565\u0583\u0565"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e6\u10d7\u10d0\u10e4\u10d0"
+    ],
+    "name:min_x_preferred":[
+        "A\u011ft\u0259p\u0259"
+    ],
+    "name:msa_x_preferred":[
+        "A\u011ft\u0259p\u0259"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0433\u0442\u0435\u043f\u0435"
     ],
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1344127807,
-    "wof:lastmodified":1537585298,
+    "wof:lastmodified":1564125856,
     "wof:name":"Agtepe",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

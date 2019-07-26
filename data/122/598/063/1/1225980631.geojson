@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fc\u0259mi"
+    ],
+    "name:ceb_x_preferred":[
+        "Adzhami"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fc\u0259mi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10ef\u10d0\u10db\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fc\u0259mi"
+    ],
+    "name:swe_x_preferred":[
+        "Adzhami"
+    ],
     "name:und_x_variant":[
         "\u018fc\u0259mi"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1225980631,
-    "wof:lastmodified":1537585502,
+    "wof:lastmodified":1564126629,
     "wof:name":"Adzhami",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

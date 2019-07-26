@@ -25,11 +25,38 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0639\u0644\u06cc\u200c\u062e\u0627\u0646\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Alxanl\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "Alxanl\u0131"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0644\u06cc\u200c\u062e\u0627\u0646\u0644\u06cc"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u056b\u056d\u0561\u0576\u056c\u0568"
+    ],
+    "name:ita_x_preferred":[
+        "Alxanl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10ee\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Alxanl\u0131"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0644\u062e\u0627\u0646\u0644\u06cc"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0445\u0430\u043d\u043b\u044b"
+    ],
+    "name:swe_x_preferred":[
+        "Alxanl\u0131"
     ],
     "name:und_x_variant":[
         "Orta Alkhanly",
@@ -62,7 +89,7 @@
         }
     ],
     "wof:id":1327100779,
-    "wof:lastmodified":1537585281,
+    "wof:lastmodified":1564125825,
     "wof:name":"Alxanli",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

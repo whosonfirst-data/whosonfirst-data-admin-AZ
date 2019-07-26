@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Qaraxan\u00e7all\u0131"
     ],
+    "name:msa_x_preferred":[
+        "Qaraxan\u00e7all\u0131"
+    ],
     "name:und_x_variant":[
         "Karakhanchally",
         "Karakhanchilar"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1293544207,
-    "wof:lastmodified":1537585220,
+    "wof:lastmodified":1564125950,
     "wof:name":"Qaraxancalli",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

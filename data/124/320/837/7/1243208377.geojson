@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0632\u0647 \u0632\u0645\u06cc\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Viz\u0259z\u0259min"
+    ],
+    "name:ceb_x_preferred":[
+        "Vizazamin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0632\u0647\u200c\u0632\u0645\u06cc\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Viz\u0259z\u0259min"
+    ],
+    "name:msa_x_preferred":[
+        "Viz\u0259z\u0259min"
+    ],
+    "name:swe_x_preferred":[
+        "Vizazamin"
+    ],
     "name:und_x_variant":[
         "Viz\u0259z\u0259min",
         "Vizazamin"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1243208377,
-    "wof:lastmodified":1537585133,
+    "wof:lastmodified":1564126511,
     "wof:name":"Vizazamin",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

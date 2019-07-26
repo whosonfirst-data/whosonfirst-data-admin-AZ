@@ -25,11 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0648\u0627\u0646\u0648\u0648\u06a9\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "\u0130vanovka"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0130vanovka"
+    ],
     "name:eng_x_preferred":[
+        "\u0130vanovka"
+    ],
+    "name:ita_x_preferred":[
+        "\u0130vanovka"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d5\u10d0\u10dc\u10dd\u10d5\u10d9\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "\u0130vanovka"
     ],
     "name:rus_x_preferred":[
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u0130vanovka"
     ],
     "name:und_x_variant":[
         "\u0130vanovka",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1276826513,
-    "wof:lastmodified":1537585424,
+    "wof:lastmodified":1564126093,
     "wof:name":"Ivanovka",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

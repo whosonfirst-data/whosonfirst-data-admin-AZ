@@ -25,11 +25,35 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0633\u062a\u06cc\u0633\u0648 \u0642\u0635\u0628\u0647\u200c\u0633\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "\u0130stisu q\u0259s\u0259b\u0259si"
+    ],
+    "name:ceb_x_preferred":[
+        "Mukhtadir"
+    ],
     "name:eng_x_preferred":[
         "M\u00fcqt\u01dddir"
     ],
+    "name:ita_x_preferred":[
+        "M\u00fcqt\u0259dir"
+    ],
+    "name:lez_x_preferred":[
+        "\u041c\u0443\u043a\u044c\u0442\u0430\u0434\u0438\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "M\u00fcqt\u0259dir"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u0445\u0442\u0430\u0434\u0438\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u0441\u0442\u0438\u0441\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Mukhtadir"
     ],
     "name:und_x_variant":[
         "M\u00fcqt\u0259dir"
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1276156903,
-    "wof:lastmodified":1537585366,
+    "wof:lastmodified":1564126104,
     "wof:name":"Mukhtadir",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

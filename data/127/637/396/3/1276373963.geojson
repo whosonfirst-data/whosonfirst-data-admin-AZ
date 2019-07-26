@@ -31,6 +31,12 @@
     "name:aze_x_variant":[
         "Qult\u0259p\u0259"
     ],
+    "name:ita_x_preferred":[
+        "Tekeshykhy"
+    ],
+    "name:msa_x_preferred":[
+        "Tekeshykhy"
+    ],
     "name:rus_x_preferred":[
         "Gyul\u2019tepe"
     ],
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1276373963,
-    "wof:lastmodified":1537585325,
+    "wof:lastmodified":1564126116,
     "wof:name":"Tekeshykhy",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

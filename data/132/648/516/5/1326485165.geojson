@@ -25,6 +25,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u0631\u06cc\u0646\u062c\u0644\u0627\u0631"
+    ],
     "name:aze_x_preferred":[
         "Nar\u0131nclar"
     ],
@@ -32,13 +35,25 @@
         "Mishni",
         "Nare\u015ftar"
     ],
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0440\u044d\u0448\u0442\u0430\u0440"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0631\u0646\u062c\u200c\u0644\u0631"
+    ],
     "name:hye_x_preferred":[
         "\u0546\u0561\u0580\u0565\u0577\u057f\u0561\u0580"
     ],
     "name:hye_x_variant":[
         "Nareshtar"
     ],
+    "name:msa_x_preferred":[
+        "Nar\u0131nclar"
+    ],
     "name:rus_x_preferred":[
+        "\u041d\u0430\u0440\u0435\u0448\u0442\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
         "\u041d\u0430\u0440\u0435\u0448\u0442\u0430\u0440"
     ],
     "name:und_x_variant":[
@@ -69,7 +84,7 @@
         }
     ],
     "wof:id":1326485165,
-    "wof:lastmodified":1537585361,
+    "wof:lastmodified":1564125809,
     "wof:name":"Narinclar",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

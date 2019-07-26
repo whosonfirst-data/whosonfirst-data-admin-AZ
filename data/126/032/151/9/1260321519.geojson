@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Yeni Ya\u015fma"
     ],
+    "name:ita_x_preferred":[
+        "Yeni Ya\u015fma"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d4\u10dc\u10d8-\u10d8\u10d0\u10e8\u10db\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Yeni Ya\u015fma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1260321519,
-    "wof:lastmodified":1537585534,
+    "wof:lastmodified":1564126292,
     "wof:name":"Yeni Yasma",
     "wof:parent_id":85668485,
     "wof:placetype":"locality",

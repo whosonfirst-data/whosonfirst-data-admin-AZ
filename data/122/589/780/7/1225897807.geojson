@@ -29,6 +29,24 @@
     "name:aze_x_preferred":[
         "\u018fl\u0259hi"
     ],
+    "name:ceb_x_preferred":[
+        "Alyagi"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0572\u0578\u0570\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fl\u0259hi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d0\u10f0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fl\u0259hi"
+    ],
+    "name:swe_x_preferred":[
+        "Alyagi"
+    ],
     "name:und_x_variant":[
         "Allyagi",
         "Alagi",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1225897807,
-    "wof:lastmodified":1537585283,
+    "wof:lastmodified":1564126618,
     "wof:name":"Alyagi",
     "wof:parent_id":85668665,
     "wof:placetype":"locality",

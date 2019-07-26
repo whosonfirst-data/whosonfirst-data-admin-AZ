@@ -31,6 +31,12 @@
     "name:aze_x_variant":[
         "Cicimli"
     ],
+    "name:ita_x_preferred":[
+        "Cicimli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d8\u10ef\u10d8\u10db\u10da\u10d8"
+    ],
     "name:und_x_variant":[
         "Dzhimdzhimly",
         "Dzhidzhimli"
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1310283175,
-    "wof:lastmodified":1537585448,
+    "wof:lastmodified":1564126348,
     "wof:name":"Cicimli",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

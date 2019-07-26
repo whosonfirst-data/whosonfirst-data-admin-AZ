@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "\u018fmirvarl\u0131"
     ],
+    "name:min_x_preferred":[
+        "\u018fmirvarl\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fmirvarl\u0131"
+    ],
     "name:und_x_variant":[
         "Amirvarly"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1343332555,
-    "wof:lastmodified":1537585241,
+    "wof:lastmodified":1564125895,
     "wof:name":"Emirvarly",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

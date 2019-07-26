@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "M\u00fcdris\u0259"
     ],
+    "name:ceb_x_preferred":[
+        "Myudryuse"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00fcdr\u0259s\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e3\u10d3\u10e0\u10d8\u10e1\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "M\u00fcdr\u0259s\u0259"
+    ],
+    "name:swe_x_preferred":[
+        "Myudryuse"
+    ],
     "name:und_x_variant":[
         "Myudresa",
         "Myudryuse",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1309773835,
-    "wof:lastmodified":1537585364,
+    "wof:lastmodified":1564126407,
     "wof:name":"Myudryuse",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

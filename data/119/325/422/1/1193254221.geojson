@@ -25,14 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062c\u0648\u0648\u0627\u0631\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Cuvarl\u0131"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u0627\u0631\u0644\u06cc"
     ],
     "name:hye_x_preferred":[
         "Juvarli"
     ],
     "name:hye_x_variant":[
         "\u054b\u0578\u0582\u057e\u0561\u0580\u056c\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Cuvarl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10e3\u10d5\u10d0\u10e0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Cuvarl\u0131"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0443\u0432\u0430\u0440\u043b\u044b"
@@ -64,7 +79,7 @@
         }
     ],
     "wof:id":1193254221,
-    "wof:lastmodified":1537585242,
+    "wof:lastmodified":1564126244,
     "wof:name":"Cuvarli",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

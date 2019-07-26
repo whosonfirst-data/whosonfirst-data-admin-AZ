@@ -26,7 +26,28 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u0631\u0633"
+    ],
     "name:aze_x_preferred":[
+        "Xurs"
+    ],
+    "name:ceb_x_preferred":[
+        "Xurs"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0578\u0582\u0580\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Xurs"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10e3\u10e0\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Xurs"
+    ],
+    "name:swe_x_preferred":[
         "Xurs"
     ],
     "name:und_x_variant":[
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1259624047,
-    "wof:lastmodified":1537585204,
+    "wof:lastmodified":1564126529,
     "wof:name":"Xurs",
     "wof:parent_id":85668665,
     "wof:placetype":"locality",

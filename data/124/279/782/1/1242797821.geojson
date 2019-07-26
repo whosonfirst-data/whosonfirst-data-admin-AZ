@@ -31,6 +31,18 @@
     "name:aze_x_variant":[
         "Kolatan"
     ],
+    "name:ita_x_preferred":[
+        "G\u00fclyatan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10e3\u10da\u10d8\u10d0\u10d7\u10d0\u10dc\u10d8"
+    ],
+    "name:kur_x_preferred":[
+        "Gulyatan"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00fclyatan"
+    ],
     "name:und_x_variant":[
         "Gyulyatan",
         "Kolagan",
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1242797821,
-    "wof:lastmodified":1537585231,
+    "wof:lastmodified":1564126494,
     "wof:name":"Kolatan",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

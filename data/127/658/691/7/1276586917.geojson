@@ -25,6 +25,18 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00fcsn\u0259tqazma"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03bf\u03c5\u03c3\u03bd\u03b5\u03c4\u03ba\u03ac\u03b6\u03bc\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "K\u00fcsn\u0259tqazma"
+    ],
+    "name:msa_x_preferred":[
+        "K\u00fcsn\u0259tqazma"
+    ],
     "name:und_x_variant":[
         "K\u00fcsn\u0259tqazma"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1276586917,
-    "wof:lastmodified":1537585380,
+    "wof:lastmodified":1564126077,
     "wof:name":"Kyusnetkazma",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

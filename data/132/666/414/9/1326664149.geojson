@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Asp\u0259r\u0259sti"
     ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c3\u03c0\u03b5\u03c1\u03b5\u03c3\u03c4\u03af"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fsp\u0259r\u0259sti"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fsp\u0259r\u0259sti"
+    ],
     "name:und_x_variant":[
         "\u018fsp\u0259r\u0259sti",
         "Izzhor"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1326664149,
-    "wof:lastmodified":1537585484,
+    "wof:lastmodified":1564125774,
     "wof:name":"Asparasty",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

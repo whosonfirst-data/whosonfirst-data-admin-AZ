@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Suma\u011fall\u0131"
     ],
+    "name:ita_x_preferred":[
+        "Suma\u011fall\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10db\u10d0\u10e6\u10d0\u10da\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u0421\u043c\u0443\u0433\u044a\u0443\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Suma\u011fall\u0131"
+    ],
     "name:und_x_variant":[
         "Sumagally",
         "Sumakhly",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1260236665,
-    "wof:lastmodified":1537585331,
+    "wof:lastmodified":1564126265,
     "wof:name":"Sumagalli",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

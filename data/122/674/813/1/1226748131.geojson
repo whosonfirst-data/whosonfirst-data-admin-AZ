@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0631\u06cc\u0646\u062c\u06cc \u0622\u0631\u0627\u0644"
+    ],
+    "name:aze_x_preferred":[
+        "Birinci Aral"
+    ],
+    "name:ceb_x_preferred":[
+        "Birinci Aral"
+    ],
+    "name:ita_x_preferred":[
+        "Birinci Aral"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10e0\u10d8\u10dc\u10ef\u10d8-\u10d0\u10e0\u10d0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Birinci Aral"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u043b \u041f\u0435\u0440\u0432\u044b\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Birinci Aral"
+    ],
     "name:und_x_variant":[
         "Aral Pervoye",
         "Aral Pervyy",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1226748131,
-    "wof:lastmodified":1537585491,
+    "wof:lastmodified":1564126588,
     "wof:name":"Birinci Aral",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

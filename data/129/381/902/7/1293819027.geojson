@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "S\u0259fixanlar"
     ],
+    "name:msa_x_preferred":[
+        "S\u0259fixanlar"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0444\u044b\u0445\u0430\u043d\u043b\u0430\u0440"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293819027,
-    "wof:lastmodified":1537585296,
+    "wof:lastmodified":1564126034,
     "wof:name":"Safykhanlar",
     "wof:parent_id":85668643,
     "wof:placetype":"locality",

@@ -31,13 +31,26 @@
     "name:aze_x_variant":[
         "Qarake\u00e7di"
     ],
+    "name:bel_x_preferred":[
+        "\u0415\u0437\u043d\u0430\u0433\u0430\u043c\u0435\u0440"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0565\u0576\u056b\u0576\u0584\u0565\u0576\u0564"
     ],
     "name:hye_x_variant":[
         "Yeznagomer",
         "Lenink\u2019end",
-        "\u0535\u0566\u0576\u0561\u0563\u0578\u0574\u0565\u0580"
+        "\u0535\u0566\u0576\u0561\u0563\u0578\u0574\u0565\u0580",
+        "\u053c\u0565\u057c\u0576\u0561\u0570\u0578\u057e\u056b\u057f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10e0\u10d0\u10e5\u10d4\u10e9\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qarake\u00e7di"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u0437\u043d\u0430\u0491\u043e\u043c\u0435\u0440"
     ],
     "name:und_x_variant":[
         "Leninkend",
@@ -67,7 +80,7 @@
         }
     ],
     "wof:id":1243605031,
-    "wof:lastmodified":1537585190,
+    "wof:lastmodified":1564126486,
     "wof:name":"Qarakecdi",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

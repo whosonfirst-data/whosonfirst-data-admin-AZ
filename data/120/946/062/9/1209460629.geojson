@@ -26,6 +26,18 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062e\u06cc\u0631\u0645\u0627\u0646\u200c\u062f\u0627\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "X\u0131rmandal\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "X\u0131rmandal\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "X\u0131rmandal\u0131"
+    ],
     "name:und_x_variant":[
         "Kharmandaly",
         "Kharmandali",
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1209460629,
-    "wof:lastmodified":1537585203,
+    "wof:lastmodified":1564126162,
     "wof:name":"Xirmandali",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0631\u06a9\u06cc\u0648\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "\u018frkivan"
+    ],
+    "name:ceb_x_preferred":[
+        "Arkewan"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c1\u03ba\u03b9\u03b2\u03ac\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "\u018frkivan"
+    ],
+    "name:msa_x_preferred":[
+        "\u018frkivan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u043a\u0438\u0432\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Arkewan"
+    ],
     "name:und_x_variant":[
         "Arkesai",
         "Arkewan",
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1360133993,
-    "wof:lastmodified":1537585277,
+    "wof:lastmodified":1564126377,
     "wof:name":"Arkewan",
     "wof:parent_id":85668397,
     "wof:placetype":"locality",

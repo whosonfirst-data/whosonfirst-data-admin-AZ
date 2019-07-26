@@ -31,6 +31,27 @@
     "name:aze_x_variant":[
         "Ur\u0259nqala"
     ],
+    "name:ceb_x_preferred":[
+        "Orankala"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03b5\u03bd\u03c4\u03c3\u03b1\u03bb\u03ac"
+    ],
+    "name:ita_x_preferred":[
+        "\u00d6r\u0259nqala"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10dd\u10e0\u10d0\u10dc\u10d2\u10d0\u10da\u10d0"
+    ],
+    "name:mlg_x_preferred":[
+        "\u00d6r\u0259nqala"
+    ],
+    "name:msa_x_preferred":[
+        "\u00d6r\u0259nqala"
+    ],
+    "name:swe_x_preferred":[
+        "Orankala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1259959935,
-    "wof:lastmodified":1537585289,
+    "wof:lastmodified":1564126549,
     "wof:name":"Orankala",
     "wof:parent_id":85668519,
     "wof:placetype":"locality",

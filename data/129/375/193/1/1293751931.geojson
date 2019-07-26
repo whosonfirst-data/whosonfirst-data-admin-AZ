@@ -25,7 +25,28 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0686\u0627\u0647\u0627\u0631"
+    ],
     "name:aze_x_preferred":[
+        "\u00c7ahar"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c7ahar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0647\u0627\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7ahar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10f0\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7ahar"
+    ],
+    "name:swe_x_preferred":[
         "\u00c7ahar"
     ],
     "name:und_x_variant":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1293751931,
-    "wof:lastmodified":1537585259,
+    "wof:lastmodified":1564126032,
     "wof:name":"Cahar",
     "wof:parent_id":85668365,
     "wof:placetype":"locality",

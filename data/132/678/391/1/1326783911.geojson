@@ -26,6 +26,33 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0633\u0646\u0648\u0633"
+    ],
+    "name:aze_x_preferred":[
+        "N\u00fcsn\u00fcs"
+    ],
+    "name:ceb_x_preferred":[
+        "Nyusnyus"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0633\u200c\u0646\u0648\u0633"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0562\u0587\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "N\u00fcsn\u00fcs"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d8\u10e3\u10e1\u10dc\u10d8\u10e3\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "N\u00fcsn\u00fcs"
+    ],
+    "name:swe_x_preferred":[
+        "Nyusnyus"
+    ],
     "name:und_x_variant":[
         "N\u00fcsn\u00fcs"
     ],
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1326783911,
-    "wof:lastmodified":1537585168,
+    "wof:lastmodified":1564125802,
     "wof:name":"Nyusnyus",
     "wof:parent_id":85668665,
     "wof:placetype":"locality",

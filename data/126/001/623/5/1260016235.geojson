@@ -31,6 +31,9 @@
     "name:aze_x_variant":[
         "\u0130yirmi Alt\u0131 Bak\u0131 Komissar\u0131"
     ],
+    "name:msa_x_preferred":[
+        "Ukrainskiye Otruba"
+    ],
     "name:und_x_variant":[
         "Ukrainskiy",
         "Ukrainskiye Otruba",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1260016235,
-    "wof:lastmodified":1537585137,
+    "wof:lastmodified":1564126276,
     "wof:name":"Ukrainskiye Otruba",
     "wof:parent_id":85668433,
     "wof:placetype":"locality",

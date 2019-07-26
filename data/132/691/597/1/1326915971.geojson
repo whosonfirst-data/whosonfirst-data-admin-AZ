@@ -25,8 +25,26 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0644\u0628\u0627\u06cc"
+    ],
     "name:aze_x_preferred":[
         "B\u0259lbay"
+    ],
+    "name:ita_x_preferred":[
+        "Balbau"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d1\u10d0\u10e3"
+    ],
+    "name:kur_x_preferred":[
+        "Balbo"
+    ],
+    "name:msa_x_preferred":[
+        "Balbau"
+    ],
+    "name:tur_x_preferred":[
+        "Balbau"
     ],
     "name:und_x_variant":[
         "Bol\u2019bay",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1326915971,
-    "wof:lastmodified":1537585267,
+    "wof:lastmodified":1564125815,
     "wof:name":"Balbau",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

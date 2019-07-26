@@ -25,11 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0631\u062e\u0648\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Qarxun"
+    ],
+    "name:ceb_x_preferred":[
+        "Qarxun"
+    ],
     "name:eng_x_preferred":[
+        "Qarxun"
+    ],
+    "name:ita_x_preferred":[
+        "Qarxun"
+    ],
+    "name:msa_x_preferred":[
         "Qarxun"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0445\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Qarxun"
     ],
     "name:und_x_variant":[
         "Karkhuk",
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1225875351,
-    "wof:lastmodified":1537585411,
+    "wof:lastmodified":1564126619,
     "wof:name":"Qarxun",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

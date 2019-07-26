@@ -29,6 +29,18 @@
     "name:aze_x_preferred":[
         "Bist"
     ],
+    "name:ceb_x_preferred":[
+        "Bist"
+    ],
+    "name:ita_x_preferred":[
+        "Bist"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10e1\u10d7\u10d8"
+    ],
+    "name:swe_x_preferred":[
+        "Bist"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1209957331,
-    "wof:lastmodified":1537585262,
+    "wof:lastmodified":1564126186,
     "wof:name":"Bist",
     "wof:parent_id":85668665,
     "wof:placetype":"locality",

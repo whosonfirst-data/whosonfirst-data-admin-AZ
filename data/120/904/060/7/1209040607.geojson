@@ -25,7 +25,25 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u0634\u06a9\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
+        "Te\u015fkan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03c3\u03ba\u03ac\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0634\u200c\u06a9\u0646\u062f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d4\u10e8\u10e5\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Te\u015fkan"
+    ],
+    "name:tur_x_preferred":[
         "Te\u015fkan"
     ],
     "name:und_x_variant":[
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1209040607,
-    "wof:lastmodified":1537585140,
+    "wof:lastmodified":1564126197,
     "wof:name":"Teskan",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

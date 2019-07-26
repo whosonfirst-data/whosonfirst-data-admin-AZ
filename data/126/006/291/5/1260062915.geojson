@@ -31,6 +31,18 @@
     "name:aze_x_variant":[
         "Qarqulu"
     ],
+    "name:ceb_x_preferred":[
+        "Kargulu"
+    ],
+    "name:ita_x_preferred":[
+        "Qar\u011f\u0131l\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Qar\u011f\u0131l\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Kargulu"
+    ],
     "name:und_x_variant":[
         "Karguli",
         "Kargulu"
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1260062915,
-    "wof:lastmodified":1537585217,
+    "wof:lastmodified":1564126279,
     "wof:name":"Kargulu",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",
