@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Arzu"
     ],
+    "name:deu_x_preferred":[
+        "Arzu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1344190879,
-    "wof:lastmodified":1537585535,
+    "wof:lastmodified":1564125898,
     "wof:name":"Arzu",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

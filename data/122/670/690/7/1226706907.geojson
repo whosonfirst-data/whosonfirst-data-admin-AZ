@@ -34,6 +34,9 @@
     "name:hye_x_preferred":[
         "\u0544\u0578\u0566"
     ],
+    "name:msa_x_preferred":[
+        "Armudly"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0437\u043a\u0435\u043d\u0434"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1226706907,
-    "wof:lastmodified":1537585507,
+    "wof:lastmodified":1564126649,
     "wof:name":"Moz",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

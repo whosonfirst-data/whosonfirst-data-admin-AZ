@@ -28,13 +28,34 @@
     "name:aze_x_preferred":[
         "Qarqar"
     ],
+    "name:bel_x_preferred":[
+        "\u0413\u0435\u0440\u0433\u0435\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Qarqar"
+    ],
+    "name:fra_x_preferred":[
+        "Herher"
+    ],
     "name:hye_x_preferred":[
         "\u0540\u0565\u0580\u0570\u0565\u0580"
     ],
     "name:hye_x_variant":[
         "Herher"
     ],
+    "name:ita_x_preferred":[
+        "Herher"
+    ],
+    "name:msa_x_preferred":[
+        "Qarqar"
+    ],
     "name:rus_x_preferred":[
+        "\u0413\u0435\u0440\u0433\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Qarqar"
+    ],
+    "name:ukr_x_preferred":[
         "\u0413\u0435\u0440\u0433\u0435\u0440"
     ],
     "name:und_x_variant":[
@@ -66,7 +87,7 @@
         }
     ],
     "wof:id":1310629355,
-    "wof:lastmodified":1537585235,
+    "wof:lastmodified":1564126318,
     "wof:name":"Qarqar",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

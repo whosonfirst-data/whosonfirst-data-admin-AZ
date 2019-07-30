@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "\u00c7\u00f6l A\u011fam\u0259mm\u0259dli"
     ],
+    "name:ceb_x_preferred":[
+        "\u00c7\u00f6l A\u011fam\u0259mm\u0259dli"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7\u00f6l A\u011fam\u0259mm\u0259dli"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7\u00f6l A\u011fam\u0259mm\u0259dli"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c7\u00f6l A\u011fam\u0259mm\u0259dli"
+    ],
     "name:und_x_variant":[
         "Chol\u2019-Aga-Mamedly",
         "Ch\u00ebl\u2019agamamedli"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1276365745,
-    "wof:lastmodified":1537585258,
+    "wof:lastmodified":1564126126,
     "wof:name":"Col Agamammadli",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u0644\u0648\u0642"
+    ],
+    "name:aze_x_preferred":[
+        "Xuluq"
+    ],
+    "name:ceb_x_preferred":[
+        "Xuluq"
+    ],
+    "name:ita_x_preferred":[
+        "Xuluq"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10e3\u10da\u10e3\u10ee\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u0425\u0443\u044c\u043b\u0443\u044c\u0445\u044a"
+    ],
+    "name:msa_x_preferred":[
+        "Xuluq"
+    ],
+    "name:swe_x_preferred":[
+        "Xuluq"
+    ],
     "name:und_x_variant":[
         "Khuluk",
         "Xuluq"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1343892967,
-    "wof:lastmodified":1537585397,
+    "wof:lastmodified":1564125917,
     "wof:name":"Xuluq",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

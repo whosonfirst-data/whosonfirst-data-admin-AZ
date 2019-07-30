@@ -25,17 +25,38 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06a9\u062a\u0644 \u067e\u0627\u0631\u0627\u0642"
+    ],
     "name:aze_x_preferred":[
         "K\u0259t\u0259lparaq"
     ],
     "name:aze_x_variant":[
         "K\u0259t\u0259lpapaq"
     ],
+    "name:ceb_x_preferred":[
+        "Ketal-Porakh"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c4\u03b5\u03bb\u03c0\u03b1\u03c1\u03ac\u03ba"
+    ],
     "name:eng_x_preferred":[
         "K\u01ddt\u01ddlparaq"
     ],
+    "name:ita_x_preferred":[
+        "K\u0259t\u0259lparaq"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d4\u10d7\u10d0\u10da\u10e4\u10d0\u10e0\u10d0\u10d2\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "K\u0259t\u0259lparaq"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u0442\u0430\u043b\u043f\u0430\u0440\u0430\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Ketal-Porakh"
     ],
     "name:und_x_variant":[
         "Ketalparag",
@@ -65,7 +86,7 @@
         }
     ],
     "wof:id":1310183423,
-    "wof:lastmodified":1537585403,
+    "wof:lastmodified":1564126341,
     "wof:name":"Ketal-Porakh",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

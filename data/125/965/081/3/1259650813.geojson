@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Bozlu"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10d6\u10da\u10e3"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0437\u043b\u0443"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1259650813,
-    "wof:lastmodified":1537585525,
+    "wof:lastmodified":1564126525,
     "wof:name":"Bozlu",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

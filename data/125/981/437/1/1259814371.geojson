@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Sarvanlar"
     ],
+    "name:ita_x_preferred":[
+        "Sarvanlar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10d5\u10d0\u10dc\u10da\u10d0\u10e0\u10d8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1259814371,
-    "wof:lastmodified":1537585304,
+    "wof:lastmodified":1564126570,
     "wof:name":"Sarvanlar",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

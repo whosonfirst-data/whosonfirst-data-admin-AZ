@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0641\u0631\u0636\u0639\u0644\u06cc\u200c\u0627\u0648\u0628\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "F\u0259rz\u0259lioba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0636\u0639\u0644\u06cc\u200c\u0627\u0648\u0628\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "F\u0259rz\u0259lioba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d0\u10e0\u10d6\u10d0\u10da\u10d8\u10dd\u10d1\u10d0"
+    ],
+    "name:lez_x_preferred":[
+        "\u0424\u0435\u0440\u0437\u0435\u043b\u0438\u0443\u0431\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "F\u0259rz\u0259lioba"
+    ],
     "name:und_x_variant":[
         "F\u0259rz\u0259lioba",
         "Farzalioba"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1293137147,
-    "wof:lastmodified":1537585444,
+    "wof:lastmodified":1564125986,
     "wof:name":"Farzalioba",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

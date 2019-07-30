@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "M\u0259mi\u015fl\u0259r"
     ],
+    "name:ceb_x_preferred":[
+        "Shaumyanovka"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0259mi\u015fl\u0259r"
+    ],
+    "name:msa_x_preferred":[
+        "M\u0259mi\u015fl\u0259r"
+    ],
+    "name:swe_x_preferred":[
+        "Shaumyanovka"
+    ],
     "name:und_x_variant":[
         "Imeni Shaumyana",
         "Shaumyaha",
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1344091279,
-    "wof:lastmodified":1537585339,
+    "wof:lastmodified":1564125859,
     "wof:name":"Shaumyanovka",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

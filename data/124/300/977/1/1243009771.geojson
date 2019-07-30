@@ -34,6 +34,9 @@
     "name:hye_x_variant":[
         "\u053d\u0561\u056c\u0586\u0561\u0577\u056b"
     ],
+    "name:msa_x_preferred":[
+        "\u0130mamqulular"
+    ],
     "name:und_x_variant":[
         "Imamk\u2019ul",
         "Imankuluklar",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1243009771,
-    "wof:lastmodified":1537585303,
+    "wof:lastmodified":1564126435,
     "wof:name":"Imamqulular",
     "wof:parent_id":85668643,
     "wof:placetype":"locality",

@@ -29,6 +29,15 @@
     "name:aze_x_preferred":[
         "Zeyv\u0259"
     ],
+    "name:ita_x_preferred":[
+        "Zeyva"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d4\u10d8\u10d5\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u0439\u0432\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632717
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1209149691,
-    "wof:lastmodified":1537585123,
+    "wof:lastmodified":1564126180,
     "wof:name":"Zeyva",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

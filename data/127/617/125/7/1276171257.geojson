@@ -28,12 +28,30 @@
     "name:aze_x_preferred":[
         "\u00c7orman"
     ],
+    "name:cat_x_preferred":[
+        "Corman"
+    ],
+    "name:deu_x_preferred":[
+        "Corman"
+    ],
+    "name:fra_x_preferred":[
+        "Corman"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05de\u05df"
+    ],
     "name:hye_x_preferred":[
         "\u0549\u0578\u0580\u0574\u0561\u0576"
     ],
     "name:hye_x_variant":[
         "Ch\u2019ormank\u2019",
         "\u0549\u0578\u0580\u0574\u0561\u0576\u0584"
+    ],
+    "name:ita_x_preferred":[
+        "Corman"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30fc\u30de\u30f3"
     ],
     "name:rus_x_preferred":[
         "\u0427\u043e\u0440\u043c\u0430\u043d"
@@ -65,7 +83,7 @@
         }
     ],
     "wof:id":1276171257,
-    "wof:lastmodified":1537585256,
+    "wof:lastmodified":1564126051,
     "wof:name":"Corman",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

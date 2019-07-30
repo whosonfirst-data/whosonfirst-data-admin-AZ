@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Conu"
     ],
+    "name:ceb_x_preferred":[
+        "Conu"
+    ],
+    "name:ita_x_preferred":[
+        "Conu"
+    ],
+    "name:msa_x_preferred":[
+        "Conu"
+    ],
+    "name:swe_x_preferred":[
+        "Conu"
+    ],
     "name:und_x_variant":[
         "Dzhoni",
         "Coni"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1243585039,
-    "wof:lastmodified":1537585243,
+    "wof:lastmodified":1564126483,
     "wof:name":"Conu",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

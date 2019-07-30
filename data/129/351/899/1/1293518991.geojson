@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0622\u0634\u0627\u063a\u06cc \u0646\u0648\u062e\u0648\u062f\u0644\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 Noxudlu"
+    ],
+    "name:ceb_x_preferred":[
+        "A\u015fa\u011f\u0131 Noxudlu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0634\u0627\u063a\u06cc \u0646\u062e\u0648\u062f\u0644\u0648"
+    ],
+    "name:ita_x_preferred":[
+        "A\u015fa\u011f\u0131 Noxudlu"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fa\u011f\u0131 Noxudlu"
+    ],
+    "name:swe_x_preferred":[
+        "A\u015fa\u011f\u0131 Noxudlu"
+    ],
     "name:und_x_variant":[
         "Nizhniye Nokhudly",
         "Ashagy Nokhudlu",
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1293518991,
-    "wof:lastmodified":1537585273,
+    "wof:lastmodified":1564126009,
     "wof:name":"Asagi Noxudlu",
     "wof:parent_id":85668449,
     "wof:placetype":"locality",

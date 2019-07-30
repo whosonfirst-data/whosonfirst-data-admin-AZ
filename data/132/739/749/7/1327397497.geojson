@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Mollakamall\u0131"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bb\u03bb\u03b1\u03ba\u03b1\u03bc\u03b1\u03bb\u03bb\u03af"
+    ],
+    "name:ita_x_preferred":[
+        "Mollakamall\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Mollakamall\u0131"
+    ],
     "name:und_x_variant":[
         "Mollakemally",
         "Molla-Kemanly",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1327397497,
-    "wof:lastmodified":1537585368,
+    "wof:lastmodified":1564125735,
     "wof:name":"Mollakamalli",
     "wof:parent_id":85668339,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "name:aze_x_preferred":[
         "\u015e\u0259r\u0259fxanl\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "Sharafkhanly"
+    ],
+    "name:ita_x_preferred":[
+        "\u015e\u0259r\u0259fxanl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10e0\u10d0\u10e4\u10ee\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u015e\u0259r\u0259fxanl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u0430\u0444\u0445\u0430\u043d\u043b\u044b"
+    ],
+    "name:swe_x_preferred":[
+        "Sharafkhanly"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632717
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1209118961,
-    "wof:lastmodified":1537585340,
+    "wof:lastmodified":1564126208,
     "wof:name":"Sharafkhanly",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

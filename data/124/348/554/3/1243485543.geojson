@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0644\u06cc\u0645 \u0627\u0648\u0628\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "S\u0259limoba"
+    ],
+    "name:ita_x_preferred":[
+        "S\u0259limoba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10da\u10d8\u10db\u10dd\u10d1\u10d0"
+    ],
+    "name:lez_x_preferred":[
+        "\u0421\u0435\u043b\u0438\u043c\u0443\u0431\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "S\u0259limoba"
+    ],
     "name:und_x_variant":[
         "S\u0259limoba",
         "Salimoba"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1243485543,
-    "wof:lastmodified":1537585346,
+    "wof:lastmodified":1564126470,
     "wof:name":"Selimoba",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

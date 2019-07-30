@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Qozqaral\u0131"
     ],
+    "name:ita_x_preferred":[
+        "Qozqaral\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10dd\u10d6\u10e5\u10d0\u10e0\u10d0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qozqaral\u0131"
+    ],
     "name:und_x_variant":[
         "Kozkaraly"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1310370841,
-    "wof:lastmodified":1537585528,
+    "wof:lastmodified":1564126335,
     "wof:name":"Qozqarali",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

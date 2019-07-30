@@ -25,6 +25,12 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Moloja"
+    ],
+    "name:msa_x_preferred":[
+        "Moloja"
+    ],
     "name:und_x_variant":[
         "Molozh\u2019ya",
         "Molozha",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1243214521,
-    "wof:lastmodified":1537585177,
+    "wof:lastmodified":1564126520,
     "wof:name":"Moloja",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

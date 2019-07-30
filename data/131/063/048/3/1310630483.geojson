@@ -31,6 +31,21 @@
     "name:aze_x_variant":[
         "K\u0259r\u0259mli"
     ],
+    "name:ceb_x_preferred":[
+        "Karakeshish"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0580\u0561\u057b\u0578\u0582\u0580"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d0\u10e0\u10d0\u10db\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "K\u0259r\u0259mli"
+    ],
+    "name:swe_x_preferred":[
+        "Karakeshish"
+    ],
     "name:und_x_variant":[
         "26 Komissar ad\u0131na Kend",
         "Imeni Dvadtsati Shesti Komissarov",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1310630483,
-    "wof:lastmodified":1537585427,
+    "wof:lastmodified":1564126330,
     "wof:name":"Karakeshish",
     "wof:parent_id":85668211,
     "wof:placetype":"locality",

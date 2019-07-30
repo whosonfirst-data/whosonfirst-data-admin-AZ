@@ -25,6 +25,33 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u062c\u0648\u0647\u0641\u062a\u0631\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "M\u00fcc\u00fch\u0259ft\u0259ran"
+    ],
+    "name:ceb_x_preferred":[
+        "Myudzhyugaftaran"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062c\u0648\u0647\u0641\u062a\u0631\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00fcc\u00fch\u0259ft\u0259ran"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e3\u10ef\u10d8\u10e3\u10f0\u10d0\u10e4\u10d7\u10d0\u10e0\u10d0\u10dc\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u041c\u0443\u044c\u0436\u0443\u044c\u0433\u044c\u0430\u0444\u0442\u0435\u0440\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "M\u00fcc\u00fch\u0259ft\u0259ran"
+    ],
+    "name:swe_x_preferred":[
+        "Myudzhyugaftaran"
+    ],
     "name:und_x_variant":[
         "Myudzhyukhefteran",
         "Myudzhyugaftaran",
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1242634803,
-    "wof:lastmodified":1537585364,
+    "wof:lastmodified":1564126507,
     "wof:name":"Myudzhyugaftaran",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

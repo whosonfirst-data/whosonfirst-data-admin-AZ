@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "C\u0259ngan"
     ],
+    "name:ita_x_preferred":[
+        "Dzhangyan"
+    ],
+    "name:msa_x_preferred":[
+        "Dzhangyan"
+    ],
     "name:und_x_variant":[
         "Dzhangan",
         "Dzhangyan"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1209751773,
-    "wof:lastmodified":1537585244,
+    "wof:lastmodified":1564126228,
     "wof:name":"Dzhangyan",
     "wof:parent_id":85668409,
     "wof:placetype":"locality",

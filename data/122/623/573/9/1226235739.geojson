@@ -25,6 +25,33 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0631\u06cc\u0646\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Rin\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "Reyna"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0646\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "Rin\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d8\u10dc\u10d0"
+    ],
+    "name:kur_x_preferred":[
+        "R\u00eene"
+    ],
+    "name:msa_x_preferred":[
+        "Rin\u0259"
+    ],
+    "name:swe_x_preferred":[
+        "Reyna"
+    ],
     "name:und_x_variant":[
         "Rin\u0259",
         "Rina"
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1226235739,
-    "wof:lastmodified":1537585292,
+    "wof:lastmodified":1564126646,
     "wof:name":"Reyna",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

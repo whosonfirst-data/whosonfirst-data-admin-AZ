@@ -34,6 +34,12 @@
     "name:hye_x_variant":[
         "\u0539\u056b\u0576"
     ],
+    "name:ita_x_preferred":[
+        "Tinli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d8\u10dc\u10da\u10d8"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0438\u043d\u043b\u0438"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1209498549,
-    "wof:lastmodified":1537585140,
+    "wof:lastmodified":1564126171,
     "wof:name":"Tinli",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

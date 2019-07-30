@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "A\u015fkar"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03ba\u03ac\u03c1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10e5\u10d0\u10e0\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "A\u015fkar"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fkar"
+    ],
     "name:und_x_variant":[
         "Ashkar"
     ],
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1209645789,
-    "wof:lastmodified":1537585532,
+    "wof:lastmodified":1564126154,
     "wof:name":"Askar",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

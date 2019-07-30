@@ -38,6 +38,18 @@
     "name:aze_x_variant":[
         "Aza"
     ],
+    "name:ceb_x_preferred":[
+        "Aza"
+    ],
+    "name:deu_x_preferred":[
+        "Aza"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d6\u10d0"
+    ],
+    "name:swe_x_preferred":[
+        "Aza"
+    ],
     "name:und_x_variant":[
         "Jukhary Aza",
         "Yukary-Aza",
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":1276164127,
-    "wof:lastmodified":1537585129,
+    "wof:lastmodified":1564126066,
     "wof:name":"Aza",
     "wof:parent_id":85668665,
     "wof:placetype":"locality",

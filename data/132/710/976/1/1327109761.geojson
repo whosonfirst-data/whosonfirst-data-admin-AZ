@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Qonaql\u0131"
     ],
+    "name:ita_x_preferred":[
+        "Qonaql\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Qonaql\u0131"
+    ],
     "name:und_x_variant":[
         "Konagly"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1327109761,
-    "wof:lastmodified":1537585532,
+    "wof:lastmodified":1564125826,
     "wof:name":"Qonaqli",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

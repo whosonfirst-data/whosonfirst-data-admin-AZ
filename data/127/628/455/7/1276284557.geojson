@@ -29,6 +29,24 @@
     "name:aze_x_preferred":[
         "Tivi"
     ],
+    "name:ceb_x_preferred":[
+        "Tivi"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0587\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Tivi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d8\u10d5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Tivi"
+    ],
+    "name:swe_x_preferred":[
+        "Tivi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1276284557,
-    "wof:lastmodified":1537585139,
+    "wof:lastmodified":1564126050,
     "wof:name":"Tivi",
     "wof:parent_id":85668665,
     "wof:placetype":"locality",

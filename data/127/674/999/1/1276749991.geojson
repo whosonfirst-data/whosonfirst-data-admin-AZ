@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0639\u0635\u0645\u062a\u200c\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "\u0130sm\u0259tli"
+    ],
+    "name:ceb_x_preferred":[
+        "Konstantinovka"
+    ],
+    "name:ita_x_preferred":[
+        "\u0130sm\u0259tli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e1\u10db\u10d4\u10d7\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130sm\u0259tli"
+    ],
     "name:und_x_variant":[
         "\u0130sm\u0259tli"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1276749991,
-    "wof:lastmodified":1537585200,
+    "wof:lastmodified":1564126059,
     "wof:name":"Konstantinovka",
     "wof:parent_id":85668317,
     "wof:placetype":"locality",

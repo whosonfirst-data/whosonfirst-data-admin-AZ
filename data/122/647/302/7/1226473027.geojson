@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u0259dikq\u0131\u015flaq"
+    ],
+    "name:ita_x_preferred":[
+        "G\u0259dikq\u0131\u015flaq"
+    ],
+    "name:msa_x_preferred":[
+        "G\u0259dikq\u0131\u015flaq"
+    ],
     "name:und_x_variant":[
         "Gyadikoyeydlyar",
         "G\u0259dikq\u0131\u015flaq",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226473027,
-    "wof:lastmodified":1537585432,
+    "wof:lastmodified":1564126639,
     "wof:name":"Gyadikseydlyar",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

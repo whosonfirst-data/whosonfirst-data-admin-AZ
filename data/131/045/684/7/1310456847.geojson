@@ -25,11 +25,20 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06cc\u0648\u062e\u0627\u0631\u06cc \u0622\u06cc\u0631\u06cc\u0645"
+    ],
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 Ayr\u0131m"
+    ],
     "name:hye_x_preferred":[
         "Ayrum"
     ],
     "name:hye_x_variant":[
         "\u0531\u0575\u0580\u0578\u0582\u0574"
+    ],
+    "name:msa_x_preferred":[
+        "Yuxar\u0131 Ayr\u0131m"
     ],
     "name:rus_x_preferred":[
         "\u042e\u0445\u0430\u0440\u044b-\u0410\u0439\u0440\u0443\u043c"
@@ -37,6 +46,9 @@
     "name:und_x_variant":[
         "Yukhary-Ayrum",
         "Yuxar\u0131 Ayr\u0131m"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u06a9\u0634\u0627\u0631\u06cc \u06cc\u0631\u06cc\u0645"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1310456847,
-    "wof:lastmodified":1537585312,
+    "wof:lastmodified":1564126339,
     "wof:name":"Yuxari Ayrim",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

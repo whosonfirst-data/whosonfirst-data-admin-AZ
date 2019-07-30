@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Mikolan"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03ba\u03bf\u03bb\u03ac\u03bd"
+    ],
+    "name:msa_x_preferred":[
+        "Mikolan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226796465,
-    "wof:lastmodified":1537585527,
+    "wof:lastmodified":1564126648,
     "wof:name":"Mikolan",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

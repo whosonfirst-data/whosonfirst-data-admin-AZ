@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xalxalq\u0131\u015flaq"
+    ],
+    "name:ceb_x_preferred":[
+        "Xalxalq\u0131\u015flaq"
+    ],
+    "name:ita_x_preferred":[
+        "Xalxalq\u0131\u015flaq"
+    ],
+    "name:msa_x_preferred":[
+        "Xalxalq\u0131\u015flaq"
+    ],
+    "name:swe_x_preferred":[
+        "Xalxalq\u0131\u015flaq"
+    ],
     "name:und_x_variant":[
         "Khalkhal-Kyshlag",
         "Khalkhalkyshlak",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1310357137,
-    "wof:lastmodified":1537585400,
+    "wof:lastmodified":1564126357,
     "wof:name":"Xalxalqislaq",
     "wof:parent_id":85668549,
     "wof:placetype":"locality",

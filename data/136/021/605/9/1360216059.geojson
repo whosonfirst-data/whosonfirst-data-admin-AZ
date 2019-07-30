@@ -25,11 +25,23 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0632\u06af\u0631"
+    ],
     "name:aze_x_preferred":[
         "N\u0259rimanl\u0131"
     ],
     "name:eng_x_preferred":[
         "N\u00fczg\u01ddr"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0632\u06af\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "N\u00fczg\u0259r"
+    ],
+    "name:msa_x_preferred":[
+        "N\u00fczg\u0259r"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0443\u0437\u0433\u0435\u0440"
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1360216059,
-    "wof:lastmodified":1537585358,
+    "wof:lastmodified":1564126393,
     "wof:name":"Nuzger",
     "wof:parent_id":85668233,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "\u00c7il\u0259b\u00fcrt"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u0436\u0440\u0430\u0431\u0435\u0440\u0434"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0631\u0627\u0628\u0631\u062f"
+    ],
     "name:hye_x_preferred":[
         "Jraberd"
     ],
@@ -36,8 +42,17 @@
         "Nor Jraberd",
         "\u0546\u0578\u0580 \u054b\u0580\u0561\u0562\u0565\u0580\u0564"
     ],
+    "name:ita_x_preferred":[
+        "Jraberd"
+    ],
+    "name:msa_x_preferred":[
+        "Jraberd"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0435\u0440\u0430\u0431\u0435\u0440\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0440\u0430\u0431\u0435\u0440\u0434"
     ],
     "name:und_x_variant":[
         "Dzherabert"
@@ -66,7 +81,7 @@
         }
     ],
     "wof:id":1293323359,
-    "wof:lastmodified":1537585517,
+    "wof:lastmodified":1564126004,
     "wof:name":"Jraberd",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

@@ -25,11 +25,26 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062e\u0646\u0648\u0634\u06cc\u0646\u0627\u06a9"
+    ],
     "name:aze_x_preferred":[
         "Xanoba"
     ],
     "name:aze_x_variant":[
         "Xnu\u015finak"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u043d\u0443\u0448\u044b\u043d\u0430\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Xanoba"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0646\u0648\u0634\u06cc\u0646\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Khnoushinak"
     ],
     "name:hye_x_preferred":[
         "Hnushinak"
@@ -37,6 +52,18 @@
     "name:hye_x_variant":[
         "\u0540\u0576\u0578\u0582\u0577\u056b\u0576\u0561\u056f",
         "\u053d\u0576\u0578\u0582\u0577\u056b\u0576\u0561\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Hnushinak"
+    ],
+    "name:msa_x_preferred":[
+        "Khnushinak"
+    ],
+    "name:swe_x_preferred":[
+        "Xanoba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043d\u0443\u0448\u0456\u043d\u0430\u043a"
     ],
     "name:und_x_variant":[
         "Khnoushinak",
@@ -66,7 +93,7 @@
         }
     ],
     "wof:id":1293134893,
-    "wof:lastmodified":1537585206,
+    "wof:lastmodified":1564125987,
     "wof:name":"Xanoba",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

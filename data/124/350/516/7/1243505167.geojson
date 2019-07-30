@@ -25,8 +25,20 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u0627\u0645\u0628\u06cc\u06cc"
+    ],
     "name:aze_x_preferred":[
         "P\u0259mb\u0259yi"
+    ],
+    "name:aze_x_variant":[
+        "Pamb\u0259yi"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0646\u0628\u0647\u200c\u0627\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Pamb\u0259yi"
     ],
     "name:und_x_variant":[
         "Pambagi",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1243505167,
-    "wof:lastmodified":1537585166,
+    "wof:lastmodified":1564126480,
     "wof:name":"Pombagi",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

@@ -25,6 +25,36 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ava_x_preferred":[
+        "\u041b\u0435\u043aI\u0438\u043a\u044c \u041aI\u0430\u0442I\u0438\u0445\u044a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0644\u06a9\u06cc\u062a \u06a9\u0624\u062a\u0648\u06a9\u200c\u0644\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "L\u0259kit K\u00f6t\u00fckl\u00fc"
+    ],
+    "name:ceb_x_preferred":[
+        "L\u0259kit K\u00f6t\u00fckl\u00fc"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03ba\u03af\u03c4 \u039a\u03bf\u03c4\u03bf\u03c5\u03ba\u03bb\u03bf\u03cd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06a9\u06cc\u062a \u06a9\u062a\u0648\u06a9\u0644\u0648"
+    ],
+    "name:ita_x_preferred":[
+        "L\u0259kit K\u00f6t\u00fckl\u00fc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10e5\u10d4\u10d7\u10d8-\u10e5\u10d8\u10dd\u10d7\u10d8\u10e3\u10e5\u10da\u10d8\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "L\u0259kit K\u00f6t\u00fckl\u00fc"
+    ],
+    "name:swe_x_preferred":[
+        "L\u0259kit K\u00f6t\u00fckl\u00fc"
+    ],
     "name:und_x_variant":[
         "Lekit K\u00ebtyuklyu",
         "L\u0259kit K\u00f6t\u00fckl\u00fc"
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1327469809,
-    "wof:lastmodified":1537585379,
+    "wof:lastmodified":1564125792,
     "wof:name":"Lakit Kotuklu",
     "wof:parent_id":85668557,
     "wof:placetype":"locality",

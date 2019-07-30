@@ -25,10 +25,16 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0626\u06cc\u062f\u06cc\u0645\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Seyidimli"
     ],
     "name:aze_x_variant":[
+        "Seydimli"
+    ],
+    "name:ceb_x_preferred":[
         "Seydimli"
     ],
     "name:hye_x_preferred":[
@@ -37,8 +43,20 @@
     "name:hye_x_variant":[
         "\u054d\u0565\u0575\u0564\u056b\u0574\u056c\u056b"
     ],
+    "name:ita_x_preferred":[
+        "Seydimli"
+    ],
+    "name:msa_x_preferred":[
+        "Seydimli"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0438\u0434\u0438\u043c\u043b\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0435\u0439\u0434\u0438\u043c\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Seydimli"
     ],
     "name:und_x_variant":[
         "Seidimli"
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1209449123,
-    "wof:lastmodified":1537585344,
+    "wof:lastmodified":1564126224,
     "wof:name":"Seydimli",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

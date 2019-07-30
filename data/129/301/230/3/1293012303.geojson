@@ -34,6 +34,15 @@
     "name:hye_x_variant":[
         "\u054d\u0561\u0580\u0568\u057b\u0561\u056c\u0568"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10d8\u10f0\u10d0\u10ef\u10d8\u10da\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Sar\u0131hac\u0131l\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Sar\u0131hac\u0131l\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u044b\u0433\u0430\u0434\u0436\u044b\u043b\u044b"
     ],
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1293012303,
-    "wof:lastmodified":1537585158,
+    "wof:lastmodified":1564125953,
     "wof:name":"Sarihacili",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

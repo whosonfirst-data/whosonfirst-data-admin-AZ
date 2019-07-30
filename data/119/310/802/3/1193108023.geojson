@@ -31,6 +31,12 @@
     "name:hye_x_preferred":[
         "\u0532\u0565\u0575\u0578\u0582\u0584 \u0544\u0561\u0580\u057b\u0561\u0576\u056c\u0568"
     ],
+    "name:min_x_preferred":[
+        "B\u00f6y\u00fck M\u0259rcanl\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00f6y\u00fck M\u0259rcanl\u0131"
+    ],
     "name:rus_x_preferred":[
         "B\u00ebyuk Mardzhanly"
     ],
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1193108023,
-    "wof:lastmodified":1537585263,
+    "wof:lastmodified":1564126260,
     "wof:name":"Boyuk Marcanli",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

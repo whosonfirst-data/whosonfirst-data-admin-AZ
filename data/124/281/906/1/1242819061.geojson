@@ -29,6 +29,24 @@
     "name:aze_x_preferred":[
         "Hac\u0131var"
     ],
+    "name:ceb_x_preferred":[
+        "Hac\u0131var"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u057b\u056b\u057e\u0561\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Hac\u0131var"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10ef\u10d8\u10d5\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Hac\u0131var"
+    ],
+    "name:swe_x_preferred":[
+        "Hac\u0131var"
+    ],
     "name:und_x_variant":[
         "Gadzhyvar",
         "Khadzhivar"
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1242819061,
-    "wof:lastmodified":1537585238,
+    "wof:lastmodified":1564126453,
     "wof:name":"Hacivar",
     "wof:parent_id":85668673,
     "wof:placetype":"locality",

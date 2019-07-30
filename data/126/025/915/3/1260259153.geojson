@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Amank\u0259nd"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03af\u03bc"
+    ],
+    "name:ita_x_preferred":[
+        "Ashim"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10d8\u10db\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Ashim"
+    ],
     "name:und_x_variant":[
         "Ameni-Kend",
         "Amankend"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1260259153,
-    "wof:lastmodified":1537585271,
+    "wof:lastmodified":1564126270,
     "wof:name":"Ashim",
     "wof:parent_id":85668317,
     "wof:placetype":"locality",

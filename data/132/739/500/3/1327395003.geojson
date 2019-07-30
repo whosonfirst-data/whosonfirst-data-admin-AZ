@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0644\u0627\u062f\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Bolad\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Bolad\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "Bolad\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Bolad\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Bolad\u0131"
+    ],
     "name:und_x_variant":[
         "Volady",
         "Balady",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1327395003,
-    "wof:lastmodified":1537585262,
+    "wof:lastmodified":1564125735,
     "wof:name":"Boladi",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

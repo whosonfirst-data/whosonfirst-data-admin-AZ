@@ -25,8 +25,20 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062e\u0627\u0646 \u0627\u0648\u0628\u0627"
+    ],
     "name:aze_x_preferred":[
         "Xanoba"
+    ],
+    "name:ita_x_preferred":[
+        "Zeyxuroba"
+    ],
+    "name:lez_x_preferred":[
+        "\u0425\u0430\u043d\u0443\u0431\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Zeyxuroba"
     ],
     "name:und_x_variant":[
         "Khanoba",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1326664515,
-    "wof:lastmodified":1537585307,
+    "wof:lastmodified":1564125776,
     "wof:name":"Xanoba",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

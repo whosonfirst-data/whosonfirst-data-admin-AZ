@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Ceyranl\u0131"
     ],
+    "name:msa_x_preferred":[
+        "Ceyranl\u0131"
+    ],
     "name:und_x_variant":[
         "Orta Emirkhanly",
         "Dzheyranly"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1209892359,
-    "wof:lastmodified":1537585356,
+    "wof:lastmodified":1564126216,
     "wof:name":"Ceyranli",
     "wof:parent_id":85668339,
     "wof:placetype":"locality",

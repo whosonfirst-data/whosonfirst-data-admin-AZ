@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Ceyran\u00e7\u00f6l"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03ca\u03c1\u03b1\u03bd\u03c4\u03c3\u03cc\u03bb"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0565\u0575\u0580\u0561\u0576\u0579\u0578\u056c"
+    ],
+    "name:ita_x_preferred":[
+        "Ceyran\u00e7\u00f6l"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d4\u10d8\u10e0\u10d0\u10dc\u10e9\u10d8\u10dd\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Ceyran\u00e7\u00f6l"
+    ],
     "name:rus_x_preferred":[
         "Dzheyranch\u00ebl\u2019"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1310428325,
-    "wof:lastmodified":1537585534,
+    "wof:lastmodified":1564126337,
     "wof:name":"Ceyrancol",
     "wof:parent_id":85668195,
     "wof:placetype":"locality",

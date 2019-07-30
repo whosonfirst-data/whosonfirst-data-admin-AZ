@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "\u0130snov"
     ],
+    "name:ita_x_preferred":[
+        "\u0130snov"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130snov"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1260214435,
-    "wof:lastmodified":1537585542,
+    "wof:lastmodified":1564126288,
     "wof:name":"Isnov",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

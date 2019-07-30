@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Cunud"
     ],
+    "name:ceb_x_preferred":[
+        "Cunud"
+    ],
+    "name:ita_x_preferred":[
+        "Cunut"
+    ],
+    "name:msa_x_preferred":[
+        "Cunut"
+    ],
+    "name:swe_x_preferred":[
+        "Cunud"
+    ],
     "name:und_x_variant":[
         "Dzhunut",
         "Cunut"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1327470213,
-    "wof:lastmodified":1537585447,
+    "wof:lastmodified":1564125786,
     "wof:name":"Cunud",
     "wof:parent_id":85668565,
     "wof:placetype":"locality",

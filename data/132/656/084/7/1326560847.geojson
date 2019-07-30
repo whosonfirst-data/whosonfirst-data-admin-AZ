@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Cindar"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03bd\u03c4\u03ac\u03c1"
+    ],
+    "name:ita_x_preferred":[
+        "C\u0131ndar"
+    ],
+    "name:msa_x_preferred":[
+        "C\u0131ndar"
+    ],
     "name:und_x_variant":[
         "Dzhindar"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1326560847,
-    "wof:lastmodified":1537585542,
+    "wof:lastmodified":1564125765,
     "wof:name":"Cindar",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

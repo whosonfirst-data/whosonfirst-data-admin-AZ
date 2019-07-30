@@ -25,11 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ba\u015f K\u00fcng\u00fct"
+    ],
+    "name:ceb_x_preferred":[
+        "Bash-Kyungyut"
+    ],
     "name:eng_x_preferred":[
+        "Ba\u015f K\u00fcng\u00fct"
+    ],
+    "name:ita_x_preferred":[
+        "Ba\u015f K\u00fcng\u00fct"
+    ],
+    "name:msa_x_preferred":[
         "Ba\u015f K\u00fcng\u00fct"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0448 \u041a\u044e\u043d\u0433\u044e\u0442"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0448-\u041a\u044e\u043d\u0433\u044e\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Bash-Kyungyut"
     ],
     "name:und_x_variant":[
         "Ba\u015f K\u00fcng\u00fct"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1276804297,
-    "wof:lastmodified":1537585477,
+    "wof:lastmodified":1564126058,
     "wof:name":"Bash-Kyungyut",
     "wof:parent_id":85668565,
     "wof:placetype":"locality",

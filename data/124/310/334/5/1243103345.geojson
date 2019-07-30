@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Haran"
+    ],
+    "name:ita_x_preferred":[
+        "Haran"
+    ],
+    "name:msa_x_preferred":[
+        "Haran"
+    ],
     "name:und_x_variant":[
         "Kharan",
         "Haran"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1243103345,
-    "wof:lastmodified":1537585209,
+    "wof:lastmodified":1564126519,
     "wof:name":"Haran",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

@@ -32,6 +32,15 @@
         "\u0130lis",
         "Qarak\u00f6t\u00fck"
     ],
+    "name:bel_x_preferred":[
+        "\u0406\u043b\u0456\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Ilis"
+    ],
+    "name:fra_x_preferred":[
+        "Hilis"
+    ],
     "name:hye_x_preferred":[
         "K\u2019ilis"
     ],
@@ -39,8 +48,20 @@
         "\u0554\u056b\u056c\u056b\u057d",
         "\u0540\u056b\u056c\u056b\u057d"
     ],
+    "name:ita_x_preferred":[
+        "Hilis"
+    ],
+    "name:msa_x_preferred":[
+        "Hilis"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u043b\u0438\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Ilis"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043b\u0456\u0441"
     ],
     "name:und_x_variant":[
         "\u0418\u043b\u0438\u0441"
@@ -69,7 +90,7 @@
         }
     ],
     "wof:id":1243203045,
-    "wof:lastmodified":1537585229,
+    "wof:lastmodified":1564126509,
     "wof:name":"Ilis",
     "wof:parent_id":85668657,
     "wof:placetype":"locality",

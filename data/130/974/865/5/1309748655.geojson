@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "\u00c7ayq\u0131\u015flaq"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03ca\u03ba\u03b9\u03c3\u03bb\u03ac\u03ba"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7ayq\u0131\u015flaq"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7ayq\u0131\u015flaq"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1309748655,
-    "wof:lastmodified":1537585543,
+    "wof:lastmodified":1564126426,
     "wof:name":"Cayqislaq",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

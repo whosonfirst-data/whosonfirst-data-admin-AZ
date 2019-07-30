@@ -34,6 +34,15 @@
     "name:hye_x_variant":[
         "Mandyly"
     ],
+    "name:ita_x_preferred":[
+        "Mand\u0131l\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10dc\u10d3\u10d8\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Mand\u0131l\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043d\u0434\u044b\u043b\u044b"
     ],
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1326906281,
-    "wof:lastmodified":1537585300,
+    "wof:lastmodified":1564125811,
     "wof:name":"Mandili",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

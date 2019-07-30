@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "\u015e\u0131xh\u00fcseynli"
     ],
+    "name:ita_x_preferred":[
+        "Shosi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10dd\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Shosi"
+    ],
     "name:und_x_variant":[
         "Shosi",
         "Shykhguseynli"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1260218557,
-    "wof:lastmodified":1537585291,
+    "wof:lastmodified":1564126289,
     "wof:name":"Sixhuseynli",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

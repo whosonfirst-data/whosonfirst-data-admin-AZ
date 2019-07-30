@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0634\u0686\u0648 \u0622\u06cc\u0631\u06cc\u0645"
+    ],
+    "name:aze_x_preferred":[
+        "Qu\u015f\u00e7u Ayr\u0131m"
+    ],
+    "name:hye_x_preferred":[
+        "\u0542\u0578\u0582\u0577\u0579\u0578\u0582 \u0531\u0575\u0580\u0578\u0582\u0574"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10e3\u10e8\u10e9\u10e3-\u10d0\u10d8\u10e0\u10d8\u10db\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qu\u015f\u00e7u Ayr\u0131m"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0448\u0447\u0443-\u0410\u0439\u0440\u0443\u043c"
+    ],
     "name:und_x_variant":[
         "Kushchu Ayrum",
         "Kushchi-Ayrum",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1242619933,
-    "wof:lastmodified":1537585385,
+    "wof:lastmodified":1564126459,
     "wof:name":"Quscu Ayrim",
     "wof:parent_id":85668229,
     "wof:placetype":"locality",

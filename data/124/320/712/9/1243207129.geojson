@@ -31,8 +31,23 @@
     "name:aze_x_variant":[
         "Qana\u00e7tala"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u0447 \u0442\u0430\u043b\u0430"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u0576\u0561\u0579\u0569\u0561\u056c\u0561"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0561\u0576\u0561\u0579 \u0569\u0561\u056c\u0561"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00f6ytala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0451\u0439\u0442\u0430\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u0447 \u0442\u0430\u043b\u0430"
     ],
     "name:und_x_variant":[
         "Kanashtala",
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1243207129,
-    "wof:lastmodified":1537585224,
+    "wof:lastmodified":1564126509,
     "wof:name":"Goytala",
     "wof:parent_id":85668643,
     "wof:placetype":"locality",

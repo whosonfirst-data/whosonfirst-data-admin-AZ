@@ -25,14 +25,35 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0639\u0644\u06cc\u0645\u0631\u062f\u0627\u0646\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "\u018flim\u0259rdanl\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Alimardanly"
     ],
     "name:eng_x_preferred":[
         "\u018flim\u01ddrdanl\u0131"
     ],
+    "name:fas_x_preferred":[
+        "\u0639\u0644\u06cc\u0645\u0631\u062f\u0627\u0646\u0644\u06cc"
+    ],
+    "name:ita_x_preferred":[
+        "\u018flim\u0259rdanl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d8\u10db\u10d0\u10e0\u10d3\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018flim\u0259rdanl\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0438\u043c\u0430\u0440\u0434\u0430\u043d\u043b\u044b"
+    ],
+    "name:swe_x_preferred":[
+        "Alimardanly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1242904429,
-    "wof:lastmodified":1537585496,
+    "wof:lastmodified":1564126504,
     "wof:name":"Alimardanly",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

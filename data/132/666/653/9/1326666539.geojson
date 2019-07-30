@@ -25,6 +25,12 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10dc\u10d2\u10e3\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Donguli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1326666539,
-    "wof:lastmodified":1537486651,
+    "wof:lastmodified":1564125777,
     "wof:name":"Donguli",
     "wof:parent_id":85668485,
     "wof:placetype":"locality",

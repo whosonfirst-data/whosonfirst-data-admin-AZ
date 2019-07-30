@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Qolq\u0259ti"
     ],
+    "name:ita_x_preferred":[
+        "Qolq\u0259ti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10dd\u10da\u10d2\u10d0\u10d7\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qolq\u0259ti"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u0433\u0430\u0442\u044b"
+    ],
     "name:und_x_variant":[
         "Yuxar\u0131 Qolq\u0259ti"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1226646971,
-    "wof:lastmodified":1537585311,
+    "wof:lastmodified":1564126653,
     "wof:name":"Yukhary Kolgaty",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

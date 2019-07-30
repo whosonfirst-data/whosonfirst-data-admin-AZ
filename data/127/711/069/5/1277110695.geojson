@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ava_x_preferred":[
+        "\u041aI\u0443\u0434\u0430\u0431 \u0425\u0430\u043b\u0430\u043aI\u0443\u043c\u0443\u0440"
+    ],
+    "name:aze_x_preferred":[
+        "B\u00f6y\u00fck Alat\u0259mir"
+    ],
+    "name:ceb_x_preferred":[
+        "Beyuk-Alateymur"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03b3\u03b9\u03bf\u03cd\u03ba \u0391\u03bb\u03b1\u03c4\u03b5\u03bc\u03af\u03c1"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00f6y\u00fck Alat\u0259mir"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10dd\u10d8\u10d8\u10e3\u10e5\u10d8-\u10d0\u10da\u10d0\u10d7\u10d4\u10db\u10d8\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00f6y\u00fck Alat\u0259mir"
+    ],
+    "name:swe_x_preferred":[
+        "Beyuk-Alateymur"
+    ],
     "name:und_x_variant":[
         "B\u00ebyuk Alatemir",
         "Beyuk-Alateymur",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1277110695,
-    "wof:lastmodified":1537585474,
+    "wof:lastmodified":1564126133,
     "wof:name":"Beyuk-Alateymur",
     "wof:parent_id":85668557,
     "wof:placetype":"locality",

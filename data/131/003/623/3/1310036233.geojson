@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaratu\u011fay"
+    ],
+    "name:ceb_x_preferred":[
+        "Qaratu\u011fay"
+    ],
+    "name:ita_x_preferred":[
+        "Qaratu\u011fay"
+    ],
+    "name:msa_x_preferred":[
+        "Qaratu\u011fay"
+    ],
+    "name:swe_x_preferred":[
+        "Qaratu\u011fay"
+    ],
     "name:und_x_variant":[
         "Kara-Tugai",
         "Karatogay",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1310036233,
-    "wof:lastmodified":1537585218,
+    "wof:lastmodified":1564126353,
     "wof:name":"Qaratugay",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

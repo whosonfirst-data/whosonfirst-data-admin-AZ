@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Qa\u00e7aq K\u0259r\u0259m"
     ],
+    "name:ita_x_preferred":[
+        "Qa\u00e7aq K\u0259r\u0259m"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10e9\u10d0\u10d2-\u10e5\u10d4\u10e0\u10d4\u10db\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qa\u00e7aq K\u0259r\u0259m"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1209913165,
-    "wof:lastmodified":1537585534,
+    "wof:lastmodified":1564126145,
     "wof:name":"Qacaq Karam",
     "wof:parent_id":85668195,
     "wof:placetype":"locality",

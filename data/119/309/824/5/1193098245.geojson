@@ -25,8 +25,26 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0644\u0648\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Vilvan"
+    ],
+    "name:ceb_x_preferred":[
+        "Vilvan"
+    ],
+    "name:ita_x_preferred":[
+        "Vilvan"
+    ],
+    "name:msa_x_preferred":[
+        "Vilvan"
+    ],
     "name:rus_x_preferred":[
         "Vil\u2019van"
+    ],
+    "name:swe_x_preferred":[
+        "Vilvan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1193098245,
-    "wof:lastmodified":1537585133,
+    "wof:lastmodified":1564126237,
     "wof:name":"Vilvan",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

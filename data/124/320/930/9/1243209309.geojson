@@ -31,6 +31,9 @@
     "name:hye_x_preferred":[
         "\u0534\u056b\u057e\u0561\u0576\u0561\u056c\u0568\u056c\u0561\u0580"
     ],
+    "name:msa_x_preferred":[
+        "Divanal\u0131lar"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0438\u0432\u0430\u043d\u0430\u043b\u044b\u043b\u0430\u0440"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1243209309,
-    "wof:lastmodified":1537585248,
+    "wof:lastmodified":1564126507,
     "wof:name":"Divanalilar",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

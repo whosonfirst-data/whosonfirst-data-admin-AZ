@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ava_x_preferred":[
+        "\u0426I\u0430\u043b\u0431\u0430\u043d"
+    ],
+    "name:aze_x_preferred":[
+        "Solban"
+    ],
+    "name:ita_x_preferred":[
+        "Solban"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10da\u10d1\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Solban"
+    ],
     "name:und_x_variant":[
         "Tsolban",
         "Solban"
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1209599093,
-    "wof:lastmodified":1537585323,
+    "wof:lastmodified":1564126189,
     "wof:name":"Solban",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

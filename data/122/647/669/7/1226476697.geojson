@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "K\u00fcman"
     ],
+    "name:ita_x_preferred":[
+        "K\u00fcman"
+    ],
+    "name:msa_x_preferred":[
+        "K\u00fcman"
+    ],
     "name:und_x_variant":[
         "Koman"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1226476697,
-    "wof:lastmodified":1537585518,
+    "wof:lastmodified":1564126638,
     "wof:name":"Kuman",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

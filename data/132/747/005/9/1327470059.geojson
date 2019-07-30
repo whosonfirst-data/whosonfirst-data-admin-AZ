@@ -31,6 +31,18 @@
     "name:aze_x_variant":[
         "A\u015fa\u011f\u0131 Ayibl\u0131"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03b9\u03c1\u03b1\u03bb\u03bb\u03ac\u03c1"
+    ],
+    "name:ita_x_preferred":[
+        "A\u015f\u0131rallar"
+    ],
+    "name:mlg_x_preferred":[
+        "A\u015f\u0131rallar"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015f\u0131rallar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1327470059,
-    "wof:lastmodified":1537585534,
+    "wof:lastmodified":1564125787,
     "wof:name":"Asagi Ayibli",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

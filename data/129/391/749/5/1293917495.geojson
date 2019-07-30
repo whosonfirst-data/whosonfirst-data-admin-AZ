@@ -28,6 +28,24 @@
     "name:aze_x_preferred":[
         "Jiy"
     ],
+    "name:ceb_x_preferred":[
+        "Jiy"
+    ],
+    "name:ita_x_preferred":[
+        "Jiy"
+    ],
+    "name:kat_x_preferred":[
+        "\u10df\u10d8\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Jiy"
+    ],
+    "name:swe_x_preferred":[
+        "Jiy"
+    ],
+    "name:tur_x_preferred":[
+        "Jiy"
+    ],
     "name:und_x_variant":[
         "Zhiy"
     ],
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1293917495,
-    "wof:lastmodified":1537585123,
+    "wof:lastmodified":1564125942,
     "wof:name":"Jiy",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

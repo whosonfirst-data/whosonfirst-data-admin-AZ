@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fr\u015f\u0259li"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fr\u015f\u0259li"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fr\u015f\u0259li"
+    ],
     "name:und_x_variant":[
         "\u018fr\u015f\u0259li",
         "Arshaly"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1293850601,
-    "wof:lastmodified":1537585516,
+    "wof:lastmodified":1564125979,
     "wof:name":"Arshaly",
     "wof:parent_id":85668383,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062c\u0645\u062c\u0645\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "C\u0259mc\u0259mli"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0645\u200c\u062c\u0645\u0644\u06cc"
+    ],
+    "name:ita_x_preferred":[
+        "C\u0259mc\u0259mli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d0\u10db\u10ef\u10d0\u10db\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "C\u0259mc\u0259mli"
+    ],
     "name:und_x_variant":[
         "C\u0259mc\u0259mli"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1344192311,
-    "wof:lastmodified":1537585451,
+    "wof:lastmodified":1564125898,
     "wof:name":"Dzhamdzhamly",
     "wof:parent_id":85668419,
     "wof:placetype":"locality",

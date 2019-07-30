@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Qaraba\u011fl\u0131lar"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b1\u03bc\u03c0\u03b1\u03b3\u03ba\u03bb\u03b9\u03bb\u03ac\u03c1"
+    ],
+    "name:ita_x_preferred":[
+        "Qaraba\u011fl\u0131lar"
+    ],
+    "name:msa_x_preferred":[
+        "Qaraba\u011fl\u0131lar"
+    ],
     "name:und_x_variant":[
         "Karabaglylar"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293914117,
-    "wof:lastmodified":1537585533,
+    "wof:lastmodified":1564125942,
     "wof:name":"Qarabaglilar",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

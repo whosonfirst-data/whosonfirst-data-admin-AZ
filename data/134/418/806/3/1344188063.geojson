@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "\u0130drisiq\u0131\u015flaq"
     ],
+    "name:ita_x_preferred":[
+        "\u0130drisq\u0131\u015flaq"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130drisq\u0131\u015flaq"
+    ],
     "name:und_x_variant":[
         "Idrisi",
         "\u0130drisq\u0131\u015flaq",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1344188063,
-    "wof:lastmodified":1537585304,
+    "wof:lastmodified":1564125906,
     "wof:name":"Idrisqislaq",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

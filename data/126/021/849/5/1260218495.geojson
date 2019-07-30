@@ -25,11 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0631\u0627\u062c\u0645\u06cc\u0631\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Qarac\u0259mirli"
+    ],
+    "name:ceb_x_preferred":[
+        "Karalylar"
+    ],
     "name:eng_x_preferred":[
         "Qarac\u01ddmirli"
     ],
+    "name:ita_x_preferred":[
+        "Qarac\u0259mirli"
+    ],
+    "name:msa_x_preferred":[
+        "Qarac\u0259mirli"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0434\u0436\u0430\u043c\u0438\u0440\u043b\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0430\u0440\u0430\u0434\u0436\u0430\u043c\u0438\u0440\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Garajamirli"
     ],
     "name:und_x_variant":[
         "Karadzhamirly",
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1260218495,
-    "wof:lastmodified":1537585351,
+    "wof:lastmodified":1564126288,
     "wof:name":"Karalylar",
     "wof:parent_id":85668233,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Qas\u0131mq\u0131\u015flaq"
     ],
+    "name:ita_x_preferred":[
+        "Qas\u0131mq\u0131\u015flaq"
+    ],
+    "name:msa_x_preferred":[
+        "Qas\u0131mq\u0131\u015flaq"
+    ],
     "name:und_x_variant":[
         "Kasymkyshlak"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1243208361,
-    "wof:lastmodified":1537585542,
+    "wof:lastmodified":1564126510,
     "wof:name":"Qasimqislaq",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Minax\u00fcr"
     ],
+    "name:ita_x_preferred":[
+        "Minax\u00fcr"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10dc\u10d0\u10ee\u10d8\u10e3\u10e0\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u041c\u0438\u043d\u0435\u0445\u0443\u044c\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Minax\u00fcr"
+    ],
     "name:und_x_variant":[
         "Atlykhan"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1193046925,
-    "wof:lastmodified":1537585536,
+    "wof:lastmodified":1564126244,
     "wof:name":"Minaxur",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

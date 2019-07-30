@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259likball\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Melikbally"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0259likball\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10da\u10d8\u10e5\u10d1\u10d0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "M\u0259likball\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Melikbally"
+    ],
     "name:und_x_variant":[
         "M\u0259likball\u0131"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1310532725,
-    "wof:lastmodified":1537585372,
+    "wof:lastmodified":1564126320,
     "wof:name":"Melikbally",
     "wof:parent_id":85668475,
     "wof:placetype":"locality",

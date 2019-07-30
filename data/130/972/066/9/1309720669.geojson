@@ -28,11 +28,29 @@
     "name:aze_x_preferred":[
         "Mirz\u0259haqverdili"
     ],
+    "name:ceb_x_preferred":[
+        "Mirza-Akhverdly"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u056b\u0580\u0566\u0561\u0561\u056d\u057e\u0565\u0580\u0564\u056b\u056c\u0568"
     ],
+    "name:ita_x_preferred":[
+        "Mirz\u0259haqverdili"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e0\u10d6\u10d0\u10f0\u10d0\u10e5\u10d5\u10d4\u10e0\u10d3\u10d8\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Mirz\u0259haqverdili"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0440\u0437\u0430\u0430\u0445\u0432\u0435\u0434\u0438\u043b\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0438\u0440\u0437\u0430\u0430\u0445\u0432\u0435\u0440\u0434\u0438\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Mirza-Akhverdly"
     ],
     "name:und_x_variant":[
         "Mirzaakhverdili",
@@ -62,7 +80,7 @@
         }
     ],
     "wof:id":1309720669,
-    "wof:lastmodified":1537585179,
+    "wof:lastmodified":1564126429,
     "wof:name":"Mirza-Akhverdly",
     "wof:parent_id":85668519,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Q\u0259r\u0259h"
     ],
+    "name:msa_x_preferred":[
+        "Q\u0259r\u0259h"
+    ],
     "name:und_x_variant":[
         "\u00c7arah"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1326959923,
-    "wof:lastmodified":1537585415,
+    "wof:lastmodified":1564125778,
     "wof:name":"Karakh",
     "wof:parent_id":85668425,
     "wof:placetype":"locality",

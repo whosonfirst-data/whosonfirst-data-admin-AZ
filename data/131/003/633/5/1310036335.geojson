@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Novruzlu"
+    ],
+    "name:ita_x_preferred":[
+        "Novruzlu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10dd\u10d5\u10e0\u10e3\u10d6\u10da\u10e3"
+    ],
     "name:und_x_variant":[
         "Nuruzly",
         "Novruzlu"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1310036335,
-    "wof:lastmodified":1537585169,
+    "wof:lastmodified":1564126352,
     "wof:name":"Novruzlu",
     "wof:parent_id":85668433,
     "wof:placetype":"locality",

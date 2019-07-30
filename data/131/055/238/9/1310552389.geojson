@@ -29,6 +29,12 @@
     "name:aze_x_preferred":[
         "Mi\u015fni"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u0448\u044d\u043d\u0456"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03c3\u03bd\u03af"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u056b\u0577\u0576\u056b"
     ],
@@ -36,8 +42,17 @@
         "Msheni",
         "\u0544\u0577\u0565\u0576\u056b"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e8\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Mi\u015fni"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0448\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0448\u0435\u043d\u0456"
     ],
     "name:und_x_variant":[
         "Mishni"
@@ -66,7 +81,7 @@
         }
     ],
     "wof:id":1310552389,
-    "wof:lastmodified":1537585178,
+    "wof:lastmodified":1564126329,
     "wof:name":"Misni",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

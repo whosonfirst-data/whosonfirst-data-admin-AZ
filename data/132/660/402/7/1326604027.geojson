@@ -28,6 +28,24 @@
     "name:aze_x_preferred":[
         "Mixaylovka"
     ],
+    "name:aze_x_variant":[
+        "B\u0259n\u00f6v\u015f\u0259li"
+    ],
+    "name:ceb_x_preferred":[
+        "Mixaylovka"
+    ],
+    "name:ita_x_preferred":[
+        "Mixaylovka"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10ee\u10d0\u10d8\u10da\u10dd\u10d5\u10d9\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Mixaylovka"
+    ],
+    "name:swe_x_preferred":[
+        "Mixaylovka"
+    ],
     "name:und_x_variant":[
         "Mikhaylovka"
     ],
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1326604027,
-    "wof:lastmodified":1537585537,
+    "wof:lastmodified":1564125769,
     "wof:name":"Mixaylovka",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

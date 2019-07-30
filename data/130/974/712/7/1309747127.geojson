@@ -25,8 +25,23 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062c\u0645\u0639\u06cc\u062a"
+    ],
     "name:aze_x_preferred":[
         "C\u0259miyy\u0259t"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u043d\u0433\u0456"
+    ],
+    "name:ceb_x_preferred":[
+        "Ningi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0646\u06af\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Nngi"
     ],
     "name:hye_x_preferred":[
         "\u0546\u0576\u0563\u056b"
@@ -34,8 +49,20 @@
     "name:hye_x_variant":[
         "Nngi"
     ],
+    "name:ita_x_preferred":[
+        "Nngi"
+    ],
+    "name:msa_x_preferred":[
+        "C\u0259miyy\u0259t"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043d\u0433\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ningi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043d\u0491\u0456"
     ],
     "name:und_x_variant":[
         "Nngi",
@@ -67,7 +94,7 @@
         }
     ],
     "wof:id":1309747127,
-    "wof:lastmodified":1537585171,
+    "wof:lastmodified":1564126423,
     "wof:name":"Ningi",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

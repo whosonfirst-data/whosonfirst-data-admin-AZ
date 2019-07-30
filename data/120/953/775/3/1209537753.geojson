@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kala\u011fayl\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Kala\u011fayl\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "Kala\u011fayl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d0\u10da\u10d0\u10e6\u10d0\u10e3\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Kala\u011fayl\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Kala\u011fayl\u0131"
+    ],
     "name:und_x_variant":[
         "Kalageyli",
         "Kalagayly",
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1209537753,
-    "wof:lastmodified":1537585423,
+    "wof:lastmodified":1564126141,
     "wof:name":"Kalagayli",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

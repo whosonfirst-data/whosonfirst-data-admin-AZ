@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018frm\u0259n\u0259t"
+    ],
+    "name:ceb_x_preferred":[
+        "Ermenet"
+    ],
+    "name:ita_x_preferred":[
+        "\u018frm\u0259n\u0259t"
+    ],
+    "name:msa_x_preferred":[
+        "\u018frm\u0259n\u0259t"
+    ],
+    "name:swe_x_preferred":[
+        "Ermenet"
+    ],
     "name:und_x_variant":[
         "Armenat",
         "Ermenet",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1243493165,
-    "wof:lastmodified":1537585490,
+    "wof:lastmodified":1564126475,
     "wof:name":"Ermenet",
     "wof:parent_id":85668549,
     "wof:placetype":"locality",

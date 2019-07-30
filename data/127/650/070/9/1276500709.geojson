@@ -25,6 +25,12 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d0\u10d1\u10d0\u10d6\u10d0\u10e0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Arabbazarly"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1276500709,
-    "wof:lastmodified":1537486670,
+    "wof:lastmodified":1564126083,
     "wof:name":"Arabbazarly",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

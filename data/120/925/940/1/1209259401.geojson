@@ -29,6 +29,12 @@
     "name:aze_x_preferred":[
         "T\u0259z\u0259k\u0259nd"
     ],
+    "name:ceb_x_preferred":[
+        "Tazakend"
+    ],
+    "name:swe_x_preferred":[
+        "Tazakend"
+    ],
     "name:und_x_variant":[
         "Ortlu-Tazakend",
         "Tazakend"
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1209259401,
-    "wof:lastmodified":1537585141,
+    "wof:lastmodified":1564126174,
     "wof:name":"Tazakend",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

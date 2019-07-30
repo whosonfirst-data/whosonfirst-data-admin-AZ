@@ -25,6 +25,18 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Abdall\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "Abdall\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d1\u10d3\u10d0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Abdall\u0131"
+    ],
     "name:und_x_variant":[
         "Avdally",
         "Abdally",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1225987481,
-    "wof:lastmodified":1537585503,
+    "wof:lastmodified":1564126630,
     "wof:name":"Abdalli",
     "wof:parent_id":85668549,
     "wof:placetype":"locality",

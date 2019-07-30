@@ -28,14 +28,32 @@
     "name:aze_x_preferred":[
         "Hac\u0131k\u0259nd"
     ],
+    "name:aze_x_variant":[
+        "S\u0131n\u0131qkils\u0259"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0440 \u041c\u0430\u043d\u0430\u0448\u044b\u0434"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bd\u03b9\u03ba\u03ba\u03b9\u03bb\u03c3\u03ad"
+    ],
     "name:hye_x_preferred":[
         "Nor Manashen"
     ],
     "name:hye_x_variant":[
         "\u0546\u0578\u0580 \u0544\u0561\u0576\u0561\u0577\u056b\u0564"
     ],
+    "name:msa_x_preferred":[
+        "S\u0131n\u0131qkils\u0259"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u044b\u043d\u044b\u0445\u043a\u0438\u043b\u044c\u0441\u044f"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u044b\u043d\u044b\u0433\u043a\u0438\u043b\u044c\u0441\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0440 \u041c\u0430\u043d\u0430\u0448\u0438\u0434"
     ],
     "name:und_x_variant":[
         "Synykhkil\u2019sya",
@@ -67,7 +85,7 @@
         }
     ],
     "wof:id":1343316927,
-    "wof:lastmodified":1537585330,
+    "wof:lastmodified":1564125835,
     "wof:name":"Synykhkilise",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

@@ -32,14 +32,29 @@
         "K\u00fcrd Mabr\u0131zl\u0131",
         "K\u00fcrd Mahruzlu"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u0440\u0446\u0432\u0430\u0448\u044d\u043d"
+    ],
     "name:hye_x_preferred":[
         "Artsvashen"
     ],
     "name:hye_x_variant":[
         "\u0531\u0580\u056e\u057e\u0561\u0577\u0565\u0576"
     ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d8\u10e3\u10e0\u10d3-\u10db\u10d0\u10f0\u10e0\u10d8\u10d6\u10da\u10d8"
+    ],
+    "name:kur_x_preferred":[
+        "Kurd Mafruzl\u00fb"
+    ],
+    "name:msa_x_preferred":[
+        "K\u00fcrd Mahr\u0131zl\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u044e\u0440\u0434\u043c\u0435\u0445\u0440\u0438\u0437\u043b\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0446\u0432\u0430\u0448\u0435\u043d"
     ],
     "name:und_x_variant":[
         "Kyurdmekhrizli",
@@ -69,7 +84,7 @@
         }
     ],
     "wof:id":1293326607,
-    "wof:lastmodified":1537585193,
+    "wof:lastmodified":1564126002,
     "wof:name":"Kurd Mahruzlu",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

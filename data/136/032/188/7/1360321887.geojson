@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Zilanl\u0131"
     ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d8\u10da\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:kur_x_preferred":[
+        "Z\u00eelanl\u00ee"
+    ],
+    "name:msa_x_preferred":[
+        "Zilanl\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u0438\u043b\u0430\u043d\u043b\u044b"
     ],
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1360321887,
-    "wof:lastmodified":1537585123,
+    "wof:lastmodified":1564126397,
     "wof:name":"Zilanli",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

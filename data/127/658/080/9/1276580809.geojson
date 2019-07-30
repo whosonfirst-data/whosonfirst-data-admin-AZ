@@ -25,11 +25,20 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u06cc \u0633\u0648\u0644\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
         "Seysulan"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0435\u0439\u0441\u0443\u043b\u0430\u043d"
+    ],
     "name:eng_x_preferred":[
         "Seysulan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc \u0633\u0648\u0644\u0627\u0646"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u056e\u057e\u0561\u0577\u0565\u0576"
@@ -38,7 +47,19 @@
         "Artsvashen",
         "\u054d\u0565\u0575\u057d\u0578\u0582\u056c\u0561\u0576"
     ],
+    "name:ita_x_preferred":[
+        "Seysulan"
+    ],
+    "name:msa_x_preferred":[
+        "Seysulan"
+    ],
     "name:rus_x_preferred":[
+        "\u0421\u0435\u0439\u0441\u0443\u043b\u0430\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Seysulan"
+    ],
+    "name:ukr_x_preferred":[
         "\u0421\u0435\u0439\u0441\u0443\u043b\u0430\u043d"
     ],
     "name:und_x_variant":[
@@ -69,7 +90,7 @@
         }
     ],
     "wof:id":1276580809,
-    "wof:lastmodified":1537585343,
+    "wof:lastmodified":1564126076,
     "wof:name":"Seysulan",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

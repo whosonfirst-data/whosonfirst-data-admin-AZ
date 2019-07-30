@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u0259l\u0259xan"
+    ],
+    "name:ceb_x_preferred":[
+        "Kyalakhan"
+    ],
+    "name:ita_x_preferred":[
+        "K\u0259l\u0259xan"
+    ],
+    "name:msa_x_preferred":[
+        "K\u0259l\u0259xan"
+    ],
+    "name:swe_x_preferred":[
+        "Kyalakhan"
+    ],
     "name:und_x_variant":[
         "K\u0259l\u0259xan"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1327470539,
-    "wof:lastmodified":1537585197,
+    "wof:lastmodified":1564125784,
     "wof:name":"Kyalakhan",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

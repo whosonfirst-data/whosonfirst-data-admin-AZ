@@ -25,6 +25,33 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0644\u0627 \u0628\u0647\u0645\u0646\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Bala B\u0259hm\u0259nli"
+    ],
+    "name:ceb_x_preferred":[
+        "Bala Begmenli"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03bb\u03b1 \u039c\u03c0\u03b5\u03c7\u03bc\u03b5\u03bd\u03bb\u03af"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u0627 \u0628\u0647\u0645\u0646\u200c\u0644\u06cc"
+    ],
+    "name:ita_x_preferred":[
+        "Bala B\u0259hm\u0259nli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d0-\u10d1\u10d0\u10f0\u10db\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Bala B\u0259hm\u0259nli"
+    ],
+    "name:swe_x_preferred":[
+        "Bala Begmenli"
+    ],
     "name:und_x_variant":[
         "Bala Bekhmanli",
         "Bala Begmenli",
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1326893731,
-    "wof:lastmodified":1537585268,
+    "wof:lastmodified":1564125760,
     "wof:name":"Bala Begmenli",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

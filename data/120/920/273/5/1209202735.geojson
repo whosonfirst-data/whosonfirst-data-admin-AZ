@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "\u018fliyanl\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "Aliyanly"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fliyanl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d8\u10d8\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fliyanl\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Aliyanly"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632717
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1209202735,
-    "wof:lastmodified":1537585495,
+    "wof:lastmodified":1564126210,
     "wof:name":"Aliyanly",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

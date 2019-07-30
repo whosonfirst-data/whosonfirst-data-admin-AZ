@@ -29,6 +29,18 @@
     "name:aze_x_preferred":[
         "G\u00fcnn\u00fct"
     ],
+    "name:hye_x_preferred":[
+        "\u0533\u0575\u0578\u0582\u0576\u0576\u0578\u0582\u057f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10e3\u10dc\u10d8\u10e3\u10d7\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "G\u00fcnn\u00fct"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00fcnn\u00fct"
+    ],
     "name:und_x_variant":[
         "Gyunnyut"
     ],
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":1259628123,
-    "wof:lastmodified":1537585230,
+    "wof:lastmodified":1564126528,
     "wof:name":"Gyunut-Dzhafarlu",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

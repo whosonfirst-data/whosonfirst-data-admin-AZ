@@ -26,6 +26,33 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u063a\u0627\u0646\u062c\u06cc\u0642 \u0645\u0648\u0633\u0644\u0648\u0645"
+    ],
+    "name:aze_x_preferred":[
+        "Mu\u011fanc\u0131q M\u00fcsl\u00fcm"
+    ],
+    "name:ceb_x_preferred":[
+        "Mu\u011fanc\u0131q M\u00fcsl\u00fcm"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0582\u0572\u0561\u0576\u057b\u056b\u056f \u0544\u0575\u0578\u0582\u057d\u056c\u0575\u0578\u0582\u0574"
+    ],
+    "name:ita_x_preferred":[
+        "Mu\u011fanc\u0131q M\u00fcsl\u00fcm"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10e6\u10d0\u10dc\u10ef\u10d8\u10d2-\u10db\u10d8\u10e3\u10e1\u10da\u10d8\u10e3\u10db\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Mu\u011fanc\u0131q M\u00fcsl\u00fcm"
+    ],
+    "name:msa_x_preferred":[
+        "Mu\u011fanc\u0131q M\u00fcsl\u00fcm"
+    ],
+    "name:swe_x_preferred":[
+        "Mu\u011fanc\u0131q M\u00fcsl\u00fcm"
+    ],
     "name:und_x_variant":[
         "Mugandzhuk-Muslum",
         "Mugandzhik Myuslyum",
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1242827787,
-    "wof:lastmodified":1537585176,
+    "wof:lastmodified":1564126496,
     "wof:name":"Muganciq Muslum",
     "wof:parent_id":85668667,
     "wof:placetype":"locality",

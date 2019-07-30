@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Mehdili"
     ],
+    "name:ita_x_preferred":[
+        "Mehdili"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10f0\u10d3\u10d8\u10da\u10d8"
+    ],
     "name:und_x_variant":[
         "Mekhdili",
         "Mekhtili"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1293079143,
-    "wof:lastmodified":1537585372,
+    "wof:lastmodified":1564125938,
     "wof:name":"Mehdili",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

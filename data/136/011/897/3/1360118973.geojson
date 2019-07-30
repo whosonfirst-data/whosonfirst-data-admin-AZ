@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "D\u0259yirmanlar"
     ],
+    "name:ita_x_preferred":[
+        "D\u0259yirmanlar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10d8\u10e0\u10db\u10d0\u10dc\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "D\u0259yirmanlar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1360118973,
-    "wof:lastmodified":1537585530,
+    "wof:lastmodified":1564126390,
     "wof:name":"Dayirmanlar",
     "wof:parent_id":85668211,
     "wof:placetype":"locality",

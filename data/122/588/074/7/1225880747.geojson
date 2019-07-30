@@ -25,8 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u0646\u06af\u0627\u0644\u062a\u06cc"
+    ],
     "name:aze_x_preferred":[
         "T\u0259ng\u0259alt\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Tengyaalty"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bd\u03b3\u03ba\u03b5\u03ac\u03bb\u03c4\u03b9"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u06af\u06cc\u0644\u062a\u06cc"
+    ],
+    "name:ita_x_preferred":[
+        "T\u0259ng\u0259alt\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "T\u0259ng\u0259alt\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Tengyaalty"
     ],
     "name:und_x_variant":[
         "T\u0259ng\u0259alti"
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1225880747,
-    "wof:lastmodified":1537585325,
+    "wof:lastmodified":1564126617,
     "wof:name":"Tengyaalty",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

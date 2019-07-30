@@ -28,11 +28,29 @@
     "name:aze_x_preferred":[
         "\u00c7\u00f6l Qu\u015f\u00e7u"
     ],
+    "name:aze_x_variant":[
+        "\u00c7\u00f6lqu\u015f\u00e7u"
+    ],
+    "name:ceb_x_preferred":[
+        "Nizhniye Kushchi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03bb\u03ba\u03bf\u03c5\u03c3\u03c4\u03c3\u03bf\u03cd"
+    ],
     "name:eng_x_preferred":[
         "\u00c7\u00f6l Qu\u015f\u00e7u"
     ],
+    "name:ita_x_preferred":[
+        "\u00c7\u00f6lqu\u015f\u00e7u"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7\u00f6lqu\u015f\u00e7u"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u043b\u044c \u041a\u0443\u0448\u0447\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Nizhniye Kushchi"
     ],
     "name:und_x_variant":[
         "Cholkushchi",
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1360049081,
-    "wof:lastmodified":1537585464,
+    "wof:lastmodified":1564126395,
     "wof:name":"Nizhniye Kushchi",
     "wof:parent_id":85668339,
     "wof:placetype":"locality",

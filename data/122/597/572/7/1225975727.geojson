@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Z\u0259rig\u00fcmaco"
     ],
+    "name:ceb_x_preferred":[
+        "Zarikyumadzho"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b5\u03c1\u03b9\u03b3\u03ba\u03b9\u03bf\u03c5\u03bc\u03ac\u03c4\u03c3\u03bf"
+    ],
+    "name:ita_x_preferred":[
+        "Z\u0259rig\u00fcmaco"
+    ],
+    "name:msa_x_preferred":[
+        "Z\u0259rig\u00fcmaco"
+    ],
+    "name:swe_x_preferred":[
+        "Zarikyumadzho"
+    ],
     "name:und_x_variant":[
         "Z\u00e4rig\u00fcm\u00e4co",
         "Z\u0259rik\u00fcm\u0259co",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1225975727,
-    "wof:lastmodified":1537585302,
+    "wof:lastmodified":1564126625,
     "wof:name":"Zarikyumadzho",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

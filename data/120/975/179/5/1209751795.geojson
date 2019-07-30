@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Avur"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d5\u10e3\u10e0\u10d8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1209751795,
-    "wof:lastmodified":1537585270,
+    "wof:lastmodified":1564126228,
     "wof:name":"Avur",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

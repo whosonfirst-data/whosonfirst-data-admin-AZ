@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0644\u0627\u0645\u0648\u0631\u0627\u062f\u062e\u0627\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u0627\u0645\u0631\u0627\u062f\u062e\u0627\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Bala-Muradkhan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1310371907,
-    "wof:lastmodified":1537486663,
+    "wof:lastmodified":1564126335,
     "wof:name":"Bala-Muradkhan",
     "wof:parent_id":85668383,
     "wof:placetype":"locality",

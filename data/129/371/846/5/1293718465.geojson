@@ -25,11 +25,26 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Utuq"
+    ],
+    "name:ceb_x_preferred":[
+        "Utuq"
+    ],
     "name:eng_x_preferred":[
+        "Utuq"
+    ],
+    "name:ita_x_preferred":[
+        "Utuq"
+    ],
+    "name:msa_x_preferred":[
         "Utuq"
     ],
     "name:rus_x_preferred":[
         "\u0423\u0442\u0443\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Utuq"
     ],
     "name:und_x_variant":[
         "Utug",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1293718465,
-    "wof:lastmodified":1537585320,
+    "wof:lastmodified":1564125980,
     "wof:name":"Utuq",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

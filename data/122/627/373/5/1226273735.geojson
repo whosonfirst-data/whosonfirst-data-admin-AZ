@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0633\u06cc\u0645 \u0628\u06cc\u200c\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Qas\u0131mb\u0259yli"
+    ],
+    "name:ceb_x_preferred":[
+        "Kasymbeyli"
+    ],
+    "name:ita_x_preferred":[
+        "Qas\u0131mb\u0259yli"
+    ],
+    "name:msa_x_preferred":[
+        "Qas\u0131mb\u0259yli"
+    ],
     "name:und_x_variant":[
         "Qas\u0131mb\u0259yli"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1226273735,
-    "wof:lastmodified":1537585410,
+    "wof:lastmodified":1564126591,
     "wof:name":"Kasymbeyli",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

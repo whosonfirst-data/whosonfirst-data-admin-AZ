@@ -25,11 +25,53 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0644\u06cc\u0645\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
         "Port \u0130li\u00e7"
     ],
     "name:aze_x_variant":[
         "Liman"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0456\u043c\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Liman"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0438\u043c\u0430\u043d"
+    ],
+    "name:fin_x_preferred":[
+        "Liman"
+    ],
+    "name:hsb_x_preferred":[
+        "Liman"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0574\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Liman"
+    ],
+    "name:msa_x_preferred":[
+        "Liman"
+    ],
+    "name:pol_x_preferred":[
+        "Liman"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043c\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Liman"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0438\u043c\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043c\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Iliitch Port",
@@ -63,7 +105,7 @@
         }
     ],
     "wof:id":1259444067,
-    "wof:lastmodified":1537585163,
+    "wof:lastmodified":1564126568,
     "wof:name":"Liman",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

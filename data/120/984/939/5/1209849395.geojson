@@ -31,6 +31,15 @@
     "name:hye_x_preferred":[
         "\u0544\u056b\u056c\u0561\u0576\u056c\u0568"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10da\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:kur_x_preferred":[
+        "M\u00eelanl\u00ee"
+    ],
+    "name:msa_x_preferred":[
+        "Milanl\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u043b\u0430\u043d\u043b\u044b"
     ],
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1209849395,
-    "wof:lastmodified":1537585180,
+    "wof:lastmodified":1564126160,
     "wof:name":"Milanli",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

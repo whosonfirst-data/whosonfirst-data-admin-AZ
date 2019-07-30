@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Qu\u015fcu"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u0433\u0430\u045e\u043d\u0430\u0442\u0443\u043d"
+    ],
     "name:hye_x_preferred":[
         "Ghushjular"
     ],
@@ -36,8 +39,17 @@
         "Aghavnatun",
         "\u0531\u0572\u0561\u057e\u0576\u0561\u057f\u0578\u0582\u0576"
     ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10e3\u10e8\u10e9\u10e3\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Kushchular"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0448\u0447\u0443\u043b\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0433\u0430\u0432\u043d\u0430\u0442\u0443\u043d"
     ],
     "name:und_x_variant":[
         "Kushchilyar",
@@ -68,7 +80,7 @@
         }
     ],
     "wof:id":1310056617,
-    "wof:lastmodified":1537585198,
+    "wof:lastmodified":1564126367,
     "wof:name":"Quscu",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

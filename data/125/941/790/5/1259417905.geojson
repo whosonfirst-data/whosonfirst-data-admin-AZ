@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "F\u0131r\u0131q"
+    ],
+    "name:ita_x_preferred":[
+        "F\u0131r\u0131q"
+    ],
+    "name:msa_x_preferred":[
+        "F\u0131r\u0131q"
+    ],
     "name:und_x_variant":[
         "Firik",
         "F\u0131r\u0131q"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1259417905,
-    "wof:lastmodified":1537585444,
+    "wof:lastmodified":1564126538,
     "wof:name":"Firiq",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

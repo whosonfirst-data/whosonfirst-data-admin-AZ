@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0644\u06cc\u0642\u200c\u0686\u06cc\u0644\u0627\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Bal\u0131q\u00e7\u0131lar"
+    ],
+    "name:ceb_x_preferred":[
+        "Bal\u0131q\u00e7\u0131lar"
+    ],
+    "name:ita_x_preferred":[
+        "Bal\u0131q\u00e7\u0131lar"
+    ],
+    "name:msa_x_preferred":[
+        "Bal\u0131q\u00e7\u0131lar"
+    ],
+    "name:swe_x_preferred":[
+        "Bal\u0131q\u00e7\u0131lar"
+    ],
     "name:und_x_variant":[
         "Pamyat\u2019 Lenina",
         "Bal\u0131q\u00e7\u0131lar"
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1326890095,
-    "wof:lastmodified":1537585302,
+    "wof:lastmodified":1564125759,
     "wof:name":"Baliqcilar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

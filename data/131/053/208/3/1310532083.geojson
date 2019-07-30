@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u0648\u0631\u0633\u0648\u0644\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "\u015eorsulu"
+    ],
+    "name:ceb_x_preferred":[
+        "\u015eorsulu"
+    ],
+    "name:ita_x_preferred":[
+        "\u015eorsulu"
+    ],
+    "name:msa_x_preferred":[
+        "\u015eorsulu"
+    ],
+    "name:swe_x_preferred":[
+        "\u015eorsulu"
+    ],
     "name:und_x_variant":[
         "Shorsuli",
         "Shorsuly",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1310532083,
-    "wof:lastmodified":1537585151,
+    "wof:lastmodified":1564126322,
     "wof:name":"Sorsulu",
     "wof:parent_id":85668449,
     "wof:placetype":"locality",

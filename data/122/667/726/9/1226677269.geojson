@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Mamul\u011fan"
     ],
+    "name:ita_x_preferred":[
+        "Mamul\u011fan"
+    ],
+    "name:msa_x_preferred":[
+        "Mamul\u011fan"
+    ],
+    "name:tur_x_preferred":[
+        "Mamul\u011fan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1226677269,
-    "wof:lastmodified":1537585520,
+    "wof:lastmodified":1564126601,
     "wof:name":"Mamulgan",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

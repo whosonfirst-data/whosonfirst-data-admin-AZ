@@ -28,6 +28,27 @@
     "name:aze_x_preferred":[
         "\u0130smay\u0131b\u0259yl\u0131"
     ],
+    "name:aze_x_variant":[
+        "\u0130smay\u0131lb\u0259yl\u0131"
+    ],
+    "name:che_x_preferred":[
+        "\u0418\u0441\u043c\u0430\u0438\u043b\u0431\u0435\u0439\u043b\u0438"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c3\u03bc\u03b1\u03b3\u03b9\u03bc\u03c0\u03b5\u03ca\u03bb\u03af"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e1\u10db\u10d0\u10d8\u10da\u10d1\u10d4\u10d8\u10da\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "\u0130smay\u0131b\u0259yl\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130smay\u0131b\u0259yl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u043c\u0430\u0438\u043b\u0431\u0435\u0439\u043b\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1309913229,
-    "wof:lastmodified":1537585300,
+    "wof:lastmodified":1564126404,
     "wof:name":"Ismailbeyli",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

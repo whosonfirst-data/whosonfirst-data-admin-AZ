@@ -29,7 +29,14 @@
         "Gos\u0259l\u0259r"
     ],
     "name:aze_x_variant":[
-        "Q\u0259l\u0259s\u0259r"
+        "Q\u0259l\u0259s\u0259r",
+        "Kosalar"
+    ],
+    "name:ita_x_preferred":[
+        "Kosalar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10dd\u10e1\u10d0\u10da\u10d0\u10e0\u10d8"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":1293236669,
-    "wof:lastmodified":1537585519,
+    "wof:lastmodified":1564125974,
     "wof:name":"Kosalar",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

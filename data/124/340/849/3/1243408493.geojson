@@ -25,8 +25,23 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0639\u0631\u0628\u200c\u062e\u0627\u0646\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fr\u0259bxana"
+    ],
     "name:eng_x_preferred":[
         "\u018fr\u01ddbxana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0631\u0628\u200c\u062e\u0627\u0646\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fr\u0259bxana"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fr\u0259bxana"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0430\u0431\u0445\u0430\u043d\u0430"
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1243408493,
-    "wof:lastmodified":1537585492,
+    "wof:lastmodified":1564126475,
     "wof:name":"Arabkhana",
     "wof:parent_id":85668383,
     "wof:placetype":"locality",

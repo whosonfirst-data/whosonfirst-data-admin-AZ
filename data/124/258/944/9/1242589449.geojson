@@ -31,12 +31,21 @@
     "name:eng_x_preferred":[
         "Nor Aygestan"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0627\u0644\u0631"
+    ],
     "name:hye_x_preferred":[
         "\u0546\u0578\u0580 \u0531\u0575\u0563\u0565\u057d\u057f\u0561\u0576"
     ],
     "name:hye_x_variant":[
         "\u0544\u0578\u056c\u056c\u0561\u056c\u0561\u0580",
         "Nor Aygetsan"
+    ],
+    "name:ita_x_preferred":[
+        "Mollalar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10da\u10d0\u10da\u10d0\u10e0\u10d8"
     ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u043b\u043b\u0430\u043b\u0430\u0440"
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1242589449,
-    "wof:lastmodified":1537585368,
+    "wof:lastmodified":1564126466,
     "wof:name":"Mollalar",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

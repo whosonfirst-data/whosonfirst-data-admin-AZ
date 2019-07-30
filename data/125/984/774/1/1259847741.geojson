@@ -25,12 +25,36 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0647\u0631\u0627\u0645\u200c\u062a\u067e\u0647"
+    ],
     "name:aze_x_preferred":[
         "Bir May"
     ],
     "name:aze_x_variant":[
         "B\u0259hramt\u0259p\u0259",
         "B\u0259hr\u0259mt\u0259p\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "Pervoye Maya"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c7\u03c1\u03b1\u03bc\u03c4\u03b5\u03c0\u03ad"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0647\u0631\u0627\u0645\u200c\u062a\u067e\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "B\u0259hramt\u0259p\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10f0\u10e0\u10d0\u10db\u10d7\u10d4\u10e4\u10d4"
+    ],
+    "name:msa_x_preferred":[
+        "B\u0259hramt\u0259p\u0259"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0445\u0440\u0430\u043c\u0442\u0435\u043f\u0435"
     ],
     "name:und_x_variant":[
         "Agakhanly",
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1259847741,
-    "wof:lastmodified":1537585262,
+    "wof:lastmodified":1564126537,
     "wof:name":"Pervoye Maya",
     "wof:parent_id":85668365,
     "wof:placetype":"locality",

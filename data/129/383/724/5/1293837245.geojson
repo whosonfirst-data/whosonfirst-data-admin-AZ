@@ -26,6 +26,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0648\u06cc\u0644\u0648\u0646"
+    ],
     "name:aze_x_colloquial":[
         "D\u00fcyl\u00fcn"
     ],
@@ -34,6 +37,24 @@
     ],
     "name:aze_x_preferred":[
         "D\u00fcyl\u00fcn"
+    ],
+    "name:ceb_x_preferred":[
+        "Dyuylyun"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u0563\u056c\u056b\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "D\u00fcyl\u00fcn"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10e3\u10d8\u10da\u10d8\u10e3\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "D\u00fcyl\u00fcn"
+    ],
+    "name:swe_x_preferred":[
+        "Dyuylyun"
     ],
     "name:und_x_variant":[
         "Dyuglyun",
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1293837245,
-    "wof:lastmodified":1537585246,
+    "wof:lastmodified":1564125969,
     "wof:name":"Dyuylyun",
     "wof:parent_id":85668665,
     "wof:placetype":"locality",

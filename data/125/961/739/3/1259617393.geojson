@@ -25,6 +25,36 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u062c\u0647 \u062e\u0648\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fc\u0259xur"
+    ],
+    "name:ceb_x_preferred":[
+        "Adzhakhur"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0627\u06a9\u0633\u0648\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fcaxur"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10ef\u10d0\u10ee\u10e3\u10e0\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u042d\u0447\u04cf\u0435\u0445\u0443\u044c\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Acaxur"
+    ],
+    "name:nld_x_preferred":[
+        "Acaxur"
+    ],
+    "name:swe_x_preferred":[
+        "Adzhakhur"
+    ],
     "name:und_x_variant":[
         "Adzhkhur",
         "\u018fc\u0259xur"
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1259617393,
-    "wof:lastmodified":1537585502,
+    "wof:lastmodified":1564126550,
     "wof:name":"Adzhakhur",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

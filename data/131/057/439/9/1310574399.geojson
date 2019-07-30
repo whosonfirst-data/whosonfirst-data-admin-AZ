@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Novruzall\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "Novruzall\u0131"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03b2\u03c1\u03bf\u03c5\u03b6\u03ac\u03bb\u03bb\u03b9"
+    ],
+    "name:ita_x_preferred":[
+        "Novruzall\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Novruzall\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Novruzall\u0131"
+    ],
     "name:und_x_variant":[
         "Naurzali",
         "Novruzally",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1310574399,
-    "wof:lastmodified":1537585169,
+    "wof:lastmodified":1564126360,
     "wof:name":"Novruzalli",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

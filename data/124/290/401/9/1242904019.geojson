@@ -25,11 +25,35 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u0631\u0627\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Xuray"
+    ],
+    "name:ceb_x_preferred":[
+        "Xuray"
+    ],
     "name:eng_x_preferred":[
+        "Xuray"
+    ],
+    "name:ita_x_preferred":[
+        "Xuray"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10e3\u10e0\u10d0\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u0425\u0443\u0440\u0430\u0439"
+    ],
+    "name:msa_x_preferred":[
         "Xuray"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0443\u0440\u0430\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Xuray"
     ],
     "name:und_x_variant":[
         "Khuray",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1242904019,
-    "wof:lastmodified":1537585396,
+    "wof:lastmodified":1564126503,
     "wof:name":"Xuray",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

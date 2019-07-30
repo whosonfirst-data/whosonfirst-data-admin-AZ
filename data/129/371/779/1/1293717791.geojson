@@ -31,6 +31,15 @@
     "name:aze_x_variant":[
         "Nerkin S\u0131znek"
     ],
+    "name:bel_x_preferred":[
+        "\u041d\u0435\u0440\u043a\u0456\u043d \u0421\u0437\u043d\u0435\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "A\u015fa\u011f\u0131 Yemi\u015fcan"
+    ],
+    "name:fra_x_preferred":[
+        "Nerkin Sznek"
+    ],
     "name:hye_x_preferred":[
         "Sznek"
     ],
@@ -41,8 +50,23 @@
         "Nerk\u2019in Sznek\u2019",
         "\u0546\u0565\u0580\u0584\u056b\u0576 \u054d\u0566\u0576\u0565\u0584"
     ],
+    "name:ita_x_preferred":[
+        "Sznek"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fa\u011f\u0131 Yemi\u015fcan"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0435\u0440\u043a\u0438\u043d-\u0421\u044b\u0437\u043d\u0435\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u0435\u0440\u043a\u0438\u043d \u0421\u044b\u0437\u043d\u0435\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "A\u015fa\u011f\u0131 Yemi\u015fcan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0440\u043a\u0456\u043d \u0421\u0437\u043d\u0435\u043a"
     ],
     "name:und_x_variant":[
         "Nerkin-Siznek",
@@ -72,7 +96,7 @@
         }
     ],
     "wof:id":1293717791,
-    "wof:lastmodified":1537585172,
+    "wof:lastmodified":1564125980,
     "wof:name":"Asagi Yemiscan",
     "wof:parent_id":85668657,
     "wof:placetype":"locality",

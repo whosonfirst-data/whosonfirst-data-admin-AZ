@@ -25,6 +25,12 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Dzhangyan"
+    ],
+    "name:msa_x_preferred":[
+        "Dzhangyan"
+    ],
     "name:und_x_variant":[
         "Dzhalyan-Sal\u2019yany",
         "C\u0259ngan"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1310345515,
-    "wof:lastmodified":1537585244,
+    "wof:lastmodified":1564126362,
     "wof:name":"Dzhangyan",
     "wof:parent_id":85668409,
     "wof:placetype":"locality",

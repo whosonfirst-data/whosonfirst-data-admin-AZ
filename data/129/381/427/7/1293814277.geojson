@@ -25,6 +25,18 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Boyat"
+    ],
+    "name:ita_x_preferred":[
+        "Boyat"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10d8\u10d0\u10d7\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u044f\u0442"
+    ],
     "name:und_x_variant":[
         "Bayat",
         "Boyat"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1293814277,
-    "wof:lastmodified":1537585476,
+    "wof:lastmodified":1564126035,
     "wof:name":"Boyat",
     "wof:parent_id":85668459,
     "wof:placetype":"locality",

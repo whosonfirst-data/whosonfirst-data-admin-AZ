@@ -25,11 +25,20 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u063a\u0627\u0632\u06cc\u0646"
+    ],
     "name:aze_x_preferred":[
         "Vaqazin"
     ],
     "name:aze_x_variant":[
         "Va\u011fazin"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u0445\u0430\u0437\u0456\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u063a\u0627\u0632\u06cc\u0646"
     ],
     "name:hye_x_preferred":[
         "Vaghazin"
@@ -39,8 +48,17 @@
         "Vagatsin",
         "\u054e\u0561\u0572\u0561\u056e\u056b\u0576"
     ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10e6\u10d0\u10d6\u10d8\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Vaqazin"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0433\u0430\u0437\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0445\u0430\u0437\u0456\u043d"
     ],
     "name:und_x_variant":[
         "Vagazin",
@@ -69,7 +87,7 @@
         }
     ],
     "wof:id":1293934541,
-    "wof:lastmodified":1537585136,
+    "wof:lastmodified":1564126011,
     "wof:name":"Vaqazin",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

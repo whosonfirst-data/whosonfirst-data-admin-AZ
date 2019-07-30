@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Amsarq\u0131\u015flaq"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c3\u03b1\u03c1\u03ba\u03b9\u03c3\u03bb\u03ac\u03ba"
+    ],
+    "name:ita_x_preferred":[
+        "Amsarq\u0131\u015flaq"
+    ],
+    "name:msa_x_preferred":[
+        "Amsarq\u0131\u015flaq"
+    ],
     "name:und_x_variant":[
         "Amsarkyshlak"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1226572451,
-    "wof:lastmodified":1537585536,
+    "wof:lastmodified":1564126609,
     "wof:name":"Amsarqislaq",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

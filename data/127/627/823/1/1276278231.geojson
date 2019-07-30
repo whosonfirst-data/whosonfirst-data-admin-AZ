@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qaramahmudlu"
+    ],
+    "name:ita_x_preferred":[
+        "Qaramahmudlu"
+    ],
+    "name:msa_x_preferred":[
+        "Qaramahmudlu"
+    ],
     "name:und_x_variant":[
         "Karamakhmudly",
         "Karamakhmudlu",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1276278231,
-    "wof:lastmodified":1537585414,
+    "wof:lastmodified":1564126064,
     "wof:name":"Qaramahmudlu",
     "wof:parent_id":85668383,
     "wof:placetype":"locality",

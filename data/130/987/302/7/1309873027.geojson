@@ -28,17 +28,62 @@
     "name:aze_x_preferred":[
         "Lev"
     ],
+    "name:bel_x_preferred":[
+        "\u041b\u0435\u045e"
+    ],
+    "name:bre_x_preferred":[
+        "Lev"
+    ],
+    "name:ces_x_preferred":[
+        "Lev"
+    ],
+    "name:dan_x_preferred":[
+        "Lev"
+    ],
+    "name:deu_x_preferred":[
+        "Lev"
+    ],
+    "name:fra_x_preferred":[
+        "Lev"
+    ],
     "name:hye_x_preferred":[
         "Levonigyugh"
     ],
     "name:hye_x_variant":[
         "\u053c\u0565\u0582\u0578\u0576\u056b\u0563\u0575\u0578\u0582\u0572"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30d5"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10db\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Lev"
+    ],
     "name:rus_x_preferred":[
+        "\u041b\u0435\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Lev"
+    ],
+    "name:slv_x_preferred":[
+        "Lev"
+    ],
+    "name:spa_x_preferred":[
+        "Lev"
+    ],
+    "name:swe_x_preferred":[
+        "Lev"
+    ],
+    "name:ukr_x_preferred":[
         "\u041b\u0435\u0432"
     ],
     "name:und_x_variant":[
         "Kyurt-Dam"
+    ],
+    "name:vep_x_preferred":[
+        "Lev"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +108,7 @@
         }
     ],
     "wof:id":1309873027,
-    "wof:lastmodified":1537585378,
+    "wof:lastmodified":1564126420,
     "wof:name":"Lev",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

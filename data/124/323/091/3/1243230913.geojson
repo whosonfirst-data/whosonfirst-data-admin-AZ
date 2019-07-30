@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Kalatal\u0131q"
     ],
+    "name:msa_x_preferred":[
+        "Kalatal\u0131q"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u0430\u0444\u0430\u043b\u044b\u043a"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1243230913,
-    "wof:lastmodified":1537585295,
+    "wof:lastmodified":1564126472,
     "wof:name":"Kalataliq",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

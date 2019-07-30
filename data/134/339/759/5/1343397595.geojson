@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sar\u0131tala"
+    ],
+    "name:ceb_x_preferred":[
+        "Sar\u0131tala"
+    ],
+    "name:ita_x_preferred":[
+        "Sar\u0131tala"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10d8\u10d7\u10d0\u10da\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Sar\u0131tala"
+    ],
+    "name:swe_x_preferred":[
+        "Sar\u0131tala"
+    ],
     "name:und_x_variant":[
         "Sarytala",
         "Sar\u0131tala"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1343397595,
-    "wof:lastmodified":1537585344,
+    "wof:lastmodified":1564125842,
     "wof:name":"Saritala",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

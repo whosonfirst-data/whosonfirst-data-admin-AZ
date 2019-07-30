@@ -32,6 +32,21 @@
     "name:aze_x_variant":[
         "Nursu"
     ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0580\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Nursu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10e3\u10e0\u10e1\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "Nursu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u0440\u0441\u0443"
+    ],
     "name:und_x_variant":[
         "Nore",
         "Nura"
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1225889315,
-    "wof:lastmodified":1537585169,
+    "wof:lastmodified":1564126615,
     "wof:name":"Nursu",
     "wof:parent_id":85668683,
     "wof:placetype":"locality",

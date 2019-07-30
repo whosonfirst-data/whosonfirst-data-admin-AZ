@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "A\u0161a\u011f\u0131 Atuc"
     ],
+    "name:aze_x_variant":[
+        "A\u015fa\u011f\u0131 Atuc"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03ac\u03b3\u03ba\u03b9 \u0391\u03c4\u03bf\u03cd\u03c4\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "A\u015fa\u011f\u0131 Atuc"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fa\u011f\u0131 Atuc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1226680517,
-    "wof:lastmodified":1537585536,
+    "wof:lastmodified":1564126608,
     "wof:name":"Asagi Atuc",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

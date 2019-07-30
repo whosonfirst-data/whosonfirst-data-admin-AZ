@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Yerg\u00fcc"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03b6\u03bc\u03b1\u03bc\u03c0\u03bf\u03c5\u03bd\u03c4\u03bf\u03cd\u03b3\u03ba"
+    ],
+    "name:ita_x_preferred":[
+        "Kazmabudug"
+    ],
+    "name:msa_x_preferred":[
+        "Kazmabudug"
+    ],
     "name:und_x_variant":[
         "Kazmabudug"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1360016275,
-    "wof:lastmodified":1537585407,
+    "wof:lastmodified":1564126385,
     "wof:name":"Yerguc",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

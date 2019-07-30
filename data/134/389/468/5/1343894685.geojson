@@ -31,6 +31,18 @@
     "name:aze_x_variant":[
         "Marz\u0131gi"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0566\u0580\u0572\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Marz\u0131\u011f\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10d6\u10d8\u10e6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Marz\u0131\u011f\u0131"
+    ],
     "name:und_x_variant":[
         "Marzygi",
         "Marzygy",
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1343894685,
-    "wof:lastmodified":1537585373,
+    "wof:lastmodified":1564125917,
     "wof:name":"Marzili",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

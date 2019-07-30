@@ -28,6 +28,24 @@
     "name:aze_x_preferred":[
         "\u00c7\u0131l\u011f\u0131r"
     ],
+    "name:ceb_x_preferred":[
+        "Chilegir"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7\u0131l\u011f\u0131r"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d8\u10da\u10e6\u10d8\u10e0\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u0427\u044b\u043b\u0433\u044a\u044b\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7\u0131l\u011f\u0131r"
+    ],
+    "name:swe_x_preferred":[
+        "Chilegir"
+    ],
     "name:und_x_variant":[
         "\u00c7il\u0259gir"
     ],
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1193055101,
-    "wof:lastmodified":1537585463,
+    "wof:lastmodified":1564126247,
     "wof:name":"Chilegir",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

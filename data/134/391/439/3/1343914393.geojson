@@ -25,6 +25,12 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yeniarx"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d4\u10dc\u10d8\u10d0\u10e0\u10ee\u10d8"
+    ],
     "name:und_x_variant":[
         "Yeniarkh",
         "Yeniarx"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1343914393,
-    "wof:lastmodified":1537585314,
+    "wof:lastmodified":1564125836,
     "wof:name":"Yeniarx",
     "wof:parent_id":85668357,
     "wof:placetype":"locality",

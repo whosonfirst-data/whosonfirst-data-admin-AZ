@@ -25,8 +25,26 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u0631\u0632\u0627\u0644\u06cc \u0628\u06cc\u200c\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Mirzal\u0131b\u0259yli"
+    ],
+    "name:ceb_x_preferred":[
+        "Mirzalybeyli"
+    ],
+    "name:ita_x_preferred":[
+        "Mirzal\u0131b\u0259yli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e0\u10d6\u10d0\u10da\u10d8\u10d1\u10d4\u10d8\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Mirzal\u0131b\u0259yli"
+    ],
+    "name:swe_x_preferred":[
+        "Mirzalybeyli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1259461139,
-    "wof:lastmodified":1537585369,
+    "wof:lastmodified":1564126538,
     "wof:name":"Mirzalybeyli",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

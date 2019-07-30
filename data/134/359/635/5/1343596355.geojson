@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "G\u00f6y\u0259rc\u0131k"
     ],
+    "name:aze_x_variant":[
+        "G\u00f6y\u0259rcik"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03b3\u03b9\u03b5\u03c1\u03c4\u03c3\u03af\u03ba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10dd\u10d8\u10d0\u10e0\u10ef\u10d8\u10e5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00f6y\u0259rc\u0131k"
+    ],
     "name:rus_x_preferred":[
         "G\u00ebyardzhik"
     ],
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1343596355,
-    "wof:lastmodified":1537585234,
+    "wof:lastmodified":1564125882,
     "wof:name":"Goyarcik",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

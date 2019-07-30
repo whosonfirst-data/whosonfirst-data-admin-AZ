@@ -25,11 +25,26 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0622\u0644\u0627\u062a\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "R\u00fcst\u0259mli"
     ],
     "name:aze_x_variant":[
         "R\u0259st\u0259mli"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0627\u062a\u0644\u06cc"
+    ],
+    "name:ita_x_preferred":[
+        "Alatly"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d0\u10d7\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Alatly"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u0441\u0442\u0430\u043c\u043b\u044b"
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1327262683,
-    "wof:lastmodified":1537585505,
+    "wof:lastmodified":1564125817,
     "wof:name":"Alatly",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

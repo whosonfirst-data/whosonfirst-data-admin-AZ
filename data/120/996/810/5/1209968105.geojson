@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062c\u0627\u0646\u0627\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Canal\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Canal\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0561\u0576\u0561\u056c\u0578\u0582"
+    ],
+    "name:ita_x_preferred":[
+        "Canal\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d0\u10dc\u10d0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Canal\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Canal\u0131"
+    ],
     "name:und_x_variant":[
         "Dzhanaly",
         "Canal\u0131"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1209968105,
-    "wof:lastmodified":1537585450,
+    "wof:lastmodified":1564126145,
     "wof:name":"Canali",
     "wof:parent_id":85668229,
     "wof:placetype":"locality",

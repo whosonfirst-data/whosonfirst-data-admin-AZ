@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "N\u0259z\u0259rall\u0131"
     ],
+    "name:aze_x_variant":[
+        "N\u0259z\u0259ral\u0131l\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Nazarally"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10d6\u10d0\u10e0\u10d0\u10da\u10d8\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "N\u0259z\u0259ral\u0131l\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Nazarally"
+    ],
     "name:und_x_variant":[
         "N\u0259z\u0259ral\u0131l\u0131"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1209847157,
-    "wof:lastmodified":1537585361,
+    "wof:lastmodified":1564126160,
     "wof:name":"Nazarally",
     "wof:parent_id":85668509,
     "wof:placetype":"locality",

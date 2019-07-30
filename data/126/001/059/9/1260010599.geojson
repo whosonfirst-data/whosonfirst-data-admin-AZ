@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Qilican"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10da\u10d8\u10ef\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Gilidzhan"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0438\u043b\u0438\u0434\u0436\u0430\u043d"
     ],
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1260010599,
-    "wof:lastmodified":1537585234,
+    "wof:lastmodified":1564126278,
     "wof:name":"Qilican",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

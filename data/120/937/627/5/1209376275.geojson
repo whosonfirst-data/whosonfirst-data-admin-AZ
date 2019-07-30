@@ -25,8 +25,14 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0645\u0627\u0646\u0644\u0627\u0631"
+    ],
     "name:aze_x_preferred":[
         "\u0130manlar"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0456\u043c\u043d\u0430\u0448\u044d\u043d"
     ],
     "name:hye_x_preferred":[
         "Imanlar"
@@ -36,8 +42,17 @@
         "Himnashen",
         "\u0540\u056b\u0574\u0576\u0561\u0577\u0565\u0576"
     ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10db\u10d0\u10dc\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130manlar"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u043c\u0430\u043d\u043b\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0456\u043c\u043d\u0430\u0448\u0435\u043d"
     ],
     "name:und_x_variant":[
         "Imanushaga"
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1209376275,
-    "wof:lastmodified":1537585229,
+    "wof:lastmodified":1564126149,
     "wof:name":"Imanlar",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

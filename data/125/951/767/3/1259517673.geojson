@@ -28,11 +28,20 @@
     "name:aze_x_preferred":[
         "Teymur M\u00fcsk\u0259nli"
     ],
+    "name:aze_x_variant":[
+        "Teymur M\u00fcskanl\u0131"
+    ],
     "name:hye_x_preferred":[
         "T\u2019eymurmyusk\u2019anly"
     ],
     "name:hye_x_variant":[
         "\u0539\u0565\u0575\u0574\u0578\u0582\u0580\u0574\u0575\u0578\u0582\u057d\u0584\u0561\u0576\u056c\u0568"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d4\u10d8\u10db\u10e3\u10e0-\u10db\u10d8\u10e3\u10e1\u10e5\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Teymurm\u00fcsk\u0259nli"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u0439\u043c\u0443\u0440\u043c\u044e\u0441\u043a\u0430\u043d\u043b\u044b"
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1259517673,
-    "wof:lastmodified":1537585140,
+    "wof:lastmodified":1564126561,
     "wof:name":"Teymurmyuskanly",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

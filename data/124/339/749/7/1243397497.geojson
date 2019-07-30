@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Xaspolad"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c3\u03c0\u03bf\u03bb\u03ac\u03bd\u03c4"
+    ],
+    "name:ita_x_preferred":[
+        "Xaspolad"
+    ],
+    "name:msa_x_preferred":[
+        "Xaspolad"
+    ],
     "name:und_x_variant":[
         "Khaspolad"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1243397497,
-    "wof:lastmodified":1537585542,
+    "wof:lastmodified":1564126445,
     "wof:name":"Xaspolad",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

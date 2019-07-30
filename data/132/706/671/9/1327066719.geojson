@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Xanbulaq"
     ],
+    "name:ita_x_preferred":[
+        "Xanbulaq"
+    ],
+    "name:msa_x_preferred":[
+        "Xanbulaq"
+    ],
+    "name:tur_x_preferred":[
+        "Kanbulak"
+    ],
     "name:und_x_variant":[
         "Khanbulak"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1327066719,
-    "wof:lastmodified":1537585520,
+    "wof:lastmodified":1564125740,
     "wof:name":"Xanbulaq",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

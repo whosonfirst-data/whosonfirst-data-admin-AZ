@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Bayramushagy"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10d8\u10e0\u10d0\u10db\u10e3\u10e8\u10d0\u10d2\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Bayramushagy"
+    ],
     "name:und_x_variant":[
         "Bayram-Ushagi"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1226796797,
-    "wof:lastmodified":1537585265,
+    "wof:lastmodified":1564126648,
     "wof:name":"Bayramushagy",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

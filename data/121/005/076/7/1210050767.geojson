@@ -28,14 +28,26 @@
     "name:aze_x_preferred":[
         "Xanl\u0131q"
     ],
+    "name:bel_x_preferred":[
+        "\u0406\u0448\u0445\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
+    ],
     "name:hye_x_preferred":[
         "Ishkhanadzor"
     ],
     "name:hye_x_variant":[
         "\u053b\u0577\u056d\u0561\u0576\u0561\u0571\u0578\u0580"
     ],
+    "name:ita_x_preferred":[
+        "Ishkhanadzor"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10dc\u10da\u10d8\u10e6\u10d8"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043d\u043b\u044b\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0448\u0445\u0430\u043d\u0430\u0434\u0437\u043e\u0440"
     ],
     "name:und_x_variant":[
         "Khanlyk"
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":1210050767,
-    "wof:lastmodified":1537585210,
+    "wof:lastmodified":1564126232,
     "wof:name":"Xanliq",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

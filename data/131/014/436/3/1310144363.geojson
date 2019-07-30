@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0624\u06cc\u0648\u06a9 \u0639\u0645\u06cc\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "B\u00f6y\u00fck \u018fmili"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u00f6y\u00fck \u018fmili"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00f6y\u00fck \u018fmili"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10dd\u10d8\u10d8\u10e3\u10e5\u10d8-\u10d4\u10db\u10d8\u10da\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u0427I\u0435\u0445\u0438 \u042d\u043c\u0438\u043b\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00f6y\u00fck \u018fmili"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00f6y\u00fck \u018fmili"
+    ],
     "name:und_x_variant":[
         "B\u00ebyuk Emili",
         "B\u00f6y\u00fck \u018fmili"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1310144363,
-    "wof:lastmodified":1537585474,
+    "wof:lastmodified":1564126313,
     "wof:name":"Boyuk Amili",
     "wof:parent_id":85668541,
     "wof:placetype":"locality",

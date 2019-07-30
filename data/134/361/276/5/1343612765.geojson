@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Kosalar"
     ],
+    "name:ita_x_preferred":[
+        "Kosalar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10dd\u10e1\u10d0\u10da\u10d0\u10e0\u10d8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1343612765,
-    "wof:lastmodified":1537585390,
+    "wof:lastmodified":1564125880,
     "wof:name":"Kosalar",
     "wof:parent_id":85668229,
     "wof:placetype":"locality",

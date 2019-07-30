@@ -28,8 +28,20 @@
     "name:aze_x_preferred":[
         "\u0130kinci \u00c7aban\u0131"
     ],
+    "name:aze_x_variant":[
+        "\u0130kinci Caban\u0131"
+    ],
     "name:eng_x_preferred":[
         "Dzerjinovka"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e5\u10d8\u10dc\u10ef\u10d8-\u10ef\u10d0\u10d1\u10d0\u10dc\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "\u0130kinci Caban\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130kinci Caban\u0131"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u043e\u0432\u043a\u0430"
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1209348917,
-    "wof:lastmodified":1537585452,
+    "wof:lastmodified":1564126206,
     "wof:name":"Ikinci Cabani",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

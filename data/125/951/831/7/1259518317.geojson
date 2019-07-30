@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xaspoladoba"
+    ],
+    "name:ceb_x_preferred":[
+        "Xaspoladoba"
+    ],
+    "name:ita_x_preferred":[
+        "Xaspoladoba"
+    ],
+    "name:lez_x_preferred":[
+        "\u0425\u0430\u0441\u043f\u0443\u043b\u0430\u0434\u0443\u0431\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Xaspoladoba"
+    ],
+    "name:swe_x_preferred":[
+        "Xaspoladoba"
+    ],
     "name:und_x_variant":[
         "Khaspolatoba",
         "Khaspoladoba",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1259518317,
-    "wof:lastmodified":1537585399,
+    "wof:lastmodified":1564126562,
     "wof:name":"Xaspoladoba",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

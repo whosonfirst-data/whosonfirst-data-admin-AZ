@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0631\u0627\u0645\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Qaraman"
+    ],
+    "name:ceb_x_preferred":[
+        "Qaraman"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0647\u0631\u0645\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Qaraman"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10e0\u10d0\u10db\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qaraman"
+    ],
+    "name:swe_x_preferred":[
+        "Qaraman"
+    ],
     "name:und_x_variant":[
         "Karaman",
         "Qaraman"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1360041893,
-    "wof:lastmodified":1537585414,
+    "wof:lastmodified":1564126396,
     "wof:name":"Qaraman",
     "wof:parent_id":85668357,
     "wof:placetype":"locality",

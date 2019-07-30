@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Ba\u015fs\u0131z"
     ],
+    "name:ita_x_preferred":[
+        "Bashsyz"
+    ],
+    "name:msa_x_preferred":[
+        "Bashsyz"
+    ],
     "name:und_x_variant":[
         "Bashyz",
         "Bashsyz"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1225914563,
-    "wof:lastmodified":1537585265,
+    "wof:lastmodified":1564126628,
     "wof:name":"Bassiz",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "K\u00fcrd\u0259h"
     ],
+    "name:aze_x_variant":[
+        "G\u00fcrd\u0259h"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b9\u03bf\u03c5\u03c1\u03bd\u03c4\u03ad\u03c7"
+    ],
+    "name:ita_x_preferred":[
+        "G\u00fcrd\u0259h"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00fcrd\u0259h"
+    ],
     "name:und_x_variant":[
         "Gurdag",
         "Girdaz",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1326761855,
-    "wof:lastmodified":1537585381,
+    "wof:lastmodified":1564125800,
     "wof:name":"Kyurdakh",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

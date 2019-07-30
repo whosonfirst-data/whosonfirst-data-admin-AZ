@@ -25,11 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0624\u06cc\u0648\u06a9 \u0647\u0645\u06cc\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "B\u00f6y\u00fck H\u0259my\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u00f6y\u00fck H\u0259my\u0259"
+    ],
     "name:eng_x_preferred":[
         "B\u00f6y\u00fck H\u01ddmy\u01dd"
     ],
+    "name:ita_x_preferred":[
+        "B\u00f6y\u00fck H\u0259my\u0259"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00f6y\u00fck H\u0259my\u0259"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u044e\u043a \u0413\u0430\u043c\u044c\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00f6y\u00fck H\u0259my\u0259"
     ],
     "name:und_x_variant":[
         "B\u00ebyuk Gam\u2019ya",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1209040403,
-    "wof:lastmodified":1537585474,
+    "wof:lastmodified":1564126195,
     "wof:name":"Boyuk Hamya",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

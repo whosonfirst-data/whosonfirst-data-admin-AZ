@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Alpout"
     ],
+    "name:ceb_x_preferred":[
+        "Alpout"
+    ],
     "name:hye_x_preferred":[
         "Bagaran"
     ],
@@ -36,8 +39,17 @@
         "Noraberd",
         "\u0546\u0578\u0580\u0561\u0562\u0565\u0580\u0564"
     ],
+    "name:ita_x_preferred":[
+        "Alpout"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10e4\u10dd\u10e3\u10d7\u10d8"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u043f\u0430\u0443\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Alpout"
     ],
     "name:und_x_variant":[
         "Alpaut",
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":1259941373,
-    "wof:lastmodified":1537585280,
+    "wof:lastmodified":1564126558,
     "wof:name":"Alpout",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

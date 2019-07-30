@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Da\u011f Kolan\u0131"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10d2\u10e5\u10dd\u10da\u10d0\u10dc\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Dagkolany"
+    ],
+    "name:msa_x_preferred":[
+        "Dagkolany"
+    ],
     "name:und_x_variant":[
         "Dagkolany"
     ],
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209645863,
-    "wof:lastmodified":1537585459,
+    "wof:lastmodified":1564126153,
     "wof:name":"Dag Kolani",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

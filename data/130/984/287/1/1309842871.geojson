@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Aran"
     ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e0\u10db\u10d8-\u10e1\u10d0\u10e5\u10d8\u10d6\u10d8-\u10d0\u10de\u10e0\u10d8\u10da\u10d8"
+    ],
     "name:und_x_variant":[
         "Aprelya",
         "Dvadtsat\u2019 Vos\u2019moye Aprelya",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1309842871,
-    "wof:lastmodified":1537585453,
+    "wof:lastmodified":1564126410,
     "wof:name":"Aran",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

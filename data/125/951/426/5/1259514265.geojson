@@ -34,6 +34,12 @@
     "name:hye_x_variant":[
         "\u0531\u0572\u0578\u057a\u0565\u0576"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e6\u10d1\u10d0\u10dc\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u011fb\u0259nd"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0433\u0431\u0435\u043d\u0434"
     ],
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1259514265,
-    "wof:lastmodified":1537585521,
+    "wof:lastmodified":1564126561,
     "wof:name":"Agbend",
     "wof:parent_id":85668659,
     "wof:placetype":"locality",

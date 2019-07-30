@@ -25,11 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u0644\u0627\u0645\u062d\u0631\u0645\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
+        "Mollam\u0259h\u0259rr\u0259mli"
+    ],
+    "name:ceb_x_preferred":[
+        "Molli-Magerramlu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0627\u0645\u062d\u0631\u0645\u200c\u0644\u06cc"
+    ],
+    "name:ita_x_preferred":[
+        "Mollam\u0259h\u0259rr\u0259mli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10da\u10d0\u10db\u10d0\u10f0\u10d0\u10e0\u10d0\u10db\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Mollam\u0259h\u0259rr\u0259mli"
     ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u043b\u043b\u0430\u043c\u0430\u0433\u0435\u0440\u0440\u0430\u043c\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Molli-Magerramlu"
     ],
     "name:und_x_variant":[
         "Molla-Magerramlu",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1226505651,
-    "wof:lastmodified":1537585177,
+    "wof:lastmodified":1564126614,
     "wof:name":"Molli-Magerramlu",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

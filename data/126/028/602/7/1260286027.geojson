@@ -39,6 +39,15 @@
         "\u0539\u0561\u057c\u0576\u0561\u0563\u0575\u0578\u0582\u057f",
         "Tarnoyut\u2019"
     ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d0\u10e0\u10dc\u10d8\u10dd\u10d8\u10e3\u10d7\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Tarn\u00f6y\u00fct"
+    ],
+    "name:msa_x_preferred":[
+        "Tarn\u00f6y\u00fct"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0440\u043d\u043e\u044e\u0442"
     ],
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":1260286027,
-    "wof:lastmodified":1537585327,
+    "wof:lastmodified":1564126284,
     "wof:name":"Tarnaut",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

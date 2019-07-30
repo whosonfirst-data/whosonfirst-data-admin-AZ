@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ataki\u015fili"
+    ],
+    "name:ita_x_preferred":[
+        "Ataki\u015fili"
+    ],
+    "name:msa_x_preferred":[
+        "Ataki\u015fili"
+    ],
     "name:und_x_variant":[
         "Atakishili",
         "Atakishily",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293444175,
-    "wof:lastmodified":1537585483,
+    "wof:lastmodified":1564126042,
     "wof:name":"Atakisili",
     "wof:parent_id":85668383,
     "wof:placetype":"locality",

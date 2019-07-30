@@ -29,6 +29,12 @@
     "name:aze_x_preferred":[
         "Qazyan"
     ],
+    "name:ita_x_preferred":[
+        "Qazyan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d0\u10d6\u10d8\u10d0\u10dc\u10d8"
+    ],
     "name:und_x_variant":[
         "Kaz\u2019yan"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1225978921,
-    "wof:lastmodified":1537585407,
+    "wof:lastmodified":1564126625,
     "wof:name":"Qazyan",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

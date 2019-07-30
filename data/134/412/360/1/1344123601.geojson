@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "B\u00f6y\u00fck G\u0259ng\u0259rli"
     ],
+    "name:aze_x_variant":[
+        "B\u00f6y\u00fck K\u0259ng\u0259rli"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00f6y\u00fck K\u0259ng\u0259rli"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00f6y\u00fck K\u0259ng\u0259rli"
+    ],
     "name:und_x_variant":[
         "B\u00ebyuk Kengerli",
         "B\u00f6y\u00fck G\u00e4ng\u00e4rli",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1344123601,
-    "wof:lastmodified":1537585474,
+    "wof:lastmodified":1564125855,
     "wof:name":"Beyuk-Kengerli",
     "wof:parent_id":85668383,
     "wof:placetype":"locality",

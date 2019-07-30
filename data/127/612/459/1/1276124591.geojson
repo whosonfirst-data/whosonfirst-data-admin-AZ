@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Shukdyur"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10e3\u10e5\u10d3\u10d8\u10e3\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Shukdyur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1276124591,
-    "wof:lastmodified":1537486679,
+    "wof:lastmodified":1564126101,
     "wof:name":"Shukdyur",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

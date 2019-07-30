@@ -25,8 +25,20 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0647\u0632\u0648\u0648\u06cc"
+    ],
     "name:aze_x_preferred":[
         "H\u0259zovi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03b6\u03ac\u03b2\u03b9"
+    ],
+    "name:ita_x_preferred":[
+        "Xozavi"
+    ],
+    "name:msa_x_preferred":[
+        "Xozavi"
     ],
     "name:und_x_variant":[
         "Khozavi",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1226379349,
-    "wof:lastmodified":1537585205,
+    "wof:lastmodified":1564126656,
     "wof:name":"Xozavi",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

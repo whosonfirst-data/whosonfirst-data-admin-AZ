@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Kolan\u0131"
     ],
+    "name:ita_x_preferred":[
+        "Kelanly"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d4\u10da\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Kelanly"
+    ],
     "name:und_x_variant":[
         "Kelanly",
         "Kelany"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1210048043,
-    "wof:lastmodified":1537585505,
+    "wof:lastmodified":1564126231,
     "wof:name":"Kolani",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

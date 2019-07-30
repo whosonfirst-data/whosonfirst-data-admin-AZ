@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "M\u0259zr\u0259"
     ],
+    "name:ceb_x_preferred":[
+        "Mazra"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0645\u06d5\u0632\u0631\u06d5"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0566\u0580\u0561"
     ],
@@ -35,8 +41,14 @@
         "Masrik",
         "\u0544\u0561\u057d\u0580\u056b\u056f"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d6\u10e0\u10d0"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0437\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mazra"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1343994963,
-    "wof:lastmodified":1537585184,
+    "wof:lastmodified":1564125844,
     "wof:name":"Mazra",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

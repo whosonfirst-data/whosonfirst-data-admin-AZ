@@ -25,8 +25,23 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7\u00f6l Be\u015fd\u0259li"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c7\u00f6l Be\u015fd\u0259li"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7\u00f6l Be\u015fd\u0259li"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7\u00f6l Be\u015fd\u0259li"
+    ],
     "name:rus_x_preferred":[
         "Ch\u00ebl\u2019-Beshdali"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c7\u00f6l Be\u015fd\u0259li"
     ],
     "name:und_x_variant":[
         "Chol\u2019-Beshtali",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1310340185,
-    "wof:lastmodified":1537585258,
+    "wof:lastmodified":1564126363,
     "wof:name":"Col Besdali",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

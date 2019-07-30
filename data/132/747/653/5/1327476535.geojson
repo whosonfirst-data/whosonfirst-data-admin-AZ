@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0646\u0648\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Bunud"
+    ],
+    "name:ceb_x_preferred":[
+        "Bunud"
+    ],
+    "name:ita_x_preferred":[
+        "Bunud"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10dc\u10e3\u10d3\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u0411\u0443\u043d\u0443\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Bunud"
+    ],
+    "name:swe_x_preferred":[
+        "Bunud"
+    ],
     "name:und_x_variant":[
         "Bunut",
         "Bunud"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1327476535,
-    "wof:lastmodified":1537585470,
+    "wof:lastmodified":1564125787,
     "wof:name":"Bunud",
     "wof:parent_id":85668541,
     "wof:placetype":"locality",

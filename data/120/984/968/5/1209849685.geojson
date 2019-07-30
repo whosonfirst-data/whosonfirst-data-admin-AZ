@@ -25,6 +25,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062e\u0627\u0646\u0644\u06cc\u0642 \u067e\u0647\u200c\u06cc\u0647"
+    ],
     "name:aze_x_preferred":[
         "Xanl\u0131qp\u0259y\u0259"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:hye_x_variant":[
         "\u053d\u0561\u0576\u056c\u0568\u056f\u0583\u0565\u0575\u0561"
+    ],
+    "name:msa_x_preferred":[
+        "Xanl\u0131qp\u0259y\u0259"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043d\u043b\u044b\u043a\u043f\u0435\u044f"
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1209849685,
-    "wof:lastmodified":1537585209,
+    "wof:lastmodified":1564126160,
     "wof:name":"Khanlykpeya",
     "wof:parent_id":85668643,
     "wof:placetype":"locality",

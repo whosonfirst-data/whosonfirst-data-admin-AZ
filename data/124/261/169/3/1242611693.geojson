@@ -34,6 +34,9 @@
     "name:hye_x_variant":[
         "\u0536\u0561\u0574\u0561\u0576\u0583\u0565\u0575\u0561\u057d\u0568"
     ],
+    "name:msa_x_preferred":[
+        "Zamanp\u0259y\u0259si"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u043c\u0430\u043d\u043f\u0435\u044f\u0441\u0438"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1242611693,
-    "wof:lastmodified":1537585125,
+    "wof:lastmodified":1564126458,
     "wof:name":"Zamanpeyasi",
     "wof:parent_id":85668643,
     "wof:placetype":"locality",

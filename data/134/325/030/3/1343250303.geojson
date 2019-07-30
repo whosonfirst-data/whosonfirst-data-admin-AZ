@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Birinci Qarad\u0259mir\u00e7i"
     ],
+    "name:ceb_x_preferred":[
+        "Karademirchi Pervyye"
+    ],
+    "name:ita_x_preferred":[
+        "Birinci Qarad\u0259mir\u00e7i"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10e0\u10d8\u10dc\u10ef\u10d8-\u10e7\u10d0\u10e0\u10d0\u10d3\u10d0\u10db\u10d8\u10e0\u10e9\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Birinci Qarad\u0259mir\u00e7i"
+    ],
+    "name:swe_x_preferred":[
+        "Karademirchi Pervyye"
+    ],
     "name:und_x_variant":[
         "Karadamirchi",
         "Karadamirchi Pervyye",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1343250303,
-    "wof:lastmodified":1537585417,
+    "wof:lastmodified":1564125880,
     "wof:name":"Karademirchi Pervyye",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0644\u0648\u062a\u067e\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Sulut\u0259p\u0259"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043b\u0443\u0442\u0435\u043f\u0435"
+    ],
     "name:und_x_variant":[
         "Sulutepe"
     ],
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1327252525,
-    "wof:lastmodified":1537585331,
+    "wof:lastmodified":1564125782,
     "wof:name":"Sulutapa",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

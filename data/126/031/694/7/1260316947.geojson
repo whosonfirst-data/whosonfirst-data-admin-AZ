@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0631\u0646\u06af\u062f\u0627\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "R\u0259ngdar"
+    ],
+    "name:ceb_x_preferred":[
+        "Rengidar"
+    ],
+    "name:ita_x_preferred":[
+        "R\u0259ngdar"
+    ],
+    "name:msa_x_preferred":[
+        "R\u0259ngdar"
+    ],
+    "name:swe_x_preferred":[
+        "Rengidar"
+    ],
     "name:und_x_variant":[
         "Rengdar",
         "R\u0259ngdar"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1260316947,
-    "wof:lastmodified":1537585349,
+    "wof:lastmodified":1564126271,
     "wof:name":"Rengidar",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

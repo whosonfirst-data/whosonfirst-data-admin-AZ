@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "S\u0131\u011faloni"
     ],
+    "name:ceb_x_preferred":[
+        "S\u0131qalonu"
+    ],
+    "name:ita_x_preferred":[
+        "S\u0131qalonu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10e6\u10d0\u10da\u10dd\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "S\u0131qalonu"
+    ],
+    "name:swe_x_preferred":[
+        "S\u0131qalonu"
+    ],
     "name:und_x_variant":[
         "S\u0131qalonu",
         "Sygalonu"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1310586599,
-    "wof:lastmodified":1537585302,
+    "wof:lastmodified":1564126370,
     "wof:name":"Sigaloni",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

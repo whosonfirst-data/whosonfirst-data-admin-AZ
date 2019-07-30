@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "\u015e\u0131xl\u0131"
     ],
+    "name:ita_x_preferred":[
+        "Shykhly"
+    ],
+    "name:msa_x_preferred":[
+        "Shykhly"
+    ],
     "name:und_x_variant":[
         "Shikhly"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276369973,
-    "wof:lastmodified":1537585334,
+    "wof:lastmodified":1564126126,
     "wof:name":"Shykhly",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

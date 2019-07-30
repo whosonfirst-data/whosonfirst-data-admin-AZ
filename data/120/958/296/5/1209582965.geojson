@@ -34,6 +34,9 @@
     "name:hye_x_variant":[
         "\u053e\u0561\u057e\u0561\u056c\u0584"
     ],
+    "name:msa_x_preferred":[
+        "Zivel"
+    ],
     "name:rus_x_preferred":[
         "Zivel\u2019"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1209582965,
-    "wof:lastmodified":1537585123,
+    "wof:lastmodified":1564126200,
     "wof:name":"Zivel",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

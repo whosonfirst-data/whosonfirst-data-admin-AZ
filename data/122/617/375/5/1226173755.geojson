@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Qo\u015fa"
     ],
+    "name:ita_x_preferred":[
+        "Qo\u015fa"
+    ],
+    "name:msa_x_preferred":[
+        "Qo\u015fa"
+    ],
     "name:und_x_variant":[
         "Kosha"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1226173755,
-    "wof:lastmodified":1537585533,
+    "wof:lastmodified":1564126583,
     "wof:name":"Qosa",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

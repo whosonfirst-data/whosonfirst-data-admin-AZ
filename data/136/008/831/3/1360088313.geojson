@@ -31,6 +31,12 @@
     "name:eng_x_preferred":[
         "Boyat"
     ],
+    "name:ita_x_preferred":[
+        "Boyat"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10d8\u10d0\u10d7\u10d8"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u044f\u0442"
     ],
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1360088313,
-    "wof:lastmodified":1537585471,
+    "wof:lastmodified":1564126385,
     "wof:name":"Boyat",
     "wof:parent_id":85668519,
     "wof:placetype":"locality",

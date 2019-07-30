@@ -29,8 +29,17 @@
     "name:aze_x_preferred":[
         "G\u00f6m\u00fcr"
     ],
+    "name:aze_x_variant":[
+        "Gomur"
+    ],
+    "name:ceb_x_preferred":[
+        "Gomur"
+    ],
     "name:rus_x_preferred":[
         "G\u00ebmyur"
+    ],
+    "name:swe_x_preferred":[
+        "Gomur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293534271,
-    "wof:lastmodified":1537585235,
+    "wof:lastmodified":1564125952,
     "wof:name":"Gomur",
     "wof:parent_id":85668683,
     "wof:placetype":"locality",

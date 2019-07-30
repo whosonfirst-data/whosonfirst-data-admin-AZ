@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "M\u0259mm\u0259dli"
     ],
+    "name:ita_x_preferred":[
+        "Kylyshly"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d8\u10da\u10d8\u10e8\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Kylyshly"
+    ],
     "name:und_x_variant":[
         "Mamedli"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293670227,
-    "wof:lastmodified":1537585383,
+    "wof:lastmodified":1564126009,
     "wof:name":"Kylyshly",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

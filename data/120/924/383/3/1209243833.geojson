@@ -35,6 +35,9 @@
         "\u054d\u0561\u056c\u0561\u0584\u0575\u0561\u0569\u056b\u0576",
         "\u054d\u0561\u056c\u0561\u056f\u0561\u057f\u056b\u0576"
     ],
+    "name:msa_x_preferred":[
+        "Salaketin"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043a\u0430\u0442\u0438\u043d"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1209243833,
-    "wof:lastmodified":1537585160,
+    "wof:lastmodified":1564126164,
     "wof:name":"Salaketin",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

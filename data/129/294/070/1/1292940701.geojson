@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Diva\u011fac"
+    ],
+    "name:ita_x_preferred":[
+        "Diva\u011fac"
+    ],
+    "name:msa_x_preferred":[
+        "Diva\u011fac"
+    ],
     "name:und_x_variant":[
         "Divagach",
         "Diva\u011fac"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1292940701,
-    "wof:lastmodified":1537585248,
+    "wof:lastmodified":1564125962,
     "wof:name":"Divagac",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

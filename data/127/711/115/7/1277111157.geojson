@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "H\u00f6ytala"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b9\u03bf\u03ca\u03c4\u03ac\u03bb\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00f6ytala"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d8\u10dd\u10d8\u10d7\u10d0\u10da\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "H\u00f6ytala"
+    ],
     "name:und_x_variant":[
         "Oytala",
         "Vo\u0131tala"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1277111157,
-    "wof:lastmodified":1537585355,
+    "wof:lastmodified":1564126134,
     "wof:name":"Hoytala",
     "wof:parent_id":85668601,
     "wof:placetype":"locality",

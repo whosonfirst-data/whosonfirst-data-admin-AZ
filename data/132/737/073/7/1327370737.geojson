@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Yo\u011funbulaq"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03bf\u03b3\u03ba\u03bf\u03c5\u03bd\u03bc\u03c0\u03bf\u03c5\u03bb\u03ac\u03ba"
+    ],
+    "name:ita_x_preferred":[
+        "Yo\u011funbulaq"
+    ],
+    "name:msa_x_preferred":[
+        "Yo\u011funbulaq"
+    ],
     "name:und_x_variant":[
         "Yegunbulag"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1327370737,
-    "wof:lastmodified":1537585533,
+    "wof:lastmodified":1564125744,
     "wof:name":"Yogunbulaq",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

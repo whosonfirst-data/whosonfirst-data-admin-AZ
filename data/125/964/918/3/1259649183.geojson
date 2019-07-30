@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Toplar"
     ],
+    "name:ita_x_preferred":[
+        "Toplar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10dd\u10e4\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Toplar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1259649183,
-    "wof:lastmodified":1537585528,
+    "wof:lastmodified":1564126532,
     "wof:name":"Toplar",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

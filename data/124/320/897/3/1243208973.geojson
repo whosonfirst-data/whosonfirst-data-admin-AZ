@@ -28,14 +28,29 @@
     "name:aze_x_preferred":[
         "Q\u0131raq Mu\u015flan"
     ],
+    "name:aze_x_variant":[
+        "Q\u0131raq M\u00fc\u015flan"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043b\u0430\u0448\u043a\u0435\u0440\u0442"
+    ],
     "name:hye_x_preferred":[
         "Alashkert"
     ],
     "name:hye_x_variant":[
         "\u0531\u056c\u0561\u0577\u056f\u0565\u0580\u057f"
     ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d8\u10e0\u10d0\u10e5-\u10db\u10d8\u10e3\u10e8\u10da\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Q\u0131raq Mu\u015flan"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u044b\u0440\u044b\u0445 \u041c\u0443\u0448\u043b\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0430\u0448\u043a\u0435\u0440\u0442"
     ],
     "name:und_x_variant":[
         "Kyrakh Mushlan",
@@ -65,7 +80,7 @@
         }
     ],
     "wof:id":1243208973,
-    "wof:lastmodified":1537585195,
+    "wof:lastmodified":1564126511,
     "wof:name":"Qiraq Muslan",
     "wof:parent_id":85668659,
     "wof:placetype":"locality",

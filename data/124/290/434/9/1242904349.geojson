@@ -37,6 +37,12 @@
     "name:hye_x_variant":[
         "\u0553\u0561\u0580\u0561\u057b\u0561\u0576\u0581"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10dd\u10d8\u10d8\u10d0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00f6yyal"
+    ],
     "name:rus_x_preferred":[
         "G\u00ebyyal"
     ],
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1242904349,
-    "wof:lastmodified":1537585234,
+    "wof:lastmodified":1564126505,
     "wof:name":"Goyyal",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

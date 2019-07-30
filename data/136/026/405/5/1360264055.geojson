@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "X\u0259l\u0259fli"
     ],
+    "name:aze_x_variant":[
+        "St.X\u0259l\u0259fli"
+    ],
+    "name:min_x_preferred":[
+        "Khalafli"
+    ],
+    "name:msa_x_preferred":[
+        "Khalafli"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043b\u0430\u0444\u043b\u044b"
     ],
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1360264055,
-    "wof:lastmodified":1537585212,
+    "wof:lastmodified":1564126392,
     "wof:name":"Khalapyu",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

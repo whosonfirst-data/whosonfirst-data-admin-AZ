@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Qurdlar"
     ],
+    "name:ita_x_preferred":[
+        "Qurdlar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10e3\u10e0\u10d3\u10da\u10d0\u10e0\u10d8"
+    ],
     "name:und_x_variant":[
         "Kurtlar"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1226627353,
-    "wof:lastmodified":1537585386,
+    "wof:lastmodified":1564126665,
     "wof:name":"Qurdlar",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

@@ -28,11 +28,17 @@
     "name:aze_x_preferred":[
         "Ar\u0131\u015f"
     ],
+    "name:aze_x_variant":[
+        "Aru\u015f"
+    ],
     "name:hye_x_preferred":[
         "Aresh"
     ],
     "name:hye_x_variant":[
         "\u0531\u0580\u0565\u0577"
+    ],
+    "name:msa_x_preferred":[
+        "Arysh"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u044b\u0448"
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1209041161,
-    "wof:lastmodified":1537585276,
+    "wof:lastmodified":1564126195,
     "wof:name":"Arysh",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

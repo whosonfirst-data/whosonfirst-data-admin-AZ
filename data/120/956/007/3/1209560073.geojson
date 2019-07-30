@@ -27,6 +27,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06af\u0648\u0644\u0648\u0633\u062a\u0627\u0646"
+    ],
     "name:aze_x_colloquial":[
         "G\u00fcl\u00fcstan"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:aze_x_variant":[
         "Cu\u011fa"
+    ],
+    "name:ceb_x_preferred":[
+        "G\u00fcl\u00fcstan"
     ],
     "name:eng_x_colloquial":[
         "Gulistan"
@@ -58,8 +64,26 @@
     "name:fas_x_preferred":[
         "Cu\u011fa"
     ],
+    "name:fas_x_variant":[
+        "\u06af\u0644\u0633\u062a\u0627\u0646"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u0577\u057f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10e3\u10da\u10d8\u10e3\u10e1\u10e2\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00fcl\u00fcstan"
+    ],
+    "name:swe_x_preferred":[
+        "G\u00fcl\u00fcstan"
+    ],
     "name:tur_x_preferred":[
         "\u00c7uha"
+    ],
+    "name:tur_x_variant":[
+        "G\u00fcl\u00fcstan"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -80,7 +104,7 @@
         }
     ],
     "wof:id":1209560073,
-    "wof:lastmodified":1537585243,
+    "wof:lastmodified":1564126201,
     "wof:name":"Gueluestan",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

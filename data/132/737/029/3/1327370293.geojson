@@ -25,6 +25,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kolani"
+    ],
     "name:eng_x_preferred":[
         "Kolan\u0131"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1327370293,
-    "wof:lastmodified":1537585391,
+    "wof:lastmodified":1564125745,
     "wof:name":"Kolani",
     "wof:parent_id":85668425,
     "wof:placetype":"locality",

@@ -31,6 +31,12 @@
     "name:hye_x_preferred":[
         "\u0544\u0565\u056d\u0564\u056b\u056c\u056b"
     ],
+    "name:ita_x_preferred":[
+        "Mehdili"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10f0\u10d3\u10d8\u10da\u10d8"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0445\u0434\u0438\u043b\u0438"
     ],
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1225824263,
-    "wof:lastmodified":1537585184,
+    "wof:lastmodified":1564126672,
     "wof:name":"Mehdili",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

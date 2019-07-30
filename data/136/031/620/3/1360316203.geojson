@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018flim\u0259d\u0259dli"
+    ],
+    "name:ceb_x_preferred":[
+        "Alimadtli"
+    ],
+    "name:ita_x_preferred":[
+        "\u018flim\u0259d\u0259dli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d8\u10db\u10d0\u10d3\u10d0\u10d7\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018flim\u0259d\u0259dli"
+    ],
+    "name:swe_x_preferred":[
+        "Alimadtli"
+    ],
     "name:und_x_variant":[
         "Alimadatly",
         "\u018flim\u0259d\u0259dli"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1360316203,
-    "wof:lastmodified":1537585496,
+    "wof:lastmodified":1564126383,
     "wof:name":"Alimadtli",
     "wof:parent_id":85668211,
     "wof:placetype":"locality",

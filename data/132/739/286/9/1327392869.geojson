@@ -28,11 +28,26 @@
     "name:aze_x_preferred":[
         "Todan"
     ],
+    "name:ceb_x_preferred":[
+        "Todan"
+    ],
     "name:hye_x_preferred":[
         "T\u2019odan"
     ],
     "name:hye_x_variant":[
         "\u0539\u0578\u0564\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Todan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10dd\u10d3\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Todan"
+    ],
+    "name:swe_x_preferred":[
+        "Todan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1327392869,
-    "wof:lastmodified":1537585324,
+    "wof:lastmodified":1564125734,
     "wof:name":"Todan",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

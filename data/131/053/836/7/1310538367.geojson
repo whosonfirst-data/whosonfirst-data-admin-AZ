@@ -28,11 +28,23 @@
     "name:aze_x_preferred":[
         "Burunqovaq"
     ],
+    "name:ceb_x_preferred":[
+        "Burunqovaq"
+    ],
     "name:eng_x_preferred":[
+        "Burunqovaq"
+    ],
+    "name:ita_x_preferred":[
+        "Burunqovaq"
+    ],
+    "name:msa_x_preferred":[
         "Burunqovaq"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0440\u0443\u043d\u043a\u043e\u0432\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Burunqovaq"
     ],
     "name:und_x_variant":[
         "Kalinin",
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":1310538367,
-    "wof:lastmodified":1537585470,
+    "wof:lastmodified":1564126322,
     "wof:name":"Burunqovaq",
     "wof:parent_id":85668235,
     "wof:placetype":"locality",

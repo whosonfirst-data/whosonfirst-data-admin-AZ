@@ -29,6 +29,9 @@
     "name:aze_x_preferred":[
         "Qarababa"
     ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10e0\u10d0\u10d1\u10d0\u10d1\u10d0"
+    ],
     "name:und_x_variant":[
         "Karababa"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1209961295,
-    "wof:lastmodified":1537585224,
+    "wof:lastmodified":1564126146,
     "wof:name":"Qarababa",
     "wof:parent_id":85668683,
     "wof:placetype":"locality",

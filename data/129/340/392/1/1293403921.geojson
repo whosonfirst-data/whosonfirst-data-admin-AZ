@@ -25,7 +25,37 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0641\u0627\u062a\u0645\u0627\u06cc\u06cc"
+    ],
     "name:aze_x_preferred":[
+        "Fatmay\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Fatmay\u0131"
+    ],
+    "name:che_x_preferred":[
+        "\u0424\u0430\u0442\u043c\u0430\u0438"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03c4\u03bc\u03b1\u03b3\u03af"
+    ],
+    "name:ita_x_preferred":[
+        "Fatmay\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d0\u10e2\u10db\u10d0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Fatmay\u0131"
+    ],
+    "name:pol_x_preferred":[
+        "Fatmay\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0442\u043c\u0430\u0438"
+    ],
+    "name:swe_x_preferred":[
         "Fatmay\u0131"
     ],
     "name:und_x_variant":[
@@ -57,7 +87,7 @@
         }
     ],
     "wof:id":1293403921,
-    "wof:lastmodified":1537585444,
+    "wof:lastmodified":1564125984,
     "wof:name":"Fatmayi",
     "wof:parent_id":85668251,
     "wof:placetype":"locality",

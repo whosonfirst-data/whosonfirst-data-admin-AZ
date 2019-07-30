@@ -31,6 +31,9 @@
     "name:aze_x_variant":[
         "Hac\u0131xanl\u0131"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0631\u06a9\u0634\u06cc\u0634"
+    ],
     "name:hye_x_preferred":[
         "Zork\u2019eshish"
     ],
@@ -38,6 +41,12 @@
         "\u0536\u0578\u0580\u0584\u0565\u0577\u056b\u0577",
         "Zorats\u2019ik\u2019",
         "\u0536\u0578\u0580\u0561\u0581\u056b\u0584"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10dd\u10e0\u10e5\u10d4\u10e8\u10d8\u10e8\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Zorkeshish"
     ],
     "name:rus_x_preferred":[
         "\u0417\u043e\u0440\u043a\u0435\u0448\u0438\u0448"
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":1293636677,
-    "wof:lastmodified":1537585123,
+    "wof:lastmodified":1564125959,
     "wof:name":"Hacixanli",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

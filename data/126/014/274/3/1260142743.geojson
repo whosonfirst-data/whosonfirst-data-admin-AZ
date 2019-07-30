@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Ki\u00e7ik D\u00fczyurd"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03c4\u03c3\u03af\u03ba \u039d\u03c4\u03bf\u03c5\u03b6\u03b3\u03b9\u03bf\u03cd\u03c1\u03bd\u03c4"
+    ],
+    "name:ita_x_preferred":[
+        "Ki\u00e7ik D\u00fczy\u00fcrd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d8\u10e9\u10d8\u10e5-\u10d3\u10d8\u10e3\u10d6\u10d8\u10e3\u10e0\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Ki\u00e7ik D\u00fczy\u00fcrd"
+    ],
     "name:und_x_variant":[
         "Kechik-Dyzyrt",
         "Kichik Dyuzyurd",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1260142743,
-    "wof:lastmodified":1537585394,
+    "wof:lastmodified":1564126268,
     "wof:name":"Kicik Duzyurd",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

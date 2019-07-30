@@ -31,6 +31,12 @@
     "name:eng_x_preferred":[
         "Zarat Xeyt\u01ddri"
     ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d0\u10e0\u10d0\u10d7-\u10ee\u10d4\u10d8\u10d1\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Zarat Xeyb\u0259ri"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u0440\u0430\u0442 \u0425\u0435\u0439\u0431\u0435\u0440\u0438"
     ],
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1293918377,
-    "wof:lastmodified":1537585308,
+    "wof:lastmodified":1564125944,
     "wof:name":"Zarat-Kheyberi",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

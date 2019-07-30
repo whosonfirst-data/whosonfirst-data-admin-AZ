@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Hoveri"
     ],
+    "name:aze_x_variant":[
+        "Hiveri"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b9\u03b2\u03b5\u03c1\u03af"
+    ],
+    "name:ita_x_preferred":[
+        "Hiv\u0259ri"
+    ],
+    "name:msa_x_preferred":[
+        "Hiv\u0259ri"
+    ],
     "name:und_x_variant":[
         "Iveri",
         "Hiv\u0259ri"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1260117049,
-    "wof:lastmodified":1537585207,
+    "wof:lastmodified":1564126282,
     "wof:name":"Khiveri",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

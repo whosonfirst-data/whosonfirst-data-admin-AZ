@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Binab\u0259y"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03bd\u03b1\u03bc\u03c0\u03ad\u03b9"
+    ],
+    "name:ita_x_preferred":[
+        "Binab\u0259y"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10dc\u10d0\u10d1\u10d0\u10d8"
+    ],
+    "name:kur_x_preferred":[
+        "B\u00eenabey"
+    ],
+    "name:msa_x_preferred":[
+        "Binab\u0259y"
+    ],
     "name:und_x_variant":[
         "Binab\u0259y",
         "Binabay"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1310497007,
-    "wof:lastmodified":1537585262,
+    "wof:lastmodified":1564126315,
     "wof:name":"Benabay",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

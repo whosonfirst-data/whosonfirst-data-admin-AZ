@@ -25,8 +25,14 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u0644\u06a9\u200c\u0627\u062d\u0645\u062f\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "M\u0259lik\u0259hm\u0259dli"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u06a9\u200c\u0627\u062d\u0645\u062f\u0644\u06cc"
     ],
     "name:hye_x_preferred":[
         "Melik\u2019ahmedli"
@@ -35,6 +41,12 @@
         "\u0544\u0565\u056c\u056b\u0584\u0561\u0570\u0574\u0565\u0564\u056c\u056b",
         "Melik\u2019ashen",
         "\u0544\u0565\u056c\u056b\u0584\u0561\u0577\u0565\u0576"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10da\u10d8\u10e5\u10d0\u10f0\u10db\u10d4\u10d3\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "M\u0259lik\u0259hm\u0259dli"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u043b\u0438\u043a\u0430\u0445\u043c\u0435\u0434\u043b\u0438"
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":1260215013,
-    "wof:lastmodified":1537585183,
+    "wof:lastmodified":1564126287,
     "wof:name":"Melikakhmedli",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Da\u011fl\u0131"
     ],
+    "name:ita_x_preferred":[
+        "Da\u011fl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e6\u10da\u10d8"
+    ],
+    "name:tur_x_preferred":[
+        "Da\u011fl\u0131"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1243293055,
-    "wof:lastmodified":1537585543,
+    "wof:lastmodified":1564126514,
     "wof:name":"Dagli",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

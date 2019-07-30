@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Qasapet"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0443\u0441\u0430\u043f\u0430\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Qasapet"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0633\u0627\u067e\u0627\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Kousapat"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0582\u057d\u0561\u057a\u0565\u057f"
     ],
@@ -35,8 +47,20 @@
         "Kusapat",
         "\u053f\u0578\u0582\u057d\u0561\u057a\u0561\u057f"
     ],
+    "name:ita_x_preferred":[
+        "Kusapat"
+    ],
+    "name:msa_x_preferred":[
+        "Qasapet"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0441\u0430\u043f\u0435\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Qasapet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0441\u0430\u043f\u0430\u0442"
     ],
     "name:und_x_variant":[
         "Kusapat",
@@ -68,7 +92,7 @@
         }
     ],
     "wof:id":1259718317,
-    "wof:lastmodified":1537585410,
+    "wof:lastmodified":1564126546,
     "wof:name":"Qasapet",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "A\u011fal\u0131k\u0259nd"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03b2\u03ac\u03b3\u03b9\u03b1 \u03a4\u03ad\u03ba\u03bb\u03b3\u03b9\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Novaya Teklya"
+    ],
+    "name:msa_x_preferred":[
+        "Novaya Teklya"
+    ],
     "name:und_x_variant":[
         "Seri-abad",
         "Saryabad",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1209899075,
-    "wof:lastmodified":1537585170,
+    "wof:lastmodified":1564126216,
     "wof:name":"Novaya Teklya",
     "wof:parent_id":85668317,
     "wof:placetype":"locality",

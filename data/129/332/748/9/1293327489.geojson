@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Sel\u0259li"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10da\u10d0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Sel\u0259li"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043b\u0430\u043b\u0438"
     ],
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1293327489,
-    "wof:lastmodified":1537585156,
+    "wof:lastmodified":1564126003,
     "wof:name":"Silali",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

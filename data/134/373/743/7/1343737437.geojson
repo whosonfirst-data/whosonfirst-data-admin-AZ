@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Qarovultomba"
     ],
+    "name:aze_x_variant":[
+        "Qaravultomba"
+    ],
+    "name:ita_x_preferred":[
+        "Qaravultomba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10e0\u10d0\u10d5\u10e3\u10da\u10d7\u10dd\u10db\u10d1\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Qaravultomba"
+    ],
     "name:und_x_variant":[
         "Karaultomba",
         "Karovultomba",
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1343737437,
-    "wof:lastmodified":1537585411,
+    "wof:lastmodified":1564125918,
     "wof:name":"Qaravultomba",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

@@ -34,6 +34,15 @@
     "name:hye_x_variant":[
         "\u054b\u056b\u0576\u056c\u056b"
     ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d8\u10dc\u10da\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Dzhinli"
+    ],
+    "name:msa_x_preferred":[
+        "Dzhinli"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0438\u043d\u043b\u0438"
     ],
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1260190187,
-    "wof:lastmodified":1537585448,
+    "wof:lastmodified":1564126285,
     "wof:name":"Cinli",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

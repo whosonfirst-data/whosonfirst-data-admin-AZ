@@ -25,11 +25,35 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0686\u0631\u06a9\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "\u00c7\u0259r\u0259k\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "Chereke"
+    ],
     "name:eng_x_preferred":[
         "\u00c7\u01ddr\u01ddk\u01dd"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u06a9\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7\u0259r\u0259k\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10e0\u10d0\u10e5\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7\u0259r\u0259k\u0259"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u0435\u043a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Chereke"
     ],
     "name:und_x_variant":[
         "Cherakya",
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1343520131,
-    "wof:lastmodified":1537585463,
+    "wof:lastmodified":1564125846,
     "wof:name":"Chereke",
     "wof:parent_id":85668357,
     "wof:placetype":"locality",

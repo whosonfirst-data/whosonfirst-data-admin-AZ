@@ -29,13 +29,20 @@
         "Q\u0131z\u0131loba"
     ],
     "name:aze_x_variant":[
-        "Qarmirovan"
+        "Qarmirovan",
+        "Q\u0131rm\u0131z\u0131k\u0259nd"
     ],
     "name:hye_x_preferred":[
         "Karmiravan"
     ],
     "name:hye_x_variant":[
         "\u053f\u0561\u0580\u0574\u056b\u0580\u0561\u057e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Kyrmyzykena"
+    ],
+    "name:msa_x_preferred":[
+        "Kyrmyzykena"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u043c\u0438\u0440\u0430\u0432\u0430\u043d"
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":1276588409,
-    "wof:lastmodified":1537585506,
+    "wof:lastmodified":1564126077,
     "wof:name":"Qiziloba",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

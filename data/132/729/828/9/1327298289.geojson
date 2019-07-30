@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0631\u062d\u06cc\u0645\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "R\u0259himli"
+    ],
+    "name:ceb_x_preferred":[
+        "Ragimli"
+    ],
+    "name:ita_x_preferred":[
+        "R\u0259himli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10f0\u10d8\u10db\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "R\u0259himli"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u0433\u0438\u043c\u043b\u0438"
     ],
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1327298289,
-    "wof:lastmodified":1537585350,
+    "wof:lastmodified":1564125831,
     "wof:name":"Ragimli",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

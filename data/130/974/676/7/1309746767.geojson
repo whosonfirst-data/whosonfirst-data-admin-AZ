@@ -25,8 +25,20 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0622\u0631\u0627\u0646\u0632\u0645\u06cc\u0646"
+    ],
     "name:aze_x_preferred":[
         "Aranz\u0259min"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0440\u0430\u043d\u0437\u0430\u043c\u0456\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0631\u0627\u0632\u0627\u0628\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Aranzamin"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u0561\u0576\u0566\u0561\u0574\u056b\u0576"
@@ -36,8 +48,14 @@
         "Aranzamin",
         "\u054e\u0561\u0580\u0561\u0566\u0561\u0562\u0578\u0582\u0576"
     ],
+    "name:msa_x_preferred":[
+        "Aranz\u0259min"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0430\u043d\u0437\u0430\u043c\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0430\u043d\u0437\u0430\u043c\u0456\u043d"
     ],
     "name:und_x_variant":[
         "Varazaboun",
@@ -67,7 +85,7 @@
         }
     ],
     "wof:id":1309746767,
-    "wof:lastmodified":1537585278,
+    "wof:lastmodified":1564126425,
     "wof:name":"Aranzami",
     "wof:parent_id":85668657,
     "wof:placetype":"locality",

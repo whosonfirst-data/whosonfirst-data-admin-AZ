@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u0648\u06a9\u0648\u0631\u0686\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "\u015e\u00fck\u00fcr\u00e7\u00fc"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03ba\u03bf\u03c5\u03c1\u03c4\u03c3\u03bf\u03cd"
+    ],
+    "name:ita_x_preferred":[
+        "\u015e\u00fck\u00fcr\u00e7\u00fc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d8\u10e3\u10e5\u10d8\u10e3\u10e0\u10e9\u10d8\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "\u015e\u00fck\u00fcr\u00e7\u00fc"
+    ],
     "name:und_x_variant":[
         "Shukyurchu",
         "Shyukyurchi",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1326798317,
-    "wof:lastmodified":1537585335,
+    "wof:lastmodified":1564125807,
     "wof:name":"Shyukyurchi",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

@@ -37,6 +37,12 @@
     "name:hye_x_variant":[
         "Dashk\u2019esan"
     ],
+    "name:min_x_preferred":[
+        "Da\u015fg\u0259s\u0259n"
+    ],
+    "name:msa_x_preferred":[
+        "Da\u015fg\u0259s\u0259n"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u0448\u043a\u0435\u0441\u0430\u043d"
     ],
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1243334597,
-    "wof:lastmodified":1537585252,
+    "wof:lastmodified":1564126489,
     "wof:name":"Deshkesen",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

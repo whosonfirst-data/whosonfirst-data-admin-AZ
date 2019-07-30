@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "X\u0259lilli"
     ],
+    "name:hye_x_preferred":[
+        "\u053d\u0561\u056c\u056b\u056c\u056c\u0578\u0582"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10da\u10d8\u10da\u10d8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1360252691,
-    "wof:lastmodified":1537585515,
+    "wof:lastmodified":1564126382,
     "wof:name":"Khalilli",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

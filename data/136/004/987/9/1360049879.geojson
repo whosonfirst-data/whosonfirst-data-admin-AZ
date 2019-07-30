@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "G\u00f6ranl\u0131"
     ],
+    "name:aze_x_variant":[
+        "Goranl\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "Goranl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10e0\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Goranl\u0131"
+    ],
     "name:und_x_variant":[
         "G\u00ebranly",
         "Goranl\u0131"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1360049879,
-    "wof:lastmodified":1537585436,
+    "wof:lastmodified":1564126397,
     "wof:name":"Goranli",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

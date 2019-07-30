@@ -35,6 +35,12 @@
     "name:hye_x_variant":[
         "\u0541\u056b\u0561\u057d\u0561\u0580"
     ],
+    "name:ita_x_preferred":[
+        "Novruzlu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10dd\u10d5\u10e0\u10e3\u10d6\u10da\u10e3"
+    ],
     "name:und_x_variant":[
         "Novruzglylar"
     ],
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1326877539,
-    "wof:lastmodified":1537585169,
+    "wof:lastmodified":1564125762,
     "wof:name":"Novruzlu",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

@@ -29,7 +29,17 @@
         "Goran"
     ],
     "name:aze_x_variant":[
-        "G\u00f6ran"
+        "G\u00f6ran",
+        "Qaraqoyunlu"
+    ],
+    "name:ita_x_preferred":[
+        "Qaraqoyunlu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10e0\u10d0\u10e7\u10dd\u10d8\u10e3\u10dc\u10da\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "Qaraqoyunlu"
     ],
     "name:rus_x_preferred":[
         "Geran\u2019"
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1209689943,
-    "wof:lastmodified":1537585414,
+    "wof:lastmodified":1564126183,
     "wof:name":"Goran",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

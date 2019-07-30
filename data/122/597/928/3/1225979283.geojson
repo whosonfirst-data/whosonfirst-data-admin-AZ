@@ -25,6 +25,12 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Beylik"
+    ],
+    "name:tur_x_preferred":[
+        "Beylik"
+    ],
     "name:und_x_variant":[
         "Beilyar",
         "Beylik",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1225979283,
-    "wof:lastmodified":1537585264,
+    "wof:lastmodified":1564126626,
     "wof:name":"Beylik",
     "wof:parent_id":85668433,
     "wof:placetype":"locality",

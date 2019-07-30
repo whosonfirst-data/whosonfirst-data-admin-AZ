@@ -31,6 +31,9 @@
     "name:aze_x_variant":[
         "\u015eurtan"
     ],
+    "name:msa_x_preferred":[
+        "\u015eurtan"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0440\u0442\u0430-\u0428\u0443\u0440\u0442\u0430\u043d"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1293345143,
-    "wof:lastmodified":1537585521,
+    "wof:lastmodified":1564126012,
     "wof:name":"Orta Surtan",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

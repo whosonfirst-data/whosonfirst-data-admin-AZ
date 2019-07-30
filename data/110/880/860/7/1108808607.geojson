@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.637584,
-    "geom:area_square_m":6059840422.835315,
+    "geom:area_square_m":6059840422.835323,
     "geom:bbox":"45.6016516791,38.8488339442,46.8873351014,40.3185097546",
     "geom:latitude":39.766734,
     "geom:longitude":46.346834,
@@ -14,6 +14,9 @@
     "lbl:longitude":46.19617,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e5\u10d0\u10da\u10d1\u10d0\u10ef\u10d0\u10e0-\u10da\u10d0\u10e9\u10d8\u10dc\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -39,7 +42,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1529539781,
+    "wof:lastmodified":1564126300,
     "wof:name":"Kalbajar-Lachin",
     "wof:parent_id":85632717,
     "wof:placetype":"macroregion",

@@ -25,6 +25,18 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ustac\u0259lilli"
+    ],
+    "name:ita_x_preferred":[
+        "Ustacall\u0131"
+    ],
+    "name:lez_x_preferred":[
+        "\u0423\u0441\u0442I\u0430\u0440\u0436\u0435\u043b\u0438\u043b\u043b\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Ustacall\u0131"
+    ],
     "name:und_x_variant":[
         "Ustadzhally",
         "Ustacall\u0131"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1326959689,
-    "wof:lastmodified":1537585320,
+    "wof:lastmodified":1564125778,
     "wof:name":"Ustacalli",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

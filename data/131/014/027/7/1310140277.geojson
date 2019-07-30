@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u062f\u0631\u06cc\u0633 \u0627\u0648\u0628\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "\u0130drisoba"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0130drisoba"
+    ],
+    "name:ita_x_preferred":[
+        "\u0130drisoba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d3\u10e0\u10d8\u10e1\u10dd\u10d1\u10d0"
+    ],
+    "name:lez_x_preferred":[
+        "\u0418\u0434\u0440\u0438\u0441\u0443\u0431\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130drisoba"
+    ],
+    "name:swe_x_preferred":[
+        "\u0130drisoba"
+    ],
     "name:und_x_variant":[
         "\u0130drisoba",
         "Idrisoba"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1310140277,
-    "wof:lastmodified":1537585428,
+    "wof:lastmodified":1564126314,
     "wof:name":"Idrisoba",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

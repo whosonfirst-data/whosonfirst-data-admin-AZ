@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0622\u0645\u0628\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Ambu"
+    ],
+    "name:ceb_x_preferred":[
+        "Ambu"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c0\u03bf\u03cd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0648"
+    ],
+    "name:ita_x_preferred":[
+        "Ambu"
+    ],
+    "name:msa_x_preferred":[
+        "Ambu"
+    ],
+    "name:swe_x_preferred":[
+        "Ambu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1293134813,
-    "wof:lastmodified":1537486566,
+    "wof:lastmodified":1564125986,
     "wof:name":"Ambu",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

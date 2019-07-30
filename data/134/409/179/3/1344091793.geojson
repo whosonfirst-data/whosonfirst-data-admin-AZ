@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Xanagahyolu"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03c7\u03b3\u03b9\u03bf\u03bb\u03bf\u03cd"
+    ],
+    "name:ita_x_preferred":[
+        "Xanagahyolu"
+    ],
+    "name:msa_x_preferred":[
+        "Xanagahyolu"
+    ],
     "name:und_x_variant":[
         "Khanagyakhelu"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1344091793,
-    "wof:lastmodified":1537585542,
+    "wof:lastmodified":1564125861,
     "wof:name":"Xanagahyolu",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

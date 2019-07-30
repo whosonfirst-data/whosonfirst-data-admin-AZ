@@ -28,8 +28,17 @@
     "name:aze_x_preferred":[
         "Mu\u011fan"
     ],
+    "name:ceb_x_preferred":[
+        "Mugan"
+    ],
+    "name:deu_x_preferred":[
+        "Mugan"
+    ],
     "name:rus_x_preferred":[
         "Pos\u00eblok Mugan"
+    ],
+    "name:swe_x_preferred":[
+        "Mugan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293665587,
-    "wof:lastmodified":1537585301,
+    "wof:lastmodified":1564125994,
     "wof:name":"Mugan",
     "wof:parent_id":85668317,
     "wof:placetype":"locality",

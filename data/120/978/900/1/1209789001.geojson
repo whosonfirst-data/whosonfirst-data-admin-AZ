@@ -25,8 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u0631\u06cc\u0648\u0648\u0644\u0646\u0648\u06cc\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Privolnoye"
+    ],
+    "name:ceb_x_preferred":[
+        "Privolnoye"
+    ],
+    "name:ita_x_preferred":[
+        "Privolnoye"
+    ],
+    "name:msa_x_preferred":[
+        "Privolnoye"
+    ],
     "name:rus_x_preferred":[
         "Privol\u2019noye"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0440\u0438\u0432\u043e\u043b\u044c\u043d\u043e\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Privolnoye"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1209789001,
-    "wof:lastmodified":1537585163,
+    "wof:lastmodified":1564126166,
     "wof:name":"Privolnoye",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

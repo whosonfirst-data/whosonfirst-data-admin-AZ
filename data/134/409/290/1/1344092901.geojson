@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Axta\u00e7\u0131 Mu\u011fan"
     ],
+    "name:ita_x_preferred":[
+        "Axta\u00e7\u0131 Mu\u011fan"
+    ],
+    "name:msa_x_preferred":[
+        "Axta\u00e7\u0131 Mu\u011fan"
+    ],
     "name:und_x_variant":[
         "Shaumyan-Akhtachi",
         "Akhtachy Mugan",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1344092901,
-    "wof:lastmodified":1537585498,
+    "wof:lastmodified":1564125860,
     "wof:name":"Axtaci Mugan",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

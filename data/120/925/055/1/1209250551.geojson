@@ -31,6 +31,9 @@
     "name:aze_x_variant":[
         "T\u0259z\u0259k\u0259nd"
     ],
+    "name:ceb_x_preferred":[
+        "Tazakend"
+    ],
     "name:hye_x_preferred":[
         "\u0539\u0561\u0566\u0561\u0584\u0565\u0576\u0564"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0437\u0430\u043a\u0435\u043d\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Tazakend"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1209250551,
-    "wof:lastmodified":1537585326,
+    "wof:lastmodified":1564126173,
     "wof:name":"Tazakend",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

@@ -25,8 +25,20 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u0648\u0634\u0648\u0644\u0648"
+    ],
     "name:aze_x_preferred":[
         "\u015eu\u015fulu"
+    ],
+    "name:aze_x_variant":[
+        "\u015e\u00fc\u015f\u00fcl\u00fc"
+    ],
+    "name:msa_x_preferred":[
+        "\u015eu\u015fulu"
+    ],
+    "name:pol_x_preferred":[
+        "\u015e\u00fc\u015f\u00fcl\u00fc"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0443\u0448\u0443\u043b\u0443"
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1310140121,
-    "wof:lastmodified":1537585150,
+    "wof:lastmodified":1564126312,
     "wof:name":"Susulu",
     "wof:parent_id":85668643,
     "wof:placetype":"locality",

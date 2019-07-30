@@ -26,6 +26,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u06cc\u0631\u06cc\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Diryan"
+    ],
+    "name:ceb_x_preferred":[
+        "D\u0131ryan"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06cc\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "D\u0131ryan"
+    ],
+    "name:msa_x_preferred":[
+        "D\u0131ryan"
+    ],
+    "name:swe_x_preferred":[
+        "D\u0131ryan"
+    ],
     "name:und_x_variant":[
         "Dyr\u2019yan",
         "Darian",
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1293062363,
-    "wof:lastmodified":1537585246,
+    "wof:lastmodified":1564125954,
     "wof:name":"Diryan",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

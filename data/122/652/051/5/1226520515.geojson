@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Mollaisalar"
     ],
+    "name:ceb_x_preferred":[
+        "Mollaisalar"
+    ],
+    "name:ita_x_preferred":[
+        "Mollaisalar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10da\u10d0\u10d8\u10e1\u10d0\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Mollaisalar"
+    ],
+    "name:swe_x_preferred":[
+        "Mollaisalar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1226520515,
-    "wof:lastmodified":1537585368,
+    "wof:lastmodified":1564126652,
     "wof:name":"Mollaisalar",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

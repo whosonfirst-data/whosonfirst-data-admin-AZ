@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Qaraki\u015fil\u0259r"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u0437\u0430\u0440\u0430\u043f"
+    ],
     "name:hye_x_preferred":[
         "Gharaghshlar"
     ],
@@ -36,8 +39,17 @@
         "Dzorap\u2019",
         "\u0541\u0578\u0580\u0561\u0583"
     ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10e0\u10d0\u10e5\u10d8\u10e8\u10d8\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qaraki\u015fil\u0259r"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043a\u0438\u0448\u0438\u043b\u044f\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0437\u043e\u0440\u0430\u043f"
     ],
     "name:und_x_variant":[
         "Karakishilyar",
@@ -67,7 +79,7 @@
         }
     ],
     "wof:id":1344087813,
-    "wof:lastmodified":1537585220,
+    "wof:lastmodified":1564125858,
     "wof:name":"Karakishlag",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

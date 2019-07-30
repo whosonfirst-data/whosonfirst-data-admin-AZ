@@ -25,8 +25,23 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0648\u062f\u0648\u06a9\u0686\u0648"
+    ],
     "name:aze_x_preferred":[
         "D\u00fcd\u00fck\u00e7\u00fc"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u044e\u0440\u0430\u0442\u0430\u0445"
+    ],
+    "name:ceb_x_preferred":[
+        "Dudukchi"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0648\u0631\u0627\u062a\u0627\u063a"
+    ],
+    "name:fra_x_preferred":[
+        "Kyuratagh"
     ],
     "name:hye_x_preferred":[
         "\u0534\u0578\u0582\u0564\u0578\u0582\u056f\u0579\u056b"
@@ -35,8 +50,20 @@
         "K\u2019yurat\u2019agh",
         "\u0554\u0575\u0578\u0582\u0580\u0561\u0569\u0561\u0572"
     ],
+    "name:ita_x_preferred":[
+        "Kyuratagh"
+    ],
+    "name:msa_x_preferred":[
+        "D\u00fcd\u00fck\u00e7\u00fc"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0443\u0434\u0443\u043a\u0447\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Dudukchi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u044e\u0440\u0430\u0442\u0430\u0445"
     ],
     "name:und_x_variant":[
         "\u0414\u0443\u0434\u0443\u043a\u0447\u0438"
@@ -65,7 +92,7 @@
         }
     ],
     "wof:id":1293034901,
-    "wof:lastmodified":1537585246,
+    "wof:lastmodified":1564125997,
     "wof:name":"Dudukchi",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

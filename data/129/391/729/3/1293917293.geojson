@@ -31,6 +31,12 @@
     "name:aze_x_variant":[
         "Anc\u0259qov"
     ],
+    "name:ita_x_preferred":[
+        "\u018fnc\u0259qov"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fnc\u0259qov"
+    ],
     "name:und_x_variant":[
         "\u018fnc\u0259qov",
         "Andzhakov"
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1293917293,
-    "wof:lastmodified":1537585302,
+    "wof:lastmodified":1564125944,
     "wof:name":"Andzhakov",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

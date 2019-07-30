@@ -38,6 +38,12 @@
         "Artashavi",
         "\u0531\u0580\u057f\u0561\u0577\u0561\u057e\u056b"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d3\u10d0\u10db\u10dd\u10d5\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Ardamova"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0434\u0430\u0448\u0435\u0432\u0438"
     ],
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1360135673,
-    "wof:lastmodified":1537585294,
+    "wof:lastmodified":1564126375,
     "wof:name":"Ardamova",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

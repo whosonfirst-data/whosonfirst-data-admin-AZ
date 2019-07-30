@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0627\u0648\u06cc\u062f \u0627\u0648\u0646\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Dav\u0131donu"
+    ],
+    "name:ita_x_preferred":[
+        "Dav\u0131donu"
+    ],
+    "name:msa_x_preferred":[
+        "Dav\u0131donu"
+    ],
+    "name:swe_x_preferred":[
+        "Dav\u0131donu"
+    ],
     "name:und_x_variant":[
         "Dav\u0131donu",
         "Davidoni"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1259619933,
-    "wof:lastmodified":1537585302,
+    "wof:lastmodified":1564126551,
     "wof:name":"Davidonu",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

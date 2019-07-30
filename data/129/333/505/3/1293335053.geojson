@@ -26,14 +26,80 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u0631\u0648\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "\u015e\u0259rur"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u0430\u0440\u0443\u0440"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0430\u0440\u0443\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "\u015e\u0259rur"
+    ],
     "name:eng_x_preferred":[
         "Sharur City"
+    ],
+    "name:epo_x_preferred":[
+        "\u015carur"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0631\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Sharur"
+    ],
+    "name:gag_x_preferred":[
+        "\u015e\u00e4rur"
+    ],
+    "name:hsb_x_preferred":[
+        "\u015e\u0259rur"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0580\u0561\u0577\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "\u015e\u0259rur"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160aruras"
+    ],
+    "name:min_x_preferred":[
+        "\u015e\u0259rur"
+    ],
+    "name:msa_x_preferred":[
+        "\u015e\u0259rur"
+    ],
+    "name:nld_x_preferred":[
+        "\u015e\u0259rur"
+    ],
+    "name:pol_x_preferred":[
+        "\u015e\u0259rur"
+    ],
+    "name:ron_x_preferred":[
+        "\u0218arur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u0443\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eerur"
     ],
     "name:und_x_variant":[
         "Il\u2019ich\u00ebvsk",
         "Norashen",
         "Ilich",
         "\u015e\u0259rur"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0631\u0648\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u9b6f\u723e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -60,7 +126,7 @@
         }
     ],
     "wof:id":1293335053,
-    "wof:lastmodified":1537585122,
+    "wof:lastmodified":1564126013,
     "wof:name":"Sharur City",
     "wof:parent_id":85668667,
     "wof:placetype":"locality",

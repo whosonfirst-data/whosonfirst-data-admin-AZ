@@ -25,8 +25,14 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0631\u0627 \u0628\u06cc\u200c\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Qarab\u0259yli"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0430\u043a"
     ],
     "name:hye_x_preferred":[
         "Gharabeyli"
@@ -36,8 +42,17 @@
         "K\u2019arabak",
         "\u0554\u0561\u0580\u0561\u0562\u0561\u056f"
     ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10e0\u10d0\u10d1\u10d4\u10d8\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qarab\u0259yli"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0431\u0435\u0439\u043b\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0430\u043a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1259826873,
-    "wof:lastmodified":1537585224,
+    "wof:lastmodified":1564126547,
     "wof:name":"Karabeyli",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

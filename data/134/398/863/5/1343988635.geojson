@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Papaq\u00e7\u0131lar"
     ],
+    "name:ita_x_preferred":[
+        "Papaq\u00e7\u0131lar"
+    ],
+    "name:msa_x_preferred":[
+        "Papaq\u00e7\u0131lar"
+    ],
     "name:und_x_variant":[
         "Papakhchylar"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1343988635,
-    "wof:lastmodified":1537585533,
+    "wof:lastmodified":1564125840,
     "wof:name":"Papaqcilar",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "\u015eay\u0131fl\u0131"
     ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10d8\u10d8\u10e4\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u015eay\u0131fl\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0430\u0439\u044b\u0444\u043b\u044b"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1276803553,
-    "wof:lastmodified":1537585153,
+    "wof:lastmodified":1564126056,
     "wof:name":"Shayyfly",
     "wof:parent_id":85668659,
     "wof:placetype":"locality",

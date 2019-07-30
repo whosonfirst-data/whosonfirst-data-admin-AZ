@@ -28,11 +28,20 @@
     "name:aze_x_preferred":[
         "Da\u015fveys\u0259lli"
     ],
+    "name:aze_x_variant":[
+        "Da\u015f Veys\u0259lli"
+    ],
     "name:hye_x_preferred":[
         "Dashveysali"
     ],
     "name:hye_x_variant":[
         "\u0534\u0561\u0577\u057e\u0565\u0575\u057d\u0561\u056c\u056b"
+    ],
+    "name:min_x_preferred":[
+        "Da\u015f Veys\u0259lli"
+    ],
+    "name:msa_x_preferred":[
+        "Da\u015f Veys\u0259lli"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u0448\u0432\u0435\u0439\u0441\u0430\u043b\u043b\u0438"
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1293660141,
-    "wof:lastmodified":1537585251,
+    "wof:lastmodified":1564125994,
     "wof:name":"Dashveysaly",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

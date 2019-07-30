@@ -26,7 +26,34 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0686\u0627\u0644\u062e\u0627\u0646\u0642\u0627\u0644\u0627"
+    ],
     "name:aze_x_preferred":[
+        "\u00c7alxanqala"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c7alxanqala"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0644\u062e\u0627\u0646\u200c\u0642\u0644\u0639\u0647"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0566\u0576\u0561\u0562\u0565\u0580\u0564"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7alxanqala"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10da\u10ee\u10d0\u10dc\u10e5\u10d0\u10da\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7alxanqala"
+    ],
+    "name:pol_x_preferred":[
+        "\u00c7alxanqala"
+    ],
+    "name:swe_x_preferred":[
         "\u00c7alxanqala"
     ],
     "src:geom":"geonames",
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1209355293,
-    "wof:lastmodified":1537585297,
+    "wof:lastmodified":1564126191,
     "wof:name":"Calxanqala",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

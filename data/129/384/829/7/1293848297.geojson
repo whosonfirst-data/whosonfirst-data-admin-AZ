@@ -31,6 +31,15 @@
     "name:aze_x_variant":[
         "Leninabad"
     ],
+    "name:ita_x_preferred":[
+        "B\u0259\u015firli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e8\u10d8\u10e0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "B\u0259\u015firli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293848297,
-    "wof:lastmodified":1537585537,
+    "wof:lastmodified":1564125971,
     "wof:name":"Leninabad",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

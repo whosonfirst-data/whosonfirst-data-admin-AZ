@@ -25,6 +25,12 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e9\u10e3\u10d2\u10e3\u10dc\u10da\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "Chugunlu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1209953075,
-    "wof:lastmodified":1537486655,
+    "wof:lastmodified":1564126184,
     "wof:name":"Chugunlu",
     "wof:parent_id":85668233,
     "wof:placetype":"locality",

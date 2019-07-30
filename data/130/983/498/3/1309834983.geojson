@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Blaband"
     ],
+    "name:ceb_x_preferred":[
+        "Balabant"
+    ],
+    "name:ita_x_preferred":[
+        "Blaband"
+    ],
+    "name:msa_x_preferred":[
+        "Bilab\u0259nd"
+    ],
+    "name:swe_x_preferred":[
+        "Balabant"
+    ],
     "name:und_x_variant":[
         "Bilab\u0259nd",
         "Bilaband"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1309834983,
-    "wof:lastmodified":1537585263,
+    "wof:lastmodified":1564126408,
     "wof:name":"Balabant",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

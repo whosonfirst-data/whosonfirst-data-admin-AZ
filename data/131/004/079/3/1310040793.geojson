@@ -28,8 +28,20 @@
     "name:aze_x_preferred":[
         "Yenik\u0259nd"
     ],
+    "name:ceb_x_preferred":[
+        "Yenikend"
+    ],
+    "name:ita_x_preferred":[
+        "Yenik\u0259nd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d4\u10dc\u10d8\u10e5\u10d4\u10dc\u10d3\u10d8"
+    ],
     "name:rus_x_preferred":[
         "\u0415\u043d\u0438\u043a\u0435\u043d\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Yenikend"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1310040793,
-    "wof:lastmodified":1537585521,
+    "wof:lastmodified":1564126354,
     "wof:name":"Yenikend",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fs\u0259dli"
+    ],
+    "name:ceb_x_preferred":[
+        "Asatly"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fs\u0259dli"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fs\u0259dli"
+    ],
+    "name:swe_x_preferred":[
+        "Asatly"
+    ],
     "name:und_x_variant":[
         "Asadly",
         "Asalty",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1326864233,
-    "wof:lastmodified":1537585489,
+    "wof:lastmodified":1564125752,
     "wof:name":"Asatly",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

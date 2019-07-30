@@ -26,7 +26,34 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u0646\u0646\u0645"
+    ],
     "name:aze_x_preferred":[
+        "T\u0259n\u0259n\u0259m"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u0259n\u0259n\u0259m"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u0645"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0561\u0576\u0561\u0576\u0561\u0574"
+    ],
+    "name:ita_x_preferred":[
+        "T\u0259n\u0259n\u0259m"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d0\u10dc\u10d0\u10dc\u10d0\u10db\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "T\u0259n\u0259n\u0259m"
+    ],
+    "name:msa_x_preferred":[
+        "T\u0259n\u0259n\u0259m"
+    ],
+    "name:swe_x_preferred":[
         "T\u0259n\u0259n\u0259m"
     ],
     "src:geom":"geonames",
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1277027553,
-    "wof:lastmodified":1537585143,
+    "wof:lastmodified":1564126087,
     "wof:name":"Tananam",
     "wof:parent_id":85668667,
     "wof:placetype":"locality",

@@ -29,6 +29,24 @@
     "name:aze_x_preferred":[
         "Milax"
     ],
+    "name:ceb_x_preferred":[
+        "Milax"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Milax"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10da\u10d0\u10ee\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Milax"
+    ],
+    "name:tur_x_preferred":[
+        "Milax"
+    ],
     "name:und_x_variant":[
         "Milakh"
     ],
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1326471139,
-    "wof:lastmodified":1537585180,
+    "wof:lastmodified":1564125802,
     "wof:name":"Milax",
     "wof:parent_id":85668677,
     "wof:placetype":"locality",

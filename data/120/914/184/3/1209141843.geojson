@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Pa\u015faoba"
     ],
+    "name:ita_x_preferred":[
+        "Pa\u015faoba"
+    ],
+    "name:msa_x_preferred":[
+        "Pa\u015faoba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632717
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1209141843,
-    "wof:lastmodified":1537585543,
+    "wof:lastmodified":1564126181,
     "wof:name":"Pasaoba",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

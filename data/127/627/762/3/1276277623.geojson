@@ -25,6 +25,18 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u0627\u0646\u200c\u062f\u0647"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03ac\u03bd\u03c4\u03b9"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0627\u0646\u200c\u062f\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Miandy"
+    ],
     "name:und_x_variant":[
         "Miandy",
         "Didzho"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1276277623,
-    "wof:lastmodified":1537585181,
+    "wof:lastmodified":1564126063,
     "wof:name":"Didzho",
     "wof:parent_id":85668397,
     "wof:placetype":"locality",

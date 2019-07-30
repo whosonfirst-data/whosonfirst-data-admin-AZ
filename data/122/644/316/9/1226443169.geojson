@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "M\u0259\u015f\u0259d"
     ],
+    "name:ceb_x_preferred":[
+        "M\u0259\u015f\u0259d"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0259s\u0259d"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e8\u10d0\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "M\u0259s\u0259d"
+    ],
+    "name:swe_x_preferred":[
+        "M\u0259\u015f\u0259d"
+    ],
     "name:und_x_variant":[
         "M\u0259s\u0259d"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1226443169,
-    "wof:lastmodified":1537585510,
+    "wof:lastmodified":1564126579,
     "wof:name":"Masad",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

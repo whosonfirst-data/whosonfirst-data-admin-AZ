@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "G\u00fcv\u0259ndi"
     ],
+    "name:aze_x_variant":[
+        "G\u00fcv\u0259ndik"
+    ],
+    "name:ita_x_preferred":[
+        "G\u00fcv\u0259ndik"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10e3\u10d5\u10d0\u10dc\u10d3\u10d8\u10e5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00fcv\u0259ndik"
+    ],
     "name:und_x_variant":[
         "Geyyendik",
         "Nizhniy Geyendik",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1343598055,
-    "wof:lastmodified":1537585429,
+    "wof:lastmodified":1564125883,
     "wof:name":"Gyuvandik",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

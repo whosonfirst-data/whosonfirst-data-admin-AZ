@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Fioletovka"
     ],
+    "name:ita_x_preferred":[
+        "Fioletovka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259845783,
-    "wof:lastmodified":1537585240,
+    "wof:lastmodified":1564126536,
     "wof:name":"Fioletovka",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

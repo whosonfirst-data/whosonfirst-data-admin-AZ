@@ -25,11 +25,26 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Eynibulaq"
+    ],
+    "name:ceb_x_preferred":[
+        "Eynibulaq"
+    ],
     "name:eng_x_preferred":[
+        "Eynibulaq"
+    ],
+    "name:ita_x_preferred":[
+        "Eynibulaq"
+    ],
+    "name:msa_x_preferred":[
         "Eynibulaq"
     ],
     "name:rus_x_preferred":[
         "\u042d\u0439\u043d\u0438\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Eynibulaq"
     ],
     "name:und_x_variant":[
         "Eyni-Bulagi",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1293718513,
-    "wof:lastmodified":1537585445,
+    "wof:lastmodified":1564125980,
     "wof:name":"Eynibulaq",
     "wof:parent_id":85668425,
     "wof:placetype":"locality",

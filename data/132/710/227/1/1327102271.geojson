@@ -25,11 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0644\u0648\u062a"
+    ],
+    "name:aze_x_preferred":[
+        "Sulut"
+    ],
+    "name:ceb_x_preferred":[
+        "Sulut"
+    ],
     "name:eng_x_preferred":[
+        "Sulut"
+    ],
+    "name:ita_x_preferred":[
+        "Sulut"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10da\u10e3\u10d7\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Sulut"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u043b\u0443\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Sulut"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1327102271,
-    "wof:lastmodified":1537585331,
+    "wof:lastmodified":1564125825,
     "wof:name":"Sulut",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

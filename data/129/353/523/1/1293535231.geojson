@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "\u00c7ayq\u0131raq"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03ca\u03ba\u03b9\u03c1\u03ac\u03ba"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7ayq\u0131raq"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7ayq\u0131raq"
+    ],
     "name:und_x_variant":[
         "Chaykyrak"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293535231,
-    "wof:lastmodified":1537585526,
+    "wof:lastmodified":1564125952,
     "wof:name":"Cayqiraq",
     "wof:parent_id":85668397,
     "wof:placetype":"locality",

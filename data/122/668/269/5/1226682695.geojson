@@ -25,9 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0635\u0627\u062f\u06cc\u0642\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Sad\u0131ql\u0131"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03c4\u03b9\u03ba\u03bb\u03af"
+    ],
+    "name:ita_x_preferred":[
+        "Sad\u0131ql\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d3\u10d8\u10e5\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Sad\u0131ql\u0131"
+    ],
     "name:und_x_variant":[
         "Sadykhly",
         "Sad\u0131ql\u0131"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u062f\u06cc\u0642\u0644\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1226682695,
-    "wof:lastmodified":1537585348,
+    "wof:lastmodified":1564126606,
     "wof:name":"Sadiqli",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

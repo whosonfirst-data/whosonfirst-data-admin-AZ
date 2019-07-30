@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "X\u0131lx\u0131na"
+    ],
+    "name:ceb_x_preferred":[
+        "X\u0131lx\u0131na"
+    ],
+    "name:ita_x_preferred":[
+        "X\u0131lx\u0131na"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d8\u10da\u10ee\u10d8\u10dc\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "X\u0131lx\u0131na"
+    ],
+    "name:swe_x_preferred":[
+        "X\u0131lx\u0131na"
+    ],
     "name:und_x_variant":[
         "Khyikhyna",
         "Khylkhyna",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1210039315,
-    "wof:lastmodified":1537585396,
+    "wof:lastmodified":1564126230,
     "wof:name":"Xilxina",
     "wof:parent_id":85668195,
     "wof:placetype":"locality",

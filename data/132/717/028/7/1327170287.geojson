@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "\u015eorsu"
     ],
+    "name:ita_x_preferred":[
+        "\u015eorsu"
+    ],
+    "name:msa_x_preferred":[
+        "\u015eorsu"
+    ],
     "name:und_x_variant":[
         "Shorsu"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1327170287,
-    "wof:lastmodified":1537585538,
+    "wof:lastmodified":1564125823,
     "wof:name":"Sorsu",
     "wof:parent_id":85668565,
     "wof:placetype":"locality",

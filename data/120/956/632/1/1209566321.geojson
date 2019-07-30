@@ -28,13 +28,25 @@
     "name:aze_x_preferred":[
         "A\u011fanus"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u0433\u0430\u043d\u0443\u0441"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0572\u0561\u0576\u0578\u0582\u057d"
     ],
     "name:hye_x_variant":[
         "Aghanus"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e6\u10d0\u10dc\u10e3\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u011fanus"
+    ],
     "name:rus_x_preferred":[
+        "\u0410\u0433\u0430\u043d\u0443\u0441"
+    ],
+    "name:ukr_x_preferred":[
         "\u0410\u0433\u0430\u043d\u0443\u0441"
     ],
     "name:und_x_variant":[
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1209566321,
-    "wof:lastmodified":1537585287,
+    "wof:lastmodified":1564126201,
     "wof:name":"Aganus",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

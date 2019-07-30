@@ -25,6 +25,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0686\u067e\u200c\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "\u00c7\u0259pli"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:hye_x_variant":[
         "\u0549\u0561\u0583\u0576\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Chapni"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7\u0259pli"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u043f\u043b\u0438"
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1343229321,
-    "wof:lastmodified":1537585467,
+    "wof:lastmodified":1564125879,
     "wof:name":"Chapli",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

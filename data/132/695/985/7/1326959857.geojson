@@ -31,6 +31,18 @@
     "name:aze_x_variant":[
         "Qosmalyan"
     ],
+    "name:ceb_x_preferred":[
+        "Qosmal\u0131an"
+    ],
+    "name:ita_x_preferred":[
+        "Qosmalyan"
+    ],
+    "name:msa_x_preferred":[
+        "Qosmalyan"
+    ],
+    "name:swe_x_preferred":[
+        "Qosmal\u0131an"
+    ],
     "name:und_x_variant":[
         "Gosmalyan",
         "Kasmal\u2019yan",
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1326959857,
-    "wof:lastmodified":1537585232,
+    "wof:lastmodified":1564125778,
     "wof:name":"Qosmalian",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

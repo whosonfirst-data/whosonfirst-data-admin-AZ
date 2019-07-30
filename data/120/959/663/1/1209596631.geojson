@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "G\u00fclo\u011flular"
     ],
+    "name:ceb_x_preferred":[
+        "G\u00fclo\u011flular"
+    ],
+    "name:ita_x_preferred":[
+        "G\u00fclo\u011flular"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10e3\u10da\u10dd\u10e6\u10da\u10e3\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:swe_x_preferred":[
+        "G\u00fclo\u011flular"
+    ],
     "name:und_x_variant":[
         "Gyuloglylar",
         "Gyul\u2019oglular"
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1209596631,
-    "wof:lastmodified":1537585430,
+    "wof:lastmodified":1564126189,
     "wof:name":"Guloglular",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

@@ -28,8 +28,23 @@
     "name:aze_x_preferred":[
         "Vel"
     ],
+    "name:ind_x_preferred":[
+        "Vel"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u0947\u0932"
+    ],
+    "name:por_x_preferred":[
+        "Vel"
+    ],
     "name:rus_x_preferred":[
         "Vel\u2019"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dda\u0dbd\u0dcf\u0dba\u0dd4\u0db0\u0dba"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bc7\u0bb2\u0bcd"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[],
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1327381175,
-    "wof:lastmodified":1537585135,
+    "wof:lastmodified":1564125751,
     "wof:name":"Vel",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

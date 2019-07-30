@@ -28,6 +28,24 @@
     "name:aze_x_preferred":[
         "Zinzahal"
     ],
+    "name:ceb_x_preferred":[
+        "Zinzahal"
+    ],
+    "name:hye_x_preferred":[
+        "\u0551\u0576\u056e\u0561\u0570\u0561\u056c"
+    ],
+    "name:ita_x_preferred":[
+        "Zinzahal"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d8\u10dc\u10d6\u10d0\u10f0\u10d0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Zinzahal"
+    ],
+    "name:swe_x_preferred":[
+        "Zinzahal"
+    ],
     "name:und_x_variant":[
         "Zinzagal"
     ],
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276732171,
-    "wof:lastmodified":1537585306,
+    "wof:lastmodified":1564126060,
     "wof:name":"Zinzahal",
     "wof:parent_id":85668199,
     "wof:placetype":"locality",

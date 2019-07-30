@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Mumlu"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03bc\u03bb\u03bf\u03cd"
+    ],
+    "name:msa_x_preferred":[
+        "Mumlu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1327205623,
-    "wof:lastmodified":1537585517,
+    "wof:lastmodified":1564125833,
     "wof:name":"Mumlu",
     "wof:parent_id":85668339,
     "wof:placetype":"locality",

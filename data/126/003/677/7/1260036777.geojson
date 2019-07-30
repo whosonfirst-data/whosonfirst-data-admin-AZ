@@ -25,8 +25,14 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u018fsrik"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u057d\u0580\u056b\u056f"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fsrik"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0441\u0440\u0438\u043a"
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1260036777,
-    "wof:lastmodified":1537585484,
+    "wof:lastmodified":1564126290,
     "wof:name":"Asrik",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

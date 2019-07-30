@@ -25,6 +25,18 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Hinqar"
+    ],
+    "name:ita_x_preferred":[
+        "Hinqar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d8\u10dc\u10d2\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Hinqar"
+    ],
     "name:und_x_variant":[
         "Ingar",
         "Incha",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1293482545,
-    "wof:lastmodified":1537585426,
+    "wof:lastmodified":1564125970,
     "wof:name":"Hinqar",
     "wof:parent_id":85668289,
     "wof:placetype":"locality",

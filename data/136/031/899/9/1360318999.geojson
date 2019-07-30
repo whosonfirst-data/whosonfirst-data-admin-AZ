@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00d6k\u00fc"
+    ],
+    "name:ita_x_preferred":[
+        "\u00d6k\u00fc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10dd\u10e5\u10d8\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "\u00d6k\u00fc"
+    ],
+    "name:tur_x_preferred":[
+        "\u00d6k\u00fc"
+    ],
     "name:und_x_variant":[
         "\u00d6k\u00fc"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1360318999,
-    "wof:lastmodified":1537585168,
+    "wof:lastmodified":1564126383,
     "wof:name":"Okyu",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

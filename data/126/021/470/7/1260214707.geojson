@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Ha\u00e7atala"
     ],
+    "name:ita_x_preferred":[
+        "Ha\u00e7atala"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10e9\u10d0\u10d7\u10d0\u10da\u10d0"
+    ],
+    "name:lez_x_preferred":[
+        "\u0413\u044c\u0430\u0447\u0430\u0442\u0430\u043b\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Ha\u00e7atala"
+    ],
     "name:und_x_variant":[
         "Gachatala"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1260214707,
-    "wof:lastmodified":1537585535,
+    "wof:lastmodified":1564126286,
     "wof:name":"Hacatala",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

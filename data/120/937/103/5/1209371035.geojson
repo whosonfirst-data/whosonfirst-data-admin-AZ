@@ -25,11 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qubal\u0131balao\u011flan"
+    ],
+    "name:ceb_x_preferred":[
+        "Qubal\u0131balao\u011flan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03bc\u03c0\u03b1\u03bb\u03b9\u03bc\u03c0\u03b1\u03bb\u03b1\u03bf\u03b3\u03ba\u03bb\u03ac\u03bd"
+    ],
     "name:eng_x_preferred":[
+        "Qubal\u0131balao\u011flan"
+    ],
+    "name:ita_x_preferred":[
+        "Qubal\u0131balao\u011flan"
+    ],
+    "name:msa_x_preferred":[
         "Qubal\u0131balao\u011flan"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0431\u0430\u043b\u044b\u0431\u0430\u043b\u0430\u043e\u0433\u043b\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Qubal\u0131balao\u011flan"
     ],
     "name:und_x_variant":[
         "Kubaly",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1209371035,
-    "wof:lastmodified":1537585388,
+    "wof:lastmodified":1564126149,
     "wof:name":"Qubalibalaoglan",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

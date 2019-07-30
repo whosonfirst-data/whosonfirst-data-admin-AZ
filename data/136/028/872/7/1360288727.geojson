@@ -25,8 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0644\u0645\u0627\u0646 \u0628\u06cc\u200c\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Salmanb\u0259yli"
+    ],
+    "name:ceb_x_preferred":[
+        "Salmanbeyly"
+    ],
+    "name:ita_x_preferred":[
+        "Salmanb\u0259yli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10da\u10db\u10d0\u10dc\u10d1\u10d4\u10d8\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Salmanb\u0259yli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u043c\u0430\u043d\u0431\u0435\u0439\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Salmanbeyly"
     ],
     "name:und_x_variant":[
         "Salmanbeyli"
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1360288727,
-    "wof:lastmodified":1537585160,
+    "wof:lastmodified":1564126392,
     "wof:name":"Salmanbeyly",
     "wof:parent_id":85668519,
     "wof:placetype":"locality",

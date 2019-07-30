@@ -36,6 +36,12 @@
         "T\u2019ovmasar",
         "\u0539\u0578\u057e\u0574\u0561\u057d\u0561\u0580"
     ],
+    "name:min_x_preferred":[
+        "Da\u011f Tumas"
+    ],
+    "name:msa_x_preferred":[
+        "Da\u011f Tumas"
+    ],
     "name:und_x_variant":[
         "Dagtumas"
     ],
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1226225631,
-    "wof:lastmodified":1537585292,
+    "wof:lastmodified":1564126633,
     "wof:name":"Dag Tumas",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

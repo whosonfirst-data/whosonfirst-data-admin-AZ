@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u0631\u062e\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Varxan"
+    ],
+    "name:ceb_x_preferred":[
+        "Varxan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u062e\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Varxan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10e0\u10ee\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Varxan"
+    ],
+    "name:swe_x_preferred":[
+        "Varxan"
+    ],
     "name:und_x_variant":[
         "Varkhan",
         "Varxan"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1343893071,
-    "wof:lastmodified":1537585293,
+    "wof:lastmodified":1564125914,
     "wof:name":"Varxan",
     "wof:parent_id":85668433,
     "wof:placetype":"locality",

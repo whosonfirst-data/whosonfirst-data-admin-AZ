@@ -25,6 +25,33 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u067e\u0627\u0631\u06cc \u0628\u0627\u063a"
+    ],
+    "name:aze_x_preferred":[
+        "Supariba\u011f"
+    ],
+    "name:ceb_x_preferred":[
+        "Supariba\u011f"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03c0\u03b1\u03c1\u03b9\u03bc\u03c0\u03ac\u03b3\u03ba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u067e\u0627\u0631\u06cc\u200c\u0628\u0627\u063a"
+    ],
+    "name:ita_x_preferred":[
+        "Supariba\u011f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10e4\u10d0\u10e0\u10d8\u10d1\u10d0\u10e6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Supariba\u011f"
+    ],
+    "name:swe_x_preferred":[
+        "Supariba\u011f"
+    ],
     "name:und_x_variant":[
         "Supariba\u011f",
         "Suparibag"
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1226035729,
-    "wof:lastmodified":1537585144,
+    "wof:lastmodified":1564126601,
     "wof:name":"Suparibag",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

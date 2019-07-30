@@ -25,6 +25,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0627\u0634\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Qayal\u0131"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:hye_x_variant":[
         "\u0554\u0561\u0575\u0561\u056c\u0568"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10d8\u10d0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qayal\u0131"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u044f\u043b\u044b"
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1225879197,
-    "wof:lastmodified":1537585216,
+    "wof:lastmodified":1564126621,
     "wof:name":"Qayali",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

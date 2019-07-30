@@ -25,6 +25,12 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Talis"
+    ],
+    "name:lit_x_preferred":[
+        "Talis"
+    ],
     "name:und_x_variant":[
         "Talysh",
         "Tal\u0131\u015f"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1310260141,
-    "wof:lastmodified":1537585328,
+    "wof:lastmodified":1564126349,
     "wof:name":"Talis",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

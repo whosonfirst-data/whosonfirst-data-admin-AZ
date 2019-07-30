@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0635\u063a\u0631 \u0628\u06cc\u200c\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fsg\u0259rb\u0259yli"
+    ],
+    "name:ceb_x_preferred":[
+        "Askerbeyli"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fsg\u0259rb\u0259yli"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fsg\u0259rb\u0259yli"
+    ],
+    "name:swe_x_preferred":[
+        "Askerbeyli"
+    ],
     "name:und_x_variant":[
         "\u018fsg\u0259rb\u0259yli"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1327368613,
-    "wof:lastmodified":1537585484,
+    "wof:lastmodified":1564125747,
     "wof:name":"Askerbeyli",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

@@ -25,11 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Afurca"
+    ],
+    "name:ceb_x_preferred":[
+        "Afurca"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c6\u03bf\u03cd\u03c1\u03c4\u03c3\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Afurca"
+    ],
+    "name:ita_x_preferred":[
+        "Afurca"
+    ],
+    "name:lez_x_preferred":[
+        "\u0410\u0444\u0443\u0440\u0434\u0436\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Afurca"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0444\u0443\u0440\u0434\u0436\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Afurca"
     ],
     "name:und_x_variant":[
         "Afurdzha",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1343888477,
-    "wof:lastmodified":1537585502,
+    "wof:lastmodified":1564125924,
     "wof:name":"Afurca",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

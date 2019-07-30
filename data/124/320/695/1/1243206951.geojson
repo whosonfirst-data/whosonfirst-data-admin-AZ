@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "\u0130nstitut"
     ],
+    "name:ita_x_preferred":[
+        "\u0130nstitut"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130nstitut"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0441\u043a\u0438\u0439"
+    ],
     "name:und_x_variant":[
         "Institutskiy"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1243206951,
-    "wof:lastmodified":1537585537,
+    "wof:lastmodified":1564126508,
     "wof:name":"Institut",
     "wof:parent_id":85668235,
     "wof:placetype":"locality",

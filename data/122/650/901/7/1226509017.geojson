@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Qarac\u0131l\u0131"
     ],
+    "name:msa_x_preferred":[
+        "Karadzhaly"
+    ],
     "name:und_x_variant":[
         "Kagadzhy",
         "Kagadzhyly",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1226509017,
-    "wof:lastmodified":1537585424,
+    "wof:lastmodified":1564126613,
     "wof:name":"Qaracili",
     "wof:parent_id":85668383,
     "wof:placetype":"locality",

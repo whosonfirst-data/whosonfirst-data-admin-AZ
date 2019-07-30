@@ -28,6 +28,24 @@
     "name:aze_x_preferred":[
         "Qabaqdibi"
     ],
+    "name:ceb_x_preferred":[
+        "Qabaqdibi"
+    ],
+    "name:ita_x_preferred":[
+        "Qabaqdibi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10d1\u10d0\u10ee\u10d3\u10d8\u10d1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qabaqdibi"
+    ],
+    "name:swe_x_preferred":[
+        "Qabaqdibi"
+    ],
+    "name:tur_x_preferred":[
+        "Kabakdibi"
+    ],
     "name:und_x_variant":[
         "Kabakdibi",
         "Kabakhdibi"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1310241853,
-    "wof:lastmodified":1537585227,
+    "wof:lastmodified":1564126304,
     "wof:name":"Qabaqdibi",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

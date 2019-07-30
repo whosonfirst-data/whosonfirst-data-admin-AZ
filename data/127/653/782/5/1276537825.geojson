@@ -25,7 +25,19 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ava_x_preferred":[
+        "\u0427I\u043e\u0440\u043e\u043b\u0438\u0431"
+    ],
     "name:aze_x_preferred":[
+        "\u00c7or\u00e7orbin\u0259"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7or\u00e7orbin\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10dd\u10e0\u10e9\u10dd\u10d1\u10d8\u10dc\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "\u00c7or\u00e7orbin\u0259"
     ],
     "src:geom":"geonames",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1276537825,
-    "wof:lastmodified":1537585540,
+    "wof:lastmodified":1564126124,
     "wof:name":"Corcorbina",
     "wof:parent_id":85668531,
     "wof:placetype":"locality",

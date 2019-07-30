@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0632\u0627\u062e \u0628\u06cc\u200c\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Qazaxb\u0259yli"
+    ],
+    "name:ceb_x_preferred":[
+        "Kazakhbeyli"
+    ],
+    "name:hye_x_preferred":[
+        "\u0542\u0561\u0566\u0561\u056d\u0562\u0565\u0575\u056c\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Qazaxb\u0259yli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10d6\u10d0\u10ee\u10d1\u10d0\u10d8\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qazaxb\u0259yli"
+    ],
+    "name:swe_x_preferred":[
+        "Kazakhbeyli"
+    ],
     "name:und_x_variant":[
         "Qazaxb\u0259yli"
     ],
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1344108205,
-    "wof:lastmodified":1537585408,
+    "wof:lastmodified":1564125901,
     "wof:name":"Kazakhbeyli",
     "wof:parent_id":85668229,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:aze_x_preferred":[
         "S\u00fcst"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u057d\u057f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1360038841,
-    "wof:lastmodified":1537585144,
+    "wof:lastmodified":1564126395,
     "wof:name":"Sust",
     "wof:parent_id":85668717,
     "wof:placetype":"locality",

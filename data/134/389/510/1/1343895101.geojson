@@ -28,6 +28,33 @@
     "name:aze_x_preferred":[
         "Sirena"
     ],
+    "name:bos_x_preferred":[
+        "Sirena"
+    ],
+    "name:ces_x_preferred":[
+        "Sir\u00e9na"
+    ],
+    "name:deu_x_preferred":[
+        "Sirena"
+    ],
+    "name:eus_x_preferred":[
+        "Sirena"
+    ],
+    "name:fra_x_preferred":[
+        "Sirena"
+    ],
+    "name:hrv_x_preferred":[
+        "Sirena"
+    ],
+    "name:ita_x_preferred":[
+        "Sirena"
+    ],
+    "name:slk_x_preferred":[
+        "Sir\u00e9na"
+    ],
+    "name:spa_x_preferred":[
+        "Sirena"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1343895101,
-    "wof:lastmodified":1537585534,
+    "wof:lastmodified":1564125915,
     "wof:name":"Sirena",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

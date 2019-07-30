@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0631\u0627\u062e\u06cc\u200c\u062f\u06cc\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Qarax\u0131d\u0131r"
+    ],
+    "name:ceb_x_preferred":[
+        "Qarax\u0131d\u0131r"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0647\u200c\u062e\u0636\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "Qarax\u0131d\u0131r"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10e0\u10d0\u10ee\u10d8\u10d3\u10d8\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qarax\u0131d\u0131r"
+    ],
+    "name:swe_x_preferred":[
+        "Qarax\u0131d\u0131r"
+    ],
     "name:und_x_variant":[
         "Karakhydyr",
         "Qarax\u0131d\u0131r"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1243222283,
-    "wof:lastmodified":1537585415,
+    "wof:lastmodified":1564126478,
     "wof:name":"Qaraxidir",
     "wof:parent_id":85668357,
     "wof:placetype":"locality",

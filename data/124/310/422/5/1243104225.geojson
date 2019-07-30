@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Q\u0131m\u0131lqazma"
     ],
+    "name:ita_x_preferred":[
+        "Q\u0131m\u0131lqazma"
+    ],
+    "name:msa_x_preferred":[
+        "Q\u0131m\u0131lqazma"
+    ],
     "name:und_x_variant":[
         "Kymylqazma"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1243104225,
-    "wof:lastmodified":1537585542,
+    "wof:lastmodified":1564126518,
     "wof:name":"Qimilqazma",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

@@ -25,13 +25,124 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0631\u0648\u0641"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0631\u0648\u0641"
+    ],
     "name:aze_x_preferred":[
         "Sarov"
     ],
     "name:aze_x_variant":[
         "Sarovld"
     ],
+    "name:bak_x_preferred":[
+        "\u0421\u0430\u0440\u043e\u0432"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u0440\u043e\u045e"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0440\u043e\u0432"
+    ],
+    "name:ceb_x_preferred":[
+        "Sarov"
+    ],
+    "name:ces_x_preferred":[
+        "Sarov"
+    ],
+    "name:deu_x_preferred":[
+        "Sarow"
+    ],
+    "name:epo_x_preferred":[
+        "Sarov"
+    ],
+    "name:est_x_preferred":[
+        "Sarov"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u0648\u0641"
+    ],
+    "name:fin_x_preferred":[
+        "Sarov"
+    ],
+    "name:fra_x_preferred":[
+        "Sarov"
+    ],
+    "name:hrv_x_preferred":[
+        "Sarov"
+    ],
+    "name:hsb_x_preferred":[
+        "Sarow"
+    ],
+    "name:hun_x_preferred":[
+        "Szarov"
+    ],
+    "name:ita_x_preferred":[
+        "Sarov"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30ed\u30d5"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ub85c\ud504"
+    ],
+    "name:lat_x_preferred":[
+        "Sarovia"
+    ],
+    "name:myv_x_preferred":[
+        "\u0421\u0430\u0440\u043e\u0432 \u043e\u0448"
+    ],
+    "name:nld_x_preferred":[
+        "Sarov"
+    ],
+    "name:nno_x_preferred":[
+        "Sarov"
+    ],
+    "name:nor_x_preferred":[
+        "Sarov"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0627\u0631\u0648\u0641"
+    ],
+    "name:pol_x_preferred":[
+        "Sarow"
+    ],
+    "name:por_x_preferred":[
+        "Sarov"
+    ],
+    "name:ron_x_preferred":[
+        "Sarov"
+    ],
     "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u043e\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Sarov"
+    ],
+    "name:slv_x_preferred":[
+        "Sarov"
+    ],
+    "name:spa_x_preferred":[
+        "Sarov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0440\u043e\u0432"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u043a\u044b\u043b\u044b\u0447"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0430\u0440\u043e\u0432"
+    ],
+    "name:tgl_x_preferred":[
+        "Sarov"
+    ],
+    "name:tur_x_preferred":[
+        "Sarov"
+    ],
+    "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u043e\u0432"
     ],
     "name:und_x_variant":[
@@ -39,6 +150,15 @@
         "Musulman-Zarov",
         "Musul\u2019man Sarov",
         "Ashaga-Seidimly"
+    ],
+    "name:vie_x_preferred":[
+        "Sarov"
+    ],
+    "name:war_x_preferred":[
+        "Sarov"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u7f85\u592b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +177,7 @@
         }
     ],
     "wof:id":1209651753,
-    "wof:lastmodified":1537585345,
+    "wof:lastmodified":1564126143,
     "wof:name":"Sarov",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

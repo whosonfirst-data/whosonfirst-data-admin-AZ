@@ -31,6 +31,15 @@
     "name:aze_x_variant":[
         "Vaqadi"
     ],
+    "name:ita_x_preferred":[
+        "Vaqadi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10d2\u10d0\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Vaqadi"
+    ],
     "name:und_x_variant":[
         "Vogady"
     ],
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1309891325,
-    "wof:lastmodified":1537585526,
+    "wof:lastmodified":1564126427,
     "wof:name":"Vaqadi",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

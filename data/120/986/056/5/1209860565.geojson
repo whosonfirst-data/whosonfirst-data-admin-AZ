@@ -26,8 +26,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "B\u00f6y\u00fckd\u00fcz"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u00f6y\u00fckd\u00fcz"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0575\u0578\u0582\u0584\u0564\u0575\u0578\u0582\u0566"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00f6y\u00fckd\u00fcz"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10dd\u10d8\u10e3\u10d3\u10d8\u10e3\u10d6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00f6y\u00fckd\u00fcz"
+    ],
     "name:rus_x_preferred":[
         "B\u00ebyuk-Dyuz"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00f6y\u00fckd\u00fcz"
     ],
     "name:und_x_variant":[
         "B\u00f6y\u00fckd\u00fcz"
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1209860565,
-    "wof:lastmodified":1537585264,
+    "wof:lastmodified":1564126229,
     "wof:name":"Boeyuekduez",
     "wof:parent_id":85668717,
     "wof:placetype":"locality",

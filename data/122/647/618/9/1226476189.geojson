@@ -38,6 +38,9 @@
         "Hakhllu",
         "\u0540\u0561\u056d\u056c\u056c\u0578\u0582"
     ],
+    "name:msa_x_preferred":[
+        "Axullu"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0445\u0443\u043b\u043b\u0443"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1226476189,
-    "wof:lastmodified":1537585297,
+    "wof:lastmodified":1564126638,
     "wof:name":"Axullu",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

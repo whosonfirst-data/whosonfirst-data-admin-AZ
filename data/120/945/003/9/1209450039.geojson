@@ -31,6 +31,12 @@
     "name:aze_x_variant":[
         "A\u015fa\u011f\u0131 Xocamsaql\u0131"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10d0\u10e6\u10d8-\u10ee\u10dd\u10ef\u10d0\u10db\u10e3\u10e1\u10d0\u10ee\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fa\u011f\u0131 Xocamusaxl\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0448\u0430\u0433\u044b \u0425\u043e\u0434\u0436\u0430\u043c\u0443\u0441\u0430\u0445\u043b\u044b"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1209450039,
-    "wof:lastmodified":1537585274,
+    "wof:lastmodified":1564126218,
     "wof:name":"Asagi Xocamsaqli",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

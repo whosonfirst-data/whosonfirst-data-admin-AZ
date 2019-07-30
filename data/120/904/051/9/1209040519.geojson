@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "N\u00fcsomurya"
+    ],
+    "name:ceb_x_preferred":[
+        "N\u00fcsomurya"
+    ],
+    "name:ita_x_preferred":[
+        "N\u00fcsomurya"
+    ],
+    "name:msa_x_preferred":[
+        "N\u00fcsomurya"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00fcsomurya"
+    ],
     "name:und_x_variant":[
         "Nyusomur\u2019ya",
         "Nesamur\u2019ya",
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1209040519,
-    "wof:lastmodified":1537585168,
+    "wof:lastmodified":1564126197,
     "wof:name":"Nusomurya",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

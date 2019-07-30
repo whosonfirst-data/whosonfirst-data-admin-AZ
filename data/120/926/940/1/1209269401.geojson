@@ -25,8 +25,14 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0628\u0627\u0634\u0644\u0627\u0631"
+    ],
     "name:aze_x_preferred":[
         "Baba\u015flar"
+    ],
+    "name:msa_x_preferred":[
+        "Babashlar"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0431\u0430\u0448\u043b\u0430\u0440"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1209269401,
-    "wof:lastmodified":1537585481,
+    "wof:lastmodified":1564126219,
     "wof:name":"Babaslar",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

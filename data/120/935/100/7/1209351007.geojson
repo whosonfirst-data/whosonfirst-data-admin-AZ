@@ -25,14 +25,41 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ava_x_preferred":[
+        "\u041a\u044a\u0443\u0440\u0430\u0433\u044c\u0430\u043d"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0631\u0627\u063a\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
         "Qoraqan"
+    ],
+    "name:aze_x_variant":[
+        "Qora\u011fan"
+    ],
+    "name:ceb_x_preferred":[
+        "Qora\u011fan"
     ],
     "name:eng_x_preferred":[
         "Qora\u011fan"
     ],
+    "name:ita_x_preferred":[
+        "Qora\u011fan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10dd\u10e0\u10d0\u10e6\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qora\u011fan"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0433\u0430\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0440\u0430\u0433\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Qora\u011fan"
     ],
     "name:und_x_variant":[
         "Goragan",
@@ -58,7 +85,7 @@
         }
     ],
     "wof:id":1209351007,
-    "wof:lastmodified":1537585433,
+    "wof:lastmodified":1564126191,
     "wof:name":"Qoragan",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Davudlu"
     ],
+    "name:ita_x_preferred":[
+        "Davudlu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10d5\u10e3\u10d3\u10da\u10e3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276657467,
-    "wof:lastmodified":1537585456,
+    "wof:lastmodified":1564126123,
     "wof:name":"Davudlu",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

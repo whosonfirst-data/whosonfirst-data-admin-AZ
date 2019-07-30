@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Xat\u0131ncan"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c4\u03b9\u03bd\u03c4\u03c3\u03ac\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "Xat\u0131ncan"
+    ],
+    "name:msa_x_preferred":[
+        "Xat\u0131ncan"
+    ],
     "name:und_x_variant":[
         "Khatyndzhay"
     ],
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209249411,
-    "wof:lastmodified":1537585533,
+    "wof:lastmodified":1564126164,
     "wof:name":"Xatincan",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

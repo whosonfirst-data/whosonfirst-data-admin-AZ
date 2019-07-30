@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Mollac\u0259f\u0259rli"
     ],
+    "name:ita_x_preferred":[
+        "Mollac\u0259f\u0259rli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10da\u10d0\u10ef\u10d0\u10e4\u10d0\u10e0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Mollac\u0259f\u0259rli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1293631851,
-    "wof:lastmodified":1537585533,
+    "wof:lastmodified":1564125959,
     "wof:name":"Molladzhafarli",
     "wof:parent_id":85668195,
     "wof:placetype":"locality",

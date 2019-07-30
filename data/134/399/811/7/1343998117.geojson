@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Qaraqa\u015fl\u0131"
     ],
+    "name:ita_x_preferred":[
+        "Karakashly"
+    ],
+    "name:msa_x_preferred":[
+        "Karakashly"
+    ],
     "name:und_x_variant":[
         "Karakashly"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1343998117,
-    "wof:lastmodified":1537585221,
+    "wof:lastmodified":1564125844,
     "wof:name":"Qaraqasli",
     "wof:parent_id":85668409,
     "wof:placetype":"locality",

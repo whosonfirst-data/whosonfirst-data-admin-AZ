@@ -25,8 +25,17 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 Ayr\u0131m"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fa\u011f\u0131 Ayr\u0131m"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0448\u0430\u0433\u044b-\u0410\u0439\u0440\u0443\u043c"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0448\u0430\u0433\u044b \u0410\u0439\u0440\u044b\u043c"
     ],
     "name:und_x_variant":[
         "Ashagy-Ayrum",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1310556237,
-    "wof:lastmodified":1537585488,
+    "wof:lastmodified":1564126329,
     "wof:name":"Asagi Ayrim",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

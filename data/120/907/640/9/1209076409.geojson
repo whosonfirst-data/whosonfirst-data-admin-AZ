@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Qaraz\u0259ncir"
     ],
+    "name:ita_x_preferred":[
+        "Andreyevka"
+    ],
+    "name:msa_x_preferred":[
+        "Andreyevka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632717
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1209076409,
-    "wof:lastmodified":1537585279,
+    "wof:lastmodified":1564126138,
     "wof:name":"Andreyevka",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

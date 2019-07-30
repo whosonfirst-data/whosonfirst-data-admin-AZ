@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "H\u00fcseynabad"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b9\u03bf\u03c5\u03c3\u03b5\u03ca\u03bd\u03b1\u03bc\u03c0\u03ac\u03bd\u03c4"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00fcseynabad"
+    ],
+    "name:msa_x_preferred":[
+        "H\u00fcseynabad"
+    ],
     "name:und_x_variant":[
         "Guseynabad"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1327469677,
-    "wof:lastmodified":1537585519,
+    "wof:lastmodified":1564125789,
     "wof:name":"Huseynabad",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 Salamabad"
+    ],
+    "name:ceb_x_preferred":[
+        "A\u015fa\u011f\u0131 Salamabad"
+    ],
+    "name:ita_x_preferred":[
+        "A\u015fa\u011f\u0131 Salamabad"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10d0\u10e6\u10d8-\u10e1\u10d0\u10da\u10d0\u10db\u10d0\u10d1\u10d0\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fa\u011f\u0131 Salamabad"
+    ],
+    "name:swe_x_preferred":[
+        "A\u015fa\u011f\u0131 Salamabad"
+    ],
     "name:und_x_variant":[
         "Ashagy Salamabad",
         "A\u015fa\u011f\u0131 Salamabad"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1260117217,
-    "wof:lastmodified":1537585485,
+    "wof:lastmodified":1564126283,
     "wof:name":"Asagi Salamabad",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

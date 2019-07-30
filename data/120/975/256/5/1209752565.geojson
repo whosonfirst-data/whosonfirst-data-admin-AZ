@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Samur\u00e7ay"
     ],
+    "name:ita_x_preferred":[
+        "\u0130kinci Yalama"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e5\u10d8\u10dc\u10ef\u10d8-\u10d8\u10d0\u10da\u10d0\u10db\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130kinci Yalama"
+    ],
     "name:und_x_variant":[
         "Yalama Vtoraya",
         "Ikindzhi-Yalama",
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1209752565,
-    "wof:lastmodified":1537585316,
+    "wof:lastmodified":1564126227,
     "wof:name":"Samurcay",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

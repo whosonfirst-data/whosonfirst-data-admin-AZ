@@ -31,6 +31,9 @@
     "name:hye_x_preferred":[
         "\u0544\u056b\u0580\u0566\u0561\u056c\u0561\u0580"
     ],
+    "name:msa_x_preferred":[
+        "Mirz\u0259l\u0259r"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0440\u0437\u0430\u043b\u0430\u0440"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1293323383,
-    "wof:lastmodified":1537585301,
+    "wof:lastmodified":1564126001,
     "wof:name":"Mirzalar",
     "wof:parent_id":85668643,
     "wof:placetype":"locality",

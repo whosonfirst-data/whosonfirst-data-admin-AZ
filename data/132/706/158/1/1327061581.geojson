@@ -25,7 +25,13 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0644\u0627\u0634\u06cc\u062e\u06cc"
+    ],
     "name:aze_x_preferred":[
+        "Qala\u015f\u0131x\u0131"
+    ],
+    "name:msa_x_preferred":[
         "Qala\u015f\u0131x\u0131"
     ],
     "name:und_x_variant":[
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1327061581,
-    "wof:lastmodified":1537585422,
+    "wof:lastmodified":1564125736,
     "wof:name":"Qalasixi",
     "wof:parent_id":85668425,
     "wof:placetype":"locality",

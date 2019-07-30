@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "B\u00f6y\u00fck X\u0131n\u0131sl\u0131"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e8-\u10ee\u10d8\u10dc\u10d8\u10e8\u10da\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Bash-Khynysly"
+    ],
+    "name:msa_x_preferred":[
+        "Bash-Khynysly"
+    ],
     "name:rus_x_preferred":[
         "B\u00ebyuk-Khynysly"
     ],
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1276696087,
-    "wof:lastmodified":1537585477,
+    "wof:lastmodified":1564126071,
     "wof:name":"Bash-Khynysly",
     "wof:parent_id":85668459,
     "wof:placetype":"locality",

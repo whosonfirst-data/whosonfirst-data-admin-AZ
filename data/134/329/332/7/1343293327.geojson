@@ -25,8 +25,32 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u0627\u0647\u200c\u062d\u0633\u06cc\u0646\u200c\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "\u015eahs\u00fcnni"
+    ],
+    "name:aze_x_variant":[
+        "\u015eahh\u00fcseynli"
+    ],
+    "name:ceb_x_preferred":[
+        "\u015eahh\u00fcseynli"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0647\u200c\u062d\u0633\u06cc\u0646\u200c\u0644\u06cc"
+    ],
+    "name:ita_x_preferred":[
+        "\u015eahh\u00fcseynli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10ee\u10f0\u10d8\u10e3\u10e1\u10d4\u10d8\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u015eahh\u00fcseynli"
+    ],
+    "name:swe_x_preferred":[
+        "\u015eahh\u00fcseynli"
     ],
     "name:und_x_variant":[
         "\u015eahh\u00fcseynl\u00fc",
@@ -35,6 +59,9 @@
         "Shakhsyunlyu",
         "\u015eahh\u00fcseynli",
         "Shakhguseynli"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06c1\u06be\u0633\u06cc\u0646\u0644\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +87,7 @@
         }
     ],
     "wof:id":1343293327,
-    "wof:lastmodified":1537585341,
+    "wof:lastmodified":1564125911,
     "wof:name":"Sahhuseynli",
     "wof:parent_id":85668509,
     "wof:placetype":"locality",

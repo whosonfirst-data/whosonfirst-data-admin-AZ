@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Q\u0131zqay\u0131td\u0131"
     ],
+    "name:msa_x_preferred":[
+        "Q\u0131zqay\u0131td\u0131"
+    ],
     "name:und_x_variant":[
         "Kyzkayty",
         "Kyzkaity",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1326774801,
-    "wof:lastmodified":1537585192,
+    "wof:lastmodified":1564125808,
     "wof:name":"Qizqayitdi",
     "wof:parent_id":85668409,
     "wof:placetype":"locality",

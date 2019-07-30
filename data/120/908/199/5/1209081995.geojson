@@ -29,6 +29,21 @@
     "name:aze_x_preferred":[
         "A\u015fa\u011f\u0131 Aybasanl\u0131"
     ],
+    "name:aze_x_variant":[
+        "Aybasanl\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "A\u015fa\u011f\u0131 Aybasanl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10d0\u10e6\u10d8-\u10d0\u10d8\u10d1\u10d0\u10e1\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fa\u011f\u0131 Aybasanl\u0131"
+    ],
+    "name:tur_x_preferred":[
+        "Aybasanl\u0131"
+    ],
     "name:und_x_variant":[
         "Aybasanly",
         "Ashagy Aybasanly"
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1209081995,
-    "wof:lastmodified":1537585275,
+    "wof:lastmodified":1564126148,
     "wof:name":"Asagi Aybasanli",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

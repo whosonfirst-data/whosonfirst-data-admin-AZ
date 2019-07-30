@@ -28,6 +28,27 @@
     "name:aze_x_preferred":[
         "Ki\u00e7ik Pir\u0259li"
     ],
+    "name:aze_x_variant":[
+        "Ki\u00e7ik Pir\u0259lli"
+    ],
+    "name:ceb_x_preferred":[
+        "Kichik-Pirelli"
+    ],
+    "name:ita_x_preferred":[
+        "Ki\u00e7ik Pireli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d8\u10e9\u10d8\u10e5-\u10e4\u10d8\u10e0\u10d4\u10da\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u041a\u0438\u0447\u0438\u043a \u041fI\u0438\u0440\u0430\u043b\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Ki\u00e7ik Pireli"
+    ],
+    "name:swe_x_preferred":[
+        "Kichik-Pirelli"
+    ],
     "name:und_x_variant":[
         "Kichik Pirali",
         "Kichik-Pirelli",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1277025355,
-    "wof:lastmodified":1537585394,
+    "wof:lastmodified":1564126088,
     "wof:name":"Kichik-Pirelli",
     "wof:parent_id":85668541,
     "wof:placetype":"locality",

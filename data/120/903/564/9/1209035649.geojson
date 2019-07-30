@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Sis"
     ],
+    "name:ceb_x_preferred":[
+        "Sis"
+    ],
+    "name:hun_x_preferred":[
+        "SIS"
+    ],
+    "name:srp_x_preferred":[
+        "SIS"
+    ],
+    "name:tur_x_preferred":[
+        "Sis"
+    ],
+    "name:zho_x_preferred":[
+        "Sis"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632717
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1209035649,
-    "wof:lastmodified":1537585515,
+    "wof:lastmodified":1564126194,
     "wof:name":"Sis",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

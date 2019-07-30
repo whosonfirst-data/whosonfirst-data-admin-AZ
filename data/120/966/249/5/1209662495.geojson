@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Havzova"
     ],
+    "name:ita_x_preferred":[
+        "Havzova"
+    ],
+    "name:msa_x_preferred":[
+        "Havzova"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0432\u0437\u0430\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "Gavzova"
     ],
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209662495,
-    "wof:lastmodified":1537585526,
+    "wof:lastmodified":1564126188,
     "wof:name":"Havzova",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

@@ -26,11 +26,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u0627\u06cc\u06cc\u0632"
+    ],
     "name:aze_x_preferred":[
         "Pay\u0131z"
     ],
     "name:eng_x_preferred":[
         "Payiz"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06cc\u0632"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0570\u0565\u057d\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Pay\u0131z"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d0\u10d8\u10d6\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Pay\u0131z"
     ],
     "name:und_x_variant":[
         "Payis"
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1327486951,
-    "wof:lastmodified":1537585166,
+    "wof:lastmodified":1564125788,
     "wof:name":"Payiz",
     "wof:parent_id":85668673,
     "wof:placetype":"locality",

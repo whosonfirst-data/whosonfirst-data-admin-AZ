@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Kommuna"
     ],
+    "name:aze_x_variant":[
+        "Bala \u00c7ayl\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "Kommuna"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10db\u10e3\u10dc\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Kommuna"
+    ],
     "name:und_x_variant":[
         "Chayly Kommuna",
         "\u00c7ayl\u0131 Kommuna"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1326472991,
-    "wof:lastmodified":1537585464,
+    "wof:lastmodified":1564125802,
     "wof:name":"Kommuna",
     "wof:parent_id":85668229,
     "wof:placetype":"locality",

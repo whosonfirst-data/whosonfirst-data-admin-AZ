@@ -28,8 +28,20 @@
     "name:aze_x_preferred":[
         "\u00c7\u00f6l G\u00f6yl\u0259r"
     ],
+    "name:aze_x_variant":[
+        "\u00c7\u00f6lg\u00f6yl\u0259r"
+    ],
     "name:eng_x_preferred":[
         "G\u00f6yl\u01ddr \u00c7\u00f6l"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10dd\u10d8\u10da\u10d0\u10e0-\u10e9\u10d8\u10dd\u10da\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "G\u00f6yl\u0259r \u00c7\u00f6l"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00f6yl\u0259r \u00c7\u00f6l"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u0439\u043b\u044f\u0440_\u0427\u0435\u043b\u044c"
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":1226179115,
-    "wof:lastmodified":1537585435,
+    "wof:lastmodified":1564126582,
     "wof:name":"Kishlak Geoglyar",
     "wof:parent_id":85668459,
     "wof:placetype":"locality",

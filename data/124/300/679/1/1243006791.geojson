@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "K\u00f6v\u0259r"
     ],
+    "name:ita_x_preferred":[
+        "Kebikeru"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d4\u10d1\u10d8\u10e5\u10d4\u10e0\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "Kebikeru"
+    ],
     "name:rus_x_preferred":[
         "K\u00ebvar"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1243006791,
-    "wof:lastmodified":1537585505,
+    "wof:lastmodified":1564126436,
     "wof:name":"Kebikeru",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

@@ -25,7 +25,22 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "N\u00f6vc\u00fc"
+    ],
+    "name:ceb_x_preferred":[
+        "Novdzhu"
+    ],
     "name:eng_x_preferred":[
+        "N\u00f6vc\u00fc"
+    ],
+    "name:ita_x_preferred":[
+        "N\u00f6vc\u00fc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10dd\u10d5\u10ef\u10e3"
+    ],
+    "name:msa_x_preferred":[
         "N\u00f6vc\u00fc"
     ],
     "name:rus_x_preferred":[
@@ -33,6 +48,9 @@
     ],
     "name:rus_x_variant":[
         "N\u00ebvdzhu"
+    ],
+    "name:swe_x_preferred":[
+        "Novdzhu"
     ],
     "name:und_x_variant":[
         "N\u00f6vc\u00fc"
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1276144483,
-    "wof:lastmodified":1537585359,
+    "wof:lastmodified":1564126090,
     "wof:name":"Novdzhu",
     "wof:parent_id":85668289,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Namxo\u015f"
     ],
+    "name:aze_x_variant":[
+        "N\u0259mxo\u015f"
+    ],
+    "name:ita_x_preferred":[
+        "Namxo\u015f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10db\u10ee\u10dd\u10e8\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "N\u0259mxo\u015f"
+    ],
     "name:und_x_variant":[
         "Namkhosh"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1193055059,
-    "wof:lastmodified":1537585533,
+    "wof:lastmodified":1564126246,
     "wof:name":"Namxos",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

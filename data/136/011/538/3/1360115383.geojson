@@ -25,13 +25,37 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u06a9\u0631"
+    ],
     "name:aze_x_preferred":[
         "\u015e\u0259k\u0259r"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u044d\u0445\u0435\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Shekher"
+    ],
+    "name:fra_x_preferred":[
+        "Shekher"
     ],
     "name:hye_x_preferred":[
         "\u0547\u0565\u056d\u0565\u0580"
     ],
+    "name:ita_x_preferred":[
+        "Shekher"
+    ],
+    "name:msa_x_preferred":[
+        "\u015e\u0259k\u0259r"
+    ],
     "name:rus_x_preferred":[
+        "\u0428\u0435\u0445\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Shekher"
+    ],
+    "name:ukr_x_preferred":[
         "\u0428\u0435\u0445\u0435\u0440"
     ],
     "src:geom":"geonames",
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1360115383,
-    "wof:lastmodified":1537585152,
+    "wof:lastmodified":1564126388,
     "wof:name":"Shekher",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

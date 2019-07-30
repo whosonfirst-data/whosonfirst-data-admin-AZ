@@ -25,11 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Da\u011f Bilici"
+    ],
+    "name:ceb_x_preferred":[
+        "Da\u011f Bilici"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03b3\u03ba \u039c\u03c0\u03b9\u03bb\u03b9\u03c4\u03c3\u03af"
+    ],
     "name:eng_x_preferred":[
+        "Da\u011f Bilici"
+    ],
+    "name:ita_x_preferred":[
+        "Da\u011f Bilici"
+    ],
+    "name:msa_x_preferred":[
         "Da\u011f Bilici"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u0433 \u0411\u0438\u043b\u0438\u0434\u0436\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Da\u011f Bilici"
     ],
     "name:und_x_variant":[
         "Dag-Bilidzhi",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1310281279,
-    "wof:lastmodified":1537585460,
+    "wof:lastmodified":1564126347,
     "wof:name":"Dag Bilici",
     "wof:parent_id":85668339,
     "wof:placetype":"locality",

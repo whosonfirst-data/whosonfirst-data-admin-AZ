@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "B\u00fcnyadabad"
     ],
+    "name:aze_x_variant":[
+        "Yeni \u00c7obank\u0259r\u0259"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03bd\u03b3\u03b9\u03b1\u03bd\u03c4\u03b1\u03bc\u03c0\u03ac\u03bd\u03c4"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00fcnyadabad"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10e3\u10dc\u10d8\u10d0\u10d3\u10d0\u10d1\u10d0\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00fcnyadabad"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1277013453,
-    "wof:lastmodified":1537585530,
+    "wof:lastmodified":1564126046,
     "wof:name":"Bunyadabad",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

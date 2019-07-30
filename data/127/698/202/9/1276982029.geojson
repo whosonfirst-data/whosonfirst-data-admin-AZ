@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Ta\u011f\u0131b\u0259yl\u0131"
     ],
+    "name:aze_x_variant":[
+        "Ta\u011f\u0131b\u0259yli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d0\u10e6\u10d8\u10d1\u10d4\u10d8\u10da\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Ta\u011f\u0131b\u0259yl\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Ta\u011f\u0131b\u0259yl\u0131"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1276982029,
-    "wof:lastmodified":1537585512,
+    "wof:lastmodified":1564126124,
     "wof:name":"Tagibeyli",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

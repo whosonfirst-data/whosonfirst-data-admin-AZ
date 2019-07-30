@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "\u0130kinci Ya\u015fma"
     ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e5\u10d8\u10dc\u10ef\u10d8-\u10d8\u10d0\u10e8\u10db\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130kinci Ya\u015fma"
+    ],
     "name:und_x_variant":[
         "Yashma Vtoroy"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1209850127,
-    "wof:lastmodified":1537585515,
+    "wof:lastmodified":1564126169,
     "wof:name":"Ikinci Yasma",
     "wof:parent_id":85668465,
     "wof:placetype":"locality",

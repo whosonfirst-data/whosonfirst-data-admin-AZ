@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Ball\u0131qaya"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d8\u10d2\u10d0\u10d8\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Ball\u0131qaya"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u044b\u043a\u0430\u044f"
     ],
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1276911287,
-    "wof:lastmodified":1537585266,
+    "wof:lastmodified":1564126122,
     "wof:name":"Balliqaya",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

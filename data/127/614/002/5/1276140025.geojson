@@ -25,7 +25,19 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ava_x_preferred":[
+        "\u0425I\u0435\u0442\u0430\u0432-\u0440\u043e\u0441\u0443"
+    ],
     "name:aze_x_preferred":[
+        "Hetovlar"
+    ],
+    "name:ita_x_preferred":[
+        "Hetovlar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d4\u10d7\u10dd\u10d5\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Hetovlar"
     ],
     "name:und_x_variant":[
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1276140025,
-    "wof:lastmodified":1537585540,
+    "wof:lastmodified":1564126090,
     "wof:name":"Hetovlar",
     "wof:parent_id":85668531,
     "wof:placetype":"locality",

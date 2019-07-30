@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Suxtaqalaq\u0131\u015flaq"
     ],
+    "name:ita_x_preferred":[
+        "Suxtaqalaq\u0131\u015flaq"
+    ],
+    "name:lez_x_preferred":[
+        "\u0421\u0443\u0445\u0442\u0430\u043a\u044a\u0435\u043b\u0435\u0445\u044a\u0438\u0448\u043b\u0430\u0445"
+    ],
+    "name:msa_x_preferred":[
+        "Suxtaqalaq\u0131\u015flaq"
+    ],
     "name:und_x_variant":[
         "Sukhtakalakyshlak"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1260218251,
-    "wof:lastmodified":1537585535,
+    "wof:lastmodified":1564126288,
     "wof:name":"Suxtaqalaqislaq",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

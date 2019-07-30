@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u062a\u0645\u0627\u0646 \u0627\u0648\u0628\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Otmanoba"
+    ],
+    "name:ceb_x_preferred":[
+        "Otmanoba"
+    ],
+    "name:ita_x_preferred":[
+        "Otmanoba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10d7\u10db\u10d0\u10dc\u10dd\u10d1\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Otmanoba"
+    ],
+    "name:swe_x_preferred":[
+        "Otmanoba"
+    ],
     "name:und_x_variant":[
         "Atmanly",
         "Otmanoba"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1310629993,
-    "wof:lastmodified":1537585483,
+    "wof:lastmodified":1564126317,
     "wof:name":"Otmanoba",
     "wof:parent_id":85668509,
     "wof:placetype":"locality",

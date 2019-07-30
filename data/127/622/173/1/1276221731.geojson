@@ -25,13 +25,139 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Stenka Razin"
+    ],
     "name:aze_x_preferred":[
         "Stepan Razin"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0446\u044f\u043f\u0430\u043d \u0426\u0456\u043c\u0430\u0444\u0435\u0435\u0432\u0456\u0447 \u0420\u0430\u0437\u0456\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u0430\u043d \u0420\u0430\u0437\u0438\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Stenka Razin"
+    ],
+    "name:ces_x_preferred":[
+        "St\u011bnka Razin"
+    ],
+    "name:dan_x_preferred":[
+        "Stenka Razin"
+    ],
+    "name:deu_x_preferred":[
+        "Stenka Rasin"
+    ],
+    "name:epo_x_preferred":[
+        "Stepan Razin"
+    ],
+    "name:est_x_preferred":[
+        "Stepan Razin"
+    ],
+    "name:eus_x_preferred":[
+        "Stenka Razin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u067e\u0627\u0646 \u0631\u0627\u0632\u06cc\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Stenka Razin"
+    ],
+    "name:fra_x_preferred":[
+        "Stenka Razine"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d8\u05e4\u05df \u05e8\u05d0\u05d6\u05d9\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Stjenka Razin"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u057f\u0565\u057a\u0561\u0576 \u054c\u0561\u0566\u056b\u0576"
+    ],
+    "name:isl_x_preferred":[
+        "Stenka Ras\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Sten'ka Razin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c1\u30a7\u30d1\u30f3\u30fb\u30e9\u30fc\u30b8\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e2\u10d4\u10e4\u10d0\u10dc\u10d4 \u10e0\u10d0\u10d6\u10d8\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u0430\u043d \u0422\u0438\u043c\u043e\u0444\u0435\u0435\u0432\u0438\u0447 \u0420\u0430\u0437\u0438\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud14c\ud310 \ub77c\uc9c4"
+    ],
+    "name:lat_x_preferred":[
+        "Stephanus Razin"
+    ],
+    "name:lav_x_preferred":[
+        "Stepans Razins"
+    ],
+    "name:lit_x_preferred":[
+        "Stepano Razino sukilimas"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0420\u0430\u0437\u0438\u043c"
+    ],
+    "name:myv_x_preferred":[
+        "\u0420\u0430\u0437\u0438\u043d \u0421\u0442\u0451\u043f\u0430\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Stenka Razin"
+    ],
+    "name:nno_x_preferred":[
+        "Stenka Rasin"
+    ],
+    "name:nor_x_preferred":[
+        "Stenka Rasin"
+    ],
+    "name:pol_x_preferred":[
+        "Stie\u0144ka Razin"
+    ],
+    "name:por_x_preferred":[
+        "Stenka Razin"
+    ],
+    "name:ron_x_preferred":[
+        "Stenka Razin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0438\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Stepan Razin"
+    ],
+    "name:slk_x_preferred":[
+        "Stepan Timofejevi\u010d Razin"
+    ],
+    "name:spa_x_preferred":[
+        "Stenka Razin"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0435\u045a\u043a\u0430 \u0420\u0430\u0437\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Stenka Razin"
+    ],
+    "name:tur_x_preferred":[
+        "Stepan Razin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0437\u0456\u043d \u0421\u0442\u0435\u043f\u0430\u043d \u0422\u0438\u043c\u043e\u0444\u0456\u0439\u043e\u0432\u0438\u0447"
     ],
     "name:und_x_variant":[
         "Imeni Razina",
         "Stepana Razina",
         "Pos\u00eblok Imeni Stepana Razina"
+    ],
+    "name:uzb_x_preferred":[
+        "Stepan Razin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +182,7 @@
         }
     ],
     "wof:id":1276221731,
-    "wof:lastmodified":1537585331,
+    "wof:lastmodified":1564126092,
     "wof:name":"Stepan Razin",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

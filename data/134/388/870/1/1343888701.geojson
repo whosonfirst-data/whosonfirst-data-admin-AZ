@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Dalaqo"
     ],
+    "name:ita_x_preferred":[
+        "Dalaqo"
+    ],
+    "name:msa_x_preferred":[
+        "Dalaqo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1343888701,
-    "wof:lastmodified":1537585543,
+    "wof:lastmodified":1564125924,
     "wof:name":"Dalaqo",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

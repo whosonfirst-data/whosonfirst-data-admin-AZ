@@ -25,11 +25,29 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ava_x_preferred":[
+        "\u041aI\u0430\u0446I\u0431\u0430\u0440\u0430\u0445\u044a"
+    ],
     "name:aze_x_preferred":[
         "G\u00f6zbarax"
     ],
     "name:aze_x_variant":[
         "G\u00f6zbaraq"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b5\u03b6\u03bc\u03c0\u03b1\u03c1\u03ac\u03be"
+    ],
+    "name:ita_x_preferred":[
+        "G\u00f6zbarax"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10dd\u10d6\u10d1\u10d0\u10e0\u10d0\u10ee\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "G\u00f6zbarax"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0451\u0437\u0431\u0430\u0440\u0430\u0445"
     ],
     "name:und_x_variant":[
         "G\u00ebzbarakh",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1243097625,
-    "wof:lastmodified":1537585305,
+    "wof:lastmodified":1564126439,
     "wof:name":"Gozbarax",
     "wof:parent_id":85668601,
     "wof:placetype":"locality",

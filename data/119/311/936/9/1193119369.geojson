@@ -28,11 +28,32 @@
     "name:aze_x_preferred":[
         "D\u0259st\u0259f\u00fcr"
     ],
+    "name:aze_x_variant":[
+        "D\u0259st\u0259fur"
+    ],
+    "name:ceb_x_preferred":[
+        "Dostafyur"
+    ],
     "name:eng_x_preferred":[
         "D\u01ddst\u01ddfur"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u057d\u057f\u0561\u0583\u0578\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "D\u0259st\u0259fur"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e1\u10d7\u10d0\u10e4\u10e3\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "D\u0259st\u0259fur"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u0441\u0442\u0430\u0444\u044e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Dostafyur"
     ],
     "name:und_x_variant":[
         "Dastafyur",
@@ -65,7 +86,7 @@
         }
     ],
     "wof:id":1193119369,
-    "wof:lastmodified":1537585457,
+    "wof:lastmodified":1564126255,
     "wof:name":"Dostafyur",
     "wof:parent_id":85668211,
     "wof:placetype":"locality",

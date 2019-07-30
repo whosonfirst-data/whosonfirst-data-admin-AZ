@@ -28,6 +28,24 @@
     "name:aze_x_preferred":[
         "Qaraqoyunlu"
     ],
+    "name:ceb_x_preferred":[
+        "Karakoyunlu"
+    ],
+    "name:ita_x_preferred":[
+        "Qaraqoyunlu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10e0\u10d0\u10e7\u10dd\u10d8\u10e3\u10dc\u10da\u10e3"
+    ],
+    "name:nld_x_preferred":[
+        "Karakoyunlu"
+    ],
+    "name:swe_x_preferred":[
+        "Karakoyunlu"
+    ],
+    "name:tur_x_preferred":[
+        "Karakoyunlu"
+    ],
     "name:und_x_variant":[
         "Karakoyunlu"
     ],
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1276418823,
-    "wof:lastmodified":1537585415,
+    "wof:lastmodified":1564126105,
     "wof:name":"Qaraqoyunlu",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

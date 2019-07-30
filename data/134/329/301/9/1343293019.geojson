@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Yuxar\u0131 Seyf\u0259li"
     ],
+    "name:ita_x_preferred":[
+        "Dalitire"
+    ],
+    "name:msa_x_preferred":[
+        "Dalitire"
+    ],
     "name:und_x_variant":[
         "Yukhary Seyfali"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1343293019,
-    "wof:lastmodified":1537585506,
+    "wof:lastmodified":1564125909,
     "wof:name":"Dalitire",
     "wof:parent_id":85668233,
     "wof:placetype":"locality",

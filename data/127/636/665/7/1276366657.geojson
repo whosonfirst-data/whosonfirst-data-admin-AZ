@@ -25,7 +25,19 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yuxar\u0131 Salamabad"
+    ],
     "name:eng_x_preferred":[
+        "Yuxar\u0131 Salamabad"
+    ],
+    "name:ita_x_preferred":[
+        "Yuxar\u0131 Salamabad"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e3\u10ee\u10d0\u10e0\u10d8-\u10e1\u10d0\u10da\u10d0\u10db\u10d0\u10d1\u10d0\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Yuxar\u0131 Salamabad"
     ],
     "name:rus_x_preferred":[
@@ -35,6 +47,9 @@
         "Salamabad",
         "Yukhary Salamabad",
         "Yuxar\u0131 Salamabad"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u06a9\u0634\u0627\u0631\u06cc \u0633\u0644\u0627\u0645 \u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1276366657,
-    "wof:lastmodified":1537585310,
+    "wof:lastmodified":1564126127,
     "wof:name":"Yuxari Salamabad",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

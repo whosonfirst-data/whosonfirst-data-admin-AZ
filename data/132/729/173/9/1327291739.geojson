@@ -31,6 +31,9 @@
     "name:aze_x_variant":[
         "M\u0259h\u0259mm\u0259dli"
     ],
+    "name:ita_x_preferred":[
+        "Mamedli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1327291739,
-    "wof:lastmodified":1537585186,
+    "wof:lastmodified":1564125831,
     "wof:name":"Mamedli",
     "wof:parent_id":85668365,
     "wof:placetype":"locality",

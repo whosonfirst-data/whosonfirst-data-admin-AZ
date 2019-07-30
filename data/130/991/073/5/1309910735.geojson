@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Soyuqbulaqlar"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0575\u0578\u0582\u0572\u0562\u0578\u0582\u056c\u0561\u0572\u056c\u0561\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Soyuqbulaqlar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10e3\u10e5\u10d1\u10e3\u10da\u10d0\u10e5\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Soyuqbulaqlar"
+    ],
     "name:und_x_variant":[
         "Soyukbulaklar"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1309910735,
-    "wof:lastmodified":1537585534,
+    "wof:lastmodified":1564126404,
     "wof:name":"Soyuqbulaqlar",
     "wof:parent_id":85668195,
     "wof:placetype":"locality",

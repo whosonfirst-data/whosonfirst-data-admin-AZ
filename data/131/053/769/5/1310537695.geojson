@@ -28,7 +28,16 @@
     "name:aze_x_preferred":[
         "Tal\u0131\u015f"
     ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u043b\u0456\u0448"
+    ],
     "name:eng_x_preferred":[
+        "Talish"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0644\u06cc\u0634"
+    ],
+    "name:fra_x_preferred":[
         "Talish"
     ],
     "name:hye_x_preferred":[
@@ -39,8 +48,17 @@
         "T\u2019arinj",
         "\u0539\u0561\u0580\u056b\u0576\u057b"
     ],
+    "name:ita_x_preferred":[
+        "Tal\u0131\u015f"
+    ],
+    "name:msa_x_preferred":[
+        "Tal\u0131\u015f"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u043b\u044b\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043b\u0438\u0448"
     ],
     "name:und_x_variant":[
         "T\u2019alrinj",
@@ -71,7 +89,7 @@
         }
     ],
     "wof:id":1310537695,
-    "wof:lastmodified":1537585329,
+    "wof:lastmodified":1564126321,
     "wof:name":"Talis",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

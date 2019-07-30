@@ -25,7 +25,31 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0632\u0648\u0646\u06af\u0648\u0644\u0634"
+    ],
     "name:aze_x_preferred":[
+        "Z\u00fcng\u00fcl\u0259\u015f"
+    ],
+    "name:ceb_x_preferred":[
+        "Zungulyash"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0646\u06af\u0644\u0647\u200c\u0644\u0634"
+    ],
+    "name:ita_x_preferred":[
+        "Z\u00fcng\u00fcl\u0259\u015f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d8\u10e3\u10dc\u10d2\u10d8\u10e3\u10da\u10d0\u10e8\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Z\u00fcng\u00fcl\u0259\u015f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0443\u043d\u0433\u0443\u043b\u044f\u0448"
+    ],
+    "name:swe_x_preferred":[
         "Z\u00fcng\u00fcl\u0259\u015f"
     ],
     "name:und_x_variant":[
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1310694781,
-    "wof:lastmodified":1537585122,
+    "wof:lastmodified":1564126368,
     "wof:name":"Zungulyash",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

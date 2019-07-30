@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Qarav\u0259ll\u0259r"
     ],
+    "name:aze_x_variant":[
+        "Qarav\u0259lil\u0259r"
+    ],
+    "name:ita_x_preferred":[
+        "Qarav\u0259lil\u0259r"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10e0\u10d0\u10d5\u10d0\u10da\u10d8\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qarav\u0259lil\u0259r"
+    ],
     "name:und_x_variant":[
         "Qarav\u0259lil\u0259r",
         "Karavallyar"
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":1226305401,
-    "wof:lastmodified":1537585512,
+    "wof:lastmodified":1564126661,
     "wof:name":"Karavallyar",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

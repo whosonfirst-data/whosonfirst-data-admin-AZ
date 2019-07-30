@@ -25,14 +25,38 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0622\u0644\u0645\u0627\u0644\u06cc\u0642"
+    ],
+    "name:aze_x_preferred":[
+        "Almal\u0131q"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u045e\u0441\u0430\u0442\u0430\u0433"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0648\u0633\u0627\u062a\u0627\u063a"
+    ],
     "name:hye_x_preferred":[
         "Havsat\u2019agh"
     ],
     "name:hye_x_variant":[
         "\u0540\u0561\u057e\u057d\u0561\u0569\u0561\u0572"
     ],
+    "name:ita_x_preferred":[
+        "Havsatagh"
+    ],
+    "name:msa_x_preferred":[
+        "Almal\u0131q"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u043c\u0430\u043b\u044b\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043b\u043c\u0430\u043b\u044b\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0432\u0441\u0430\u0442\u0430\u0433"
     ],
     "name:und_x_variant":[
         "Almal\u0131q",
@@ -62,7 +86,7 @@
         }
     ],
     "wof:id":1309773255,
-    "wof:lastmodified":1537585510,
+    "wof:lastmodified":1564126407,
     "wof:name":"Almaliq",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

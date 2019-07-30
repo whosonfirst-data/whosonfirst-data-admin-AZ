@@ -25,6 +25,33 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "L\u0259c\u0259t"
+    ],
+    "name:ceb_x_preferred":[
+        "Ledzhet"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03c4\u03c3\u03ad\u03c4"
+    ],
+    "name:ita_x_preferred":[
+        "L\u0259c\u0259t"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10ef\u10d4\u10d7\u10d8"
+    ],
+    "name:lez_x_preferred":[
+        "\u041b\u0435\u0447\u0435\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "L\u0259c\u0259t"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0434\u0436\u0435\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Ledzhet"
+    ],
     "name:und_x_variant":[
         "L\u0259c\u0259t"
     ],
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1226785591,
-    "wof:lastmodified":1537585379,
+    "wof:lastmodified":1564126642,
     "wof:name":"Ledzhet",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

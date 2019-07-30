@@ -36,6 +36,12 @@
         "Chapkut",
         "\u0543\u0561\u057a\u056f\u0578\u0582\u057f"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10d0\u10e6\u10d8-\u10ef\u10d8\u10d1\u10d8\u10e5\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fa\u011f\u0131 Cibikli"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0448\u0430\u0433\u044b-\u0414\u0436\u0438\u0431\u0438\u043a\u043b\u0438"
     ],
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1243098247,
-    "wof:lastmodified":1537585274,
+    "wof:lastmodified":1564126440,
     "wof:name":"Asagi Cibikli",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

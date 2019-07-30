@@ -31,6 +31,18 @@
     "name:aze_x_variant":[
         "K\u00f6c\u0259kli"
     ],
+    "name:ceb_x_preferred":[
+        "Kechakli"
+    ],
+    "name:ita_x_preferred":[
+        "K\u00f6c\u0259kli"
+    ],
+    "name:msa_x_preferred":[
+        "K\u00f6c\u0259kli"
+    ],
+    "name:swe_x_preferred":[
+        "Kechakli"
+    ],
     "name:und_x_variant":[
         "Kechagly",
         "Kechakli",
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1360044965,
-    "wof:lastmodified":1537585233,
+    "wof:lastmodified":1564126396,
     "wof:name":"Kechakli",
     "wof:parent_id":85668397,
     "wof:placetype":"locality",

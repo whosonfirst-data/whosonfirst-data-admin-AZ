@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Erke\u00e7"
     ],
+    "name:aze_x_variant":[
+        "Erk\u0259\u00e7"
+    ],
+    "name:bel_x_preferred":[
+        "\u042d\u0440\u043a\u0435\u0447"
+    ],
     "name:eng_x_preferred":[
         "Erke\u00e7"
     ],
@@ -37,7 +43,17 @@
     "name:hye_x_variant":[
         "Yerk\u2019ech\u2019",
         "\u0537\u0580\u0584\u0565\u0579",
-        "\u0535\u0580\u0584\u0565\u057b"
+        "\u0535\u0580\u0584\u0565\u057b",
+        "\u0537\u0580\u0584\u0565\u057b"
+    ],
+    "name:ita_x_preferred":[
+        "Erke\u00e7"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e0\u10e5\u10d4\u10e9\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Erke\u00e7"
     ],
     "name:rus_x_preferred":[
         "\u042d\u0440\u043a\u0435\u0447"
@@ -72,7 +88,7 @@
         }
     ],
     "wof:id":1260347737,
-    "wof:lastmodified":1537585446,
+    "wof:lastmodified":1564126297,
     "wof:name":"Erkec",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

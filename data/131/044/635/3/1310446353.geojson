@@ -26,6 +26,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130badulla"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0130badulla"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u0562\u0561\u0564\u0578\u0582\u056c\u056c\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "\u0130badulla"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d1\u10d0\u10d3\u10e3\u10da\u10d0"
+    ],
+    "name:min_x_preferred":[
+        "\u0130badulla"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130badulla"
+    ],
+    "name:swe_x_preferred":[
+        "\u0130badulla"
+    ],
     "name:und_x_variant":[
         "\u0130badulla",
         "Ibadulla"
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1310446353,
-    "wof:lastmodified":1537585229,
+    "wof:lastmodified":1564126342,
     "wof:name":"Ibadulla",
     "wof:parent_id":85668667,
     "wof:placetype":"locality",

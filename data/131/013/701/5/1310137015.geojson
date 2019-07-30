@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0632\u0627\u0631\u062f\u0648\u0646\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Zardoni"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03c1\u03bd\u03c4\u03cc\u03bd\u03b9"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0631\u062f\u0627\u0646\u06cc"
+    ],
+    "name:ita_x_preferred":[
+        "Zardoni"
+    ],
+    "name:msa_x_preferred":[
+        "Zardoni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1310137015,
-    "wof:lastmodified":1537486503,
+    "wof:lastmodified":1564126310,
     "wof:name":"Zardoni",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

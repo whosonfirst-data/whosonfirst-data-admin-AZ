@@ -25,7 +25,22 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ava_x_preferred":[
+        "\u0427I\u0438\u043d\u0447I\u0430\u0440"
+    ],
     "name:aze_x_preferred":[
+        "Mi\u015fle\u015f"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03c3\u03bb\u03ad\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Mi\u015fle\u015f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e8\u10da\u10d4\u10e8\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Mi\u015fle\u015f"
     ],
     "name:und_x_variant":[
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1310136897,
-    "wof:lastmodified":1537585371,
+    "wof:lastmodified":1564126310,
     "wof:name":"Misles",
     "wof:parent_id":85668601,
     "wof:placetype":"locality",

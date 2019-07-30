@@ -34,6 +34,12 @@
     "name:hye_x_variant":[
         "\u0531\u056c\u0575\u0561\u0584\u0579\u056b"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d0\u10e5\u10e9\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fl\u0259k\u00e7i"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u044f\u043a\u0447\u0438"
     ],
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1327285047,
-    "wof:lastmodified":1537585283,
+    "wof:lastmodified":1564125824,
     "wof:name":"Alakchi",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Musavar"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03c3\u03b1\u03b2\u03ac\u03c1"
+    ],
+    "name:ita_x_preferred":[
+        "Musavar"
+    ],
+    "name:msa_x_preferred":[
+        "Musavar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1243098613,
-    "wof:lastmodified":1537585518,
+    "wof:lastmodified":1564126440,
     "wof:name":"Musavar",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

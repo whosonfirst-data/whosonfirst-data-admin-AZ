@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Oraban"
     ],
+    "name:ceb_x_preferred":[
+        "Oravan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03b1\u03bc\u03c0\u03ac\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "Oraban"
+    ],
+    "name:msa_x_preferred":[
+        "Oraban"
+    ],
+    "name:swe_x_preferred":[
+        "Oravan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1360221667,
-    "wof:lastmodified":1537585357,
+    "wof:lastmodified":1564126378,
     "wof:name":"Oravan",
     "wof:parent_id":85668565,
     "wof:placetype":"locality",

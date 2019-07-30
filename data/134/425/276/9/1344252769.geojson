@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Lomin"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03bc\u03af\u03bd"
+    ],
+    "name:ita_x_preferred":[
+        "Lomin"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10db\u10d8\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Lomin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1344252769,
-    "wof:lastmodified":1537585520,
+    "wof:lastmodified":1564125851,
     "wof:name":"Lomin",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

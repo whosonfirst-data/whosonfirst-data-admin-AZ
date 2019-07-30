@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "Kilvar"
     ],
+    "name:msa_x_preferred":[
+        "Kilvar"
+    ],
     "name:und_x_variant":[
         "Kil\u2019var",
         "Gilvar"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1193249991,
-    "wof:lastmodified":1537585393,
+    "wof:lastmodified":1564126240,
     "wof:name":"Kilvar",
     "wof:parent_id":85668339,
     "wof:placetype":"locality",

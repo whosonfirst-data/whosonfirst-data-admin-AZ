@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Biln\u0259"
     ],
+    "name:ita_x_preferred":[
+        "A\u015fa\u011f\u0131 Biln\u0259"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fa\u011f\u0131 Biln\u0259"
+    ],
     "name:und_x_variant":[
         "Ashagy Bil\u2019nya",
         "A\u015fa\u011f\u0131 Biln\u0259"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1226277555,
-    "wof:lastmodified":1537585275,
+    "wof:lastmodified":1564126589,
     "wof:name":"Nizhnyaya Bilinya",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

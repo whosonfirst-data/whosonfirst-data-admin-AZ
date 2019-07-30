@@ -31,6 +31,21 @@
     "name:aze_x_variant":[
         "Kuyb\u0131\u015fev"
     ],
+    "name:ceb_x_preferred":[
+        "Kuybyshev"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb\u03c4\u03c3\u03b5\u03bb\u03ad\u03c1"
+    ],
+    "name:ita_x_preferred":[
+        "\u00d6lc\u0259l\u0259r"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10dd\u10da\u10ef\u10d0\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u00d6lc\u0259l\u0259r"
+    ],
     "name:und_x_variant":[
         "\u00dclc\u00e4l\u00e4r",
         "Kuybyshev",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1360053813,
-    "wof:lastmodified":1537585197,
+    "wof:lastmodified":1564126399,
     "wof:name":"Kuybyshev",
     "wof:parent_id":85668365,
     "wof:placetype":"locality",

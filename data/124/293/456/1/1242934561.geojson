@@ -28,12 +28,21 @@
     "name:aze_x_preferred":[
         "Mollalar"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0627\u0644\u0631"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0578\u056c\u056c\u0561\u056c\u0561\u0580"
     ],
     "name:hye_x_variant":[
         "Gihut",
         "\u0533\u056b\u0570\u0578\u0582\u057f"
+    ],
+    "name:ita_x_preferred":[
+        "Mollalar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10da\u10d0\u10da\u10d0\u10e0\u10d8"
     ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u043b\u043b\u0430\u043b\u0430\u0440"
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1242934561,
-    "wof:lastmodified":1537585177,
+    "wof:lastmodified":1564126466,
     "wof:name":"Mollalar",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

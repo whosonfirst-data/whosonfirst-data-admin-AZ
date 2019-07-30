@@ -25,8 +25,20 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ava_x_preferred":[
+        "\u0418\u0441\u0430\u043a\u044a\u0438\u043b\u0433\u0438\u0440\u043c\u0430"
+    ],
     "name:aze_x_preferred":[
         "\u0130saxl\u0131girm\u0259"
+    ],
+    "name:ita_x_preferred":[
+        "\u0130saql\u0131girm\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e1\u10d0\u10ee\u10da\u10d8\u10d2\u10d8\u10e0\u10db\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130saql\u0131girm\u0259"
     ],
     "name:und_x_variant":[
         "Isakhlygirme",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1327322823,
-    "wof:lastmodified":1537585425,
+    "wof:lastmodified":1564125794,
     "wof:name":"Isaklygirmya",
     "wof:parent_id":85668531,
     "wof:placetype":"locality",

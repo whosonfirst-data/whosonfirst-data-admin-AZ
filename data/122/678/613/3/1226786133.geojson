@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Qazang\u00fcl"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03b6\u03b1\u03bd\u03b3\u03ba\u03b9\u03bf\u03cd\u03bb"
+    ],
+    "name:ita_x_preferred":[
+        "Qazang\u00fcl"
+    ],
+    "name:msa_x_preferred":[
+        "Qazang\u00fcl"
+    ],
     "name:rus_x_preferred":[
         "Kazangyul\u2019"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1226786133,
-    "wof:lastmodified":1537585539,
+    "wof:lastmodified":1564126643,
     "wof:name":"Qazangul",
     "wof:parent_id":85668601,
     "wof:placetype":"locality",

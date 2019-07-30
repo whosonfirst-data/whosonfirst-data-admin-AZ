@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Mink\u0259nd"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u043a"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03bd\u03ba\u03ad\u03bd\u03c4"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u06a9"
+    ],
     "name:hye_x_preferred":[
         "Mink\u2019end"
     ],
@@ -36,8 +45,17 @@
         "Hak",
         "\u0540\u0561\u056f"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10dc\u10e5\u10d4\u10dc\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Minkend"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u043d\u043a\u0435\u043d\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1226594999,
-    "wof:lastmodified":1537585180,
+    "wof:lastmodified":1564126603,
     "wof:name":"Minkend",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

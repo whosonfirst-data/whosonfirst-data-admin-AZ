@@ -25,8 +25,14 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062c\u0648\u0627\u0647\u06cc\u0631\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Cavahirli"
+    ],
+    "name:aze_x_variant":[
+        "C\u0259vahirli"
     ],
     "name:hye_x_preferred":[
         "Javagirli"
@@ -34,8 +40,20 @@
     "name:hye_x_variant":[
         "\u054b\u0561\u057e\u0561\u0563\u056b\u0580\u056c\u056b"
     ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d0\u10d5\u10d0\u10f0\u10d8\u10e0\u10da\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Cavahirli"
+    ],
+    "name:msa_x_preferred":[
+        "Cavahirli"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0430\u0432\u0430\u0433\u0438\u0440\u043b\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Cavahirli"
     ],
     "name:und_x_variant":[
         "Dzhavakhyrly",
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1360296889,
-    "wof:lastmodified":1537585450,
+    "wof:lastmodified":1564126391,
     "wof:name":"Cavahirli",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

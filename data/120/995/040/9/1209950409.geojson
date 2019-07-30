@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "\u0130baxl\u0131"
     ],
+    "name:ita_x_preferred":[
+        "\u0130baxl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d1\u10d0\u10ee\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130baxl\u0131"
+    ],
     "name:und_x_variant":[
         "\u0130saql\u0131",
         "Ibakhly",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1209950409,
-    "wof:lastmodified":1537585425,
+    "wof:lastmodified":1564126185,
     "wof:name":"Ibaxli",
     "wof:parent_id":85668557,
     "wof:placetype":"locality",

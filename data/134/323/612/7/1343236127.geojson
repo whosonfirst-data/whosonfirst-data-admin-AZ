@@ -34,6 +34,15 @@
     "name:hye_x_variant":[
         "\u0533\u0561\u0572\u0569\u0578\u0582\u057f"
     ],
+    "name:ita_x_preferred":[
+        "Qaxtut"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10ee\u10d7\u10e3\u10d7\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Qaxtut"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u0445\u0442\u0443\u0442"
     ],
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1343236127,
-    "wof:lastmodified":1537585529,
+    "wof:lastmodified":1564125870,
     "wof:name":"Qaxtut",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

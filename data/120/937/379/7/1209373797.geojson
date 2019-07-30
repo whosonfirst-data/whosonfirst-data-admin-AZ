@@ -25,11 +25,26 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xoylu"
+    ],
+    "name:ceb_x_preferred":[
+        "Xoylu"
+    ],
     "name:eng_x_preferred":[
+        "Xoylu"
+    ],
+    "name:ita_x_preferred":[
+        "Xoylu"
+    ],
+    "name:msa_x_preferred":[
         "Xoylu"
     ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u0439\u043b\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Xoylu"
     ],
     "name:und_x_variant":[
         "Khoylu",
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1209373797,
-    "wof:lastmodified":1537585397,
+    "wof:lastmodified":1564126149,
     "wof:name":"Xoylu",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259lh\u0259m"
+    ],
+    "name:ceb_x_preferred":[
+        "M\u0259lh\u0259m"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0259lh\u0259m"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10da\u10f0\u10d0\u10db\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "M\u0259lh\u0259m"
+    ],
+    "name:msa_x_preferred":[
+        "M\u0259lh\u0259m"
+    ],
+    "name:swe_x_preferred":[
+        "M\u0259lh\u0259m"
+    ],
     "name:und_x_variant":[
         "Mel\u2019kham",
         "Mel\u2019gam",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1226473175,
-    "wof:lastmodified":1537585372,
+    "wof:lastmodified":1564126641,
     "wof:name":"Malham",
     "wof:parent_id":85668459,
     "wof:placetype":"locality",

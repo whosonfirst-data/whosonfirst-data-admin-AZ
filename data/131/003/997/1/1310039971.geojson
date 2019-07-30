@@ -29,8 +29,29 @@
     "name:aze_x_preferred":[
         "Ki\u015f"
     ],
+    "name:bel_x_preferred":[
+        "\u0413\u0456\u0448\u044b"
+    ],
+    "name:ceb_x_preferred":[
+        "Ki\u015f"
+    ],
+    "name:fra_x_preferred":[
+        "Gishi"
+    ],
     "name:hye_x_preferred":[
         "\u0533\u056b\u0577\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Gishi"
+    ],
+    "name:msa_x_preferred":[
+        "Ki\u015f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u0448\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0456\u0448\u0456"
     ],
     "name:und_x_variant":[
         "Gishi",
@@ -62,7 +83,7 @@
         }
     ],
     "wof:id":1310039971,
-    "wof:lastmodified":1537585234,
+    "wof:lastmodified":1564126351,
     "wof:name":"Kis",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

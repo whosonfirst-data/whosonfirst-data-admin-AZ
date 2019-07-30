@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "F\u0131nd\u0131ql\u0131"
     ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03b9\u03bd\u03c4\u03b9\u03ba\u03bb\u03af"
+    ],
+    "name:ita_x_preferred":[
+        "F\u0131nd\u0131ql\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "F\u0131nd\u0131ql\u0131"
+    ],
+    "name:tur_x_preferred":[
+        "F\u0131nd\u0131ql\u0131"
+    ],
     "name:und_x_variant":[
         "Fyndykly"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1243098739,
-    "wof:lastmodified":1537585540,
+    "wof:lastmodified":1564126439,
     "wof:name":"Findiqli",
     "wof:parent_id":85668601,
     "wof:placetype":"locality",

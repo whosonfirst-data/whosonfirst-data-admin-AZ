@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Muncuqlu"
     ],
+    "name:ita_x_preferred":[
+        "Muncuqlu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10dc\u10ef\u10e3\u10e5\u10da\u10e3"
+    ],
+    "name:msa_x_preferred":[
+        "Muncuqlu"
+    ],
     "name:und_x_variant":[
         "Mundzhuglu"
     ],
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1259518039,
-    "wof:lastmodified":1537585533,
+    "wof:lastmodified":1564126560,
     "wof:name":"Muncuqlu",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

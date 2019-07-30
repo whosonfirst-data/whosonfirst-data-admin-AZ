@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015eing\u0259dulan"
+    ],
+    "name:ceb_x_preferred":[
+        "Shinkyadulan"
+    ],
+    "name:ita_x_preferred":[
+        "\u015eing\u0259dulan"
+    ],
+    "name:msa_x_preferred":[
+        "\u015eing\u0259dulan"
+    ],
+    "name:swe_x_preferred":[
+        "Shinkyadulan"
+    ],
     "name:und_x_variant":[
         "Shingedulan",
         "Shingyadulan",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1310241611,
-    "wof:lastmodified":1537585151,
+    "wof:lastmodified":1564126302,
     "wof:name":"Shinkyadulan",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

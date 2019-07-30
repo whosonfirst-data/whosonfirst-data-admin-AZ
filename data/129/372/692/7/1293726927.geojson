@@ -25,11 +25,35 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0644\u0637\u0627\u0646 \u0646\u0648\u062e\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Soltannuxa"
+    ],
+    "name:ceb_x_preferred":[
+        "Soltannuxa"
+    ],
     "name:eng_x_preferred":[
+        "Soltannuxa"
+    ],
+    "name:ita_x_preferred":[
+        "Soltannuxa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10da\u10d7\u10d0\u10dc\u10e3\u10ee\u10d0"
+    ],
+    "name:lez_x_preferred":[
+        "\u0421\u0443\u043b\u0442\u0430\u043d\u043d\u0443\u0445\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Soltannuxa"
     ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u043b\u0442\u0430\u043d\u043d\u0443\u0445\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Soltannuxa"
     ],
     "name:und_x_variant":[
         "Soltannukha",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1293726927,
-    "wof:lastmodified":1537585332,
+    "wof:lastmodified":1564126040,
     "wof:name":"Soltannuxa",
     "wof:parent_id":85668541,
     "wof:placetype":"locality",

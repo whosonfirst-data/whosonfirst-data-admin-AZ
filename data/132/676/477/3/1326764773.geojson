@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "N\u00f6vd\u00fcn"
+    ],
+    "name:ceb_x_preferred":[
+        "N\u00f6yd\u00fcn"
+    ],
+    "name:ita_x_preferred":[
+        "N\u00f6yd\u00fcn"
+    ],
+    "name:msa_x_preferred":[
+        "N\u00f6yd\u00fcn"
+    ],
+    "name:swe_x_preferred":[
+        "N\u00f6yd\u00fcn"
+    ],
     "name:und_x_variant":[
         "N\u00ebydyun",
         "N\u00f6yd\u00fcn"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1326764773,
-    "wof:lastmodified":1537585360,
+    "wof:lastmodified":1564125797,
     "wof:name":"Noydun",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

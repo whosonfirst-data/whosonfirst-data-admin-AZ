@@ -25,10 +25,22 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ava_x_preferred":[
+        "\u0425\u0430\u043d\u043c\u0443\u0445I\u0430\u043c\u043c\u0430\u0434\u0431\u0438\u043d\u0430"
+    ],
     "name:aze_x_preferred":[
         "Xanm\u0259mm\u0259dbin\u0259"
     ],
     "name:aze_x_variant":[
+        "Xanm\u0259dbin\u0259"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bd\u03bc\u03b5\u03bd\u03c4\u03bc\u03c0\u03b9\u03bd\u03ad"
+    ],
+    "name:ita_x_preferred":[
+        "Xanm\u0259dbin\u0259"
+    ],
+    "name:msa_x_preferred":[
         "Xanm\u0259dbin\u0259"
     ],
     "src:geom":"geonames",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1276264597,
-    "wof:lastmodified":1537585539,
+    "wof:lastmodified":1564126055,
     "wof:name":"Khanmedbina",
     "wof:parent_id":85668601,
     "wof:placetype":"locality",

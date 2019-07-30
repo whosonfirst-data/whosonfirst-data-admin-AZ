@@ -28,8 +28,23 @@
     "name:aze_x_preferred":[
         "B\u00fcl\u00fcd\u00fcl"
     ],
+    "name:ceb_x_preferred":[
+        "B\u00fcl\u00fcd\u00fcl"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03bf\u03c5\u03bb\u03b9\u03bf\u03c5\u03bd\u03c4\u03b9\u03bf\u03cd\u03bb"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00fcl\u00fcd\u00fcl"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00fcl\u00fcd\u00fcl"
+    ],
     "name:rus_x_preferred":[
         "Byulyudyun\u2019"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00fcl\u00fcd\u00fcl"
     ],
     "name:und_x_variant":[
         "Billidyul\u2019"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1209646513,
-    "wof:lastmodified":1537585291,
+    "wof:lastmodified":1564126152,
     "wof:name":"Buludul",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

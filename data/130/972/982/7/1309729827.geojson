@@ -28,6 +28,9 @@
     "name:aze_x_preferred":[
         "M\u0259mm\u0259dli"
     ],
+    "name:ita_x_preferred":[
+        "Mamedli"
+    ],
     "name:und_x_variant":[
         "Falmay-Mahomedly",
         "Mamedli",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1309729827,
-    "wof:lastmodified":1537585375,
+    "wof:lastmodified":1564126429,
     "wof:name":"Mamedli",
     "wof:parent_id":85668251,
     "wof:placetype":"locality",

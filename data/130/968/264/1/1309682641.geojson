@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Babaxanl\u0131"
     ],
+    "name:ita_x_preferred":[
+        "Babaxanl\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Babaxanl\u0131"
+    ],
     "name:und_x_variant":[
         "Babakhanly"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1309682641,
-    "wof:lastmodified":1537585269,
+    "wof:lastmodified":1564126413,
     "wof:name":"Babaxanli",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

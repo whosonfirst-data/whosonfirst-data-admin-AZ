@@ -31,6 +31,21 @@
     "name:aze_x_variant":[
         "\u00c7\u0259m\u0259nli"
     ],
+    "name:ceb_x_preferred":[
+        "Dilanchilar"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7\u0259m\u0259nli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10db\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7\u0259m\u0259nli"
+    ],
+    "name:swe_x_preferred":[
+        "Dilanchilar"
+    ],
     "name:und_x_variant":[
         "Dilenchiler",
         "Dilanchilar"
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1309794131,
-    "wof:lastmodified":1537585454,
+    "wof:lastmodified":1564126411,
     "wof:name":"Dilanchilar",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

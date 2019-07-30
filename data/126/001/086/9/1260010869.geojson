@@ -25,8 +25,23 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0646\u0647"
+    ],
     "name:aze_x_preferred":[
         "Bin\u0259"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u0443\u043c\u0456"
+    ],
+    "name:ceb_x_preferred":[
+        "Tumi"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0645\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Toumi"
     ],
     "name:hye_x_preferred":[
         "\u054f\u0578\u0582\u0574\u056b"
@@ -34,8 +49,17 @@
     "name:hye_x_variant":[
         "Tumi"
     ],
+    "name:msa_x_preferred":[
+        "Bin\u0259"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u043c\u044b"
+    ],
+    "name:swe_x_preferred":[
+        "Tumi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u043c\u0456"
     ],
     "name:und_x_variant":[
         "Domy",
@@ -68,7 +92,7 @@
         }
     ],
     "wof:id":1260010869,
-    "wof:lastmodified":1537585247,
+    "wof:lastmodified":1564126277,
     "wof:name":"Tumi",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

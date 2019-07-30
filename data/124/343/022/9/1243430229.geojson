@@ -30,10 +30,14 @@
     ],
     "name:aze_x_variant":[
         "Qacar",
-        "D\u00f6rdl\u0259r"
+        "D\u00f6rdl\u0259r",
+        "Skobelyovka"
     ],
     "name:hye_x_preferred":[
         "\u0534\u056b\u056c\u0561\u0563\u0561\u0580\u0564\u0561"
+    ],
+    "name:msa_x_preferred":[
+        "Skobelevka"
     ],
     "name:und_x_variant":[
         "Skobelevka",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1243430229,
-    "wof:lastmodified":1537585146,
+    "wof:lastmodified":1564126522,
     "wof:name":"Dilagarda",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

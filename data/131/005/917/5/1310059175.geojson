@@ -29,6 +29,9 @@
     "name:aze_x_preferred":[
         "Kolan\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "Kolani"
+    ],
     "name:und_x_variant":[
         "Kolany",
         "Kelany"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1310059175,
-    "wof:lastmodified":1537585201,
+    "wof:lastmodified":1564126367,
     "wof:name":"Kolani",
     "wof:parent_id":85668683,
     "wof:placetype":"locality",

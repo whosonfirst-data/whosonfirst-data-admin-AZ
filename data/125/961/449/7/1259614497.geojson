@@ -25,11 +25,26 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Susay"
+    ],
+    "name:ceb_x_preferred":[
+        "Susay"
+    ],
     "name:eng_x_preferred":[
+        "Susay"
+    ],
+    "name:ita_x_preferred":[
+        "Susay"
+    ],
+    "name:msa_x_preferred":[
         "Susay"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u0441\u0430\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Susay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1259614497,
-    "wof:lastmodified":1537585331,
+    "wof:lastmodified":1564126550,
     "wof:name":"Susay",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

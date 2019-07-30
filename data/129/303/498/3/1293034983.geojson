@@ -26,6 +26,12 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Maramly"
+    ],
+    "name:msa_x_preferred":[
+        "Maramly"
+    ],
     "name:und_x_variant":[
         "Mirally",
         "Maramly"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293034983,
-    "wof:lastmodified":1537585374,
+    "wof:lastmodified":1564125998,
     "wof:name":"Maramly",
     "wof:parent_id":85668433,
     "wof:placetype":"locality",

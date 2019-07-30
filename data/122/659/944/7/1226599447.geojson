@@ -34,6 +34,9 @@
     "name:hye_x_variant":[
         "\u0544\u0565\u0580\u057b\u056b\u0574\u0565\u056f"
     ],
+    "name:msa_x_preferred":[
+        "M\u0259rcim\u0259k"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0440\u0434\u0436\u0438\u043c\u0435\u043a"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1226599447,
-    "wof:lastmodified":1537585371,
+    "wof:lastmodified":1564126604,
     "wof:name":"Merdzhimek",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

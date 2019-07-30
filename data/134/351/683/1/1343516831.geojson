@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Eni\u015fdibi"
     ],
+    "name:ita_x_preferred":[
+        "Eni\u015fdibi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10dc\u10d8\u10e8\u10d3\u10d8\u10d1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Eni\u015fdibi"
+    ],
     "name:und_x_variant":[
         "Ehishdibi",
         "Enishdibi"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1343516831,
-    "wof:lastmodified":1537585446,
+    "wof:lastmodified":1564125891,
     "wof:name":"Enisdibi",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

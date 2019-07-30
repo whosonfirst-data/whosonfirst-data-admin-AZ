@@ -25,6 +25,12 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Dzhamilli Vtoryye"
+    ],
+    "name:msa_x_preferred":[
+        "Dzhamilli Vtoryye"
+    ],
     "name:und_x_variant":[
         "Dzhamilli",
         "Dzhamilli Vtoryye"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293723913,
-    "wof:lastmodified":1537585450,
+    "wof:lastmodified":1564126038,
     "wof:name":"Dzhamilli Vtoryye",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

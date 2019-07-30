@@ -31,6 +31,9 @@
     "name:hye_x_preferred":[
         "\u054a\u0565\u057f\u0580\u0578\u057d\u0561\u0577\u0565\u0576"
     ],
+    "name:msa_x_preferred":[
+        "Petrosashen"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0441\u0430\u0448\u0435\u043d"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1292940661,
-    "wof:lastmodified":1537585303,
+    "wof:lastmodified":1564125964,
     "wof:name":"Petrosasen",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

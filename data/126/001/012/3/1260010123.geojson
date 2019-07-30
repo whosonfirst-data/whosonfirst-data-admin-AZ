@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00f6nd\u0259l\u0259n"
+    ],
+    "name:ceb_x_preferred":[
+        "Kendelyan"
+    ],
+    "name:ita_x_preferred":[
+        "K\u00f6nd\u0259l\u0259n"
+    ],
+    "name:msa_x_preferred":[
+        "K\u00f6nd\u0259l\u0259n"
+    ],
+    "name:swe_x_preferred":[
+        "Kendelyan"
+    ],
     "name:und_x_variant":[
         "K\u00f6nd\u0259l\u0259n"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1260010123,
-    "wof:lastmodified":1537585405,
+    "wof:lastmodified":1564126274,
     "wof:name":"Kendelyan",
     "wof:parent_id":85668565,
     "wof:placetype":"locality",

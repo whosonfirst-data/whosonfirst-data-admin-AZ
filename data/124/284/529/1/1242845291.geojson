@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Kavdar"
     ],
+    "name:min_x_preferred":[
+        "Kavdar"
+    ],
+    "name:msa_x_preferred":[
+        "Kavdar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1242845291,
-    "wof:lastmodified":1537585216,
+    "wof:lastmodified":1564126492,
     "wof:name":"Kavdar",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

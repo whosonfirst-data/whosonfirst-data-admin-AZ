@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u0130qr\u0131\u011f"
+    ],
+    "name:ceb_x_preferred":[
+        "Igrykh"
+    ],
+    "name:ita_x_preferred":[
+        "\u0130qr\u0131\u011f"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130qr\u0131\u011f"
+    ],
+    "name:swe_x_preferred":[
+        "\u0130qr\u0131\u011f"
+    ],
     "name:und_x_variant":[
         "Igrik",
         "Igrykh",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1276479605,
-    "wof:lastmodified":1537585428,
+    "wof:lastmodified":1564126098,
     "wof:name":"Igrykh",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

@@ -28,14 +28,23 @@
     "name:aze_x_preferred":[
         "Qozlu"
     ],
+    "name:gag_x_preferred":[
+        "Kozlu"
+    ],
     "name:hye_x_preferred":[
         "Ghozlu"
     ],
     "name:hye_x_variant":[
         "\u0542\u0578\u0566\u056c\u0578\u0582"
     ],
+    "name:ita_x_preferred":[
+        "Qozlu"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0437\u043b\u0443"
+    ],
+    "name:tur_x_preferred":[
+        "Kozlu"
     ],
     "name:und_x_variant":[
         "Kozlu",
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1259744619,
-    "wof:lastmodified":1537585198,
+    "wof:lastmodified":1564126565,
     "wof:name":"Qozlu",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

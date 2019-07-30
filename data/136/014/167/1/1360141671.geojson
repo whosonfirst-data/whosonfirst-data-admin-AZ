@@ -31,6 +31,9 @@
     "name:aze_x_variant":[
         "Dalq\u0131l\u0131ncl\u0131"
     ],
+    "name:msa_x_preferred":[
+        "Kylychly"
+    ],
     "name:und_x_variant":[
         "Kylychly",
         "Dadychly"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1360141671,
-    "wof:lastmodified":1537585384,
+    "wof:lastmodified":1564126378,
     "wof:name":"Dalqilincli",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

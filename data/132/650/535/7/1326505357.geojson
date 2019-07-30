@@ -25,6 +25,18 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sar\u0131k\u00f6yn\u0259k"
+    ],
+    "name:ita_x_preferred":[
+        "Sar\u0131k\u00f6yn\u0259k"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10d8\u10e5\u10d8\u10dd\u10d8\u10dc\u10d0\u10e5\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Sar\u0131k\u00f6yn\u0259k"
+    ],
     "name:und_x_variant":[
         "Saryk\u00ebynak",
         "Sar\u0131k\u00f6yn\u0259k"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1326505357,
-    "wof:lastmodified":1537585344,
+    "wof:lastmodified":1564125781,
     "wof:name":"Sarikoynak",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

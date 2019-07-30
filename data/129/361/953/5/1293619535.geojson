@@ -31,6 +31,12 @@
     "name:aze_x_variant":[
         "H\u00fcseynu\u015fa\u011f\u0131"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10d8\u10e3\u10dc\u10e3\u10e8\u10d8-\u10d0\u10d2\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Suyunush-Aga"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0443\u0441\u0435\u0439\u043d\u0443\u0448\u0430\u0433\u044b"
     ],
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1293619535,
-    "wof:lastmodified":1537585143,
+    "wof:lastmodified":1564125991,
     "wof:name":"Suyunush-Aga",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Brkandul"
     ],
+    "name:ceb_x_preferred":[
+        "Burkandul"
+    ],
+    "name:ita_x_preferred":[
+        "Burkandul"
+    ],
+    "name:msa_x_preferred":[
+        "Burkandul"
+    ],
+    "name:swe_x_preferred":[
+        "Burkandul"
+    ],
     "name:und_x_variant":[
         "Berkyandyl\u2019",
         "Burkandul"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1343495359,
-    "wof:lastmodified":1537585260,
+    "wof:lastmodified":1564125875,
     "wof:name":"Burkandul",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

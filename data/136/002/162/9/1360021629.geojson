@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Dondarl\u0131"
     ],
+    "name:ita_x_preferred":[
+        "Dondarl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10dc\u10d3\u10d0\u10e0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Dondarl\u0131"
+    ],
     "name:und_x_variant":[
         "Dondarly"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1360021629,
-    "wof:lastmodified":1537585454,
+    "wof:lastmodified":1564126400,
     "wof:name":"Dondarli",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

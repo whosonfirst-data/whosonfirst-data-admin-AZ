@@ -25,6 +25,15 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Al\u0131c"
+    ],
+    "name:ita_x_preferred":[
+        "Al\u0131c"
+    ],
+    "name:msa_x_preferred":[
+        "Al\u0131c"
+    ],
     "name:und_x_variant":[
         "Alich",
         "Al\u0131\u00e7"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1344092905,
-    "wof:lastmodified":1537585494,
+    "wof:lastmodified":1564125860,
     "wof:name":"Alych",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

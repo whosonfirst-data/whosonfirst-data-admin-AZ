@@ -25,7 +25,25 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0641\u06cc\u0644\u0641\u06cc\u0644\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Filfilli"
+    ],
+    "name:ceb_x_preferred":[
+        "Filfili"
+    ],
     "name:eng_x_preferred":[
+        "Filfili"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0644\u0641\u0644\u06cc"
+    ],
+    "name:ita_x_preferred":[
+        "Filfili"
+    ],
+    "name:msa_x_preferred":[
         "Filfili"
     ],
     "name:rus_x_preferred":[
@@ -33,6 +51,9 @@
     ],
     "name:rus_x_variant":[
         "Fil\u2019fili"
+    ],
+    "name:swe_x_preferred":[
+        "Filfili"
     ],
     "name:und_x_variant":[
         "Bash-Fil\u2019filli",
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1193198737,
-    "wof:lastmodified":1537585444,
+    "wof:lastmodified":1564126261,
     "wof:name":"Filfili",
     "wof:parent_id":85668549,
     "wof:placetype":"locality",

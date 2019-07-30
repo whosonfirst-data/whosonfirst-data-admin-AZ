@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Seyidl\u0259r"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10d8\u10d7\u10d3\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Seytdar"
+    ],
     "name:und_x_variant":[
         "Seytdar",
         "Seidlyar"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1226682557,
-    "wof:lastmodified":1537585293,
+    "wof:lastmodified":1564126608,
     "wof:name":"Seidlyar",
     "wof:parent_id":85668433,
     "wof:placetype":"locality",

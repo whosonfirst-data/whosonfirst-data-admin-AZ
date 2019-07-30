@@ -25,6 +25,30 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u06a9\u0634"
+    ],
+    "name:aze_x_preferred":[
+        "T\u0259rke\u015f"
+    ],
+    "name:ceb_x_preferred":[
+        "Terkesh"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u06a9\u0634"
+    ],
+    "name:ita_x_preferred":[
+        "T\u0259rke\u015f"
+    ],
+    "name:msa_x_preferred":[
+        "T\u0259rke\u015f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u043a\u0435\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Terkesh"
+    ],
     "name:und_x_variant":[
         "Tarkesh",
         "Terkesh",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1260119037,
-    "wof:lastmodified":1537585327,
+    "wof:lastmodified":1564126282,
     "wof:name":"Terkesh",
     "wof:parent_id":85668549,
     "wof:placetype":"locality",

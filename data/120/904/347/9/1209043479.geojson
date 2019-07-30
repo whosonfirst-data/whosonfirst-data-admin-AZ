@@ -25,11 +25,35 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0639\u0631\u0628\u200c\u0634\u0627\u0644\u0628\u0627\u0634"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fr\u0259b\u015falba\u015f"
+    ],
+    "name:ceb_x_preferred":[
+        "Arabshalbash"
+    ],
     "name:eng_x_preferred":[
         "\u018fr\u01ddb\u015falba\u015f"
     ],
+    "name:fas_x_preferred":[
+        "\u0639\u0631\u0628\u200c\u0634\u0627\u0644\u0628\u0627\u0634"
+    ],
+    "name:ita_x_preferred":[
+        "\u018fr\u0259b\u015falba\u015f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d0\u10d1\u10e8\u10d0\u10da\u10d1\u10d0\u10e8\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "\u018fr\u0259b\u015falba\u015f"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0430\u0431\u0448\u0430\u043b\u0431\u0430\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Arabshalbash"
     ],
     "name:und_x_variant":[
         "\u018fr\u0259b\u015falba\u015f"
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1209043479,
-    "wof:lastmodified":1537585491,
+    "wof:lastmodified":1564126196,
     "wof:name":"Arabshalbash",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

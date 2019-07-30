@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "S\u0259fal\u0131"
     ],
+    "name:aze_x_variant":[
+        "Zarat"
+    ],
+    "name:ita_x_preferred":[
+        "Zarat"
+    ],
     "name:und_x_variant":[
         "Safaly"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293036879,
-    "wof:lastmodified":1537585308,
+    "wof:lastmodified":1564125997,
     "wof:name":"Zarat",
     "wof:parent_id":85668459,
     "wof:placetype":"locality",

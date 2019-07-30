@@ -31,8 +31,17 @@
     "name:hye_x_preferred":[
         "\u054d\u0578\u0586\u0578\u0582\u056c\u0578\u0582"
     ],
+    "name:ita_x_preferred":[
+        "Sofulu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10e4\u10e3\u10da\u10e3"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u0444\u0443\u043b\u0443"
+    ],
+    "name:tur_x_preferred":[
+        "Sofulu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1327108309,
-    "wof:lastmodified":1537585146,
+    "wof:lastmodified":1564125826,
     "wof:name":"Sofulu",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

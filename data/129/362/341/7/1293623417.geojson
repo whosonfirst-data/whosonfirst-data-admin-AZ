@@ -31,6 +31,12 @@
     "name:eng_x_preferred":[
         "Poylu"
     ],
+    "name:ita_x_preferred":[
+        "Poylu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10dd\u10d8\u10da\u10e3"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0439\u043b\u0443"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1293623417,
-    "wof:lastmodified":1537585351,
+    "wof:lastmodified":1564125946,
     "wof:name":"Poylu",
     "wof:parent_id":85668235,
     "wof:placetype":"locality",

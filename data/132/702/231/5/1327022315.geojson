@@ -25,11 +25,35 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u06cc\u0631\u062d\u0633\u0646\u0644\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Pirh\u0259s\u0259nli"
+    ],
+    "name:ceb_x_preferred":[
+        "Pirgasanly"
+    ],
     "name:eng_x_preferred":[
         "Pirh\u01dds\u01ddnli"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631\u062d\u0633\u0646\u200c\u0644\u06cc"
+    ],
+    "name:ita_x_preferred":[
+        "Pirh\u0259s\u0259nli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d8\u10e0\u10f0\u10d0\u10e1\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Pirh\u0259s\u0259nli"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u0440\u0433\u0430\u0441\u0430\u043d\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Pirgasanly"
     ],
     "name:und_x_variant":[
         "Pirgasanli",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1327022315,
-    "wof:lastmodified":1537585353,
+    "wof:lastmodified":1564125793,
     "wof:name":"Pirgasanly",
     "wof:parent_id":85668289,
     "wof:placetype":"locality",

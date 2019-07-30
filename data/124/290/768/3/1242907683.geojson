@@ -25,7 +25,16 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0647\u0627\u0648\u0627\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
+        "Haval\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10d5\u10d0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Haval\u0131"
     ],
     "name:rus_x_preferred":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1242907683,
-    "wof:lastmodified":1537585208,
+    "wof:lastmodified":1564126503,
     "wof:name":"Havali",
     "wof:parent_id":85668659,
     "wof:placetype":"locality",

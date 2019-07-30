@@ -34,6 +34,18 @@
     "name:hye_x_variant":[
         "\u0553\u0561\u057c\u0578\u0582\u056d"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e8\u10d1\u10d0\u10e8\u10d8"
+    ],
+    "name:min_x_preferred":[
+        "Da\u015fba\u015f\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Da\u015fba\u015f\u0131"
+    ],
+    "name:sco_x_preferred":[
+        "Da\u015fba\u015f\u0131"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1327064287,
-    "wof:lastmodified":1537585457,
+    "wof:lastmodified":1564125739,
     "wof:name":"Dashbashy",
     "wof:parent_id":85668657,
     "wof:placetype":"locality",

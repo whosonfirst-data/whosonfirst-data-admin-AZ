@@ -31,6 +31,9 @@
     "name:aze_x_variant":[
         "G\u00fcn\u0259v\u015fa"
     ],
+    "name:msa_x_preferred":[
+        "G\u00fcn\u0259v\u015fa"
+    ],
     "name:und_x_variant":[
         "G\u00fcne\u015fl\u0131",
         "Gyunevsha"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1226278869,
-    "wof:lastmodified":1537585387,
+    "wof:lastmodified":1564126589,
     "wof:name":"Kunshady",
     "wof:parent_id":85668425,
     "wof:placetype":"locality",

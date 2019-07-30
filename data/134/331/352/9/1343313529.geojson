@@ -25,6 +25,21 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Corlu"
+    ],
+    "name:ita_x_preferred":[
+        "Corlu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10dd\u10e0\u10da\u10e3"
+    ],
+    "name:lez_x_preferred":[
+        "\u0416\u043e\u0440\u043b\u0443"
+    ],
+    "name:msa_x_preferred":[
+        "Corlu"
+    ],
     "name:und_x_variant":[
         "Dzhorly",
         "Dzhorlu",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1343313529,
-    "wof:lastmodified":1537585447,
+    "wof:lastmodified":1564125835,
     "wof:name":"Corlu",
     "wof:parent_id":85668541,
     "wof:placetype":"locality",

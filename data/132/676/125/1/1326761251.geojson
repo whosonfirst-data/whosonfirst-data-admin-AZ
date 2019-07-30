@@ -28,11 +28,29 @@
     "name:aze_x_preferred":[
         "\u0130kinci Al\u0131canl\u0131"
     ],
+    "name:aze_x_variant":[
+        "\u0130kinci \u018flicanl\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0130kinci Al\u0131canl\u0131"
+    ],
     "name:eng_x_preferred":[
+        "\u0130kinci \u018flicanl\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "\u0130kinci \u018flicanl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e5\u10d8\u10dc\u10ef\u10d8-\u10d0\u10da\u10d8\u10ef\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "\u0130kinci \u018flicanl\u0131"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0438\u0434\u0436\u0430\u043d\u043b\u044b-Ii"
+    ],
+    "name:swe_x_preferred":[
+        "\u0130kinci Al\u0131canl\u0131"
     ],
     "name:und_x_variant":[
         "Alydzhanly Vtoroye",
@@ -65,7 +83,7 @@
         }
     ],
     "wof:id":1326761251,
-    "wof:lastmodified":1537585496,
+    "wof:lastmodified":1564125799,
     "wof:name":"Ikinci Alicanli",
     "wof:parent_id":85668509,
     "wof:placetype":"locality",

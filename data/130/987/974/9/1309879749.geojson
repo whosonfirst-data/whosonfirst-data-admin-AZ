@@ -39,6 +39,15 @@
         "\u0532\u0561\u056c\u056b\u056f\u0561\u0575\u0561",
         "\u0555\u057b\u0561\u056d"
     ],
+    "name:ita_x_preferred":[
+        "Karahoundge"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d8\u10d2\u10d0\u10d8\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Karahoundge"
+    ],
     "name:und_x_variant":[
         "Karahoundge",
         "Ballykaya"
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":1309879749,
-    "wof:lastmodified":1537585479,
+    "wof:lastmodified":1564126420,
     "wof:name":"Balliqaya",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

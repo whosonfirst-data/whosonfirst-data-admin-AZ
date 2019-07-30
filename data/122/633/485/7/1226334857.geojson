@@ -25,6 +25,24 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ma\u015fadqanl\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Aratkend Pervyy"
+    ],
+    "name:ita_x_preferred":[
+        "Ma\u015fadqanl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e8\u10d0\u10d3\u10e5\u10d0\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Ma\u015fadqanl\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Aratkend Pervyy"
+    ],
     "name:und_x_variant":[
         "Aratkend",
         "Birinci Aratk\u0259nd"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1226334857,
-    "wof:lastmodified":1537585491,
+    "wof:lastmodified":1564126595,
     "wof:name":"Aratkend Pervyy",
     "wof:parent_id":85668289,
     "wof:placetype":"locality",

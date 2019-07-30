@@ -25,13 +25,40 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0631\u062f\u0627\u0631\u06a9\u0646\u062f"
+    ],
     "name:aze_x_preferred":[
         "S\u0259rdark\u0259nd"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u0440\u0434\u0430\u0440\u0430\u0448\u044d\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Sardarashen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u062f\u0627\u0631\u0627\u0634\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Sardarashen"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0580\u0564\u0561\u0580\u0561\u0577\u0565\u0576"
     ],
+    "name:ita_x_preferred":[
+        "Sardarashen"
+    ],
+    "name:msa_x_preferred":[
+        "S\u0259rdark\u0259nd"
+    ],
     "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0434\u0430\u0440\u0430\u0448\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Sardarashen"
+    ],
+    "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0434\u0430\u0440\u0430\u0448\u0435\u043d"
     ],
     "name:und_x_variant":[
@@ -62,7 +89,7 @@
         }
     ],
     "wof:id":1326664581,
-    "wof:lastmodified":1537585159,
+    "wof:lastmodified":1564125776,
     "wof:name":"Sardarashen",
     "wof:parent_id":85668657,
     "wof:placetype":"locality",

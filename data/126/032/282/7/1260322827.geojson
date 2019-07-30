@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Qaraarx"
     ],
+    "name:ita_x_preferred":[
+        "Qaraarx"
+    ],
+    "name:msa_x_preferred":[
+        "Qaraarx"
+    ],
     "name:und_x_variant":[
         "Karaarkh"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1260322827,
-    "wof:lastmodified":1537585537,
+    "wof:lastmodified":1564126294,
     "wof:name":"Qaraarx",
     "wof:parent_id":85668235,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Ba\u015fl\u0131bel"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u057a\u0561\u0570\u0565\u0576"
+    ],
+    "name:msa_x_preferred":[
+        "Ba\u015fl\u0131bel"
+    ],
     "name:rus_x_preferred":[
         "Bashlybel\u2019"
     ],
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1276179085,
-    "wof:lastmodified":1537585265,
+    "wof:lastmodified":1564126050,
     "wof:name":"Baslibel",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

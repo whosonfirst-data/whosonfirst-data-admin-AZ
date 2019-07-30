@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Digah"
     ],
+    "name:ceb_x_preferred":[
+        "Digah"
+    ],
+    "name:ita_x_preferred":[
+        "Digah"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0433\u0430\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Digah"
+    ],
     "name:und_x_variant":[
         "Dygya",
         "Digyakh"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1293253311,
-    "wof:lastmodified":1537585248,
+    "wof:lastmodified":1564125989,
     "wof:name":"Digah",
     "wof:parent_id":85668697,
     "wof:placetype":"locality",

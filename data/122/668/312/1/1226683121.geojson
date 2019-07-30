@@ -28,6 +28,21 @@
     "name:aze_x_preferred":[
         "Salad\u0131nl\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "Salad\u0131nl\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "Salad\u0131nl\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10da\u10d0\u10d3\u10d8\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Salad\u0131nl\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Salad\u0131nl\u0131"
+    ],
     "name:und_x_variant":[
         "Saladynly"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1226683121,
-    "wof:lastmodified":1537585347,
+    "wof:lastmodified":1564126606,
     "wof:name":"Saladinli",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

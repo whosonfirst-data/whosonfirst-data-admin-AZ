@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "A\u015fa\u011f\u0131 R\u0259f\u0259dinli"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03ac\u03b3\u03ba\u03b9 \u03a1\u03b5\u03c6\u03b5\u03bd\u03c4\u03b9\u03bd\u03bb\u03af"
+    ],
+    "name:ita_x_preferred":[
+        "A\u015fa\u011f\u0131 R\u0259f\u0259dinli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10d0\u10e6\u10d8-\u10e0\u10d0\u10e4\u10d0\u10d3\u10d8\u10dc\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "A\u015fa\u011f\u0131 R\u0259f\u0259dinli"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0448\u0430\u0433\u0438 \u0420\u0430\u0444\u0430\u043d\u0434\u0438\u043d\u043b\u0438"
     ],
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1243148023,
-    "wof:lastmodified":1537585273,
+    "wof:lastmodified":1564126476,
     "wof:name":"Ashagy Rafadinli",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

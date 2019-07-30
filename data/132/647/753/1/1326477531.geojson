@@ -31,6 +31,15 @@
     "name:aze_x_variant":[
         "Avrora"
     ],
+    "name:ita_x_preferred":[
+        "Hirkan"
+    ],
+    "name:msa_x_preferred":[
+        "Hirkan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u0440\u043a\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1326477531,
-    "wof:lastmodified":1537585270,
+    "wof:lastmodified":1564125802,
     "wof:name":"Hirkan",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

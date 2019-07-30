@@ -28,6 +28,18 @@
     "name:aze_x_preferred":[
         "Xall\u0131cal\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "Xall\u0131cal\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "Xall\u0131cal\u0131"
+    ],
+    "name:msa_x_preferred":[
+        "Xall\u0131cal\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "Xall\u0131cal\u0131"
+    ],
     "name:und_x_variant":[
         "Khalydzhaly",
         "Khallydzhaly"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1226004371,
-    "wof:lastmodified":1537585211,
+    "wof:lastmodified":1564126666,
     "wof:name":"Xallicali",
     "wof:parent_id":85668397,
     "wof:placetype":"locality",

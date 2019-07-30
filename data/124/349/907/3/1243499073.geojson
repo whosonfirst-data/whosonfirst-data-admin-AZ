@@ -26,6 +26,39 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0648\u062f\u0646\u06af\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "D\u00fcd\u0259ng\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "Dyudengya"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03c5\u03bd\u03c4\u03ac\u03bd\u03b3\u03ba\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u062f\u0646\u06af\u0647"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0575\u0578\u0582\u0564\u0565\u0576\u0564"
+    ],
+    "name:ita_x_preferred":[
+        "D\u00fcd\u0259ng\u0259"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10e3\u10d3\u10d0\u10dc\u10d2\u10d8\u10d0"
+    ],
+    "name:min_x_preferred":[
+        "D\u00fcd\u0259ng\u0259"
+    ],
+    "name:msa_x_preferred":[
+        "D\u00fcd\u0259ng\u0259"
+    ],
+    "name:swe_x_preferred":[
+        "Dyudengya"
+    ],
     "name:und_x_variant":[
         "Dudangya",
         "D\u00fcd\u0259ng\u0259"
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1243499073,
-    "wof:lastmodified":1537585246,
+    "wof:lastmodified":1564126474,
     "wof:name":"Dyudengya",
     "wof:parent_id":85668667,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Abulb\u0259yli"
     ],
+    "name:ita_x_preferred":[
+        "Abulb\u0259yli"
+    ],
+    "name:msa_x_preferred":[
+        "Abulb\u0259yli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1310535337,
-    "wof:lastmodified":1537585534,
+    "wof:lastmodified":1564126319,
     "wof:name":"Abulbayli",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:aze_x_preferred":[
         "Zo\u011fall\u0131q"
     ],
+    "name:ita_x_preferred":[
+        "Zo\u011fall\u0131q"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10dd\u10e6\u10d0\u10da\u10d8\u10ee\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Zo\u011fall\u0131q"
+    ],
     "name:und_x_variant":[
         "Zogallyk"
     ],
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1260035277,
-    "wof:lastmodified":1537585542,
+    "wof:lastmodified":1564126290,
     "wof:name":"Zogalliq",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

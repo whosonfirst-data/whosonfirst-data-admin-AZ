@@ -25,7 +25,28 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ava_x_preferred":[
+        "\u0427I\u0435\u0434\u0435\u0440\u0430\u0431\u0442\u0430\u043b\u0430"
+    ],
     "name:aze_x_preferred":[
+        "\u00c7ederovtala"
+    ],
+    "name:aze_x_variant":[
+        "Cederovtala"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c7ederovtala"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7\u0259d\u0259rovtala"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d4\u10d3\u10d4\u10e0\u10dd\u10d5\u10d7\u10d0\u10da\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7\u0259d\u0259rovtala"
+    ],
+    "name:swe_x_preferred":[
         "\u00c7ederovtala"
     ],
     "name:und_x_variant":[
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1360168423,
-    "wof:lastmodified":1537585464,
+    "wof:lastmodified":1564126390,
     "wof:name":"Cederovtala",
     "wof:parent_id":85668531,
     "wof:placetype":"locality",

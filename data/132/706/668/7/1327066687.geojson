@@ -25,6 +25,9 @@
     "iso:country":"AZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u06cc\u0631\u0644\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
         "\u015e\u0131rlan"
     ],
@@ -35,6 +38,9 @@
         "Shrlan",
         "Shrrlan",
         "\u0547\u057c\u056c\u0561\u0576"
+    ],
+    "name:msa_x_preferred":[
+        "\u015e\u0131rlan"
     ],
     "name:rus_x_preferred":[
         "\u0428\u044b\u0440\u043b\u0430\u043d"
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1327066687,
-    "wof:lastmodified":1537585148,
+    "wof:lastmodified":1564125737,
     "wof:name":"Sirlan",
     "wof:parent_id":85668657,
     "wof:placetype":"locality",
