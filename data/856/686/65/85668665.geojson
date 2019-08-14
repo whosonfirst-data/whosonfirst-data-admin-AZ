@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OR"
+    ],
     "lbl:latitude":39.026519,
     "lbl:longitude":45.913382,
     "meso:hasc_id":"AZ.OR",
@@ -232,16 +235,13 @@
         }
     ],
     "wof:id":85668665,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1564125928,
+    "wof:lastmodified":1565652925,
     "wof:name":"Ordubad",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

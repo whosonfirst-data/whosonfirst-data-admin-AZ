@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QO"
+    ],
     "lbl:latitude":40.512314,
     "lbl:longitude":48.961432,
     "meso:hasc_id":"AZ.QO",
@@ -297,16 +300,13 @@
         }
     ],
     "wof:id":85668419,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281424,
+    "wof:lastmodified":1565652929,
     "wof:name":"Qobustan",
     "wof:parent_id":1108808611,
     "wof:placetype":"region",

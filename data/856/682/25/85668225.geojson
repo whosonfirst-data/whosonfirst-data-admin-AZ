@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MI"
+    ],
     "lbl:latitude":40.790869,
     "lbl:longitude":46.996255,
     "meso:hasc_id":"AZ.MI",
@@ -146,16 +149,13 @@
         }
     ],
     "wof:id":85668225,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550295,
+    "wof:lastmodified":1565652928,
     "wof:name":"Ming\u0259\u00e7evir",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

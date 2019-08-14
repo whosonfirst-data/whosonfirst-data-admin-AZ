@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":39.012956,
     "lbl:longitude":48.696889,
     "meso:hasc_id":"AZ.MA",
@@ -254,16 +257,13 @@
         }
     ],
     "wof:id":85668397,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281436,
+    "wof:lastmodified":1565652930,
     "wof:name":"Masall\u0131",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",

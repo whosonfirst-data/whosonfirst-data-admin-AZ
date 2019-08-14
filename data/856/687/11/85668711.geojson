@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SS"
+    ],
     "lbl:latitude":39.757595,
     "lbl:longitude":46.751358,
     "meso:hasc_id":"AZ.SS",
@@ -253,7 +256,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281399,
+    "wof:lastmodified":1565652925,
     "wof:name":"\u015eu\u015fa",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SD"
+    ],
     "lbl:latitude":39.694613,
     "lbl:longitude":44.864514,
     "meso:hasc_id":"AZ.SD",
@@ -189,7 +192,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281396,
+    "wof:lastmodified":1565652925,
     "wof:name":"S\u0259d\u0259r\u0259k",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

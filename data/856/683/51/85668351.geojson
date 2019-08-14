@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FU"
+    ],
     "lbl:latitude":39.58844,
     "lbl:longitude":47.314758,
     "meso:hasc_id":"AZ.FU",
@@ -306,16 +309,13 @@
         }
     ],
     "wof:id":85668351,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281432,
+    "wof:lastmodified":1565652930,
     "wof:name":"F\u00fczuli",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

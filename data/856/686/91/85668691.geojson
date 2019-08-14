@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "XA"
+    ],
     "lbl:latitude":39.833994,
     "lbl:longitude":46.796791,
     "meso:hasc_id":"AZ.XA",
@@ -381,16 +384,13 @@
         }
     ],
     "wof:id":85668691,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1564125928,
+    "wof:lastmodified":1565652925,
     "wof:name":"Stepanakert",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

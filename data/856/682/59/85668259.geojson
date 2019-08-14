@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AS"
+    ],
     "lbl:latitude":40.646253,
     "lbl:longitude":47.399318,
     "meso:hasc_id":"AZ.AS",
@@ -306,16 +309,13 @@
         }
     ],
     "wof:id":85668259,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281402,
+    "wof:lastmodified":1565652926,
     "wof:name":"A\u011fda\u015f",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GD"
+    ],
     "lbl:latitude":40.491005,
     "lbl:longitude":45.706085,
     "meso:hasc_id":"AZ.GD",
@@ -235,16 +238,13 @@
         }
     ],
     "wof:id":85668205,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281407,
+    "wof:lastmodified":1565652926,
     "wof:name":"G\u0259d\u0259b\u0259y",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

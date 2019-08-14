@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AM"
+    ],
     "lbl:latitude":40.072194,
     "lbl:longitude":46.97652,
     "meso:hasc_id":"AZ.AM",
@@ -327,16 +330,13 @@
         }
     ],
     "wof:id":85668257,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281403,
+    "wof:lastmodified":1565652926,
     "wof:name":"A\u011fdam",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

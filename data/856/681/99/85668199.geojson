@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DS"
+    ],
     "lbl:latitude":40.465357,
     "lbl:longitude":46.017121,
     "meso:hasc_id":"AZ.DS",
@@ -232,16 +235,13 @@
         }
     ],
     "wof:id":85668199,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281398,
+    "wof:lastmodified":1565652925,
     "wof:name":"Da\u015fk\u0259s\u0259n",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

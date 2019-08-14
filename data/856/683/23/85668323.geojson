@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CB"
+    ],
     "lbl:latitude":39.29336,
     "lbl:longitude":46.956092,
     "meso:hasc_id":"AZ.CB",
@@ -154,16 +157,13 @@
         }
     ],
     "wof:id":85668323,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550297,
+    "wof:lastmodified":1565652931,
     "wof:name":"C\u0259bray\u0131l",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

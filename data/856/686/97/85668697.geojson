@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LA"
+    ],
     "lbl:latitude":38.749163,
     "lbl:longitude":48.839907,
     "meso:hasc_id":"AZ.LA",
@@ -263,16 +266,13 @@
         }
     ],
     "wof:id":85668697,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1564125930,
+    "wof:lastmodified":1565652925,
     "wof:name":"Lankaran",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",

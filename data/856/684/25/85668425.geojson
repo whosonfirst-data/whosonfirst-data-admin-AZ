@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SY"
+    ],
     "lbl:latitude":41.088673,
     "lbl:longitude":49.101296,
     "meso:hasc_id":"AZ.SY",
@@ -227,16 +230,13 @@
         }
     ],
     "wof:id":85668425,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1564125935,
+    "wof:lastmodified":1565652930,
     "wof:name":"Siy\u0259z\u0259n",
     "wof:parent_id":1108808623,
     "wof:placetype":"region",

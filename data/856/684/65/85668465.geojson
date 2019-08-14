@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SQ"
+    ],
     "lbl:latitude":40.582262,
     "lbl:longitude":49.66921,
     "meso:hasc_id":"AZ.SQ",
@@ -384,16 +387,13 @@
         }
     ],
     "wof:id":85668465,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281427,
+    "wof:lastmodified":1565652929,
     "wof:name":"Sumqay\u0131t",
     "wof:parent_id":1108808621,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QR"
+    ],
     "lbl:latitude":41.442683,
     "lbl:longitude":48.282923,
     "meso:hasc_id":"AZ.QR",
@@ -303,16 +306,13 @@
         }
     ],
     "wof:id":85668577,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281420,
+    "wof:lastmodified":1565652928,
     "wof:name":"Qusar",
     "wof:parent_id":1108808623,
     "wof:placetype":"region",

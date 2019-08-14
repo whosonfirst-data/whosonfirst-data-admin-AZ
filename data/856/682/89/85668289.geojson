@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AU"
+    ],
     "lbl:latitude":40.569844,
     "lbl:longitude":48.350065,
     "meso:hasc_id":"AZ.AU",
@@ -306,16 +309,13 @@
         }
     ],
     "wof:id":85668289,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281409,
+    "wof:lastmodified":1565652927,
     "wof:name":"A\u011fsu",
     "wof:parent_id":1108808611,
     "wof:placetype":"region",

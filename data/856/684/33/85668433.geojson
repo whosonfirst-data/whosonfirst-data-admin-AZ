@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ST"
+    ],
     "lbl:latitude":39.823652,
     "lbl:longitude":48.456509,
     "meso:hasc_id":"AZ.ST",
@@ -161,16 +164,13 @@
         }
     ],
     "wof:id":85668433,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1564125933,
+    "wof:lastmodified":1565652929,
     "wof:name":"Saatl\u0131",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

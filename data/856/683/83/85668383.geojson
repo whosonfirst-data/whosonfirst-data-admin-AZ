@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KU"
+    ],
     "lbl:latitude":40.248859,
     "lbl:longitude":48.208417,
     "meso:hasc_id":"AZ.KU",
@@ -234,16 +237,13 @@
         }
     ],
     "wof:id":85668383,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281437,
+    "wof:lastmodified":1565652931,
     "wof:name":"K\u00fcrd\u0259mir",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SB"
+    ],
     "lbl:latitude":39.870528,
     "lbl:longitude":48.798706,
     "meso:hasc_id":"AZ.SB",
@@ -243,7 +246,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281429,
+    "wof:lastmodified":1565652929,
     "wof:name":"Sabirabad",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

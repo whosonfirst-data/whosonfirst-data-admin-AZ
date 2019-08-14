@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SH"
+    ],
     "lbl:latitude":39.442542,
     "lbl:longitude":45.627466,
     "meso:hasc_id":"AZ.SH",
@@ -212,16 +215,13 @@
         }
     ],
     "wof:id":85668683,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1564125930,
+    "wof:lastmodified":1565652925,
     "wof:name":"\u015eahbuz",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

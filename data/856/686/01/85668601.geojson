@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZQ"
+    ],
     "lbl:latitude":41.599546,
     "lbl:longitude":46.681732,
     "meso:hasc_id":"AZ.ZQ",
@@ -313,16 +316,13 @@
         }
     ],
     "wof:id":85668601,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281395,
+    "wof:lastmodified":1565652925,
     "wof:name":"Zaqatala",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",

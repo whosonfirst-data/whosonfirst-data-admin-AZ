@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BL"
+    ],
     "lbl:latitude":41.729386,
     "lbl:longitude":46.440496,
     "meso:hasc_id":"AZ.BL",
@@ -262,16 +265,13 @@
         }
     ],
     "wof:id":85668531,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281418,
+    "wof:lastmodified":1565652928,
     "wof:name":"Balak\u0259n",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",

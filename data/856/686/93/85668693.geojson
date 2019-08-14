@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NA"
+    ],
     "lbl:latitude":40.507104,
     "lbl:longitude":46.827298,
     "meso:hasc_id":"AZ.NA",
@@ -248,16 +251,13 @@
         }
     ],
     "wof:id":85668693,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281388,
+    "wof:lastmodified":1565652922,
     "wof:name":"Naftalan",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

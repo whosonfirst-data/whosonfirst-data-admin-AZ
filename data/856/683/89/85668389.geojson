@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LN"
+    ],
     "lbl:latitude":39.225193,
     "lbl:longitude":48.992777,
     "meso:hasc_id":"AZ.LN",
@@ -272,7 +275,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1564125936,
+    "wof:lastmodified":1565652930,
     "wof:name":"Lankaran",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",

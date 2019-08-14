@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OG"
+    ],
     "lbl:latitude":41.055884,
     "lbl:longitude":47.513661,
     "meso:hasc_id":"AZ.OG",
@@ -302,16 +305,13 @@
         }
     ],
     "wof:id":85668549,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281422,
+    "wof:lastmodified":1565652928,
     "wof:name":"O\u011fuz",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",

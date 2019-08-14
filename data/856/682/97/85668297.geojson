@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AA"
+    ],
     "lbl:latitude":38.501076,
     "lbl:longitude":48.698427,
     "meso:hasc_id":"AZ.AA",
@@ -312,16 +315,13 @@
         }
     ],
     "wof:id":85668297,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281411,
+    "wof:lastmodified":1565652927,
     "wof:name":"Astara",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",

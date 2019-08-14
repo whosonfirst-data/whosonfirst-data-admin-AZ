@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SU"
+    ],
     "lbl:latitude":39.713628,
     "lbl:longitude":46.665009,
     "meso:hasc_id":"AZ.SU",
@@ -242,16 +245,13 @@
         }
     ],
     "wof:id":85668643,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281392,
+    "wof:lastmodified":1565652925,
     "wof:name":"\u015eu\u015fa",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HA"
+    ],
     "lbl:latitude":40.128034,
     "lbl:longitude":48.889724,
     "meso:hasc_id":"AZ.HA",
@@ -148,16 +151,13 @@
         }
     ],
     "wof:id":85668293,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550297,
+    "wof:lastmodified":1565652926,
     "wof:name":"Hajigabul",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

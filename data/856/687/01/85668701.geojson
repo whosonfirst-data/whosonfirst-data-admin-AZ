@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AB"
+    ],
     "lbl:latitude":39.949593,
     "lbl:longitude":48.934779,
     "meso:hasc_id":"AZ.AB",
@@ -240,16 +243,13 @@
         }
     ],
     "wof:id":85668701,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281400,
+    "wof:lastmodified":1565652926,
     "wof:name":"Shirvan",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

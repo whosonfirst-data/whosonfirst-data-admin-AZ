@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SX"
+    ],
     "lbl:latitude":40.895649,
     "lbl:longitude":46.454168,
     "meso:hasc_id":"AZ.SX",
@@ -294,16 +297,13 @@
         }
     ],
     "wof:id":85668235,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281404,
+    "wof:lastmodified":1565652926,
     "wof:name":"Samux",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZR"
+    ],
     "lbl:latitude":40.255629,
     "lbl:longitude":47.769282,
     "meso:hasc_id":"AZ.ZR",
@@ -149,16 +152,13 @@
         }
     ],
     "wof:id":85668509,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550303,
+    "wof:lastmodified":1565652928,
     "wof:name":"Z\u0259rdab",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

@@ -15,6 +15,9 @@
     "itu:country_code":[
         "994"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AZ"
+    ],
     "lbl:latitude":40.402387,
     "lbl:longitude":47.210994,
     "mps:latitude":40.402387,
@@ -1209,16 +1212,13 @@
         }
     ],
     "wof:id":85632717,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281441,
+    "wof:lastmodified":1565652931,
     "wof:name":"Azerbaijan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

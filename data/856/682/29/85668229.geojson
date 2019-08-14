@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QZ"
+    ],
     "lbl:latitude":41.123984,
     "lbl:longitude":45.278525,
     "meso:hasc_id":"AZ.QZ",
@@ -312,16 +315,13 @@
         }
     ],
     "wof:id":85668229,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281408,
+    "wof:lastmodified":1565652927,
     "wof:name":"Qazax",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

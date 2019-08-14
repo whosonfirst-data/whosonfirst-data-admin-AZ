@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "XD"
+    ],
     "lbl:latitude":39.766109,
     "lbl:longitude":47.032574,
     "meso:hasc_id":"AZ.XD",
@@ -156,16 +159,13 @@
         }
     ],
     "wof:id":85668611,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550294,
+    "wof:lastmodified":1565652924,
     "wof:name":"Xocav\u0259nd",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

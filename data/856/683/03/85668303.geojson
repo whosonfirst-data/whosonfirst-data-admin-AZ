@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BR"
+    ],
     "lbl:latitude":40.338105,
     "lbl:longitude":47.221858,
     "meso:hasc_id":"AZ.BR",
@@ -149,16 +152,13 @@
         }
     ],
     "wof:id":85668303,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550297,
+    "wof:lastmodified":1565652930,
     "wof:name":"B\u0259rd\u0259",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

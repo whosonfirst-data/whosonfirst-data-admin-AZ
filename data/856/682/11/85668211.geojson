@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "XR"
+    ],
     "lbl:latitude":40.503698,
     "lbl:longitude":46.327218,
     "meso:hasc_id":"AZ.XR",
@@ -260,16 +263,13 @@
         }
     ],
     "wof:id":85668211,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281407,
+    "wof:lastmodified":1565652927,
     "wof:name":"Xanlar",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

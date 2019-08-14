@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GR"
+    ],
     "lbl:latitude":40.555906,
     "lbl:longitude":46.672,
     "meso:hasc_id":"AZ.GR",
@@ -246,7 +249,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281413,
+    "wof:lastmodified":1565652927,
     "wof:name":"Goranboy",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

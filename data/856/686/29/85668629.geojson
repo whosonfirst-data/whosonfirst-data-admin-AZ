@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QD"
+    ],
     "lbl:latitude":39.346887,
     "lbl:longitude":46.618472,
     "meso:hasc_id":"AZ.QD",
@@ -148,16 +151,13 @@
         }
     ],
     "wof:id":85668629,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550307,
+    "wof:lastmodified":1565652924,
     "wof:name":"Qubadli",
     "wof:parent_id":1108808607,
     "wof:placetype":"region",

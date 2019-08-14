@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NX"
+    ],
     "lbl:latitude":39.207622,
     "lbl:longitude":45.408903,
     "meso:hasc_id":"AZ.NX",
@@ -344,16 +347,13 @@
         }
     ],
     "wof:id":85668681,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281391,
+    "wof:lastmodified":1565652925,
     "wof:name":"Nax\u00e7\u0131van",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

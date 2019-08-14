@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "YE"
+    ],
     "lbl:latitude":40.605207,
     "lbl:longitude":47.146037,
     "meso:hasc_id":"AZ.YE",
@@ -297,16 +300,13 @@
         }
     ],
     "wof:id":85668715,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281401,
+    "wof:lastmodified":1565652926,
     "wof:name":"Yevlakh",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

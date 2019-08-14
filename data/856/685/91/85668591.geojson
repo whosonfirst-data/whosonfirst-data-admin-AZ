@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "XZ"
+    ],
     "lbl:latitude":41.557683,
     "lbl:longitude":48.775514,
     "meso:hasc_id":"AZ.XZ",
@@ -300,16 +303,13 @@
         }
     ],
     "wof:id":85668591,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281419,
+    "wof:lastmodified":1565652928,
     "wof:name":"Xa\u00e7maz",
     "wof:parent_id":1108808623,
     "wof:placetype":"region",

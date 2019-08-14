@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AF"
+    ],
     "lbl:latitude":41.273567,
     "lbl:longitude":45.492076,
     "meso:hasc_id":"AZ.AF",
@@ -309,16 +312,13 @@
         }
     ],
     "wof:id":85668195,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281397,
+    "wof:lastmodified":1565652925,
     "wof:name":"A\u011fstafa",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

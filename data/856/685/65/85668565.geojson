@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SK"
+    ],
     "lbl:latitude":41.014716,
     "lbl:longitude":47.137905,
     "meso:hasc_id":"AZ.SK",
@@ -88,16 +91,13 @@
         }
     ],
     "wof:id":85668565,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550299,
+    "wof:lastmodified":1565652928,
     "wof:name":"\u015e\u0259ki",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",

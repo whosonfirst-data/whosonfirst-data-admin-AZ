@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QA"
+    ],
     "lbl:latitude":40.951019,
     "lbl:longitude":47.826755,
     "meso:hasc_id":"AZ.QA",
@@ -146,16 +149,13 @@
         }
     ],
     "wof:id":85668541,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550299,
+    "wof:lastmodified":1565652928,
     "wof:name":"Q\u0259b\u0259l\u0259",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",

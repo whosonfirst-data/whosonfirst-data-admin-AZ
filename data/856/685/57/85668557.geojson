@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QX"
+    ],
     "lbl:latitude":41.384283,
     "lbl:longitude":46.793797,
     "meso:hasc_id":"AZ.QX",
@@ -148,16 +151,13 @@
         }
     ],
     "wof:id":85668557,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550299,
+    "wof:lastmodified":1565652928,
     "wof:name":"Qax",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SE"
+    ],
     "lbl:latitude":39.594918,
     "lbl:longitude":45.05376,
     "meso:hasc_id":"AZ.SE",
@@ -224,16 +227,13 @@
         }
     ],
     "wof:id":85668667,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281387,
+    "wof:lastmodified":1565652922,
     "wof:name":"\u015e\u0259rur",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

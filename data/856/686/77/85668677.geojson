@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CF"
+    ],
     "lbl:latitude":39.163805,
     "lbl:longitude":45.689351,
     "meso:hasc_id":"AZ.CF",
@@ -155,16 +158,13 @@
         }
     ],
     "wof:id":85668677,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550306,
+    "wof:lastmodified":1565652925,
     "wof:name":"Culfa",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

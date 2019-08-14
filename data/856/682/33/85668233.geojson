@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SM"
+    ],
     "lbl:latitude":40.833172,
     "lbl:longitude":46.065657,
     "meso:hasc_id":"AZ.SM",
@@ -298,16 +301,13 @@
         }
     ],
     "wof:id":85668233,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281406,
+    "wof:lastmodified":1565652926,
     "wof:name":"\u015e\u0259mkir",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

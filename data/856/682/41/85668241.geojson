@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TO"
+    ],
     "lbl:latitude":41.058007,
     "lbl:longitude":45.771384,
     "meso:hasc_id":"AZ.TO",
@@ -297,16 +300,13 @@
         }
     ],
     "wof:id":85668241,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281412,
+    "wof:lastmodified":1565652927,
     "wof:name":"Tovuz",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

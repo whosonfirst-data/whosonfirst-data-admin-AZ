@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KG"
+    ],
     "lbl:latitude":39.381884,
     "lbl:longitude":45.210632,
     "meso:hasc_id":"AZ.KG",
@@ -96,7 +99,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550306,
+    "wof:lastmodified":1565652926,
     "wof:name":"Kangarli",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

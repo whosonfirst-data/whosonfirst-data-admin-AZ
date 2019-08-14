@@ -9,13 +9,15 @@
     "geom:bbox":"45.2782749791,38.9622703992,45.6086068969,39.5340991276",
     "geom:latitude":39.2365,
     "geom:longitude":45.436711,
-    "gn:id":"",
     "iso:country":"AZ",
     "label:eng_x_preferred_longname":[
         "Bab\u0259k District"
     ],
     "label:eng_x_preferred_placetype":[
         "district"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "BK"
     ],
     "lbl:latitude":39.267346,
     "lbl:longitude":45.488014,
@@ -174,24 +176,21 @@
         }
     ],
     "wof:id":85668673,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550306,
+    "wof:lastmodified":1565807372,
     "wof:name":"Bab\u0259k",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":71396,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-az",
+    "wof:shortcode":"BK",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

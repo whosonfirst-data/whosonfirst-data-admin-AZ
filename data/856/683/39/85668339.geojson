@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DV"
+    ],
     "lbl:latitude":41.189146,
     "lbl:longitude":48.897601,
     "meso:hasc_id":"AZ.DV",
@@ -180,16 +183,13 @@
         }
     ],
     "wof:id":85668339,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550298,
+    "wof:lastmodified":1565652930,
     "wof:name":"D\u0259v\u0259\u00e7i",
     "wof:parent_id":1108808623,
     "wof:placetype":"region",

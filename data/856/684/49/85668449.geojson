@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SL"
+    ],
     "lbl:latitude":39.72033,
     "lbl:longitude":49.14015,
     "meso:hasc_id":"AZ.SL",
@@ -298,16 +301,13 @@
         }
     ],
     "wof:id":85668449,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281428,
+    "wof:lastmodified":1565652929,
     "wof:name":"Salyan",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

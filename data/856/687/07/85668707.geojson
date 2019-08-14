@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "lbl:latitude":41.193235,
     "lbl:longitude":47.18843,
     "meso:hasc_id":"AZ.SA",
@@ -93,7 +96,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550306,
+    "wof:lastmodified":1565652926,
     "wof:name":"\u015e\u0259ki",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",

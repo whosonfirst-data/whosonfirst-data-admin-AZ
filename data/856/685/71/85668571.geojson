@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QB"
+    ],
     "lbl:latitude":41.198679,
     "lbl:longitude":48.465422,
     "meso:hasc_id":"AZ.QB",
@@ -306,16 +309,13 @@
         }
     ],
     "wof:id":85668571,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281421,
+    "wof:lastmodified":1565652928,
     "wof:name":"Quba",
     "wof:parent_id":1108808623,
     "wof:placetype":"region",

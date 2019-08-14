@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZG"
+    ],
     "lbl:latitude":39.05545,
     "lbl:longitude":46.641458,
     "meso:hasc_id":"AZ.ZG",
@@ -234,16 +237,13 @@
         }
     ],
     "wof:id":85668659,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281387,
+    "wof:lastmodified":1565652922,
     "wof:name":"Z\u0259ngilan",
     "wof:parent_id":1108808607,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CL"
+    ],
     "lbl:latitude":39.212612,
     "lbl:longitude":48.456723,
     "meso:hasc_id":"AZ.CL",
@@ -291,16 +294,13 @@
         }
     ],
     "wof:id":85668331,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1563281434,
+    "wof:lastmodified":1565652930,
     "wof:name":"C\u0259lilabad",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",

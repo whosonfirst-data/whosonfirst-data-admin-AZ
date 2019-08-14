@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TA"
+    ],
     "lbl:latitude":40.289415,
     "lbl:longitude":46.778245,
     "meso:hasc_id":"AZ.TA",
@@ -146,16 +149,13 @@
         }
     ],
     "wof:id":85668653,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "aze"
     ],
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1553550307,
+    "wof:lastmodified":1565652925,
     "wof:name":"T\u0259rt\u0259r",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",
