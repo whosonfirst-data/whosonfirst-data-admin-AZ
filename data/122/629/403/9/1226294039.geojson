@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.34409,41.09443,45.38409,41.13443",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0639\u0632\u06cc\u0632 \u0628\u06cc\u200c\u0644\u06cc"
     ],
@@ -39,8 +43,7 @@
     ],
     "name:und_x_variant":[
         "Azizbeyly",
-        "Azizbeyli",
-        "\u018fzizb\u0259yli"
+        "Azizbeyli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1226294039,
-    "wof:lastmodified":1564126594,
+    "wof:lastmodified":1566604078,
     "wof:name":"Azizbeyli",
     "wof:parent_id":85668195,
     "wof:placetype":"locality",

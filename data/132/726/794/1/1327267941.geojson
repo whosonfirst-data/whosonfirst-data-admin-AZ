@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.13358,40.72512,47.17358,40.76512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u018fx\u015fam"
     ],
@@ -39,8 +43,7 @@
     ],
     "name:und_x_variant":[
         "Akhsham",
-        "Ekhshem",
-        "\u018fx\u015fam"
+        "Ekhshem"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1327267941,
-    "wof:lastmodified":1564125818,
+    "wof:lastmodified":1566603715,
     "wof:name":"Ekhshem",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

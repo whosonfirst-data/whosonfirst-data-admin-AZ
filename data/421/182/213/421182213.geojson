@@ -10,8 +10,12 @@
     "geom:latitude":40.43333,
     "geom:longitude":49.85,
     "iso:country":"AZ",
+    "lbl:bbox":"49.83,40.41333,49.87,40.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u0648\u0641"
@@ -142,7 +146,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0440\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pos\u00eblok Imeni Kirova"
     ],
     "name:zho_x_preferred":[
@@ -178,7 +182,7 @@
     "wof:concordances":{
         "gn:id":585883,
         "gp:id":1949684,
-        "qs:id":894754,
+        "qs_pg:id":894754,
         "wd:id":"Q1414543"
     },
     "wof:country":"AZ",
@@ -194,7 +198,7 @@
         }
     ],
     "wof:id":421182213,
-    "wof:lastmodified":1563281861,
+    "wof:lastmodified":1566603999,
     "wof:name":"Kirov",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

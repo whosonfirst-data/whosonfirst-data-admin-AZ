@@ -11,10 +11,14 @@
     "geom:longitude":48.92726,
     "gn:country":"AZ",
     "gn:fcode":"PPLA",
-    "gn:pop":3754,
+    "gn:population":3754,
     "iso:country":"AZ",
+    "lbl:bbox":"48.90726,40.51371,48.94726,40.55371",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Qobustan"
     ],
@@ -24,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0430\u0437\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maraza"
     ],
     "qs:name":"Marazy",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":585570,
         "gp:id":1951963,
-        "qs:id":125828
+        "qs_pg:id":125828
     },
     "wof:country":"AZ",
     "wof:created":1469052272,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890440365,
-    "wof:lastmodified":1505343576,
+    "wof:lastmodified":1566604000,
     "wof:name":"Marazy",
     "wof:parent_id":85668419,
     "wof:placetype":"locality",

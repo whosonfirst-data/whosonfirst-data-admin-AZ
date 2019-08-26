@@ -11,10 +11,14 @@
     "geom:longitude":49.60108,
     "gn:country":"AZ",
     "gn:fcode":"PPL",
-    "gn:pop":730,
+    "gn:population":730,
     "iso:country":"AZ",
+    "lbl:bbox":"49.58108,40.3021,49.62108,40.3421",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0634\u0646\u06af\u0627\u0631"
     ],
@@ -42,7 +46,7 @@
     "name:swe_x_preferred":[
         "\u015eonqar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zagyar"
     ],
     "qs:name":"\u015eonqar",
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":585012,
         "gp:id":12510363,
-        "qs:id":550108,
+        "qs_pg:id":550108,
         "wd:id":"Q4026994",
         "wk:page":"\u015eonqar"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890455673,
-    "wof:lastmodified":1563281866,
+    "wof:lastmodified":1566604001,
     "wof:name":"\u015eonqar",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

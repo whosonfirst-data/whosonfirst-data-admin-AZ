@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.79001,40.89718,45.83001,40.93718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "A\u015f\u0131rallar"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1327470059,
-    "wof:lastmodified":1564125787,
+    "wof:lastmodified":1566603702,
     "wof:name":"Asagi Ayibli",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

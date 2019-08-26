@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.85402,39.85174,46.89402,39.89174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "D\u0259hr\u0259z"
     ],
@@ -48,12 +52,6 @@
         "\u0414\u0430\u0433\u0440\u0430\u0437"
     ],
     "name:ukr_x_preferred":[
-        "\u0414\u0430\u0433\u0440\u0430\u0437"
-    ],
-    "name:und_x_variant":[
-        "Dahrav",
-        "Dagraz",
-        "Dahraz",
         "\u0414\u0430\u0433\u0440\u0430\u0437"
     ],
     "src:geom":"geonames",
@@ -80,7 +78,7 @@
         }
     ],
     "wof:id":1310535031,
-    "wof:lastmodified":1564126320,
+    "wof:lastmodified":1566603940,
     "wof:name":"Dagraz",
     "wof:parent_id":85668657,
     "wof:placetype":"locality",

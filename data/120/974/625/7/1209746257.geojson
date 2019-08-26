@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.04569,40.64248,47.08569,40.68248",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "A\u011fq\u0131raql\u0131"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209746257,
-    "wof:lastmodified":1537585513,
+    "wof:lastmodified":1566603890,
     "wof:name":"Agqiraqli",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

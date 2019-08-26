@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.04366,40.85494,48.08366,40.89494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Top\u00e7u"
     ],
@@ -40,8 +44,7 @@
     "name:und_x_variant":[
         "Topchi",
         "Topchu",
-        "Torchu",
-        "Top\u00e7u"
+        "Torchu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1327391351,
-    "wof:lastmodified":1564125734,
+    "wof:lastmodified":1566603679,
     "wof:name":"Topcu",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

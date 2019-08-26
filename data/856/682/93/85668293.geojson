@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.128034,
     "lbl:longitude":48.889724,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.HA",
     "mps:latitude":40.145912,
     "mps:longitude":48.821226,
@@ -32,7 +33,7 @@
     "name:eng_x_preferred":[
         "Haciqabul"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hac\u0131qabul"
     ],
     "ne:abbrev":"",
@@ -109,9 +110,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,640",
     "statoids:area_mi":"633",
     "statoids:as_of_date":"1999-01-27",
@@ -137,7 +138,7 @@
         "gp:id":20070282,
         "hasc:id":"AZ.HA",
         "iso:id":"AZ-HAC",
-        "qs:id":245892,
+        "qs_pg:id":245892,
         "unlc:id":"AZ-HAC"
     },
     "wof:country":"AZ",
@@ -157,11 +158,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652926,
+    "wof:lastmodified":1566603766,
     "wof:name":"Hajigabul",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":57944,
     "wof:population_rank":8,

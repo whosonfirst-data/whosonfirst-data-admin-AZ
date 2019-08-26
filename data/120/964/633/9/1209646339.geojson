@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.72336,41.40286,48.76336,41.44286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yerg\u00fcc"
     ],
@@ -35,8 +39,7 @@
         "Ot-Yerguch",
         "Yergyuch",
         "Yerkyuch",
-        "Yergyudzh",
-        "Yerg\u00fcc"
+        "Yergyudzh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1209646339,
-    "wof:lastmodified":1537585312,
+    "wof:lastmodified":1566603864,
     "wof:name":"Yerguc",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

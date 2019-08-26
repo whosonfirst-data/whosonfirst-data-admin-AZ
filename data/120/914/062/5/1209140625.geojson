@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.63,40.96333,47.67,41.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ava_x_preferred":[
         "\u0422\u043e\u043b\u0438\u0431\u0438"
     ],
@@ -47,8 +51,7 @@
         "Qazmalar"
     ],
     "name:und_x_variant":[
-        "Kazmalar",
-        "Qazmalar"
+        "Kazmalar"
     ],
     "name:zho_x_preferred":[
         "\u5361\u8332\u99ac\u62c9"
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1209140625,
-    "wof:lastmodified":1564126179,
+    "wof:lastmodified":1566603876,
     "wof:name":"Qazmalar",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

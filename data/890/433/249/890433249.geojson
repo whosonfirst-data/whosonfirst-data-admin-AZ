@@ -11,8 +11,11 @@
     "geom:longitude":48.92855,
     "gn:country":"AZ",
     "gn:fcode":"PPL",
-    "gn:pop":70220,
+    "gn:population":70220,
     "iso:country":"AZ",
+    "lbl:bbox":"48.90855,39.91788,48.94855,39.95788",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.1,
@@ -85,7 +88,7 @@
     "name:tur_x_preferred":[
         "\u015eirvan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zubovka"
     ],
     "name:urd_x_preferred":[
@@ -202,7 +205,7 @@
     "wof:concordances":{
         "gn:id":148565,
         "gp:id":1947581,
-        "qs:id":122452,
+        "qs_pg:id":122452,
         "wd:id":"Q172902",
         "wk:page":"\u015eirvan"
     },
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":890433249,
-    "wof:lastmodified":1563281880,
+    "wof:lastmodified":1566604004,
     "wof:name":"\u015eirvan",
     "wof:parent_id":85668701,
     "wof:placetype":"locality",

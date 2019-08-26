@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.29145,40.72917,48.33145,40.76917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Ma\u00e7ax\u0131"
     ],
@@ -45,8 +49,7 @@
     ],
     "name:und_x_variant":[
         "Machakhi",
-        "Machakhy",
-        "Ma\u00e7ax\u0131"
+        "Machakhy"
     ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u06a9\u0627\u06a9\u0633\u06cc"
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1260344081,
-    "wof:lastmodified":1564126297,
+    "wof:lastmodified":1566603927,
     "wof:name":"Macaxi",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

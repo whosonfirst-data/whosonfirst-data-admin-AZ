@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.84428,38.68032,48.88428,38.72032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u0259nar\u0259me\u015f\u0259"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293550485,
-    "wof:lastmodified":1537585291,
+    "wof:lastmodified":1566603783,
     "wof:name":"Kenaramesha",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

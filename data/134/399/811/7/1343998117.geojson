@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.97216,39.56663,49.01216,39.60663",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qaraqa\u015fl\u0131"
     ],
@@ -32,9 +36,6 @@
         "Karakashly"
     ],
     "name:msa_x_preferred":[
-        "Karakashly"
-    ],
-    "name:und_x_variant":[
         "Karakashly"
     ],
     "src:geom":"geonames",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1343998117,
-    "wof:lastmodified":1564125844,
+    "wof:lastmodified":1566603727,
     "wof:name":"Qaraqasli",
     "wof:parent_id":85668409,
     "wof:placetype":"locality",

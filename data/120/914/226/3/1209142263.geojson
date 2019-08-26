@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.90765,40.37681,46.94765,40.41681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Bala Kengerli"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1209142263,
-    "wof:lastmodified":1537585479,
+    "wof:lastmodified":1566603875,
     "wof:name":"Bala-Kengerly",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

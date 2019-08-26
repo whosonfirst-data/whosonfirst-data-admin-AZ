@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.82101,41.27767,46.86101,41.31767",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0642\u0627\u06cc\u0633\u0627\u0631\u0644\u06cc"
     ],
@@ -47,8 +51,7 @@
         "Qaysarl\u0131"
     ],
     "name:und_x_variant":[
-        "Kaysarly",
-        "Qaysarl\u0131"
+        "Kaysarly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1343497105,
-    "wof:lastmodified":1564125878,
+    "wof:lastmodified":1566603741,
     "wof:name":"Qaysarli",
     "wof:parent_id":85668557,
     "wof:placetype":"locality",

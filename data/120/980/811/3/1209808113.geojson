@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.20259,40.44718,48.24259,40.48718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "G\u00f6yd\u0259ll\u0259kli"
     ],
@@ -50,9 +54,7 @@
         "Gey-Dellekli"
     ],
     "name:und_x_variant":[
-        "G\u00ebydellyakli",
-        "Gey-Dellekli",
-        "G\u00f6yd\u0259ll\u0259kli"
+        "G\u00ebydellyakli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":1209808113,
-    "wof:lastmodified":1564126215,
+    "wof:lastmodified":1566603891,
     "wof:name":"Gey-Dellekli",
     "wof:parent_id":85668289,
     "wof:placetype":"locality",

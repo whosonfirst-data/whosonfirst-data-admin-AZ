@@ -23,8 +23,12 @@
     "gn:population":2150,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.747,41.52243,46.787,41.56243",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ava_x_preferred":[
         "\u041c\u0430\u044a\u0430\u0440\u0443\u0445\u044a \u0436\u0430\u043c\u0430\u0433\u04c0\u0430\u0442"
     ],
@@ -50,8 +54,7 @@
         "Mamrux"
     ],
     "name:und_x_variant":[
-        "Mamrukh",
-        "Mamrux"
+        "Mamrukh"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1309835471,
-    "wof:lastmodified":1564126410,
+    "wof:lastmodified":1566603986,
     "wof:name":"Mamrux",
     "wof:parent_id":85668601,
     "wof:placetype":"locality",

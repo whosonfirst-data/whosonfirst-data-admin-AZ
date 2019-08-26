@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.45956,40.63828,45.49956,40.67828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "D\u00fcz R\u0259sullu"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:swe_x_preferred":[
         "Dyuzrasullu"
-    ],
-    "name:und_x_variant":[
-        "D\u00fcz R\u0259sullu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1310071105,
-    "wof:lastmodified":1564126325,
+    "wof:lastmodified":1566603942,
     "wof:name":"Dyuzrasullu",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

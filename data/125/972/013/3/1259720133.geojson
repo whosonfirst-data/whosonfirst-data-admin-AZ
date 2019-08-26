@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"49.00297,40.45577,49.04297,40.49577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0634\u06cc\u062e\u200c\u0638\u0627\u0647\u0631\u0644\u06cc"
     ],
@@ -65,8 +69,7 @@
         "Shikh-Zagirli",
         "Shykhzairly",
         "Shikhzairly",
-        "Shikh-Zagerly",
-        "\u015e\u0131xzah\u0131rl\u0131"
+        "Shikh-Zagerly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1259720133,
-    "wof:lastmodified":1564126574,
+    "wof:lastmodified":1566604069,
     "wof:name":"Sixzahirli",
     "wof:parent_id":85668419,
     "wof:placetype":"locality",

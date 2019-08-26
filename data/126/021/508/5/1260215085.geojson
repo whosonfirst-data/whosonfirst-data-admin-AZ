@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"49.38063,40.76743,49.42063,40.80743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Sital\u00e7ay"
     ],
@@ -50,8 +54,7 @@
         "Sital\u00e7ay"
     ],
     "name:und_x_variant":[
-        "Sitalchay",
-        "Sital\u00e7ay"
+        "Sitalchay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1260215085,
-    "wof:lastmodified":1564126287,
+    "wof:lastmodified":1566603923,
     "wof:name":"Sitalcay",
     "wof:parent_id":85668485,
     "wof:placetype":"locality",

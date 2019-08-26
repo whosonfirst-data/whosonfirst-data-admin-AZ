@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.29423,41.14181,45.33423,41.18181",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0642\u0627\u0632\u0627\u062e \u0628\u06cc\u200c\u0644\u06cc"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:swe_x_preferred":[
         "Kazakhbeyli"
-    ],
-    "name:und_x_variant":[
-        "Qazaxb\u0259yli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1344108205,
-    "wof:lastmodified":1564125901,
+    "wof:lastmodified":1566603751,
     "wof:name":"Kazakhbeyli",
     "wof:parent_id":85668229,
     "wof:placetype":"locality",

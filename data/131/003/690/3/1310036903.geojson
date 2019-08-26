@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.98168,40.5903,49.02168,40.6303",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0686\u0627\u06cc \u0642\u0648\u0631\u0628\u0627\u0646\u200c\u0686\u06cc"
     ],
@@ -42,8 +46,7 @@
     ],
     "name:und_x_variant":[
         "Chay Kurbanchy",
-        "Chaykurabanchi",
-        "\u00c7ay Qurban\u00e7\u0131"
+        "Chaykurabanchi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1310036903,
-    "wof:lastmodified":1564126354,
+    "wof:lastmodified":1566603954,
     "wof:name":"Cay Qurbanci",
     "wof:parent_id":85668419,
     "wof:placetype":"locality",

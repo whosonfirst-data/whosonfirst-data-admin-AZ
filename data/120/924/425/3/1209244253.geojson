@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.90825,40.82603,45.94825,40.86603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0634\u06cc\u0634 \u062a\u067e\u0647"
     ],
@@ -55,9 +59,6 @@
     "name:swe_x_preferred":[
         "Shishtepe"
     ],
-    "name:und_x_variant":[
-        "\u015ei\u015ft\u0259p\u0259"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632717
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1209244253,
-    "wof:lastmodified":1564126163,
+    "wof:lastmodified":1566603869,
     "wof:name":"Shishtepe",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

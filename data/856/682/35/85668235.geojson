@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.895649,
     "lbl:longitude":46.454168,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.SX",
     "mps:latitude":40.898155,
     "mps:longitude":46.428423,
@@ -164,9 +165,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043c\u0443\u0445\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Samux Rayonu"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0645\u0648\u062e \u0636\u0644\u0639"
     ],
@@ -253,9 +251,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,450",
     "statoids:area_mi":"560",
     "statoids:as_of_date":"1999-01-27",
@@ -281,7 +279,7 @@
         "gp:id":20070269,
         "hasc:id":"AZ.SX",
         "iso:id":"AZ-SMX",
-        "qs:id":49486,
+        "qs_pg:id":49486,
         "unlc:id":"AZ-SMX",
         "wd:id":"Q498437",
         "wk:page":"Samukh District"
@@ -303,11 +301,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652926,
+    "wof:lastmodified":1566603766,
     "wof:name":"Samux",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":49697,
     "wof:population_rank":7,

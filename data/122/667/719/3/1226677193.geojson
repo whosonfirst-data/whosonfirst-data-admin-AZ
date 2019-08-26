@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.94976,41.06299,48.98976,41.10299",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Orta \u00c7al\u011fan"
     ],
@@ -36,7 +40,6 @@
     ],
     "name:und_x_variant":[
         "Orta Dzhalgan",
-        "Orta \u00c7al\u011fan",
         "Ashaga Dzhalgan"
     ],
     "src:geom":"geonames",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1226677193,
-    "wof:lastmodified":1564126601,
+    "wof:lastmodified":1566604082,
     "wof:name":"Orta Calgan",
     "wof:parent_id":85668339,
     "wof:placetype":"locality",

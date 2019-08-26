@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.86929,41.1461,48.90929,41.1861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yel\u0259k\u0259s\u0259n"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259655159,
-    "wof:lastmodified":1537585315,
+    "wof:lastmodified":1566604048,
     "wof:name":"Yelekesan",
     "wof:parent_id":85668339,
     "wof:placetype":"locality",

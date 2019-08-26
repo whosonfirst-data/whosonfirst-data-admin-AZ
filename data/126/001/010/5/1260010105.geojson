@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.7775,40.9225,45.8175,40.9625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u06c6\u0632 \u0642\u06cc\u0631\u06cc\u0642\u200c\u0644\u06cc"
     ],
@@ -53,8 +57,7 @@
         "Dyuzkyrykly"
     ],
     "name:und_x_variant":[
-        "Dyuz-Kyrykhly",
-        "D\u00fcz Q\u0131r\u0131ql\u0131"
+        "Dyuz-Kyrykhly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1260010105,
-    "wof:lastmodified":1564126277,
+    "wof:lastmodified":1566603918,
     "wof:name":"Dyuzkyrykly",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

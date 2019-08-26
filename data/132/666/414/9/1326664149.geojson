@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.68402,41.25191,48.72402,41.29191",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Asp\u0259r\u0259sti"
     ],
@@ -38,7 +42,6 @@
         "\u018fsp\u0259r\u0259sti"
     ],
     "name:und_x_variant":[
-        "\u018fsp\u0259r\u0259sti",
         "Izzhor"
     ],
     "src:geom":"geonames",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1326664149,
-    "wof:lastmodified":1564125774,
+    "wof:lastmodified":1566603696,
     "wof:name":"Asparasty",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.07296,40.55915,47.11296,40.59915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u0130smay\u0131labad"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1293620325,
-    "wof:lastmodified":1564125949,
+    "wof:lastmodified":1566603779,
     "wof:name":"Ismayilabad",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.65783,41.50926,46.69783,41.54926",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ava_x_preferred":[
         "\u041aI\u0443\u043c\u0443\u0440"
     ],
@@ -41,8 +45,7 @@
         "Q\u0131m\u0131r"
     ],
     "name:und_x_variant":[
-        "Kymyr",
-        "Q\u0131m\u0131r"
+        "Kymyr"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1310441587,
-    "wof:lastmodified":1564126342,
+    "wof:lastmodified":1566603949,
     "wof:name":"Qimir",
     "wof:parent_id":85668601,
     "wof:placetype":"locality",

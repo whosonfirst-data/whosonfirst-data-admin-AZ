@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.98694,41.0575,47.02694,41.0975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Segyutyu"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326767225,
-    "wof:lastmodified":1564125797,
+    "wof:lastmodified":1566603706,
     "wof:name":"Segyutyu",
     "wof:parent_id":85668565,
     "wof:placetype":"locality",

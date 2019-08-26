@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.82745,39.88399,46.86745,39.92399",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0622\u063a \u06af\u062f\u06cc\u06a9"
     ],
@@ -59,9 +63,7 @@
     ],
     "name:und_x_variant":[
         "K\u0259t\u00fck",
-        "Kyatuk",
-        "Kiatouk",
-        "\u041a\u044f\u0442\u0443\u043a"
+        "Kiatouk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1327470217,
-    "wof:lastmodified":1564125786,
+    "wof:lastmodified":1566603702,
     "wof:name":"Kyatuk",
     "wof:parent_id":85668657,
     "wof:placetype":"locality",

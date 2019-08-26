@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.22264,40.76486,46.26264,40.80486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u0624\u0646\u0648\u0644\u0644\u0648"
     ],
@@ -50,8 +54,7 @@
         "K\u00f6n\u00fcll\u00fc"
     ],
     "name:und_x_variant":[
-        "K\u00ebnyullyu",
-        "K\u00f6n\u00fcll\u00fc"
+        "K\u00ebnyullyu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1226580043,
-    "wof:lastmodified":1564126599,
+    "wof:lastmodified":1566604081,
     "wof:name":"Konullu",
     "wof:parent_id":85668233,
     "wof:placetype":"locality",

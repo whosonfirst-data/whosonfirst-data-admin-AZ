@@ -11,10 +11,14 @@
     "geom:longitude":48.16375,
     "gn:country":"AZ",
     "gn:fcode":"PPLA",
-    "gn:pop":13610,
+    "gn:population":13610,
     "iso:country":"AZ",
+    "lbl:bbox":"48.14375,40.75897,48.18375,40.79897",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0625\u0633\u0645\u0627\u0639\u064a\u0644\u064a"
     ],
@@ -87,7 +91,7 @@
     "name:tur_x_preferred":[
         "\u0130smay\u0131ll\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ismailly"
     ],
     "name:urd_x_preferred":[
@@ -118,7 +122,7 @@
     "wof:concordances":{
         "gn:id":586318,
         "gp:id":1949146,
-        "qs:id":81083,
+        "qs_pg:id":81083,
         "wd:id":"Q2148072",
         "wk:page":"\u0130smay\u0131ll\u0131"
     },
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":890436243,
-    "wof:lastmodified":1563281868,
+    "wof:lastmodified":1566604001,
     "wof:name":"\u0130smay\u0131ll\u0131",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

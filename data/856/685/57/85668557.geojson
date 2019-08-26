@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.384283,
     "lbl:longitude":46.793797,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.QX",
     "mps:latitude":41.392954,
     "mps:longitude":46.805894,
@@ -32,7 +33,7 @@
     "name:eng_x_preferred":[
         "Qax"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kakhskiy Rayon"
     ],
     "ne:abbrev":"",
@@ -109,9 +110,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,490",
     "statoids:area_mi":"575",
     "statoids:as_of_date":"1999-01-27",
@@ -137,7 +138,7 @@
         "gp:id":20070229,
         "hasc:id":"AZ.QX",
         "iso:id":"AZ-QAX",
-        "qs:id":1014923,
+        "qs_pg:id":1014923,
         "unlc:id":"AZ-QAX"
     },
     "wof:country":"AZ",
@@ -157,11 +158,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652928,
+    "wof:lastmodified":1566603768,
     "wof:name":"Qax",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":51161,
     "wof:population_rank":8,

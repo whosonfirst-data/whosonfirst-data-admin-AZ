@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.69907,39.22586,46.73907,39.26586",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Husejnu\u015fa\u011fy"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1293619535,
-    "wof:lastmodified":1564125991,
+    "wof:lastmodified":1566603798,
     "wof:name":"Suyunush-Aga",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

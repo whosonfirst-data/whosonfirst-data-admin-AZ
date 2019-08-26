@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.08885,40.38479,46.12885,40.42479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0634\u0627\u0647\u200c\u06a9\u0631\u0645"
     ],
@@ -44,9 +48,6 @@
         "\u10e8\u10d0\u10f0\u10e5\u10d0\u10e0\u10d0\u10db\u10d8"
     ],
     "name:msa_x_preferred":[
-        "\u015eahk\u0259r\u0259m"
-    ],
-    "name:und_x_variant":[
         "\u015eahk\u0259r\u0259m"
     ],
     "name:urd_x_preferred":[
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1293070639,
-    "wof:lastmodified":1564125938,
+    "wof:lastmodified":1566603775,
     "wof:name":"Shakhkerem",
     "wof:parent_id":85668199,
     "wof:placetype":"locality",

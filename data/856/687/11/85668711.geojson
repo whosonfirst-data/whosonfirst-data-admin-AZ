@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":39.757595,
     "lbl:longitude":46.751358,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.SS",
     "mps:latitude":39.757595,
     "mps:longitude":46.751358,
@@ -183,9 +184,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0443\u0448\u0456"
     ],
-    "name:unk_x_variant":[
-        "\u015eu\u015fa \u015e\u0259h\u0259ri"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u0648\u0634\u0627"
     ],
@@ -211,7 +209,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:area_km":"",
     "statoids:area_mi":"",
@@ -235,7 +233,7 @@
         "gn:id":409419,
         "gp:id":20070264,
         "hasc:id":"AZ.SS",
-        "qs:id":500533,
+        "qs_pg:id":500533,
         "wd:id":"Q158903",
         "wk:page":"Shusha"
     },
@@ -256,11 +254,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652925,
+    "wof:lastmodified":1566603765,
     "wof:name":"\u015eu\u015fa",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city",
     "wof:population":4200,
     "wof:population_rank":4,

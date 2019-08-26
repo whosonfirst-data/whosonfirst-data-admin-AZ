@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.37612,39.18458,48.41612,39.22458",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Devlyat-Ali-Beyli",
         "Dovlyatalybeyli",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226316067,
-    "wof:lastmodified":1537585247,
+    "wof:lastmodified":1566604116,
     "wof:name":"Dovlyatalybeyli",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

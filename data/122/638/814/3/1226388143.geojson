@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.70167,38.86694,48.74167,38.90694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Z\u00f6vl\u0259"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226388143,
-    "wof:lastmodified":1537585122,
+    "wof:lastmodified":1566604116,
     "wof:name":"Zovlya",
     "wof:parent_id":85668397,
     "wof:placetype":"locality",

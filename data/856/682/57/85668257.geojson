@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.072194,
     "lbl:longitude":46.97652,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.AM",
     "mps:latitude":40.055761,
     "mps:longitude":46.96077,
@@ -194,7 +195,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0433\u0434\u0430\u043c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Agdamskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -286,9 +287,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,150",
     "statoids:area_mi":"444",
     "statoids:as_of_date":"1999-01-27",
@@ -314,7 +315,7 @@
         "gp:id":20070258,
         "hasc:id":"AZ.AM",
         "iso:id":"AZ-AGM",
-        "qs:id":1189260,
+        "qs_pg:id":1189260,
         "unlc:id":"AZ-AGM",
         "wd:id":"Q201647",
         "wk:page":"Agdam District"
@@ -336,11 +337,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652926,
+    "wof:lastmodified":1566603766,
     "wof:name":"A\u011fdam",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":153292,
     "wof:population_rank":9,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.4461,41.39488,48.4861,41.43488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062e\u0648\u062c\u0628\u0627\u0644\u0627"
     ],
@@ -44,8 +48,7 @@
         "Xucbala"
     ],
     "name:und_x_variant":[
-        "Khuchbala",
-        "Xucbala"
+        "Khuchbala"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1310036731,
-    "wof:lastmodified":1564126352,
+    "wof:lastmodified":1566603953,
     "wof:name":"Xucbala",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.605207,
     "lbl:longitude":47.146037,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.YE",
     "mps:latitude":40.605207,
     "mps:longitude":47.146036,
@@ -169,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u0404\u0432\u043b\u0430\u0445\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yevlakhskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -258,8 +259,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
-    "src:population:date":"1999-01-27",
+    "src:lbl_centroid":"mapshaper",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"1999-01-27",
@@ -285,7 +286,7 @@
         "gp:id":20070253,
         "hasc:id":"AZ.YE",
         "iso:id":"AZ-YE",
-        "qs:id":128256,
+        "qs_pg:id":128256,
         "wd:id":"Q458524",
         "wk:page":"Yevlakh District"
     },
@@ -306,11 +307,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652926,
+    "wof:lastmodified":1566603765,
     "wof:name":"Yevlakh",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city",
     "wof:repo":"whosonfirst-data-admin-az",
     "wof:shortcode":"YE",

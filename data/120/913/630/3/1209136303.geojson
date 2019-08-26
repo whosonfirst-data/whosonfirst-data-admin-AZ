@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.88964,40.43293,47.92964,40.47293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "M\u00fcs\u00fcsl\u00fc"
     ],
@@ -43,9 +47,7 @@
     "name:und_x_variant":[
         "Myusyusly",
         "Myusyusli",
-        "Myusyuslyu",
-        "Myusyush",
-        "M\u00fcs\u00fcsl\u00fc"
+        "Myusyush"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1209136303,
-    "wof:lastmodified":1564126176,
+    "wof:lastmodified":1566603875,
     "wof:name":"Myusyuslyu",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

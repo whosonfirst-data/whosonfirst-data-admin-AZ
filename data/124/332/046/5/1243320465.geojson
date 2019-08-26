@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.58954,40.03515,46.62954,40.07515",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Dov\u015fanl\u0131"
     ],
@@ -62,7 +66,6 @@
         "\u0410\u0440\u0430\u0434\u0436\u0430\u0434\u0437\u043e\u0440"
     ],
     "name:und_x_variant":[
-        "Arrajadzor",
         "Arrach\u2019adzor",
         "Ara\u00e7adzor",
         "Arachadzor",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1243320465,
-    "wof:lastmodified":1564126481,
+    "wof:lastmodified":1566604028,
     "wof:name":"Dovsanli",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

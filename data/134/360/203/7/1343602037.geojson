@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"44.99503,39.52005,45.03503,39.56005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06cc\u0648\u062e\u0627\u0631\u06cc \u0622\u0631\u0627\u0644\u06cc\u0642"
     ],
@@ -48,7 +52,6 @@
         "Yuxar\u0131 Aral\u0131q"
     ],
     "name:und_x_variant":[
-        "Yuxar\u0131 Aral\u0131q",
         "Yukhary-Aralyk"
     ],
     "name:urd_x_preferred":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1343602037,
-    "wof:lastmodified":1564125893,
+    "wof:lastmodified":1566603747,
     "wof:name":"Yuxari Araliq",
     "wof:parent_id":85668667,
     "wof:placetype":"locality",

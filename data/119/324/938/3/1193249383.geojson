@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.04847,39.39164,47.08847,39.43164",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0686\u0631\u0647\u200c\u06a9\u0646"
     ],
@@ -51,8 +55,7 @@
     ],
     "name:und_x_variant":[
         "Charakan",
-        "Chereken",
-        "\u0427\u0435\u0440\u0435\u043a\u0435\u043d"
+        "Chereken"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1193249383,
-    "wof:lastmodified":1564126240,
+    "wof:lastmodified":1566603901,
     "wof:name":"Chereken",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

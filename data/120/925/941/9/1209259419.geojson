@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.64126,39.2733,45.68126,39.3133",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "K\u00f6yn\u00fck"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209259419,
-    "wof:lastmodified":1537585234,
+    "wof:lastmodified":1566603874,
     "wof:name":"Keynik",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

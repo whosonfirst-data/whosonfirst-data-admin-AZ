@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.11608,41.30065,48.15608,41.34065",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u015eahda\u011f"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209349497,
-    "wof:lastmodified":1564126205,
+    "wof:lastmodified":1566603886,
     "wof:name":"Shahdag",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

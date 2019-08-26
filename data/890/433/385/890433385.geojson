@@ -11,10 +11,14 @@
     "geom:longitude":48.64137,
     "gn:country":"AZ",
     "gn:fcode":"PPLA",
-    "gn:pop":29403,
+    "gn:population":29403,
     "iso:country":"AZ",
+    "lbl:bbox":"48.62137,40.61141,48.66137,40.65141",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0634\u0627\u0645\u0627\u062e\u064a"
     ],
@@ -132,7 +136,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043c\u0430\u0445\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shamakhy"
     ],
     "name:urd_x_preferred":[
@@ -163,7 +167,7 @@
     "wof:concordances":{
         "gn:id":585156,
         "gp:id":1950851,
-        "qs:id":125819,
+        "qs_pg:id":125819,
         "wd:id":"Q388224",
         "wk:page":"Shamakhi"
     },
@@ -180,7 +184,7 @@
         }
     ],
     "wof:id":890433385,
-    "wof:lastmodified":1563281878,
+    "wof:lastmodified":1566604004,
     "wof:name":"Shamakhi",
     "wof:parent_id":85668459,
     "wof:placetype":"locality",

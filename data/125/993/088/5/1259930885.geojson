@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.75914,38.80852,48.79914,38.84852",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Tatova"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259930885,
-    "wof:lastmodified":1537585526,
+    "wof:lastmodified":1566604061,
     "wof:name":"Tatova",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

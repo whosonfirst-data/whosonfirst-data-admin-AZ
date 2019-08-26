@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.55503,41.372,48.59503,41.412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Zizik"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1343994895,
-    "wof:lastmodified":1564125845,
+    "wof:lastmodified":1566603728,
     "wof:name":"Zizik",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

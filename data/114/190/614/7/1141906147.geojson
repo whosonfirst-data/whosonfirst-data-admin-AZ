@@ -10,10 +10,14 @@
     "geom:latitude":40.905278,
     "geom:longitude":45.556389,
     "iso:country":"AZ",
+    "lbl:bbox":"45.5363889,40.8852778,45.5763889,40.9252778",
     "lbl:latitude":40.905278,
     "lbl:longitude":45.556389,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0622\u063a\u062f\u0627\u0645"
     ],
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":1141906147,
-    "wof:lastmodified":1563282090,
+    "wof:lastmodified":1566604118,
     "wof:name":"Agdam",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

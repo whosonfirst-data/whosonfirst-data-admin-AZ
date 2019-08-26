@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.48395,39.40785,46.52395,39.44785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Teymur M\u00fcsk\u0259nli"
     ],
@@ -44,9 +48,6 @@
         "Teymurm\u00fcsk\u0259nli"
     ],
     "name:rus_x_preferred":[
-        "\u0422\u0435\u0439\u043c\u0443\u0440\u043c\u044e\u0441\u043a\u0430\u043d\u043b\u044b"
-    ],
-    "name:und_x_variant":[
         "\u0422\u0435\u0439\u043c\u0443\u0440\u043c\u044e\u0441\u043a\u0430\u043d\u043b\u044b"
     ],
     "src:geom":"geonames",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1259517673,
-    "wof:lastmodified":1564126561,
+    "wof:lastmodified":1566604063,
     "wof:name":"Teymurmyuskanly",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

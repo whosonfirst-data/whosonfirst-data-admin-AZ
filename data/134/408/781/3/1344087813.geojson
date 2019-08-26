@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.60763,39.41914,46.64763,39.45914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qaraki\u015fil\u0259r"
     ],
@@ -52,8 +56,7 @@
         "\u0414\u0437\u043e\u0440\u0430\u043f"
     ],
     "name:und_x_variant":[
-        "Karakishilyar",
-        "\u041a\u0430\u0440\u0430\u043a\u0438\u0448\u0438\u043b\u044f\u0440"
+        "Karakishilyar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1344087813,
-    "wof:lastmodified":1564125858,
+    "wof:lastmodified":1566603733,
     "wof:name":"Karakishlag",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

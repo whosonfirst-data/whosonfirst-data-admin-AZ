@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.28729,40.77613,48.32729,40.81613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qaraqaya"
     ],
@@ -32,8 +36,7 @@
         "Qaraqaya"
     ],
     "name:und_x_variant":[
-        "Karakaya",
-        "Qaraqaya"
+        "Karakaya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1277029713,
-    "wof:lastmodified":1564126088,
+    "wof:lastmodified":1566603840,
     "wof:name":"Qaraqaya",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

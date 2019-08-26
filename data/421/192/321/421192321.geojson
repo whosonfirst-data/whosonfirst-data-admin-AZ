@@ -10,8 +10,12 @@
     "geom:latitude":40.70972,
     "geom:longitude":47.39472,
     "iso:country":"AZ",
+    "lbl:bbox":"47.37472,40.68972,47.41472,40.72972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Sheki"
@@ -226,7 +230,7 @@
     "name:tur_x_variant":[
         "Sheki"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shekili"
     ],
     "name:vec_x_preferred":[
@@ -280,7 +284,7 @@
     "wof:concordances":{
         "gn:id":585032,
         "gp:id":1952009,
-        "qs:id":1168207,
+        "qs_pg:id":1168207,
         "wd:id":"Q4522513"
     },
     "wof:country":"AZ",
@@ -296,7 +300,7 @@
         }
     ],
     "wof:id":421192321,
-    "wof:lastmodified":1563281825,
+    "wof:lastmodified":1566603994,
     "wof:name":"Sheki",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

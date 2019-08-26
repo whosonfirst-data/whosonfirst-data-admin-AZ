@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.959,40.87959,48.999,40.91959",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0627\u062e\u06cc\u0634\u200c\u0644\u06cc"
     ],
@@ -50,9 +54,7 @@
         "Bakhshyly"
     ],
     "name:und_x_variant":[
-        "Bakhshily",
-        "Bakhshyly",
-        "Bax\u0131\u015fl\u0131"
+        "Bakhshily"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":1326567059,
-    "wof:lastmodified":1564125767,
+    "wof:lastmodified":1566603693,
     "wof:name":"Bakhshyly",
     "wof:parent_id":85668485,
     "wof:placetype":"locality",

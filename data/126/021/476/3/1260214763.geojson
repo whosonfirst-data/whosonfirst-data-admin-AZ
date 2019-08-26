@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.01665,40.86245,46.05665,40.90245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "D\u0259ll\u0259r C\u0259yir"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1260214763,
-    "wof:lastmodified":1537585459,
+    "wof:lastmodified":1566603922,
     "wof:name":"Dollyar-Dzhagir",
     "wof:parent_id":85668233,
     "wof:placetype":"locality",

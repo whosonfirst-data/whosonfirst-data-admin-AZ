@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.104741,
     "lbl:longitude":46.200753,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.KA",
     "mps:latitude":40.095626,
     "mps:longitude":46.180426,
@@ -40,7 +41,7 @@
         "Kalbajar",
         "Kelbajar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kel\u2019badzharskiy Rayon"
     ],
     "ne:abbrev":"",
@@ -117,9 +118,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"3,050",
     "statoids:area_mi":"1,178",
     "statoids:as_of_date":"1999-01-27",
@@ -144,7 +145,7 @@
         "gp:id":20070273,
         "hasc:id":"AZ.KA",
         "iso:id":"AZ-KAL",
-        "qs:id":245251
+        "qs_pg:id":245251
     },
     "wof:country":"AZ",
     "wof:geomhash":"3b64299c7c423fd4862f495e23d3cf5a",
@@ -163,11 +164,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652927,
+    "wof:lastmodified":1566603767,
     "wof:name":"K\u0259lb\u0259c\u0259r",
     "wof:parent_id":1108808607,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":66211,
     "wof:population_rank":8,

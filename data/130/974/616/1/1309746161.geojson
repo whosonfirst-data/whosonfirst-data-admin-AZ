@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.64917,40.89083,45.68917,40.93083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0627\u06cc\u0631\u0627\u0645\u0644\u06cc"
     ],
@@ -54,8 +58,7 @@
         "Bayraml\u0131"
     ],
     "name:und_x_variant":[
-        "Bayramly",
-        "Bayraml\u0131"
+        "Bayramly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1309746161,
-    "wof:lastmodified":1564126423,
+    "wof:lastmodified":1566603990,
     "wof:name":"Bayramli",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

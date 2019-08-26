@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.54182,40.77751,48.58182,40.81751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Avax\u0131l"
     ],
@@ -47,8 +51,7 @@
         "Avax\u0131l"
     ],
     "name:und_x_variant":[
-        "Avakhyl",
-        "Avax\u0131l"
+        "Avakhyl"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1225880335,
-    "wof:lastmodified":1564126617,
+    "wof:lastmodified":1566604091,
     "wof:name":"Avaxil",
     "wof:parent_id":85668459,
     "wof:placetype":"locality",

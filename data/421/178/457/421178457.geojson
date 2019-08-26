@@ -10,8 +10,12 @@
     "geom:latitude":40.58694,
     "geom:longitude":46.31583,
     "iso:country":"AZ",
+    "lbl:bbox":"46.29583,40.56694,46.33583,40.60694",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0648\u064a\u0643\u0648\u0644"
@@ -114,7 +118,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0439\u0433\u0435\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Elenendorf"
     ],
     "name:urd_x_preferred":[
@@ -153,7 +157,7 @@
     "wof:concordances":{
         "gn:id":584716,
         "gp:id":1951552,
-        "qs:id":125804,
+        "qs_pg:id":125804,
         "wd:id":"Q1026631",
         "wk:page":"Goygol (city)"
     },
@@ -170,7 +174,7 @@
         }
     ],
     "wof:id":421178457,
-    "wof:lastmodified":1563281857,
+    "wof:lastmodified":1566603999,
     "wof:name":"Xanlar",
     "wof:parent_id":85668211,
     "wof:placetype":"locality",

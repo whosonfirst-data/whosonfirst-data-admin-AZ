@@ -10,8 +10,12 @@
     "geom:latitude":40.50667,
     "geom:longitude":46.825,
     "iso:country":"AZ",
+    "lbl:bbox":"46.805,40.48667,46.845,40.52667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0646\u0641\u062a\u0644\u0627\u0646"
@@ -226,7 +230,7 @@
     "wof:concordances":{
         "gn:id":585400,
         "gp:id":1950360,
-        "qs:id":125824,
+        "qs_pg:id":125824,
         "wd:id":"Q152825",
         "wk:page":"Naftalan, Azerbaijan"
     },
@@ -243,7 +247,7 @@
         }
     ],
     "wof:id":421178465,
-    "wof:lastmodified":1563281854,
+    "wof:lastmodified":1566603998,
     "wof:name":"Naftalan",
     "wof:parent_id":85668693,
     "wof:placetype":"locality",

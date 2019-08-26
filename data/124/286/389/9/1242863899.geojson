@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"49.60111,40.43639,49.64111,40.47639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u00dc\u00e7t\u0259p\u0259"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242863899,
-    "wof:lastmodified":1537585515,
+    "wof:lastmodified":1566604015,
     "wof:name":"Uchepe",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

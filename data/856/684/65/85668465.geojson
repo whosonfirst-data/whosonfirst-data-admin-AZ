@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.582262,
     "lbl:longitude":49.66921,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.SQ",
     "mps:latitude":40.583194,
     "mps:longitude":49.610767,
@@ -248,9 +249,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043c\u0433\u0430\u0457\u0442"
     ],
-    "name:unk_x_variant":[
-        "Sumqayit"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0645\u0642\u0627\u06cc\u06cc\u062a"
     ],
@@ -343,9 +341,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"80",
     "statoids:area_mi":"31",
     "statoids:as_of_date":"1999-01-27",
@@ -371,7 +369,7 @@
         "gp:id":20070247,
         "hasc:id":"AZ.SQ",
         "iso:id":"AZ-SM",
-        "qs:id":1189262,
+        "qs_pg:id":1189262,
         "unlc:id":"AZ-SM",
         "wd:id":"Q179833",
         "wk:page":"Sumqayit"
@@ -393,11 +391,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652929,
+    "wof:lastmodified":1566603771,
     "wof:name":"Sumqay\u0131t",
     "wof:parent_id":1108808621,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city",
     "wof:population":283184,
     "wof:population_rank":10,

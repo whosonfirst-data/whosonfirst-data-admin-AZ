@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":38.749163,
     "lbl:longitude":48.839907,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.LA",
     "mps:latitude":38.755228,
     "mps:longitude":48.843999,
@@ -228,8 +229,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
-    "src:population:date":"1999-01-27",
+    "src:lbl_centroid":"mapshaper",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"1999-01-27",
@@ -253,7 +254,7 @@
         "gp:id":20070263,
         "hasc:id":"AZ.LA",
         "iso:id":"AZ-LA",
-        "qs:id":245193
+        "qs_pg:id":245193
     },
     "wof:country":"AZ",
     "wof:geomhash":"d59c3d319d901d1d7da773abaf5a082a",
@@ -272,11 +273,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652925,
+    "wof:lastmodified":1566603764,
     "wof:name":"Lankaran",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city",
     "wof:repo":"whosonfirst-data-admin-az",
     "wof:shortcode":"LA",

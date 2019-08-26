@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.951019,
     "lbl:longitude":47.826755,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.QA",
     "mps:latitude":40.936476,
     "mps:longitude":47.781608,
@@ -32,7 +33,7 @@
     "name:eng_x_preferred":[
         "Qabala"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kutkashenskiy Rayon"
     ],
     "ne:abbrev":"",
@@ -109,9 +110,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,550",
     "statoids:area_mi":"598",
     "statoids:as_of_date":"1999-01-27",
@@ -136,7 +137,7 @@
         "gp:id":20070235,
         "hasc:id":"AZ.QA",
         "iso:id":"AZ-QAB",
-        "qs:id":1061835
+        "qs_pg:id":1061835
     },
     "wof:country":"AZ",
     "wof:geomhash":"5045c2d6674b9fb7c7c51c76ab13e32e",
@@ -155,11 +156,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652928,
+    "wof:lastmodified":1566603769,
     "wof:name":"Q\u0259b\u0259l\u0259",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":82803,
     "wof:population_rank":8,

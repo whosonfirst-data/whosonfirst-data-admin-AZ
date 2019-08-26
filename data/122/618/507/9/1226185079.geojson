@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.674,40.82051,47.714,40.86051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u015e\u0259fili"
     ],
@@ -47,9 +51,7 @@
         "Shafily"
     ],
     "name:und_x_variant":[
-        "Shafili",
-        "Shafily",
-        "\u015e\u0259fili"
+        "Shafili"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1226185079,
-    "wof:lastmodified":1564126589,
+    "wof:lastmodified":1566604076,
     "wof:name":"Shafily",
     "wof:parent_id":85668541,
     "wof:placetype":"locality",

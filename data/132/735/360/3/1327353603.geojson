@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.80706,38.43365,48.84706,38.47365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Gap\u0131\u00e7\u0131m\u0259hl\u0259"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327353603,
-    "wof:lastmodified":1537585526,
+    "wof:lastmodified":1566603705,
     "wof:name":"Kapchimakhla",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

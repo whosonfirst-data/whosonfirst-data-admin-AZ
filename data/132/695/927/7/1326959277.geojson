@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.6856,40.76586,48.7256,40.80586",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06cc\u0626\u0646\u06cc \u0642\u06cc\u0632\u0645\u06cc\u062f\u0627\u0646"
     ],
@@ -45,8 +49,7 @@
     ],
     "name:und_x_variant":[
         "Novo-Astrakhanovka",
-        "Novoastrakhanka",
-        "Novoastraxanka"
+        "Novoastrakhanka"
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0646\u06cc \u0642\u06cc\u0632\u0645\u06d2 \u062f\u0627\u0646"
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1326959277,
-    "wof:lastmodified":1564125779,
+    "wof:lastmodified":1566603699,
     "wof:name":"Yeni Qizmeydan",
     "wof:parent_id":85668459,
     "wof:placetype":"locality",

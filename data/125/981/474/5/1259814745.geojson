@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.61642,39.08722,46.65642,39.12722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Genlik"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1259814745,
-    "wof:lastmodified":1564126572,
+    "wof:lastmodified":1566604068,
     "wof:name":"Genlik",
     "wof:parent_id":85668659,
     "wof:placetype":"locality",

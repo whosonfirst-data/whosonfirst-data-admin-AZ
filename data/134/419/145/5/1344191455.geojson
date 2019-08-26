@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.13234,38.86094,48.17234,38.90094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Garsavan"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1344191455,
-    "wof:lastmodified":1537585231,
+    "wof:lastmodified":1566603748,
     "wof:name":"Garsavan",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

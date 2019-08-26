@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.74467,38.54377,48.78467,38.58377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0634\u0627\u0645\u0647\u200c\u062a\u0648\u06a9"
     ],
@@ -50,9 +54,7 @@
         "Shematuk"
     ],
     "name:und_x_variant":[
-        "Shamatuk",
-        "Shematuk",
-        "\u015e\u0259m\u0259t\u00fck"
+        "Shamatuk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":1293375633,
-    "wof:lastmodified":1564125952,
+    "wof:lastmodified":1566603781,
     "wof:name":"Shematuk",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.27937,40.03433,47.31937,40.07433",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0631\u0646\u062c\u0628\u0631\u0644\u0631"
     ],
@@ -53,8 +57,7 @@
         "Randzhbarlyar"
     ],
     "name:und_x_variant":[
-        "Randzhbarlar",
-        "Randzhbarlyar"
+        "Randzhbarlar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1225857813,
-    "wof:lastmodified":1564126673,
+    "wof:lastmodified":1566604117,
     "wof:name":"Randzhbarlyar",
     "wof:parent_id":85668519,
     "wof:placetype":"locality",

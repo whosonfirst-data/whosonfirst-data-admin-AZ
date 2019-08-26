@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.81904,40.72884,47.85904,40.76884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Gideyli"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226600133,
-    "wof:lastmodified":1537585541,
+    "wof:lastmodified":1566604080,
     "wof:name":"Gideyli",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

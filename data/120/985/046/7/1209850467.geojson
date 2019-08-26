@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.66295,41.56051,48.70295,41.60051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "H\u01dds\u01ddnqala"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209850467,
-    "wof:lastmodified":1537585438,
+    "wof:lastmodified":1566603872,
     "wof:name":"Gasankala",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

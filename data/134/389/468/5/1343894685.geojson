@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.10964,40.68673,47.14964,40.72673",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Marz\u0131l\u0131"
     ],
@@ -45,8 +49,7 @@
     ],
     "name:und_x_variant":[
         "Marzygi",
-        "Marzygy",
-        "Marz\u0131\u011f\u0131"
+        "Marzygy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1343894685,
-    "wof:lastmodified":1564125917,
+    "wof:lastmodified":1566603758,
     "wof:name":"Marzili",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

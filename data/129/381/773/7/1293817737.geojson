@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.80218,40.73204,45.84218,40.77204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Atab\u0259y"
     ],
@@ -53,8 +57,7 @@
         "Atabey"
     ],
     "name:und_x_variant":[
-        "Atabek",
-        "Atab\u0259y"
+        "Atabek"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1293817737,
-    "wof:lastmodified":1564126037,
+    "wof:lastmodified":1566603816,
     "wof:name":"Atabey",
     "wof:parent_id":85668233,
     "wof:placetype":"locality",

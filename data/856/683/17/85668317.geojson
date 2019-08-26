@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":39.53834,
     "lbl:longitude":48.45915,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.BS",
     "mps:latitude":39.496263,
     "mps:longitude":48.434393,
@@ -101,7 +102,7 @@
     "name:tur_x_preferred":[
         "Bilesuvar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pushkinskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -184,9 +185,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,400",
     "statoids:area_mi":"541",
     "statoids:as_of_date":"1999-01-27",
@@ -211,7 +212,7 @@
         "gp:id":20070242,
         "hasc:id":"AZ.BS",
         "iso:id":"AZ-BIL",
-        "qs:id":1092313
+        "qs_pg:id":1092313
     },
     "wof:country":"AZ",
     "wof:geomhash":"effe44b0655b1903fe835bc4ec852b17",
@@ -230,11 +231,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652930,
+    "wof:lastmodified":1566603772,
     "wof:name":"Bil\u0259suvar",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":74906,
     "wof:population_rank":8,

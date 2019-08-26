@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.64913,40.76973,45.68913,40.80973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0635\u0627\u062f\u06cc\u0642\u0644\u06cc"
     ],
@@ -44,8 +48,7 @@
         "Sad\u0131ql\u0131"
     ],
     "name:und_x_variant":[
-        "Sadykhly",
-        "Sad\u0131ql\u0131"
+        "Sadykhly"
     ],
     "name:urd_x_preferred":[
         "\u0635\u062f\u06cc\u0642\u0644\u06cc"
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1226682695,
-    "wof:lastmodified":1564126606,
+    "wof:lastmodified":1566604084,
     "wof:name":"Sadiqli",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

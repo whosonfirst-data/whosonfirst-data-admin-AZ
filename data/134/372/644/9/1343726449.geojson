@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.80429,40.58331,46.84429,40.62331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Cinli Zeynall\u0131"
     ],
@@ -42,8 +46,7 @@
     ],
     "name:und_x_variant":[
         "Zeinal-Dzhinly",
-        "Dzhinli-Zeynally",
-        "Cinli Zeynall\u0131"
+        "Dzhinli-Zeynally"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1343726449,
-    "wof:lastmodified":1564125921,
+    "wof:lastmodified":1566603760,
     "wof:name":"Cinli Zeynalli",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

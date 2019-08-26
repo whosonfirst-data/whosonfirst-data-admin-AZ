@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.75302,39.87376,48.79302,39.91376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "N\u0259simi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344191525,
-    "wof:lastmodified":1537585207,
+    "wof:lastmodified":1566603749,
     "wof:name":"Khersonovka",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

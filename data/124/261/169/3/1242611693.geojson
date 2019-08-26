@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.65345,39.73108,46.69345,39.77108",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Zamanp\u0259y\u0259si"
     ],
@@ -41,8 +45,7 @@
         "\u0417\u0430\u043c\u0430\u043d\u043f\u0435\u044f\u0441\u0438"
     ],
     "name:und_x_variant":[
-        "Zaman-Payasy",
-        "\u0417\u0430\u043c\u0430\u043d\u043f\u0435\u044f\u0441\u0438"
+        "Zaman-Payasy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1242611693,
-    "wof:lastmodified":1564126458,
+    "wof:lastmodified":1566604018,
     "wof:name":"Zamanpeyasi",
     "wof:parent_id":85668643,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":39.823652,
     "lbl:longitude":48.456509,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.ST",
     "mps:latitude":39.784305,
     "mps:longitude":48.489127,
@@ -44,7 +45,7 @@
     "name:swe_x_preferred":[
         "Saatly"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saatly Rayonu"
     ],
     "ne:abbrev":"",
@@ -121,9 +122,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,180",
     "statoids:area_mi":"456",
     "statoids:as_of_date":"1999-01-27",
@@ -150,7 +151,7 @@
         "gp:id":20070243,
         "hasc:id":"AZ.ST",
         "iso:id":"AZ-SAT",
-        "qs:id":211811,
+        "qs_pg:id":211811,
         "unlc:id":"AZ-SAT"
     },
     "wof:country":"AZ",
@@ -170,11 +171,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652929,
+    "wof:lastmodified":1566603770,
     "wof:name":"Saatl\u0131",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":82702,
     "wof:population_rank":8,

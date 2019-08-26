@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.69642,39.38482,46.73642,39.42482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Mashanly"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259566707,
-    "wof:lastmodified":1537585185,
+    "wof:lastmodified":1566604062,
     "wof:name":"Mashanly",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

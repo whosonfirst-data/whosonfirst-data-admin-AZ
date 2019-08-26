@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":39.346887,
     "lbl:longitude":46.618472,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.QD",
     "mps:latitude":39.342742,
     "mps:longitude":46.603619,
@@ -32,7 +33,7 @@
     "name:eng_x_preferred":[
         "Qubadli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kubatlinskiy Rayon"
     ],
     "ne:abbrev":"",
@@ -109,9 +110,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"800",
     "statoids:area_mi":"309",
     "statoids:as_of_date":"1999-01-27",
@@ -137,7 +138,7 @@
         "gp:id":20070233,
         "hasc:id":"AZ.QD",
         "iso:id":"AZ-QBI",
-        "qs:id":1172848,
+        "qs_pg:id":1172848,
         "unlc:id":"AZ-QBI"
     },
     "wof:country":"AZ",
@@ -157,11 +158,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652924,
+    "wof:lastmodified":1566603763,
     "wof:name":"Qubadli",
     "wof:parent_id":1108808607,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":32949,
     "wof:population_rank":7,

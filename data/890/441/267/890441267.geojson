@@ -11,10 +11,14 @@
     "geom:longitude":46.03833,
     "gn:country":"AZ",
     "gn:fcode":"PPLA",
-    "gn:pop":8400,
+    "gn:population":8400,
     "iso:country":"AZ",
+    "lbl:bbox":"46.01833,40.08667,46.05833,40.12667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u0628\u062c\u0631"
     ],
@@ -123,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0432\u0430\u0447\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00e4lb\u00e4j\u00e4r"
     ],
     "name:urd_x_preferred":[
@@ -147,7 +151,7 @@
     "wof:concordances":{
         "gn:id":586268,
         "gp:id":1949207,
-        "qs:id":275101,
+        "qs_pg:id":275101,
         "wd:id":"Q1643630"
     },
     "wof:country":"AZ",
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":890441267,
-    "wof:lastmodified":1563281864,
+    "wof:lastmodified":1566604000,
     "wof:name":"Kerbakhiar",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.790869,
     "lbl:longitude":46.996255,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.MI",
     "mps:latitude":40.750698,
     "mps:longitude":46.973666,
@@ -32,7 +33,7 @@
     "name:eng_x_preferred":[
         "Mingacevir"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mingacevir Sahari"
     ],
     "ne:abbrev":"",
@@ -109,9 +110,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"130",
     "statoids:area_mi":"50",
     "statoids:as_of_date":"1999-01-27",
@@ -136,7 +137,7 @@
         "gp:id":20070240,
         "hasc:id":"AZ.MI",
         "iso:id":"AZ-MI",
-        "qs:id":1015437
+        "qs_pg:id":1015437
     },
     "wof:country":"AZ",
     "wof:geomhash":"e68786e02076af9e9b5abe347f5c1dc1",
@@ -155,11 +156,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652928,
+    "wof:lastmodified":1566603768,
     "wof:name":"Ming\u0259\u00e7evir",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city",
     "wof:population":94039,
     "wof:population_rank":8,

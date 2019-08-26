@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.88019,39.38076,46.92019,39.42076",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qalac\u0131q"
     ],
@@ -40,8 +44,7 @@
     "name:und_x_variant":[
         "Kaladzhyh",
         "Kaladzhykh",
-        "Kaladzhyk",
-        "\u041a\u0430\u043b\u0430\u0434\u0436\u044b\u043a"
+        "Kaladzhyk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1209293411,
-    "wof:lastmodified":1537585225,
+    "wof:lastmodified":1566603888,
     "wof:name":"Qalaciq",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

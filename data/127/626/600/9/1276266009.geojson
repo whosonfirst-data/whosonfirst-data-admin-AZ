@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.55916,41.6387,48.59916,41.6787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "\u018fnykh-Kishlag"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1276266009,
-    "wof:lastmodified":1564126055,
+    "wof:lastmodified":1566603825,
     "wof:name":"Anykh-Kishlag",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

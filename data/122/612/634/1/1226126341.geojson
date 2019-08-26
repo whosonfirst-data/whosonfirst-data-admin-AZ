@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.24379,41.66341,46.28379,41.70341",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ava_x_preferred":[
         "\u041a\u044c\u043e\u0433I\u0430\u0431-\u0431\u0438\u043d\u0430"
     ],
@@ -50,8 +54,7 @@
         "Ac\u0131l\u0131qbin\u0259"
     ],
     "name:und_x_variant":[
-        "Adzhylygbina",
-        "Ac\u0131l\u0131qbin\u0259"
+        "Adzhylygbina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1226126341,
-    "wof:lastmodified":1564126646,
+    "wof:lastmodified":1566604106,
     "wof:name":"Adzhylykhbina",
     "wof:parent_id":85668531,
     "wof:placetype":"locality",

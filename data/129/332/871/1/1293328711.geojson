@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.22259,41.19377,48.26259,41.23377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qr\u0131z"
     ],
@@ -59,8 +63,7 @@
         "Kriz",
         "Krits",
         "Kyryz",
-        "Giriz",
-        "Qr\u0131z"
+        "Giriz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1293328711,
-    "wof:lastmodified":1564126005,
+    "wof:lastmodified":1566603804,
     "wof:name":"Qriz",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

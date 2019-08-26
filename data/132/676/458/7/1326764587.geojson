@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.74239,40.47139,48.78239,40.51139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062a\u0633\u06cc"
     ],
@@ -50,8 +54,7 @@
         "Tesi"
     ],
     "name:und_x_variant":[
-        "Tasy",
-        "T\u0259si"
+        "Tasy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1326764587,
-    "wof:lastmodified":1564125799,
+    "wof:lastmodified":1566603707,
     "wof:name":"Tesi",
     "wof:parent_id":85668459,
     "wof:placetype":"locality",

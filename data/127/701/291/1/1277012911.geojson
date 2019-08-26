@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.76671,41.48667,48.80671,41.52667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "M\u00fc\u015fviq"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1277012911,
-    "wof:lastmodified":1537585514,
+    "wof:lastmodified":1566603820,
     "wof:name":"Zaliyevka",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

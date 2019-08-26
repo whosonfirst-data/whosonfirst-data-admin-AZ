@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.71954,40.463,46.75954,40.503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Hacall\u0131"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1242641825,
-    "wof:lastmodified":1564126501,
+    "wof:lastmodified":1566604037,
     "wof:name":"Hacalli",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

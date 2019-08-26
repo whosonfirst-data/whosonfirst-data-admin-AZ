@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.38752,40.48169,48.42752,40.52169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aratkend",
         "\u0130kinci Aratk\u0259nd"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310398235,
-    "wof:lastmodified":1537585490,
+    "wof:lastmodified":1566603947,
     "wof:name":"Aratkend Vtoroy",
     "wof:parent_id":85668289,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.49427,40.6582,45.53427,40.6982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "G\u00f6y\u0259baxan"
     ],
@@ -44,9 +48,7 @@
         "Gyazabakhan"
     ],
     "name:und_x_variant":[
-        "G\u00ebyabakhan",
-        "Gyazabakhan",
-        "G\u00f6y\u0259baxan"
+        "G\u00ebyabakhan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":1193167627,
-    "wof:lastmodified":1564126255,
+    "wof:lastmodified":1566603908,
     "wof:name":"Gyazabakhan",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

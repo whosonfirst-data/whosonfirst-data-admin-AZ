@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.60101,38.65482,48.64101,38.69482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gylglov",
         "Gel\u2019glov",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243208665,
-    "wof:lastmodified":1537585231,
+    "wof:lastmodified":1566604040,
     "wof:name":"Qilqlov",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

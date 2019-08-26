@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.54993,39.39737,48.58993,39.43737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u0391\u03c3\u03ac\u03b3\u03ba\u03b9 \u03a4\u03c3\u03b9\u03bf\u03c5\u03c1\u03b5\u03bb\u03af"
     ],
@@ -35,8 +39,7 @@
         "A\u015fa\u011f\u0131 C\u00fcr\u0259li"
     ],
     "name:und_x_variant":[
-        "Ashagy Dzhurali",
-        "A\u015fa\u011f\u0131 C\u00fcr\u0259li"
+        "Ashagy Dzhurali"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1309992317,
-    "wof:lastmodified":1564126407,
+    "wof:lastmodified":1566603984,
     "wof:name":"Nizhniy Dzhurali",
     "wof:parent_id":85668317,
     "wof:placetype":"locality",

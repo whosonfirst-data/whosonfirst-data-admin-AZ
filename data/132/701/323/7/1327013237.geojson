@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.20413,39.39598,47.24413,39.43598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Nuzg\u0259r"
     ],
@@ -45,8 +49,7 @@
     ],
     "name:und_x_variant":[
         "Nuzger",
-        "Nuzgyar",
-        "\u041d\u0443\u0437\u0433\u0435\u0440"
+        "Nuzgyar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1327013237,
-    "wof:lastmodified":1564125734,
+    "wof:lastmodified":1566603679,
     "wof:name":"Nuzgyar",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

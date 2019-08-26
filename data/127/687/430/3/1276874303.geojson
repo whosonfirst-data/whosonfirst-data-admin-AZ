@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.81406,40.02123,46.85406,40.06123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Xa\u00e7\u0131nd\u0259rb\u0259tli"
     ],
@@ -42,7 +46,6 @@
         "\u0414\u0436\u0438\u043d\u043b\u0438"
     ],
     "name:und_x_variant":[
-        "\u0425\u0430\u0447\u0438\u043d\u0434\u043e\u0440\u0431\u0430\u0442\u043b\u0438",
         "Dzhinli",
         "Khachindorbatly"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1276874303,
-    "wof:lastmodified":1537585402,
+    "wof:lastmodified":1566603827,
     "wof:name":"Khachindorbatli",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

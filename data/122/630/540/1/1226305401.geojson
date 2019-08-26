@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.40751,40.70747,45.44751,40.74747",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qarav\u0259ll\u0259r"
     ],
@@ -41,7 +45,6 @@
         "Qarav\u0259lil\u0259r"
     ],
     "name:und_x_variant":[
-        "Qarav\u0259lil\u0259r",
         "Karavallyar"
     ],
     "src:geom":"geonames",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1226305401,
-    "wof:lastmodified":1564126661,
+    "wof:lastmodified":1566604112,
     "wof:name":"Karavallyar",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.58211,40.9616,47.62211,41.0016",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Xa\u00e7mazq\u0131\u015flaq"
     ],
@@ -42,8 +46,7 @@
     ],
     "name:und_x_variant":[
         "Khachmaz-Kyshlag",
-        "Khachmaskyshlak",
-        "Xa\u00e7mazq\u0131\u015flaq"
+        "Khachmaskyshlak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1327472763,
-    "wof:lastmodified":1564125786,
+    "wof:lastmodified":1566603702,
     "wof:name":"Xacmazqislaq",
     "wof:parent_id":85668549,
     "wof:placetype":"locality",

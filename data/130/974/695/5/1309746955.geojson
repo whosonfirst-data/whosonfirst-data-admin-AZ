@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.99482,39.55815,47.03482,39.59815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062c\u06cc\u0631\u0627\u0642\u0648\u0632"
     ],
@@ -71,8 +75,7 @@
         "Chirakuz",
         "Dgrakous",
         "Chiranuz",
-        "Jrakuys",
-        "\u0427\u0438\u0440\u0430\u043a\u0443\u0437"
+        "Jrakuys"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1309746955,
-    "wof:lastmodified":1564126423,
+    "wof:lastmodified":1566603990,
     "wof:name":"Ciraquz",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

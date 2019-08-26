@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.02009,40.01587,46.06009,40.05587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u0631\u062a\u0627 \u0642\u0627\u0631\u0627\u0686\u0627\u0646\u0644\u06cc"
     ],
@@ -47,7 +51,6 @@
         "\u041e\u0440\u0442\u0430-\u041a\u0430\u0440\u0430\u0448\u0430\u043d\u043b\u044b"
     ],
     "name:und_x_variant":[
-        "Orta Qara\u00e7anl\u0131",
         "Orta-Karashanly"
     ],
     "src:geom":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1260047037,
-    "wof:lastmodified":1564126291,
+    "wof:lastmodified":1566603924,
     "wof:name":"Orta Qaracanli",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.08346,39.67812,48.12346,39.71812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Aranl\u0131"
     ],
     "name:ceb_x_preferred":[
-        "Poltavka"
-    ],
-    "name:und_x_variant":[
         "Poltavka"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1360242843,
-    "wof:lastmodified":1564126372,
+    "wof:lastmodified":1566603962,
     "wof:name":"Aranli",
     "wof:parent_id":85668365,
     "wof:placetype":"locality",

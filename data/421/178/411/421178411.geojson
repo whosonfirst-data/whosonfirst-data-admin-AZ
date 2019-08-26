@@ -10,8 +10,12 @@
     "geom:latitude":38.45598,
     "geom:longitude":48.87498,
     "iso:country":"AZ",
+    "lbl:bbox":"48.85498,38.43598,48.89498,38.47598",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0622\u0633\u062a\u0627\u0631\u0627"
@@ -133,7 +137,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0441\u0442\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Azerbaydzhanskaya Astara"
     ],
     "name:urd_x_preferred":[
@@ -172,7 +176,7 @@
     "wof:concordances":{
         "gn:id":148445,
         "gp:id":1951869,
-        "qs:id":122437,
+        "qs_pg:id":122437,
         "wd:id":"Q266896",
         "wk:page":"Astara, Azerbaijan"
     },
@@ -186,7 +190,7 @@
         }
     ],
     "wof:id":421178411,
-    "wof:lastmodified":1563281855,
+    "wof:lastmodified":1566603999,
     "wof:name":"Astara",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

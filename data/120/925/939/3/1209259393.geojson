@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"44.98957,39.53969,45.02957,39.57969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Sarxanl\u0131"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209259393,
-    "wof:lastmodified":1537585159,
+    "wof:lastmodified":1566603873,
     "wof:name":"Sarxanli",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

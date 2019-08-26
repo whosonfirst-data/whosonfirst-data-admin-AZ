@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.67559,
     "lbl:longitude":46.36376,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.GA",
     "mps:latitude":40.676393,
     "mps:longitude":46.353908,
@@ -36,9 +37,6 @@
         "G\u01ddnc\u01dd"
     ],
     "name:nob_x_preferred":[
-        "G\u01ddnc\u01dd"
-    ],
-    "name:unk_x_variant":[
         "G\u01ddnc\u01dd"
     ],
     "ne:abbrev":"",
@@ -115,9 +113,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"110",
     "statoids:area_mi":"42",
     "statoids:as_of_date":"1999-01-27",
@@ -142,7 +140,7 @@
         "gp:id":20070231,
         "hasc:id":"AZ.GA",
         "iso:id":"AZ-GA",
-        "qs:id":420489
+        "qs_pg:id":420489
     },
     "wof:country":"AZ",
     "wof:geomhash":"e8656e09464062aabea981378dae34c5",
@@ -161,11 +159,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652927,
+    "wof:lastmodified":1566603767,
     "wof:name":"G\u0259nc\u0259",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city",
     "wof:population":299342,
     "wof:population_rank":10,

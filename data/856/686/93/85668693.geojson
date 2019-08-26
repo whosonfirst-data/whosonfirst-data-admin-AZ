@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.507104,
     "lbl:longitude":46.827298,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.NA",
     "mps:latitude":40.507104,
     "mps:longitude":46.827298,
@@ -176,7 +177,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0440\u0430\u043d\u0431\u043e\u0439\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qasym Ismayylov Rayonu"
     ],
     "name:urd_x_preferred":[
@@ -207,9 +208,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"2",
     "statoids:area_mi":"1",
     "statoids:as_of_date":"1999-01-27",
@@ -235,7 +236,7 @@
         "gp:id":20070261,
         "hasc:id":"AZ.NA",
         "iso:id":"AZ-NA",
-        "qs:id":49485,
+        "qs_pg:id":49485,
         "unlc:id":"AZ-NA",
         "wd:id":"Q330843",
         "wk:page":"Goranboy District"
@@ -257,11 +258,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652922,
+    "wof:lastmodified":1566603762,
     "wof:name":"Naftalan",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city",
     "wof:population":7551,
     "wof:population_rank":5,

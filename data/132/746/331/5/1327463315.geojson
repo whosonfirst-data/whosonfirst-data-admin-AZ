@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"49.11129,41.13419,49.15129,41.17419",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Tu\u011fay"
     ],
@@ -44,8 +48,7 @@
         "Tagay",
         "To\u011fay",
         "Tagiya",
-        "Tagai",
-        "Tu\u011fay"
+        "Tagai"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1327463315,
-    "wof:lastmodified":1564125789,
+    "wof:lastmodified":1566603703,
     "wof:name":"Tugay",
     "wof:parent_id":85668425,
     "wof:placetype":"locality",

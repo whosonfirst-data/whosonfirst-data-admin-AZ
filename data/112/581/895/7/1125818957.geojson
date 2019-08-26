@@ -9,15 +9,18 @@
     "geom:bbox":"46.92736,39.99096,46.92736,39.99096",
     "geom:latitude":39.99096,
     "geom:longitude":46.92736,
-    "gn:gn_country":"AZ",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":39451,
+    "gn:country":"AZ",
+    "gn:fcode":"PPLA",
     "gn:population":39451,
     "iso:country":"AZ",
+    "lbl:bbox":"46.90736,39.97096,46.94736,40.01096",
     "lbl:latitude":39.99096,
     "lbl:longitude":46.92736,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0622\u063a\u062f\u0627\u0645"
@@ -61,9 +64,6 @@
     "name:rus_x_preferred":[
         "\u0410\u0433\u0434\u0430\u043c"
     ],
-    "name:unk_x_variant":[
-        "Aghdam"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0642 \u062f\u0627\u0645"
     ],
@@ -85,7 +85,7 @@
     "qs_pg:qs_id":122438,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1125818957,
-    "wof:lastmodified":1509393972,
+    "wof:lastmodified":1566604006,
     "wof:name":"A\u011fdam",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

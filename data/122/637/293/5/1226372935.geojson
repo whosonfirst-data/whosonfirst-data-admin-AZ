@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.25637,38.84594,48.29637,38.88594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0627\u0645\u0627\u0631\u06a9\u0646\u062f"
     ],
@@ -52,9 +56,6 @@
     "name:tur_x_preferred":[
         "Hamarkend"
     ],
-    "name:und_x_variant":[
-        "Hamark\u0259nd"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1226372935,
-    "wof:lastmodified":1564126655,
+    "wof:lastmodified":1566604110,
     "wof:name":"Amarkend",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

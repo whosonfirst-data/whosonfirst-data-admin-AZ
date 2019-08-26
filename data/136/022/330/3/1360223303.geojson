@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.72532,40.92426,47.76532,40.96426",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u0130maml\u0131"
     ],
@@ -47,8 +51,7 @@
         "\u0130maml\u0131"
     ],
     "name:und_x_variant":[
-        "Imamly",
-        "\u0130maml\u0131"
+        "Imamly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1360223303,
-    "wof:lastmodified":1564126378,
+    "wof:lastmodified":1566603964,
     "wof:name":"Imamli",
     "wof:parent_id":85668541,
     "wof:placetype":"locality",

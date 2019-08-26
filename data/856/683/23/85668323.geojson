@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":39.29336,
     "lbl:longitude":46.956092,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.CB",
     "mps:latitude":39.288121,
     "mps:longitude":46.918995,
@@ -40,7 +41,7 @@
         "Jabrayil",
         "Jebrail"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "J\u00e4brayyl Rayonu"
     ],
     "ne:abbrev":"",
@@ -117,9 +118,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,050",
     "statoids:area_mi":"405",
     "statoids:as_of_date":"1999-01-27",
@@ -144,7 +145,7 @@
         "gp:id":20070224,
         "hasc:id":"AZ.CB",
         "iso:id":"AZ-CAB",
-        "qs:id":1172844
+        "qs_pg:id":1172844
     },
     "wof:country":"AZ",
     "wof:geomhash":"423d1fd9d09da09ee51a7fd806c26bdf",
@@ -163,11 +164,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652931,
+    "wof:lastmodified":1566603773,
     "wof:name":"C\u0259bray\u0131l",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":59318,
     "wof:population_rank":8,

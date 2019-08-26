@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.63045,40.66227,46.67045,40.70227",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "S\u0259m\u0259dabad"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:swe_x_preferred":[
         "Samedabad"
-    ],
-    "name:und_x_variant":[
-        "S\u0259m\u0259dabad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1309980197,
-    "wof:lastmodified":1564126404,
+    "wof:lastmodified":1566603983,
     "wof:name":"Samedabad",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

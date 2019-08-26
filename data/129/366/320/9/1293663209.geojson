@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.53917,40.72651,46.57917,40.76651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0641\u062e\u0631\u0627\u0644\u06cc"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:swe_x_preferred":[
         "Fakhraly"
-    ],
-    "name:und_x_variant":[
-        "F\u0259xral\u0131"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1293663209,
-    "wof:lastmodified":1564125995,
+    "wof:lastmodified":1566603800,
     "wof:name":"Fakhraly",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

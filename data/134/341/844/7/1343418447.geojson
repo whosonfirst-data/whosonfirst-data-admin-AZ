@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.176,40.77674,48.216,40.81674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062a\u0627\u0644\u06cc\u0633\u062a\u0627\u0646"
     ],
@@ -56,8 +60,7 @@
         "Tal\u0131stan"
     ],
     "name:und_x_variant":[
-        "Talystan",
-        "Tal\u0131stan"
+        "Talystan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1343418447,
-    "wof:lastmodified":1564125867,
+    "wof:lastmodified":1566603736,
     "wof:name":"Talistan",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

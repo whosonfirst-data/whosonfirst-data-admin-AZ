@@ -10,8 +10,12 @@
     "geom:latitude":39.76006,
     "geom:longitude":46.74989,
     "iso:country":"AZ",
+    "lbl:bbox":"46.72989,39.74006,46.76989,39.78006",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0634\u0648\u0634\u0629"
@@ -164,7 +168,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0443\u0448\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shoushi"
     ],
     "name:urd_x_preferred":[
@@ -206,7 +210,7 @@
     "wof:concordances":{
         "gn:id":147105,
         "gp:id":1951212,
-        "qs:id":317232,
+        "qs_pg:id":317232,
         "wd:id":"Q158903",
         "wk:page":"Shusha"
     },
@@ -223,7 +227,7 @@
         }
     ],
     "wof:id":421174129,
-    "wof:lastmodified":1563281834,
+    "wof:lastmodified":1566603995,
     "wof:name":"\u015eu\u015fa",
     "wof:parent_id":85668711,
     "wof:placetype":"locality",

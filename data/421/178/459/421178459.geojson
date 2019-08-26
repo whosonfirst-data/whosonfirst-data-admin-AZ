@@ -10,8 +10,12 @@
     "geom:latitude":41.09333,
     "geom:longitude":45.36611,
     "iso:country":"AZ",
+    "lbl:bbox":"45.34611,41.07333,45.38611,41.11333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0642\u0627\u0632\u0627\u062e"
@@ -103,7 +107,7 @@
     "name:tur_x_preferred":[
         "Kazah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Agk\u00ebynak"
     ],
     "name:urd_x_preferred":[
@@ -142,7 +146,7 @@
     "wof:concordances":{
         "gn:id":585226,
         "gp:id":1951926,
-        "qs:id":125821,
+        "qs_pg:id":125821,
         "wd:id":"Q586758",
         "wk:page":"Qazax"
     },
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":421178459,
-    "wof:lastmodified":1563281858,
+    "wof:lastmodified":1566603999,
     "wof:name":"Kazakh",
     "wof:parent_id":85668229,
     "wof:placetype":"locality",

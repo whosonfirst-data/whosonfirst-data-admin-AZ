@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"50.16396,40.46427,50.20396,40.50427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0634\u0648\u0627\u0644\u0627\u0646"
     ],
@@ -54,7 +58,6 @@
     ],
     "name:und_x_variant":[
         "Shuvelyan",
-        "Shuvelyany",
         "\u015e\u00fcv\u0259l\u0259n"
     ],
     "src:geom":"geonames",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1276645935,
-    "wof:lastmodified":1564126113,
+    "wof:lastmodified":1566603848,
     "wof:name":"Shuvelyany",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

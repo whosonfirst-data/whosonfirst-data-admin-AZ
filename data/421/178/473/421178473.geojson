@@ -10,8 +10,12 @@
     "geom:latitude":40.4444,
     "geom:longitude":49.80566,
     "iso:country":"AZ",
+    "lbl:bbox":"49.78566,40.4244,49.82566,40.4644",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0644\u0647\u200c\u062c\u0631\u06cc"
@@ -52,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0438\u043b\u0430\u0434\u0436\u0430\u0440\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baku-Baladshary"
     ],
     "qs:gn_country":"AZ",
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":587078,
         "gp:id":1948148,
-        "qs:id":125876,
+        "qs_pg:id":125876,
         "wd:id":"Q2653344"
     },
     "wof:country":"AZ",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421178473,
-    "wof:lastmodified":1563281855,
+    "wof:lastmodified":1566603999,
     "wof:name":"Bil\u00e4c\u00e4ri",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

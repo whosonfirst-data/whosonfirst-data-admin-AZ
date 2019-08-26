@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.57214,39.19053,46.61214,39.23053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Sar\u0131l\u0131 X\u0259\u015ftab"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343389677,
-    "wof:lastmodified":1537585521,
+    "wof:lastmodified":1566603723,
     "wof:name":"Sarylykheshtab",
     "wof:parent_id":85668659,
     "wof:placetype":"locality",

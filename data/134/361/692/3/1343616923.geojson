@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.26798,40.66691,48.30798,40.70691",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0634\u0628\u06cc\u0627\u0646"
     ],
@@ -50,9 +54,7 @@
         "Shabiyan"
     ],
     "name:und_x_variant":[
-        "Shabian",
-        "Shabiyan",
-        "\u015e\u0259biyan"
+        "Shabian"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":1343616923,
-    "wof:lastmodified":1564125880,
+    "wof:lastmodified":1566603742,
     "wof:name":"Shabiyan",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

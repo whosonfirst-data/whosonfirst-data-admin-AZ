@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.23127,39.16013,48.27127,39.20013",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Edi\u015f\u0259"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209079291,
-    "wof:lastmodified":1537585242,
+    "wof:lastmodified":1566603858,
     "wof:name":"Yedysha",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

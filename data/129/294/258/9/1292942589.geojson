@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.71797,41.57067,48.75797,41.61067",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u039f\u03bc\u03c0\u03bf\u03c5\u03bd\u03c4\u03b6\u03bb\u03bf\u03cd"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1292942589,
-    "wof:lastmodified":1564125963,
+    "wof:lastmodified":1566603785,
     "wof:name":"Obudzhlu",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

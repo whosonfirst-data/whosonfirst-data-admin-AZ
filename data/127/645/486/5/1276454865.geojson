@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.86084,39.97495,46.90084,40.01495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0686\u062e\u0648\u0631\u0645\u062d\u0644\u0647"
     ],
@@ -53,8 +57,7 @@
         "\u0427\u0443\u0445\u0443\u0440\u043c\u0430\u0445\u043b\u0430"
     ],
     "name:und_x_variant":[
-        "Chukhur-Magla",
-        "\u0427\u0443\u0445\u0443\u0440\u043c\u0430\u0445\u043b\u0430"
+        "Chukhur-Magla"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1276454865,
-    "wof:lastmodified":1564126056,
+    "wof:lastmodified":1566603825,
     "wof:name":"Chukhurmakhla",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

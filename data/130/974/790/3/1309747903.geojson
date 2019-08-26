@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.35714,38.69903,48.39714,38.73903",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u067e\u06cc\u0631\u0633\u0648\u0631\u0627"
     ],
@@ -41,10 +45,6 @@
         "Pir\u0259sora"
     ],
     "name:swe_x_preferred":[
-        "Pirasora"
-    ],
-    "name:und_x_variant":[
-        "Pir\u0259sora",
         "Pirasora"
     ],
     "src:geom":"geonames",
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1309747903,
-    "wof:lastmodified":1564126421,
+    "wof:lastmodified":1566603990,
     "wof:name":"Pirasora",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.89172,40.4748,46.93172,40.5148",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062e\u0627\u0646\u0642\u0631\u0648\u0646\u062f"
     ],
@@ -59,8 +63,7 @@
         "Khankarvend"
     ],
     "name:und_x_variant":[
-        "Khan-Gervend",
-        "Khankarvend"
+        "Khan-Gervend"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1276189345,
-    "wof:lastmodified":1564126062,
+    "wof:lastmodified":1566603827,
     "wof:name":"Khankarvend",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

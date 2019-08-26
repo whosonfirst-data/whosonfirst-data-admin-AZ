@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.39637,40.92098,47.43637,40.96098",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0636\u0631\u0627\u0628"
     ],
@@ -44,10 +48,6 @@
         "Z\u0259rr\u0259b"
     ],
     "name:swe_x_preferred":[
-        "Zarrab"
-    ],
-    "name:und_x_variant":[
-        "Z\u0259rr\u0259b",
         "Zarrab"
     ],
     "src:geom":"geonames",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1193088845,
-    "wof:lastmodified":1564126238,
+    "wof:lastmodified":1566603900,
     "wof:name":"Zarrab",
     "wof:parent_id":85668549,
     "wof:placetype":"locality",

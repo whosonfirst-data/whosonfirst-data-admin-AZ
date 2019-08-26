@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.85835,40.59626,46.89835,40.63626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "M\u0259\u015f\u0259diqaralar"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326504229,
-    "wof:lastmodified":1537585529,
+    "wof:lastmodified":1566603700,
     "wof:name":"Meshadikaralar",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

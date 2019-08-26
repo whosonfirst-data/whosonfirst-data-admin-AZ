@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.58685,39.19844,48.62685,39.23844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u0632\u0648\u0646 \u062a\u067e\u0647"
     ],
@@ -44,8 +48,7 @@
         "\u041d\u043e\u0432\u043e\u0433\u043e\u043b\u043e\u0432\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Novogol\u2019sk",
-        "Uzunt\u0259p\u0259"
+        "Novogol\u2019sk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1243527667,
-    "wof:lastmodified":1564126448,
+    "wof:lastmodified":1566604013,
     "wof:name":"Novogolovka",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

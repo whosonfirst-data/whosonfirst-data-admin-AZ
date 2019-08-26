@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.4504,38.66755,48.4904,38.70755",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062a\u0646\u06af\u0647\u200c\u0628\u06cc\u0646"
     ],
@@ -44,8 +48,7 @@
         "T\u0259ng\u0259bin"
     ],
     "name:und_x_variant":[
-        "Tangebin",
-        "T\u0259ng\u0259bin"
+        "Tangebin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1310339227,
-    "wof:lastmodified":1564126365,
+    "wof:lastmodified":1566603959,
     "wof:name":"Tangyabin",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

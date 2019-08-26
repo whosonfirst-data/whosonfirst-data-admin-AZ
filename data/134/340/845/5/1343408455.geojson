@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.83536,38.68714,48.87536,38.72714",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u015eilim"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343408455,
-    "wof:lastmodified":1564125878,
+    "wof:lastmodified":1566603741,
     "wof:name":"Silim",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

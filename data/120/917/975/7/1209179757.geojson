@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.70779,40.58949,45.74779,40.62949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shekerbey",
         "Shekerbeyli",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209179757,
-    "wof:lastmodified":1537585338,
+    "wof:lastmodified":1566603893,
     "wof:name":"Shekerbeyli",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

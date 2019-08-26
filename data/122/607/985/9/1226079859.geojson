@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.06051,40.24949,47.10051,40.28949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "K\u00f6\u00e7\u0259rli"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1226079859,
-    "wof:lastmodified":1564126667,
+    "wof:lastmodified":1566604115,
     "wof:name":"Kyucharli",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.84667,39.88,46.88667,39.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Xocal\u0131"
     ],
@@ -37,8 +41,7 @@
     ],
     "name:und_x_variant":[
         "Khozhalinskaya",
-        "Khodzhalinskaya",
-        "\u0425\u043e\u0434\u0436\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f"
+        "Khodzhalinskaya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1360019567,
-    "wof:lastmodified":1537585206,
+    "wof:lastmodified":1566603967,
     "wof:name":"Xocali",
     "wof:parent_id":85668657,
     "wof:placetype":"locality",

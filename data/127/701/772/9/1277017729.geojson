@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.97501,39.71216,47.01501,39.75216",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qarahon\u00e7"
     ],
@@ -66,9 +70,7 @@
     ],
     "name:und_x_variant":[
         "Karahoundge",
-        "K\u2019arahunch\u2019",
-        "Qaraz\u0259mi",
-        "Karaundzh"
+        "K\u2019arahunch\u2019"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":1277017729,
-    "wof:lastmodified":1564126046,
+    "wof:lastmodified":1566603820,
     "wof:name":"Qarahonc",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":39.352928,
     "lbl:longitude":49.134019,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.NE",
     "mps:latitude":39.374117,
     "mps:longitude":49.073954,
@@ -161,7 +162,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u041d\u0435\u0444\u0442\u0435\u0447\u0430\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neftechalinskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -250,9 +251,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,450",
     "statoids:area_mi":"560",
     "statoids:as_of_date":"1999-01-27",
@@ -278,7 +279,7 @@
         "gp:id":20070241,
         "hasc:id":"AZ.NE",
         "iso:id":"AZ-NEF",
-        "qs:id":49481,
+        "qs_pg:id":49481,
         "unlc:id":"AZ-NEF",
         "wd:id":"Q688633",
         "wk:page":"Neftchala District"
@@ -300,11 +301,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652929,
+    "wof:lastmodified":1566603770,
     "wof:name":"Neft\u00e7ala",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":71480,
     "wof:population_rank":8,

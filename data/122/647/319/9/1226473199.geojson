@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.06336,39.53763,47.10336,39.57763",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "A\u011fbulaq"
     ],
@@ -42,8 +46,7 @@
     "name:und_x_variant":[
         "Agbulag",
         "Aghboulagh",
-        "Agbulak",
-        "\u0410\u0433\u0431\u0443\u043b\u0430\u043a"
+        "Agbulak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1226473199,
-    "wof:lastmodified":1537585286,
+    "wof:lastmodified":1566604104,
     "wof:name":"Agbulaq",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

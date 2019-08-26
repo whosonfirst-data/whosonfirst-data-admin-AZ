@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.38795,38.80102,48.42795,38.84102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "N\u00fcsomurya"
     ],
@@ -42,8 +46,7 @@
     ],
     "name:und_x_variant":[
         "Nyusomur\u2019ya",
-        "Nesamur\u2019ya",
-        "N\u00fcsomurya"
+        "Nesamur\u2019ya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1209040519,
-    "wof:lastmodified":1564126197,
+    "wof:lastmodified":1566603883,
     "wof:name":"Nusomurya",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

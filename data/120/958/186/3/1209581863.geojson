@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.10658,39.51564,47.14658,39.55564",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0642\u0648\u0686 \u0627\u062d\u0645\u062f\u0644\u06cc"
     ],
@@ -54,8 +58,7 @@
     ],
     "name:und_x_variant":[
         "Ghouchahmedli",
-        "Kochakhmedli",
-        "\u041a\u043e\u0447\u0430\u0445\u043c\u0435\u0434\u043b\u0438"
+        "Kochakhmedli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1209581863,
-    "wof:lastmodified":1564126199,
+    "wof:lastmodified":1566603884,
     "wof:name":"Kochakhmedli",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

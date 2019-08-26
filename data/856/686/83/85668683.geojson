@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":39.442542,
     "lbl:longitude":45.627466,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.SH",
     "mps:latitude":39.431202,
     "mps:longitude":45.609815,
@@ -175,9 +176,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"920",
     "statoids:area_mi":"355",
     "statoids:as_of_date":"1999-01-27",
@@ -202,7 +203,7 @@
         "gp:id":24550718,
         "hasc:id":"AZ.SH",
         "iso:id":"AZ-SAH",
-        "qs:id":1191259
+        "qs_pg:id":1191259
     },
     "wof:country":"AZ",
     "wof:geomhash":"68d52c52fc2eaa3007fba112042c1c1b",
@@ -221,11 +222,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652925,
+    "wof:lastmodified":1566603764,
     "wof:name":"\u015eahbuz",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":20296,
     "wof:population_rank":7,

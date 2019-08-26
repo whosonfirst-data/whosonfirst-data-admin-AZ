@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.338105,
     "lbl:longitude":47.221858,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.BR",
     "mps:latitude":40.326325,
     "mps:longitude":47.215351,
@@ -35,7 +36,7 @@
     "name:eng_x_preferred":[
         "Barda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bardinskiy Rayon"
     ],
     "ne:abbrev":"",
@@ -112,9 +113,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"960",
     "statoids:area_mi":"371",
     "statoids:as_of_date":"1999-01-27",
@@ -139,7 +140,7 @@
         "gp:id":20070219,
         "hasc:id":"AZ.BR",
         "iso:id":"AZ-BAR",
-        "qs:id":66061
+        "qs_pg:id":66061
     },
     "wof:country":"AZ",
     "wof:geomhash":"a40b796341218830098048280541e338",
@@ -158,11 +159,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652930,
+    "wof:lastmodified":1566603772,
     "wof:name":"B\u0259rd\u0259",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":129600,
     "wof:population_rank":9,

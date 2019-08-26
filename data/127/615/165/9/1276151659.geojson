@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.68333,39.3001,46.72333,39.3401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Yusifb\u0259yli"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1276151659,
-    "wof:lastmodified":1537585126,
+    "wof:lastmodified":1566603845,
     "wof:name":"Yusifbeyli",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

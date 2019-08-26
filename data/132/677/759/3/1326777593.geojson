@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.81707,38.6592,48.85707,38.6992",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0634\u06cc\u062e\u200c\u06a9\u0631\u0627\u0646"
     ],
@@ -47,9 +51,7 @@
         "Shykhakeran"
     ],
     "name:und_x_variant":[
-        "Shikhakeran\u2019",
-        "Shykhakeran",
-        "\u015e\u0131xak\u0259ran"
+        "Shikhakeran\u2019"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1326777593,
-    "wof:lastmodified":1564125808,
+    "wof:lastmodified":1566603711,
     "wof:name":"Shykhakeran",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

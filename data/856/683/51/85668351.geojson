@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":39.58844,
     "lbl:longitude":47.314758,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.FU",
     "mps:latitude":39.569009,
     "mps:longitude":47.290217,
@@ -176,7 +177,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0456\u0437\u0443\u043b\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fizulinskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -265,9 +266,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,390",
     "statoids:area_mi":"537",
     "statoids:as_of_date":"1999-01-27",
@@ -293,7 +294,7 @@
         "gp:id":20070225,
         "hasc:id":"AZ.FU",
         "iso:id":"AZ-FUZ",
-        "qs:id":202011,
+        "qs_pg:id":202011,
         "unlc:id":"AZ-FUZ",
         "wd:id":"Q331687",
         "wk:page":"Fuzuli District"
@@ -315,11 +316,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652930,
+    "wof:lastmodified":1566603772,
     "wof:name":"F\u00fczuli",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":136481,
     "wof:population_rank":9,

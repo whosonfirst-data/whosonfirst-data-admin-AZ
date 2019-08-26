@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.94252,39.55225,46.98252,39.59225",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0622\u062a\u0627\u0642\u0648\u062a"
     ],
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":1293232079,
-    "wof:lastmodified":1564125976,
+    "wof:lastmodified":1566603791,
     "wof:name":"Ataqut",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

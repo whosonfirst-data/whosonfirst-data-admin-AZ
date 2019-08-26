@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.795335,
     "lbl:longitude":48.665579,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.SI",
     "mps:latitude":40.780097,
     "mps:longitude":48.625643,
@@ -32,7 +33,7 @@
     "name:eng_x_preferred":[
         "Samaxi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shemakhinskiy Rayon"
     ],
     "ne:abbrev":"",
@@ -109,9 +110,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,610",
     "statoids:area_mi":"622",
     "statoids:as_of_date":"1999-01-27",
@@ -137,7 +138,7 @@
         "gp:id":20070270,
         "hasc:id":"AZ.SI",
         "iso:id":"AZ-SMI",
-        "qs:id":245209,
+        "qs_pg:id":245209,
         "unlc:id":"AZ-SMI"
     },
     "wof:country":"AZ",
@@ -157,11 +158,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652929,
+    "wof:lastmodified":1566603770,
     "wof:name":"\u015eamax\u0131",
     "wof:parent_id":1108808611,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":80625,
     "wof:population_rank":8,

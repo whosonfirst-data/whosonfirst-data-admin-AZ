@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":39.026519,
     "lbl:longitude":45.913382,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.OR",
     "mps:latitude":39.04181,
     "mps:longitude":45.88918,
@@ -110,7 +111,7 @@
     "name:tur_x_preferred":[
         "Ordubad"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ordubadskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -193,9 +194,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"970",
     "statoids:area_mi":"375",
     "statoids:as_of_date":"1999-01-27",
@@ -221,7 +222,7 @@
         "gp:id":24550719,
         "hasc:id":"AZ.OR",
         "iso:id":"AZ-ORD",
-        "qs:id":1062978,
+        "qs_pg:id":1062978,
         "unlc:id":"AZ-ORD"
     },
     "wof:country":"AZ",
@@ -241,11 +242,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652925,
+    "wof:lastmodified":1566603763,
     "wof:name":"Ordubad",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":40596,
     "wof:population_rank":7,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.70817,39.22939,46.74817,39.26939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Alaqur\u015fag"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1360219137,
-    "wof:lastmodified":1537585283,
+    "wof:lastmodified":1566603971,
     "wof:name":"Alaqursag",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.21254,40.00074,46.25254,40.04074",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0686\u0648\u067e\u0627\u0646\u200c\u0642\u0631\u0647\u200c\u0645\u0632"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Choban-Karikl\u2019yev",
-        "Chobankerakhmez",
-        "\u00c7obank\u0259r\u0259hm\u0259z"
+        "Chobankerakhmez"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1344111841,
-    "wof:lastmodified":1564125903,
+    "wof:lastmodified":1566603752,
     "wof:name":"Chobankerakhmez",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

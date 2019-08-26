@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"49.03158,39.71601,49.07158,39.75601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "H\u0259s\u0259nli"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343395023,
-    "wof:lastmodified":1537585528,
+    "wof:lastmodified":1566603726,
     "wof:name":"Gasanli",
     "wof:parent_id":85668449,
     "wof:placetype":"locality",

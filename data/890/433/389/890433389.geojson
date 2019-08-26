@@ -11,10 +11,14 @@
     "geom:longitude":48.94451,
     "gn:country":"AZ",
     "gn:fcode":"PPLA",
-    "gn:pop":23102,
+    "gn:population":23102,
     "iso:country":"AZ",
+    "lbl:bbox":"48.92451,40.02084,48.96451,40.06084",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062d\u0627\u062c\u064a \u0642\u0628\u0648\u0644"
     ],
@@ -99,7 +103,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0434\u0436\u0438\u043a\u0430\u0431\u0443\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Adshikabul"
     ],
     "name:zho_x_preferred":[
@@ -121,7 +125,7 @@
     "wof:concordances":{
         "gn:id":585225,
         "gp:id":56121505,
-        "qs:id":125820,
+        "qs_pg:id":125820,
         "wd:id":"Q2191437",
         "wk:page":"Hajigabul District"
     },
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":890433389,
-    "wof:lastmodified":1563281881,
+    "wof:lastmodified":1566604004,
     "wof:name":"Hac\u0131qabul",
     "wof:parent_id":85668293,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":38.9558,
     "geom:longitude":45.6308,
     "iso:country":"AZ",
+    "lbl:bbox":"45.6108,38.9358,45.6508,38.9758",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_colloquial":[
         "Culfa"
@@ -43,7 +47,7 @@
     "name:tur_x_preferred":[
         "Culfa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dzhul\u2019fa"
     ],
     "qs:gn_country":"AZ",
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":148251,
         "gp:id":1948419,
-        "qs:id":122424
+        "qs_pg:id":122424
     },
     "wof:country":"AZ",
     "wof:created":1459009909,
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421197305,
-    "wof:lastmodified":1505340750,
+    "wof:lastmodified":1566603997,
     "wof:name":"Culfa",
     "wof:parent_id":85668677,
     "wof:placetype":"locality",

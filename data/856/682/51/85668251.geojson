@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.31251,
     "lbl:longitude":49.285063,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.AR",
     "mps:latitude":40.290911,
     "mps:longitude":49.261303,
@@ -179,7 +180,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043f\u0448\u0435\u0440\u043e\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Apsheronskiy Rayon"
     ],
     "name:vie_x_preferred":[
@@ -265,9 +266,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,360",
     "statoids:area_mi":"525",
     "statoids:as_of_date":"1999-01-27",
@@ -293,7 +294,7 @@
         "gp:id":20070283,
         "hasc:id":"AZ.AR",
         "iso:id":"AZ-ABS",
-        "qs:id":348996,
+        "qs_pg:id":348996,
         "unlc:id":"AZ-ABS",
         "wd:id":"Q179538",
         "wk:page":"Absheron District"
@@ -315,11 +316,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652926,
+    "wof:lastmodified":1566603766,
     "wof:name":"Ab\u015feron",
     "wof:parent_id":1108808621,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":81798,
     "wof:population_rank":8,
