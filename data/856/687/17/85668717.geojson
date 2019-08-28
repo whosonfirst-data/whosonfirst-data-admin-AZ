@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":39.381884,
     "lbl:longitude":45.210632,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.KG",
     "mps:latitude":39.399596,
     "mps:longitude":45.165361,
@@ -54,8 +55,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
-    "src:population:date":"",
+    "src:lbl_centroid":"mapshaper",
+    "src:population_date":"",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"",
@@ -80,7 +81,7 @@
         "gp:id":24550720,
         "hasc:id":"AZ.KG",
         "iso:id":"AZ-KAN",
-        "qs:id":1237266
+        "qs_pg:id":1237266
     },
     "wof:country":"AZ",
     "wof:geomhash":"d97f698fed01f9f48ec9278b1e28918a",
@@ -99,11 +100,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652926,
+    "wof:lastmodified":1566603765,
     "wof:name":"Kangarli",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-az",
     "wof:shortcode":"KG",

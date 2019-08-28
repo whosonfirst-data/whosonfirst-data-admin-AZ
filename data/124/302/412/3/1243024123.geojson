@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.79854,40.07575,47.83854,40.11575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "A\u011famalilar"
     ],
@@ -35,7 +39,6 @@
         "\u0410\u0433\u0430\u043c\u0430\u043b\u044b\u043b\u0430\u0440"
     ],
     "name:und_x_variant":[
-        "Agamalylar",
         "Tsnidr"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1243024123,
-    "wof:lastmodified":1537585501,
+    "wof:lastmodified":1566604032,
     "wof:name":"Agamalilar",
     "wof:parent_id":85668365,
     "wof:placetype":"locality",

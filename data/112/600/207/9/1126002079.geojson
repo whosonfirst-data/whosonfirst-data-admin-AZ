@@ -9,15 +9,18 @@
     "geom:bbox":"49.08127,40.90576,49.08127,40.90576",
     "geom:latitude":40.90576,
     "geom:longitude":49.08127,
-    "gn:gn_country":"AZ",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":1024,
+    "gn:country":"AZ",
+    "gn:fcode":"PPLA",
     "gn:population":1024,
     "iso:country":"AZ",
+    "lbl:bbox":"49.06127,40.88576,49.10127,40.92576",
     "lbl:latitude":40.90576,
     "lbl:longitude":49.08127,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062e\u064a\u0632\u064a"
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0438\u0437\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khizy"
     ],
     "name:urd_x_preferred":[
@@ -166,7 +169,7 @@
     "qs_pg:qs_id":125837,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":1126002079,
-    "wof:lastmodified":1563281890,
+    "wof:lastmodified":1566604007,
     "wof:name":"Khyzy",
     "wof:parent_id":85668485,
     "wof:placetype":"locality",

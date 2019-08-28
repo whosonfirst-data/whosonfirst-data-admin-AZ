@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.61333,41.48,48.65333,41.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03c1\u03b1\u03b3\u03ba\u03bb\u03b9\u03bd\u03c4\u03b6\u03ad\u03ba"
     ],
@@ -38,8 +42,7 @@
         "Kyraglydzhek"
     ],
     "name:und_x_variant":[
-        "Kyrakhly-Dzhek",
-        "Kyraglydzhek"
+        "Kyrakhly-Dzhek"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1226579317,
-    "wof:lastmodified":1564126608,
+    "wof:lastmodified":1566604086,
     "wof:name":"Kyraglydzhek",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

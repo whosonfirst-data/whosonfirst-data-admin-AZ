@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.92083,41.46694,48.96083,41.50694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226273821,
-    "wof:lastmodified":1536892931,
+    "wof:lastmodified":1566604076,
     "wof:name":"Agcay",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

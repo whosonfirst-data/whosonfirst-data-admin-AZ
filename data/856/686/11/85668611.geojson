@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":39.766109,
     "lbl:longitude":47.032574,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.XD",
     "mps:latitude":39.74803,
     "mps:longitude":47.011382,
@@ -42,7 +43,7 @@
         "Khojavend District",
         "Khojavend"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Xocav\u01ddnd"
     ],
     "ne:abbrev":"",
@@ -119,9 +120,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,460",
     "statoids:area_mi":"564",
     "statoids:as_of_date":"1999-01-27",
@@ -146,7 +147,7 @@
         "gp:id":20070259,
         "hasc:id":"AZ.XD",
         "iso:id":"AZ-XVD",
-        "qs:id":59492
+        "qs_pg:id":59492
     },
     "wof:country":"AZ",
     "wof:geomhash":"878a05236dc254ed3bd9a8af9332f401",
@@ -165,11 +166,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652924,
+    "wof:lastmodified":1566603762,
     "wof:name":"Xocav\u0259nd",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":39620,
     "wof:population_rank":7,

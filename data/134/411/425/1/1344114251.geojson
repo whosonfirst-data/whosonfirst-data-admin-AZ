@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.39604,40.83256,48.43604,40.87256",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0647\u0646"
     ],
@@ -56,8 +60,7 @@
         "Akhan"
     ],
     "name:und_x_variant":[
-        "Agan",
-        "\u018fh\u0259n"
+        "Agan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1344114251,
-    "wof:lastmodified":1564125902,
+    "wof:lastmodified":1566603751,
     "wof:name":"Akhan",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.16062,38.86733,48.20062,38.90733",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Avur"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209751795,
-    "wof:lastmodified":1564126228,
+    "wof:lastmodified":1566603896,
     "wof:name":"Avur",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

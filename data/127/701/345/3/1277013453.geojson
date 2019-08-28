@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.01594,40.56701,47.05594,40.60701",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "B\u00fcnyadabad"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1277013453,
-    "wof:lastmodified":1564126046,
+    "wof:lastmodified":1566603820,
     "wof:name":"Bunyadabad",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

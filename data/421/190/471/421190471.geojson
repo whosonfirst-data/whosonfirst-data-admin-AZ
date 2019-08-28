@@ -10,8 +10,12 @@
     "geom:latitude":40.415534,
     "geom:longitude":50.008563,
     "iso:country":"AZ",
+    "lbl:bbox":"49.988563,40.395534,50.028563,40.435534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ava_x_preferred":[
         "\u0410\u043c\u0438\u0440\u0445\u0430\u043d"
@@ -96,7 +100,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1947676,
-        "qs:id":1119588,
+        "qs_pg:id":1119588,
         "wd:id":"Q3131176"
     },
     "wof:country":"AZ",
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421190471,
-    "wof:lastmodified":1563281846,
+    "wof:lastmodified":1566603997,
     "wof:name":"\u00c4mircan",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

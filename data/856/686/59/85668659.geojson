@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":39.05545,
     "lbl:longitude":46.641458,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.ZG",
     "mps:latitude":39.065434,
     "mps:longitude":46.596791,
@@ -113,7 +114,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0432\u0441\u0430\u043a\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zangelanskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -193,9 +194,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"710",
     "statoids:area_mi":"274",
     "statoids:as_of_date":"1999-01-27",
@@ -223,7 +224,7 @@
         "gp:id":20070255,
         "hasc:id":"AZ.ZG",
         "iso:id":"AZ-ZAN",
-        "qs:id":128257,
+        "qs_pg:id":128257,
         "wd:id":"Q249226"
     },
     "wof:country":"AZ",
@@ -243,11 +244,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652922,
+    "wof:lastmodified":1566603762,
     "wof:name":"Z\u0259ngilan",
     "wof:parent_id":1108808607,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":35336,
     "wof:population_rank":7,

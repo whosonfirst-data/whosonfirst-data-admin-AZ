@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.59646,41.03487,45.63646,41.07487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0622\u0634\u0627\u063a\u06cc \u0645\u0648\u0644\u06a9\u0648\u0644\u0648"
     ],
@@ -52,8 +56,7 @@
     "name:und_x_variant":[
         "M\u00fclk\u00fcl\u00fc",
         "Myulkyulyu",
-        "Ashaga-Myul\u2019kyuli",
-        "Alagel-Myulkyulyu"
+        "Ashaga-Myul\u2019kyuli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1226276345,
-    "wof:lastmodified":1564126590,
+    "wof:lastmodified":1566604076,
     "wof:name":"Alagel-Myulkyulyu",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

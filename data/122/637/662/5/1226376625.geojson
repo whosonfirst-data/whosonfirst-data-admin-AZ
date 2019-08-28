@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.07552,40.72144,47.11552,40.76144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0647\u0627\u0648\u0627\u0631\u0644\u06cc"
     ],
@@ -50,8 +54,7 @@
         "Havarl\u0131"
     ],
     "name:und_x_variant":[
-        "Gavarly",
-        "Havarl\u0131"
+        "Gavarly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1226376625,
-    "wof:lastmodified":1564126657,
+    "wof:lastmodified":1566604111,
     "wof:name":"Havarli",
     "wof:parent_id":85668225,
     "wof:placetype":"locality",

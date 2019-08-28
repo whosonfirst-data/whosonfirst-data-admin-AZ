@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.71542,40.58331,45.75542,40.62331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Yaqublu"
     ],
@@ -41,8 +45,7 @@
         "\u042f\u0433\u0443\u0431\u043b\u0443"
     ],
     "name:und_x_variant":[
-        "Yagublu",
-        "Yaqublu"
+        "Yagublu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1209678121,
-    "wof:lastmodified":1564126198,
+    "wof:lastmodified":1566603884,
     "wof:name":"Yaqublu",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

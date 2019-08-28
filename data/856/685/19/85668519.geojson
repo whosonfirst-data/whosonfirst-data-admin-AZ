@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.027902,
     "lbl:longitude":47.417497,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.AC",
     "mps:latitude":40.016318,
     "mps:longitude":47.411804,
@@ -131,7 +132,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0433\u0434\u0436\u0430\u0431\u0435\u0434\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Agdzhabedinskiy Rayon"
     ],
     "name:zho_x_preferred":[
@@ -211,9 +212,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,760",
     "statoids:area_mi":"680",
     "statoids:as_of_date":"1999-01-27",
@@ -242,7 +243,7 @@
         "gp:id":20070214,
         "hasc:id":"AZ.AC",
         "iso:id":"AZ-AGC",
-        "qs:id":332219,
+        "qs_pg:id":332219,
         "wd:id":"Q1983875"
     },
     "wof:country":"AZ",
@@ -262,11 +263,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652928,
+    "wof:lastmodified":1566603768,
     "wof:name":"A\u011fcab\u0259di",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":107833,
     "wof:population_rank":9,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.92191,40.39657,48.96191,40.43657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "G\u00f6yd\u0259r\u0259"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276588495,
-    "wof:lastmodified":1537585436,
+    "wof:lastmodified":1566603834,
     "wof:name":"Goydara",
     "wof:parent_id":85668419,
     "wof:placetype":"locality",

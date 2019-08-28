@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.55817,39.36035,45.59817,39.40035",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u015eahbuzk\u0259nd"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1326870763,
-    "wof:lastmodified":1537585214,
+    "wof:lastmodified":1566603691,
     "wof:name":"Kend Shakhbuz",
     "wof:parent_id":85668683,
     "wof:placetype":"locality",

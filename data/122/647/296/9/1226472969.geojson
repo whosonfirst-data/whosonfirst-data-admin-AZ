@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.42408,39.93511,48.46408,39.97511",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Balak\u0259nd"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226472969,
-    "wof:lastmodified":1564126640,
+    "wof:lastmodified":1566604103,
     "wof:name":"Balakend",
     "wof:parent_id":85668433,
     "wof:placetype":"locality",

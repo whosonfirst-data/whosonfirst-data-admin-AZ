@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.03895,39.2883,47.07895,39.3283",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Kavdar"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1242845291,
-    "wof:lastmodified":1564126492,
+    "wof:lastmodified":1566604033,
     "wof:name":"Kavdar",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.19566,40.71996,47.23566,40.75996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Yuxar\u0131 Bucaq"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1276159213,
-    "wof:lastmodified":1564126104,
+    "wof:lastmodified":1566603846,
     "wof:name":"Yuxari Bucaq",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

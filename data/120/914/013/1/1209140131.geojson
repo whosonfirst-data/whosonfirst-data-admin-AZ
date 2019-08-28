@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.71349,41.20175,48.75349,41.24175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Q\u0259nid\u0259r\u0259"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209140131,
-    "wof:lastmodified":1537585542,
+    "wof:lastmodified":1566603875,
     "wof:name":"Ganidere",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

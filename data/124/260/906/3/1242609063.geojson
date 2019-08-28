@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.63869,41.39671,48.67869,41.43671",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Mirz\u0259qas\u0131m"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Mirza-Kasum-Kend",
-        "Mirzakasym",
-        "Mirz\u0259qas\u0131m"
+        "Mirzakasym"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1242609063,
-    "wof:lastmodified":1564126462,
+    "wof:lastmodified":1566604019,
     "wof:name":"Mirzakasym",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

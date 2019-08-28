@@ -23,8 +23,12 @@
     "gn:population":3482,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.59942,40.9339,45.63942,40.9739",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062f\u0648\u0646\u062f\u0627\u0631 \u0642\u0648\u0634\u0686\u0648"
     ],
@@ -47,8 +51,7 @@
         "Dondar Qu\u015f\u00e7u"
     ],
     "name:und_x_variant":[
-        "Dondar-Kushchu",
-        "Dondar Qu\u015f\u00e7u"
+        "Dondar-Kushchu"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1209952469,
-    "wof:lastmodified":1564126187,
+    "wof:lastmodified":1566603879,
     "wof:name":"Dondar Quscu",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

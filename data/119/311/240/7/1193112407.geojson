@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.65128,40.53429,45.69128,40.57429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u06cc\u0686\u06cc\u06a9 \u0642\u0627\u0631\u0627\u0645\u0648\u0631\u0627\u062f"
     ],
@@ -47,8 +51,7 @@
         "Ki\u00e7ik Qaramurad"
     ],
     "name:und_x_variant":[
-        "Kichik Karamurad",
-        "Ki\u00e7ik Qaramurad"
+        "Kichik Karamurad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1193112407,
-    "wof:lastmodified":1564126255,
+    "wof:lastmodified":1566603908,
     "wof:name":"Kicik Qaramurad",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

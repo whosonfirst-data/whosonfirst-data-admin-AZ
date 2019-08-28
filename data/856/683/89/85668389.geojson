@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":39.225193,
     "lbl:longitude":48.992777,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.LN",
     "mps:latitude":39.153671,
     "mps:longitude":49.119434,
@@ -228,9 +229,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,540",
     "statoids:area_mi":"595",
     "statoids:as_of_date":"1999-01-27",
@@ -256,7 +257,7 @@
         "gp:id":20070263,
         "hasc:id":"AZ.LN",
         "iso:id":"AZ-LAN",
-        "qs:id":245193
+        "qs_pg:id":245193
     },
     "wof:country":"AZ",
     "wof:geomhash":"d52e0f6333a8959ff8740a251c6fc52c",
@@ -275,11 +276,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652930,
+    "wof:lastmodified":1566603772,
     "wof:name":"Lankaran",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":189929,
     "wof:population_rank":9,

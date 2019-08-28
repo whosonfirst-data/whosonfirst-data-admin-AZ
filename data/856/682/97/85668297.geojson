@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":38.501076,
     "lbl:longitude":48.698427,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.AA",
     "mps:latitude":38.491828,
     "mps:longitude":48.696835,
@@ -182,7 +183,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0441\u0442\u0430\u0440\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Astarinskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -271,9 +272,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"620",
     "statoids:area_mi":"239",
     "statoids:as_of_date":"1999-01-27",
@@ -299,7 +300,7 @@
         "gp:id":20070217,
         "hasc:id":"AZ.AA",
         "iso:id":"AZ-AST",
-        "qs:id":1329936,
+        "qs_pg:id":1329936,
         "unlc:id":"AZ-AST",
         "wd:id":"Q269680",
         "wk:page":"Astara District"
@@ -321,11 +322,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652927,
+    "wof:lastmodified":1566603767,
     "wof:name":"Astara",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":84319,
     "wof:population_rank":8,

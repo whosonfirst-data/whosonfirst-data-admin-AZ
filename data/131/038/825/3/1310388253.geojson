@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.41148,39.14878,48.45148,39.18878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u0626\u06cc\u06cc\u062f\u0628\u0627\u0632\u0627\u0631"
     ],
@@ -47,8 +51,7 @@
         "Seyidbazar"
     ],
     "name:und_x_variant":[
-        "Seidbazar",
-        "Seyidbazar"
+        "Seidbazar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1310388253,
-    "wof:lastmodified":1564126325,
+    "wof:lastmodified":1566603942,
     "wof:name":"Seyidbazar",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

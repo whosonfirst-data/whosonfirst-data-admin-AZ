@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.26439,40.73614,48.30439,40.77614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Birinci Yeniyol"
     ],
@@ -44,8 +48,7 @@
         "Birinci Yeniyol"
     ],
     "name:und_x_variant":[
-        "Yeniy\u00ebl Pervoye",
-        "Birinci Yeniyol"
+        "Yeniy\u00ebl Pervoye"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1243025593,
-    "wof:lastmodified":1564126490,
+    "wof:lastmodified":1566604032,
     "wof:name":"Birinci Yeniyol",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

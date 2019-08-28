@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.72965,40.56425,46.76965,40.60425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0631\u062d\u06cc\u0645\u0644\u06cc"
     ],
@@ -47,9 +51,7 @@
         "\u0420\u0430\u0433\u0438\u043c\u043b\u0438"
     ],
     "name:und_x_variant":[
-        "Ragimly",
-        "Ragimli",
-        "R\u0259himli"
+        "Ragimly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1327298289,
-    "wof:lastmodified":1564125831,
+    "wof:lastmodified":1566603721,
     "wof:name":"Ragimli",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

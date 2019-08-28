@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":40.657986,
     "lbl:longitude":47.01942,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.YV",
     "mps:latitude":40.627914,
     "mps:longitude":46.997962,
@@ -155,7 +156,7 @@
         "Yevlakh"
     ],
     "name:tam_x_preferred":[
-        "\u0b8e\u0bb5\u0bcd\u0bb2\u0b95\u0bcd\u0bb9\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b8e\u0bb5\u0bcd\u0bb2\u0b95\u0bcd\u0bb9\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2f\u0c46\u0c35\u0c4d\u0c32\u0c3e\u0c15\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -258,9 +259,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,540",
     "statoids:area_mi":"595",
     "statoids:as_of_date":"1999-01-27",
@@ -285,7 +286,7 @@
         "gp:id":20070252,
         "hasc:id":"AZ.YV",
         "iso:id":"AZ-YEV",
-        "qs:id":49483,
+        "qs_pg:id":49483,
         "wd:id":"Q458524",
         "wk:page":"Yevlakh District"
     },
@@ -306,11 +307,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652927,
+    "wof:lastmodified":1566603767,
     "wof:name":"Yevlakh Rayon",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":108188,
     "wof:population_rank":9,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.98216,40.11694,46.02216,40.15694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "A\u015fa\u011f\u0131 Ayr\u0131m"
     ],
@@ -38,8 +42,7 @@
         "\u0410\u0448\u0430\u0433\u044b \u0410\u0439\u0440\u044b\u043c"
     ],
     "name:und_x_variant":[
-        "Ashagy-Ayrum",
-        "A\u015fa\u011f\u0131 Ayr\u0131m"
+        "Ashagy-Ayrum"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1310556237,
-    "wof:lastmodified":1564126329,
+    "wof:lastmodified":1566603944,
     "wof:name":"Asagi Ayrim",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

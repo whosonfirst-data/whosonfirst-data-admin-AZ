@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.68208,38.78936,48.72208,38.82936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u0633\u0627\u06a9\u0648\u062c\u0647"
     ],
@@ -48,9 +52,7 @@
     ],
     "name:und_x_variant":[
         "Asakyudzha",
-        "Osakyudzha",
-        "Osakudzha",
-        "Osak\u00fcc\u0259"
+        "Osakudzha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1276496691,
-    "wof:lastmodified":1564126094,
+    "wof:lastmodified":1566603842,
     "wof:name":"Osakyudzha",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

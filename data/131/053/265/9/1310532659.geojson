@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.52372,39.37645,46.56372,39.41645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0644\u067e\u0647\u200c\u062d\u06cc\u0631\u0627\u0646\u200c\u0644\u06cc"
     ],
@@ -55,8 +59,7 @@
     ],
     "name:und_x_variant":[
         "Lepekheyranly",
-        "Lopa-Kheyranly",
-        "\u041b\u0435\u043f\u0435\u0445\u0435\u0439\u0440\u0430\u043d\u043b\u044b"
+        "Lopa-Kheyranly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1310532659,
-    "wof:lastmodified":1564126322,
+    "wof:lastmodified":1566603941,
     "wof:name":"Lopa-Kheyranly",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

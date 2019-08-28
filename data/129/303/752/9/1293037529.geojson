@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"49.50543,40.64453,49.54543,40.68453",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u0393\u03b9\u03ac\u03c3\u03bc\u03b1 \u03a4\u03c1\u03b5\u03c4\u03af\u03b9"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293037529,
-    "wof:lastmodified":1564125996,
+    "wof:lastmodified":1566603800,
     "wof:name":"Yashma Tretiy",
     "wof:parent_id":85668251,
     "wof:placetype":"locality",

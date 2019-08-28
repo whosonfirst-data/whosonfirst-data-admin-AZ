@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.289415,
     "lbl:longitude":46.778245,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.TA",
     "mps:latitude":40.271706,
     "mps:longitude":46.764991,
@@ -32,7 +33,7 @@
     "name:eng_x_preferred":[
         "Tartar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u01ddrt\u01ddr"
     ],
     "ne:abbrev":"",
@@ -109,9 +110,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"960",
     "statoids:area_mi":"371",
     "statoids:as_of_date":"1999-01-27",
@@ -136,7 +137,7 @@
         "gp:id":20070274,
         "hasc:id":"AZ.TA",
         "iso:id":"AZ-TAR",
-        "qs:id":245265
+        "qs_pg:id":245265
     },
     "wof:country":"AZ",
     "wof:geomhash":"b10cd5dc555f5734de44c6a88dfb1e43",
@@ -155,11 +156,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652925,
+    "wof:lastmodified":1566603764,
     "wof:name":"T\u0259rt\u0259r",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":92201,
     "wof:population_rank":8,

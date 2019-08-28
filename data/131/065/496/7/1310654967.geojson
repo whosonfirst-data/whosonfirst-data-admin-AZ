@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.30978,40.08818,48.34978,40.12818",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u00d6yl\u0259qulu"
     ],
@@ -32,9 +36,6 @@
         "\u00d6yl\u0259qulu"
     ],
     "name:msa_x_preferred":[
-        "\u00d6yl\u0259qulu"
-    ],
-    "name:und_x_variant":[
         "\u00d6yl\u0259qulu"
     ],
     "src:geom":"geonames",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1310654967,
-    "wof:lastmodified":1564126317,
+    "wof:lastmodified":1566603938,
     "wof:name":"Oylyakulu",
     "wof:parent_id":85668383,
     "wof:placetype":"locality",

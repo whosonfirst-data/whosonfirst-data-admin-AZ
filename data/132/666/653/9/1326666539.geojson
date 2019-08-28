@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"49.35806,40.84056,49.39806,40.88056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10d3\u10dd\u10dc\u10d2\u10e3\u10da\u10d8"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326666539,
-    "wof:lastmodified":1564125777,
+    "wof:lastmodified":1566603698,
     "wof:name":"Donguli",
     "wof:parent_id":85668485,
     "wof:placetype":"locality",

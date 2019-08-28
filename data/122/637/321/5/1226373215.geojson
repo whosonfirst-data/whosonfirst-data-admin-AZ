@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.97598,39.41953,47.01598,39.45953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0622\u0631\u0627\u06a9\u0648\u0644"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0430\u043a\u0435\u043b"
     ],
-    "name:und_x_variant":[
-        "\u0410\u0440\u0430\u043a\u044e\u043b\u044c"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1226373215,
-    "wof:lastmodified":1564126658,
+    "wof:lastmodified":1566604111,
     "wof:name":"Arakul",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

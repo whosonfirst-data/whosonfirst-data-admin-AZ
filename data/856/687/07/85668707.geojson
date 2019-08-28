@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.193235,
     "lbl:longitude":47.18843,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.SA",
     "mps:latitude":41.193235,
     "mps:longitude":47.18843,
@@ -52,8 +53,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
-    "src:population:date":"1999-01-27",
+    "src:lbl_centroid":"mapshaper",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"1999-01-27",
@@ -77,7 +78,7 @@
         "gp:id":20070246,
         "hasc:id":"AZ.SA",
         "iso:id":"AZ-SA",
-        "qs:id":32219
+        "qs_pg:id":32219
     },
     "wof:country":"AZ",
     "wof:geomhash":"31c478374195ded93aa05f9c521c624e",
@@ -96,11 +97,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652926,
+    "wof:lastmodified":1566603765,
     "wof:name":"\u015e\u0259ki",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city",
     "wof:repo":"whosonfirst-data-admin-az",
     "wof:shortcode":"SA",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.01364,40.12735,48.05364,40.16735",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qaramahmudlu"
     ],
@@ -37,8 +41,7 @@
     "name:und_x_variant":[
         "Karamakhmudly",
         "Karamakhmudlu",
-        "Karamakhmutly",
-        "Qaramahmudlu"
+        "Karamakhmutly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1276278231,
-    "wof:lastmodified":1564126064,
+    "wof:lastmodified":1566603828,
     "wof:name":"Qaramahmudlu",
     "wof:parent_id":85668383,
     "wof:placetype":"locality",

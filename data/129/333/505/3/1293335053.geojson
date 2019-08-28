@@ -24,8 +24,12 @@
     "gn:population":7100,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"44.95993,39.53298,44.99993,39.57298",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0634\u0631\u0648\u0631"
     ],
@@ -92,8 +96,7 @@
     "name:und_x_variant":[
         "Il\u2019ich\u00ebvsk",
         "Norashen",
-        "Ilich",
-        "\u015e\u0259rur"
+        "Ilich"
     ],
     "name:urd_x_preferred":[
         "\u0634\u0631\u0648\u0631"
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1293335053,
-    "wof:lastmodified":1564126013,
+    "wof:lastmodified":1566603807,
     "wof:name":"Sharur City",
     "wof:parent_id":85668667,
     "wof:placetype":"locality",

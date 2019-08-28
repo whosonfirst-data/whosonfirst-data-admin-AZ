@@ -10,8 +10,12 @@
     "geom:latitude":40.29667,
     "geom:longitude":49.66028,
     "iso:country":"AZ",
+    "lbl:bbox":"49.64028,40.27667,49.68028,40.31667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Puta"
@@ -34,7 +38,7 @@
     "name:swe_x_preferred":[
         "Puta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staraya Puta"
     ],
     "qs:gn_country":"AZ",
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":585236,
         "gp:id":1951995,
-        "qs:id":430498,
+        "qs_pg:id":430498,
         "wd:id":"Q4026827",
         "wk:page":"Puta, Azerbaijan"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421180419,
-    "wof:lastmodified":1561830157,
+    "wof:lastmodified":1566603996,
     "wof:name":"Puta",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

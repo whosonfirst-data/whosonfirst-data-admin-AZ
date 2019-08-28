@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.41972,41.28059,48.45972,41.32059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "M\u00f6h\u00fcc"
     ],
@@ -47,9 +51,7 @@
         "M\u00f6h\u00fcc"
     ],
     "name:und_x_variant":[
-        "Megyudzh",
-        "Myugyudzh",
-        "M\u00f6h\u00fcc"
+        "Megyudzh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1293236903,
-    "wof:lastmodified":1564125975,
+    "wof:lastmodified":1566603790,
     "wof:name":"Myugyudzh",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":50.08564,
     "gn:country":"AZ",
     "gn:fcode":"PPL",
-    "gn:pop":24596,
+    "gn:population":24596,
     "iso:country":"AZ",
+    "lbl:bbox":"50.06564,40.43193,50.10564,40.47193",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0646\u0647"
     ],
@@ -54,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bina Staraya"
     ],
     "qs:name":"Biny Selo",
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":586968,
         "gp:id":1948164,
-        "qs:id":125858,
+        "qs_pg:id":125858,
         "wd:id":"Q2339034"
     },
     "wof:country":"AZ",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890433401,
-    "wof:lastmodified":1563281875,
+    "wof:lastmodified":1566604003,
     "wof:name":"Biny Selo",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

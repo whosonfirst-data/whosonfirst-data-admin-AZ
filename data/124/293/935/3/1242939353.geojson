@@ -23,8 +23,12 @@
     "gn:population":26765,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.12529,39.58094,47.16529,39.62094",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0641\u0636\u0648\u0644\u064a"
     ],
@@ -94,8 +98,7 @@
     "name:und_x_variant":[
         "Karjagino",
         "Karyagino",
-        "Sardar",
-        "\u0424\u0438\u0437\u0443\u043b\u0438"
+        "Sardar"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0636\u0648\u0644\u06cc"
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1242939353,
-    "wof:lastmodified":1564126466,
+    "wof:lastmodified":1566604021,
     "wof:name":"Fizuli",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

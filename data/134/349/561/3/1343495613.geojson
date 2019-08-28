@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.82208,40.37509,47.86208,40.41509",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0631\u06af\u0648\u0634\u0627\u062f"
     ],
@@ -56,9 +60,7 @@
         "Bargushet",
         "Bargushety",
         "Bargyushad",
-        "Bargumet",
-        "Bargyushat",
-        "B\u0259rg\u00fc\u015fad"
+        "Bargumet"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":1343495613,
-    "wof:lastmodified":1564125874,
+    "wof:lastmodified":1566603739,
     "wof:name":"Bargyushat",
     "wof:parent_id":85668475,
     "wof:placetype":"locality",

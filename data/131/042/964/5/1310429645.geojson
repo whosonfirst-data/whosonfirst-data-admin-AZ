@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.42135,40.66469,47.46135,40.70469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Korarx"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Kerarkh",
-        "Korarkh",
-        "Korarx"
+        "Korarkh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1310429645,
-    "wof:lastmodified":1564126336,
+    "wof:lastmodified":1566603947,
     "wof:name":"Korarx",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

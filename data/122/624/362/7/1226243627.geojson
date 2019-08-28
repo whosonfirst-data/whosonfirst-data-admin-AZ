@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.37287,40.47138,47.41287,40.51138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gapytly",
         "Khapytly",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226243627,
-    "wof:lastmodified":1537585439,
+    "wof:lastmodified":1566604106,
     "wof:name":"Hapitli",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

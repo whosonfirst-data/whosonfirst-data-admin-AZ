@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.65812,39.34185,46.69812,39.38185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0627\u0644\u0627 \u0633\u0648\u0644\u0637\u0627\u0646\u0644\u06cc"
     ],
@@ -59,8 +63,7 @@
     ],
     "name:und_x_variant":[
         "Balasalta",
-        "Bala-Soltanly",
-        "\u0411\u0430\u043b\u0430-\u0421\u043e\u043b\u0442\u0430\u043d\u043b\u044b"
+        "Bala-Soltanly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1327164823,
-    "wof:lastmodified":1564125829,
+    "wof:lastmodified":1566603721,
     "wof:name":"Balasoltanli",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

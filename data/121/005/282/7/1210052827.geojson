@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.68669,41.55065,46.72669,41.59065",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ava_x_preferred":[
         "\u041c\u0443\u0445\u044a\u0430\u0445\u044a"
     ],
@@ -60,8 +64,7 @@
     ],
     "name:und_x_variant":[
         "Mukhakh",
-        "Muchach",
-        "Muxax"
+        "Muchach"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1210052827,
-    "wof:lastmodified":1564126234,
+    "wof:lastmodified":1566603898,
     "wof:name":"Muxax",
     "wof:parent_id":85668601,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.569844,
     "lbl:longitude":48.350065,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.AU",
     "mps:latitude":40.532937,
     "mps:longitude":48.336977,
@@ -176,7 +177,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0445\u0441\u0443\u0439\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akhsuinskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -265,9 +266,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,020",
     "statoids:area_mi":"394",
     "statoids:as_of_date":"1999-01-27",
@@ -293,7 +294,7 @@
         "gp:id":20070215,
         "hasc:id":"AZ.AU",
         "iso:id":"AZ-AGU",
-        "qs:id":202009,
+        "qs_pg:id":202009,
         "unlc:id":"AZ-AGU",
         "wd:id":"Q330800",
         "wk:page":"Agsu District"
@@ -315,11 +316,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652927,
+    "wof:lastmodified":1566603767,
     "wof:name":"A\u011fsu",
     "wof:parent_id":1108808611,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":62281,
     "wof:population_rank":8,

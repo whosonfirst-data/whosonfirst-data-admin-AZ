@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.014716,
     "lbl:longitude":47.137905,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.SK",
     "mps:latitude":41.013843,
     "mps:longitude":47.104253,
@@ -52,9 +53,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"2,430",
     "statoids:area_mi":"938",
     "statoids:as_of_date":"1999-01-27",
@@ -78,7 +79,7 @@
         "gp:id":20070246,
         "hasc:id":"AZ.SK",
         "iso:id":"AZ-SAK",
-        "qs:id":32219
+        "qs_pg:id":32219
     },
     "wof:country":"AZ",
     "wof:geomhash":"8e0640f4c852fb205d04aba6793d7137",
@@ -97,11 +98,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652928,
+    "wof:lastmodified":1566603769,
     "wof:name":"\u015e\u0259ki",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":157353,
     "wof:population_rank":9,

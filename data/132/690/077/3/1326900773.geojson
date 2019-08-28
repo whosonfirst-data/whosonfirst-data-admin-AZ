@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.34739,39.19349,48.38739,39.23349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "E-Chara",
         "Idzhara",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326900773,
-    "wof:lastmodified":1537585229,
+    "wof:lastmodified":1566603712,
     "wof:name":"Idzhara",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

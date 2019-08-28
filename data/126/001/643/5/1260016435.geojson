@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.52963,38.91088,46.56963,38.95088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0698\u0646\u0647\u200c\u0644\u06cc"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0412\u0435\u0436\u043d\u0430\u043b\u0438"
-    ],
-    "name:und_x_variant":[
-        "Vejn\u0259li"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1260016435,
-    "wof:lastmodified":1564126274,
+    "wof:lastmodified":1566603916,
     "wof:name":"Vezhnali",
     "wof:parent_id":85668659,
     "wof:placetype":"locality",

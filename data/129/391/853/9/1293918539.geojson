@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"49.13113,41.05462,49.17113,41.09462",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0627\u0644\u0627\u062c\u0627 \u0647\u0645\u06cc\u0647"
     ],
@@ -46,10 +50,8 @@
     "name:und_x_variant":[
         "Kichik Gam\u2019ya",
         "Baladzha-Gam\u2019ya",
-        "Balaca H\u0259my\u0259",
         "Arab\u2019-Alli-Mamed\u2019",
-        "Alli-Mammed-\u2019Arab\u2019",
-        "Ali-Mammet-Arab"
+        "Alli-Mammed-\u2019Arab\u2019"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1293918539,
-    "wof:lastmodified":1564125944,
+    "wof:lastmodified":1566603778,
     "wof:name":"Ali-Mammet-Arab",
     "wof:parent_id":85668425,
     "wof:placetype":"locality",

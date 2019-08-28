@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.25063,39.58293,47.29063,39.62293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qaraxanb\u0259yli"
     ],
@@ -35,9 +39,6 @@
         "\u053f\u0561\u0580\u0561\u056d\u0561\u0576\u0562\u0565\u0575\u056c\u056b"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0430\u0440\u0430\u0445\u0430\u043d\u0431\u0435\u0439\u043b\u0438"
-    ],
-    "name:und_x_variant":[
         "\u041a\u0430\u0440\u0430\u0445\u0430\u043d\u0431\u0435\u0439\u043b\u0438"
     ],
     "src:geom":"geonames",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1226218415,
-    "wof:lastmodified":1537585220,
+    "wof:lastmodified":1566604073,
     "wof:name":"Karakhanbeyli",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

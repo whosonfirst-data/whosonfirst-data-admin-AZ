@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.4432,40.33532,47.4832,40.37532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062e\u06cc\u0646\u0627\u062e\u200c\u0644\u06cc"
     ],
@@ -50,8 +54,7 @@
         "X\u0131naxl\u0131"
     ],
     "name:und_x_variant":[
-        "Khynakhly",
-        "X\u0131naxl\u0131"
+        "Khynakhly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1226143897,
-    "wof:lastmodified":1564126631,
+    "wof:lastmodified":1566604099,
     "wof:name":"Xinaxli",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

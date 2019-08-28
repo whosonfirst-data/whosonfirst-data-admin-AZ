@@ -10,13 +10,16 @@
     "geom:latitude":40.65,
     "geom:longitude":46.31667,
     "iso:country":"AZ",
+    "lbl:bbox":"46.31167,40.645,46.32167,40.655",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Ba\u011fbanlar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bagmanlyar"
     ],
     "qs:gn_country":"AZ",
@@ -40,16 +43,16 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":13,
     "wof:belongsto":[
-        85668211,
         102191569,
         85632717,
-        1108808609
+        1108808609,
+        85668211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":587094,
         "gp:id":1947974,
-        "qs:id":1189764
+        "qs_pg:id":1189764
     },
     "wof:country":"AZ",
     "wof:created":1459010184,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":421204371,
-    "wof:lastmodified":1531858848,
+    "wof:lastmodified":1566603995,
     "wof:name":"Bagbanlar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

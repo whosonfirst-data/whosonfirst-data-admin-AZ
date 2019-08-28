@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.83977,41.56618,48.87977,41.60618",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Dostluq"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243588751,
-    "wof:lastmodified":1537585534,
+    "wof:lastmodified":1566604029,
     "wof:name":"Dostluq",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

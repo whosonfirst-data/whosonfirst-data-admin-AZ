@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.28109,38.91971,48.32109,38.95971",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Odurak\u0259ran"
     ],
@@ -47,8 +51,7 @@
         "Odurakeran"
     ],
     "name:und_x_variant":[
-        "Oduragaran\u2019",
-        "Odurakeran"
+        "Oduragaran\u2019"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1243203499,
-    "wof:lastmodified":1564126509,
+    "wof:lastmodified":1566604040,
     "wof:name":"Odurakeran",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

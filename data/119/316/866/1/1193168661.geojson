@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.1915,40.7578,47.2315,40.7978",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0639\u0631\u0628 \u0628\u0635\u0631\u0647"
     ],
@@ -44,10 +48,6 @@
         "\u018fr\u0259bb\u0259sra"
     ],
     "name:swe_x_preferred":[
-        "Arabbasra"
-    ],
-    "name:und_x_variant":[
-        "\u018fr\u0259bb\u0259sra",
         "Arabbasra"
     ],
     "src:geom":"geonames",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1193168661,
-    "wof:lastmodified":1564126256,
+    "wof:lastmodified":1566603908,
     "wof:name":"Arabbasra",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",

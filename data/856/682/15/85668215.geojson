@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.555906,
     "lbl:longitude":46.672,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.GR",
     "mps:latitude":40.544842,
     "mps:longitude":46.663434,
@@ -201,9 +202,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,790",
     "statoids:area_mi":"691",
     "statoids:as_of_date":"1999-01-27",
@@ -228,7 +229,7 @@
         "gp:id":20070261,
         "hasc:id":"AZ.GR",
         "iso:id":"AZ-GOR",
-        "qs:id":49485,
+        "qs_pg:id":49485,
         "wd:id":"Q330843",
         "wk:page":"Goranboy District"
     },
@@ -249,11 +250,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652927,
+    "wof:lastmodified":1566603768,
     "wof:name":"Goranboy",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":86645,
     "wof:population_rank":8,

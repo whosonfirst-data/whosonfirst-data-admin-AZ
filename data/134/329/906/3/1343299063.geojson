@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.32097,38.89495,48.36097,38.93495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u018fv\u00e7\u0259dulan"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343299063,
-    "wof:lastmodified":1537585271,
+    "wof:lastmodified":1566603754,
     "wof:name":"Avchadulan",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

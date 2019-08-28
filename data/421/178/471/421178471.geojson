@@ -10,8 +10,12 @@
     "geom:latitude":40.46602,
     "geom:longitude":49.82783,
     "iso:country":"AZ",
+    "lbl:bbox":"49.80783,40.44602,49.84783,40.48602",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Bin\u0259q\u0259di rayonu"
@@ -52,7 +56,7 @@
     "name:tur_x_preferred":[
         "Binegedi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Binaghad"
     ],
     "name:uzb_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":586967,
         "gp:id":1948168,
-        "qs:id":125857,
+        "qs_pg:id":125857,
         "wd:id":"Q864153",
         "wk:page":"Bin\u0259q\u0259di raion"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421178471,
-    "wof:lastmodified":1563281851,
+    "wof:lastmodified":1566603998,
     "wof:name":"Bin\u00e4q\u00e4di",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

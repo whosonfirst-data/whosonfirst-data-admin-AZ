@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.86667,38.93333,45.90667,38.97333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u0648\u06cc\u0644\u0648\u0646"
     ],
@@ -57,8 +61,7 @@
         "Dyuylyun"
     ],
     "name:und_x_variant":[
-        "Dyuglyun",
-        "Dyuylyun"
+        "Dyuglyun"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1293837245,
-    "wof:lastmodified":1564125969,
+    "wof:lastmodified":1566603787,
     "wof:name":"Dyuylyun",
     "wof:parent_id":85668665,
     "wof:placetype":"locality",

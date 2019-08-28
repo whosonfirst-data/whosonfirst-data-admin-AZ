@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.734651,
     "lbl:longitude":49.235104,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.XI",
     "mps:latitude":40.69144,
     "mps:longitude":49.278728,
@@ -32,7 +33,7 @@
     "name:eng_x_preferred":[
         "Xizi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "X\u0131z\u0131"
     ],
     "ne:abbrev":"",
@@ -109,9 +110,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,850",
     "statoids:area_mi":"714",
     "statoids:as_of_date":"1999-01-27",
@@ -137,7 +138,7 @@
         "gp:id":20070271,
         "hasc:id":"AZ.XI",
         "iso:id":"AZ-XIZ",
-        "qs:id":1013205,
+        "qs_pg:id":1013205,
         "unlc:id":"AZ-XIZ"
     },
     "wof:country":"AZ",
@@ -157,11 +158,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652929,
+    "wof:lastmodified":1566603771,
     "wof:name":"Xiz\u0131",
     "wof:parent_id":1108808621,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":13080,
     "wof:population_rank":6,

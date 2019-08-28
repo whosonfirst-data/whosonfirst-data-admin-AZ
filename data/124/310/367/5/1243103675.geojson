@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.53273,38.65923,48.57273,38.69923",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Veri \u018fliabad\u0131"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243103675,
-    "wof:lastmodified":1537585282,
+    "wof:lastmodified":1566604044,
     "wof:name":"Aliabad",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

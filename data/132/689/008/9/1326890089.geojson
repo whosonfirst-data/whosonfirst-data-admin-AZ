@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.69834,39.01417,48.73834,39.05417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Onc\u0259k\u0259l\u0259"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326890089,
-    "wof:lastmodified":1537585168,
+    "wof:lastmodified":1566603690,
     "wof:name":"Ondzhakyala",
     "wof:parent_id":85668397,
     "wof:placetype":"locality",

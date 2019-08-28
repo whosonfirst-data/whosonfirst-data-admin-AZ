@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.26539,40.51002,48.30539,40.55002",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u0648\u0633\u0627\u0628\u06cc\u0644\u06cc"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Musabekly",
-        "Musabekpy",
-        "Musabeyli"
+        "Musabekpy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1343850491,
-    "wof:lastmodified":1564125871,
+    "wof:lastmodified":1566603738,
     "wof:name":"Musabeyli",
     "wof:parent_id":85668289,
     "wof:placetype":"locality",

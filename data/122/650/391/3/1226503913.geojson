@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.38998,39.72858,46.42998,39.76858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u018fliqulu"
     ],
@@ -56,8 +60,7 @@
     ],
     "name:und_x_variant":[
         "Alikulikend",
-        "Alikulu",
-        "\u0410\u043b\u0438\u043a\u0443\u043b\u0443"
+        "Alikulu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1226503913,
-    "wof:lastmodified":1564126613,
+    "wof:lastmodified":1566604088,
     "wof:name":"Alikulu",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

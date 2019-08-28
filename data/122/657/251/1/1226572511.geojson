@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.91138,39.45384,46.95138,39.49384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u0648\u0644\u06a9\u0648\u062f\u0631\u0647"
     ],
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1226572511,
-    "wof:lastmodified":1564126610,
+    "wof:lastmodified":1566604086,
     "wof:name":"Mioulkoudara",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

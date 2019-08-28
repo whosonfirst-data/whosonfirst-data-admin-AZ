@@ -23,8 +23,12 @@
     "gn:population":1581,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.33293,41.25524,45.37293,41.29524",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0633\u0627\u0644\u0648\u063a\u200c\u0644\u0648"
     ],
@@ -52,7 +56,6 @@
     "name:und_x_variant":[
         "Saloghly",
         "Salogly",
-        "Salo\u011flu",
         "Kukheti",
         "Kukhety"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1209437743,
-    "wof:lastmodified":1564126226,
+    "wof:lastmodified":1566603895,
     "wof:name":"Saloglu",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

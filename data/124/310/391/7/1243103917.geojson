@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.06134,39.50788,47.10134,39.54788",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u0644\u06cc\u06a9\u062c\u0627\u0646\u0644\u06cc"
     ],
@@ -63,8 +67,7 @@
         "Melikdganlou",
         "Melikashen",
         "Milikdzhanlu",
-        "Melikdzhanly",
-        "\u041c\u0435\u043b\u0438\u043a\u0434\u0436\u0430\u043d\u043b\u044b"
+        "Melikdzhanly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1243103917,
-    "wof:lastmodified":1564126517,
+    "wof:lastmodified":1566604044,
     "wof:name":"Melikcanli",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

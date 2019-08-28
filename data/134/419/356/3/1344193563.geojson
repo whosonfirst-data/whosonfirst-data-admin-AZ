@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.61231,39.73149,46.65231,39.77149",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0644\u0644\u0647\u200c\u06a9\u0644\u0648\u0644\u0627\u0631"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1344193563,
-    "wof:lastmodified":1564125897,
+    "wof:lastmodified":1566603749,
     "wof:name":"Allahqulular",
     "wof:parent_id":85668643,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.66929,38.83668,48.70929,38.87668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "T\u00fck\u0259vil\u0259"
     ],
@@ -45,8 +49,7 @@
     ],
     "name:und_x_variant":[
         "Tyukavilya",
-        "T\u00fck\u00e4vil\u00e4",
-        "T\u00fckl\u0259"
+        "T\u00fck\u00e4vil\u00e4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1209976359,
-    "wof:lastmodified":1564126150,
+    "wof:lastmodified":1566603864,
     "wof:name":"Tyukevilya",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

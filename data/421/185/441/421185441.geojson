@@ -10,8 +10,12 @@
     "geom:latitude":40.436234,
     "geom:longitude":50.094223,
     "iso:country":"AZ",
+    "lbl:bbox":"50.074223,40.416234,50.114223,40.456234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Suraxan\u0131"
@@ -56,7 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1952022,
-        "qs:id":895528,
+        "qs_pg:id":895528,
         "wd:id":"Q4446440"
     },
     "wof:country":"AZ",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":421185441,
-    "wof:lastmodified":1563281862,
+    "wof:lastmodified":1566604000,
     "wof:name":"Surakhany",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

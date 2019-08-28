@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.76574,39.75089,46.80574,39.79089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u015eu\u015fik\u0259nd"
     ],
@@ -68,9 +72,7 @@
         "\u0428\u043e\u0448"
     ],
     "name:und_x_variant":[
-        "Shosh",
-        "Shushekend",
-        "\u0428\u0443\u0448\u0438\u043a\u0435\u043d\u0434"
+        "Shushekend"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":1226373065,
-    "wof:lastmodified":1564126653,
+    "wof:lastmodified":1566604109,
     "wof:name":"Shushikend",
     "wof:parent_id":85668657,
     "wof:placetype":"locality",

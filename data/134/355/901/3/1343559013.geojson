@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.41546,40.5873,48.45546,40.6273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Talis"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343559013,
-    "wof:lastmodified":1564125847,
+    "wof:lastmodified":1566603729,
     "wof:name":"Talis",
     "wof:parent_id":85668289,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.27618,39.80192,46.31618,39.84192",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0644\u06cc \u0628\u06cc\u200c\u0644\u06cc"
     ],
@@ -58,8 +62,7 @@
     ],
     "name:und_x_variant":[
         "Belibeyli",
-        "Velibeyli",
-        "\u0412\u0435\u043b\u0438\u0431\u0435\u0439\u043b\u0438"
+        "Velibeyli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1310562681,
-    "wof:lastmodified":1564126368,
+    "wof:lastmodified":1566603960,
     "wof:name":"Velibeyli",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

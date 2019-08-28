@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.12069,41.1913,47.16069,41.2313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0642\u0648\u062e\u0645\u0648\u0642"
     ],
@@ -50,8 +54,7 @@
         "Qoxmuq"
     ],
     "name:und_x_variant":[
-        "Kokhmukh",
-        "Qoxmuq"
+        "Kokhmukh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1326466635,
-    "wof:lastmodified":1564125806,
+    "wof:lastmodified":1566603710,
     "wof:name":"Qoxmuq",
     "wof:parent_id":85668565,
     "wof:placetype":"locality",

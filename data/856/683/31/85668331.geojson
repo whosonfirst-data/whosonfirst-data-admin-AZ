@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":39.212612,
     "lbl:longitude":48.456723,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.CL",
     "mps:latitude":39.174415,
     "mps:longitude":48.486085,
@@ -163,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0430\u043b\u0456\u043b\u0430\u0431\u0430\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dzhalilabadskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -249,9 +250,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,440",
     "statoids:area_mi":"556",
     "statoids:as_of_date":"1999-01-27",
@@ -280,7 +281,7 @@
         "gp:id":20070223,
         "hasc:id":"AZ.CL",
         "iso:id":"AZ-CAL",
-        "qs:id":1172843,
+        "qs_pg:id":1172843,
         "wd:id":"Q1020627"
     },
     "wof:country":"AZ",
@@ -300,11 +301,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652930,
+    "wof:lastmodified":1566603772,
     "wof:name":"C\u0259lilabad",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":169960,
     "wof:population_rank":9,

@@ -11,8 +11,11 @@
     "geom:longitude":47.17056,
     "gn:country":"AZ",
     "gn:fcode":"PPLA",
-    "gn:pop":62191,
+    "gn:population":62191,
     "iso:country":"AZ",
+    "lbl:bbox":"47.15056,41.17194,47.19056,41.21194",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -214,7 +217,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nuxa"
     ],
     "name:urd_x_preferred":[
@@ -343,7 +346,7 @@
     "wof:concordances":{
         "gn:id":585170,
         "gp:id":1952009,
-        "qs:id":273798,
+        "qs_pg:id":273798,
         "wd:id":"Q234783",
         "wk:page":"Sheki"
     },
@@ -360,7 +363,7 @@
         }
     ],
     "wof:id":890440185,
-    "wof:lastmodified":1563281863,
+    "wof:lastmodified":1566604000,
     "wof:name":"Sheki",
     "wof:parent_id":85668707,
     "wof:placetype":"locality",

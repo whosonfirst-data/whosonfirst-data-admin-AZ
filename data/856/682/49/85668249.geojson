@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.327264,
     "lbl:longitude":49.570212,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.BA",
     "mps:latitude":40.45513,
     "mps:longitude":49.988951,
@@ -533,7 +534,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043a\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baky Sh\u00e4h\u00e4ri"
     ],
     "name:urd_x_preferred":[
@@ -658,9 +659,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"2,130",
     "statoids:area_mi":"822",
     "statoids:as_of_date":"1999-01-27",
@@ -686,7 +687,7 @@
         "gp:id":20070218,
         "hasc:id":"AZ.BA",
         "iso:id":"AZ-BA",
-        "qs:id":219914,
+        "qs_pg:id":219914,
         "unlc:id":"AZ-BA",
         "wd:id":"Q9248",
         "wk:page":"Baku"
@@ -708,11 +709,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652927,
+    "wof:lastmodified":1566603768,
     "wof:name":"Bak\u0131",
     "wof:parent_id":1108808621,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city",
     "wof:population":1788854,
     "wof:population_rank":12,

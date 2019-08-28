@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.48652,41.62578,48.52652,41.66578",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u018fniqoba"
     ],
@@ -47,8 +51,7 @@
         "Anykhoba Pervaya"
     ],
     "name:und_x_variant":[
-        "Anykhoba",
-        "\u018fniqoba"
+        "Anykhoba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1309741523,
-    "wof:lastmodified":1564126424,
+    "wof:lastmodified":1566603991,
     "wof:name":"Anykhoba Pervaya",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.9695,40.89908,48.0095,40.93908",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u0646\u0648\u062f"
     ],
@@ -50,8 +54,7 @@
         "Bunud"
     ],
     "name:und_x_variant":[
-        "Bunut",
-        "Bunud"
+        "Bunut"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1327476535,
-    "wof:lastmodified":1564125787,
+    "wof:lastmodified":1566603702,
     "wof:name":"Bunud",
     "wof:parent_id":85668541,
     "wof:placetype":"locality",

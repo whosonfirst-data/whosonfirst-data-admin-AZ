@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.64536,41.0081,48.68536,41.0481",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062e\u0627\u0634\u06cc"
     ],
@@ -38,8 +42,7 @@
         "Xa\u015f\u0131"
     ],
     "name:und_x_variant":[
-        "Khashi",
-        "Xa\u015f\u0131"
+        "Khashi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1343397135,
-    "wof:lastmodified":1564125842,
+    "wof:lastmodified":1566603727,
     "wof:name":"Khashy",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

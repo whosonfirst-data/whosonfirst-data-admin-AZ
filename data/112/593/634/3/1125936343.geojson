@@ -9,15 +9,18 @@
     "geom:bbox":"45.41222,39.20889,45.41222,39.20889",
     "geom:latitude":39.20889,
     "geom:longitude":45.41222,
-    "gn:gn_country":"AZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":64754,
+    "gn:country":"AZ",
+    "gn:fcode":"PPL",
     "gn:population":64754,
     "iso:country":"AZ",
+    "lbl:bbox":"45.39222,39.18889,45.43222,39.22889",
     "lbl:latitude":39.20889,
     "lbl:longitude":45.41222,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Nachitsjewan"
@@ -250,7 +253,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0445\u0456\u0447\u0435\u0432\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nakhicevan"
     ],
     "name:urd_x_preferred":[
@@ -286,7 +289,7 @@
     "qs_pg:qs_id":67169,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -313,7 +316,7 @@
         }
     ],
     "wof:id":1125936343,
-    "wof:lastmodified":1563281884,
+    "wof:lastmodified":1566604005,
     "wof:name":"Nakhchivan",
     "wof:parent_id":85668681,
     "wof:placetype":"locality",

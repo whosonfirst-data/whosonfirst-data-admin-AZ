@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.42053,38.79468,48.46053,38.83468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Biln\u0259"
     ],
@@ -35,8 +39,7 @@
         "A\u015fa\u011f\u0131 Biln\u0259"
     ],
     "name:und_x_variant":[
-        "Ashagy Bil\u2019nya",
-        "A\u015fa\u011f\u0131 Biln\u0259"
+        "Ashagy Bil\u2019nya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1226277555,
-    "wof:lastmodified":1564126589,
+    "wof:lastmodified":1566604076,
     "wof:name":"Nizhnyaya Bilinya",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

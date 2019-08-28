@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.23857,39.9981,47.27857,40.0381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u015eahsev\u0259n"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209524303,
-    "wof:lastmodified":1537585341,
+    "wof:lastmodified":1566603866,
     "wof:name":"Shakhsevan",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

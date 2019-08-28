@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.24691,39.50716,47.28691,39.54716",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "A\u015fa\u011f\u0131 \u018fbd\u00fcrr\u0259hmanl\u0131"
     ],
@@ -47,8 +51,7 @@
         "\u0410\u0448\u0430\u0433\u044b \u0410\u0431\u0434\u0443\u0440\u0430\u0445\u043c\u0430\u043d\u043b\u044b"
     ],
     "name:und_x_variant":[
-        "Ashaga-Abdurakhmanly",
-        "\u0410\u0448\u0430\u0433\u044b \u0410\u0431\u0434\u0443\u0440\u0430\u0445\u043c\u0430\u043d\u043b\u044b"
+        "Ashaga-Abdurakhmanly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1226306147,
-    "wof:lastmodified":1564126661,
+    "wof:lastmodified":1566604112,
     "wof:name":"Ashagy Abdurakhmanly",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.33301,40.03356,48.37301,40.07356",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Narl\u0131q"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Narlyk",
-        "Narlykh",
-        "Narl\u0131q"
+        "Narlykh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1226476621,
-    "wof:lastmodified":1564126640,
+    "wof:lastmodified":1566604103,
     "wof:name":"Narliq",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

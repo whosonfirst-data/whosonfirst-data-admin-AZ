@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.06858,39.33501,47.10858,39.37501",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Fuqanl\u0131"
     ],
@@ -44,8 +48,7 @@
         "\u0424\u0443\u0433\u0430\u043d\u043b\u044b"
     ],
     "name:und_x_variant":[
-        "Fuganly",
-        "\u0424\u0443\u0433\u0430\u043d\u043b\u044b"
+        "Fuganly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1310674621,
-    "wof:lastmodified":1564126370,
+    "wof:lastmodified":1566603961,
     "wof:name":"Fuqanli",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

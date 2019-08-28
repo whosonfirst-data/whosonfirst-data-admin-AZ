@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.1974,39.95655,46.2374,39.99655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qaraxan\u00e7all\u0131"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293544207,
-    "wof:lastmodified":1564125950,
+    "wof:lastmodified":1566603780,
     "wof:name":"Qaraxancalli",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

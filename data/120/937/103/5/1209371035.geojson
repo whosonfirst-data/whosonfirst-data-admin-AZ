@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"49.03938,40.10607,49.07938,40.14607",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qubal\u0131balao\u011flan"
     ],
@@ -53,8 +57,7 @@
         "Kubaly",
         "Kubah",
         "Kubalybalaoglan",
-        "Kubali-Bala-Oglan",
-        "Qubal\u0131balao\u011flan"
+        "Kubali-Bala-Oglan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1209371035,
-    "wof:lastmodified":1564126149,
+    "wof:lastmodified":1566603863,
     "wof:name":"Qubalibalaoglan",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

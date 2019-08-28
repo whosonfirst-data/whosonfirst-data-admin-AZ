@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.6975,39.99629,48.7375,40.03629",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Axta\u00e7\u0131 Mu\u011fan"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1344092901,
-    "wof:lastmodified":1564125860,
+    "wof:lastmodified":1566603733,
     "wof:name":"Axtaci Mugan",
     "wof:parent_id":85668447,
     "wof:placetype":"locality",

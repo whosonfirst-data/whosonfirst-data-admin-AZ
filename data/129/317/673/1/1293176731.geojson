@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.11445,39.4642,47.15445,39.5042",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "A\u015fa\u011f\u0131 K\u00fczl\u0259k"
     ],
@@ -39,7 +43,6 @@
     ],
     "name:und_x_variant":[
         "Kyuzlyak",
-        "Yukhary Gyuzlyak",
         "Ashagy Gyuzlyak"
     ],
     "src:geom":"geonames",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1293176731,
-    "wof:lastmodified":1537585129,
+    "wof:lastmodified":1566603813,
     "wof:name":"Yukhary Gyuzlyak",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

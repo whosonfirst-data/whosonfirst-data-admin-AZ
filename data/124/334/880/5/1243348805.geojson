@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.62678,38.50169,48.66678,38.54169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u067e\u0627\u0644\u06cc\u06a9\u0634"
     ],
@@ -51,9 +55,7 @@
     ],
     "name:und_x_variant":[
         "Palikesh",
-        "Palokyat",
-        "Palikyash",
-        "P\u0259lik\u0259\u015f"
+        "Palikyash"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":1243348805,
-    "wof:lastmodified":1564126487,
+    "wof:lastmodified":1566604030,
     "wof:name":"Palokyat",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.56772,39.33553,48.60772,39.37553",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "T\u0259z\u0259k\u0259nd"
     ],
@@ -35,8 +39,7 @@
         "Tazakend"
     ],
     "name:und_x_variant":[
-        "Beyuk-Tazakend",
-        "Tazakend"
+        "Beyuk-Tazakend"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1344036979,
-    "wof:lastmodified":1564125908,
+    "wof:lastmodified":1566603754,
     "wof:name":"Tazakend",
     "wof:parent_id":85668317,
     "wof:placetype":"locality",

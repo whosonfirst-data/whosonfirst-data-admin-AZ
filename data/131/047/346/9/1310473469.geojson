@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.80994,40.94326,48.84994,40.98326",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0642\u06cc\u0632\u06cc\u0644 \u0642\u0627\u0632\u0645\u0627"
     ],
@@ -41,8 +45,7 @@
         "Q\u0131z\u0131lqazma"
     ],
     "name:und_x_variant":[
-        "Kyzylkazma",
-        "Q\u0131z\u0131lqazma"
+        "Kyzylkazma"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1310473469,
-    "wof:lastmodified":1564126316,
+    "wof:lastmodified":1566603938,
     "wof:name":"Qizilqazma",
     "wof:parent_id":85668339,
     "wof:placetype":"locality",

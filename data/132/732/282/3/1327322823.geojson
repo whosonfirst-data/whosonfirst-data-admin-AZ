@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.23625,41.64902,46.27625,41.68902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ava_x_preferred":[
         "\u0418\u0441\u0430\u043a\u044a\u0438\u043b\u0433\u0438\u0440\u043c\u0430"
     ],
@@ -42,8 +46,7 @@
     ],
     "name:und_x_variant":[
         "Isakhlygirme",
-        "Isaklygirmya",
-        "\u0130saql\u0131girm\u0259"
+        "Isaklygirmya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1327322823,
-    "wof:lastmodified":1564125794,
+    "wof:lastmodified":1566603705,
     "wof:name":"Isaklygirmya",
     "wof:parent_id":85668531,
     "wof:placetype":"locality",

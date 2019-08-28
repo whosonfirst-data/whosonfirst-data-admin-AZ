@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.69673,40.53074,45.73673,40.57074",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Sar\u0131k\u00f6yn\u0259k"
     ],
@@ -38,8 +42,7 @@
         "Sar\u0131k\u00f6yn\u0259k"
     ],
     "name:und_x_variant":[
-        "Saryk\u00ebynak",
-        "Sar\u0131k\u00f6yn\u0259k"
+        "Saryk\u00ebynak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1326505357,
-    "wof:lastmodified":1564125781,
+    "wof:lastmodified":1566603700,
     "wof:name":"Sarikoynak",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.03697,40.71497,46.07697,40.75497",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cayli"
     ],
@@ -38,8 +42,7 @@
         "Cayli"
     ],
     "name:und_x_variant":[
-        "Chayly",
-        "\u00c7ayl\u0131"
+        "Chayly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1360221565,
-    "wof:lastmodified":1564126379,
+    "wof:lastmodified":1566603964,
     "wof:name":"Cayli",
     "wof:parent_id":85668233,
     "wof:placetype":"locality",

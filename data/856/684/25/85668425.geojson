@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.088673,
     "lbl:longitude":49.101296,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.SY",
     "mps:latitude":41.062721,
     "mps:longitude":49.074556,
@@ -104,7 +105,7 @@
     "name:tur_x_preferred":[
         "Siyezen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Siy\u01ddz\u01ddn"
     ],
     "name:urd_x_preferred":[
@@ -190,9 +191,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"700",
     "statoids:area_mi":"270",
     "statoids:as_of_date":"1999-01-27",
@@ -217,7 +218,7 @@
         "gp:id":20070278,
         "hasc:id":"AZ.SY",
         "iso:id":"AZ-SIY",
-        "qs:id":270754
+        "qs_pg:id":270754
     },
     "wof:country":"AZ",
     "wof:geomhash":"bebd77e227d6b202962ec4dbbb09606c",
@@ -236,11 +237,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652930,
+    "wof:lastmodified":1566603771,
     "wof:name":"Siy\u0259z\u0259n",
     "wof:parent_id":1108808623,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":33462,
     "wof:population_rank":7,

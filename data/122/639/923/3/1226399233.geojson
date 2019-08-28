@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.0424,40.07445,46.0824,40.11445",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u015eaplar"
     ],
@@ -36,7 +40,6 @@
     ],
     "name:und_x_variant":[
         "Shaplar",
-        "\u015eaplar",
         "Ferkhani"
     ],
     "src:geom":"geonames",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1226399233,
-    "wof:lastmodified":1564126662,
+    "wof:lastmodified":1566604113,
     "wof:name":"Saplar",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

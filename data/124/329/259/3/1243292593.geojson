@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.65245,40.04357,46.69245,40.08357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Ball\u0131qaya"
     ],
@@ -58,10 +62,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0447\u0430\u043d"
     ],
-    "name:und_x_variant":[
-        "Ki\u00e7an",
-        "Kichan"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1243292593,
-    "wof:lastmodified":1564126513,
+    "wof:lastmodified":1566604042,
     "wof:name":"Balliqaya",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

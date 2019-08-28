@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.465357,
     "lbl:longitude":46.017121,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.DS",
     "mps:latitude":40.454547,
     "mps:longitude":45.999962,
@@ -107,7 +108,7 @@
     "name:tur_x_preferred":[
         "Da\u015fkesen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dastafyurskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -190,9 +191,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,050",
     "statoids:area_mi":"405",
     "statoids:as_of_date":"1999-01-27",
@@ -221,7 +222,7 @@
         "gp:id":20070222,
         "hasc:id":"AZ.DS",
         "iso:id":"AZ-DAS",
-        "qs:id":1006793,
+        "qs_pg:id":1006793,
         "wd:id":"Q2332472"
     },
     "wof:country":"AZ",
@@ -241,11 +242,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652925,
+    "wof:lastmodified":1566603765,
     "wof:name":"Da\u015fk\u0259s\u0259n",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":30418,
     "wof:population_rank":7,

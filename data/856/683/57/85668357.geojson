@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.570798,
     "lbl:longitude":47.880883,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.GY",
     "mps:latitude":40.567713,
     "mps:longitude":47.821243,
@@ -164,7 +165,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0439\u0447\u0430\u0439\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Geokchayskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -253,9 +254,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"740",
     "statoids:area_mi":"286",
     "statoids:as_of_date":"1999-01-27",
@@ -281,7 +282,7 @@
         "gp:id":20070226,
         "hasc:id":"AZ.GY",
         "iso:id":"AZ-GOY",
-        "qs:id":500535,
+        "qs_pg:id":500535,
         "unlc:id":"AZ-GOY",
         "wd:id":"Q477163",
         "wk:page":"Goychay District"
@@ -303,11 +304,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652930,
+    "wof:lastmodified":1566603771,
     "wof:name":"G\u00f6y\u00e7ay",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":100511,
     "wof:population_rank":9,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.52644,39.39277,46.56644,39.43277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Abdalanl\u0131"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Abdalinlu",
-        "Abdalanly",
-        "\u0410\u0431\u0434\u0430\u043b\u0430\u043d\u043b\u044b"
+        "Abdalanly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1293237309,
-    "wof:lastmodified":1564125973,
+    "wof:lastmodified":1566603790,
     "wof:name":"Abdalanli",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

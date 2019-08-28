@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.5333,39.29486,46.5733,39.33486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "A\u015fa\u011f\u0131 Xocamusaxl\u0131"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1209450039,
-    "wof:lastmodified":1564126218,
+    "wof:lastmodified":1566603892,
     "wof:name":"Asagi Xocamsaqli",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

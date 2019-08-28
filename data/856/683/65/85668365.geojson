@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":39.900384,
     "lbl:longitude":48.059139,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.IM",
     "mps:latitude":39.89803,
     "mps:longitude":48.047514,
@@ -164,7 +165,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043c\u0456\u0448\u043b\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karadonlinskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -253,9 +254,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,820",
     "statoids:area_mi":"703",
     "statoids:as_of_date":"1999-01-27",
@@ -281,7 +282,7 @@
         "gp:id":20070227,
         "hasc:id":"AZ.IM",
         "iso:id":"AZ-IMI",
-        "qs:id":49469,
+        "qs_pg:id":49469,
         "unlc:id":"AZ-IMI",
         "wd:id":"Q343908",
         "wk:page":"Imishli District"
@@ -303,11 +304,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652930,
+    "wof:lastmodified":1566603772,
     "wof:name":"\u0130mi\u015fli",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":104026,
     "wof:population_rank":9,

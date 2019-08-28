@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.2907,38.82989,48.3307,38.86989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "G\u0259ndov"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226373205,
-    "wof:lastmodified":1537585232,
+    "wof:lastmodified":1566604111,
     "wof:name":"Gyandov",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

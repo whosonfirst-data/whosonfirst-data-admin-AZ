@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.01691,40.36469,47.05691,40.40469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06cc\u0626\u0646\u06cc \u062f\u0627\u0634\u06a9\u0646\u062f"
     ],
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1226130527,
-    "wof:lastmodified":1564126631,
+    "wof:lastmodified":1566604099,
     "wof:name":"Yenidashkend",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":40.44182,
     "geom:longitude":50.16812,
     "iso:country":"AZ",
+    "lbl:bbox":"50.14812,40.42182,50.18812,40.46182",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0642\u0627\u0644\u0627"
@@ -43,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kala"
     ],
     "qs:gn_country":"AZ",
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":586289,
         "gp:id":1950638,
-        "qs:id":260066,
+        "qs_pg:id":260066,
         "wd:id":"Q4026864",
         "wk:page":"Qala, Azerbaijan"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421205257,
-    "wof:lastmodified":1563281833,
+    "wof:lastmodified":1566603995,
     "wof:name":"Qala",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

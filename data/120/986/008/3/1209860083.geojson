@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"49.20672,39.19275,49.24672,39.23275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sarykamysh",
         "Sar\u0131qam\u0131\u015f"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209860083,
-    "wof:lastmodified":1537585158,
+    "wof:lastmodified":1566603896,
     "wof:name":"Sariqamis",
     "wof:parent_id":85668409,
     "wof:placetype":"locality",

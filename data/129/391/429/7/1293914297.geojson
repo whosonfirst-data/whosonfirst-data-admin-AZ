@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.93862,39.82542,46.97862,39.86542",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0686\u0624\u0631\u06a9\u200c\u0644\u06cc"
     ],
@@ -71,9 +75,7 @@
         "\u0425\u0430\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "Gatsi",
-        "Gatsy",
-        "\u0413\u0430\u0446\u0438"
+        "Gatsi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":1293914297,
-    "wof:lastmodified":1564125943,
+    "wof:lastmodified":1566603777,
     "wof:name":"Gatsy",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

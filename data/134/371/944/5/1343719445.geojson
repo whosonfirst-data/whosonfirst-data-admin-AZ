@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.2825,40.65335,48.3225,40.69335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "B\u0259hliyan"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Bakhliin",
-        "Bakhliyan",
-        "B\u0259hliyan"
+        "Bakhliyan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1343719445,
-    "wof:lastmodified":1564125872,
+    "wof:lastmodified":1566603738,
     "wof:name":"Bakhliyan",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

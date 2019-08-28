@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.52898,40.1397,47.56898,40.1797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "N\u0259c\u0259fqulub\u0259yli"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326933509,
-    "wof:lastmodified":1537585362,
+    "wof:lastmodified":1566603695,
     "wof:name":"Nadzhafulibeyli",
     "wof:parent_id":85668519,
     "wof:placetype":"locality",

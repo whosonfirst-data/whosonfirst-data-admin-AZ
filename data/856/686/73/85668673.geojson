@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":39.267346,
     "lbl:longitude":45.488014,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.BK",
     "mps:latitude":39.330207,
     "mps:longitude":45.333564,
@@ -135,9 +136,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,170",
     "statoids:area_mi":"452",
     "statoids:as_of_date":"1999-01-27",
@@ -163,7 +164,7 @@
         "gp:id":24550722,
         "hasc:id":"AZ.BK",
         "iso:id":"AZ-BAB",
-        "qs:id":1191260
+        "qs_pg:id":1191260
     },
     "wof:country":"AZ",
     "wof:geomhash":"471172102bfef246d1a7d77207f5f2fc",
@@ -182,7 +183,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565807372,
+    "wof:lastmodified":1566603763,
     "wof:name":"Bab\u0259k",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

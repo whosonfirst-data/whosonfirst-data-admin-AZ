@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.47133,40.35793,48.51133,40.39793",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Karaganly"
     ],
@@ -35,8 +39,7 @@
         "Karaganly"
     ],
     "name:und_x_variant":[
-        "Karagarly",
-        "Karaganly"
+        "Karagarly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1242775317,
-    "wof:lastmodified":1564126494,
+    "wof:lastmodified":1566604034,
     "wof:name":"Karaganly",
     "wof:parent_id":85668289,
     "wof:placetype":"locality",

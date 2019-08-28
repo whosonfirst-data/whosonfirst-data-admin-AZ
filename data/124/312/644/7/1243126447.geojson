@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.29318,40.06219,48.33318,40.10219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u0627\u06cc\u06cc \u06a9\u0627\u0638\u06cc\u0645\u0644\u06cc"
     ],
@@ -41,7 +45,6 @@
         "Day\u0131kaz\u0131ml\u0131"
     ],
     "name:und_x_variant":[
-        "Day\u0131kaz\u0131ml\u0131",
         "Dayykyazymly"
     ],
     "src:geom":"geonames",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1243126447,
-    "wof:lastmodified":1564126473,
+    "wof:lastmodified":1566604024,
     "wof:name":"Dayikazimli",
     "wof:parent_id":85668383,
     "wof:placetype":"locality",

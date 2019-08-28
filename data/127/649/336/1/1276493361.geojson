@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.03957,40.40599,48.07957,40.44599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qarabucaq"
     ],
@@ -47,8 +51,7 @@
         "Karabudzhag",
         "Karabudzhak",
         "Karabudzhakh",
-        "Karabudshach",
-        "Qarabucaq"
+        "Karabudshach"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1276493361,
-    "wof:lastmodified":1564126094,
+    "wof:lastmodified":1566603842,
     "wof:name":"Qarabucaq",
     "wof:parent_id":85668383,
     "wof:placetype":"locality",

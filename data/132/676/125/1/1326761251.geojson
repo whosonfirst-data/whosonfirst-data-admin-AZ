@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.60946,40.30922,47.64946,40.34922",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u0130kinci Al\u0131canl\u0131"
     ],
@@ -56,8 +60,7 @@
         "Alydzhanly Vtoroye",
         "Alydzhanly",
         "Alidzhanly Vtoryye",
-        "Alydzhanly Vtoroy",
-        "\u0130kinci \u018flicanl\u0131"
+        "Alydzhanly Vtoroy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1326761251,
-    "wof:lastmodified":1564125799,
+    "wof:lastmodified":1566603707,
     "wof:name":"Ikinci Alicanli",
     "wof:parent_id":85668509,
     "wof:placetype":"locality",

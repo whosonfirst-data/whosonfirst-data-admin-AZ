@@ -11,10 +11,14 @@
     "geom:longitude":47.70833,
     "gn:country":"AZ",
     "gn:fcode":"PPLA",
-    "gn:pop":10612,
+    "gn:population":10612,
     "iso:country":"AZ",
+    "lbl:bbox":"47.68833,40.19833,47.72833,40.23833",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0632\u0627\u0631\u062f\u0627\u0628"
     ],
@@ -148,9 +152,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0435\u0440\u0434\u0430\u0431\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Z\u0259rdab"
-    ],
     "name:urd_x_preferred":[
         "\u0632\u0627\u0631\u062f\u0627\u0628 \u0636\u0644\u0639"
     ],
@@ -179,7 +180,7 @@
     "wof:concordances":{
         "gn:id":584586,
         "gp:id":1951785,
-        "qs:id":550128,
+        "qs_pg:id":550128,
         "wd:id":"Q249293",
         "wk:page":"Zardab District"
     },
@@ -196,7 +197,7 @@
         }
     ],
     "wof:id":890455677,
-    "wof:lastmodified":1563281868,
+    "wof:lastmodified":1566604001,
     "wof:name":"Zardob",
     "wof:parent_id":85668509,
     "wof:placetype":"locality",

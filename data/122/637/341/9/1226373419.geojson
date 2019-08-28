@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.65912,40.73635,45.69912,40.77635",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qo\u00e7d\u0259r\u0259"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226373419,
-    "wof:lastmodified":1537585533,
+    "wof:lastmodified":1566604110,
     "wof:name":"Kochdere",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

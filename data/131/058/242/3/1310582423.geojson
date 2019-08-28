@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.051,40.43984,47.091,40.47984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Miras\u0259fli"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310582423,
-    "wof:lastmodified":1537585531,
+    "wof:lastmodified":1566603961,
     "wof:name":"Mirasafly",
     "wof:parent_id":85668303,
     "wof:placetype":"locality",

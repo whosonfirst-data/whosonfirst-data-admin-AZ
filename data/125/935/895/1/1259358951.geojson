@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.10275,39.6263,47.14275,39.6663",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Yuxar\u0131 Ya\u011fl\u0259v\u0259nd"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Yaglyvend",
-        "Yukhary Yaglevend",
-        "\u042e\u0445\u0430\u0440\u044b \u042f\u0433\u043b\u0435\u0432\u0435\u043d\u0434"
+        "Yukhary Yaglevend"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1259358951,
-    "wof:lastmodified":1537585127,
+    "wof:lastmodified":1566604061,
     "wof:name":"Yukhary Yaglevend",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.88532,38.99775,45.92532,39.03775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u00c7\u0259nn\u0259b"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310645379,
-    "wof:lastmodified":1537585258,
+    "wof:lastmodified":1566603946,
     "wof:name":"Tsagna",
     "wof:parent_id":85668665,
     "wof:placetype":"locality",

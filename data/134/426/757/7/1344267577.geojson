@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.11644,40.14185,46.15644,40.18185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1344267577,
-    "wof:lastmodified":1537070708,
+    "wof:lastmodified":1566603749,
     "wof:name":"Qilincli",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

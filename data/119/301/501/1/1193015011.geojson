@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.47909,41.04796,45.51909,41.08796",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0646\u0627\u0644\u0644\u06cc"
     ],
@@ -50,8 +54,7 @@
         "Eynall\u0131"
     ],
     "name:und_x_variant":[
-        "Eynally",
-        "Eynall\u0131"
+        "Eynally"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1193015011,
-    "wof:lastmodified":1564126238,
+    "wof:lastmodified":1566603901,
     "wof:name":"Eynalli",
     "wof:parent_id":85668195,
     "wof:placetype":"locality",

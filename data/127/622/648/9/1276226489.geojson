@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.36167,41.19194,45.40167,41.23194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Orta-Salakhly",
         "Orta Salahl\u0131"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276226489,
-    "wof:lastmodified":1537585504,
+    "wof:lastmodified":1566603841,
     "wof:name":"Orta Salahli",
     "wof:parent_id":85668195,
     "wof:placetype":"locality",

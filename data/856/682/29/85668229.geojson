@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.123984,
     "lbl:longitude":45.278525,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.QZ",
     "mps:latitude":41.166125,
     "mps:longitude":45.286714,
@@ -182,7 +183,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0437\u0430\u0445\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kazakhskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -271,9 +272,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"700",
     "statoids:area_mi":"270",
     "statoids:as_of_date":"1999-01-27",
@@ -299,7 +300,7 @@
         "gp:id":20070267,
         "hasc:id":"AZ.QZ",
         "iso:id":"AZ-QAZ",
-        "qs:id":500536,
+        "qs_pg:id":500536,
         "unlc:id":"AZ-QAZ",
         "wd:id":"Q389381",
         "wk:page":"Qazakh District"
@@ -321,11 +322,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652927,
+    "wof:lastmodified":1566603767,
     "wof:name":"Qazax",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":81015,
     "wof:population_rank":8,

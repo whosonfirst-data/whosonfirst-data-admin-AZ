@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.00028,39.75528,47.04028,39.79528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Ki\u015f"
     ],
@@ -54,7 +58,6 @@
         "\u0490\u0456\u0448\u0456"
     ],
     "name:und_x_variant":[
-        "Gishi",
         "Qi\u015f\u0131",
         "Guishi",
         "Gish"
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1310039971,
-    "wof:lastmodified":1564126351,
+    "wof:lastmodified":1566603953,
     "wof:name":"Kis",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

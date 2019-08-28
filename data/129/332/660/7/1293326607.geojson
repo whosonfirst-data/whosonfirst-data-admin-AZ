@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.71397,39.19518,46.75397,39.23518",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "K\u00fcrd Mahr\u0131zl\u0131"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1293326607,
-    "wof:lastmodified":1564126002,
+    "wof:lastmodified":1566603802,
     "wof:name":"Kurd Mahruzlu",
     "wof:parent_id":85668629,
     "wof:placetype":"locality",

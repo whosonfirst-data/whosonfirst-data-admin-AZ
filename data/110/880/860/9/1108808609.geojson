@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.307186,
-    "geom:area_square_m":12231125769.554632,
+    "geom:area_square_m":12231125769.554415,
     "geom:bbox":"44.9596780002,40.2707789658,47.0018330671,41.4671842071",
     "geom:latitude":40.824356,
     "geom:longitude":46.009561,
     "iso:country":"AZ",
     "lbl:latitude":40.747439,
     "lbl:longitude":46.026468,
+    "lbl:max_zoom":7.0,
+    "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":3.0,
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632717
@@ -39,7 +42,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1529539780,
+    "wof:lastmodified":1566603929,
     "wof:name":"Ganja-Gazakh",
     "wof:parent_id":85632717,
     "wof:placetype":"macroregion",

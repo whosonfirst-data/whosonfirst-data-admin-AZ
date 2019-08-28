@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.94789,39.74745,48.98789,39.78745",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0642\u0627\u0631\u0627\u0628\u0627\u063a\u0644\u06cc"
     ],
@@ -47,8 +51,7 @@
         "Karaba\u011fl\u0131"
     ],
     "name:und_x_variant":[
-        "Karabagly",
-        "Qaraba\u011fl\u0131"
+        "Karabagly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1293327599,
-    "wof:lastmodified":1564126005,
+    "wof:lastmodified":1566603803,
     "wof:name":"Qarabagli",
     "wof:parent_id":85668449,
     "wof:placetype":"locality",

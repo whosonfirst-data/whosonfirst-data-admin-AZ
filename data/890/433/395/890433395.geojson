@@ -11,10 +11,14 @@
     "geom:longitude":50.08528,
     "gn:country":"AZ",
     "gn:fcode":"PPL",
-    "gn:pop":36293,
+    "gn:population":36293,
     "iso:country":"AZ",
+    "lbl:bbox":"50.06528,40.35444,50.10528,40.39444",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0633\u0627\u0646"
     ],
@@ -63,7 +67,7 @@
     "name:swe_x_preferred":[
         "H\u00f6vsan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gousany"
     ],
     "qs:name":"H\u00f6vsan",
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":586429,
         "gp:id":1951184,
-        "qs:id":125851,
+        "qs_pg:id":125851,
         "wd:id":"Q3294097",
         "wk:page":"H\u00f6vsan"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":890433395,
-    "wof:lastmodified":1563281878,
+    "wof:lastmodified":1566604004,
     "wof:name":"H\u00f6vsan",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

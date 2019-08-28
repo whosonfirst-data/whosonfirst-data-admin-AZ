@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.67831,40.64286,48.71831,40.68286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u0130kinci \u00c7aban\u0131"
     ],
@@ -49,8 +53,7 @@
     "name:und_x_variant":[
         "Nikolayevka",
         "Dzerzhinovka",
-        "Dzerzhinovsk",
-        "Dzerjinovka"
+        "Dzerzhinovsk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1209348917,
-    "wof:lastmodified":1564126206,
+    "wof:lastmodified":1566603887,
     "wof:name":"Ikinci Cabani",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

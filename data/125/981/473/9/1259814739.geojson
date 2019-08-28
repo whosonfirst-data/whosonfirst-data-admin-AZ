@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.37156,41.4487,48.41156,41.4887",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u018fv\u0259c\u00fck"
     ],
@@ -47,9 +51,7 @@
         "Evedzhyuk"
     ],
     "name:und_x_variant":[
-        "Evadzhuk",
-        "Evedzhyuk",
-        "\u018fv\u0259c\u00fck"
+        "Evadzhuk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1259814739,
-    "wof:lastmodified":1564126572,
+    "wof:lastmodified":1566604068,
     "wof:name":"Evedzhyuk",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

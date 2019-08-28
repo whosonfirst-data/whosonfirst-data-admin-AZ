@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.05834,41.46904,48.09834,41.50904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0632\u0648\u062e\u0648\u0644"
     ],
@@ -51,8 +55,7 @@
     ],
     "name:und_x_variant":[
         "Zukhul",
-        "Tsukhul\u2019",
-        "Zuxul"
+        "Tsukhul\u2019"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1310635389,
-    "wof:lastmodified":1564126331,
+    "wof:lastmodified":1566603945,
     "wof:name":"Zuxul",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":39.713628,
     "lbl:longitude":46.665009,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.SU",
     "mps:latitude":39.707195,
     "mps:longitude":46.660761,
@@ -203,9 +204,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"290",
     "statoids:area_mi":"112",
     "statoids:as_of_date":"1999-01-27",
@@ -230,7 +231,7 @@
         "gp:id":20070264,
         "hasc:id":"AZ.SU",
         "iso:id":"AZ-SUS",
-        "qs:id":500533,
+        "qs_pg:id":500533,
         "wd:id":"Q388960",
         "wk:page":"Shusha District"
     },
@@ -251,11 +252,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652925,
+    "wof:lastmodified":1566603763,
     "wof:name":"\u015eu\u015fa",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":24340,
     "wof:population_rank":7,

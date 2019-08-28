@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.67534,39.96702,46.71534,40.00702",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u0626\u06cc\u06cc\u062f \u0628\u06cc\u200c\u0644\u06cc"
     ],
@@ -70,11 +74,8 @@
         "\u0425\u0430\u0447\u0435\u043d"
     ],
     "name:und_x_variant":[
-        "Khachen",
         "Seidishen",
-        "Seyidshen",
-        "Seydishen",
-        "\u0421\u0435\u0439\u0438\u0434\u0448\u0435\u043d"
+        "Seydishen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1277013665,
-    "wof:lastmodified":1564126044,
+    "wof:lastmodified":1566603820,
     "wof:name":"Seyidshen",
     "wof:parent_id":85668657,
     "wof:placetype":"locality",

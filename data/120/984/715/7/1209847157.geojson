@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.76039,40.13076,47.80039,40.17076",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "N\u0259z\u0259rall\u0131"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:swe_x_preferred":[
         "Nazarally"
-    ],
-    "name:und_x_variant":[
-        "N\u0259z\u0259ral\u0131l\u0131"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1209847157,
-    "wof:lastmodified":1564126160,
+    "wof:lastmodified":1566603868,
     "wof:name":"Nazarally",
     "wof:parent_id":85668509,
     "wof:placetype":"locality",

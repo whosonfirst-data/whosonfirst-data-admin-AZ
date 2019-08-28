@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":39.012956,
     "lbl:longitude":48.696889,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.MA",
     "mps:latitude":38.979804,
     "mps:longitude":48.723143,
@@ -128,7 +129,7 @@
     "name:tur_x_preferred":[
         "Masall\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Masallinskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -211,9 +212,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"720",
     "statoids:area_mi":"278",
     "statoids:as_of_date":"1999-01-27",
@@ -242,7 +243,7 @@
         "gp:id":20070239,
         "hasc:id":"AZ.MA",
         "iso:id":"AZ-MAS",
-        "qs:id":1092312,
+        "qs_pg:id":1092312,
         "unlc:id":"AZ-MAS",
         "wd:id":"Q512116"
     },
@@ -263,11 +264,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652930,
+    "wof:lastmodified":1566603773,
     "wof:name":"Masall\u0131",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":173937,
     "wof:population_rank":9,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.29667,40.78,46.33667,40.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Shamsadin"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209549171,
-    "wof:lastmodified":1564126140,
+    "wof:lastmodified":1566603859,
     "wof:name":"Shamsadin",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

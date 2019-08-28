@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.09252,40.75542,46.13252,40.79542",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "\u00c7inarl\u0131"
     ],
@@ -34,8 +38,7 @@
     "name:und_x_variant":[
         "Leninfel\u2019d",
         "Lenin",
-        "Leninkend",
-        "\u00c7inarl\u0131"
+        "Leninkend"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1259915973,
-    "wof:lastmodified":1537585379,
+    "wof:lastmodified":1566604048,
     "wof:name":"Cinarli",
     "wof:parent_id":85668233,
     "wof:placetype":"locality",

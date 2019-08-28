@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.43746,39.76659,46.47746,39.80659",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "A\u011fcayaz\u0131"
     ],
@@ -41,8 +45,7 @@
     ],
     "name:und_x_variant":[
         "Agdzhayazy",
-        "Agdzhiyazy",
-        "\u0410\u0433\u0434\u0436\u0430\u044f\u0437\u044b"
+        "Agdzhiyazy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1209763013,
-    "wof:lastmodified":1537585285,
+    "wof:lastmodified":1566603873,
     "wof:name":"Agcayazi",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

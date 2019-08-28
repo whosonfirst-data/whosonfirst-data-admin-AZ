@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.37432,41.07905,45.41432,41.11905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u0627\u063a \u06a9\u0633\u0645\u0646"
     ],
@@ -48,9 +52,6 @@
     ],
     "name:swe_x_preferred":[
         "Dag Kesaman"
-    ],
-    "name:und_x_variant":[
-        "Da\u011f K\u0259s\u0259m\u0259n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1210015669,
-    "wof:lastmodified":1564126230,
+    "wof:lastmodified":1566603896,
     "wof:name":"Dag Kesaman",
     "wof:parent_id":85668195,
     "wof:placetype":"locality",

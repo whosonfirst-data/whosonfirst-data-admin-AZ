@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.59786,39.14975,46.63786,39.18975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "B\u00f6y\u00fck Gil\u0259ta\u011f"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1310039843,
-    "wof:lastmodified":1564126353,
+    "wof:lastmodified":1566603953,
     "wof:name":"Gilatakh",
     "wof:parent_id":85668659,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.28592,41.21859,48.32592,41.25859",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qr\u0131zd\u0259hn\u0259"
     ],
@@ -38,7 +42,6 @@
         "Q\u0131r\u0131zd\u0259hn\u0259"
     ],
     "name:und_x_variant":[
-        "Q\u0131r\u0131zd\u0259hn\u0259",
         "Kyryzdakhna"
     ],
     "src:geom":"geonames",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1310535853,
-    "wof:lastmodified":1564126323,
+    "wof:lastmodified":1566603941,
     "wof:name":"Kyryzdakhna",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

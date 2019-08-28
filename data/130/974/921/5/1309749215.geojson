@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.75444,39.74255,46.79444,39.78255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u0648\u062e\u062a\u0627\u0631"
     ],
@@ -65,8 +69,7 @@
     ],
     "name:und_x_variant":[
         "Mkhitarikend",
-        "Mkhitarkent",
-        "\u041c\u0445\u0438\u0442\u0430\u0440\u0438\u043a\u0435\u043d\u0434"
+        "Mkhitarkent"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1309749215,
-    "wof:lastmodified":1564126426,
+    "wof:lastmodified":1566603992,
     "wof:name":"Muxtar",
     "wof:parent_id":85668657,
     "wof:placetype":"locality",

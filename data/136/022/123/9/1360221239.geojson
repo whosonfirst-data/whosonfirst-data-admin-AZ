@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.38749,38.72236,48.42749,38.76236",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0644\u0648\u0644\u0647\u200c\u06a9\u0631\u0627\u0646"
     ],
@@ -47,9 +51,7 @@
         "Lyulyakeran"
     ],
     "name:und_x_variant":[
-        "Lyalyakyaran",
-        "Lyulyakeran",
-        "L\u00fcl\u0259k\u0259ran"
+        "Lyalyakyaran"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1360221239,
-    "wof:lastmodified":1564126381,
+    "wof:lastmodified":1566603965,
     "wof:name":"Lyulyakeran",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

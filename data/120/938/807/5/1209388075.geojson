@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.36468,39.08335,48.40468,39.12335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u062e\u062a\u0647\u200c\u062e\u0627\u0646\u0647"
     ],
@@ -47,8 +51,7 @@
         "Axtaxana"
     ],
     "name:und_x_variant":[
-        "Akhtakhana",
-        "Axtaxana"
+        "Akhtakhana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1209388075,
-    "wof:lastmodified":1564126137,
+    "wof:lastmodified":1566603858,
     "wof:name":"Axtaxana",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

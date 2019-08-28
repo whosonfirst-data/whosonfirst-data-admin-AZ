@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.57777,40.71502,45.61777,40.75502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Salad\u0131nl\u0131"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1226683121,
-    "wof:lastmodified":1564126606,
+    "wof:lastmodified":1566604085,
     "wof:name":"Saladinli",
     "wof:parent_id":85668241,
     "wof:placetype":"locality",

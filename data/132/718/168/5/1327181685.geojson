@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.21653,39.85582,46.25653,39.89582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qovu\u015fuq"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1327181685,
-    "wof:lastmodified":1564125833,
+    "wof:lastmodified":1566603723,
     "wof:name":"Qovusuq",
     "wof:parent_id":85668621,
     "wof:placetype":"locality",

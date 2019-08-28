@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.833172,
     "lbl:longitude":46.065657,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.SM",
     "mps:latitude":40.835034,
     "mps:longitude":46.033719,
@@ -170,7 +171,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043c\u043a\u0456\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shamkhorskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -256,9 +257,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,660",
     "statoids:area_mi":"641",
     "statoids:as_of_date":"1999-01-27",
@@ -287,7 +288,7 @@
         "gp:id":20070244,
         "hasc:id":"AZ.SM",
         "iso:id":"AZ-SKR",
-        "qs:id":1092314,
+        "qs_pg:id":1092314,
         "wd:id":"Q390783"
     },
     "wof:country":"AZ",
@@ -307,11 +308,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652926,
+    "wof:lastmodified":1566603766,
     "wof:name":"\u015e\u0259mkir",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":173401,
     "wof:population_rank":9,

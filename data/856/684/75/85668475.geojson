@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.423286,
     "lbl:longitude":47.709339,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.UC",
     "mps:latitude":40.394651,
     "mps:longitude":47.700219,
@@ -167,7 +168,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0434\u0436\u0430\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Udzharskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -256,9 +257,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"850",
     "statoids:area_mi":"328",
     "statoids:as_of_date":"1999-01-27",
@@ -284,7 +285,7 @@
         "gp:id":20070249,
         "hasc:id":"AZ.UC",
         "iso:id":"AZ-UCA",
-        "qs:id":49482,
+        "qs_pg:id":49482,
         "unlc:id":"AZ-UCA",
         "wd:id":"Q476703",
         "wk:page":"Ujar District"
@@ -306,11 +307,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652929,
+    "wof:lastmodified":1566603770,
     "wof:name":"Ucar",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":71327,
     "wof:population_rank":8,

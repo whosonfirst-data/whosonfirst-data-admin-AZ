@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.94873,40.01115,46.98873,40.05115",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "K\u0259ng\u0259rli"
     ],
@@ -49,7 +53,6 @@
         "\u041a\u0435\u043d\u0433\u0435\u0440\u043b\u0438"
     ],
     "name:und_x_variant":[
-        "G\u0259ng\u0259rli",
         "Kengerli"
     ],
     "src:geom":"geonames",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1259490855,
-    "wof:lastmodified":1564126547,
+    "wof:lastmodified":1566604057,
     "wof:name":"Kengorli",
     "wof:parent_id":85668257,
     "wof:placetype":"locality",

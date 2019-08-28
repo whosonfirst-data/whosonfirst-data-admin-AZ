@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.74726,40.69922,45.78726,40.73922",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "N\u0259rimank\u0259nd"
     ],
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":1259942471,
-    "wof:lastmodified":1564126558,
+    "wof:lastmodified":1566604062,
     "wof:name":"Ordzhonikidze",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

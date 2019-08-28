@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.85582,40.11877,47.89582,40.15877",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0634\u0627\u0647\u200c\u062d\u0633\u06cc\u0646\u200c\u0644\u06cc"
     ],
@@ -57,7 +61,6 @@
         "Shakhsunni",
         "Shakhsyunnyu",
         "Shakhsyunlyu",
-        "\u015eahh\u00fcseynli",
         "Shakhguseynli"
     ],
     "name:urd_x_preferred":[
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1343293327,
-    "wof:lastmodified":1564125911,
+    "wof:lastmodified":1566603755,
     "wof:name":"Sahhuseynli",
     "wof:parent_id":85668509,
     "wof:placetype":"locality",

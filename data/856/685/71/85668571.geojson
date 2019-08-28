@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.198679,
     "lbl:longitude":48.465422,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.QB",
     "mps:latitude":41.187198,
     "mps:longitude":48.410803,
@@ -173,7 +174,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kubinskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -265,9 +266,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"2,580",
     "statoids:area_mi":"996",
     "statoids:as_of_date":"1999-01-27",
@@ -293,7 +294,7 @@
         "gp:id":20070232,
         "hasc:id":"AZ.QB",
         "iso:id":"AZ-QBA",
-        "qs:id":1189263,
+        "qs_pg:id":1189263,
         "unlc:id":"AZ-QBA",
         "wd:id":"Q457499",
         "wk:page":"Quba District (Azerbaijan)"
@@ -315,11 +316,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652928,
+    "wof:lastmodified":1566603769,
     "wof:name":"Quba",
     "wof:parent_id":1108808623,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":136845,
     "wof:population_rank":9,

@@ -11,10 +11,14 @@
     "geom:longitude":50.00556,
     "gn:country":"AZ",
     "gn:fcode":"PPL",
-    "gn:pop":7700,
+    "gn:population":7700,
     "iso:country":"AZ",
+    "lbl:bbox":"49.98556,40.53611,50.02556,40.57611",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0631\u062f\u0627\u0631\u0627\u0646"
     ],
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":585388,
         "gp:id":1950106,
-        "qs:id":125823,
+        "qs_pg:id":125823,
         "wd:id":"Q1965248",
         "wk:page":"Nardaran"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890433391,
-    "wof:lastmodified":1563281874,
+    "wof:lastmodified":1566604003,
     "wof:name":"Nardaran",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

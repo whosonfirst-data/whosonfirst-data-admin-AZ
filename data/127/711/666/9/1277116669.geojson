@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.76439,39.3632,48.80439,39.4032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0631\u0645\u0636\u0627\u0646\u0644\u06cc"
     ],
@@ -35,8 +39,7 @@
         "Ramazanl\u0131"
     ],
     "name:und_x_variant":[
-        "Ramazanly",
-        "Ramazanl\u0131"
+        "Ramazanly"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1277116669,
-    "wof:lastmodified":1564126131,
+    "wof:lastmodified":1566603855,
     "wof:name":"Ramazanli",
     "wof:parent_id":85668409,
     "wof:placetype":"locality",

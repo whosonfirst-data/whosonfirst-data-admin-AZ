@@ -11,10 +11,14 @@
     "geom:longitude":46.6513,
     "gn:country":"AZ",
     "gn:fcode":"PPLA",
-    "gn:pop":7483,
+    "gn:population":7483,
     "iso:country":"AZ",
+    "lbl:bbox":"46.6313,39.0684,46.6713,39.1084",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "\u0130\u00e7\u0259ri"
     ],
@@ -102,7 +106,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0432\u0441\u0430\u043a\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zangilak"
     ],
     "name:urd_x_preferred":[
@@ -126,7 +130,7 @@
     "wof:concordances":{
         "gn:id":146901,
         "gp:id":1952040,
-        "qs:id":514913,
+        "qs_pg:id":514913,
         "wd:id":"Q249226",
         "wk:page":"Z\u0259ngilan"
     },
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":890445283,
-    "wof:lastmodified":1563281874,
+    "wof:lastmodified":1566604002,
     "wof:name":"Zangilan",
     "wof:parent_id":85668659,
     "wof:placetype":"locality",

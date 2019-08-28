@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"45.80283,40.5569,45.84283,40.5969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0642\u0648\u0645\u200c\u0644\u0648"
     ],
@@ -38,8 +42,7 @@
         "Qumlu"
     ],
     "name:und_x_variant":[
-        "Kumlu",
-        "Qumlu"
+        "Kumlu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1226811639,
-    "wof:lastmodified":1564126578,
+    "wof:lastmodified":1566604071,
     "wof:name":"Qumlu",
     "wof:parent_id":85668205,
     "wof:placetype":"locality",

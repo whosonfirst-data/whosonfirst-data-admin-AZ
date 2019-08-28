@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.2167,41.17376,48.2567,41.21376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062c\u06a9"
     ],
@@ -74,9 +78,7 @@
         "Cek"
     ],
     "name:und_x_variant":[
-        "Dzheg",
-        "Dzhek",
-        "Cek"
+        "Dzheg"
     ],
     "name:urd_x_preferred":[
         "\u062c\u06cc\u06a9"
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":1243203753,
-    "wof:lastmodified":1564126512,
+    "wof:lastmodified":1566604041,
     "wof:name":"Cek",
     "wof:parent_id":85668571,
     "wof:placetype":"locality",

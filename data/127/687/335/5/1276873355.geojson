@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.51509,40.62302,47.55509,40.66302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qara\u011fan S\u0259di"
     ],
@@ -42,8 +46,7 @@
     ],
     "name:und_x_variant":[
         "Karagan Saadi",
-        "Karagan-Sedi",
-        "Qaraqan S\u0259di"
+        "Karagan-Sedi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1276873355,
-    "wof:lastmodified":1564126061,
+    "wof:lastmodified":1566603827,
     "wof:name":"Karagan-Sedi",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

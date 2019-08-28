@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.81722,40.31676,46.85722,40.35676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Nerk\u2019in Chaylu"
     ],
@@ -43,7 +47,6 @@
     "name:und_x_variant":[
         "Ch\u2019aylu",
         "Getk",
-        "Nerkin Chayly",
         "Nerkin Chailou"
     ],
     "src:geom":"geonames",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1225881193,
-    "wof:lastmodified":1537585360,
+    "wof:lastmodified":1566604090,
     "wof:name":"Nerk'in Chaylu",
     "wof:parent_id":85668653,
     "wof:placetype":"locality",

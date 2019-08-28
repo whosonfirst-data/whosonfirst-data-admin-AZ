@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.10522,40.59189,48.14522,40.63189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0642\u0648\u0628\u0627\u062e\u0644\u06cc\u0644\u0644\u06cc"
     ],
@@ -53,8 +57,7 @@
         "Kuba-Khalilli"
     ],
     "name:und_x_variant":[
-        "Khalilli",
-        "Qubax\u0259lilli"
+        "Khalilli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1209683469,
-    "wof:lastmodified":1564126183,
+    "wof:lastmodified":1566603878,
     "wof:name":"Kuba-Khalilli",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

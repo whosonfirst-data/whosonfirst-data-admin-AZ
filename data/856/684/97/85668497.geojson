@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":38.847949,
     "lbl:longitude":48.173339,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.YR",
     "mps:latitude":38.851132,
     "mps:longitude":48.197634,
@@ -89,7 +90,7 @@
     "name:tur_x_preferred":[
         "Yard\u0131ml\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vergyaduzskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -172,9 +173,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"670",
     "statoids:area_mi":"259",
     "statoids:as_of_date":"1999-01-27",
@@ -200,7 +201,7 @@
         "gp:id":20070251,
         "hasc:id":"AZ.YR",
         "iso:id":"AZ-YAR",
-        "qs:id":1172849,
+        "qs_pg:id":1172849,
         "unlc:id":"AZ-YAR"
     },
     "wof:country":"AZ",
@@ -220,11 +221,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652929,
+    "wof:lastmodified":1566603771,
     "wof:name":"Yard\u0131ml\u0131",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":49039,
     "wof:population_rank":7,

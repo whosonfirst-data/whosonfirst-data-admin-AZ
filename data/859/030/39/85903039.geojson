@@ -13,8 +13,10 @@
     "gn:longitude":49.96693,
     "gn:population":66686,
     "iso:country":"AZ",
+    "lbl:bbox":"49.854729,40.376382,49.864729,40.386382",
     "lbl:latitude":40.381382,
     "lbl:longitude":49.859729,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.382474,
     "mps:longitude":49.883875,
     "mz:hierarchy_label":0,
@@ -98,12 +100,9 @@
     "name:und_x_colloquial":[
         "Bakixanov"
     ],
-    "name:und_x_preferred":[
-        "Bak\u1e2fxanov"
-    ],
-    "name:unk_x_variant":[
-        "Bakikhanov",
-        "Bak\u1e2fxanov"
+    "name:und_x_variant":[
+        "Bak\u1e2fxanov",
+        "Bakikhanov"
     ],
     "qs:gn_adm0_cc":"AZ",
     "qs:gn_fcode":"PPLX",
@@ -132,7 +131,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -146,7 +145,7 @@
     "wof:concordances":{
         "gn:id":824003,
         "gp:id":1947993,
-        "qs:id":129713,
+        "qs_pg:id":129713,
         "wd:id":"Q3299602",
         "wk:page":"Bak\u0131xanov"
     },
@@ -166,7 +165,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563281386,
+    "wof:lastmodified":1566603762,
     "wof:name":"Bak\u1e2fxanov",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

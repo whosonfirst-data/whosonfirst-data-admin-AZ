@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.20732,39.61229,47.24732,39.65229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Q\u0259rv\u0259nd"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1310271185,
-    "wof:lastmodified":1537585217,
+    "wof:lastmodified":1566603948,
     "wof:name":"Karvend",
     "wof:parent_id":85668351,
     "wof:placetype":"locality",

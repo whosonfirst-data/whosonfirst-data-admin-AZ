@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.22333,39.84678,48.26333,39.88678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0648\u0627\u0631\u062e\u0627\u0646"
     ],
@@ -50,8 +54,7 @@
         "Varxan"
     ],
     "name:und_x_variant":[
-        "Varkhan",
-        "Varxan"
+        "Varkhan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1343893071,
-    "wof:lastmodified":1564125914,
+    "wof:lastmodified":1566603756,
     "wof:name":"Varxan",
     "wof:parent_id":85668433,
     "wof:placetype":"locality",

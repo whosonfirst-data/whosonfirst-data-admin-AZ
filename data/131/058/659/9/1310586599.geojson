@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.76713,38.58508,48.80713,38.62508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "S\u0131\u011faloni"
     ],
@@ -44,7 +48,6 @@
         "S\u0131qalonu"
     ],
     "name:und_x_variant":[
-        "S\u0131qalonu",
         "Sygalonu"
     ],
     "src:geom":"geonames",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1310586599,
-    "wof:lastmodified":1564126370,
+    "wof:lastmodified":1566603961,
     "wof:name":"Sigaloni",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

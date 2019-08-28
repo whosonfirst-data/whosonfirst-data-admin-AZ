@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.26975,40.58311,48.30975,40.62311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Kala\u011fayl\u0131"
     ],
@@ -47,7 +51,6 @@
         "Kalageyli",
         "Kalagayly",
         "Kalagayni",
-        "Kala\u011fayl\u0131",
         "Kalabeyli"
     ],
     "src:geom":"geonames",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1209537753,
-    "wof:lastmodified":1564126141,
+    "wof:lastmodified":1566603860,
     "wof:name":"Kalagayli",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",

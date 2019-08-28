@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"46.98194,39.5525,47.02194,39.5925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u062d\u0645\u062f \u062f\u0631\u0647"
     ],
@@ -72,8 +76,7 @@
         "\u041c\u0430\u0440\u0456\u0430\u043c\u0430\u0434\u0437\u043e\u0440"
     ],
     "name:und_x_variant":[
-        "Mamedadzor",
-        "Mamedazur"
+        "Mamedadzor"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1276260427,
-    "wof:lastmodified":1564126054,
+    "wof:lastmodified":1566603824,
     "wof:name":"Mamedazur",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",

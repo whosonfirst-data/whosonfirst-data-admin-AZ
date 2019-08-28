@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":39.870528,
     "lbl:longitude":48.798706,
+    "lbl:min_zoom":8.0,
     "meso:hasc_id":"AZ.SB",
     "mps:latitude":39.808449,
     "mps:longitude":48.821104,
@@ -198,9 +199,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-27",
+    "src:population_date":"1999-01-27",
     "statoids:area_km":"1,470",
     "statoids:area_mi":"568",
     "statoids:as_of_date":"1999-01-27",
@@ -225,7 +226,7 @@
         "gp:id":20070281,
         "hasc:id":"AZ.SB",
         "iso:id":"AZ-SAB",
-        "qs:id":49487,
+        "qs_pg:id":49487,
         "wd:id":"Q382132",
         "wk:page":"Sabirabad District"
     },
@@ -246,11 +247,10 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1565652929,
+    "wof:lastmodified":1566603771,
     "wof:name":"Sabirabad",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":136933,
     "wof:population_rank":9,

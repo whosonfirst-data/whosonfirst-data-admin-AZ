@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.19691,38.89472,48.23691,38.93472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u0633\u062a\u0627\u06cc\u06cc\u0631"
     ],
@@ -50,8 +54,7 @@
         "Ostay\u0131r"
     ],
     "name:und_x_variant":[
-        "Ostair",
-        "Ostay\u0131r"
+        "Ostair"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1343893921,
-    "wof:lastmodified":1564125916,
+    "wof:lastmodified":1566603757,
     "wof:name":"Ostayir",
     "wof:parent_id":85668497,
     "wof:placetype":"locality",

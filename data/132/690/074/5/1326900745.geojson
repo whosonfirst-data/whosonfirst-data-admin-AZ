@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"48.60081,39.198,48.64081,39.238",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qarayarka"
     ],
@@ -35,8 +39,7 @@
         "Karayarka"
     ],
     "name:und_x_variant":[
-        "Koroyarka",
-        "Karayarka"
+        "Koroyarka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1326900745,
-    "wof:lastmodified":1564125812,
+    "wof:lastmodified":1566603713,
     "wof:name":"Qarayarka",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

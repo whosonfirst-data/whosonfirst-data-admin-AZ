@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
+    "lbl:bbox":"47.52351,40.63061,47.56351,40.67061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qara\u011fan \u015e\u0131xlar"
     ],
@@ -50,8 +54,7 @@
         "Qara\u011fan \u015e\u0131xlar"
     ],
     "name:und_x_variant":[
-        "Karagan-Shykhlar",
-        "Qaraqan \u015e\u0131xlar"
+        "Karagan-Shykhlar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1193050877,
-    "wof:lastmodified":1564126248,
+    "wof:lastmodified":1566603905,
     "wof:name":"Qaragan Sixlar",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",
