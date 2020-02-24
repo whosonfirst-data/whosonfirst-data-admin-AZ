@@ -142,6 +142,9 @@
         "unlc:id":"AZ-QBI"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"61b0cd6fb77089f305619a646848fb9c",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603763,
+    "wof:lastmodified":1582332202,
     "wof:name":"Qubadli",
     "wof:parent_id":1108808607,
     "wof:placetype":"region",

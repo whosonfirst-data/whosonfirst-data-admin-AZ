@@ -84,6 +84,9 @@
         "qs_pg:id":1237266
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d97f698fed01f9f48ec9278b1e28918a",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603765,
+    "wof:lastmodified":1582332203,
     "wof:name":"Kangarli",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

@@ -142,6 +142,9 @@
         "unlc:id":"AZ-HAC"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a0053cfef8aa9e02b806115ec92a3fff",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603766,
+    "wof:lastmodified":1582332204,
     "wof:name":"Hajigabul",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

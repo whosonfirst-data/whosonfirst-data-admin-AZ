@@ -148,6 +148,9 @@
         "qs_pg:id":245251
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b64299c7c423fd4862f495e23d3cf5a",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603767,
+    "wof:lastmodified":1582332204,
     "wof:name":"K\u0259lb\u0259c\u0259r",
     "wof:parent_id":1108808607,
     "wof:placetype":"region",

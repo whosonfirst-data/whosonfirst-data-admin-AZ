@@ -74,6 +74,9 @@
     },
     "wof:country":"AZ",
     "wof:created":1469052186,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"583c3cb4d7fe92432bb2f8f057eb4bb4",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890438263,
-    "wof:lastmodified":1543954362,
+    "wof:lastmodified":1582332214,
     "wof:name":"Julfa",
     "wof:parent_id":85668677,
     "wof:placetype":"county",

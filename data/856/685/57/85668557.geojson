@@ -142,6 +142,9 @@
         "unlc:id":"AZ-QAX"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3dfe61b347d1666d10f71e475bdb5e4d",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603768,
+    "wof:lastmodified":1582332205,
     "wof:name":"Qax",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",

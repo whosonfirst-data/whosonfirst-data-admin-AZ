@@ -218,6 +218,9 @@
         "wd:id":"Q162411"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f26c797af0ab8b78edae4dac858b6ccd",
     "wof:hierarchy":[
         {
@@ -234,7 +237,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603762,
+    "wof:lastmodified":1582332202,
     "wof:name":"\u015e\u0259rur",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

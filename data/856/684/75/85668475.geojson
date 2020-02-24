@@ -291,6 +291,9 @@
         "wk:page":"Ujar District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ede1c99bb237bfff2f20cc44c3bf5eff",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603770,
+    "wof:lastmodified":1582332206,
     "wof:name":"Ucar",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

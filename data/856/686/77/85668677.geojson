@@ -149,6 +149,9 @@
         "unlc:id":"AZ-CUL"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"583c3cb4d7fe92432bb2f8f057eb4bb4",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603764,
+    "wof:lastmodified":1582332203,
     "wof:name":"Culfa",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

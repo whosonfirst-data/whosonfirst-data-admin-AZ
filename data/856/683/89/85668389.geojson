@@ -260,6 +260,9 @@
         "qs_pg:id":245193
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d52e0f6333a8959ff8740a251c6fc52c",
     "wof:hierarchy":[
         {
@@ -276,7 +279,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603772,
+    "wof:lastmodified":1582332207,
     "wof:name":"Lankaran",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",

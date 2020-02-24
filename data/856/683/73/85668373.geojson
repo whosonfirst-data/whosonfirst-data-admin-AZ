@@ -231,6 +231,9 @@
         "wd:id":"Q2148072"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c6bc8674c02a763b07cd92b528b97e16",
     "wof:hierarchy":[
         {
@@ -247,7 +250,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603772,
+    "wof:lastmodified":1582332207,
     "wof:name":"\u0130smay\u0131ll\u0131",
     "wof:parent_id":1108808611,
     "wof:placetype":"region",

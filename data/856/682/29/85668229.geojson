@@ -306,6 +306,9 @@
         "wk:page":"Qazakh District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"119a119e75dd800bb34e6002f8ed1266",
     "wof:hierarchy":[
         {
@@ -322,7 +325,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603767,
+    "wof:lastmodified":1582332204,
     "wof:name":"Qazax",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

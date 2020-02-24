@@ -234,6 +234,9 @@
         "wk:page":"Goranboy District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8ab5632eb974d64b9d8effb786739c78",
     "wof:hierarchy":[
         {
@@ -250,7 +253,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603768,
+    "wof:lastmodified":1582332204,
     "wof:name":"Goranboy",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

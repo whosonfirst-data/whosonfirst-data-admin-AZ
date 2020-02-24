@@ -1204,6 +1204,11 @@
     },
     "wof:country":"AZ",
     "wof:country_alpha3":"AZE",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "meso"
+    ],
     "wof:geomhash":"e236b7ee2ed5ce4dd8c2ced7a2167ca5",
     "wof:hierarchy":[
         {
@@ -1218,7 +1223,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603773,
+    "wof:lastmodified":1582332207,
     "wof:name":"Azerbaijan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -143,6 +143,9 @@
         "qs_pg:id":66061
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a40b796341218830098048280541e338",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603772,
+    "wof:lastmodified":1582332206,
     "wof:name":"B\u0259rd\u0259",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

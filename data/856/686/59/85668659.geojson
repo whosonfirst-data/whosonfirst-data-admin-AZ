@@ -228,6 +228,9 @@
         "wd:id":"Q249226"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1f144158a508b4ab13f204e621aeff03",
     "wof:hierarchy":[
         {
@@ -244,7 +247,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603762,
+    "wof:lastmodified":1582332202,
     "wof:name":"Z\u0259ngilan",
     "wof:parent_id":1108808607,
     "wof:placetype":"region",

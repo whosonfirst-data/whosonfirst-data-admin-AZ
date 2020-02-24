@@ -288,6 +288,9 @@
         "wk:page":"Gobustan District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0e56a8b5a61a76b4ffeed07dd4431dbf",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603770,
+    "wof:lastmodified":1582332206,
     "wof:name":"Qobustan",
     "wof:parent_id":1108808611,
     "wof:placetype":"region",

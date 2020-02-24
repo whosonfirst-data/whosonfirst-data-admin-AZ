@@ -154,6 +154,9 @@
         "unlc:id":"AZ-XCI"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"53c4250cde4b8a6045be87b55c9eb8ce",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603762,
+    "wof:lastmodified":1582332202,
     "wof:name":"Xocal\u0131",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

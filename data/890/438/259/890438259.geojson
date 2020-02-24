@@ -65,6 +65,9 @@
     },
     "wof:country":"AZ",
     "wof:created":1469052186,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"68d52c52fc2eaa3007fba112042c1c1b",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890438259,
-    "wof:lastmodified":1543954362,
+    "wof:lastmodified":1582332213,
     "wof:name":"Shahbuz",
     "wof:parent_id":85668683,
     "wof:placetype":"county",

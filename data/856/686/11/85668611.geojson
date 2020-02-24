@@ -150,6 +150,9 @@
         "qs_pg:id":59492
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"878a05236dc254ed3bd9a8af9332f401",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603762,
+    "wof:lastmodified":1582332202,
     "wof:name":"Xocav\u0259nd",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

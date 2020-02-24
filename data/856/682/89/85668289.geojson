@@ -300,6 +300,9 @@
         "wk:page":"Agsu District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1ec4cd851a56626fe8001bc9e320d0b1",
     "wof:hierarchy":[
         {
@@ -316,7 +319,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603767,
+    "wof:lastmodified":1582332204,
     "wof:name":"A\u011fsu",
     "wof:parent_id":1108808611,
     "wof:placetype":"region",

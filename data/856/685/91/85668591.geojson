@@ -294,6 +294,9 @@
         "wk:page":"Khachmaz District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b5fa28e4a76490433431a800ca4b6813",
     "wof:hierarchy":[
         {
@@ -310,7 +313,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603769,
+    "wof:lastmodified":1582332205,
     "wof:name":"Xa\u00e7maz",
     "wof:parent_id":1108808623,
     "wof:placetype":"region",

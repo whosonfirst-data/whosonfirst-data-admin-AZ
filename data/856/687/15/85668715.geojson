@@ -291,6 +291,9 @@
         "wk:page":"Yevlakh District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fe13a75c72f38ec3c7dc2dead5e71c3a",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603765,
+    "wof:lastmodified":1582332203,
     "wof:name":"Yevlakh",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

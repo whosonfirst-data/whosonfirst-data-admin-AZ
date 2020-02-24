@@ -300,6 +300,9 @@
         "wk:page":"Quba District (Azerbaijan)"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dc5b54b96c05cd6b15d99e58a7e6eb95",
     "wof:hierarchy":[
         {
@@ -316,7 +319,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603769,
+    "wof:lastmodified":1582332205,
     "wof:name":"Quba",
     "wof:parent_id":1108808623,
     "wof:placetype":"region",

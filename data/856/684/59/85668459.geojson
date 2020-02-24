@@ -142,6 +142,9 @@
         "unlc:id":"AZ-SMI"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6e1d50b2ead31fbb3a5ee6b1c1dde329",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603770,
+    "wof:lastmodified":1582332206,
     "wof:name":"\u015eamax\u0131",
     "wof:parent_id":1108808611,
     "wof:placetype":"region",

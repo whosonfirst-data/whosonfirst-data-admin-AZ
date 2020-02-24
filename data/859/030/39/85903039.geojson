@@ -150,6 +150,9 @@
         "wk:page":"Bak\u0131xanov"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"91e9b70fe4981200804d5fdc367356ab",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603762,
+    "wof:lastmodified":1582332202,
     "wof:name":"Bak\u1e2fxanov",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

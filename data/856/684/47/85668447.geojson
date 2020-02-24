@@ -231,6 +231,9 @@
         "wk:page":"Sabirabad District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"48fb319aab9775281b58dac6fdb75239",
     "wof:hierarchy":[
         {
@@ -247,7 +250,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603771,
+    "wof:lastmodified":1582332206,
     "wof:name":"Sabirabad",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

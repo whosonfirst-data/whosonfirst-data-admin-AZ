@@ -375,6 +375,9 @@
         "wk:page":"Sumqayit"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"27c0ac67059bf0ec59611d78e98495ab",
     "wof:hierarchy":[
         {
@@ -391,7 +394,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603771,
+    "wof:lastmodified":1582332206,
     "wof:name":"Sumqay\u0131t",
     "wof:parent_id":1108808621,
     "wof:placetype":"region",

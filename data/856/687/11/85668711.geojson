@@ -238,6 +238,9 @@
         "wk:page":"Shusha"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"22437d2ede2c34344431cf9637fe5e4a",
     "wof:hierarchy":[
         {
@@ -254,7 +257,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603765,
+    "wof:lastmodified":1582332203,
     "wof:name":"\u015eu\u015fa",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

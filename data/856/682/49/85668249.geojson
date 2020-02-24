@@ -693,6 +693,9 @@
         "wk:page":"Baku"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7b04a68d7055e3d3ba6fc9956510bec6",
     "wof:hierarchy":[
         {
@@ -709,7 +712,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603768,
+    "wof:lastmodified":1582332205,
     "wof:name":"Bak\u0131",
     "wof:parent_id":1108808621,
     "wof:placetype":"region",

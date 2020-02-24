@@ -256,6 +256,9 @@
         "wd:id":"Q1989793"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"69c662c66b76c172d1d68a15ed8d795e",
     "wof:hierarchy":[
         {
@@ -272,7 +275,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603769,
+    "wof:lastmodified":1582332205,
     "wof:name":"Balak\u0259n",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",
