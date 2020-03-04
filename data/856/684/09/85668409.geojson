@@ -285,6 +285,9 @@
         "wk:page":"Neftchala District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4aae6184e97715a4c0b4fbee6353aafe",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603770,
+    "wof:lastmodified":1582332206,
     "wof:name":"Neft\u00e7ala",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

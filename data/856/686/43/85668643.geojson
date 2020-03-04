@@ -236,6 +236,9 @@
         "wk:page":"Shusha District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8575ba81b3390c6936d20ed88c59ba6b",
     "wof:hierarchy":[
         {
@@ -252,7 +255,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603763,
+    "wof:lastmodified":1582332203,
     "wof:name":"\u015eu\u015fa",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

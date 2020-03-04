@@ -226,6 +226,9 @@
         "wd:id":"Q2332472"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e8297dca387adbeedf38c62bdfe807ba",
     "wof:hierarchy":[
         {
@@ -242,7 +245,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603765,
+    "wof:lastmodified":1582332203,
     "wof:name":"Da\u015fk\u0259s\u0259n",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

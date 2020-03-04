@@ -288,6 +288,9 @@
         "wk:page":"Imishli District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bb597941eb7183864bd9b699ef03e8a2",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603772,
+    "wof:lastmodified":1582332207,
     "wof:name":"\u0130mi\u015fli",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

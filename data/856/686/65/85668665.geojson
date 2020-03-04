@@ -226,6 +226,9 @@
         "unlc:id":"AZ-ORD"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"06e53014022f9d26e1cf0bbba59b3d5e",
     "wof:hierarchy":[
         {
@@ -242,7 +245,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603763,
+    "wof:lastmodified":1582332203,
     "wof:name":"Ordubad",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

@@ -300,6 +300,9 @@
         "wk:page":"Absheron District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"498655f45c2a984987c0b90b704eb226",
     "wof:hierarchy":[
         {
@@ -316,7 +319,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603766,
+    "wof:lastmodified":1582332204,
     "wof:name":"Ab\u015feron",
     "wof:parent_id":1108808621,
     "wof:placetype":"region",

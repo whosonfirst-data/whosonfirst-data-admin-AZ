@@ -307,6 +307,9 @@
         "wk:page":"Zaqatala District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"44dded50c59300a85ec584cfe8c24417",
     "wof:hierarchy":[
         {
@@ -323,7 +326,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603764,
+    "wof:lastmodified":1582332203,
     "wof:name":"Zaqatala",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",

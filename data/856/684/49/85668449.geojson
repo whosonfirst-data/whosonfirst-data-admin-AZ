@@ -292,6 +292,9 @@
         "wk:page":"Salyan District, Azerbaijan"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"07dbb34097d1fd9d6d500fd02e20ed9f",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603771,
+    "wof:lastmodified":1582332206,
     "wof:name":"Salyan",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

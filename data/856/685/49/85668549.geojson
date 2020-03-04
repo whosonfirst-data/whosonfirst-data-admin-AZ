@@ -296,6 +296,9 @@
         "wk:page":"Oghuz District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7f2dd13223f93d6736b795aec00b8b5e",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603770,
+    "wof:lastmodified":1582332205,
     "wof:name":"O\u011fuz",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",

@@ -205,6 +205,9 @@
         "unlc:id":"AZ-YAR"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d3b02bf8c463c23fc3026cce90cb5c6d",
     "wof:hierarchy":[
         {
@@ -221,7 +224,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603771,
+    "wof:lastmodified":1582332206,
     "wof:name":"Yard\u0131ml\u0131",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",

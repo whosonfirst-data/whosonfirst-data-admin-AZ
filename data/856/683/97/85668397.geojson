@@ -248,6 +248,9 @@
         "wd:id":"Q512116"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"077c021699895e969f84336024196d69",
     "wof:hierarchy":[
         {
@@ -264,7 +267,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603773,
+    "wof:lastmodified":1582332207,
     "wof:name":"Masall\u0131",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",

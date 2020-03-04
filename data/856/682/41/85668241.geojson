@@ -291,6 +291,9 @@
         "wk:page":"Tovuz District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c0733d0a0e34218a66edd8de241c825e",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603768,
+    "wof:lastmodified":1582332204,
     "wof:name":"Tovuz",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

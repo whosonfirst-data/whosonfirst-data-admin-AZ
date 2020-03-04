@@ -221,6 +221,9 @@
         "qs_pg:id":270754
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bebd77e227d6b202962ec4dbbb09606c",
     "wof:hierarchy":[
         {
@@ -237,7 +240,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603771,
+    "wof:lastmodified":1582332206,
     "wof:name":"Siy\u0259z\u0259n",
     "wof:parent_id":1108808623,
     "wof:placetype":"region",

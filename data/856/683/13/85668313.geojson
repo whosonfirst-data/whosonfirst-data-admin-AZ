@@ -140,6 +140,9 @@
         "qs_pg:id":128258
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2d3c71dbc231ad3602c60b28e5223e48",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603773,
+    "wof:lastmodified":1582332207,
     "wof:name":"Beyl\u0259qan",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

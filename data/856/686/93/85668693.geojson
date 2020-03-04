@@ -242,6 +242,9 @@
         "wk:page":"Goranboy District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"becff7a8297d03a68ca92b511220c57e",
     "wof:hierarchy":[
         {
@@ -258,7 +261,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603762,
+    "wof:lastmodified":1582332202,
     "wof:name":"Naftalan",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

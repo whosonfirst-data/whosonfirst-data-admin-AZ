@@ -300,6 +300,9 @@
         "wk:page":"Agstafa District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"04406e14d5789d6cf035693ee070da93",
     "wof:hierarchy":[
         {
@@ -316,7 +319,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603764,
+    "wof:lastmodified":1582332203,
     "wof:name":"A\u011fstafa",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

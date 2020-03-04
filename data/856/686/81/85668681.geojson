@@ -338,6 +338,9 @@
         "wk:page":"Nakhchivan Autonomous Republic"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"81512eb7d44e0803891588ddbfa0f90b",
     "wof:hierarchy":[
         {
@@ -354,7 +357,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603763,
+    "wof:lastmodified":1582332203,
     "wof:name":"Nax\u00e7\u0131van",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

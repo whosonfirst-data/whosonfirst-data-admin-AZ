@@ -85,6 +85,9 @@
         "wd:id":"Q4986854"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"463fad16708d6de8126c9bfd3821be10",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566603762,
+    "wof:lastmodified":1582332202,
     "wof:name":"Bukhta-Il'icha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

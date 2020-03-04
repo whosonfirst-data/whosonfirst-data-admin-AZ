@@ -234,6 +234,9 @@
         "wk:page":"Sabirabad District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"289a83ff438a1d168d3268aa9b5416ad",
     "wof:hierarchy":[
         {
@@ -250,7 +253,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603765,
+    "wof:lastmodified":1582332203,
     "wof:name":"Shirvan",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

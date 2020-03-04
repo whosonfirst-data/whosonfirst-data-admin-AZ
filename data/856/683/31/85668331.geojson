@@ -285,6 +285,9 @@
         "wd:id":"Q1020627"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e2b0de9f91cb20f17f052105e4baee57",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603772,
+    "wof:lastmodified":1582332207,
     "wof:name":"C\u0259lilabad",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",

@@ -140,6 +140,9 @@
         "qs_pg:id":245265
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b10cd5dc555f5734de44c6a88dfb1e43",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603764,
+    "wof:lastmodified":1582332203,
     "wof:name":"T\u0259rt\u0259r",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

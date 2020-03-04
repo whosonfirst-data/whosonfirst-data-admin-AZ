@@ -177,6 +177,9 @@
         "wd:id":"Q4404519"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f2a8ec0088a209ad50dda77ea060c4b0",
     "wof:hierarchy":[
         {
@@ -193,7 +196,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603764,
+    "wof:lastmodified":1582332203,
     "wof:name":"S\u0259d\u0259r\u0259k",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

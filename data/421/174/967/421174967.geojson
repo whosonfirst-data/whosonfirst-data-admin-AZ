@@ -720,6 +720,9 @@
     },
     "wof:country":"AZ",
     "wof:created":1459009050,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c36c43cd4bef8c2bcbae7a886357cde9",
     "wof:hierarchy":[
         {
@@ -731,7 +734,7 @@
         }
     ],
     "wof:id":421174967,
-    "wof:lastmodified":1566603995,
+    "wof:lastmodified":1582332213,
     "wof:name":"Baku",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

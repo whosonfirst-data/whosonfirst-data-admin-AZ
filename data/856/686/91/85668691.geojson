@@ -375,6 +375,9 @@
         "qs_pg:id":245328
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9eac1e6d4a18bcee948c136ec065a568",
     "wof:hierarchy":[
         {
@@ -391,7 +394,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603763,
+    "wof:lastmodified":1582332203,
     "wof:name":"Stepanakert",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

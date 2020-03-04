@@ -215,6 +215,9 @@
         "qs_pg:id":1092313
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"effe44b0655b1903fe835bc4ec852b17",
     "wof:hierarchy":[
         {
@@ -231,7 +234,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603772,
+    "wof:lastmodified":1582332207,
     "wof:name":"Bil\u0259suvar",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

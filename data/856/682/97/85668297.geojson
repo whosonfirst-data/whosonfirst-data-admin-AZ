@@ -306,6 +306,9 @@
         "wk:page":"Astara District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bd9d55b607a0ff69d0c531d87cec2268",
     "wof:hierarchy":[
         {
@@ -322,7 +325,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603767,
+    "wof:lastmodified":1582332204,
     "wof:name":"Astara",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",

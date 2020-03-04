@@ -288,6 +288,9 @@
         "wk:page":"Goychay District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a461ec59164516f040b99c65b6a1b38a",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603771,
+    "wof:lastmodified":1582332206,
     "wof:name":"G\u00f6y\u00e7ay",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

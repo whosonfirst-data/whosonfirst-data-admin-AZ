@@ -300,6 +300,9 @@
         "wk:page":"Fuzuli District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7a4a544db877e2774278a1180803634b",
     "wof:hierarchy":[
         {
@@ -316,7 +319,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603772,
+    "wof:lastmodified":1582332207,
     "wof:name":"F\u00fczuli",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

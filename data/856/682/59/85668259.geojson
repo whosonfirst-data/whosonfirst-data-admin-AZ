@@ -300,6 +300,9 @@
         "wk:page":"Agdash District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"67d16f75e97163f9494d26e4a38c7159",
     "wof:hierarchy":[
         {
@@ -316,7 +319,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603765,
+    "wof:lastmodified":1582332203,
     "wof:name":"A\u011fda\u015f",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

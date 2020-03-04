@@ -297,6 +297,9 @@
         "wk:page":"Qusar District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8de7c517b5b868cb4f79b2c02bb86146",
     "wof:hierarchy":[
         {
@@ -313,7 +316,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603769,
+    "wof:lastmodified":1582332205,
     "wof:name":"Qusar",
     "wof:parent_id":1108808623,
     "wof:placetype":"region",

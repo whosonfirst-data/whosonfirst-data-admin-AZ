@@ -282,6 +282,9 @@
         "wk:page":"Lerik District"
     },
     "wof:country":"AZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e66ab46efd0c059c0f77766d3ca87347",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1566603770,
+    "wof:lastmodified":1582332206,
     "wof:name":"Lerik",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",
