@@ -1180,9 +1180,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Azerbaijan",
-        "digitalenvoy:country_code":[
-            31
-        ],
+        "digitalenvoy:country_code":31,
         "fb:id":"en.azerbaijan",
         "fifa:id":"AZE",
         "fips:code":"AJ",
@@ -1226,7 +1224,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1583529076,
+    "wof:lastmodified":1583797279,
     "wof:name":"Azerbaijan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
