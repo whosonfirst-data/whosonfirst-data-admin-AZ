@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.145008,
-    "geom:area_square_m":86240233631.387085,
+    "geom:area_square_m":86240232327.750565,
     "geom:bbox":"44.759994,38.392233,50.619649,41.90861",
     "geom:latitude":40.296012,
     "geom:longitude":47.532768,
@@ -73,6 +73,9 @@
     ],
     "name:arg_x_preferred":[
         "Azerbaich\u00e1n"
+    ],
+    "name:ary_x_preferred":[
+        "\u0623\u0632\u064a\u0631\u0628\u064a\u062f\u062c\u0627\u0646"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0630\u064a\u0631\u0628\u0627\u064a\u062c\u0627\u0646"
@@ -218,6 +221,12 @@
     "name:dan_x_preferred":[
         "Aserbajdsjan"
     ],
+    "name:deu_at_x_preferred":[
+        "Aserbaidschan"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Aserbaidschan"
+    ],
     "name:deu_x_preferred":[
         "Aserbaidschan"
     ],
@@ -242,6 +251,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03b6\u03b5\u03c1\u03bc\u03c0\u03b1\u03ca\u03c4\u03b6\u03ac\u03bd"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Azerbaijan"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Azerbaijan"
     ],
     "name:eng_x_preferred":[
         "Azerbaijan"
@@ -289,6 +304,9 @@
     "name:fas_x_variant":[
         "\u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646"
     ],
+    "name:fij_x_preferred":[
+        "Azerbaijan"
+    ],
     "name:fin_x_preferred":[
         "Azerbaid\u017ean"
     ],
@@ -318,6 +336,9 @@
     ],
     "name:gag_x_preferred":[
         "Azerbaycan"
+    ],
+    "name:gcr_x_preferred":[
+        "Azerbaydjan"
     ],
     "name:gla_x_preferred":[
         "Asarbaide\u00e0n"
@@ -701,6 +722,9 @@
     "name:nov_x_preferred":[
         "Aserbaijan"
     ],
+    "name:nqo_x_preferred":[
+        "\u07ca\u07d6\u07ed\u07cd\u07d9\u07d1\u07d3\u07ca\u07d6\u07ca\u07f2\u07eb"
+    ],
     "name:nso_x_preferred":[
         "Azerbaijan"
     ],
@@ -764,6 +788,9 @@
     ],
     "name:pol_x_preferred":[
         "Azerbejd\u017can"
+    ],
+    "name:por_br_x_preferred":[
+        "Azerbaij\u00e3o"
     ],
     "name:por_x_colloquial":[
         "Azerbaijao"
@@ -885,6 +912,12 @@
     "name:srn_x_preferred":[
         "Azerbaijanikondre"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0410\u0437\u0435\u0440\u0431\u0435\u0458\u045f\u0430\u043d"
+    ],
+    "name:srp_el_x_preferred":[
+        "Azerbejd\u017ean"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u0437\u0435\u0440\u0431\u0435\u0458\u045f\u0430\u043d"
     ],
@@ -908,6 +941,9 @@
     ],
     "name:szl_x_preferred":[
         "Azerbejd\u017c\u016fn"
+    ],
+    "name:szy_x_preferred":[
+        "Azerbaijan"
     ],
     "name:tah_x_preferred":[
         "Atepaih\u0101nia"
@@ -1055,8 +1091,20 @@
     "name:zha_x_preferred":[
         "Ahsehbaiqgyangh"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u963f\u585e\u62dc\u7586"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u963f\u585e\u62dc\u7586"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Azerbaijan"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u963f\u585e\u62dc\u7586"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4e9e\u585e\u62dc\u7136"
     ],
     "name:zho_x_preferred":[
         "\u963f\u585e\u62dc\u7586"
@@ -1224,7 +1272,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1583797279,
+    "wof:lastmodified":1587427909,
     "wof:name":"Azerbaijan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
