@@ -717,6 +717,7 @@
         "gn:id":587084,
         "gp:id":1951874,
         "loc:id":"n79110308",
+        "ne:id":1159151123,
         "qs_pg:id":911331,
         "wd:id":"Q9248"
     },
@@ -736,7 +737,8 @@
         }
     ],
     "wof:id":421174967,
-    "wof:lastmodified":1607390888,
+    "wof:lastmodified":1608688179,
+    "wof:megacity":1,
     "wof:name":"Baku",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",
