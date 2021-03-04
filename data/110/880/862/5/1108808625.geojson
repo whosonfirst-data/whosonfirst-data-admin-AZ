@@ -186,6 +186,9 @@
         "Lankaran"
     ],
     "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u043a\u043e\u0440\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:rus_x_variant":[
         "\u041b\u0435\u043d\u043a\u043e\u0440\u0430\u043d\u044c"
     ],
     "name:sco_x_preferred":[
@@ -287,7 +290,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1587427915,
+    "wof:lastmodified":1614892866,
     "wof:name":"Lankaran",
     "wof:parent_id":85632717,
     "wof:placetype":"macroregion",
