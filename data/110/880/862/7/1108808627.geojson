@@ -66,6 +66,9 @@
         "Aranas"
     ],
     "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u043d\u0441\u043a\u0438\u0439 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:rus_x_variant":[
         "\u0410\u0440\u0430\u043d"
     ],
     "name:srp_x_preferred":[
@@ -99,7 +102,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1587427913,
+    "wof:lastmodified":1614892865,
     "wof:name":"Aran",
     "wof:parent_id":85632717,
     "wof:placetype":"macroregion",
