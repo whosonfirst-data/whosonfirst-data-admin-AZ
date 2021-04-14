@@ -1260,7 +1260,8 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "meso",
-        "naturalearth"
+        "naturalearth",
+        "whosonfirst"
     ],
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -1321,7 +1322,8 @@
     "wof:geom_alt":[
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6",
-        "meso"
+        "meso",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"42ee008987dd34a3f96d277b113abdcc",
     "wof:hierarchy":[
@@ -1337,7 +1339,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1617827842,
+    "wof:lastmodified":1618362670,
     "wof:name":"Azerbaijan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
