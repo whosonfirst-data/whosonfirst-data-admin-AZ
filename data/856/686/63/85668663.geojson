@@ -44,6 +44,9 @@
     "name:eng_x_variant":[
         "S\u0259d\u0259r\u0259k"
     ],
+    "name:fra_x_preferred":[
+        "Sadarak"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0576\u0564\u0580\u0578\u0582\u0584"
     ],
@@ -199,7 +202,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892862,
+    "wof:lastmodified":1627521584,
     "wof:name":"S\u0259d\u0259r\u0259k",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

@@ -43,6 +43,9 @@
         "Khojavend District",
         "Khojavend"
     ],
+    "name:fra_x_preferred":[
+        "Martouni"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u0434\u0436\u0430\u0432\u0435\u043d\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -172,7 +175,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892861,
+    "wof:lastmodified":1627521583,
     "wof:name":"Xocav\u0259nd",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

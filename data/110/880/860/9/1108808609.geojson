@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":3.0,
+    "name:fra_x_preferred":[
+        "Ganja-Gazakh"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u044f\u043d\u0434\u0436\u0430-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -45,7 +48,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892865,
+    "wof:lastmodified":1627521582,
     "wof:name":"Ganja-Gazakh",
     "wof:parent_id":85632717,
     "wof:placetype":"macroregion",

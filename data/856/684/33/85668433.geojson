@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Saatli"
     ],
+    "name:fra_x_preferred":[
+        "Saatl\u0131"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10d0\u10d7\u10da\u10d8"
     ],
@@ -177,7 +180,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892864,
+    "wof:lastmodified":1627521584,
     "wof:name":"Saatl\u0131",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Xocali"
     ],
+    "name:fra_x_preferred":[
+        "Khojali"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u057f\u0565\u0583\u0561\u0576\u0561\u056f\u0565\u0580\u057f"
     ],
@@ -176,7 +179,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892861,
+    "wof:lastmodified":1627521583,
     "wof:name":"Xocal\u0131",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

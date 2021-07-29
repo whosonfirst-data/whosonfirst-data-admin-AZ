@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Qabala"
     ],
+    "name:fra_x_preferred":[
+        "Qabala"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u0431\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -162,7 +165,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892863,
+    "wof:lastmodified":1627521583,
     "wof:name":"Q\u0259b\u0259l\u0259",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",

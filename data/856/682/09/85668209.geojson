@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Ganca"
     ],
+    "name:fra_x_preferred":[
+        "Gandja"
+    ],
     "name:nno_x_preferred":[
         "G\u01ddnc\u01dd"
     ],
@@ -165,7 +168,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892863,
+    "wof:lastmodified":1627521582,
     "wof:name":"G\u0259nc\u0259",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

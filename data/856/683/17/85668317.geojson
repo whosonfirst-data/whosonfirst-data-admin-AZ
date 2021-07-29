@@ -57,6 +57,9 @@
     "name:fin_x_preferred":[
         "Bil\u0259suvar"
     ],
+    "name:fra_x_preferred":[
+        "Bilasuvar"
+    ],
     "name:hsb_x_preferred":[
         "Bil\u0259suvar"
     ],
@@ -237,7 +240,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892864,
+    "wof:lastmodified":1627521582,
     "wof:name":"Bil\u0259suvar",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

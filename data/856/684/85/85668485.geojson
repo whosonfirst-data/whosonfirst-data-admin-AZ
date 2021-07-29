@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Xizi"
     ],
+    "name:fra_x_preferred":[
+        "Xiz\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u044b\u0437\u044b\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -164,7 +167,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892864,
+    "wof:lastmodified":1627521584,
     "wof:name":"Xiz\u0131",
     "wof:parent_id":1108808621,
     "wof:placetype":"region",

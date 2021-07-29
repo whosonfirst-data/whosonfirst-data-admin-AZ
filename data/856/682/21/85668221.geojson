@@ -41,6 +41,9 @@
         "Kalbajar",
         "Kelbajar"
     ],
+    "name:fra_x_preferred":[
+        "Kelbadjar"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u043b\u044c\u0431\u0430\u0434\u0436\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -170,7 +173,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892863,
+    "wof:lastmodified":1627521583,
     "wof:name":"K\u0259lb\u0259c\u0259r",
     "wof:parent_id":1108808607,
     "wof:placetype":"region",

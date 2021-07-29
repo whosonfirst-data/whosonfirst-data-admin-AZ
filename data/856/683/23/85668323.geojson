@@ -41,6 +41,9 @@
         "Jabrayil",
         "Jebrail"
     ],
+    "name:fra_x_preferred":[
+        "Jabrayil"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0435\u0431\u0440\u0430\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -170,7 +173,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892865,
+    "wof:lastmodified":1627521583,
     "wof:name":"C\u0259bray\u0131l",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

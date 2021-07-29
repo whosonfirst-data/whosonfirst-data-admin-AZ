@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Culfa"
     ],
+    "name:fra_x_preferred":[
+        "Culfa"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0443\u043b\u044c\u0444\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -171,7 +174,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892862,
+    "wof:lastmodified":1627521582,
     "wof:name":"Culfa",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",
