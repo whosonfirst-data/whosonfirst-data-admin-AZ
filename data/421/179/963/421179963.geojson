@@ -26,6 +26,9 @@
     "name:bel_x_preferred":[
         "\u0415\u045e\u043b\u0430\u0445"
     ],
+    "name:ben_x_preferred":[
+        "\u0987\u09df\u09c7\u09ad\u09c7\u09b2\u09be\u0995\u09cd\u09b8"
+    ],
     "name:ceb_x_preferred":[
         "Yevlakh"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:deu_x_preferred":[
         "Yevlax"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03b5\u03b2\u03bb\u03ac\u03be"
     ],
     "name:eng_x_preferred":[
         "Yevlakh"
@@ -61,6 +67,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d9\u05d9\u05d1\u05dc\u05d0\u05d7"
+    ],
+    "name:hin_x_preferred":[
+        "\u092f\u0947\u0935\u0932\u0948\u0915\u094d\u0938"
     ],
     "name:hsb_x_preferred":[
         "Yevlax"
@@ -103,6 +112,9 @@
     ],
     "name:pol_x_preferred":[
         "Yevlax"
+    ],
+    "name:por_x_preferred":[
+        "Yevlakh"
     ],
     "name:ron_x_preferred":[
         "Ievlah"
@@ -298,7 +310,7 @@
         }
     ],
     "wof:id":421179963,
-    "wof:lastmodified":1566603998,
+    "wof:lastmodified":1636497576,
     "wof:name":"Yevlax",
     "wof:parent_id":85668715,
     "wof:placetype":"locality",

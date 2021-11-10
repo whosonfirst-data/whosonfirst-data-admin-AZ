@@ -35,6 +35,9 @@
     "name:ceb_x_preferred":[
         "Arta"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d8\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Arta"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1242714419,
-    "wof:lastmodified":1566604035,
+    "wof:lastmodified":1636497577,
     "wof:name":"Arta",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

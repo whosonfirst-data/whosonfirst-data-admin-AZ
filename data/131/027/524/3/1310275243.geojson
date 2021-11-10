@@ -35,6 +35,12 @@
     "name:aze_x_preferred":[
         "Sabirabad"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05d1\u05d9\u05e8\u05d0\u05d1\u05d0\u05d3"
+    ],
+    "name:hun_x_preferred":[
+        "Sabirabad"
+    ],
     "name:ita_x_preferred":[
         "Sabirabad"
     ],
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1310275243,
-    "wof:lastmodified":1566603948,
+    "wof:lastmodified":1636497574,
     "wof:name":"Sabirabad",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

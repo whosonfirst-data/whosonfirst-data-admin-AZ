@@ -45,6 +45,12 @@
     "name:fra_x_preferred":[
         "Qobustan"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d1\u05d5\u05e1\u05d8\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Kobuszt\u00e1n"
+    ],
     "name:nld_x_preferred":[
         "Qobustan"
     ],
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421203099,
-    "wof:lastmodified":1566603995,
+    "wof:lastmodified":1636497575,
     "wof:name":"Qobustan",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

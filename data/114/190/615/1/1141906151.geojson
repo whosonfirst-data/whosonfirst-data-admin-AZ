@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"47.8458333,40.9813889,47.8458333,40.9813889",
+    "geom:bbox":"47.845833,40.981389,47.845833,40.981389",
     "geom:latitude":40.981389,
     "geom:longitude":47.845833,
     "iso:country":"AZ",
@@ -35,6 +35,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u0430\u0431\u0435\u043b\u044f"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u09df\u09be\u09ac\u09be\u09b2\u09be"
     ],
     "name:cat_x_preferred":[
         "Kabala"
@@ -66,11 +69,20 @@
     "name:fra_x_preferred":[
         "Qabala"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d1\u05d0\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u092c\u093e\u0932\u093e"
+    ],
     "name:hsb_x_preferred":[
         "Q\u0259b\u0259l\u0259"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0582\u057f\u056f\u0561\u0577\u0565\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Qabala"
     ],
     "name:ita_x_preferred":[
         "Q\u0259b\u0259l\u0259"
@@ -134,6 +146,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0642\u0627\u0628\u0627\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Qabala"
     ],
     "name:zho_x_preferred":[
         "\u84cb\u8c9d\u840a"
@@ -246,7 +261,7 @@
     },
     "wof:country":"AZ",
     "wof:created":1499130548,
-    "wof:geomhash":"0e1af886b4f91d5a623b696f7dae4d5d",
+    "wof:geomhash":"c286f0bef78c0aaade4ce72f815a5cff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -257,7 +272,7 @@
         }
     ],
     "wof:id":1141906151,
-    "wof:lastmodified":1566604118,
+    "wof:lastmodified":1636497579,
     "wof:name":"Qabala",
     "wof:parent_id":85668541,
     "wof:placetype":"locality",
@@ -267,10 +282,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.84583329999998,
-    40.98138889999996,
-    47.84583329999998,
-    40.98138889999996
+    47.845833,
+    40.981389,
+    47.845833,
+    40.981389
 ],
-  "geometry": {"coordinates":[47.84583329999998,40.98138889999996],"type":"Point"}
+  "geometry": {"coordinates":[47.845833,40.981389],"type":"Point"}
 }

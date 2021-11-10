@@ -77,10 +77,16 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0aac\u0ac0\u0ab0\u0abe\u0aac\u0abe\u0aa6"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05d1\u05d9\u05e8\u05d0\u05d1\u05d0\u05d3"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u092c\u093f\u0930\u093e\u092c\u093e\u0926"
     ],
     "name:hsb_x_preferred":[
+        "Sabirabad"
+    ],
+    "name:hun_x_preferred":[
         "Sabirabad"
     ],
     "name:hye_x_preferred":[
@@ -235,7 +241,7 @@
         }
     ],
     "wof:id":421180485,
-    "wof:lastmodified":1566603996,
+    "wof:lastmodified":1636497575,
     "wof:name":"Sabirabad",
     "wof:parent_id":85668433,
     "wof:placetype":"locality",

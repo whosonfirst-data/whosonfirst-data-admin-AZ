@@ -33,7 +33,31 @@
         "Tel"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u0422\u0435\u043b"
+    ],
+    "name:rus_x_variant":[
         "Tel\u2019"
+    ],
+    "name:swe_x_preferred":[
+        "Tel"
+    ],
+    "name:tur_x_preferred":[
+        "Tel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043b"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06cc\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Tel"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6cf0\u5c14\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7279\u8033\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1293237215,
-    "wof:lastmodified":1566603791,
+    "wof:lastmodified":1636497572,
     "wof:name":"Tel",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

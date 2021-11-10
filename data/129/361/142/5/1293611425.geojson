@@ -35,6 +35,18 @@
     "name:aze_x_variant":[
         "Bio"
     ],
+    "name:deu_x_preferred":[
+        "Biu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0648"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Biu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1293611425,
-    "wof:lastmodified":1566603798,
+    "wof:lastmodified":1636497573,
     "wof:name":"Biu",
     "wof:parent_id":85668297,
     "wof:placetype":"locality",

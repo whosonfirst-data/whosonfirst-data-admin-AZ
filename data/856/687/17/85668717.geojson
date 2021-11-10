@@ -39,6 +39,12 @@
     "name:fra_x_preferred":[
         "Kangarli"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e0\u05d2\u05e8\u05dc\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Kangarli"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u043d\u0433\u0435\u0440\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -109,7 +115,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521583,
+    "wof:lastmodified":1636497568,
     "wof:name":"Kangarli",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

@@ -36,11 +36,17 @@
     "name:aze_x_variant":[
         "A\u015fa\u011f\u0131 Leninabad"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c7\u09a8\u09bf\u09a8\u09be\u09ac\u09be\u09a6"
+    ],
     "name:ceb_x_preferred":[
         "Leninabad"
     ],
     "name:hye_x_preferred":[
         "\u053c\u0565\u0576\u056b\u0576\u0561\u0562\u0561\u0564"
+    ],
+    "name:ind_x_preferred":[
+        "Leninabad"
     ],
     "name:swe_x_preferred":[
         "Leninabad"
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1360238349,
-    "wof:lastmodified":1566603962,
+    "wof:lastmodified":1636497574,
     "wof:name":"Leninabad",
     "wof:parent_id":85668673,
     "wof:placetype":"locality",

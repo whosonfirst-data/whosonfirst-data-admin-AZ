@@ -36,6 +36,9 @@
     "name:fra_x_preferred":[
         "Qubadli"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d1\u05d0\u05d3\u05dc\u05d9"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0443\u0431\u0430\u0434\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -167,7 +170,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521584,
+    "wof:lastmodified":1636497566,
     "wof:name":"Qubadli",
     "wof:parent_id":1108808607,
     "wof:placetype":"region",

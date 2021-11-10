@@ -35,6 +35,12 @@
     "name:aze_x_variant":[
         "Leninabad"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c7\u09a8\u09bf\u09a8\u09be\u09ac\u09be\u09a6"
+    ],
+    "name:ind_x_preferred":[
+        "Leninabad"
+    ],
     "name:ita_x_preferred":[
         "B\u0259\u015firli"
     ],
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1293848297,
-    "wof:lastmodified":1566603789,
+    "wof:lastmodified":1636497572,
     "wof:name":"Leninabad",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

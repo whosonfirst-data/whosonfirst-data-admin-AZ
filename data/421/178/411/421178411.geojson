@@ -69,9 +69,15 @@
         "Astara"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05e1\u05d8\u05e8\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05d0\u05e1\u05ea\u05d0\u05e8\u05d0"
     ],
     "name:hsb_x_preferred":[
+        "Astara"
+    ],
+    "name:hun_x_preferred":[
         "Astara"
     ],
     "name:hye_x_preferred":[
@@ -190,7 +196,7 @@
         }
     ],
     "wof:id":421178411,
-    "wof:lastmodified":1566603999,
+    "wof:lastmodified":1636497577,
     "wof:name":"Astara",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

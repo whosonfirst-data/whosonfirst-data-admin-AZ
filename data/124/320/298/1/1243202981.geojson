@@ -56,6 +56,9 @@
     "name:fin_x_preferred":[
         "Samux"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05de\u05d5\u05e9"
+    ],
     "name:hsb_x_preferred":[
         "Samux"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1243202981,
-    "wof:lastmodified":1566604041,
+    "wof:lastmodified":1636497578,
     "wof:name":"Samux",
     "wof:parent_id":85668235,
     "wof:placetype":"locality",

@@ -66,10 +66,16 @@
     "name:fra_x_preferred":[
         "Ordoubad"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05d3\u05d5\u05d1\u05d0\u05d3"
+    ],
     "name:hrv_x_preferred":[
         "Ordubad"
     ],
     "name:hsb_x_preferred":[
+        "Ordubad"
+    ],
+    "name:hun_x_preferred":[
         "Ordubad"
     ],
     "name:hye_x_preferred":[
@@ -248,7 +254,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892862,
+    "wof:lastmodified":1636497567,
     "wof:name":"Ordubad",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

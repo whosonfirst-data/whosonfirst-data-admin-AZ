@@ -56,7 +56,13 @@
     "name:fra_x_variant":[
         "Ordubad"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05d3\u05d5\u05d1\u05d0\u05d3"
+    ],
     "name:hsb_x_preferred":[
+        "Ordubad"
+    ],
+    "name:hun_x_preferred":[
         "Ordubad"
     ],
     "name:hye_x_preferred":[
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":421198647,
-    "wof:lastmodified":1566603997,
+    "wof:lastmodified":1636497576,
     "wof:name":"Ordubad",
     "wof:parent_id":85668665,
     "wof:placetype":"locality",

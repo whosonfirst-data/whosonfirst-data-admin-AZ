@@ -32,6 +32,9 @@
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u0430\u043d\u0431\u043e\u0439"
     ],
+    "name:ben_x_preferred":[
+        "\u0997\u09cb\u09b0\u09be\u09a8\u09ac\u09df"
+    ],
     "name:ceb_x_preferred":[
         "Goranboy"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:deu_x_preferred":[
         "Goranboy"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c1\u03b1\u03bd\u03bc\u03c0\u03cc\u03b9"
     ],
     "name:eng_x_preferred":[
         "Goranboy"
@@ -53,11 +59,23 @@
     "name:fra_x_preferred":[
         "Goranboy"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05e8\u05d0\u05e0\u05d1\u05d5\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u094b\u0930\u0928\u092c\u0949\u092f"
+    ],
     "name:hsb_x_preferred":[
+        "Goranboy"
+    ],
+    "name:hun_x_preferred":[
         "Goranboy"
     ],
     "name:hye_x_preferred":[
         "\u0533\u0578\u0580\u0561\u0576\u0562\u0578\u0575"
+    ],
+    "name:ind_x_preferred":[
+        "Goranboy"
     ],
     "name:ita_x_preferred":[
         "Goranboy"
@@ -67,6 +85,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10dd\u10e0\u10d0\u10dc\u10d1\u10dd\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uace0\ub780\ubcf4\uc774"
     ],
     "name:lit_x_preferred":[
         "Goranbojus"
@@ -106,6 +127,9 @@
     ],
     "name:und_x_variant":[
         "Kasum-Ismailovo"
+    ],
+    "name:vie_x_preferred":[
+        "Goranboy"
     ],
     "name:zho_x_preferred":[
         "\u6208\u862d\u535a\u4f0a"
@@ -249,7 +273,7 @@
         }
     ],
     "wof:id":421168737,
-    "wof:lastmodified":1566603993,
+    "wof:lastmodified":1636497574,
     "wof:name":"Goranboy",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

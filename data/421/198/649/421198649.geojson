@@ -53,6 +53,9 @@
     "name:hsb_x_preferred":[
         "Lerik"
     ],
+    "name:hun_x_preferred":[
+        "Lerik"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0565\u0580\u056b\u056f"
     ],
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":421198649,
-    "wof:lastmodified":1566603997,
+    "wof:lastmodified":1636497576,
     "wof:name":"Lerik",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

@@ -122,6 +122,9 @@
         "Elenendorf"
     ],
     "name:urd_x_preferred":[
+        "\u0632\u06cc\u0646\u0644\u0627\u0631"
+    ],
+    "name:urd_x_variant":[
         "\u06af\u0648\u0626\u06cc \u06af\u0644"
     ],
     "name:zho_x_preferred":[
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":421178457,
-    "wof:lastmodified":1566603999,
+    "wof:lastmodified":1636497577,
     "wof:name":"Xanlar",
     "wof:parent_id":85668211,
     "wof:placetype":"locality",

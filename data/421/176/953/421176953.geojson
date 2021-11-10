@@ -53,6 +53,9 @@
     "name:gag_x_preferred":[
         "Qusar"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e1\u05d0\u05e8"
+    ],
     "name:hsb_x_preferred":[
         "Qusar"
     ],
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":421176953,
-    "wof:lastmodified":1566603999,
+    "wof:lastmodified":1636497577,
     "wof:name":"Qusar",
     "wof:parent_id":85668577,
     "wof:placetype":"locality",

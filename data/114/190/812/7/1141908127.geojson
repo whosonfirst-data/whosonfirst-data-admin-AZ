@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"48.8510644112,38.7540027049,48.8510644112,38.7540027049",
+    "geom:bbox":"48.851064,38.754003,48.851064,38.754003",
     "geom:latitude":38.754003,
     "geom:longitude":48.851064,
     "iso:country":"AZ",
@@ -223,6 +223,9 @@
         "\u041b\u0435\u043d\u043a\u043e\u0440\u0430\u043d\u044c"
     ],
     "name:urd_x_preferred":[
+        "\u0644\u0627\u0646\u06a9\u0627\u0631\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
         "\u0644\u0646\u06a9\u0631\u0627\u0646"
     ],
     "name:uzb_x_preferred":[
@@ -233,6 +236,12 @@
     ],
     "name:war_x_preferred":[
         "Lankaran"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8fde\u79d1\u5170"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9023\u79d1\u862d"
     ],
     "name:zho_x_preferred":[
         "\u9023\u79d1\u862d"
@@ -345,7 +354,7 @@
     },
     "wof:country":"AZ",
     "wof:created":1499130824,
-    "wof:geomhash":"1737cc458b2be052a8cbeeef2367be5c",
+    "wof:geomhash":"d2d66a014c3fb12ee4f5bec1af6b195d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -356,7 +365,7 @@
         }
     ],
     "wof:id":1141908127,
-    "wof:lastmodified":1566604118,
+    "wof:lastmodified":1636497579,
     "wof:name":"Lankaran",
     "wof:parent_id":85668697,
     "wof:placetype":"locality",
@@ -366,10 +375,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.85106441121582,
-    38.75400270492401,
-    48.85106441121582,
-    38.75400270492401
+    48.851064,
+    38.754003,
+    48.851064,
+    38.754003
 ],
-  "geometry": {"coordinates":[48.85106441121582,38.75400270492401],"type":"Point"}
+  "geometry": {"coordinates":[48.851064,38.754003],"type":"Point"}
 }

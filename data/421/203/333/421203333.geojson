@@ -59,6 +59,9 @@
     "name:fra_x_preferred":[
         "Qakh"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05d7"
+    ],
     "name:hsb_x_preferred":[
         "Qax"
     ],
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":421203333,
-    "wof:lastmodified":1566603995,
+    "wof:lastmodified":1636497575,
     "wof:name":"Qax",
     "wof:parent_id":85668557,
     "wof:placetype":"locality",

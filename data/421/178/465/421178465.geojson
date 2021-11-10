@@ -183,6 +183,9 @@
         "\u041d\u0430\u0444\u0442\u0430\u043b\u0430\u043d"
     ],
     "name:urd_x_preferred":[
+        "\u0646\u0627\u0641\u062a\u0627\u0644\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
         "\u0646\u0641\u062a\u0627\u0644\u0627\u0646"
     ],
     "name:uzb_x_preferred":[
@@ -193,6 +196,12 @@
     ],
     "name:war_x_preferred":[
         "Naftalan"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7eb3\u592b\u5854\u5170"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7d0d\u592b\u5854\u862d"
     ],
     "name:zho_x_preferred":[
         "\u7d0d\u592b\u5854\u862d"
@@ -247,7 +256,7 @@
         }
     ],
     "wof:id":421178465,
-    "wof:lastmodified":1566603998,
+    "wof:lastmodified":1636497576,
     "wof:name":"Naftalan",
     "wof:parent_id":85668693,
     "wof:placetype":"locality",

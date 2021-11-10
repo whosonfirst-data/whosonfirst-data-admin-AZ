@@ -54,6 +54,9 @@
         "Zaqatala"
     ],
     "name:heb_x_preferred":[
+        "\u05d6\u05e7\u05d8\u05dc\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05d6\u05e7\u05d8\u05d0\u05dc\u05d4"
     ],
     "name:hsb_x_preferred":[
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":421183405,
-    "wof:lastmodified":1566603998,
+    "wof:lastmodified":1636497576,
     "wof:name":"Zaqatala",
     "wof:parent_id":85668601,
     "wof:placetype":"locality",
