@@ -100,7 +100,7 @@
         "Zanghilan"
     ],
     "name:rus_x_preferred":[
-        "\n\u0417\u0430\u043d\u0433\u0435\u043b\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        "\u0417\u0430\u043d\u0433\u0435\u043b\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:rus_x_variant":[
         "\u0417\u0430\u043d\u0433\u0435\u043b\u0430\u043d"
@@ -250,7 +250,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892861,
+    "wof:lastmodified":1678298754,
     "wof:name":"Z\u0259ngilan",
     "wof:parent_id":1108808607,
     "wof:placetype":"region",
