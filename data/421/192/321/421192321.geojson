@@ -77,6 +77,9 @@
     "name:fao_x_preferred":[
         "Sheki"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Sheki"
     ],
@@ -300,7 +303,7 @@
         }
     ],
     "wof:id":421192321,
-    "wof:lastmodified":1566603994,
+    "wof:lastmodified":1690855742,
     "wof:name":"Sheki",
     "wof:parent_id":85668259,
     "wof:placetype":"locality",

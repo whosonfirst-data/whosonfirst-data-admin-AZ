@@ -26,6 +26,9 @@
     "name:arz_x_preferred":[
         "\u0628\u0649 \u0628\u0649 \u0647\u064a\u0628\u062a"
     ],
+    "name:ast_x_preferred":[
+        "Bibiheyb\u0259t"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u06cc\u200c\u0628\u06cc\u200c\u0647\u0626\u06cc\u0628\u062a"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:ceb_x_preferred":[
         "Bibi-Eybat"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0438\u0431\u0438-\u0425\u04c0\u0435\u0439\u0431\u0430\u044c\u0442"
     ],
     "name:deu_x_preferred":[
         "Xanlar"
@@ -92,6 +98,9 @@
     "name:swe_x_preferred":[
         "Bibi-Eybat"
     ],
+    "name:swe_x_variant":[
+        "Bibiheyb\u00e4t"
+    ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c3e\u0c28\u0c4d\u0c32\u0c30\u0c4d"
     ],
@@ -141,7 +150,7 @@
         }
     ],
     "wof:id":421192441,
-    "wof:lastmodified":1636497574,
+    "wof:lastmodified":1690855742,
     "wof:name":"Xanlar",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Haftoni"
     ],
+    "name:che_x_preferred":[
+        "\u0425\u04c0\u0430\u0444\u0442\u043e\u043d\u0438"
+    ],
     "name:eng_x_preferred":[
         "Haftoni"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:ita_x_preferred":[
         "Haftoni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10e4\u10d7\u10dd\u10dc\u10d8"
     ],
     "name:msa_x_preferred":[
         "Haftoni"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421199133,
-    "wof:lastmodified":1566603998,
+    "wof:lastmodified":1690855752,
     "wof:name":"Gaftoni",
     "wof:parent_id":85668389,
     "wof:placetype":"locality",

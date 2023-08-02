@@ -22,6 +22,15 @@
     "name:ara_x_preferred":[
         "\u062c\u0628\u0631\u0627\u0626\u064a\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0628\u0631\u0627\u0626\u064a\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Jabrayil"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u0628\u0631\u0627\u064a\u064a\u0644"
+    ],
     "name:aze_x_preferred":[
         "C\u0259bray\u0131l"
     ],
@@ -31,14 +40,26 @@
     "name:ceb_x_preferred":[
         "Jebrail"
     ],
+    "name:ces_x_preferred":[
+        "D\u017eabrajil"
+    ],
     "name:che_x_preferred":[
         "\u0414\u0436\u0435\u0431\u0440\u0430\u0438\u043b"
+    ],
+    "name:che_x_variant":[
+        "\u0414\u0436\u0430\u044c\u0431\u0440\u0430\u0438\u043b"
     ],
     "name:deu_x_preferred":[
         "C\u0259bray\u0131l"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b1\u03bc\u03c0\u03c1\u03b1\u03b3\u03af\u03bb"
+    ],
     "name:eng_x_preferred":[
         "C\u0259brayil"
+    ],
+    "name:eng_x_variant":[
+        "Jabrayil"
     ],
     "name:fas_x_preferred":[
         "\u062c\u0628\u0631\u0627\u06cc\u06cc\u0644 \u0634\u0647\u0631"
@@ -48,6 +69,9 @@
     ],
     "name:fra_x_preferred":[
         "C\u0259brayil"
+    ],
+    "name:fra_x_variant":[
+        "Jabrayil"
     ],
     "name:hsb_x_preferred":[
         "C\u0259bray\u0131l"
@@ -61,13 +85,20 @@
         "\u0544\u0565\u056d\u0561\u056f\u0561\u057e\u0561\u0576",
         "\u0541\u0580\u0561\u056f\u0561\u0576",
         "Jabrail",
-        "\u054b\u0561\u0562\u0580\u0561\u0575\u056b\u056c"
+        "\u054b\u0561\u0562\u0580\u0561\u0575\u056b\u056c",
+        "\u054b\u0580\u0561\u056f\u0561\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054b\u0580\u0561\u056f\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "C\u0259bray\u0131l"
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30a7\u30d6\u30e9\u30a4\u30eb"
+    ],
+    "name:kur_x_preferred":[
+        "Cebray\u00eel"
     ],
     "name:lit_x_preferred":[
         "D\u017eebrajilas"
@@ -99,14 +130,23 @@
     "name:swe_x_preferred":[
         "Jebrail"
     ],
+    "name:tgk_x_preferred":[
+        "\u04b6\u0430\u0431\u0440\u0430\u0438\u043b"
+    ],
     "name:tur_x_preferred":[
         "Cebray\u0131l"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0435\u0431\u0440\u0430\u0457\u043b"
     ],
     "name:und_x_variant":[
         "Djebrail"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0628\u0631\u0627\u06cc\u06cc\u0644"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10ef\u10d0\u10d1\u10e0\u10d0\u10d8\u10da\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u5091\u5e03\u62c9\u4f0a\u723e"
@@ -142,7 +182,7 @@
         }
     ],
     "wof:id":890443189,
-    "wof:lastmodified":1566604002,
+    "wof:lastmodified":1690855763,
     "wof:name":"Jebrail",
     "wof:parent_id":85668323,
     "wof:placetype":"locality",

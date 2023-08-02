@@ -31,11 +31,20 @@
     "name:ceb_x_preferred":[
         "Dolyar"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u0430\u044c\u043b\u043b\u0430\u044c\u0440"
+    ],
     "name:eng_x_preferred":[
         "D\u01ddlil\u01ddr"
     ],
     "name:eng_x_variant":[
         "D\u0259ll\u0259r"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0644\u200c\u0644\u0631"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u056c\u056c\u0561\u0580"
     ],
     "name:ita_x_preferred":[
         "D\u0259ll\u0259r"
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1125862175,
-    "wof:lastmodified":1566604006,
+    "wof:lastmodified":1690855771,
     "wof:name":"Dolyar",
     "wof:parent_id":85668233,
     "wof:placetype":"locality",

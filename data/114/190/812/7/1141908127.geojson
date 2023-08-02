@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:aka_x_preferred":[
+        "Lankaran"
+    ],
     "name:ara_x_preferred":[
         "\u0644\u0646\u0643\u0631\u0627\u0646"
     ],
@@ -57,6 +60,9 @@
     "name:che_x_preferred":[
         "\u041b\u0435\u043d\u043a\u043e\u0440\u0430\u043d\u044c"
     ],
+    "name:che_x_variant":[
+        "\u041b\u0430\u044c\u043d\u043a\u0430\u044c\u0440\u0430\u043d"
+    ],
     "name:dan_x_preferred":[
         "Lankaran"
     ],
@@ -90,16 +96,28 @@
     "name:gag_x_preferred":[
         "L\u00e4nk\u00e4ran"
     ],
+    "name:glk_x_preferred":[
+        "\u0644\u0646\u06a9\u0631\u0627\u0646"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0a82\u0a95\u0abe\u0ab0\u0aa3"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05e0\u05e7\u05e8\u05d0\u05df"
     ],
+    "name:heb_x_variant":[
+        "\u05dc\u05e0\u05e6'\u05e8\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u0902\u0915\u093e\u0930\u0923"
     ],
+    "name:hrv_x_preferred":[
+        "Lankoran"
+    ],
     "name:hsb_x_preferred":[
+        "L\u0259nk\u0259ran"
+    ],
+    "name:hun_x_preferred":[
         "L\u0259nk\u0259ran"
     ],
     "name:hye_x_preferred":[
@@ -129,6 +147,9 @@
     "name:kor_x_preferred":[
         "\ub80c\ucf00\ub780"
     ],
+    "name:kor_x_variant":[
+        "\ub79c\uce90\ub780"
+    ],
     "name:kur_x_preferred":[
         "Lenkeran"
     ],
@@ -154,6 +175,9 @@
         "Lankaran"
     ],
     "name:nld_x_preferred":[
+        "L\u0259nk\u0259ran"
+    ],
+    "name:nno_x_preferred":[
         "L\u0259nk\u0259ran"
     ],
     "name:nob_x_preferred":[
@@ -236,6 +260,12 @@
     ],
     "name:war_x_preferred":[
         "Lankaran"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8fde\u79d1\u5170"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10da\u10d4\u10dc\u10e5\u10dd\u10e0\u10d0\u10dc\u10d8"
     ],
     "name:zho_cn_x_preferred":[
         "\u8fde\u79d1\u5170"
@@ -365,7 +395,7 @@
         }
     ],
     "wof:id":1141908127,
-    "wof:lastmodified":1636497579,
+    "wof:lastmodified":1690855775,
     "wof:name":"Lankaran",
     "wof:parent_id":85668697,
     "wof:placetype":"locality",

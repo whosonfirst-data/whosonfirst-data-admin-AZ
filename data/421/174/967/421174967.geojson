@@ -19,6 +19,9 @@
     "mz:is_current":1,
     "mz:min_zoom":5.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:abk_x_preferred":[
+        "\u0411\u0430\u049b\u04d9\u0430"
+    ],
     "name:ace_x_preferred":[
         "Baku"
     ],
@@ -43,6 +46,9 @@
     "name:arg_x_preferred":[
         "Bac\u00fa"
     ],
+    "name:ary_x_preferred":[
+        "\u0628\u0627\u0643\u0648"
+    ],
     "name:arz_x_preferred":[
         "\u0628\u0627\u0643\u0648"
     ],
@@ -55,6 +61,9 @@
     "name:ava_x_preferred":[
         "\u0411\u0430\u043a\u0443"
     ],
+    "name:awa_x_preferred":[
+        "\u092c\u093e\u0915\u0941"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0627\u06a9\u06cc"
     ],
@@ -63,6 +72,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0411\u0430\u04a1\u044b"
+    ],
+    "name:ban_x_preferred":[
+        "Baku"
     ],
     "name:bcl_x_preferred":[
         "Baku"
@@ -106,11 +118,17 @@
     "name:che_x_preferred":[
         "\u0411\u0430\u043a\u0443"
     ],
+    "name:che_x_variant":[
+        "\u0411\u0430\u043a\u043e\u0445"
+    ],
     "name:chv_x_preferred":[
         "\u0411\u0430\u043a\u0443"
     ],
     "name:ckb_x_preferred":[
         "\u0628\u0627\u06a9\u0648\u0648"
+    ],
+    "name:cor_x_preferred":[
+        "Baku"
     ],
     "name:crh_x_preferred":[
         "Baqu"
@@ -163,6 +181,9 @@
     "name:frp_x_preferred":[
         "Bakou"
     ],
+    "name:frr_x_preferred":[
+        "Baku"
+    ],
     "name:fry_x_preferred":[
         "Bak\u00fb"
     ],
@@ -180,6 +201,9 @@
     ],
     "name:glg_x_preferred":[
         "Bak\u00fa"
+    ],
+    "name:gpe_x_preferred":[
+        "Baku"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0a95\u0ac2"
@@ -220,6 +244,9 @@
     "name:hye_x_preferred":[
         "\u0532\u0561\u0584\u0578\u0582"
     ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0561\u0584\u0578\u0582"
+    ],
     "name:ido_x_preferred":[
         "Baku"
     ],
@@ -234,6 +261,9 @@
     ],
     "name:ind_x_preferred":[
         "Baku"
+    ],
+    "name:inh_x_preferred":[
+        "\u0411\u0430\u043a\u0443"
     ],
     "name:isl_x_preferred":[
         "Bak\u00fa"
@@ -289,14 +319,23 @@
     "name:lat_x_preferred":[
         "Baku"
     ],
+    "name:lat_x_variant":[
+        "Bacua"
+    ],
     "name:lav_x_preferred":[
         "Baku"
     ],
     "name:lez_x_preferred":[
         "\u0411\u0430\u043a\u0443"
     ],
+    "name:lfn_x_preferred":[
+        "Bacu"
+    ],
     "name:lij_x_preferred":[
         "Baku"
+    ],
+    "name:lim_x_preferred":[
+        "Bakoe"
     ],
     "name:lin_x_preferred":[
         "Baku"
@@ -311,6 +350,9 @@
         "\u0628\u0627\u06a9\u0648"
     ],
     "name:ltz_x_preferred":[
+        "Baku"
+    ],
+    "name:mad_x_preferred":[
         "Baku"
     ],
     "name:mai_x_preferred":[
@@ -328,6 +370,9 @@
     "name:mhr_x_preferred":[
         "\u0411\u0430\u043a\u0443"
     ],
+    "name:min_x_preferred":[
+        "Baku"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u043a\u0443"
     ],
@@ -337,11 +382,17 @@
     "name:mlt_x_preferred":[
         "Baku"
     ],
+    "name:mni_x_preferred":[
+        "\uabd5\uabe5\uabc0\uabe8"
+    ],
     "name:mon_x_preferred":[
         "\u0411\u0430\u043a\u0443"
     ],
     "name:mri_x_preferred":[
         "Baku"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0411\u0430\u043a\u0443"
     ],
     "name:msa_x_preferred":[
         "Baku"
@@ -363,6 +414,9 @@
     ],
     "name:nau_x_preferred":[
         "Baku"
+    ],
+    "name:nav_x_preferred":[
+        "Kin\u0142\u00e1n\u00edtah Naayol\u00ed"
     ],
     "name:nep_x_preferred":[
         "\u092c\u093e\u0915\u0941"
@@ -390,6 +444,9 @@
     ],
     "name:oci_x_preferred":[
         "Bak\u00f3"
+    ],
+    "name:olo_x_preferred":[
+        "Baku"
     ],
     "name:ori_x_preferred":[
         "\u0b2c\u0b3e\u0b15\u0b41"
@@ -433,6 +490,9 @@
     "name:ron_x_preferred":[
         "Baku"
     ],
+    "name:rue_x_preferred":[
+        "\u0411\u0430\u043a\u0443"
+    ],
     "name:rup_x_preferred":[
         "Baku"
     ],
@@ -451,6 +511,9 @@
     "name:sco_x_preferred":[
         "Baku"
     ],
+    "name:sgs_x_preferred":[
+        "Baku"
+    ],
     "name:sin_x_preferred":[
         "\u0db6\u0dcf\u0d9a\u0dd4"
     ],
@@ -463,7 +526,22 @@
     "name:sme_x_preferred":[
         "Baku"
     ],
+    "name:smn_x_preferred":[
+        "Baku"
+    ],
+    "name:sms_x_preferred":[
+        "Baku"
+    ],
     "name:sna_x_preferred":[
+        "Baku"
+    ],
+    "name:snd_x_preferred":[
+        "\u0628\u0627\u06aa\u0648"
+    ],
+    "name:som_x_preferred":[
+        "Baku"
+    ],
+    "name:sot_x_preferred":[
         "Baku"
     ],
     "name:spa_x_preferred":[
@@ -491,6 +569,9 @@
         "Baku"
     ],
     "name:szl_x_preferred":[
+        "Baku"
+    ],
+    "name:tah_x_preferred":[
         "Baku"
     ],
     "name:tam_x_preferred":[
@@ -522,6 +603,9 @@
     ],
     "name:tur_x_preferred":[
         "Bak\u00fc"
+    ],
+    "name:twi_x_preferred":[
+        "Baku"
     ],
     "name:tyv_x_preferred":[
         "\u0411\u0430\u043a\u044b"
@@ -580,8 +664,14 @@
     "name:yue_x_preferred":[
         "\u5df4\u5eab"
     ],
+    "name:zea_x_preferred":[
+        "Bakoe"
+    ],
     "name:zho_x_preferred":[
         "\u5df4\u5e93"
+    ],
+    "name:zul_x_preferred":[
+        "Baku"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Azerbaijan",
@@ -706,8 +796,8 @@
     "wof:belongsto":[
         102191569,
         85632717,
-        1108808621,
-        85668249
+        85668249,
+        1108808621
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -737,7 +827,7 @@
         }
     ],
     "wof:id":421174967,
-    "wof:lastmodified":1608688179,
+    "wof:lastmodified":1690855747,
     "wof:megacity":1,
     "wof:name":"Baku",
     "wof:parent_id":85668249,

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Buzovna"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0632\u0648\u0648\u0646\u0627"
     ],
@@ -26,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Buzovna"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0443\u0437\u043e\u0432\u043d\u0430"
+    ],
     "name:eng_x_preferred":[
         "Buzovna"
     ],
@@ -34,6 +40,9 @@
     ],
     "name:fra_x_preferred":[
         "Buzovna"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u0566\u0578\u057e\u0576\u0561"
     ],
     "name:lit_x_preferred":[
         "Buzovna"
@@ -55,6 +64,9 @@
     ],
     "name:und_x_variant":[
         "Busovny"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u4f50\u592b\u7d0d"
     ],
     "qs:gn_country":"AZ",
     "qs:gn_fcode":"PPL",
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":421193101,
-    "wof:lastmodified":1566603994,
+    "wof:lastmodified":1690855743,
     "wof:name":"Buzovna",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

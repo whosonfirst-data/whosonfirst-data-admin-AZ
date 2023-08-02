@@ -34,6 +34,12 @@
     "name:che_x_preferred":[
         "\u0414\u0438\u0433\u044f\u0445"
     ],
+    "name:che_x_variant":[
+        "\u0414\u0438\u0433\u0430\u0445\u04c0"
+    ],
+    "name:deu_x_preferred":[
+        "Digah"
+    ],
     "name:eng_x_preferred":[
         "Digah"
     ],
@@ -64,11 +70,17 @@
     "name:swe_x_preferred":[
         "Digah"
     ],
+    "name:tur_x_preferred":[
+        "Digah"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0456\u0433\u0430\u0445"
     ],
     "name:und_x_variant":[
         "Dygya"
+    ],
+    "name:uzb_x_preferred":[
+        "Digah"
     ],
     "qs_pg:aaroncc":"AZ",
     "qs_pg:gn_country":"AZ",
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":1125862027,
-    "wof:lastmodified":1566604006,
+    "wof:lastmodified":1690855772,
     "wof:name":"Digah",
     "wof:parent_id":85668251,
     "wof:placetype":"locality",

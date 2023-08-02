@@ -29,6 +29,9 @@
     "name:ceb_x_variant":[
         "Lahic"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0430\u0445\u04c0\u0438\u0434\u0436"
+    ],
     "name:deu_x_preferred":[
         "Lah\u0131c"
     ],
@@ -77,6 +80,12 @@
     "name:und_x_variant":[
         "Lagich"
     ],
+    "name:uzb_x_preferred":[
+        "Lah\u0131c(Ismailli"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u8d6b\u5b63\u5730\u533a"
+    ],
     "qs:gn_country":"AZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":585659,
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":421187543,
-    "wof:lastmodified":1566603996,
+    "wof:lastmodified":1690855748,
     "wof:name":"Lah\u1e2fc",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

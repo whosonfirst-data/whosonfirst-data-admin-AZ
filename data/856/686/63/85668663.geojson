@@ -38,11 +38,21 @@
     "name:ceb_x_preferred":[
         "Sedarak"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u044c\u0434\u0430\u044c\u0440\u0430\u044c\u043a"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u06d5\u062f\u0627\u0631\u06d5\u06a9"
+    ],
     "name:eng_x_preferred":[
         "Azarbayjan-e Gharbi"
     ],
     "name:eng_x_variant":[
-        "S\u0259d\u0259r\u0259k"
+        "S\u0259d\u0259r\u0259k",
+        "Sadarak"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u062f\u0631\u06a9"
     ],
     "name:fra_x_preferred":[
         "Sadarak"
@@ -71,11 +81,20 @@
     "name:swe_x_preferred":[
         "Sedarak"
     ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0430\u0434\u0430\u0440\u0430\u043a"
+    ],
     "name:tur_x_preferred":[
         "Sederek"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0434\u0430\u0440\u0430\u043a"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u062f\u0631\u06a9"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u9054\u62c9\u514b"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AZE",
@@ -202,7 +221,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521584,
+    "wof:lastmodified":1690855725,
     "wof:name":"S\u0259d\u0259r\u0259k",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

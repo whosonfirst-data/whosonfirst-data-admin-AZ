@@ -28,11 +28,20 @@
     "name:ceb_x_preferred":[
         "Saray"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0439"
+    ],
+    "name:deu_x_preferred":[
+        "Saray"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03c1\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Saray"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0627\u06cc"
     ],
     "name:ita_x_preferred":[
         "Saray"
@@ -46,6 +55,9 @@
     "name:nld_x_preferred":[
         "Saray"
     ],
+    "name:pol_x_preferred":[
+        "Saray"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0439"
     ],
@@ -53,6 +65,9 @@
         "Saray"
     ],
     "name:swe_x_preferred":[
+        "Saray"
+    ],
+    "name:tur_x_preferred":[
         "Saray"
     ],
     "name:ukr_x_preferred":[
@@ -66,6 +81,9 @@
     ],
     "name:urd_x_variant":[
         "\u0633\u0631\u0627\u0626\u06d2"
+    ],
+    "name:uzb_x_preferred":[
+        "Saray"
     ],
     "name:zho_x_preferred":[
         "\u5361\u9f4a\u7a46\u7f55\u9ed8\u5fb7\u5340"
@@ -103,7 +121,7 @@
         }
     ],
     "wof:id":890433381,
-    "wof:lastmodified":1566604004,
+    "wof:lastmodified":1690855768,
     "wof:name":"Saray",
     "wof:parent_id":85668251,
     "wof:placetype":"locality",

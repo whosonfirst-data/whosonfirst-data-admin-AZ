@@ -28,8 +28,14 @@
     "name:ceb_x_preferred":[
         "\u00c7inarl\u0131"
     ],
+    "name:che_x_preferred":[
+        "\u0427\u0438\u043d\u0430\u0440\u043b\u0438"
+    ],
     "name:eng_x_preferred":[
         "\u00c7inarl\u0131"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0646\u0627\u0631\u0644\u06cc"
     ],
     "name:ita_x_preferred":[
         "\u00c7inarl\u0131"
@@ -49,8 +55,14 @@
     "name:swe_x_preferred":[
         "\u00c7inarl\u0131"
     ],
+    "name:tat_x_preferred":[
+        "\u0427\u0438\u043d\u0430\u0440\u043b\u044b"
+    ],
     "name:und_x_variant":[
         "Chinarly"
+    ],
+    "name:uzb_x_preferred":[
+        "\u00c7inarl\u0131"
     ],
     "qs:name":"\u00c7inarl\u0131",
     "qs:photos_9r":0,
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":890454133,
-    "wof:lastmodified":1566604001,
+    "wof:lastmodified":1690855762,
     "wof:name":"\u00c7inarl\u0131",
     "wof:parent_id":85668557,
     "wof:placetype":"locality",

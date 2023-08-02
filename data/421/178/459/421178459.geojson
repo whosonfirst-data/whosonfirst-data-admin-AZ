@@ -17,14 +17,23 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Gazakh"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0627\u0632\u0627\u062e"
     ],
     "name:aze_x_preferred":[
         "Qazax"
     ],
+    "name:bak_x_preferred":[
+        "\u04a0\u0430\u0499\u0430\u04a1"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u0437\u0430\u0445"
+    ],
+    "name:cat_x_preferred":[
+        "Qazax"
     ],
     "name:ceb_x_preferred":[
         "Qazax"
@@ -40,6 +49,9 @@
     ],
     "name:eng_x_variant":[
         "Gazakh"
+    ],
+    "name:epo_x_preferred":[
+        "Qazax"
     ],
     "name:fas_x_preferred":[
         "\u0642\u0627\u0632\u0627\u062e"
@@ -86,6 +98,9 @@
     "name:por_x_preferred":[
         "Qazax"
     ],
+    "name:pus_x_preferred":[
+        "\u0642\u0632\u0627\u0642"
+    ],
     "name:ron_x_preferred":[
         "Qazax"
     ],
@@ -104,14 +119,23 @@
     "name:tat_x_preferred":[
         "\u041a\u0430\u0437\u0430\u0445"
     ],
+    "name:tgk_x_preferred":[
+        "\u049a\u0430\u0437\u0430\u0445"
+    ],
     "name:tur_x_preferred":[
         "Kazah"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0430\u0437\u0430\u0445"
     ],
     "name:und_x_variant":[
         "Agk\u00ebynak"
     ],
     "name:urd_x_preferred":[
         "\u0642\u0627\u0632\u0627\u062e"
+    ],
+    "name:uzb_x_preferred":[
+        "Qazax"
     ],
     "name:zho_x_preferred":[
         "\u54c8\u85a9\u514b"
@@ -163,7 +187,7 @@
         }
     ],
     "wof:id":421178459,
-    "wof:lastmodified":1566603999,
+    "wof:lastmodified":1690855756,
     "wof:name":"Kazakh",
     "wof:parent_id":85668229,
     "wof:placetype":"locality",

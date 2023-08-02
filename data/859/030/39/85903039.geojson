@@ -31,6 +31,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643\u064a\u0633\u0646\u0648\u0641"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0643\u064a\u0633\u0646\u0648\u0641"
+    ],
+    "name:ast_x_preferred":[
+        "Bakikhanov"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0627\u06a9\u06cc \u062e\u0627\u0646\u0648\u0648"
     ],
@@ -46,6 +52,9 @@
     "name:ces_x_variant":[
         "Bakichanov"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u043a\u0438\u0445\u0430\u043d\u043e\u0432"
+    ],
     "name:deu_x_preferred":[
         "Bak\u0131xanov"
     ],
@@ -54,6 +63,9 @@
     ],
     "name:eng_x_preferred":[
         "Bak\u0131xanov"
+    ],
+    "name:eng_x_variant":[
+        "Bakikhanov"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u06a9\u06cc\u062e\u0627\u0646\u0648\u0641"
@@ -96,6 +108,9 @@
     ],
     "name:swe_x_preferred":[
         "Bak\u0131xanov"
+    ],
+    "name:tur_x_preferred":[
+        "Bak\u0131hanov"
     ],
     "name:und_x_colloquial":[
         "Bakixanov"
@@ -168,7 +183,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582332202,
+    "wof:lastmodified":1690855723,
     "wof:name":"Bak\u1e2fxanov",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -25,6 +25,12 @@
     "name:aze_x_preferred":[
         "Neft Da\u015flar\u0131"
     ],
+    "name:bak_x_preferred":[
+        "\u041d\u0435\u0444\u0442\u044c \u0422\u0430\u0448\u0442\u0430\u0440\u044b"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0435\u0444\u0442 \u0414\u0430\u0448\u043b\u0430\u0440\u0438"
+    ],
     "name:ceb_x_preferred":[
         "Neft Da\u015flar\u0131"
     ],
@@ -33,6 +39,9 @@
     ],
     "name:deu_x_preferred":[
         "Neft Da\u015flar\u0131"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b5\u03c6\u03c4 \u039d\u03c4\u03ac\u03c3\u03bb\u03b1\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Neft Da\u015flar\u0131"
@@ -55,6 +64,12 @@
     "name:ita_x_preferred":[
         "Neft Da\u015flar\u0131"
     ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30a7\u30d5\u30c8\u30fb\u30c0\u30b7\u30e5\u30e9\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10d5\u10d7\u10dd\u10d1\u10d8\u10e1 \u10e5\u10d5\u10d4\u10d1\u10d8"
+    ],
     "name:lit_x_preferred":[
         "Neft Da\u0161laris"
     ],
@@ -72,6 +87,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041d\u0435\u0444\u0442\u044f\u043d\u044b\u0435 \u041a\u0430\u043c\u043d\u0438"
+    ],
+    "name:snd_x_preferred":[
+        "\u0646\u0641\u062a \u062f\u0627\u0634\u0644\u0627\u0631\u064a"
     ],
     "name:spa_x_preferred":[
         "Neft Da\u015flar\u0131"
@@ -124,7 +142,7 @@
         }
     ],
     "wof:id":890450075,
-    "wof:lastmodified":1566604005,
+    "wof:lastmodified":1690855769,
     "wof:name":"Neft Da\u015flar\u0131",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

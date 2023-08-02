@@ -31,8 +31,14 @@
     "name:ceb_x_preferred":[
         "Ba\u015f G\u00f6yn\u00fck"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0448 \u0413\u043e\u044c\u0439\u043d\u0443\u044c\u043a"
+    ],
     "name:eng_x_preferred":[
         "Ba\u015f G\u00f6yn\u00fck"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0634 \u06af\u0648\u06cc\u0646\u0648\u06a9"
     ],
     "name:ita_x_preferred":[
         "Ba\u015f G\u00f6yn\u00fck"
@@ -46,14 +52,23 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u0448 \u0413\u0435\u0439\u043d\u044e\u043a"
     ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0448-\u0413\u0451\u0439\u043d\u044e\u043a"
+    ],
     "name:swe_x_preferred":[
         "Ba\u015f G\u00f6yn\u00fck"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0448 \u0413\u04e9\u0439\u043d\u04af\u043a"
     ],
     "name:tur_x_preferred":[
         "ekber"
     ],
     "name:und_x_variant":[
         "Bash G\u00ebynyuk"
+    ],
+    "name:uzb_x_preferred":[
+        "Ba\u015f G\u00f6yn\u00fck"
     ],
     "qs_pg:aaroncc":"AZ",
     "qs_pg:gn_country":"AZ",
@@ -94,7 +109,7 @@
         }
     ],
     "wof:id":1125862181,
-    "wof:lastmodified":1566604006,
+    "wof:lastmodified":1690855771,
     "wof:name":"Ba\u015f G\u00f6yn\u00fck",
     "wof:parent_id":85668565,
     "wof:placetype":"locality",

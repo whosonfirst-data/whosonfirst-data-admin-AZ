@@ -25,23 +25,59 @@
     "name:aze_x_preferred":[
         "Orconikidze"
     ],
+    "name:aze_x_variant":[
+        "Mil"
+    ],
+    "name:ceb_x_preferred":[
+        "Orconikidze"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0438\u043b"
+    ],
     "name:eng_x_preferred":[
         "Orconikidze"
+    ],
+    "name:eng_x_variant":[
+        "Mil"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0644"
     ],
     "name:ita_x_preferred":[
         "Orconikidze"
     ],
+    "name:ita_x_variant":[
+        "Mil"
+    ],
     "name:kat_x_preferred":[
         "\u10dd\u10e0\u10ef\u10dd\u10dc\u10d8\u10d9\u10d8\u10eb\u10d4"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10d8\u10da\u10d8"
     ],
     "name:msa_x_preferred":[
         "Orconikidze"
     ],
+    "name:msa_x_variant":[
+        "Mil"
+    ],
     "name:nld_x_preferred":[
+        "Orconikidze"
+    ],
+    "name:nld_x_variant":[
+        "Mil"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
         "Orconikidze"
     ],
     "name:und_x_variant":[
         "Ordzhonikidze"
+    ],
+    "name:uzb_x_preferred":[
+        "Mil"
     ],
     "qs_pg:aaroncc":"AZ",
     "qs_pg:gn_country":"AZ",
@@ -82,7 +118,7 @@
         }
     ],
     "wof:id":1125936005,
-    "wof:lastmodified":1566604005,
+    "wof:lastmodified":1690855771,
     "wof:name":"Orconikidze",
     "wof:parent_id":85668313,
     "wof:placetype":"locality",

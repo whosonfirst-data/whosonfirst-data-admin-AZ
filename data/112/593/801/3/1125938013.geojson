@@ -31,11 +31,26 @@
     "name:ceb_x_preferred":[
         "\u0130stisu"
     ],
+    "name:che_x_preferred":[
+        "\u0418\u0441\u0442\u0438\u0441\u0443"
+    ],
+    "name:deu_x_preferred":[
+        "\u0130stisu"
+    ],
     "name:eng_x_preferred":[
         "\u0130stisu"
     ],
+    "name:eng_x_variant":[
+        "Istisu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u062a\u06cc\u200c\u0633\u0648"
+    ],
     "name:fin_x_preferred":[
         "\u0130stisu"
+    ],
+    "name:fra_x_preferred":[
+        "Istisou"
     ],
     "name:hye_x_preferred":[
         "Jermajur"
@@ -44,8 +59,17 @@
         "\u0541\u0565\u0580\u0574\u0561\u057b\u0578\u0582\u0580",
         "\u054b\u0565\u0580\u0574\u0561\u057b\u0578\u0582\u0580"
     ],
+    "name:hyw_x_preferred":[
+        "\u054b\u0565\u0580\u0574\u0561\u057b\u0578\u0582\u0580"
+    ],
     "name:ita_x_preferred":[
         "Djermadjur"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e1\u10d7\u10d8\u10e1\u10e3"
+    ],
+    "name:lit_x_preferred":[
+        "Istisu"
     ],
     "name:msa_x_preferred":[
         "\u0130stisu"
@@ -62,11 +86,17 @@
     "name:swe_x_preferred":[
         "\u0130stisu"
     ],
+    "name:tur_x_preferred":[
+        "\u0130stisu"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0435\u0440\u043c\u0430\u0434\u0436\u0443\u0440"
     ],
     "name:und_x_variant":[
         "Istisu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u65af\u8482\u82cf"
     ],
     "qs_pg:aaroncc":"AZ",
     "qs_pg:gn_country":"AZ",
@@ -107,7 +137,7 @@
         }
     ],
     "wof:id":1125938013,
-    "wof:lastmodified":1566604005,
+    "wof:lastmodified":1690855770,
     "wof:name":"\u0130stisu",
     "wof:parent_id":85668221,
     "wof:placetype":"locality",

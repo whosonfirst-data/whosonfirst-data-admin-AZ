@@ -33,6 +33,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0627\u0643\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0644\u0627\u0643\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Balakan"
+    ],
     "name:ava_x_preferred":[
         "\u0411\u0438\u043b\u043a\u0430\u043d"
     ],
@@ -124,7 +130,8 @@
         "\u0411\u0430\u043b\u0430\u043a\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:rus_x_variant":[
-        "\u0411\u0430\u043b\u0430\u043a\u0435\u043d"
+        "\u0411\u0430\u043b\u0430\u043a\u0435\u043d",
+        "\u0411\u0435\u043b\u043e\u043a\u0430\u043d"
     ],
     "name:spa_x_preferred":[
         "Balak\u0259n"
@@ -135,17 +142,26 @@
     "name:tat_x_preferred":[
         "\u0411\u0430\u043b\u0430\u043a\u04d9\u043d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u043a\u0435\u043d"
+    ],
     "name:tur_x_preferred":[
         "Balaken"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0430\u043a\u0430\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0411\u0430\u043b\u0430\u043a\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Belokanskiy Rayon"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0644\u0627\u06a9\u0646"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10d4\u10da\u10d0\u10e5\u10d0\u10dc\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u62c9\u80af"
@@ -278,7 +294,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892863,
+    "wof:lastmodified":1690855731,
     "wof:name":"Balak\u0259n",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",
