@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0631\u064a\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u0631\u064a\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Lerik"
+    ],
     "name:azb_x_preferred":[
         "\u0644\u0631\u06cc\u06a9"
     ],
@@ -83,6 +89,9 @@
     "name:pol_x_preferred":[
         "Lerik"
     ],
+    "name:pus_x_preferred":[
+        "\u0644\u0631\u064a\u06a9"
+    ],
     "name:ron_x_preferred":[
         "Lerik"
     ],
@@ -92,11 +101,20 @@
     "name:spa_x_preferred":[
         "Lerik"
     ],
+    "name:szl_x_preferred":[
+        "Lerik"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041b\u0435\u0440\u0438\u043a"
+    ],
     "name:tuk_x_preferred":[
         "Lerik"
     ],
     "name:tur_x_preferred":[
         "Lerik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0440\u0456\u043a"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0631\u06cc\u06a9"
@@ -151,7 +169,7 @@
         }
     ],
     "wof:id":421198649,
-    "wof:lastmodified":1636497576,
+    "wof:lastmodified":1690855749,
     "wof:name":"Lerik",
     "wof:parent_id":85668403,
     "wof:placetype":"locality",

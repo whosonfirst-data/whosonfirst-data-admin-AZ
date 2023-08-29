@@ -33,11 +33,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0648\u0633\u0627\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0642\u0648\u0633\u0627\u0631"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0648\u0633\u0627\u0631 \u0631\u0627\u06cc\u0648\u0646\u0648"
     ],
     "name:aze_x_preferred":[
         "Qusar"
+    ],
+    "name:aze_x_variant":[
+        "Qusar rayonu"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09b8\u09be\u09b0 \u099c\u09c7\u09b2\u09be"
@@ -50,6 +56,9 @@
     ],
     "name:che_x_preferred":[
         "\u0413\u0443\u0441\u0430\u0440\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:crh_x_preferred":[
+        "Gusar"
     ],
     "name:dan_x_preferred":[
         "Qusar District"
@@ -99,14 +108,23 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cc1\u0cb8\u0cbe\u0cb0\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10e1\u10d0\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uad6c\uc0ac\ub974 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uad6c\uc0ac\ub974\uad6c"
     ],
     "name:lav_x_preferred":[
         "Gusaras rajons"
     ],
     "name:lez_x_preferred":[
         "\u041a\u0446I\u0430\u0440 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:lez_x_variant":[
+        "\u041a\u0446\u04c0\u0430\u0440 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:lit_x_preferred":[
         "Kusaro provincija"
@@ -144,6 +162,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0443\u0441\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0413\u0443\u0441\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dd4\u0dc3\u0dcf\u0dbb\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
@@ -162,8 +183,14 @@
     "name:swe_x_preferred":[
         "Qusar Rayonu"
     ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc1\u0b9a\u0bb0\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c16\u0c41\u0c38\u0c3e\u0c30\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041a\u04ef\u04b3\u0441\u0430\u0440"
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e39\u0e0b\u0e32\u0e23\u0e4c"
@@ -319,7 +346,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1636497570,
+    "wof:lastmodified":1690855732,
     "wof:name":"Qusar",
     "wof:parent_id":1108808623,
     "wof:placetype":"region",

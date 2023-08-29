@@ -39,6 +39,12 @@
     "name:aze_x_preferred":[
         "Goranboy"
     ],
+    "name:aze_x_variant":[
+        "Goranboy rayonu"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0435\u0440\u0430\u043d\u0431\u043e\u0439\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09cb\u09b0\u09be\u09a8\u09ac\u09af\u09bc \u099c\u09c7\u09b2\u09be"
     ],
@@ -50,6 +56,15 @@
     ],
     "name:che_x_preferred":[
         "\u0413\u0435\u0440\u0430\u043d\u0431\u043e\u0439\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:che_x_variant":[
+        "\u0413\u043e\u0440\u0430\u043d\u0431\u043e\u0439\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0642\u06d5\u0632\u0627\u06cc \u06af\u06c6\u0631\u0627\u0646\u0628\u06c6\u06cc"
+    ],
+    "name:crh_x_preferred":[
+        "Goranboy"
     ],
     "name:dan_x_preferred":[
         "Goranboy"
@@ -108,8 +123,14 @@
     "name:kor_x_preferred":[
         "\uace0\ub780\ubcf4\uc774 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uace0\ub780\ubcf4\uc774\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Goranbojas rajons"
+    ],
+    "name:lez_x_preferred":[
+        "\u0413\u0435\u0440\u0430\u043d\u0431\u043e\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:lit_x_preferred":[
         "Goranbojaus apskritis"
@@ -162,8 +183,14 @@
     "name:swe_x_preferred":[
         "Goranboj"
     ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0bb0\u0ba9\u0bcd\u0baa\u0bcb\u0baf\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4b\u0c30\u0c28\u0c4d\u0c2c\u0c3e\u0c2f\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0413\u043e\u0440\u0430\u043d\u0431\u043e\u0439"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e01\u0e2d\u0e41\u0e23\u0e19\u0e1a\u0e2d\u0e22"
@@ -256,7 +283,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1636497570,
+    "wof:lastmodified":1690855730,
     "wof:name":"Goranboy",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

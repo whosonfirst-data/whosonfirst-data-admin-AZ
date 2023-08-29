@@ -19,14 +19,32 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0646\u064a\u0633\u064a\u0641\u0627\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0646\u064a\u0633\u064a\u0641\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u0646\u062c\u06cc\u0648\u0627\u0646"
+    ],
     "name:aze_x_preferred":[
         "Mincivan"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0456\u043d\u0434\u0436\u044b\u0432\u0430\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u041c\u0456\u043d\u0434\u0436\u044b\u0432\u0430\u043d"
+    ],
     "name:ceb_x_preferred":[
         "Mincivan"
+    ],
+    "name:ces_x_preferred":[
+        "Mind\u017eivan"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0438\u043d\u0434\u0436\u0438\u0432\u0430\u043d"
     ],
     "name:deu_x_preferred":[
         "Mincivan"
@@ -42,6 +60,9 @@
     ],
     "name:fra_x_preferred":[
         "Mijnavan"
+    ],
+    "name:fra_x_variant":[
+        "Mincivan"
     ],
     "name:hsb_x_preferred":[
         "Mincivan"
@@ -76,6 +97,9 @@
     "name:swe_x_preferred":[
         "Mincivan"
     ],
+    "name:tur_x_preferred":[
+        "Mincivan"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0434\u0436\u043d\u0430\u0432\u0430\u043d"
     ],
@@ -84,6 +108,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0646\u062c\u06cc\u0648\u0627\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Mincivan"
     ],
     "name:zho_x_preferred":[
         "\u660e\u5947\u51e1"
@@ -121,7 +148,7 @@
         }
     ],
     "wof:id":890438261,
-    "wof:lastmodified":1566604001,
+    "wof:lastmodified":1690855762,
     "wof:name":"Mincivan",
     "wof:parent_id":85668659,
     "wof:placetype":"locality",

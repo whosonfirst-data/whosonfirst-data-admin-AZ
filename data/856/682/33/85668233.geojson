@@ -33,6 +33,12 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u0645\u0643\u064a\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0627\u0645\u0643\u064a\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "\u015e\u0259mkir"
+    ],
     "name:azb_x_preferred":[
         "\u0634\u0627\u0645\u062e\u0648\u0631"
     ],
@@ -51,8 +57,14 @@
     "name:ceb_x_preferred":[
         "Shamkhor"
     ],
+    "name:ces_x_preferred":[
+        "\u0160amkir"
+    ],
     "name:che_x_preferred":[
         "\u0428\u0430\u043c\u043a\u0438\u0440"
+    ],
+    "name:che_x_variant":[
+        "\u0428\u0430\u044c\u043c\u043a\u0438\u0440"
     ],
     "name:dan_x_preferred":[
         "\u015e\u0259mkir"
@@ -68,6 +80,9 @@
     ],
     "name:eng_x_variant":[
         "\u015e\u0259mkir"
+    ],
+    "name:epo_x_preferred":[
+        "\u015camkir"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0645\u06a9\u06cc\u0631"
@@ -129,6 +144,9 @@
     "name:nob_x_preferred":[
         "Samkir"
     ],
+    "name:oss_x_preferred":[
+        "\u0428\u0430\u043c\u043a\u0438\u0440"
+    ],
     "name:pol_x_preferred":[
         "\u015e\u0259mkir"
     ],
@@ -153,6 +171,9 @@
     "name:swe_x_preferred":[
         "Shamkhor"
     ],
+    "name:swe_x_variant":[
+        "\u015e\u00e4mkir"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0bae\u0bcd\u0b95\u0bbf\u0bb0\u0bcd"
     ],
@@ -161,6 +182,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c36\u0c02\u0c15\u0c3f\u0c30\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0428\u0430\u043c\u043a\u0438\u0440"
     ],
     "name:tha_x_preferred":[
         "\u0e0a\u0e31\u0e21\u0e04\u0e35\u0e23\u0e4c"
@@ -314,7 +338,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892863,
+    "wof:lastmodified":1690855728,
     "wof:name":"\u015e\u0259mkir",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

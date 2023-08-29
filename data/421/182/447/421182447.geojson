@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Balakhani"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0445\u0430\u043d\u0438"
+    ],
     "name:eng_x_preferred":[
         "Balaxan\u0131"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:fra_x_preferred":[
         "Balaxan\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u056c\u0561\u056d\u0561\u0576\u056b"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30e9\u30cf\u30cc"
@@ -49,6 +55,9 @@
     ],
     "name:und_x_variant":[
         "Balachany"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62c9\u514b\u85a9\u5c3c"
     ],
     "qs:gn_country":"AZ",
     "qs:gn_fcode":"PPL",
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":421182447,
-    "wof:lastmodified":1566603999,
+    "wof:lastmodified":1690855757,
     "wof:name":"Balaxan\u1e2f",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:arz_x_preferred":[
         "\u062c\u0644\u064a\u0644 \u0622\u0628\u0627\u062f"
     ],
+    "name:ast_x_preferred":[
+        "Jalilabad"
+    ],
     "name:azb_x_preferred":[
         "\u062c\u0644\u06cc\u0644 \u0622\u0628\u0627\u062f"
     ],
@@ -46,6 +49,9 @@
     "name:che_x_preferred":[
         "\u0414\u0436\u0430\u043b\u0438\u043b\u0430\u0431\u0430\u0434"
     ],
+    "name:che_x_variant":[
+        "\u0414\u0436\u0430\u044c\u043b\u0438\u043b\u0430\u0431\u0430\u0434"
+    ],
     "name:dan_x_preferred":[
         "C\u0259lilabad"
     ],
@@ -57,6 +63,9 @@
     ],
     "name:eng_x_preferred":[
         "C\u0259lilabad"
+    ],
+    "name:eng_x_variant":[
+        "Jalilabad"
     ],
     "name:fas_x_preferred":[
         "\u062c\u0644\u06cc\u0644\u200c\u0622\u0628\u0627\u062f"
@@ -118,6 +127,9 @@
     "name:pol_x_preferred":[
         "C\u0259lilabad"
     ],
+    "name:por_x_preferred":[
+        "J\u00e4lilabad"
+    ],
     "name:ron_x_preferred":[
         "Djalilabad"
     ],
@@ -145,6 +157,9 @@
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c32\u0c40\u0c32\u0c3e\u0c2c\u0c3e\u0c26\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u04b6\u0430\u043b\u0438\u043b\u043e\u0431\u043e\u0434"
+    ],
     "name:tha_x_preferred":[
         "\u0e08\u0e30\u0e25\u0e35\u0e25\u0e32\u0e1a\u0e31\u0e14"
     ],
@@ -165,6 +180,12 @@
     ],
     "name:vie_x_preferred":[
         "Jalilabad"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10ef\u10d0\u10da\u10d8\u10da\u10d0\u10d1\u10d0\u10d3\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d3e\u5229\u62c9\u5df4\u5fb7"
     ],
     "qs:name":"Dzhalilabad",
     "qs:photos_9r":0,
@@ -202,7 +223,7 @@
         }
     ],
     "wof:id":890443191,
-    "wof:lastmodified":1566604002,
+    "wof:lastmodified":1690855763,
     "wof:name":"Dzhalilabad",
     "wof:parent_id":85668331,
     "wof:placetype":"locality",

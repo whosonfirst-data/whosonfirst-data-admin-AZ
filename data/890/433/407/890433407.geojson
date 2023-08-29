@@ -28,8 +28,14 @@
     "name:ceb_x_preferred":[
         "Basqal"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0441\u0433\u0430\u043b"
+    ],
     "name:eng_x_preferred":[
         "Basqal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0633\u0642\u0627\u0644"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10e1\u10d9\u10d0\u10da\u10d8"
@@ -54,6 +60,9 @@
     ],
     "name:und_x_variant":[
         "Baskhal"
+    ],
+    "name:uzb_x_preferred":[
+        "Basqal"
     ],
     "qs:name":"Basqal",
     "qs:photos_9r":0,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":890433407,
-    "wof:lastmodified":1566604003,
+    "wof:lastmodified":1690855765,
     "wof:name":"Basqal",
     "wof:parent_id":85668373,
     "wof:placetype":"locality",

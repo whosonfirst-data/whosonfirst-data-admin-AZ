@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "\u018fmircan"
+    ],
     "name:ava_x_preferred":[
         "\u0410\u043c\u0438\u0440\u0445\u0430\u043d"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:ceb_x_preferred":[
         "Amirdzhan"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u044c\u043c\u0438\u0440\u0434\u0436\u0430\u043d"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03bc\u03b9\u03c1\u03c4\u03c3\u03ac\u03bd"
@@ -43,6 +49,9 @@
     ],
     "name:fra_x_preferred":[
         "\u018fmircan"
+    ],
+    "name:fra_x_variant":[
+        "Amirdjan"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0574\u056b\u0580\u057b\u0561\u0576"
@@ -62,8 +71,14 @@
     "name:rus_x_preferred":[
         "\u0410\u043c\u0438\u0440\u0430\u0434\u0436\u0430\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0410\u043c\u0438\u0440\u0434\u0436\u0430\u043d"
+    ],
     "name:swe_x_preferred":[
         "\u018fmircan"
+    ],
+    "name:swe_x_variant":[
+        "\u00c4mircan"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043c\u0456\u0440\u0434\u0436\u0430\u043d"
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":421190471,
-    "wof:lastmodified":1566603997,
+    "wof:lastmodified":1690855751,
     "wof:name":"\u00c4mircan",
     "wof:parent_id":85668249,
     "wof:placetype":"locality",

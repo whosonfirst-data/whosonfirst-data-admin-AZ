@@ -31,6 +31,9 @@
     "name:arz_x_preferred":[
         "\u0646\u0627\u062e\u062a\u0634\u064a\u0641\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Nakhchivan"
+    ],
     "name:azb_x_preferred":[
         "\u0646\u062e\u062c\u06cc\u0648\u0627\u0646"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:che_x_preferred":[
         "\u041d\u0430\u0445\u0438\u0447\u0435\u0432\u0430\u043d\u044c"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0646\u06d5\u062e\u0686\u06cc\u06a4\u0627\u0646"
     ],
     "name:cym_x_preferred":[
         "Nakhchivan"
@@ -109,6 +115,9 @@
     "name:fra_x_preferred":[
         "Nakhitchevan"
     ],
+    "name:gle_x_preferred":[
+        "Nakhchivan"
+    ],
     "name:glg_x_preferred":[
         "Nakhichevan"
     ],
@@ -133,6 +142,9 @@
     "name:hye_x_preferred":[
         "\u0546\u0561\u056d\u056b\u057b\u0587\u0561\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u0546\u0561\u056d\u056b\u057b\u0565\u0582\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Kota Nakhchivan"
     ],
@@ -147,6 +159,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10d0\u10ee\u10d8\u10e9\u10d4\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0430\u0445\u0448\u044b\u0432\u0430\u043d"
     ],
     "name:kir_x_preferred":[
         "\u041d\u0430\u0445\u0438\u0447\u0435\u0432\u0430\u043d"
@@ -165,6 +180,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0928\u0916\u091a\u0940\u0935\u0902"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041d\u0430\u0445\u0438\u0447\u044d\u0432\u0430\u043d\u044c"
     ],
     "name:msa_x_preferred":[
         "Nakhchivan"
@@ -196,8 +214,14 @@
     "name:por_x_preferred":[
         "Naquichev\u00e3o"
     ],
+    "name:pus_x_preferred":[
+        "\u0646\u062e\u062c\u0648\u0627\u0646"
+    ],
     "name:ron_x_preferred":[
         "Naxcivan"
+    ],
+    "name:ron_x_variant":[
+        "Nahicevan"
     ],
     "name:rus_x_preferred":[
         "Nakhichevan\u2019"
@@ -220,6 +244,9 @@
     "name:spa_x_preferred":[
         "Najichev\u00e1n"
     ],
+    "name:sqi_x_preferred":[
+        "Nah\u00e7ivani"
+    ],
     "name:srp_x_preferred":[
         "\u041d\u0430\u0445\u0447\u0438\u0432\u0430\u043d"
     ],
@@ -240,6 +267,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c15\u0c4d\u0c1a\u0c3f\u0c35\u0c28\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041d\u0430\u04b3\u04b7\u0443\u0432\u043e\u043d"
     ],
     "name:tgl_x_preferred":[
         "Lungsod ng Nakhchivan"
@@ -271,8 +301,14 @@
     "name:war_x_preferred":[
         "Nakhchivan"
     ],
+    "name:wuu_x_preferred":[
+        "\u7eb3\u5e0c\u5207\u4e07"
+    ],
     "name:xmf_x_preferred":[
         "\u10dc\u10d0\u10ee\u10d8\u10e9\u10d4\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u7d0d\u5e0c\u5951\u51e1"
     ],
     "name:zho_x_preferred":[
         "\u7d0d\u5e0c\u5207\u842c"
@@ -316,7 +352,7 @@
         }
     ],
     "wof:id":1125936343,
-    "wof:lastmodified":1566604005,
+    "wof:lastmodified":1690855769,
     "wof:name":"Nakhchivan",
     "wof:parent_id":85668681,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "name:ceb_x_preferred":[
         "Boradigah"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u0440\u0430\u0434\u0438\u0433\u0430\u0445\u04c0"
+    ],
+    "name:deu_x_preferred":[
+        "Boradigah"
+    ],
     "name:eng_x_preferred":[
         "Boradigah"
     ],
@@ -34,6 +40,9 @@
     ],
     "name:ita_x_preferred":[
         "Boradigah"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10e0\u10d0\u10d3\u10d8\u10d2\u10d0\u10f0\u10d8"
     ],
     "name:msa_x_preferred":[
         "Boradigah"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421205161,
-    "wof:lastmodified":1566603995,
+    "wof:lastmodified":1690855745,
     "wof:name":"Boradygyakh",
     "wof:parent_id":85668397,
     "wof:placetype":"locality",

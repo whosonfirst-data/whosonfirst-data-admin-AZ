@@ -33,6 +33,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0633\u0627\u0644\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0633\u0627\u0644\u0644\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Masally"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0627\u0633\u0627\u0644\u0644\u06cc"
     ],
@@ -78,6 +84,9 @@
     "name:fra_x_preferred":[
         "Masalli"
     ],
+    "name:glk_x_preferred":[
+        "\u0645\u0627\u0633\u0627\u0644\u0644\u06cc"
+    ],
     "name:hsb_x_preferred":[
         "Masall\u0131"
     ],
@@ -92,6 +101,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30b5\u30c3\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e1\u10d0\u10da\u10d8"
     ],
     "name:lit_x_preferred":[
         "Masalas"
@@ -128,6 +140,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u0441\u0430\u043b\u043b\u044b"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041c\u0430\u0441\u0430\u043b\u043b\u0438"
     ],
     "name:tur_x_preferred":[
         "Masall\u0131"
@@ -270,7 +285,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892864,
+    "wof:lastmodified":1690855736,
     "wof:name":"Masall\u0131",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",

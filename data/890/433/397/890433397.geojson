@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Dzagam"
     ],
+    "name:che_x_preferred":[
+        "\u0417\u0430\u044c\u0439\u0430\u044c\u043c"
+    ],
     "name:eng_x_preferred":[
         "Z\u01ddy\u01ddm"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":890433397,
-    "wof:lastmodified":1566604003,
+    "wof:lastmodified":1690855764,
     "wof:name":"Dzagam",
     "wof:parent_id":85668233,
     "wof:placetype":"locality",

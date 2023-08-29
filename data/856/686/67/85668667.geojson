@@ -33,6 +33,9 @@
     "name:ara_x_preferred":[
         "\u0634\u0631\u0648\u0631"
     ],
+    "name:ast_x_preferred":[
+        "Sharur"
+    ],
     "name:azb_x_preferred":[
         "\u0634\u0631\u0648\u0631"
     ],
@@ -48,6 +51,12 @@
     "name:che_x_preferred":[
         "\u0428\u0430\u0440\u0443\u0440"
     ],
+    "name:che_x_variant":[
+        "\u0428\u0430\u044c\u0440\u0443\u0440"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0634\u0627\u0631\u0648\u0631"
+    ],
     "name:dan_x_preferred":[
         "\u015e\u0259rur"
     ],
@@ -57,11 +66,15 @@
     "name:ell_x_preferred":[
         "\u03a3\u03ac\u03c1\u03bf\u03c5\u03c1"
     ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03c1\u03bf\u03cd\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Sarur"
     ],
     "name:eng_x_variant":[
-        "\u015e\u0259rur"
+        "\u015e\u0259rur",
+        "Sharur"
     ],
     "name:epo_x_preferred":[
         "\u015carur"
@@ -102,8 +115,14 @@
     "name:kan_x_preferred":[
         "\u0cb6\u0cb0\u0cc2\u0cb0\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10e0\u10e3\u10e0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc170\ub8e8\ub974"
+    ],
+    "name:kur_x_preferred":[
+        "\u015eer\u00eel"
     ],
     "name:lav_x_preferred":[
         "\u0160erura"
@@ -132,6 +151,9 @@
     "name:por_x_preferred":[
         "Sharur"
     ],
+    "name:pus_x_preferred":[
+        "\u0634\u0631\u0648\u0631(\u069a\u0627\u0631)"
+    ],
     "name:ron_x_preferred":[
         "\u0218arur"
     ],
@@ -155,6 +177,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c30\u0c42\u0c30\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0428\u0430\u0440\u0443\u0440"
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e35\u0e40\u0e23\u0e2d"
@@ -240,7 +265,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892861,
+    "wof:lastmodified":1690855723,
     "wof:name":"\u015e\u0259rur",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

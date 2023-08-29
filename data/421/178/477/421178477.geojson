@@ -20,11 +20,20 @@
     "name:ara_x_preferred":[
         "\u0622\u0642\u0633\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0622\u0642\u0633\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Agsu"
+    ],
     "name:aze_x_preferred":[
         "A\u011fsu"
     ],
     "name:bak_x_preferred":[
         "\u0410\u0445-\u0441\u0443"
+    ],
+    "name:bak_x_variant":[
+        "\u0410\u04a1\u04bb\u044b\u0443"
     ],
     "name:bel_x_preferred":[
         "\u0410\u0445\u0441\u0443"
@@ -32,8 +41,17 @@
     "name:bxr_x_preferred":[
         "\u0410\u0445\u0441\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Aghsu"
+    ],
     "name:che_x_preferred":[
         "\u0410\u0445\u0441\u0443"
+    ],
+    "name:che_x_variant":[
+        "\u0410\u0433\u04c0\u0441\u0443"
+    ],
+    "name:deu_x_preferred":[
+        "A\u011fsu"
     ],
     "name:eng_x_preferred":[
         "A\u011fsu"
@@ -49,6 +67,9 @@
     ],
     "name:fra_x_preferred":[
         "A\u011fsu"
+    ],
+    "name:hrv_x_preferred":[
+        "Ahsu"
     ],
     "name:hsb_x_preferred":[
         "A\u011fsu"
@@ -83,6 +104,9 @@
     "name:por_x_preferred":[
         "Agsu"
     ],
+    "name:pus_x_preferred":[
+        "\u0622\u0642 \u0633\u0648"
+    ],
     "name:ron_x_preferred":[
         "Agsu"
     ],
@@ -92,11 +116,17 @@
     "name:spa_x_preferred":[
         "A\u011fsu"
     ],
+    "name:swe_x_preferred":[
+        "Aghsu"
+    ],
     "name:tat_x_preferred":[
         "\u0410\u0445-\u0441\u0443"
     ],
     "name:tat_x_variant":[
         "\u0410\u043a\u0441\u0443"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u0493\u0441\u0443"
     ],
     "name:tur_x_preferred":[
         "A\u011fsu"
@@ -109,6 +139,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u06af\u0633\u0648"
+    ],
+    "name:uzb_x_preferred":[
+        "Agsu"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10e6\u10e1\u10e3"
     ],
     "name:zho_x_preferred":[
         "\u963f\u8d6b\u8607"
@@ -160,7 +196,7 @@
         }
     ],
     "wof:id":421178477,
-    "wof:lastmodified":1566603998,
+    "wof:lastmodified":1690855753,
     "wof:name":"Akhsu",
     "wof:parent_id":85668289,
     "wof:placetype":"locality",

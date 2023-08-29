@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0622\u0642\u0633\u062a\u0627\u0641\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0622\u0642\u0633\u062a\u0627\u0641\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Aghstafa"
+    ],
     "name:azb_x_preferred":[
         "\u0622\u063a\u0633\u062a\u0627\u0641\u0627"
     ],
@@ -47,6 +53,9 @@
     "name:eng_x_preferred":[
         "A\u011fstafa"
     ],
+    "name:eng_x_variant":[
+        "Aghstafa"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u06af\u0633\u062a\u0627\u0641\u0627"
     ],
@@ -58,6 +67,9 @@
     ],
     "name:gag_x_preferred":[
         "A\u011fstafa"
+    ],
+    "name:hrv_x_preferred":[
+        "Akstafa"
     ],
     "name:hsb_x_preferred":[
         "A\u011fstafa"
@@ -98,11 +110,17 @@
     "name:por_x_preferred":[
         "Agstafa"
     ],
+    "name:pus_x_preferred":[
+        "\u0627\u063a\u0633\u062a\u0641\u0627"
+    ],
     "name:ron_x_preferred":[
         "Agstafa"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u0441\u0442\u0430\u0444\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0433\u0441\u0442\u0430\u0444\u0430"
     ],
     "name:spa_x_preferred":[
         "A\u011fstafa"
@@ -112,6 +130,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0410\u043a\u0441\u0442\u0430\u0444\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u0433\u0441\u0442\u0430\u0444\u0430"
     ],
     "name:tur_x_preferred":[
         "A\u011fstafa"
@@ -124,6 +145,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0622\u0642 \u0627\u0633\u062a\u0641\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Agstafa"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10e6\u10e1\u10d7\u10d0\u10e4\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u963f\u683c\u65af\u5854\u6cd5"
@@ -179,7 +206,7 @@
         }
     ],
     "wof:id":421178479,
-    "wof:lastmodified":1566603998,
+    "wof:lastmodified":1690855754,
     "wof:name":"Akstafa",
     "wof:parent_id":85668195,
     "wof:placetype":"locality",

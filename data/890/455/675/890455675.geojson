@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "\u015eollar"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0644\u200c\u0644\u0627\u0631"
+    ],
     "name:hau_x_preferred":[
         "\u015eollar"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":890455675,
-    "wof:lastmodified":1566604001,
+    "wof:lastmodified":1690855760,
     "wof:name":"\u015eollar",
     "wof:parent_id":85668591,
     "wof:placetype":"locality",

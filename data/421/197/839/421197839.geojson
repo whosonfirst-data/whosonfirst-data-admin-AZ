@@ -26,11 +26,17 @@
     "name:ceb_x_preferred":[
         "Qazanbulaq"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u0430\u0437\u0430\u043d\u0431\u0443\u043b\u0430\u0433"
+    ],
     "name:cos_x_preferred":[
         "Qazanbulaq"
     ],
     "name:eng_x_preferred":[
         "Qazanbulaq"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0632\u0627\u0646 \u0628\u0644\u0627\u063a"
     ],
     "name:hau_x_preferred":[
         "Qazanbulaq"
@@ -83,6 +89,9 @@
     "name:und_x_variant":[
         "Kazan Bulakh"
     ],
+    "name:uzb_x_preferred":[
+        "Qazanbulaq"
+    ],
     "qs:gn_country":"AZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":586086,
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":421197839,
-    "wof:lastmodified":1566603998,
+    "wof:lastmodified":1690855752,
     "wof:name":"Kazanbulak",
     "wof:parent_id":85668215,
     "wof:placetype":"locality",

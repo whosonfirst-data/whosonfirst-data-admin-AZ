@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.7519677315,39.8156433299,46.7519677315,39.8156433299",
+    "geom:bbox":"46.751968,39.815643,46.751968,39.815643",
     "geom:latitude":39.815643,
     "geom:longitude":46.751968,
     "iso:country":"AZ",
@@ -32,6 +32,9 @@
     ],
     "name:arg_x_preferred":[
         "Stepanakert"
+    ],
+    "name:arz_x_preferred":[
+        "\u062e\u0627\u0646\u0643\u0646\u062f\u0649"
     ],
     "name:ast_x_preferred":[
         "Stepanakert"
@@ -61,6 +64,9 @@
         "\u0421\u0442\u0435\u043f\u0430\u043d\u0430\u043a\u0435\u0440\u0442"
     ],
     "name:cat_x_preferred":[
+        "Stepanakert"
+    ],
+    "name:cdo_x_preferred":[
         "Stepanakert"
     ],
     "name:ceb_x_preferred":[
@@ -99,10 +105,16 @@
     "name:fas_x_preferred":[
         "\u062e\u0627\u0646\u200c\u06a9\u0646\u062f\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u067e\u0627\u0646\u0627\u06a9\u0631\u062a"
+    ],
     "name:fin_x_preferred":[
         "Stepanakert"
     ],
     "name:fra_x_preferred":[
+        "Stepanakert"
+    ],
+    "name:frr_x_preferred":[
         "Stepanakert"
     ],
     "name:fry_x_preferred":[
@@ -110,6 +122,9 @@
     ],
     "name:gag_x_preferred":[
         "Xank\u00e4ndi"
+    ],
+    "name:gle_x_preferred":[
+        "Stepanakert"
     ],
     "name:glg_x_preferred":[
         "Stepanakert"
@@ -123,6 +138,9 @@
     "name:hin_x_preferred":[
         "\u0938\u091f\u0947\u092a\u0923\u093e\u0915\u0947\u0930\u094d\u091f"
     ],
+    "name:hin_x_variant":[
+        "\u0938\u094d\u091f\u0947\u092a\u0928\u0915\u0930\u094d\u091f"
+    ],
     "name:hrv_x_preferred":[
         "Stepanakert"
     ],
@@ -135,6 +153,12 @@
     "name:hye_x_preferred":[
         "\u054d\u057f\u0565\u0583\u0561\u0576\u0561\u056f\u0565\u0580\u057f"
     ],
+    "name:hyw_x_preferred":[
+        "\u054d\u057f\u0565\u0583\u0561\u0576\u0561\u056f\u0565\u0580\u057f"
+    ],
+    "name:ido_x_preferred":[
+        "Stepanakert"
+    ],
     "name:ile_x_preferred":[
         "Stepanakert"
     ],
@@ -145,6 +169,9 @@
         "Stepanakert"
     ],
     "name:ind_x_preferred":[
+        "Stepanakert"
+    ],
+    "name:isl_x_preferred":[
         "Stepanakert"
     ],
     "name:ita_x_preferred":[
@@ -168,6 +195,9 @@
     "name:kor_x_preferred":[
         "\uc2a4\ud14c\ud30c\ub098\ucf00\ub974\ud2b8"
     ],
+    "name:kur_x_preferred":[
+        "Stepanakert"
+    ],
     "name:lad_x_preferred":[
         "Stepanakert"
     ],
@@ -177,11 +207,23 @@
     "name:lit_x_preferred":[
         "Chankendi"
     ],
+    "name:lit_x_variant":[
+        "Stepanakertas"
+    ],
+    "name:ltz_x_preferred":[
+        "Stepanakert"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d46\u0d2a\u0d3e\u0d28\u0d15\u0d46\u0d7c\u0d1f\u0d4d\u0d1f\u0d4d"
+    ],
     "name:mar_x_preferred":[
         "\u0938\u094d\u091f\u0947\u092a\u0928\u093e\u0915\u0930\u094d\u091f"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0442\u0435\u043f\u0430\u043d\u0430\u043a\u0435\u0440\u0442"
+    ],
+    "name:mlg_x_preferred":[
+        "Xankandi"
     ],
     "name:msa_x_preferred":[
         "Stepanakert"
@@ -213,8 +255,14 @@
     "name:por_x_preferred":[
         "Stepanakert"
     ],
+    "name:pus_x_preferred":[
+        "\u0627\u0633\u062a\u067e\u0627\u0646\u0627\u06a9\u0631\u062a"
+    ],
     "name:ron_x_preferred":[
         "Stepanakert"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u0430\u043d\u0430\u043a\u0435\u0440\u0442"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0435\u043f\u0430\u043d\u0430\u043a\u0435\u0440\u0442"
@@ -258,6 +306,9 @@
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c1f\u0c46\u0c2a\u0c28\u0c3e\u0c15\u0c30\u0c4d\u0c1f\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u0430\u043d\u0430\u043a\u0435\u0440\u0442"
+    ],
     "name:tgl_x_preferred":[
         "Stepanakert"
     ],
@@ -281,6 +332,9 @@
     ],
     "name:war_x_preferred":[
         "Stepanakert"
+    ],
+    "name:wuu_x_preferred":[
+        "\u65af\u6377\u6f58\u7eb3\u514b\u7279"
     ],
     "name:xmf_x_preferred":[
         "\u10ee\u10d0\u10dc\u10e5\u10d4\u10dc\u10d3\u10d8"
@@ -399,7 +453,7 @@
     },
     "wof:country":"AZ",
     "wof:created":1499130825,
-    "wof:geomhash":"0daaec7b6697bb70f42873d5cf8f98a4",
+    "wof:geomhash":"18d512592f7cb0facd8a1e2e21d4bd96",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -410,7 +464,7 @@
         }
     ],
     "wof:id":1141908131,
-    "wof:lastmodified":1566604118,
+    "wof:lastmodified":1690855775,
     "wof:name":"Stepanakert",
     "wof:parent_id":85668691,
     "wof:placetype":"locality",
@@ -420,10 +474,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.75196773151981,
-    39.81564332992838,
-    46.75196773151981,
-    39.81564332992838
+    46.751968,
+    39.815643,
+    46.751968,
+    39.815643
 ],
-  "geometry": {"coordinates":[46.75196773151981,39.81564332992838],"type":"Point"}
+  "geometry": {"coordinates":[46.751968,39.815643],"type":"Point"}
 }

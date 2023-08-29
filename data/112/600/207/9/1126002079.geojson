@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u062e\u064a\u0632\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062e\u064a\u0632\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Khizi"
+    ],
     "name:azb_x_preferred":[
         "\u062e\u06cc\u0632\u06cc"
     ],
@@ -43,6 +49,9 @@
     "name:che_x_preferred":[
         "\u0425\u044b\u0437\u044b"
     ],
+    "name:che_x_variant":[
+        "\u0425\u0438\u0437\u0438"
+    ],
     "name:dan_x_preferred":[
         "X\u0131z\u0131"
     ],
@@ -54,6 +63,9 @@
     ],
     "name:eng_x_preferred":[
         "X\u0131z\u0131"
+    ],
+    "name:eng_x_variant":[
+        "Khizi"
     ],
     "name:fas_x_preferred":[
         "\u062e\u06cc\u0632\u06cc"
@@ -90,6 +102,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0cb8\u0cbf\u0c82\u0c97\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d8\u10d6\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud750\uc988"
@@ -133,17 +148,26 @@
     "name:swe_x_preferred":[
         "Xizi"
     ],
+    "name:swe_x_variant":[
+        "Khyzy"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcd\u0b9a\u0bbf\u0b9c\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c3f\u0c1c\u0c3f"
     ],
+    "name:tgk_x_preferred":[
+        "\u0425\u0438\u0437\u0438"
+    ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e35\u0e0b\u0e35\u0e48"
     ],
     "name:tur_x_preferred":[
         "H\u0131z\u0131"
+    ],
+    "name:tur_x_variant":[
+        "X\u0131z\u0131"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0438\u0437\u0438"
@@ -196,7 +220,7 @@
         }
     ],
     "wof:id":1126002079,
-    "wof:lastmodified":1566604007,
+    "wof:lastmodified":1690855773,
     "wof:name":"Khyzy",
     "wof:parent_id":85668485,
     "wof:placetype":"locality",

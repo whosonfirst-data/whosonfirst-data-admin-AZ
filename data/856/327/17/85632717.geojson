@@ -59,8 +59,14 @@
     "name:amh_x_variant":[
         "\u12a0\u12d8\u122d\u1263\u1303\u1295"
     ],
+    "name:ami_x_preferred":[
+        "Aciropayciyang"
+    ],
     "name:ang_x_preferred":[
         "Azerbaijan"
+    ],
+    "name:anp_x_preferred":[
+        "\u0905\u091c\u0930\u092c\u0948\u091c\u093e\u0928"
     ],
     "name:ara_x_preferred":[
         "\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646"
@@ -89,8 +95,17 @@
     "name:ast_x_variant":[
         "Azerbaix\u00e1n"
     ],
+    "name:atj_x_preferred":[
+        "Azerbaijan"
+    ],
     "name:ava_x_preferred":[
         "\u0410\u0437\u0430\u0440\u0431\u0438\u0436\u0430\u043d"
+    ],
+    "name:avk_x_preferred":[
+        "Azara"
+    ],
+    "name:awa_x_preferred":[
+        "\u0905\u091c\u0930\u092c\u0948\u091c\u093e\u0928"
     ],
     "name:aym_x_preferred":[
         "Asirbayjan"
@@ -112,6 +127,9 @@
     ],
     "name:bam_x_preferred":[
         "Az\u025brbayja\u014b"
+    ],
+    "name:ban_x_preferred":[
+        "Azerbaijan"
     ],
     "name:bar_x_preferred":[
         "Aserbaidschan"
@@ -155,6 +173,9 @@
     "name:brh_x_preferred":[
         "\u00c1zarb\u00e1\u00edj\u00e1n"
     ],
+    "name:bug_x_preferred":[
+        "Azerbaijan"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d"
     ],
@@ -177,7 +198,8 @@
         "Aserbaiyan"
     ],
     "name:ceb_x_variant":[
-        "Azerbaijan"
+        "Azerbaijan",
+        "Aserbayyan"
     ],
     "name:ces_x_preferred":[
         "\u00c1zerb\u00e1jd\u017e\u00e1n"
@@ -206,6 +228,9 @@
     "name:cos_x_preferred":[
         "Azerbaighjan"
     ],
+    "name:cps_x_preferred":[
+        "Aserbayyan"
+    ],
     "name:crh_x_preferred":[
         "Azerbaycan"
     ],
@@ -216,6 +241,9 @@
         "Aserbaijan"
     ],
     "name:cym_x_variant":[
+        "Azerbaijan"
+    ],
+    "name:dag_x_preferred":[
         "Azerbaijan"
     ],
     "name:dan_x_preferred":[
@@ -251,6 +279,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03b6\u03b5\u03c1\u03bc\u03c0\u03b1\u03ca\u03c4\u03b6\u03ac\u03bd"
+    ],
+    "name:eml_x_preferred":[
+        "Azerbaigi\u00e0n"
     ],
     "name:eng_ca_x_preferred":[
         "Azerbaijan"
@@ -365,6 +396,15 @@
     "name:gom_x_preferred":[
         "\u0905\u091d\u0930\u092c\u0948\u091c\u093e\u0928"
     ],
+    "name:gor_x_preferred":[
+        "Azerbaijan"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf30\ud800\udf36\ud800\udf30\ud800\udf39\ud800\udf42\ud800\udf31\ud800\udf30\ud800\udf3e\ud800\udf33\ud800\udf3e\ud800\udf30\ud800\udf3d"
+    ],
+    "name:gpe_x_preferred":[
+        "Azerbaijan"
+    ],
     "name:grn_x_preferred":[
         "Aservaij\u00e3"
     ],
@@ -406,6 +446,9 @@
     "name:hif_x_preferred":[
         "Azerbaijan"
     ],
+    "name:hil_x_preferred":[
+        "Aserbayyan"
+    ],
     "name:hin_x_preferred":[
         "\u0905\u091c\u093c\u0930\u092c\u0948\u091c\u093e\u0928"
     ],
@@ -434,6 +477,9 @@
     "name:hyw_x_preferred":[
         "\u0531\u0566\u0580\u057a\u0567\u0575\u0573\u0561\u0576\u056b \u0540\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u056b\u0582\u0576"
     ],
+    "name:ibo_x_preferred":[
+        "Azerbaijan"
+    ],
     "name:ido_x_preferred":[
         "Azerbaijan"
     ],
@@ -442,6 +488,9 @@
     ],
     "name:ilo_x_preferred":[
         "Azerbaijan"
+    ],
+    "name:ilo_x_variant":[
+        "Aserbayyan"
     ],
     "name:ina_x_preferred":[
         "Azerbaidzhan"
@@ -493,6 +542,9 @@
     ],
     "name:kan_x_variant":[
         "\u0c85\u0c9c\u0cb0\u0ccd\u0cac\u0cc8\u0c9c\u0cbe\u0ca8\u0ccd"
+    ],
+    "name:kas_x_preferred":[
+        "\u0622\u0630\u0631\u0650\u0628\u0627\u06cc\u062c\u0627\u0646"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10d6\u10d4\u10e0\u10d1\u10d0\u10d8\u10ef\u10d0\u10dc\u10d8"
@@ -552,7 +604,8 @@
         "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ead\u0eb2\u0ec1\u0e8a\u0e81\u0e9a\u0eb2\u0e8d\u0e8a\u0eb1\u0e87"
     ],
     "name:lao_x_variant":[
-        "\u0ead\u0eb2\u0ec0\u0e8a\u0eb5\u0ec4\u0e9a\u0e88\u0eb1\u0e99"
+        "\u0ead\u0eb2\u0ec0\u0e8a\u0eb5\u0ec4\u0e9a\u0e88\u0eb1\u0e99",
+        "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ead\u0eb2\u0ec0\u0e8a\u0eb5\u0ea3\u0ecc\u0ec4\u0e9a\u0e88\u0eb2\u0e99"
     ],
     "name:lat_x_preferred":[
         "Atropatene (res publica)",
@@ -587,6 +640,9 @@
     "name:lit_x_preferred":[
         "Azerbaid\u017eanas"
     ],
+    "name:lld_x_preferred":[
+        "Aserbaigian"
+    ],
     "name:lmo_x_preferred":[
         "Azerbaigian"
     ],
@@ -602,6 +658,9 @@
     "name:ltz_x_preferred":[
         "Aserbaidschan"
     ],
+    "name:ltz_x_variant":[
+        "Aserbaidjan"
+    ],
     "name:lub_x_preferred":[
         "Ajelbayidja"
     ],
@@ -610,6 +669,9 @@
     ],
     "name:lzh_x_preferred":[
         "\u963f\u585e\u62dc\u7586"
+    ],
+    "name:mad_x_preferred":[
+        "Azerbaijan"
     ],
     "name:mai_x_preferred":[
         "\u0905\u091c\u0930\u092c\u0948\u091c\u093e\u0928"
@@ -646,6 +708,9 @@
     ],
     "name:mlt_x_preferred":[
         "A\u017cerbaj\u0121an"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd1\uabd3\uabe6\uabd4\uabd5\uabe5\uabe2\uabd6\uabe5\uabdf"
     ],
     "name:mon_x_preferred":[
         "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0436\u0430\u043d"
@@ -756,8 +821,14 @@
     "name:pag_x_preferred":[
         "Azerbaijan"
     ],
+    "name:pag_x_variant":[
+        "Aserbayyan"
+    ],
     "name:pam_x_preferred":[
         "Azerbaijan"
+    ],
+    "name:pam_x_variant":[
+        "Aserbayyan"
     ],
     "name:pan_x_preferred":[
         "\u0a05\u0a1c\u0a3c\u0a30\u0a2c\u0a3e\u0a08\u0a1c\u0a3e\u0a28"
@@ -810,6 +881,9 @@
     "name:que_x_variant":[
         "Asirwayan"
     ],
+    "name:rmy_x_preferred":[
+        "Azerbaijan"
+    ],
     "name:roh_x_preferred":[
         "Aserbeidschan"
     ],
@@ -827,6 +901,9 @@
     ],
     "name:run_x_preferred":[
         "Azerubayijani"
+    ],
+    "name:run_x_variant":[
+        "Azerbaijan"
     ],
     "name:rup_x_preferred":[
         "Azerbaigian"
@@ -858,11 +935,17 @@
     "name:sgs_x_preferred":[
         "Az\u0117rbaid\u017eians"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1022\u1083\u1087\u1078\u1083\u1087\u1015\u1062\u1086\u1087\u1078\u107c\u103a\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0d85\u0dc3\u0dbb\u0dca\u0db6\u0dba\u0dd2\u0da2\u0dcf\u0db1\u0dca"
     ],
     "name:sin_x_variant":[
         "\u0d85\u0dc3\u0dbb\u0dca\u0db6\u0dba\u0dd2\u0da2\u0dcf\u0db1\u0dba"
+    ],
+    "name:skr_x_preferred":[
+        "\u0622\u0632\u0631\u0628\u0627\u0626\u062c\u0627\u0646"
     ],
     "name:slk_x_preferred":[
         "Azerbajd\u017ean"
@@ -873,8 +956,20 @@
     "name:sme_x_preferred":[
         "Aserbai\u017ean"
     ],
+    "name:sme_x_variant":[
+        "Azerbai\u017ean"
+    ],
+    "name:smj_x_preferred":[
+        "Azerbaj\u00e1nna"
+    ],
+    "name:smn_x_preferred":[
+        "Azerbaid\u017ean"
+    ],
     "name:smo_x_preferred":[
         "Azerbaijin"
+    ],
+    "name:sms_x_preferred":[
+        "Azerbaid\u017eaan"
     ],
     "name:sna_x_preferred":[
         "Azerbaijan"
@@ -890,6 +985,9 @@
     ],
     "name:som_x_variant":[
         "Azerbajaan"
+    ],
+    "name:sot_x_preferred":[
+        "Azerbaijan"
     ],
     "name:spa_x_colloquial":[
         "Azerbaidjan"
@@ -958,6 +1056,12 @@
     "name:tat_x_preferred":[
         "\u0410\u0437\u04d9\u0440\u0431\u0430\u0439\u0497\u0430\u043d"
     ],
+    "name:tat_x_variant":[
+        "\u04d8\u0437\u0435\u0440\u0431\u0430\u0439\u0497\u0430\u043d"
+    ],
+    "name:tay_x_preferred":[
+        "Azerbaijan"
+    ],
     "name:tel_x_preferred":[
         "\u0c05\u0c1c\u0c30\u0c4d\u200c\u0c2c\u0c48\u0c1c\u0c3e\u0c28\u0c4d"
     ],
@@ -985,10 +1089,19 @@
     "name:tir_x_preferred":[
         "\u12a0\u12d8\u122d\u1263\u1303\u1295"
     ],
+    "name:tok_x_preferred":[
+        "ma Asepajan"
+    ],
     "name:ton_x_preferred":[
         "\u02bbAsapaisani"
     ],
     "name:tpi_x_preferred":[
+        "Azerbaijan"
+    ],
+    "name:trv_x_preferred":[
+        "Azerbaijan"
+    ],
+    "name:tsn_x_preferred":[
         "Azerbaijan"
     ],
     "name:tso_x_preferred":[
@@ -1036,6 +1149,9 @@
     "name:vec_x_preferred":[
         "Azerbaigian"
     ],
+    "name:vec_x_variant":[
+        "Azerbaijan"
+    ],
     "name:vep_x_preferred":[
         "Azerbaid\u017ean"
     ],
@@ -1057,6 +1173,12 @@
     ],
     "name:war_x_preferred":[
         "Aserbaiyan"
+    ],
+    "name:war_x_variant":[
+        "Aserbayyan"
+    ],
+    "name:wln_x_preferred":[
+        "Azerbayidjan"
     ],
     "name:wol_x_preferred":[
         "Aserbayjaan"
@@ -1339,7 +1461,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1618362670,
+    "wof:lastmodified":1690855737,
     "wof:name":"Azerbaijan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -33,11 +33,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0648\u0641\u0648\u0632"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0648\u0648\u0632"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0648\u0648\u0648\u0632 \u0631\u0627\u06cc\u0648\u0646\u0648"
     ],
     "name:aze_x_preferred":[
         "Tovuz"
+    ],
+    "name:aze_x_variant":[
+        "Tovuz rayonu"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09c1\u09ad\u09cb\u099c \u099c\u09c7\u09b2\u09be"
@@ -50,6 +56,9 @@
     ],
     "name:che_x_preferred":[
         "\u0422\u043e\u0432\u0443\u0437\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:crh_x_preferred":[
+        "Tovuz"
     ],
     "name:dan_x_preferred":[
         "Tovuz District"
@@ -102,8 +111,14 @@
     "name:kan_x_preferred":[
         "\u0c9f\u0ccb\u0cb5\u0c9d\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10dd\u10e3\u10d6\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud1a0\ubd80\uc2a4 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ud1a0\ubd80\uc2a4\uad6c"
     ],
     "name:lav_x_preferred":[
         "Tovuzas rajons"
@@ -138,6 +153,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u0443\u0437\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0422\u043e\u0432\u0443\u0437\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:sco_x_preferred":[
         "Tovuz Rayon"
     ],
@@ -159,8 +177,14 @@
     "name:swe_x_preferred":[
         "Tovuz Rayonu"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bcb\u0bb5\u0bc1\u0bb8\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c4b\u0c35\u0c41\u0c1c\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0422\u043e\u0432\u0443\u0437"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e17\u0e32\u0e27\u0e38\u0e0a"
@@ -313,7 +337,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1636497569,
+    "wof:lastmodified":1690855730,
     "wof:name":"Tovuz",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

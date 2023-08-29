@@ -74,6 +74,9 @@
     "name:eng_x_variant":[
         "Ming\u01dd\u00e7evir"
     ],
+    "name:epo_x_preferred":[
+        "Mingacevir"
+    ],
     "name:est_x_preferred":[
         "Ming\u0259\u00e7evir"
     ],
@@ -95,10 +98,19 @@
     "name:heb_x_preferred":[
         "\u05de\u05d9\u05d2\u05d0\u05e6'\u05d1\u05d9\u05e8"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d9\u05e0\u05d2\u05e6'\u05d1\u05d9\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u093f\u0902\u0917\u093e\u0936\u0947\u0935\u0940\u0930"
     ],
+    "name:hrv_x_preferred":[
+        "Minge\u010daur"
+    ],
     "name:hsb_x_preferred":[
+        "Ming\u0259\u00e7evir"
+    ],
+    "name:hun_x_preferred":[
         "Ming\u0259\u00e7evir"
     ],
     "name:hye_x_preferred":[
@@ -191,6 +203,9 @@
     "name:swe_x_preferred":[
         "Mingetjaur"
     ],
+    "name:swe_x_variant":[
+        "Ming\u00e4\u00e7evir"
+    ],
     "name:tam_x_preferred":[
         "\u0bae\u0bbf\u0b99\u0bcd\u0b95\u0bbe\u0b9a\u0bc6\u0bb5\u0bbf\u0bb1\u0bcd"
     ],
@@ -224,11 +239,20 @@
     "name:urd_x_preferred":[
         "\u0645\u0646\u06af\u0686\u0648\u06cc\u0631"
     ],
+    "name:uzb_x_preferred":[
+        "Mingechaur"
+    ],
     "name:vie_x_preferred":[
         "Mingachevir"
     ],
     "name:war_x_preferred":[
         "Mingachevir"
+    ],
+    "name:wuu_x_preferred":[
+        "\u660e\u76d6\u6070\u4e4c\u5c14"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10d8\u10dc\u10d2\u10d4\u10e9\u10d0\u10e3\u10e0\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u660e\u76d6\u6070\u4e4c\u5c14"
@@ -284,7 +308,7 @@
         }
     ],
     "wof:id":421178467,
-    "wof:lastmodified":1566603999,
+    "wof:lastmodified":1690855755,
     "wof:name":"Mingechaur",
     "wof:parent_id":85668225,
     "wof:placetype":"locality",

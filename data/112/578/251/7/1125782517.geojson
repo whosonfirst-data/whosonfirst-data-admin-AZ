@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Oghuz"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0648\u063a\u0648\u0632"
     ],
@@ -37,11 +40,20 @@
     "name:che_x_preferred":[
         "\u041e\u0433\u0443\u0437"
     ],
+    "name:che_x_variant":[
+        "\u041e\u0433\u04c0\u0443\u0437"
+    ],
     "name:deu_x_preferred":[
         "O\u011fuz"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c1\u03c4\u03b1\u03c3\u03ad\u03bd"
+    ],
     "name:eng_x_preferred":[
         "O\u011fuz"
+    ],
+    "name:eng_x_variant":[
+        "Oghuz"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u063a\u0648\u0632"
@@ -60,6 +72,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054e\u0561\u0580\u0564\u0561\u0577\u0565\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054e\u0561\u0580\u0564\u0561\u0577\u0567\u0576"
     ],
     "name:ita_x_preferred":[
         "O\u011fuz"
@@ -91,14 +106,23 @@
     "name:swe_x_preferred":[
         "O\u011fuz"
     ],
+    "name:tgk_x_preferred":[
+        "\u041e\u0493\u0443\u0437"
+    ],
     "name:tur_x_preferred":[
         "O\u011fuz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0433\u0443\u0437"
     ],
     "name:und_x_variant":[
         "Bartashen"
     ],
     "name:urd_x_preferred":[
         "\u0627\u063a\u0648\u0632"
+    ],
+    "name:uzb_x_preferred":[
+        "O\u02bbg\u02bbuz"
     ],
     "name:zho_x_preferred":[
         "\u5967\u53e4\u8332"
@@ -142,7 +166,7 @@
         }
     ],
     "wof:id":1125782517,
-    "wof:lastmodified":1566604007,
+    "wof:lastmodified":1690855773,
     "wof:name":"O\u011fuz",
     "wof:parent_id":85668549,
     "wof:placetype":"locality",
