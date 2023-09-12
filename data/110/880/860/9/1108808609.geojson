@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.307186,
-    "geom:area_square_m":12231125769.554415,
+    "geom:area_square_m":12231124610.534746,
     "geom:bbox":"44.959678,40.270779,47.001833,41.467184",
     "geom:latitude":40.824356,
     "geom:longitude":46.009561,
     "iso:country":"AZ",
+    "label:eng_x_preferred_longname":[
+        "Ganja-Gazakh Economic Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "economic region"
+    ],
     "lbl:latitude":40.747439,
     "lbl:longitude":46.026468,
     "lbl:max_zoom":7.0,
@@ -17,6 +23,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":3.0,
+    "name:eng_x_preferred":[
+        "Ganja-Gazakh"
+    ],
     "name:fra_x_preferred":[
         "Ganja-Gazakh"
     ],
@@ -33,7 +42,7 @@
     "wof:concordances":{},
     "wof:country":"AZ",
     "wof:created":1486425803,
-    "wof:geomhash":"81b1e1f68fe7b2eeac9ec0c8b3987839",
+    "wof:geomhash":"b82148a0a97f5ba48935e8a5fcb68103",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +57,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521582,
+    "wof:lastmodified":1694493047,
     "wof:name":"Ganja-Gazakh",
     "wof:parent_id":85632717,
     "wof:placetype":"macroregion",

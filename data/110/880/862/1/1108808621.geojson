@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.641943,
-    "geom:area_square_m":6039376260.678873,
+    "geom:area_square_m":6039377355.578299,
     "geom:bbox":"48.800114,39.613666,50.619649,41.000461",
     "geom:latitude":40.460852,
     "geom:longitude":49.46499,
     "iso:country":"AZ",
+    "label:eng_x_preferred_longname":[
+        "Absheron Economic Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "economic region"
+    ],
     "lbl:latitude":40.440027,
     "lbl:longitude":49.510661,
     "lbl:max_zoom":7.0,
@@ -25,6 +31,9 @@
     ],
     "name:deu_x_preferred":[
         "Ab\u015feron"
+    ],
+    "name:eng_x_preferred":[
+        "Absheron"
     ],
     "name:fra_x_preferred":[
         "Ab\u015feron"
@@ -45,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"AZ",
     "wof:created":1486425808,
-    "wof:geomhash":"b039f241e25475117e52a6637b12800e",
+    "wof:geomhash":"00dbe3355126236afb6fb401688bfe9b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +69,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892866,
+    "wof:lastmodified":1694493047,
     "wof:name":"Absheron",
     "wof:parent_id":85632717,
     "wof:placetype":"macroregion",

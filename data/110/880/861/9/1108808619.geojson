@@ -5,18 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.933647,
-    "geom:area_square_m":8680732468.298344,
+    "geom:area_square_m":8680732611.170546,
     "geom:bbox":"46.197923,40.65518,48.09405,41.90861",
     "geom:latitude":41.242016,
     "geom:longitude":47.125164,
     "iso:country":"AZ",
+    "label:eng_x_preferred_longname":[
+        "Shaki-Zaqatala Economic Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "economic region"
+    ],
     "lbl:latitude":41.192358,
     "lbl:longitude":47.032052,
     "lbl:max_zoom":7.0,
     "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":3.0,
+    "name:eng_x_preferred":[
+        "Shaki-Zaqatala"
+    ],
     "name:fra_x_preferred":[
         "Shaki-Zaqatala"
     ],
@@ -33,7 +42,7 @@
     "wof:concordances":{},
     "wof:country":"AZ",
     "wof:created":1486425807,
-    "wof:geomhash":"653970135f62d325fd67eafb6c6e6402",
+    "wof:geomhash":"c70d7f1415f9557ee039766aff936ef5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +57,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521584,
+    "wof:lastmodified":1694493048,
     "wof:name":"Shaki-Zaqatala",
     "wof:parent_id":85632717,
     "wof:placetype":"macroregion",

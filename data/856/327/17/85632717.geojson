@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.136681,
-    "geom:area_square_m":86240232327.750565,
+    "geom:area_square_m":86162745424.420792,
     "geom:bbox":"44.764683,38.392217,50.387449,41.912223",
     "geom:latitude":40.295045,
     "geom:longitude":47.527697,
@@ -14,6 +14,9 @@
     "iso:country":"AZ",
     "itu:country_code":[
         "994"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "AZ"
@@ -1387,7 +1390,8 @@
     ],
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"994",
     "statoids:ds":"AZ",
     "statoids:fifa":"AZE",
@@ -1447,7 +1451,7 @@
         "meso",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"42ee008987dd34a3f96d277b113abdcc",
+    "wof:geomhash":"80ae01a2a5c0fda9e23025bc3a4112d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1461,12 +1465,12 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855737,
+    "wof:lastmodified":1694492178,
     "wof:name":"Azerbaijan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":9416801,
-    "wof:population_rank":13,
+    "wof:population":10023318,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-az",
     "wof:shortcode":"AZ",
     "wof:superseded_by":[],

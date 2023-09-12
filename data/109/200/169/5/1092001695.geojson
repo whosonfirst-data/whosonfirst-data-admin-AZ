@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002587,
-    "geom:area_square_m":24860773.562379,
+    "geom:area_square_m":24860773.562371,
     "geom:bbox":"49.1356814355,38.9571160306,49.1964707815,39.050252127",
     "geom:latitude":38.997168,
     "geom:longitude":49.169699,
     "iso:country":"AZ",
+    "label:eng_x_preferred_longname":[
+        "Neftchala Rayon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "rayon"
+    ],
     "lbl:latitude":38.995342,
     "lbl:longitude":49.169697,
     "lbl:max_zoom":10.0,
@@ -68,7 +74,7 @@
     },
     "wof:country":"AZ",
     "wof:created":1473896593,
-    "wof:geomhash":"3780f2269b477872affa40e7f8394ee5",
+    "wof:geomhash":"281f0726ef81c4e642a2c4fd4b966408",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1092001695,
-    "wof:lastmodified":1566603977,
+    "wof:lastmodified":1694497831,
     "wof:name":"Neftchala",
     "wof:parent_id":85668409,
     "wof:placetype":"county",
