@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.307628,
-    "geom:area_square_m":21845027903.218033,
+    "geom:area_square_m":21845027903.217426,
     "geom:bbox":"46.710455,39.00789,49.449513,40.981861",
     "geom:latitude":40.040496,
     "geom:longitude":48.135148,
     "iso:country":"AZ",
+    "label:eng_x_preferred_longname":[
+        "Aran Economic Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "economic region"
+    ],
     "lbl:latitude":40.155985,
     "lbl:longitude":47.773352,
     "lbl:max_zoom":7.0,
@@ -39,6 +45,9 @@
         "Aran"
     ],
     "name:deu_x_preferred":[
+        "Aran"
+    ],
+    "name:eng_x_preferred":[
         "Aran"
     ],
     "name:epo_x_preferred":[
@@ -87,7 +96,7 @@
     "wof:concordances":{},
     "wof:country":"AZ",
     "wof:created":1486425811,
-    "wof:geomhash":"4ae431dbec367606ece7645135c41dc6",
+    "wof:geomhash":"a1515515e974ea3b9abe9f6d2a344c64",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,7 +111,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892865,
+    "wof:lastmodified":1694493047,
     "wof:name":"Aran",
     "wof:parent_id":85632717,
     "wof:placetype":"macroregion",

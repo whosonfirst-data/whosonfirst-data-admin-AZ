@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.595964,
-    "geom:area_square_m":5732337683.046,
+    "geom:area_square_m":5732337683.045639,
     "geom:bbox":"48.007027,38.391823,49.211395,39.446025",
     "geom:latitude":38.932731,
     "geom:longitude":48.568396,
     "iso:country":"AZ",
+    "label:eng_x_preferred_longname":[
+        "Lankaran Economic Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "economic region"
+    ],
     "lbl:latitude":38.87917,
     "lbl:longitude":48.55307,
     "lbl:max_zoom":7.0,
@@ -296,7 +302,7 @@
     },
     "wof:country":"AZ",
     "wof:created":1486425810,
-    "wof:geomhash":"86b443551d46b6b3dbbf382501f413f0",
+    "wof:geomhash":"0181d7dc22cfd22e67b62cdac4ed61ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -311,7 +317,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855739,
+    "wof:lastmodified":1694493060,
     "wof:name":"Lankaran",
     "wof:parent_id":85632717,
     "wof:placetype":"macroregion",

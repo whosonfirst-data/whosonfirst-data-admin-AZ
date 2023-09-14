@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.785064,
-    "geom:area_square_m":7457911855.39,
+    "geom:area_square_m":7457912089.324606,
     "geom:bbox":"46.457111,39.132891,47.664217,40.502876",
     "geom:latitude":39.800542,
     "geom:longitude":46.974211,
     "iso:country":"AZ",
+    "label:eng_x_preferred_longname":[
+        "Yukhari Garabakh Economic Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "economic region"
+    ],
     "lbl:latitude":39.625695,
     "lbl:longitude":47.065569,
     "lbl:max_zoom":7.0,
@@ -17,6 +23,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":3.0,
+    "name:eng_x_preferred":[
+        "Yukhari Garabakh"
+    ],
     "name:fra_x_preferred":[
         "Yukhari Garabakh"
     ],
@@ -33,7 +42,7 @@
     "wof:concordances":{},
     "wof:country":"AZ",
     "wof:created":1486425805,
-    "wof:geomhash":"e6fa41260f3b7cf11073e7b9aa08538c",
+    "wof:geomhash":"187f18771ec8a005db43d660def325f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +57,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521585,
+    "wof:lastmodified":1694493048,
     "wof:name":"Yukhari Garabakh",
     "wof:parent_id":85632717,
     "wof:placetype":"macroregion",
