@@ -1429,6 +1429,7 @@
         "hasc:id":"AZ",
         "icao:code":"4K",
         "ioc:id":"AZE",
+        "iso:code":"AZ",
         "itu:id":"AZE",
         "loc:id":"n92000010",
         "m49:code":"031",
@@ -1443,6 +1444,7 @@
         "wk:page":"Azerbaijan",
         "wmo:id":"AJ"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:country_alpha3":"AZE",
     "wof:geom_alt":[
@@ -1465,7 +1467,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1694639630,
+    "wof:lastmodified":1695881291,
     "wof:name":"Azerbaijan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
