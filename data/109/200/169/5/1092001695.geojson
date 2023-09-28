@@ -72,6 +72,7 @@
     "wof:concordances":{
         "hasc:id":"AZ.LN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"AZ",
     "wof:created":1473896593,
     "wof:geomhash":"281f0726ef81c4e642a2c4fd4b966408",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1092001695,
-    "wof:lastmodified":1694497831,
+    "wof:lastmodified":1695886808,
     "wof:name":"Neftchala",
     "wof:parent_id":85668409,
     "wof:placetype":"county",
