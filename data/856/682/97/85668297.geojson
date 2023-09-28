@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065522,
-    "geom:area_square_m":633933537.865353,
+    "geom:area_square_m":633934000.181554,
     "geom:bbox":"48.483703,38.391823,48.868862,38.625029",
     "geom:latitude":38.514925,
     "geom:longitude":48.694756,
@@ -326,17 +326,19 @@
         "gn:id":148442,
         "gp:id":20070217,
         "hasc:id":"AZ.AA",
+        "iso:code":"AZ-AST",
         "iso:id":"AZ-AST",
         "qs_pg:id":1329936,
         "unlc:id":"AZ-AST",
         "wd:id":"Q269680",
         "wk:page":"Astara District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"55c2afa245835a7f8fe36a19eba7ca25",
+    "wof:geomhash":"2e487f2800ba2bb8581cb5a9f50104cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -352,7 +354,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855729,
+    "wof:lastmodified":1695884854,
     "wof:name":"Astara",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",

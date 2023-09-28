@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158228,
-    "geom:area_square_m":1477589550.67646,
+    "geom:area_square_m":1477589366.645168,
     "geom:bbox":"46.10291,40.691044,46.823762,41.205996",
     "geom:latitude":40.955886,
     "geom:longitude":46.484182,
@@ -299,17 +299,19 @@
         "gn:id":828302,
         "gp:id":20070269,
         "hasc:id":"AZ.SX",
+        "iso:code":"AZ-SMX",
         "iso:id":"AZ-SMX",
         "qs_pg:id":49486,
         "unlc:id":"AZ-SMX",
         "wd:id":"Q498437",
         "wk:page":"Samukh District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8c69d2bc0606e461471f4edd9479eaf7",
+    "wof:geomhash":"edb88a063d1042c9055908b9a2e8fb90",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -325,7 +327,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855727,
+    "wof:lastmodified":1695884853,
     "wof:name":"Samux",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

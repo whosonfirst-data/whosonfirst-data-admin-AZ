@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005474,
-    "geom:area_square_m":51908383.420455,
+    "geom:area_square_m":51908237.907865,
     "geom:bbox":"48.896238,39.863788,48.965869,39.995901",
     "geom:latitude":39.930702,
     "geom:longitude":48.930633,
@@ -255,16 +255,18 @@
         "gn:id":147284,
         "gp:id":20070281,
         "hasc:id":"AZ.AB",
+        "iso:code":"AZ-SR",
         "iso:id":"AZ-SR",
         "qs_pg:id":49487,
         "wd:id":"Q382132",
         "wk:page":"Sabirabad District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"68de9f182cb6e136cd2217e155160f0c",
+    "wof:geomhash":"f94d949602de7e5749bc7399aa508dc4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -280,7 +282,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855726,
+    "wof:lastmodified":1695884853,
     "wof:name":"Shirvan",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

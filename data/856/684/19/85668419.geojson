@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151989,
-    "geom:area_square_m":1428384110.831476,
+    "geom:area_square_m":1428383940.666377,
     "geom:bbox":"48.706056,40.309305,49.308841,40.780275",
     "geom:latitude":40.53288,
     "geom:longitude":48.965925,
@@ -305,17 +305,19 @@
         "gn:id":828301,
         "gp:id":20070272,
         "hasc:id":"AZ.QO",
+        "iso:code":"AZ-QOB",
         "iso:id":"AZ-QOB",
         "qs_pg:id":985379,
         "unlc:id":"AZ-QOB",
         "wd:id":"Q457508",
         "wk:page":"Gobustan District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c50702a6be7691b76107053f0bd80f5a",
+    "wof:geomhash":"924c9f60df92feac68e42b887696cd7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -331,7 +333,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855733,
+    "wof:lastmodified":1695884854,
     "wof:name":"Qobustan",
     "wof:parent_id":1108808611,
     "wof:placetype":"region",

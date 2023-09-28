@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104291,
-    "geom:area_square_m":997462938.590378,
+    "geom:area_square_m":997462914.70392,
     "geom:bbox":"46.705361,39.132891,47.312456,39.500036",
     "geom:latitude":39.332813,
     "geom:longitude":46.976789,
@@ -150,14 +150,16 @@
         "gn:id":148140,
         "gp:id":20070224,
         "hasc:id":"AZ.CB",
+        "iso:code":"AZ-CAB",
         "iso:id":"AZ-CAB",
         "qs_pg:id":1172844
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e0c9428d5851a5e07d3ffdbdd151c4ab",
+    "wof:geomhash":"4f1591d1f198103cfa716a9599325001",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,7 +175,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521583,
+    "wof:lastmodified":1695884737,
     "wof:name":"C\u0259bray\u0131l",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

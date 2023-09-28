@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108806,
-    "geom:area_square_m":1022521516.202592,
+    "geom:area_square_m":1022521082.577167,
     "geom:bbox":"48.084655,40.314278,48.651163,40.816142",
     "geom:latitude":40.53513,
     "geom:longitude":48.397365,
@@ -317,17 +317,19 @@
         "gn:id":587342,
         "gp:id":20070215,
         "hasc:id":"AZ.AU",
+        "iso:code":"AZ-AGU",
         "iso:id":"AZ-AGU",
         "qs_pg:id":202009,
         "unlc:id":"AZ-AGU",
         "wd:id":"Q330800",
         "wk:page":"Agsu District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0739e33bcafac12363430092598acc75",
+    "wof:geomhash":"6ddc5ea688e3847de9e49675dc86f517",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -343,7 +345,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855729,
+    "wof:lastmodified":1695884357,
     "wof:name":"A\u011fsu",
     "wof:parent_id":1108808611,
     "wof:placetype":"region",

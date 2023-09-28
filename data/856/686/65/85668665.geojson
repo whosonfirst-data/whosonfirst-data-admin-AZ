@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102022,
-    "geom:area_square_m":979784804.114614,
+    "geom:area_square_m":979784972.00822,
     "geom:bbox":"45.751766,38.830049,46.143183,39.312839",
     "geom:latitude":39.043031,
     "geom:longitude":45.943032,
@@ -230,15 +230,17 @@
         "gn:id":147365,
         "gp:id":24550719,
         "hasc:id":"AZ.OR",
+        "iso:code":"AZ-ORD",
         "iso:id":"AZ-ORD",
         "qs_pg:id":1062978,
         "unlc:id":"AZ-ORD"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a2db726d0e00d29746587e05491f66db",
+    "wof:geomhash":"211aa1423336a6ba27a9be3da2aa3b9d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -254,7 +256,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1636497567,
+    "wof:lastmodified":1695884853,
     "wof:name":"Ordubad",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110034,
-    "geom:area_square_m":1035051117.166383,
+    "geom:area_square_m":1035051235.761587,
     "geom:bbox":"45.831525,40.296672,46.258511,40.681797",
     "geom:latitude":40.471054,
     "geom:longitude":46.034381,
@@ -246,15 +246,17 @@
         "gn:id":586771,
         "gp:id":20070222,
         "hasc:id":"AZ.DS",
+        "iso:code":"AZ-DAS",
         "iso:id":"AZ-DAS",
         "qs_pg:id":1006793,
         "wd:id":"Q2332472"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c089b9980960a7723184a35fbc7daee3",
+    "wof:geomhash":"4f9f4a93db6dabd988850f0ab8a7b032",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -270,7 +272,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855725,
+    "wof:lastmodified":1695884481,
     "wof:name":"Da\u015fk\u0259s\u0259n",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

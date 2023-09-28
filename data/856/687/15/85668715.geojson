@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005466,
-    "geom:area_square_m":51311632.848639,
+    "geom:area_square_m":51311869.937553,
     "geom:bbox":"47.093055,40.569834,47.194347,40.640163",
     "geom:latitude":40.608177,
     "geom:longitude":47.145072,
@@ -324,16 +324,18 @@
         "gn:id":584650,
         "gp:id":20070253,
         "hasc:id":"AZ.YE",
+        "iso:code":"AZ-YE",
         "iso:id":"AZ-YE",
         "qs_pg:id":128256,
         "wd:id":"Q458524",
         "wk:page":"Yevlakh District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f306a3a5792e16ff5e35cd052bba0330",
+    "wof:geomhash":"3b1ecb0d7c3f7b8d5fd2b26be634cbc8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -349,7 +351,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855726,
+    "wof:lastmodified":1695884853,
     "wof:name":"Yevlakh",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

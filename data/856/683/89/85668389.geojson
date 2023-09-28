@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122359,
-    "geom:area_square_m":1176947836.67676,
+    "geom:area_square_m":1176947438.561919,
     "geom:bbox":"48.516196,38.599124,49.211395,39.296086",
     "geom:latitude":38.931488,
     "geom:longitude":48.844669,
@@ -268,14 +268,16 @@
         "fips:code":"AJ29",
         "gp:id":20070263,
         "hasc:id":"AZ.LN",
+        "iso:code":"AZ-LAN",
         "iso:id":"AZ-LAN",
         "qs_pg:id":245193
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0cde4f2c77bff904627c5bcb89f3c3ae",
+    "wof:geomhash":"9dd49595fd657eaf38cd09c652c6ce39",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -291,7 +293,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1636497571,
+    "wof:lastmodified":1695884854,
     "wof:name":"Lankaran",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",

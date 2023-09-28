@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109147,
-    "geom:area_square_m":1009878374.035641,
+    "geom:area_square_m":1009877689.625619,
     "geom:bbox":"48.532563,41.351025,49.076479,41.847914",
     "geom:latitude":41.559399,
     "geom:longitude":48.779571,
@@ -308,17 +308,19 @@
         "gn:id":586001,
         "gp:id":20070221,
         "hasc:id":"AZ.XZ",
+        "iso:code":"AZ-XAC",
         "iso:id":"AZ-XAC",
         "qs_pg:id":500534,
         "unlc:id":"AZ-XAC",
         "wd:id":"Q6398826",
         "wk:page":"Khachmaz District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d7d68f487455cdb2a8a8c7a891cd88ab",
+    "wof:geomhash":"66b845f27f4d30e633df988cb8fdd024",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -334,7 +336,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855731,
+    "wof:lastmodified":1695884357,
     "wof:name":"Xa\u00e7maz",
     "wof:parent_id":1108808623,
     "wof:placetype":"region",

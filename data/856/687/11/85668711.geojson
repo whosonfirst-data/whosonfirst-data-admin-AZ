@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000767,
-    "geom:area_square_m":7288478.520176,
+    "geom:area_square_m":7288553.741715,
     "geom:bbox":"46.732998,39.745133,46.776931,39.771823",
     "geom:latitude":39.757705,
     "geom:longitude":46.751358,
@@ -296,15 +296,17 @@
         "gn:id":409419,
         "gp:id":20070264,
         "hasc:id":"AZ.SS",
+        "iso:code":"AZ-SUS",
         "qs_pg:id":500533,
         "wd:id":"Q158903",
         "wk:page":"Shusha"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"559a50768a4be85dd8f85b23cf6b426a",
+    "wof:geomhash":"bedd7ca80486f7b96fc2bfab26073d84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -320,7 +322,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855726,
+    "wof:lastmodified":1695884481,
     "wof:name":"\u015eu\u015fa",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

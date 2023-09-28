@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.160045,
-    "geom:area_square_m":1502074960.370348,
+    "geom:area_square_m":1502074737.762875,
     "geom:bbox":"48.449835,40.242841,48.886165,40.971141",
     "geom:latitude":40.622502,
     "geom:longitude":48.662325,
@@ -143,15 +143,17 @@
         "gn:id":585030,
         "gp:id":20070270,
         "hasc:id":"AZ.SI",
+        "iso:code":"AZ-SMI",
         "iso:id":"AZ-SMI",
         "qs_pg:id":245209,
         "unlc:id":"AZ-SMI"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"01ca4b1f51b0d8371b0b82e97332c72f",
+    "wof:geomhash":"c84fc9b3283484fced9612c6c35d019a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -167,7 +169,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521584,
+    "wof:lastmodified":1695884738,
     "wof:name":"\u015eamax\u0131",
     "wof:parent_id":1108808611,
     "wof:placetype":"region",

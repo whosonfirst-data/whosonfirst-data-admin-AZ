@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071001,
-    "geom:area_square_m":660982604.095414,
+    "geom:area_square_m":660982332.101494,
     "geom:bbox":"44.959678,40.976767,45.37757,41.349161",
     "geom:latitude":41.159919,
     "geom:longitude":45.205472,
@@ -327,17 +327,19 @@
         "gn:id":586087,
         "gp:id":20070267,
         "hasc:id":"AZ.QZ",
+        "iso:code":"AZ-QAZ",
         "iso:id":"AZ-QAZ",
         "qs_pg:id":500536,
         "unlc:id":"AZ-QAZ",
         "wd:id":"Q389381",
         "wk:page":"Qazakh District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dc75132ecc02f38b890186aebd0ff282",
+    "wof:geomhash":"d7c8dd8f2b8499b8137499ae211f3ef4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -353,7 +355,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855729,
+    "wof:lastmodified":1695884854,
     "wof:name":"Qazax",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

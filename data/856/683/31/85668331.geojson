@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147671,
-    "geom:area_square_m":1414436844.138234,
+    "geom:area_square_m":1414436825.175012,
     "geom:bbox":"48.134964,39.019571,48.72817,39.446025",
     "geom:latitude":39.229587,
     "geom:longitude":48.452211,
@@ -301,15 +301,17 @@
         "gn:id":148155,
         "gp:id":20070223,
         "hasc:id":"AZ.CL",
+        "iso:code":"AZ-CAL",
         "iso:id":"AZ-CAL",
         "qs_pg:id":1172843,
         "wd:id":"Q1020627"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"32e5b3910e853238590e15920b26a751",
+    "wof:geomhash":"da5621d944894bf0021e71d748aaff37",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -325,7 +327,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855736,
+    "wof:lastmodified":1695884481,
     "wof:name":"C\u0259lilabad",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",

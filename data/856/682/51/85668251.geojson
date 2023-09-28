@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.207161,
-    "geom:area_square_m":1952165975.431476,
+    "geom:area_square_m":1952166095.187238,
     "geom:bbox":"48.877158,39.990872,49.933734,40.686626",
     "geom:latitude":40.350883,
     "geom:longitude":49.348949,
@@ -332,17 +332,19 @@
         "gn:id":587245,
         "gp:id":20070283,
         "hasc:id":"AZ.AR",
+        "iso:code":"AZ-ABS",
         "iso:id":"AZ-ABS",
         "qs_pg:id":348996,
         "unlc:id":"AZ-ABS",
         "wd:id":"Q179538",
         "wk:page":"Absheron District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"562a4ec4e597606ab60b1fb7964c1ed9",
+    "wof:geomhash":"5bc443ca373375627e5acd81f865271c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -358,7 +360,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855727,
+    "wof:lastmodified":1695884357,
     "wof:name":"Ab\u015feron",
     "wof:parent_id":1108808621,
     "wof:placetype":"region",

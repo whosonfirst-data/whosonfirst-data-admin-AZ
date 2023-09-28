@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072376,
-    "geom:area_square_m":694665070.929124,
+    "geom:area_square_m":694664976.389456,
     "geom:bbox":"46.427856,38.848834,46.887335,39.243301",
     "geom:latitude":39.085067,
     "geom:longitude":46.644829,
@@ -272,15 +272,17 @@
         "gn:id":146900,
         "gp:id":20070255,
         "hasc:id":"AZ.ZG",
+        "iso:code":"AZ-ZAN",
         "iso:id":"AZ-ZAN",
         "qs_pg:id":128257,
         "wd:id":"Q249226"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8a1faa49b803b3a3dccb94494d1bcaa8",
+    "wof:geomhash":"79cf631c3201da94e3fd9c3956e6729a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -296,7 +298,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855723,
+    "wof:lastmodified":1695885138,
     "wof:name":"Z\u0259ngilan",
     "wof:parent_id":1108808607,
     "wof:placetype":"region",

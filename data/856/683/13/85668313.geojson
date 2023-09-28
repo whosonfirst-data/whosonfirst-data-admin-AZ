@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1152,
-    "geom:area_square_m":1094150440.783592,
+    "geom:area_square_m":1094150216.173356,
     "geom:bbox":"47.441022,39.570044,47.927076,40.137168",
     "geom:latitude":39.815496,
     "geom:longitude":47.683889,
@@ -142,14 +142,16 @@
         "gn:id":146879,
         "gp:id":20070257,
         "hasc:id":"AZ.BQ",
+        "iso:code":"AZ-BEY",
         "iso:id":"AZ-BEY",
         "qs_pg:id":128258
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a0acfdeb075d0e27b9ba6ace4bc75697",
+    "wof:geomhash":"9cdb9dabd25d6487c5f18cbb7434a1b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -165,7 +167,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521582,
+    "wof:lastmodified":1695884737,
     "wof:name":"Beyl\u0259qan",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

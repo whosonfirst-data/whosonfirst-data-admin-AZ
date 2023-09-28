@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.249012,
-    "geom:area_square_m":2320224269.14728,
+    "geom:area_square_m":2320223936.728558,
     "geom:bbox":"46.817994,40.777806,47.61966,41.466609",
     "geom:latitude":41.101496,
     "geom:longitude":47.164898,
@@ -84,14 +84,16 @@
         "fips:code":"AJ47",
         "gp:id":20070246,
         "hasc:id":"AZ.SK",
+        "iso:code":"AZ-SAK",
         "iso:id":"AZ-SAK",
         "qs_pg:id":32219
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"373cd2bf729bdcf93fcaa0e6b70902cc",
+    "wof:geomhash":"d50adf1e05606ac29cfc2036532a9462",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +109,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521584,
+    "wof:lastmodified":1695884738,
     "wof:name":"\u015e\u0259ki",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",

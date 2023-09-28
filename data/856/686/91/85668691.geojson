@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003047,
-    "geom:area_square_m":28935321.315996,
+    "geom:area_square_m":28935321.315993,
     "geom:bbox":"46.7417594292,39.7912336734,46.8266486665,39.868359302",
     "geom:latitude":39.827751,
     "geom:longitude":46.783288,
@@ -371,14 +371,16 @@
         "gn:id":148449,
         "gp:id":20070276,
         "hasc:id":"AZ.XA",
+        "iso:code":"AZ-XA",
         "iso:id":"AZ-XA",
         "qs_pg:id":245328
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9eac1e6d4a18bcee948c136ec065a568",
+    "wof:geomhash":"0268d543ca96caa145b5c51926150f0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -394,7 +396,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1582332203,
+    "wof:lastmodified":1695884357,
     "wof:name":"Stepanakert",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

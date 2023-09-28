@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072806,
-    "geom:area_square_m":683768732.176829,
+    "geom:area_square_m":683768885.595378,
     "geom:bbox":"47.607247,40.458199,48.086118,40.689957",
     "geom:latitude":40.578155,
     "geom:longitude":47.856951,
@@ -309,17 +309,19 @@
         "gn:id":586482,
         "gp:id":20070226,
         "hasc:id":"AZ.GY",
+        "iso:code":"AZ-GOY",
         "iso:id":"AZ-GOY",
         "qs_pg:id":500535,
         "unlc:id":"AZ-GOY",
         "wd:id":"Q477163",
         "wk:page":"Goychay District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd733a762d4a0a1d9fd84e5eb07ddf7e",
+    "wof:geomhash":"3033ffdc066b1b2af72afc9f543d6c54",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -335,7 +337,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855735,
+    "wof:lastmodified":1695884358,
     "wof:name":"G\u00f6y\u00e7ay",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

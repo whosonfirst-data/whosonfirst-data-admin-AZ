@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016486,
-    "geom:area_square_m":154342545.620556,
+    "geom:area_square_m":154342569.172492,
     "geom:bbox":"46.898919,40.729558,47.096863,40.861972",
     "geom:latitude":40.789536,
     "geom:longitude":46.996258,
@@ -142,14 +142,16 @@
         "gn:id":828299,
         "gp:id":20070240,
         "hasc:id":"AZ.MI",
+        "iso:code":"AZ-MI",
         "iso:id":"AZ-MI",
         "qs_pg:id":1015437
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"adeb739d8067130bd86370315e013e03",
+    "wof:geomhash":"1f2fa818382227d4ac3b2d04b55f75ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -165,7 +167,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521583,
+    "wof:lastmodified":1695884737,
     "wof:name":"Ming\u0259\u00e7evir",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

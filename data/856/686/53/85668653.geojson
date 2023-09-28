@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13562,
-    "geom:area_square_m":1279040771.133141,
+    "geom:area_square_m":1279040974.533582,
     "geom:bbox":"46.497293,40.106687,47.106029,40.502876",
     "geom:latitude":40.296364,
     "geom:longitude":46.808218,
@@ -142,14 +142,16 @@
         "gn:id":409420,
         "gp:id":20070274,
         "hasc:id":"AZ.TA",
+        "iso:code":"AZ-TAR",
         "iso:id":"AZ-TAR",
         "qs_pg:id":245265
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"51b57df78c9c570fdc8f22a91dfaae5f",
+    "wof:geomhash":"a2768cc67e1de8c7ad2e73e65cff8bbb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -165,7 +167,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521584,
+    "wof:lastmodified":1695884738,
     "wof:name":"T\u0259rt\u0259r",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115799,
-    "geom:area_square_m":1096149600.878602,
+    "geom:area_square_m":1096149409.297554,
     "geom:bbox":"46.641851,39.827966,47.284454,40.24184",
     "geom:latitude":40.045379,
     "geom:longitude":46.981462,
@@ -340,17 +340,19 @@
         "gn:id":148617,
         "gp:id":20070258,
         "hasc:id":"AZ.AM",
+        "iso:code":"AZ-AGM",
         "iso:id":"AZ-AGM",
         "qs_pg:id":1189260,
         "unlc:id":"AZ-AGM",
         "wd:id":"Q201647",
         "wk:page":"Agdam District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9be8b8806e6518563d2b5953f23f03a7",
+    "wof:geomhash":"f56b4ad0b1b60a671a11ea3421351f31",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -366,7 +368,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855727,
+    "wof:lastmodified":1695884357,
     "wof:name":"A\u011fdam",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

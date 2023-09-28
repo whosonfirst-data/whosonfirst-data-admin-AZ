@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000478,
-    "geom:area_square_m":4493273.739388,
+    "geom:area_square_m":4493308.779357,
     "geom:bbox":"46.811611,40.495618,46.840887,40.520158",
     "geom:latitude":40.506645,
     "geom:longitude":46.82702,
@@ -269,17 +269,19 @@
         "gn:id":586112,
         "gp:id":20070261,
         "hasc:id":"AZ.NA",
+        "iso:code":"AZ-NA",
         "iso:id":"AZ-NA",
         "qs_pg:id":49485,
         "unlc:id":"AZ-NA",
         "wd:id":"Q330843",
         "wk:page":"Goranboy District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"de0087f4ddd172e31c44a167c74b9f66",
+    "wof:geomhash":"46ad76a92775422615311e48c7d90539",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -295,7 +297,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855724,
+    "wof:lastmodified":1695884853,
     "wof:name":"Naftalan",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

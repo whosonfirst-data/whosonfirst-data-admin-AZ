@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140194,
-    "geom:area_square_m":1337059427.467663,
+    "geom:area_square_m":1337060377.541959,
     "geom:bbox":"47.988892,39.328343,48.768792,39.729523",
     "geom:latitude":39.529687,
     "geom:longitude":48.465031,
@@ -217,14 +217,16 @@
         "gn:id":147310,
         "gp:id":20070242,
         "hasc:id":"AZ.BS",
+        "iso:code":"AZ-BIL",
         "iso:id":"AZ-BIL",
         "qs_pg:id":1092313
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"63ec4de3b0a5bafc1875cb1980dcb04f",
+    "wof:geomhash":"f6915233efa5b24f72411c708cbe5dac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -240,7 +242,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521582,
+    "wof:lastmodified":1695884737,
     "wof:name":"Bil\u0259suvar",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

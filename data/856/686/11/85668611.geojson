@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157386,
-    "geom:area_square_m":1498037135.369887,
+    "geom:area_square_m":1498037073.651101,
     "geom:bbox":"46.684992,39.395641,47.349896,39.897906",
     "geom:latitude":39.667674,
     "geom:longitude":47.004931,
@@ -152,14 +152,16 @@
         "gn:id":409423,
         "gp:id":20070259,
         "hasc:id":"AZ.XD",
+        "iso:code":"AZ-XVD",
         "iso:id":"AZ-XVD",
         "qs_pg:id":59492
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"168db51c22a4119d45192cb79f3b77ff",
+    "wof:geomhash":"ee9ed7b9bcd3120d9f61a55aeaa2d345",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -175,7 +177,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521583,
+    "wof:lastmodified":1695884737,
     "wof:name":"Xocav\u0259nd",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

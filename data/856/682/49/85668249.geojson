@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.231941,
-    "geom:area_square_m":2187082046.979884,
+    "geom:area_square_m":2187083204.976621,
     "geom:bbox":"49.296212,39.613666,50.619649,40.598272",
     "geom:latitude":40.307073,
     "geom:longitude":49.773181,
@@ -776,17 +776,19 @@
         "gn:id":587081,
         "gp:id":20070218,
         "hasc:id":"AZ.BA",
+        "iso:code":"AZ-BA",
         "iso:id":"AZ-BA",
         "qs_pg:id":219914,
         "unlc:id":"AZ-BA",
         "wd:id":"Q9248",
         "wk:page":"Baku"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"179483fec530259ad9f55b0dfaa1619f",
+    "wof:geomhash":"48653c1c73de5c80baea7d691c8fbf7f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -802,7 +804,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855731,
+    "wof:lastmodified":1695884357,
     "wof:name":"Bak\u0131",
     "wof:parent_id":1108808621,
     "wof:placetype":"region",

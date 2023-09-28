@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.182093,
-    "geom:area_square_m":1710542080.314952,
+    "geom:area_square_m":1710542068.849535,
     "geom:bbox":"46.333116,40.270779,47.001833,40.9251",
     "geom:latitude":40.562553,
     "geom:longitude":46.648728,
@@ -258,16 +258,18 @@
         "gn:id":586112,
         "gp:id":20070261,
         "hasc:id":"AZ.GR",
+        "iso:code":"AZ-GOR",
         "iso:id":"AZ-GOR",
         "qs_pg:id":49485,
         "wd:id":"Q330843",
         "wk:page":"Goranboy District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ea959f18325af75b15eb0c556c8aa288",
+    "wof:geomhash":"83f1869c3762761913b849fb5f4bf1b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -283,7 +285,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855730,
+    "wof:lastmodified":1695884854,
     "wof:name":"Goranboy",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

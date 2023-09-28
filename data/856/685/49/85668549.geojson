@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116362,
-    "geom:area_square_m":1084799464.993237,
+    "geom:area_square_m":1084799256.162304,
     "geom:bbox":"47.293386,40.829581,47.739121,41.268733",
     "geom:latitude":41.066815,
     "geom:longitude":47.517911,
@@ -319,17 +319,19 @@
         "gn:id":584742,
         "gp:id":20070250,
         "hasc:id":"AZ.OG",
+        "iso:code":"AZ-OGU",
         "iso:id":"AZ-OGU",
         "qs_pg:id":550099,
         "unlc:id":"AZ-OGU",
         "wd:id":"Q643989",
         "wk:page":"Oghuz District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b4ad289f3adc82d234ebd935c900f323",
+    "wof:geomhash":"05d7da042188a53e94ea94fff8637978",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -345,7 +347,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855732,
+    "wof:lastmodified":1695884357,
     "wof:name":"O\u011fuz",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",
