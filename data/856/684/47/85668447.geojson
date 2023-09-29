@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.163454,
-    "geom:area_square_m":1550469920.214355,
+    "geom:area_square_m":1550470206.222352,
     "geom:bbox":"48.244507,39.606106,48.975512,40.175545",
     "geom:latitude":39.903407,
     "geom:longitude":48.683122,
@@ -249,16 +249,18 @@
         "gn:id":147284,
         "gp:id":20070281,
         "hasc:id":"AZ.SB",
+        "iso:code":"AZ-SAB",
         "iso:id":"AZ-SAB",
         "qs_pg:id":49487,
         "wd:id":"Q382132",
         "wk:page":"Sabirabad District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"58b3551126aac485732c36c3b53b8aae",
+    "wof:geomhash":"7ed066651835a806b2d3d9aa02d97df3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -274,7 +276,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855734,
+    "wof:lastmodified":1695884854,
     "wof:name":"Sabirabad",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

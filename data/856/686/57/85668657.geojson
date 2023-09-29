@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095897,
-    "geom:area_square_m":909950343.35684,
+    "geom:area_square_m":909950368.786972,
     "geom:bbox":"46.457111,39.655938,46.948759,40.030579",
     "geom:latitude":39.880216,
     "geom:longitude":46.717395,
@@ -155,15 +155,17 @@
         "gn:id":409421,
         "gp:id":20070277,
         "hasc:id":"AZ.XC",
+        "iso:code":"AZ-XCI",
         "iso:id":"AZ-XCI",
         "qs_pg:id":1013385,
         "unlc:id":"AZ-XCI"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c0d69ecc39f4045f77e68aea87cb79b8",
+    "wof:geomhash":"3d3374adff13c7353836206bfd97bbc0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +181,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521583,
+    "wof:lastmodified":1695884737,
     "wof:name":"Xocal\u0131",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085787,
-    "geom:area_square_m":821614822.780355,
+    "geom:area_square_m":821614944.172458,
     "geom:bbox":"45.278275,38.96227,45.608607,39.534099",
     "geom:latitude":39.2365,
     "geom:longitude":45.436711,
@@ -169,14 +169,16 @@
         "gn:id":7669114,
         "gp:id":24550722,
         "hasc:id":"AZ.BK",
+        "iso:code":"AZ-BAB",
         "iso:id":"AZ-BAB",
         "qs_pg:id":1191260
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cef3f3313971e80bc0c2087a91c56b1f",
+    "wof:geomhash":"1fca68844a44d0608ae64227bb041835",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -192,7 +194,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521582,
+    "wof:lastmodified":1695884737,
     "wof:name":"Bab\u0259k",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

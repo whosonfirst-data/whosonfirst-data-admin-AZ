@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.226446,
-    "geom:area_square_m":2119113621.140129,
+    "geom:area_square_m":2119113769.879751,
     "geom:bbox":"47.77389,40.52877,48.561392,41.099088",
     "geom:latitude":40.815704,
     "geom:longitude":48.188593,
@@ -252,16 +252,18 @@
         "gn:id":586320,
         "gp:id":20070228,
         "hasc:id":"AZ.IS",
+        "iso:code":"AZ-ISM",
         "iso:id":"AZ-ISM",
         "qs_pg:id":211805,
         "unlc:id":"AZ-ISM",
         "wd:id":"Q2148072"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"28fc90885a0c98b1c96c07e61d0009dd",
+    "wof:geomhash":"2903d18f9270fd273bd60fb56e96cfc5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -277,7 +279,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855735,
+    "wof:lastmodified":1695884481,
     "wof:name":"\u0130smay\u0131ll\u0131",
     "wof:parent_id":1108808611,
     "wof:placetype":"region",

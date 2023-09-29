@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.192584,
-    "geom:area_square_m":1803845591.775339,
+    "geom:area_square_m":1803845588.800286,
     "geom:bbox":"48.800114,40.518029,49.569391,41.000461",
     "geom:latitude":40.756359,
     "geom:longitude":49.20992,
@@ -143,15 +143,17 @@
         "gn:id":828306,
         "gp:id":20070271,
         "hasc:id":"AZ.XI",
+        "iso:code":"AZ-XIZ",
         "iso:id":"AZ-XIZ",
         "qs_pg:id":1013205,
         "unlc:id":"AZ-XIZ"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fc345715603cfd0e14da7c22a5780302",
+    "wof:geomhash":"6f1b630217bc32fe61c7b123efee492f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -167,7 +169,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521584,
+    "wof:lastmodified":1695884738,
     "wof:name":"Xiz\u0131",
     "wof:parent_id":1108808621,
     "wof:placetype":"region",

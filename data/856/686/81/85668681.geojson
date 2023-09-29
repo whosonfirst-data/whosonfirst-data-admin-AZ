@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003638,
-    "geom:area_square_m":34855682.754946,
+    "geom:area_square_m":34855328.450731,
     "geom:bbox":"45.346594,39.162941,45.443105,39.243108",
     "geom:latitude":39.206338,
     "geom:longitude":45.408172,
@@ -347,16 +347,18 @@
         "gn:id":147435,
         "gp:id":20070275,
         "hasc:id":"AZ.NX",
+        "iso:code":"AZ-NV",
         "iso:id":"AZ-NV",
         "qs_pg:id":202015,
         "wd:id":"Q131083",
         "wk:page":"Nakhchivan Autonomous Republic"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7f7789ecc522d93eccd35eac63f5d6fe",
+    "wof:geomhash":"a63ff39267ac2f8e2505976c27b511b3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -372,7 +374,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855724,
+    "wof:lastmodified":1695884357,
     "wof:name":"Nax\u00e7\u0131van",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

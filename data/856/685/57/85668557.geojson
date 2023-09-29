@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151805,
-    "geom:area_square_m":1409999523.110991,
+    "geom:area_square_m":1410000145.556671,
     "geom:bbox":"46.634342,40.923715,47.195094,41.585723",
     "geom:latitude":41.308754,
     "geom:longitude":46.867851,
@@ -146,15 +146,17 @@
         "gn:id":586290,
         "gp:id":20070229,
         "hasc:id":"AZ.QX",
+        "iso:code":"AZ-QAX",
         "iso:id":"AZ-QAX",
         "qs_pg:id":1014923,
         "unlc:id":"AZ-QAX"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d005722d3caf45342c8233d29b42e134",
+    "wof:geomhash":"5837a36e62f117e86dc5ce20026b39b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -170,7 +172,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1636497570,
+    "wof:lastmodified":1695884854,
     "wof:name":"Qax",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",

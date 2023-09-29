@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095954,
-    "geom:area_square_m":885514570.849837,
+    "geom:area_square_m":885514421.32073,
     "geom:bbox":"46.197923,41.555236,46.744224,41.90861",
     "geom:latitude":41.726072,
     "geom:longitude":46.436387,
@@ -270,15 +270,17 @@
         "gn:id":587010,
         "gp:id":20070220,
         "hasc:id":"AZ.BL",
+        "iso:code":"AZ-BAL",
         "iso:id":"AZ-BAL",
         "qs_pg:id":212788,
         "wd:id":"Q1989793"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"68b97ca6d59ba086fa0ad36bcff05d13",
+    "wof:geomhash":"ece0e891a369c34e356c21d6cef2ad00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -294,7 +296,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855731,
+    "wof:lastmodified":1695884481,
     "wof:name":"Balak\u0259n",
     "wof:parent_id":1108808619,
     "wof:placetype":"region",

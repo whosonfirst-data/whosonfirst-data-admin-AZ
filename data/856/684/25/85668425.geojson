@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079624,
-    "geom:area_square_m":742747180.965374,
+    "geom:area_square_m":742747197.854389,
     "geom:bbox":"48.874628,40.874344,49.368074,41.21774",
     "geom:latitude":41.027784,
     "geom:longitude":49.101246,
@@ -220,14 +220,16 @@
         "gn:id":828304,
         "gp:id":20070278,
         "hasc:id":"AZ.SY",
+        "iso:code":"AZ-SIY",
         "iso:id":"AZ-SIY",
         "qs_pg:id":270754
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0b6a7dab25639c5d003210654a749f56",
+    "wof:geomhash":"68e2d0028bdca301e69189da01fcc712",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -243,7 +245,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1614892864,
+    "wof:lastmodified":1695884481,
     "wof:name":"Siy\u0259z\u0259n",
     "wof:parent_id":1108808623,
     "wof:placetype":"region",

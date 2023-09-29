@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071146,
-    "geom:area_square_m":684677286.649605,
+    "geom:area_square_m":684677553.111968,
     "geom:bbox":"48.007027,38.7286,48.535041,39.079239",
     "geom:latitude":38.896756,
     "geom:longitude":48.243097,
@@ -206,15 +206,17 @@
         "gn:id":146962,
         "gp:id":20070251,
         "hasc:id":"AZ.YR",
+        "iso:code":"AZ-YAR",
         "iso:id":"AZ-YAR",
         "qs_pg:id":1172849,
         "unlc:id":"AZ-YAR"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"29147e4802ead0af3c91f5330980179a",
+    "wof:geomhash":"2114f494494d13c1bfefb831bb8b5b35",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -230,7 +232,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521585,
+    "wof:lastmodified":1695884738,
     "wof:name":"Yard\u0131ml\u0131",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",

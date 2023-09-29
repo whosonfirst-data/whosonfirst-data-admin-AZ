@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.164623,
-    "geom:area_square_m":1574246025.746427,
+    "geom:area_square_m":1574245544.954076,
     "geom:bbox":"48.695491,38.957116,49.449513,39.60662",
     "geom:latitude":39.343413,
     "geom:longitude":49.047594,
@@ -306,17 +306,19 @@
         "gn:id":147422,
         "gp:id":20070241,
         "hasc:id":"AZ.NE",
+        "iso:code":"AZ-NEF",
         "iso:id":"AZ-NEF",
         "qs_pg:id":49481,
         "unlc:id":"AZ-NEF",
         "wd:id":"Q688633",
         "wk:page":"Neftchala District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"17e26a76a6ea353c0250a7daf0686117",
+    "wof:geomhash":"04de376719adee639a88c3a158bbf72b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -332,7 +334,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855734,
+    "wof:lastmodified":1695884358,
     "wof:name":"Neft\u00e7ala",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

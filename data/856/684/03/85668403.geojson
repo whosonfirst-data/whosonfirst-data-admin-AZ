@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104119,
-    "geom:area_square_m":1004227330.317941,
+    "geom:area_square_m":1004227882.105737,
     "geom:bbox":"48.226342,38.542135,48.670022,38.958966",
     "geom:latitude":38.738286,
     "geom:longitude":48.444023,
@@ -308,17 +308,19 @@
         "gn:id":147610,
         "gp:id":20070238,
         "hasc:id":"AZ.LE",
+        "iso:code":"AZ-LER",
         "iso:id":"AZ-LER",
         "qs_pg:id":952215,
         "unlc:id":"AZ-LER",
         "wd:id":"Q688626",
         "wk:page":"Lerik District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"53b10b25e404c57e0b498dea8654b6ca",
+    "wof:geomhash":"a2919d8cddc30d4d2cc0f7e56715dbf0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -334,7 +336,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855733,
+    "wof:lastmodified":1695884854,
     "wof:name":"Lerik",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",

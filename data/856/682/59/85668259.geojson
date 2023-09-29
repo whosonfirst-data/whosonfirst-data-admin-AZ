@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115049,
-    "geom:area_square_m":1080213151.465434,
+    "geom:area_square_m":1080213195.208692,
     "geom:bbox":"47.209214,40.319813,47.633369,40.7985",
     "geom:latitude":40.595337,
     "geom:longitude":47.413785,
@@ -315,17 +315,19 @@
         "gn:id":587376,
         "gp:id":20070213,
         "hasc:id":"AZ.AS",
+        "iso:code":"AZ-AGS",
         "iso:id":"AZ-AGS",
         "qs_pg:id":202010,
         "unlc:id":"AZ-AGS",
         "wd:id":"Q275784",
         "wk:page":"Agdash District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"272349f3c1a2b78c32926bf98dc483da",
+    "wof:geomhash":"1ef99badade5a792d976782715721be1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -341,7 +343,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855727,
+    "wof:lastmodified":1695884357,
     "wof:name":"A\u011fda\u015f",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

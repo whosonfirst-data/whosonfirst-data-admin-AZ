@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140905,
-    "geom:area_square_m":1342769667.196221,
+    "geom:area_square_m":1342769899.329226,
     "geom:bbox":"47.03014,39.389377,47.664217,39.772007",
     "geom:latitude":39.58507,
     "geom:longitude":47.341142,
@@ -325,17 +325,19 @@
         "gn:id":148107,
         "gp:id":20070225,
         "hasc:id":"AZ.FU",
+        "iso:code":"AZ-FUZ",
         "iso:id":"AZ-FUZ",
         "qs_pg:id":202011,
         "unlc:id":"AZ-FUZ",
         "wd:id":"Q331687",
         "wk:page":"Fuzuli District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a676fba6f4035a965c91f2e41c8277bf",
+    "wof:geomhash":"15c21ba62a1342b4505e642ed4e1f3f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -351,7 +353,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855735,
+    "wof:lastmodified":1695884358,
     "wof:name":"F\u00fczuli",
     "wof:parent_id":1108808615,
     "wof:placetype":"region",

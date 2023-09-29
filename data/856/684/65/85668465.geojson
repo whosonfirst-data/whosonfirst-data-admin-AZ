@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010257,
-    "geom:area_square_m":96282646.491705,
+    "geom:area_square_m":96282466.614396,
     "geom:bbox":"49.487927,40.537077,49.74227,40.742762",
     "geom:latitude":40.610876,
     "geom:longitude":49.628761,
@@ -413,17 +413,19 @@
         "gn:id":828305,
         "gp:id":20070247,
         "hasc:id":"AZ.SQ",
+        "iso:code":"AZ-SM",
         "iso:id":"AZ-SM",
         "qs_pg:id":1189262,
         "unlc:id":"AZ-SM",
         "wd:id":"Q179833",
         "wk:page":"Sumqayit"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6ad0914c8b055eb7634829753531a84d",
+    "wof:geomhash":"0c761e1972ffd5b84a15425d3a21696d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -439,7 +441,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855734,
+    "wof:lastmodified":1695884358,
     "wof:name":"Sumqay\u0131t",
     "wof:parent_id":1108808621,
     "wof:placetype":"region",

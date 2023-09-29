@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.292068,
-    "geom:area_square_m":2763406113.93819,
+    "geom:area_square_m":2763405798.034872,
     "geom:bbox":"45.601652,39.791715,46.735946,40.31851",
     "geom:latitude":40.077454,
     "geom:longitude":46.192142,
@@ -150,14 +150,16 @@
         "gn:id":586047,
         "gp:id":20070273,
         "hasc:id":"AZ.KA",
+        "iso:code":"AZ-KAL",
         "iso:id":"AZ-KAL",
         "qs_pg:id":245251
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"15865a403f3ed6aafd504827ca81e271",
+    "wof:geomhash":"0dec5d44639cdea68634693897548767",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,7 +175,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521583,
+    "wof:lastmodified":1695884737,
     "wof:name":"K\u0259lb\u0259c\u0259r",
     "wof:parent_id":1108808607,
     "wof:placetype":"region",

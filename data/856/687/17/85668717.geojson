@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068426,
-    "geom:area_square_m":654040522.429201,
+    "geom:area_square_m":654041243.394847,
     "geom:bbox":"45.042228,39.182957,45.350127,39.557568",
     "geom:latitude":39.375023,
     "geom:longitude":45.21353,
@@ -92,14 +92,16 @@
         "fips:code":"AJ74",
         "gp:id":24550720,
         "hasc:id":"AZ.KG",
+        "iso:code":"AZ-KAN",
         "iso:id":"AZ-KAN",
         "qs_pg:id":1237266
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cb2f791899819c93dbf4323612eb9ee6",
+    "wof:geomhash":"d445f3904785d5d80c39ecf5534a4936",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -115,7 +117,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1636497568,
+    "wof:lastmodified":1695884853,
     "wof:name":"Kangarli",
     "wof:parent_id":1108808617,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.193311,
-    "geom:area_square_m":1828156817.03431,
+    "geom:area_square_m":1828157135.085705,
     "geom:bbox":"48.473566,39.830329,49.359946,40.36137",
     "geom:latitude":40.109326,
     "geom:longitude":48.919929,
@@ -149,15 +149,17 @@
         "gn:id":828315,
         "gp:id":20070282,
         "hasc:id":"AZ.HA",
+        "iso:code":"AZ-HAC",
         "iso:id":"AZ-HAC",
         "qs_pg:id":245892,
         "unlc:id":"AZ-HAC"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f4362fe1273a78618ab401922a14b9f8",
+    "wof:geomhash":"6e94cc0d1903a2c64a240b779c3bc410",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,7 +175,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1636497568,
+    "wof:lastmodified":1695884853,
     "wof:name":"Hajigabul",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081321,
-    "geom:area_square_m":781308819.8924,
+    "geom:area_square_m":781308761.824118,
     "geom:bbox":"48.446385,38.856272,48.86985,39.203788",
     "geom:latitude":39.013289,
     "geom:longitude":48.682449,
@@ -260,16 +260,18 @@
         "gn:id":147551,
         "gp:id":20070239,
         "hasc:id":"AZ.MA",
+        "iso:code":"AZ-MAS",
         "iso:id":"AZ-MAS",
         "qs_pg:id":1092312,
         "unlc:id":"AZ-MAS",
         "wd:id":"Q512116"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5e63902931fa6d9e5b8c2a9486e71b61",
+    "wof:geomhash":"f19ef51f60c857c28de5a644840b2274",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -285,7 +287,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855736,
+    "wof:lastmodified":1695884481,
     "wof:name":"Masall\u0131",
     "wof:parent_id":1108808625,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10366,
-    "geom:area_square_m":974162145.658965,
+    "geom:area_square_m":974162235.517194,
     "geom:bbox":"46.145179,40.290636,46.524467,40.787193",
     "geom:latitude":40.535034,
     "geom:longitude":46.324337,
@@ -291,16 +291,18 @@
         "gn:id":585967,
         "gp:id":20070268,
         "hasc:id":"AZ.XR",
+        "iso:code":"AZ-GYG",
         "iso:id":"AZ-GYG",
         "qs_pg:id":500537,
         "wd:id":"Q388087",
         "wk:page":"Goygol District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"912e9f45505f277e0f644d6a0fdf395c",
+    "wof:geomhash":"7e203f0920430d50e8c67299660b7208",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -316,7 +318,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855728,
+    "wof:lastmodified":1695884853,
     "wof:name":"Xanlar",
     "wof:parent_id":1108808609,
     "wof:placetype":"region",

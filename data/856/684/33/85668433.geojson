@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119699,
-    "geom:area_square_m":1136489287.521554,
+    "geom:area_square_m":1136489246.650269,
     "geom:bbox":"48.22353,39.654479,48.709906,40.035021",
     "geom:latitude":39.838863,
     "geom:longitude":48.461136,
@@ -156,15 +156,17 @@
         "gn:id":147287,
         "gp:id":20070243,
         "hasc:id":"AZ.ST",
+        "iso:code":"AZ-SAT",
         "iso:id":"AZ-SAT",
         "qs_pg:id":211811,
         "unlc:id":"AZ-SAT"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ddd741a95c792773b78c77d33f3e228c",
+    "wof:geomhash":"06194381243aff6d2766bf1349eaa344",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -180,7 +182,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1627521584,
+    "wof:lastmodified":1695884737,
     "wof:name":"Saatl\u0131",
     "wof:parent_id":1108808627,
     "wof:placetype":"region",

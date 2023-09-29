@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085732,
-    "geom:area_square_m":819747872.712544,
+    "geom:area_square_m":819748033.61191,
     "geom:bbox":"46.381072,39.120703,46.824353,39.526391",
     "geom:latitude":39.350608,
     "geom:longitude":46.621814,
@@ -146,15 +146,17 @@
         "gn:id":147694,
         "gp:id":20070233,
         "hasc:id":"AZ.QD",
+        "iso:code":"AZ-QBI",
         "iso:id":"AZ-QBI",
         "qs_pg:id":1172848,
         "unlc:id":"AZ-QBI"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5b35d766edb66333875941ff1c4f421c",
+    "wof:geomhash":"811f7f550c26edcdb48143b6e63692f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -170,7 +172,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1636497566,
+    "wof:lastmodified":1695884853,
     "wof:name":"Qubadli",
     "wof:parent_id":1108808607,
     "wof:placetype":"region",

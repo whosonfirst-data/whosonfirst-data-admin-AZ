@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166305,
-    "geom:area_square_m":1541301201.403419,
+    "geom:area_square_m":1541300596.481266,
     "geom:bbox":"47.853507,41.180377,48.675844,41.741452",
     "geom:latitude":41.451295,
     "geom:longitude":48.28902,
@@ -320,17 +320,19 @@
         "gn:id":585749,
         "gp:id":20070234,
         "hasc:id":"AZ.QR",
+        "iso:code":"AZ-QUS",
         "iso:id":"AZ-QUS",
         "qs_pg:id":952227,
         "unlc:id":"AZ-QUS",
         "wd:id":"Q386506",
         "wk:page":"Qusar District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"618b9d1d7409457dfb7d3de1ea2d35e7",
+    "wof:geomhash":"509d7b4c6f46e9c9ed15944d52b21f8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -346,7 +348,7 @@
     "wof:lang_x_spoken":[
         "aze"
     ],
-    "wof:lastmodified":1690855732,
+    "wof:lastmodified":1695884854,
     "wof:name":"Qusar",
     "wof:parent_id":1108808623,
     "wof:placetype":"region",
