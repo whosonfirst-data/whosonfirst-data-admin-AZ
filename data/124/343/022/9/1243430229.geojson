@@ -11,6 +11,7 @@
     "geom:longitude":47.15924,
     "gn:admin1_code":"18",
     "gn:asciiname":"Dilagarda",
+    "gn:cc2":"AZ",
     "gn:country_code":"AZ",
     "gn:dem":289,
     "gn:feature_class":"P",
@@ -61,6 +62,11 @@
         "gn:id":147132,
         "wk:page":"Skobelevka"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            148196
+        ]
+    },
     "wof:country":"AZ",
     "wof:geomhash":"c64aa05f422113442e8b7ff48704383a",
     "wof:hierarchy":[
@@ -73,13 +79,15 @@
         }
     ],
     "wof:id":1243430229,
-    "wof:lastmodified":1566604046,
+    "wof:lastmodified":1706239319,
     "wof:name":"Dilagarda",
     "wof:parent_id":85668611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-az",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310381333
+    ],
     "wof:tags":[]
 },
   "bbox": [

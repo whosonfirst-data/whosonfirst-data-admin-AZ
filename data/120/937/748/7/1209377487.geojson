@@ -41,6 +41,10 @@
     "name:msa_x_preferred":[
         "Pirbulaq"
     ],
+    "name:und_x_variant":[
+        "Novaya Spasovka",
+        "Novospasovka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632717
@@ -49,6 +53,14 @@
     "wof:concordances":{
         "gn:id":824419,
         "wk:page":"Pirbulaq"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            585345
+        ],
+        "wk:page":[
+            "Novospasovka"
+        ]
     },
     "wof:country":"AZ",
     "wof:geomhash":"df796afbd4c414c5feb4dff36d846367",
@@ -59,13 +71,15 @@
         }
     ],
     "wof:id":1209377487,
-    "wof:lastmodified":1566603864,
+    "wof:lastmodified":1706239319,
     "wof:name":"Pirbulaq",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-az",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209377509
+    ],
     "wof:tags":[]
 },
   "bbox": [

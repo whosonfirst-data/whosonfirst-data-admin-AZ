@@ -11,6 +11,7 @@
     "geom:longitude":45.92727,
     "gn:admin1_code":"51",
     "gn:asciiname":"Bayramli",
+    "gn:cc2":"AZ",
     "gn:country_code":"AZ",
     "gn:dem":274,
     "gn:feature_class":"P",
@@ -44,6 +45,11 @@
     "wof:concordances":{
         "gn:id":585825
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            587019
+        ]
+    },
     "wof:country":"AZ",
     "wof:geomhash":"df620bedd929db2f945fdab635a54a50",
     "wof:hierarchy":[
@@ -53,13 +59,15 @@
         }
     ],
     "wof:id":1209449813,
-    "wof:lastmodified":1566603894,
+    "wof:lastmodified":1706239319,
     "wof:name":"Bayramli",
     "wof:parent_id":85632717,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-az",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226579483
+    ],
     "wof:tags":[]
 },
   "bbox": [
