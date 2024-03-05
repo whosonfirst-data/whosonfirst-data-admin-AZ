@@ -9,9 +9,21 @@
     "geom:bbox":"46.97556,40.62528,46.97556,40.62528",
     "geom:latitude":40.62528,
     "geom:longitude":46.97556,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Aran",
     "gn:country":"AZ",
+    "gn:country_code":"AZ",
+    "gn:dem":53,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":586705,
+    "gn:latitude":40.62461,
+    "gn:longitude":46.9776,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Aran",
     "gn:population":6724,
+    "gn:timezone":"Asia/Baku",
     "iso:country":"AZ",
     "lbl:bbox":"46.95556,40.60528,46.99556,40.64528",
     "lbl:latitude":40.62528,
@@ -82,6 +94,13 @@
     "name:swe_x_preferred":[
         "Aran"
     ],
+    "name:und_x_variant":[
+        "Aprelya",
+        "Dvadtsat\u2019 Vos\u2019moye Aprelya",
+        "Dvadtsat\u2019 Vos\u2019mogo Aprelya",
+        "28 Aprel",
+        "\u0130yirmi S\u0259kkiz Aprel"
+    ],
     "qs_pg:aaroncc":"AZ",
     "qs_pg:gn_country":"AZ",
     "qs_pg:gn_fcode":"PPL",
@@ -105,7 +124,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":824050,
-        "qs_pg:id":129714
+        "qs_pg:id":129714,
+        "wk:page":"%C4%B0yirmi_S%C9%99kkiz_Aprel"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            586705
+        ]
     },
     "wof:country":"AZ",
     "wof:created":1497293733,
@@ -120,7 +145,7 @@
         }
     ],
     "wof:id":1125858701,
-    "wof:lastmodified":1566604007,
+    "wof:lastmodified":1706239319,
     "wof:name":"Aran",
     "wof:parent_id":85668243,
     "wof:placetype":"locality",
@@ -128,7 +153,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-az",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309842871
+    ],
     "wof:tags":[]
 },
   "bbox": [

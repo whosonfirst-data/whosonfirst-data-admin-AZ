@@ -58,6 +58,11 @@
     "wof:concordances":{
         "gn:id":147194
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            393929
+        ]
+    },
     "wof:country":"AZ",
     "wof:geomhash":"a0c0ef7b0d3ba690b6f31d25a904a611",
     "wof:hierarchy":[
@@ -70,13 +75,15 @@
         }
     ],
     "wof:id":1310613811,
-    "wof:lastmodified":1566603956,
+    "wof:lastmodified":1706239320,
     "wof:name":"Qaradolaq",
     "wof:parent_id":85668519,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-az",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310705083
+    ],
     "wof:tags":[]
 },
   "bbox": [

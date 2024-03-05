@@ -11,6 +11,7 @@
     "geom:longitude":49.15113,
     "gn:admin1_code":"53",
     "gn:asciiname":"Ali-Mammet-Arab",
+    "gn:cc2":"AZ",
     "gn:country_code":"AZ",
     "gn:dem":-1,
     "gn:feature_class":"P",
@@ -37,6 +38,9 @@
     ],
     "name:ceb_x_preferred":[
         "Ali-Mammet-Arab"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0644\u06cc-\u0645\u0627\u0645\u062a-\u0639\u0631\u0628"
     ],
     "name:ita_x_preferred":[
         "Balaca H\u0259my\u0259"
@@ -65,6 +69,14 @@
         "gn:id":587079,
         "wk:page":"Balaca_H%C9%99my%C9%99"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            587297
+        ],
+        "wk:page":[
+            "Ali-Mammet-Arab"
+        ]
+    },
     "wof:country":"AZ",
     "wof:geomhash":"f83187690579abfd873733de27046d6d",
     "wof:hierarchy":[
@@ -77,13 +89,15 @@
         }
     ],
     "wof:id":1293918539,
-    "wof:lastmodified":1566603778,
+    "wof:lastmodified":1706239319,
     "wof:name":"Ali-Mammet-Arab",
     "wof:parent_id":85668425,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-az",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310236343
+    ],
     "wof:tags":[]
 },
   "bbox": [
